@@ -1,0 +1,4779 @@
+[
+ {
+  "id": "2122346366194286644",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:09:39.000Z",
+  "text": "RT @Tibug: Austin reveals how he met Ansem and discovered they had more in common than expected\n\n“I know kids that went to his school, I kn…",
+  "text_flat": "RT @Tibug: Austin reveals how he met Ansem and discovered they had more in common than expected  “I know kids that went to his school, I kn…",
+  "url": "https://x.com/blknoiz06/status/2122346366194286644",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122327779798864365",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1709996978044575744",
+     "start": 3,
+     "username": "Tibug"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39242,
+  "score": 24,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122346572813922720",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:10:28.000Z",
+  "text": "RT @austinoakes: Meeting @blknoiz06 at the FOMO event for the first time, I had a feeling we had some connection.\n\nI couldn't tell what it…",
+  "text_flat": "RT @austinoakes: Meeting @blknoiz06 at the FOMO event for the first time, I had a feeling we had some connection.  I couldn't tell what it…",
+  "url": "https://x.com/blknoiz06/status/2122346572813922720",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122336256411455488",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1913244844916400128",
+     "start": 3,
+     "username": "austinoakes"
+    },
+    {
+     "end": 35,
+     "id": "973261472",
+     "start": 25,
+     "username": "blknoiz06"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 11,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 41602,
+  "score": 33,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122346614660751503",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T15:10:38.000Z",
+  "text": "@austinoakes good meeting you g!",
+  "text_flat": "@austinoakes good meeting you g!",
+  "url": "https://x.com/blknoiz06/status/2122346614660751503",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122336256411455488",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1913244844916400128",
+     "start": 0,
+     "username": "austinoakes"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 80,
+  "retweets": 4,
+  "replies": 48,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 7610,
+  "score": 191,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122351506925953404",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T15:30:05.000Z",
+  "text": "send videos from breakpoint",
+  "text_flat": "send videos from breakpoint",
+  "url": "https://x.com/blknoiz06/status/2122351506925953404",
+  "lang": "en",
+  "conversation_id": "2122351506925953404",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 523,
+  "retweets": 20,
+  "replies": 209,
+  "quotes": 2,
+  "bookmarks": 3,
+  "impressions": 74494,
+  "score": 1010,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122351570415141333",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T15:30:20.000Z",
+  "text": "solana breakpoint best conference in crypto by long shot",
+  "text_flat": "solana breakpoint best conference in crypto by long shot",
+  "url": "https://x.com/blknoiz06/status/2122351570415141333",
+  "lang": "en",
+  "conversation_id": "2122351570415141333",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 1326,
+  "retweets": 80,
+  "replies": 221,
+  "quotes": 15,
+  "bookmarks": 28,
+  "impressions": 97396,
+  "score": 2081,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122352092828639655",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T15:32:24.000Z",
+  "text": "@ChrisyFrmBLOCKS fire",
+  "text_flat": "@ChrisyFrmBLOCKS fire",
+  "url": "https://x.com/blknoiz06/status/2122352092828639655",
+  "lang": "en",
+  "conversation_id": "2122351570415141333",
+  "referenced": [
+   {
+    "id": "2122351963887043001",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1243950087673229312",
+     "start": 0,
+     "username": "ChrisyFrmBLOCKS"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 13,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6479,
+  "score": 23,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122352345610903599",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T15:33:25.000Z",
+  "text": "was fun brother congrats you crushed it 🫡 https://t.co/FTQNtejwye",
+  "text_flat": "was fun brother congrats you crushed it 🫡 https://t.co/FTQNtejwye",
+  "url": "https://x.com/blknoiz06/status/2122352345610903599",
+  "lang": "en",
+  "conversation_id": "2122352345610903599",
+  "referenced": [
+   {
+    "id": "2122351747104452747",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/tbonepoker/sta…",
+     "end": 65,
+     "expanded_url": "https://twitter.com/tbonepoker/status/2122351747104452747",
+     "start": 42,
+     "url": "https://t.co/FTQNtejwye"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 177,
+  "retweets": 9,
+  "replies": 87,
+  "quotes": 2,
+  "bookmarks": 6,
+  "impressions": 59938,
+  "score": 390,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122352424879038963",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:33:44.000Z",
+  "text": "RT @TbonePoker: Guilty confession: I would rather watch @notthreadguy Stock market open streams than CNBC in the morning.\n\nI get a lot of a…",
+  "text_flat": "RT @TbonePoker: Guilty confession: I would rather watch @notthreadguy Stock market open streams than CNBC in the morning.  I get a lot of a…",
+  "url": "https://x.com/blknoiz06/status/2122352424879038963",
+  "lang": "en",
+  "conversation_id": "2122352424879038963",
+  "referenced": [
+   {
+    "id": "2122344214638080481",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "321829521",
+     "start": 3,
+     "username": "TbonePoker"
+    },
+    {
+     "end": 69,
+     "id": "1426732252768182281",
+     "start": 56,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 37774,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122352443929612636",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T15:33:48.000Z",
+  "text": "@TbonePoker @notthreadguy he's good!",
+  "text_flat": "@TbonePoker @notthreadguy he's good!",
+  "url": "https://x.com/blknoiz06/status/2122352443929612636",
+  "lang": "en",
+  "conversation_id": "2122344214638080481",
+  "referenced": [
+   {
+    "id": "2122344214638080481",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "321829521",
+     "start": 0,
+     "username": "TbonePoker"
+    },
+    {
+     "end": 25,
+     "id": "1426732252768182281",
+     "start": 12,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 41,
+  "retweets": 1,
+  "replies": 22,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6746,
+  "score": 88,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122353319196635196",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T15:37:17.000Z",
+  "text": "@frankdegods N",
+  "text_flat": "@frankdegods N",
+  "url": "https://x.com/blknoiz06/status/2122353319196635196",
+  "lang": "und",
+  "conversation_id": "2122350860755948008",
+  "referenced": [
+   {
+    "id": "2122350860755948008",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1441835930889818113",
+     "start": 0,
+     "username": "frankdegods"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 116,
+  "retweets": 1,
+  "replies": 35,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 20896,
+  "score": 189,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122356962855887275",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:51:46.000Z",
+  "text": "RT @austinoakes: @blknoiz06 I gave my phone to a Solana robot 🤖 https://t.co/Se8YmYhmyw",
+  "text_flat": "RT @austinoakes: @blknoiz06 I gave my phone to a Solana robot 🤖 https://t.co/Se8YmYhmyw",
+  "url": "https://x.com/blknoiz06/status/2122356962855887275",
+  "lang": "en",
+  "conversation_id": "2122356962855887275",
+  "referenced": [
+   {
+    "id": "2122356629475823725",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1913244844916400128",
+     "start": 3,
+     "username": "austinoakes"
+    },
+    {
+     "end": 27,
+     "id": "973261472",
+     "start": 17,
+     "username": "blknoiz06"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/Se8YmYhmyw",
+     "end": 87,
+     "expanded_url": "https://x.com/austinoakes/status/2122356629475823725/video/1",
+     "media_key": "13_2122356484235198464",
+     "start": 64,
+     "url": "https://t.co/Se8YmYhmyw"
+    },
+    {
+     "display_url": "pic.x.com/Se8YmYhmyw",
+     "end": 87,
+     "expanded_url": "https://x.com/austinoakes/status/2122356629475823725/video/2",
+     "media_key": "13_2122356484281413632",
+     "start": 64,
+     "url": "https://t.co/Se8YmYhmyw"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38618,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122357117357064663",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:52:22.000Z",
+  "text": "RT @ThePumponomics: pet peeve. some guy posts the s&amp;p chart and goes \"boomers had it so easy, all you had to do was buy in 1980 and you'd b…",
+  "text_flat": "RT @ThePumponomics: pet peeve. some guy posts the s&p chart and goes \"boomers had it so easy, all you had to do was buy in 1980 and you'd b…",
+  "url": "https://x.com/blknoiz06/status/2122357117357064663",
+  "lang": "en",
+  "conversation_id": "2122357117357064663",
+  "referenced": [
+   {
+    "id": "2122352406226755805",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "997108093925449729",
+     "start": 3,
+     "username": "ThePumponomics"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 30,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39424,
+  "score": 90,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122357474510491875",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:53:48.000Z",
+  "text": "RT @moonpay: ladies and gentlemen, the next James Bond! https://t.co/Jdye8kOK1I",
+  "text_flat": "RT @moonpay: ladies and gentlemen, the next James Bond! https://t.co/Jdye8kOK1I",
+  "url": "https://x.com/blknoiz06/status/2122357474510491875",
+  "lang": "en",
+  "conversation_id": "2122357474510491875",
+  "referenced": [
+   {
+    "id": "2122288617343078808",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1024699964071522305",
+     "start": 3,
+     "username": "moonpay"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/Jdye8kOK1I",
+     "end": 79,
+     "expanded_url": "https://x.com/moonpay/status/2122288617343078808/video/1",
+     "media_key": "13_2122288506751909888",
+     "start": 56,
+     "url": "https://t.co/Jdye8kOK1I"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 46,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39979,
+  "score": 138,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122358210904363019",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T15:56:43.000Z",
+  "text": "@BobLoukas feels like crypto topped significantly earlier than equities this cycle, and we will need to see substantial relative strength to prevent further downside if equities weakness continues, btc has never closed two red yearlies back to back and if sub 75k by jan this will be first",
+  "text_flat": "@BobLoukas feels like crypto topped significantly earlier than equities this cycle, and we will need to see substantial relative strength to prevent further downside if equities weakness continues, btc has never closed two red yearlies back to back and if sub 75k by jan this will be first",
+  "url": "https://x.com/blknoiz06/status/2122358210904363019",
+  "lang": "en",
+  "conversation_id": "2122347438551773653",
+  "referenced": [
+   {
+    "id": "2122347438551773653",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "82172203",
+     "start": 0,
+     "username": "BobLoukas"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 171,
+  "retweets": 5,
+  "replies": 22,
+  "quotes": 2,
+  "bookmarks": 21,
+  "impressions": 21456,
+  "score": 257,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122358956609749430",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T15:59:41.000Z",
+  "text": "thank you! https://t.co/GjVode0GST",
+  "text_flat": "thank you! https://t.co/GjVode0GST",
+  "url": "https://x.com/blknoiz06/status/2122358956609749430",
+  "lang": "en",
+  "conversation_id": "2122358956609749430",
+  "referenced": [
+   {
+    "id": "2122356981855834210",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/missiongains/s…",
+     "end": 34,
+     "expanded_url": "https://twitter.com/missiongains/status/2122356981855834210",
+     "start": 11,
+     "url": "https://t.co/GjVode0GST"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 448,
+  "retweets": 16,
+  "replies": 166,
+  "quotes": 2,
+  "bookmarks": 12,
+  "impressions": 80085,
+  "score": 846,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122359047890645370",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:00:03.000Z",
+  "text": "@I4NFTS generational opp inbound",
+  "text_flat": "@I4NFTS generational opp inbound",
+  "url": "https://x.com/blknoiz06/status/2122359047890645370",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122358632209588308",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1445502269387018246",
+     "start": 0,
+     "username": "I4NFTS"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 83,
+  "retweets": 1,
+  "replies": 43,
+  "quotes": 2,
+  "bookmarks": 0,
+  "impressions": 9431,
+  "score": 178,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122359240190751114",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:00:49.000Z",
+  "text": "@socrypt beaut",
+  "text_flat": "@socrypt beaut",
+  "url": "https://x.com/blknoiz06/status/2122359240190751114",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122358678439309627",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "895988562591719424",
+     "start": 0,
+     "username": "socrypt"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 10,
+  "retweets": 1,
+  "replies": 4,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5934,
+  "score": 21,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122360395390452069",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:05:24.000Z",
+  "text": "@icyponds i think so",
+  "text_flat": "@icyponds i think so",
+  "url": "https://x.com/blknoiz06/status/2122360395390452069",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122359567115841722",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1305334747481149443",
+     "start": 0,
+     "username": "icyponds"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 50,
+  "retweets": 0,
+  "replies": 27,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 6901,
+  "score": 105,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122362435659296799",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:13:30.000Z",
+  "text": "@pureglowbotncls you can go verify all the trades if you want that's +200k in 7 days on ~250k of margin i believe",
+  "text_flat": "@pureglowbotncls you can go verify all the trades if you want that's +200k in 7 days on ~250k of margin i believe",
+  "url": "https://x.com/blknoiz06/status/2122362435659296799",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122361575596040354",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1856755679341531136",
+     "start": 0,
+     "username": "pureglowbotncls"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 18,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5905,
+  "score": 38,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122363178105377048",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:16:27.000Z",
+  "text": "@grahamfergs home :(",
+  "text_flat": "@grahamfergs home :(",
+  "url": "https://x.com/blknoiz06/status/2122363178105377048",
+  "lang": "en",
+  "conversation_id": "2122351506925953404",
+  "referenced": [
+   {
+    "id": "2122363033897009517",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "597961064",
+     "start": 0,
+     "username": "grahamfergs"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 17,
+  "retweets": 1,
+  "replies": 15,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 6348,
+  "score": 53,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122363670004953593",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:18:25.000Z",
+  "text": "RT @vibhu: Zelle is one of the world’s largest neobanks, owned by JP Morgan, Wells Fargo, and Bank of America.\n\nThey’re now on Solana.",
+  "text_flat": "RT @vibhu: Zelle is one of the world’s largest neobanks, owned by JP Morgan, Wells Fargo, and Bank of America.  They’re now on Solana.",
+  "url": "https://x.com/blknoiz06/status/2122363670004953593",
+  "lang": "en",
+  "conversation_id": "2122363670004953593",
+  "referenced": [
+   {
+    "id": "2122287753912345023",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "14393567",
+     "start": 3,
+     "username": "vibhu"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 169,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38727,
+  "score": 507,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122363832878202934",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T16:19:04.000Z",
+  "text": "https://t.co/Tx88wJo9tM",
+  "text_flat": "https://t.co/Tx88wJo9tM",
+  "url": "https://x.com/blknoiz06/status/2122363832878202934",
+  "lang": "zxx",
+  "conversation_id": "2122363832878202934",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "description": "Dj Streaks · Greatest Love · Song · 2020",
+     "display_url": "open.spotify.com/track/3E0Kgz8U…",
+     "end": 23,
+     "expanded_url": "https://open.spotify.com/track/3E0Kgz8U9vEY7kZG8rbKS1?si=45dc244db0cf449d",
+     "images": [
+      {
+       "height": 640,
+       "url": "https://pbs.twimg.com/news_img/2122405040929554432/PjN67MwR?format=jpg&name=orig",
+       "width": 640
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2122405040929554432/PjN67MwR?format=jpg&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 0,
+     "status": 406,
+     "title": "Greatest Love",
+     "unwound_url": "https://open.spotify.com/track/3E0Kgz8U9vEY7kZG8rbKS1?si=45dc244db0cf449d",
+     "url": "https://t.co/Tx88wJo9tM"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 167,
+  "retweets": 22,
+  "replies": 105,
+  "quotes": 1,
+  "bookmarks": 17,
+  "impressions": 60990,
+  "score": 463,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122364954049454492",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:23:31.000Z",
+  "text": "RT @Saint10Fourteen: spent an hour last night going through old $ANSEM posts from june, july and august, and lemme just say… this dip made…",
+  "text_flat": "RT @Saint10Fourteen: spent an hour last night going through old $ANSEM posts from june, july and august, and lemme just say… this dip made…",
+  "url": "https://x.com/blknoiz06/status/2122364954049454492",
+  "lang": "en",
+  "conversation_id": "2122364954049454492",
+  "referenced": [
+   {
+    "id": "2122364502981120014",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 70,
+     "start": 64,
+     "tag": "ANSEM"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1531259886604017666",
+     "start": 3,
+     "username": "Saint10Fourteen"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 44,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38495,
+  "score": 132,
+  "cashtags": [
+   "ANSEM"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122365079773716637",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T16:24:01.000Z",
+  "text": "if you've never traded assets that have 100x'd in a few months, once they pullback 70% or so, they tend to lack volatility for awhile, believe that is what's going to happen with memory stocks and the ai bottleneck names\n\nit's kind of like a refractory period",
+  "text_flat": "if you've never traded assets that have 100x'd in a few months, once they pullback 70% or so, they tend to lack volatility for awhile, believe that is what's going to happen with memory stocks and the ai bottleneck names  it's kind of like a refractory period",
+  "url": "https://x.com/blknoiz06/status/2122365079773716637",
+  "lang": "en",
+  "conversation_id": "2122365079773716637",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 1032,
+  "retweets": 48,
+  "replies": 220,
+  "quotes": 14,
+  "bookmarks": 85,
+  "impressions": 119978,
+  "score": 1743,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122369634259050894",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:42:07.000Z",
+  "text": "RT @chucKing_: if your market analyst is not using phrases like \"refractory period\" then you obviously need a new analyst",
+  "text_flat": "RT @chucKing_: if your market analyst is not using phrases like \"refractory period\" then you obviously need a new analyst",
+  "url": "https://x.com/blknoiz06/status/2122369634259050894",
+  "lang": "en",
+  "conversation_id": "2122369634259050894",
+  "referenced": [
+   {
+    "id": "2122368712502317367",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1652240323",
+     "start": 3,
+     "username": "chucKing_"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 41317,
+  "score": 45,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122370040687136884",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T16:43:44.000Z",
+  "text": "@NimbusVibe https://t.co/AhKfWuYny2",
+  "text_flat": "@NimbusVibe https://t.co/AhKfWuYny2",
+  "url": "https://x.com/blknoiz06/status/2122370040687136884",
+  "lang": "qme",
+  "conversation_id": "2122365079773716637",
+  "referenced": [
+   {
+    "id": "2122366125916684556",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1801826690777092097",
+     "start": 0,
+     "username": "NimbusVibe"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/AhKfWuYny2",
+     "end": 35,
+     "expanded_url": "https://x.com/blknoiz06/status/2122370040687136884/photo/1",
+     "media_key": "3_2122370023901552640",
+     "start": 12,
+     "url": "https://t.co/AhKfWuYny2"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 24,
+  "retweets": 1,
+  "replies": 9,
+  "quotes": 0,
+  "bookmarks": 5,
+  "impressions": 8540,
+  "score": 50,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122370496637341868",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:45:32.000Z",
+  "text": "RT @CapitalMonet: 80% chance that eventual Q-Day results in white-hats, not black-hats, taking control of untouched BTC",
+  "text_flat": "RT @CapitalMonet: 80% chance that eventual Q-Day results in white-hats, not black-hats, taking control of untouched BTC",
+  "url": "https://x.com/blknoiz06/status/2122370496637341868",
+  "lang": "en",
+  "conversation_id": "2122370496637341868",
+  "referenced": [
+   {
+    "id": "2122367523337478184",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1361619573380943872",
+     "start": 3,
+     "username": "CapitalMonet"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39503,
+  "score": 18,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122370736769917116",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:46:30.000Z",
+  "text": "RT @ThinkingUSD: Let me know thoughts and if people want me to open source this, pretty easy to build yourself took about 2 days. Full real…",
+  "text_flat": "RT @ThinkingUSD: Let me know thoughts and if people want me to open source this, pretty easy to build yourself took about 2 days. Full real…",
+  "url": "https://x.com/blknoiz06/status/2122370736769917116",
+  "lang": "en",
+  "conversation_id": "2122370736769917116",
+  "referenced": [
+   {
+    "id": "2122370233864184016",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "809191427645181952",
+     "start": 3,
+     "username": "ThinkingUSD"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 54,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39408,
+  "score": 162,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122372379464577452",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:53:01.000Z",
+  "text": "RT @phantom: @blknoiz06 https://t.co/TzFOLcmTjk",
+  "text_flat": "RT @phantom: @blknoiz06 https://t.co/TzFOLcmTjk",
+  "url": "https://x.com/blknoiz06/status/2122372379464577452",
+  "lang": "qme",
+  "conversation_id": "2122372379464577452",
+  "referenced": [
+   {
+    "id": "2122372209486545198",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1379053041995890695",
+     "start": 3,
+     "username": "phantom"
+    },
+    {
+     "end": 23,
+     "id": "973261472",
+     "start": 13,
+     "username": "blknoiz06"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/TzFOLcmTjk",
+     "end": 47,
+     "expanded_url": "https://x.com/phantom/status/2122372209486545198/video/1",
+     "media_key": "13_2122372151001174016",
+     "start": 24,
+     "url": "https://t.co/TzFOLcmTjk"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38197,
+  "score": 21,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122373410290348095",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:57:07.000Z",
+  "text": "RT @DegenQing: The first run brought the attention. What comes next is what makes the story interesting.\n\nWatch. $ANSEM https://t.co/r0jYLg…",
+  "text_flat": "RT @DegenQing: The first run brought the attention. What comes next is what makes the story interesting.  Watch. $ANSEM https://t.co/r0jYLg…",
+  "url": "https://x.com/blknoiz06/status/2122373410290348095",
+  "lang": "en",
+  "conversation_id": "2122373410290348095",
+  "referenced": [
+   {
+    "id": "2122366668135707086",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 119,
+     "start": 113,
+     "tag": "ANSEM"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1491754539833335811",
+     "start": 3,
+     "username": "DegenQing"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "t.co/r0jYLg",
+     "end": 139,
+     "start": 120,
+     "url": "https://t.co/r0jYLg"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 16,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 41335,
+  "score": 48,
+  "cashtags": [
+   "ANSEM"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122374620406063511",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T17:01:55.000Z",
+  "text": "RT @DeriveXYZ: $NVDA options and perps are live on Derive.\n\nJust in time for earnings. https://t.co/djfmOyoDZP",
+  "text_flat": "RT @DeriveXYZ: $NVDA options and perps are live on Derive.  Just in time for earnings. https://t.co/djfmOyoDZP",
+  "url": "https://x.com/blknoiz06/status/2122374620406063511",
+  "lang": "en",
+  "conversation_id": "2122374620406063511",
+  "referenced": [
+   {
+    "id": "2122344862402187413",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 20,
+     "start": 15,
+     "tag": "NVDA"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1361564569269800960",
+     "start": 3,
+     "username": "DeriveXYZ"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/djfmOyoDZP",
+     "end": 110,
+     "expanded_url": "https://x.com/DeriveXYZ/status/2122344862402187413/photo/1",
+     "media_key": "3_2122344859780726784",
+     "start": 87,
+     "url": "https://t.co/djfmOyoDZP"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 37,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40290,
+  "score": 111,
+  "cashtags": [
+   "NVDA"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122374637078401387",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:01:59.000Z",
+  "text": "@DeriveXYZ damn nice",
+  "text_flat": "@DeriveXYZ damn nice",
+  "url": "https://x.com/blknoiz06/status/2122374637078401387",
+  "lang": "en",
+  "conversation_id": "2122344862402187413",
+  "referenced": [
+   {
+    "id": "2122344862402187413",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1361564569269800960",
+     "start": 0,
+     "username": "DeriveXYZ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 60,
+  "retweets": 2,
+  "replies": 42,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 7631,
+  "score": 152,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122376125472977388",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T17:07:54.000Z",
+  "text": "RT @based16z: TradingView be like let’s destroy the entire mobile app",
+  "text_flat": "RT @based16z: TradingView be like let’s destroy the entire mobile app",
+  "url": "https://x.com/blknoiz06/status/2122376125472977388",
+  "lang": "en",
+  "conversation_id": "2122376125472977388",
+  "referenced": [
+   {
+    "id": "2122372973076373854",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1446541960181858315",
+     "start": 3,
+     "username": "based16z"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 33,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38968,
+  "score": 99,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122376173770666085",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:08:06.000Z",
+  "text": "@ezcontra yea feels like its gonna chop ppl up",
+  "text_flat": "@ezcontra yea feels like its gonna chop ppl up",
+  "url": "https://x.com/blknoiz06/status/2122376173770666085",
+  "lang": "en",
+  "conversation_id": "2122373864697024929",
+  "referenced": [
+   {
+    "id": "2122373864697024929",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1108741388953403392",
+     "start": 0,
+     "username": "ezcontra"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 36,
+  "retweets": 1,
+  "replies": 34,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 7205,
+  "score": 108,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122377042985373918",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:11:33.000Z",
+  "text": "@unclecoco @SMtrades_ i think it would be pretty funny if you could lose money for bad callouts lol",
+  "text_flat": "@unclecoco @SMtrades_ i think it would be pretty funny if you could lose money for bad callouts lol",
+  "url": "https://x.com/blknoiz06/status/2122377042985373918",
+  "lang": "en",
+  "conversation_id": "2122069802135208143",
+  "referenced": [
+   {
+    "id": "2122130163970511240",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "623346638",
+     "start": 0,
+     "username": "unclecoco"
+    },
+    {
+     "end": 21,
+     "id": "938890001420611585",
+     "start": 11,
+     "username": "SMtrades_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 17,
+  "retweets": 1,
+  "replies": 8,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 5677,
+  "score": 39,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122377247726477526",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:12:22.000Z",
+  "text": "@iruletrenches tickers?",
+  "text_flat": "@iruletrenches tickers?",
+  "url": "https://x.com/blknoiz06/status/2122377247726477526",
+  "lang": "en",
+  "conversation_id": "2122376242041159950",
+  "referenced": [
+   {
+    "id": "2122376242041159950",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "700750004143566848",
+     "start": 0,
+     "username": "iruletrenches"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 371,
+  "retweets": 19,
+  "replies": 663,
+  "quotes": 18,
+  "bookmarks": 20,
+  "impressions": 41595,
+  "score": 1828,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122377345357304275",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:12:45.000Z",
+  "text": "@rodeo_crypro 1.3T now!",
+  "text_flat": "@rodeo_crypro 1.3T now!",
+  "url": "https://x.com/blknoiz06/status/2122377345357304275",
+  "lang": "en",
+  "conversation_id": "2122376804824694903",
+  "referenced": [
+   {
+    "id": "2122376804824694903",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1380123157663784963",
+     "start": 0,
+     "username": "rodeo_crypro"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 37,
+  "retweets": 1,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8894,
+  "score": 72,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122377955636912220",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:15:11.000Z",
+  "text": "@CryptoCurb bio/pharma",
+  "text_flat": "@CryptoCurb bio/pharma",
+  "url": "https://x.com/blknoiz06/status/2122377955636912220",
+  "lang": "und",
+  "conversation_id": "2122365079773716637",
+  "referenced": [
+   {
+    "id": "2122375709268312448",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "878275753842008064",
+     "start": 0,
+     "username": "CryptoCurb"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 44,
+  "retweets": 3,
+  "replies": 22,
+  "quotes": 1,
+  "bookmarks": 11,
+  "impressions": 9376,
+  "score": 111,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122379281971995072",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T17:20:27.000Z",
+  "text": "my mentions every day now solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/qGImvoepoZ",
+  "text_flat": "my mentions every day now solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/qGImvoepoZ",
+  "url": "https://x.com/blknoiz06/status/2122379281971995072",
+  "lang": "en",
+  "conversation_id": "2122379281971995072",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/qGImvoepoZ",
+     "end": 101,
+     "expanded_url": "https://x.com/blknoiz06/status/2122379281971995072/photo/1",
+     "media_key": "3_2122379278310342656",
+     "start": 78,
+     "url": "https://t.co/qGImvoepoZ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 727,
+  "retweets": 144,
+  "replies": 238,
+  "quotes": 8,
+  "bookmarks": 14,
+  "impressions": 65542,
+  "score": 1673,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122379701322719617",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T17:22:07.000Z",
+  "text": "RT @_imagyn: 74 hours until we all get a new girlfriend https://t.co/QjeLuXsTAT",
+  "text_flat": "RT @_imagyn: 74 hours until we all get a new girlfriend https://t.co/QjeLuXsTAT",
+  "url": "https://x.com/blknoiz06/status/2122379701322719617",
+  "lang": "en",
+  "conversation_id": "2122379701322719617",
+  "referenced": [
+   {
+    "id": "2122166594566521320",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1482977874386853891",
+     "start": 3,
+     "username": "_imagyn"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/QjeLuXsTAT",
+     "end": 79,
+     "expanded_url": "https://x.com/_imagyn/status/2122166594566521320/photo/1",
+     "media_key": "3_2122166581698461696",
+     "start": 56,
+     "url": "https://t.co/QjeLuXsTAT"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 17,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38776,
+  "score": 51,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122379819669406197",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:22:35.000Z",
+  "text": "@notwashed bouta join tg's team",
+  "text_flat": "@notwashed bouta join tg's team",
+  "url": "https://x.com/blknoiz06/status/2122379819669406197",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122378948818743488",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "911742261926412289",
+     "start": 0,
+     "username": "notwashed"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 17,
+  "retweets": 1,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5908,
+  "score": 40,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122380293021872357",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T17:24:28.000Z",
+  "text": "RT @whalewatchalert: A ANSEM whale just bought $5.72K of $ANSEM at $47.67M MC 🐳",
+  "text_flat": "RT @whalewatchalert: A ANSEM whale just bought $5.72K of $ANSEM at $47.67M MC 🐳",
+  "url": "https://x.com/blknoiz06/status/2122380293021872357",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122349626522992886",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1854960382097735681",
+     "start": 3,
+     "username": "whalewatchalert"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38055,
+  "score": 30,
+  "cashtags": [
+   "ANSEM"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122380365943972088",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:24:45.000Z",
+  "text": "@nytaraa half?",
+  "text_flat": "@nytaraa half?",
+  "url": "https://x.com/blknoiz06/status/2122380365943972088",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122172501778112691",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1871982392421822464",
+     "start": 0,
+     "username": "nytaraa"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 41,
+  "retweets": 3,
+  "replies": 29,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6619,
+  "score": 108,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122381204640997449",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:28:05.000Z",
+  "text": "@BetMoreRetard @BobLoukas the alternative is that it was a bear market rally and bottom isnt in",
+  "text_flat": "@BetMoreRetard @BobLoukas the alternative is that it was a bear market rally and bottom isnt in",
+  "url": "https://x.com/blknoiz06/status/2122381204640997449",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122379489682362392",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1685480428222717952",
+     "start": 0,
+     "username": "BetMoreRetard"
+    },
+    {
+     "end": 25,
+     "id": "82172203",
+     "start": 15,
+     "username": "BobLoukas"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 15,
+  "retweets": 0,
+  "replies": 11,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5799,
+  "score": 37,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122384036282949841",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T17:39:20.000Z",
+  "text": "RT @Saint10Fourteen: the $ANSEM community is doing one hell of a job carrying this coin.\n\nsince ansem stepped back from bullposting, we’ve…",
+  "text_flat": "RT @Saint10Fourteen: the $ANSEM community is doing one hell of a job carrying this coin.  since ansem stepped back from bullposting, we’ve…",
+  "url": "https://x.com/blknoiz06/status/2122384036282949841",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122383860432318464",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1531259886604017666",
+     "start": 3,
+     "username": "Saint10Fourteen"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 28,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40351,
+  "score": 84,
+  "cashtags": [
+   "ANSEM"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122384955418243075",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:43:00.000Z",
+  "text": "@notwashed so true",
+  "text_flat": "@notwashed so true",
+  "url": "https://x.com/blknoiz06/status/2122384955418243075",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122384198547968129",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "911742261926412289",
+     "start": 0,
+     "username": "notwashed"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 13,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5645,
+  "score": 17,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122385283870232633",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:44:18.000Z",
+  "text": "@notthreadguy https://t.co/RVUOKWODUg",
+  "text_flat": "@notthreadguy https://t.co/RVUOKWODUg",
+  "url": "https://x.com/blknoiz06/status/2122385283870232633",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122372014875005263",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1426732252768182281",
+     "start": 0,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 31,
+  "retweets": 0,
+  "replies": 19,
+  "quotes": 2,
+  "bookmarks": 1,
+  "impressions": 7618,
+  "score": 76,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122385993588216273",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T17:47:07.000Z",
+  "text": "@_Cats_96 @notthreadguy tues after hours",
+  "text_flat": "@_Cats_96 @notthreadguy tues after hours",
+  "url": "https://x.com/blknoiz06/status/2122385993588216273",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122385505052725468",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1129421080236572673",
+     "start": 0,
+     "username": "_Cats_96"
+    },
+    {
+     "end": 23,
+     "id": "1426732252768182281",
+     "start": 10,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 13,
+  "retweets": 0,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5855,
+  "score": 29,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122388140942119199",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T17:55:39.000Z",
+  "text": "back on October 29, i was already concerned about how rapidly advancing AI models could affect security across crypto\n\nas LLMs become more capable and widely accessible, vulnerabilities that were previously difficult to exploit could become much easier to target\n\nthe biggest https://t.co/gpcVIRk3e1",
+  "text_flat": "back on October 29, i was already concerned about how rapidly advancing AI models could affect security across crypto  as LLMs become more capable and widely accessible, vulnerabilities that were previously difficult to exploit could become much easier to target  the biggest https://t.co/gpcVIRk3e1",
+  "url": "https://x.com/blknoiz06/status/2122388140942119199",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 394,
+  "retweets": 22,
+  "replies": 186,
+  "quotes": 11,
+  "bookmarks": 30,
+  "impressions": 109314,
+  "score": 895,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122392745478131895",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:13:57.000Z",
+  "text": "RT @SuckaFreeNickxx: If we ain’t careful this nih Pattinson gone play Malcolm x next",
+  "text_flat": "RT @SuckaFreeNickxx: If we ain’t careful this nih Pattinson gone play Malcolm x next",
+  "url": "https://x.com/blknoiz06/status/2122392745478131895",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122354363247263863",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1533203602373763074",
+     "start": 3,
+     "username": "SuckaFreeNickxx"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8520,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 41266,
+  "score": 25560,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122399727270691215",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T18:41:41.000Z",
+  "text": "@bigbagsbobby ticker?",
+  "text_flat": "@bigbagsbobby ticker?",
+  "url": "https://x.com/blknoiz06/status/2122399727270691215",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122368886821822763",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1788351153069076480",
+     "start": 0,
+     "username": "bigbagsbobby"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 252,
+  "retweets": 8,
+  "replies": 317,
+  "quotes": 28,
+  "bookmarks": 7,
+  "impressions": 127348,
+  "score": 1001,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122399798645198990",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T18:41:58.000Z",
+  "text": "@CastilloTrading theyve been taking turns its pretty fucked tbh",
+  "text_flat": "@CastilloTrading theyve been taking turns its pretty fucked tbh",
+  "url": "https://x.com/blknoiz06/status/2122399798645198990",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122397286336790542",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "769721685645795329",
+     "start": 0,
+     "username": "CastilloTrading"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 39,
+  "retweets": 0,
+  "replies": 21,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 8497,
+  "score": 82,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122399944569221448",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:42:33.000Z",
+  "text": "RT @umar_xbt: Threadguy admits months of emotional trading hurt his portfolio but still believes in Bitcoin and Zcash\n\n“I’ve been trading e…",
+  "text_flat": "RT @umar_xbt: Threadguy admits months of emotional trading hurt his portfolio but still believes in Bitcoin and Zcash  “I’ve been trading e…",
+  "url": "https://x.com/blknoiz06/status/2122399944569221448",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122398042712162413",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "15129461",
+     "start": 3,
+     "username": "umar_xbt"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40399,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122400453434483045",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T18:44:35.000Z",
+  "text": "@iruletrenches https://t.co/8Aimz0BCMO",
+  "text_flat": "@iruletrenches https://t.co/8Aimz0BCMO",
+  "url": "https://x.com/blknoiz06/status/2122400453434483045",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122399455597023708",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "700750004143566848",
+     "start": 0,
+     "username": "iruletrenches"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 226,
+  "retweets": 45,
+  "replies": 77,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 4218,
+  "score": 517,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122400757626372265",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T18:45:47.000Z",
+  "text": "@buyerofponzi i wanna be cool like you when i grow up",
+  "text_flat": "@buyerofponzi i wanna be cool like you when i grow up",
+  "url": "https://x.com/blknoiz06/status/2122400757626372265",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122399193113457150",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1510601058",
+     "start": 0,
+     "username": "buyerofponzi"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 74,
+  "retweets": 2,
+  "replies": 44,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8522,
+  "score": 168,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122401829464256925",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:50:03.000Z",
+  "text": "RT @kdotbulk: If you complain about users wasting money on fees via wallet providers while also having no app to compete with them, you are…",
+  "text_flat": "RT @kdotbulk: If you complain about users wasting money on fees via wallet providers while also having no app to compete with them, you are…",
+  "url": "https://x.com/blknoiz06/status/2122401829464256925",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122400578349240428",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1398208028",
+     "start": 3,
+     "username": "kdotbulk"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40832,
+  "score": 21,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122406507040116962",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T19:08:38.000Z",
+  "text": "https://t.co/8GPiCRk6Fg",
+  "text_flat": "https://t.co/8GPiCRk6Fg",
+  "url": "https://x.com/blknoiz06/status/2122406507040116962",
+  "lang": "zxx",
+  "conversation_id": "2122406507040116962",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "description": "Anderson .Paak, Cordae · Heavy Is The Crown · Song · 2026",
+     "display_url": "open.spotify.com/track/6JmnRLQd…",
+     "end": 23,
+     "expanded_url": "https://open.spotify.com/track/6JmnRLQdn4wJWCJcoaHuYQ?si=Zu7aeZWfRjedM-blT9Bk-Q&utm_source=copy-link",
+     "images": [
+      {
+       "height": 640,
+       "url": "https://pbs.twimg.com/news_img/2122406510475259904/Iig6N41Q?format=jpg&name=orig",
+       "width": 640
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2122406510475259904/Iig6N41Q?format=jpg&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 0,
+     "status": 200,
+     "title": "Karma Tax",
+     "unwound_url": "https://open.spotify.com/track/6JmnRLQdn4wJWCJcoaHuYQ?si=Zu7aeZWfRjedM-blT9Bk-Q&utm_source=copy-link",
+     "url": "https://t.co/8GPiCRk6Fg"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 192,
+  "retweets": 8,
+  "replies": 128,
+  "quotes": 2,
+  "bookmarks": 2,
+  "impressions": 62285,
+  "score": 480,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122406925522682282",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T19:10:18.000Z",
+  "text": "@greenytrades ? https://t.co/JGa9WPoiDi",
+  "text_flat": "@greenytrades ? https://t.co/JGa9WPoiDi",
+  "url": "https://x.com/blknoiz06/status/2122406925522682282",
+  "lang": "qam",
+  "conversation_id": "2122252617724436643",
+  "referenced": [
+   {
+    "id": "2121592402234548448",
+    "type": "quoted"
+   },
+   {
+    "id": "2122252617724436643",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "994404102",
+     "start": 0,
+     "username": "greenytrades"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "x.com/blknoiz06/stat…",
+     "end": 39,
+     "expanded_url": "https://twitter.com/blknoiz06/status/2121592402234548448",
+     "start": 16,
+     "url": "https://t.co/JGa9WPoiDi"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 46,
+  "retweets": 1,
+  "replies": 33,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 8981,
+  "score": 116,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122408155623608354",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T19:15:11.000Z",
+  "text": "@remp0x @greenytrades bro farming clicks 😂",
+  "text_flat": "@remp0x @greenytrades bro farming clicks 😂",
+  "url": "https://x.com/blknoiz06/status/2122408155623608354",
+  "lang": "en",
+  "conversation_id": "2122252617724436643",
+  "referenced": [
+   {
+    "id": "2122407966666113527",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1657838981294301187",
+     "start": 0,
+     "username": "remp0x"
+    },
+    {
+     "end": 21,
+     "id": "994404102",
+     "start": 8,
+     "username": "greenytrades"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 26,
+  "retweets": 1,
+  "replies": 23,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5706,
+  "score": 75,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122408202134274126",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:15:22.000Z",
+  "text": "RT @ThinkingUSD: How lucky are we to have this volatility with NVDA earnings, FED minutes and ANT IPO in the same week",
+  "text_flat": "RT @ThinkingUSD: How lucky are we to have this volatility with NVDA earnings, FED minutes and ANT IPO in the same week",
+  "url": "https://x.com/blknoiz06/status/2122408202134274126",
+  "lang": "en",
+  "conversation_id": "2122408202134274126",
+  "referenced": [
+   {
+    "id": "2122406539021439441",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "809191427645181952",
+     "start": 3,
+     "username": "ThinkingUSD"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 21,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 38385,
+  "score": 63,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122409322571342226",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T19:19:49.000Z",
+  "text": "@clementetv_ use the app and you will see it is very good, everybody is paid to use it thats why the callout rewards exist",
+  "text_flat": "@clementetv_ use the app and you will see it is very good, everybody is paid to use it thats why the callout rewards exist",
+  "url": "https://x.com/blknoiz06/status/2122409322571342226",
+  "lang": "en",
+  "conversation_id": "2122406366643949653",
+  "referenced": [
+   {
+    "id": "2122406366643949653",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1456142714756468738",
+     "start": 0,
+     "username": "clementetv_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 52,
+  "retweets": 1,
+  "replies": 34,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 7924,
+  "score": 123,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122411735017812021",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T19:29:24.000Z",
+  "text": "@notwashed good post",
+  "text_flat": "@notwashed good post",
+  "url": "https://x.com/blknoiz06/status/2122411735017812021",
+  "lang": "en",
+  "conversation_id": "2119936220478529725",
+  "referenced": [
+   {
+    "id": "2119936220478529725",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "911742261926412289",
+     "start": 0,
+     "username": "notwashed"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 25,
+  "retweets": 0,
+  "replies": 15,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 7102,
+  "score": 56,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122412411558707578",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T19:32:06.000Z",
+  "text": "@notwashed we are in the middle of the trough of disillusionment, the good part about this is once tourists leave the game becomes much more interesting again, and the fundamentalists building in crypto havent ever left, im in tulip king's camp that theres still 1000x opps to capture the",
+  "text_flat": "@notwashed we are in the middle of the trough of disillusionment, the good part about this is once tourists leave the game becomes much more interesting again, and the fundamentalists building in crypto havent ever left, im in tulip king's camp that theres still 1000x opps to capture the",
+  "url": "https://x.com/blknoiz06/status/2122412411558707578",
+  "lang": "en",
+  "conversation_id": "2119936220478529725",
+  "referenced": [
+   {
+    "id": "2122411735017812021",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "911742261926412289",
+     "start": 0,
+     "username": "notwashed"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 38,
+  "retweets": 1,
+  "replies": 19,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 7159,
+  "score": 81,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122418872317788619",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:57:46.000Z",
+  "text": "RT @TheShortBear: This last leg imo has less to do with $NVDA and the resignation and more about a tougher stance towards China leading to…",
+  "text_flat": "RT @TheShortBear: This last leg imo has less to do with $NVDA and the resignation and more about a tougher stance towards China leading to…",
+  "url": "https://x.com/blknoiz06/status/2122418872317788619",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122415691152449541",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "3229256723",
+     "start": 3,
+     "username": "TheShortBear"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40226,
+  "score": 42,
+  "cashtags": [
+   "NVDA"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122420931587166677",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T20:05:57.000Z",
+  "text": "RT @miragemunny: starting to feel like the negative, pessimistic vibes have bottomed out and the insufferable urchins have exhausted themse…",
+  "text_flat": "RT @miragemunny: starting to feel like the negative, pessimistic vibes have bottomed out and the insufferable urchins have exhausted themse…",
+  "url": "https://x.com/blknoiz06/status/2122420931587166677",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122420247760425309",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1369496294268366849",
+     "start": 3,
+     "username": "miragemunny"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 17,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 41047,
+  "score": 51,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122431632430797104",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T20:48:28.000Z",
+  "text": "@ThinkingUSD my only bullrope left is that this was the exact same setup when i bought in the summer https://t.co/wh9VwtBX3J",
+  "text_flat": "@ThinkingUSD my only bullrope left is that this was the exact same setup when i bought in the summer https://t.co/wh9VwtBX3J",
+  "url": "https://x.com/blknoiz06/status/2122431632430797104",
+  "lang": "en",
+  "conversation_id": "2122347916694044881",
+  "referenced": [
+   {
+    "id": "2122347916694044881",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "809191427645181952",
+     "start": 0,
+     "username": "ThinkingUSD"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/wh9VwtBX3J",
+     "end": 124,
+     "expanded_url": "https://x.com/blknoiz06/status/2122431632430797104/photo/1",
+     "media_key": "3_2122431622809104384",
+     "start": 101,
+     "url": "https://t.co/wh9VwtBX3J"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 96,
+  "retweets": 0,
+  "replies": 37,
+  "quotes": 1,
+  "bookmarks": 3,
+  "impressions": 27930,
+  "score": 176,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122432235907236242",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T20:50:52.000Z",
+  "text": "@ThinkingUSD pico top / pico bottom https://t.co/eXlDldggnT",
+  "text_flat": "@ThinkingUSD pico top / pico bottom https://t.co/eXlDldggnT",
+  "url": "https://x.com/blknoiz06/status/2122432235907236242",
+  "lang": "en",
+  "conversation_id": "2122347916694044881",
+  "referenced": [
+   {
+    "id": "2069766422620733585",
+    "type": "quoted"
+   },
+   {
+    "id": "2122431632430797104",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "809191427645181952",
+     "start": 0,
+     "username": "ThinkingUSD"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "x.com/blknoiz06/stat…",
+     "end": 59,
+     "expanded_url": "https://x.com/blknoiz06/status/2069766422620733585?a=Az3t-zRnKq0sjzF3Wh4&s=20",
+     "start": 36,
+     "url": "https://t.co/eXlDldggnT"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 32,
+  "retweets": 1,
+  "replies": 14,
+  "quotes": 0,
+  "bookmarks": 3,
+  "impressions": 12481,
+  "score": 66,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122432550333276360",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T20:52:07.000Z",
+  "text": "@snoxy77 i told you guys if you posted callouts on the app i would tail, i got his notification and bought right after it popped up on my phone",
+  "text_flat": "@snoxy77 i told you guys if you posted callouts on the app i would tail, i got his notification and bought right after it popped up on my phone",
+  "url": "https://x.com/blknoiz06/status/2122432550333276360",
+  "lang": "en",
+  "conversation_id": "2122406641656291813",
+  "referenced": [
+   {
+    "id": "2122406641656291813",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1858134145899065344",
+     "start": 0,
+     "username": "snoxy77"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 223,
+  "retweets": 6,
+  "replies": 107,
+  "quotes": 7,
+  "bookmarks": 5,
+  "impressions": 21471,
+  "score": 481,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122432887618507025",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T20:53:27.000Z",
+  "text": "it seems we are here again, memory and equities are much lower while bitcoin is same price, i am less confident in the divergence this time\n\nwhat do you all think https://t.co/AbilIeFk7V",
+  "text_flat": "it seems we are here again, memory and equities are much lower while bitcoin is same price, i am less confident in the divergence this time  what do you all think https://t.co/AbilIeFk7V",
+  "url": "https://x.com/blknoiz06/status/2122432887618507025",
+  "lang": "en",
+  "conversation_id": "2122432887618507025",
+  "referenced": [
+   {
+    "id": "2069766422620733585",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/blknoiz06/stat…",
+     "end": 186,
+     "expanded_url": "https://twitter.com/blknoiz06/status/2069766422620733585",
+     "start": 163,
+     "url": "https://t.co/AbilIeFk7V"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 384,
+  "retweets": 11,
+  "replies": 206,
+  "quotes": 4,
+  "bookmarks": 21,
+  "impressions": 79033,
+  "score": 862,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122433706929647850",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T20:56:43.000Z",
+  "text": "@RuneCrypto_ the entirety of crypto twitter is built around people trading and sharing what they are trading, everyone is raiding \"KOL\"s nonstop to talk about their coins\n\nbut when it is is natively built into the app with coins &amp; stocks everyone is trading anyway &amp; everyone who generates",
+  "text_flat": "@RuneCrypto_ the entirety of crypto twitter is built around people trading and sharing what they are trading, everyone is raiding \"KOL\"s nonstop to talk about their coins  but when it is is natively built into the app with coins & stocks everyone is trading anyway & everyone who generates",
+  "url": "https://x.com/blknoiz06/status/2122433706929647850",
+  "lang": "en",
+  "conversation_id": "2122404529605840923",
+  "referenced": [
+   {
+    "id": "2122404529605840923",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1556788003779010560",
+     "start": 0,
+     "username": "RuneCrypto_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 43,
+  "retweets": 1,
+  "replies": 31,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 8773,
+  "score": 111,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122434279296880872",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T20:58:59.000Z",
+  "text": "@RAP3MEFR @snoxy77 correct",
+  "text_flat": "@RAP3MEFR @snoxy77 correct",
+  "url": "https://x.com/blknoiz06/status/2122434279296880872",
+  "lang": "en",
+  "conversation_id": "2122406641656291813",
+  "referenced": [
+   {
+    "id": "2122433622569521156",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "2010894840809340930",
+     "start": 0,
+     "username": "RAP3MEFR"
+    },
+    {
+     "end": 18,
+     "id": "1858134145899065344",
+     "start": 10,
+     "username": "snoxy77"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 32,
+  "retweets": 1,
+  "replies": 15,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6507,
+  "score": 65,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435059609157666",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T21:02:05.000Z",
+  "text": "@NoMoreWoke_ @RuneCrypto_ you are either not paying attention or not using the app https://t.co/z1LEI2Q9Tx",
+  "text_flat": "@NoMoreWoke_ @RuneCrypto_ you are either not paying attention or not using the app https://t.co/z1LEI2Q9Tx",
+  "url": "https://x.com/blknoiz06/status/2122435059609157666",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2119193094382026947",
+    "type": "quoted"
+   },
+   {
+    "id": "2122434073931165967",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1914213423396900864",
+     "start": 0,
+     "username": "NoMoreWoke_"
+    },
+    {
+     "end": 25,
+     "id": "1556788003779010560",
+     "start": 13,
+     "username": "RuneCrypto_"
+    }
+   ],
+   "urls": [
+    {
+     "end": 106,
+     "start": 83,
+     "url": "https://t.co/z1LEI2Q9Tx"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 18,
+  "retweets": 0,
+  "replies": 17,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5735,
+  "score": 52,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435280561193368",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:02:58.000Z",
+  "text": "@CryptoCurb @ThinkingUSD yea sofar",
+  "text_flat": "@CryptoCurb @ThinkingUSD yea sofar",
+  "url": "https://x.com/blknoiz06/status/2122435280561193368",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122432342148981037",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "878275753842008064",
+     "start": 0,
+     "username": "CryptoCurb"
+    },
+    {
+     "end": 24,
+     "id": "809191427645181952",
+     "start": 12,
+     "username": "ThinkingUSD"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 19,
+  "retweets": 0,
+  "replies": 12,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6246,
+  "score": 43,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435844724166831",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:05:12.000Z",
+  "text": "RT @KukiTheFreak: Do You Get It Anon? \nCome Join Us\n$mihao https://t.co/IFM2gtU45o",
+  "text_flat": "RT @KukiTheFreak: Do You Get It Anon?  Come Join Us $mihao https://t.co/IFM2gtU45o",
+  "url": "https://x.com/blknoiz06/status/2122435844724166831",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122407410652360995",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1886503467633508352",
+     "start": 3,
+     "username": "KukiTheFreak"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 31,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40628,
+  "score": 93,
+  "cashtags": [
+   "MIHAO"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122441407545716737",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:27:19.000Z",
+  "text": "RT @RAP3MEFR: solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump shillz campaign is free money https://t.co/N8UD7R2V9j",
+  "text_flat": "RT @RAP3MEFR: solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump shillz campaign is free money https://t.co/N8UD7R2V9j",
+  "url": "https://x.com/blknoiz06/status/2122441407545716737",
+  "lang": "en",
+  "conversation_id": "2122441407545716737",
+  "referenced": [
+   {
+    "id": "2122431338276167754",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "2010894840809340930",
+     "start": 3,
+     "username": "RAP3MEFR"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/N8UD7R2V9j",
+     "end": 119,
+     "expanded_url": "https://x.com/RAP3MEFR/status/2122431338276167754/photo/1",
+     "media_key": "3_2122431334157053952",
+     "start": 96,
+     "url": "https://t.co/N8UD7R2V9j"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 39396,
+  "score": 30,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122444865992527979",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:41:03.000Z",
+  "text": "@iblastandpray @PumpfunEco @TbonePoker @gr3gor14n its a mystery",
+  "text_flat": "@iblastandpray @PumpfunEco @TbonePoker @gr3gor14n its a mystery",
+  "url": "https://x.com/blknoiz06/status/2122444865992527979",
+  "lang": "en",
+  "conversation_id": "2122417558259392692",
+  "referenced": [
+   {
+    "id": "2122441984010834153",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1786633308463603713",
+     "start": 0,
+     "username": "iblastandpray"
+    },
+    {
+     "end": 26,
+     "id": "1954588979090608128",
+     "start": 15,
+     "username": "PumpfunEco"
+    },
+    {
+     "end": 38,
+     "id": "321829521",
+     "start": 27,
+     "username": "TbonePoker"
+    },
+    {
+     "end": 49,
+     "id": "3229257164",
+     "start": 39,
+     "username": "gr3gor14n"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 14,
+  "retweets": 0,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5237,
+  "score": 30,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122444994698989975",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:41:34.000Z",
+  "text": "@NewsyJohnson @notwashed tourists are not soldiers.",
+  "text_flat": "@NewsyJohnson @notwashed tourists are not soldiers.",
+  "url": "https://x.com/blknoiz06/status/2122444994698989975",
+  "lang": "en",
+  "conversation_id": "2119936220478529725",
+  "referenced": [
+   {
+    "id": "2122440446236352715",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1681911869424926720",
+     "start": 0,
+     "username": "NewsyJohnson"
+    },
+    {
+     "end": 24,
+     "id": "911742261926412289",
+     "start": 14,
+     "username": "notwashed"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 33,
+  "retweets": 5,
+  "replies": 12,
+  "quotes": 2,
+  "bookmarks": 0,
+  "impressions": 5766,
+  "score": 78,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445355073614110",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:43:00.000Z",
+  "text": "@RAP3MEFR yea",
+  "text_flat": "@RAP3MEFR yea",
+  "url": "https://x.com/blknoiz06/status/2122445355073614110",
+  "lang": "und",
+  "conversation_id": "2122432887618507025",
+  "referenced": [
+   {
+    "id": "2122433115977056618",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "2010894840809340930",
+     "start": 0,
+     "username": "RAP3MEFR"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 13,
+  "retweets": 0,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6272,
+  "score": 29,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445467761905843",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:43:27.000Z",
+  "text": "@stuckinbrazil a lot has changed actually",
+  "text_flat": "@stuckinbrazil a lot has changed actually",
+  "url": "https://x.com/blknoiz06/status/2122445467761905843",
+  "lang": "en",
+  "conversation_id": "2122432887618507025",
+  "referenced": [
+   {
+    "id": "2122434012002058362",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "950509765678870528",
+     "start": 0,
+     "username": "stuckinbrazil"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 16,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6135,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445562595115461",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T21:43:49.000Z",
+  "text": "@iClaude_ai btc holding lows",
+  "text_flat": "@iClaude_ai btc holding lows",
+  "url": "https://x.com/blknoiz06/status/2122445562595115461",
+  "lang": "en",
+  "conversation_id": "2122432887618507025",
+  "referenced": [
+   {
+    "id": "2122433251977351462",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "2115065576968028161",
+     "start": 0,
+     "username": "iClaude_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 21,
+  "retweets": 1,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6701,
+  "score": 56,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122452863108489647",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:12:50.000Z",
+  "text": "RT @initwithcarl: @croakie_ @Pumpfun @Schoen_xyz HOGE was a great call. No manual boosts, every payout comes from the same scorer. Rewards…",
+  "text_flat": "RT @initwithcarl: @croakie_ @Pumpfun @Schoen_xyz HOGE was a great call. No manual boosts, every payout comes from the same scorer. Rewards…",
+  "url": "https://x.com/blknoiz06/status/2122452863108489647",
+  "lang": "en",
+  "conversation_id": "2122452863108489647",
+  "referenced": [
+   {
+    "id": "2122445014689071197",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "2057516393533165568",
+     "start": 3,
+     "username": "initwithcarl"
+    },
+    {
+     "end": 27,
+     "id": "1693441815465349120",
+     "start": 18,
+     "username": "croakie_"
+    },
+    {
+     "end": 36,
+     "id": "1622243071806128131",
+     "start": 28,
+     "username": "Pumpfun"
+    },
+    {
+     "end": 48,
+     "id": "1898389320773550080",
+     "start": 37,
+     "username": "Schoen_xyz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 36324,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122453071468908855",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T22:13:40.000Z",
+  "text": "@jaxksaw https://t.co/vpyfYw1SC5",
+  "text_flat": "@jaxksaw https://t.co/vpyfYw1SC5",
+  "url": "https://x.com/blknoiz06/status/2122453071468908855",
+  "lang": "qme",
+  "conversation_id": "2122449238684508574",
+  "referenced": [
+   {
+    "id": "2122449238684508574",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "71462524",
+     "start": 0,
+     "username": "jaxksaw"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/vpyfYw1SC5",
+     "end": 32,
+     "expanded_url": "https://x.com/blknoiz06/status/2122453071468908855/photo/1",
+     "media_key": "3_2122453068335742976",
+     "start": 9,
+     "url": "https://t.co/vpyfYw1SC5"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 253,
+  "retweets": 52,
+  "replies": 61,
+  "quotes": 1,
+  "bookmarks": 4,
+  "impressions": 8481,
+  "score": 538,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122453215341932626",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:14:14.000Z",
+  "text": "RT @nebb_1: A week has passed &amp; solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump shillers are eating with the campaigns right now\n\n- The…",
+  "text_flat": "RT @nebb_1: A week has passed & solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump shillers are eating with the campaigns right now  - The…",
+  "url": "https://x.com/blknoiz06/status/2122453215341932626",
+  "lang": "en",
+  "conversation_id": "2122453215341932626",
+  "referenced": [
+   {
+    "id": "2122449451960930660",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1514828925632843776",
+     "start": 3,
+     "username": "nebb_1"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 11,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 36537,
+  "score": 33,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122453380631085133",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T22:14:53.000Z",
+  "text": "just a scratch https://t.co/15tpNaLCum",
+  "text_flat": "just a scratch https://t.co/15tpNaLCum",
+  "url": "https://x.com/blknoiz06/status/2122453380631085133",
+  "lang": "en",
+  "conversation_id": "2122453380631085133",
+  "referenced": [
+   {
+    "id": "2122445200203362694",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/tradfi/status/…",
+     "end": 38,
+     "expanded_url": "https://twitter.com/tradfi/status/2122445200203362694",
+     "start": 15,
+     "url": "https://t.co/15tpNaLCum"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 232,
+  "retweets": 8,
+  "replies": 91,
+  "quotes": 2,
+  "bookmarks": 2,
+  "impressions": 56457,
+  "score": 446,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122453707266666992",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T22:16:11.000Z",
+  "text": "2022: roaring crypto bull market into parabolic altcoin expansion -&gt; bubble pop -&gt; 3AC liquidation\n\n2026: roaring AI bull market into parabolic ai stocks expansion -&gt; bubble pop -&gt; Situation Awareness liquidation\n\nsame same but different",
+  "text_flat": "2022: roaring crypto bull market into parabolic altcoin expansion -> bubble pop -> 3AC liquidation  2026: roaring AI bull market into parabolic ai stocks expansion -> bubble pop -> Situation Awareness liquidation  same same but different",
+  "url": "https://x.com/blknoiz06/status/2122453707266666992",
+  "lang": "en",
+  "conversation_id": "2122453707266666992",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 20,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 41837,
+  "score": 29,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122453799935906240",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T22:16:33.000Z",
+  "text": "2022: roaring crypto bull market into parabolic altcoin expansion -&gt; bubble pop -&gt; 3AC liquidation\n\n2026: roaring AI bull market into parabolic ai stocks expansion -&gt; bubble pop -&gt; Situational Awareness liquidation\n\nsame same but different",
+  "text_flat": "2022: roaring crypto bull market into parabolic altcoin expansion -> bubble pop -> 3AC liquidation  2026: roaring AI bull market into parabolic ai stocks expansion -> bubble pop -> Situational Awareness liquidation  same same but different",
+  "url": "https://x.com/blknoiz06/status/2122453799935906240",
+  "lang": "en",
+  "conversation_id": "2122453799935906240",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 832,
+  "retweets": 32,
+  "replies": 173,
+  "quotes": 3,
+  "bookmarks": 58,
+  "impressions": 69865,
+  "score": 1341,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122454425231061252",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T22:19:02.000Z",
+  "text": "@SKundu81563 there are ppl making money onchain every day rn wym",
+  "text_flat": "@SKundu81563 there are ppl making money onchain every day rn wym",
+  "url": "https://x.com/blknoiz06/status/2122454425231061252",
+  "lang": "en",
+  "conversation_id": "2122453799935906240",
+  "referenced": [
+   {
+    "id": "2122454026851860508",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "2051675955245268992",
+     "start": 0,
+     "username": "SKundu81563"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 47,
+  "retweets": 0,
+  "replies": 35,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9481,
+  "score": 117,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122459477819416577",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T22:39:07.000Z",
+  "text": "@Icebergy bc they havent sold yet",
+  "text_flat": "@Icebergy bc they havent sold yet",
+  "url": "https://x.com/blknoiz06/status/2122459477819416577",
+  "lang": "en",
+  "conversation_id": "2122422564169392193",
+  "referenced": [
+   {
+    "id": "2122422564169392193",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "239518063",
+     "start": 0,
+     "username": "Icebergy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 61,
+  "retweets": 0,
+  "replies": 31,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 7858,
+  "score": 126,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122460677499482376",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-16T22:43:53.000Z",
+  "text": "wait what 😨 https://t.co/LQ2NQST8JM",
+  "text_flat": "wait what 😨 https://t.co/LQ2NQST8JM",
+  "url": "https://x.com/blknoiz06/status/2122460677499482376",
+  "lang": "en",
+  "conversation_id": "2122460677499482376",
+  "referenced": [
+   {
+    "id": "2122454683369283841",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/backpack/statu…",
+     "end": 35,
+     "expanded_url": "https://twitter.com/backpack/status/2122454683369283841",
+     "start": 12,
+     "url": "https://t.co/LQ2NQST8JM"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 991,
+  "retweets": 47,
+  "replies": 138,
+  "quotes": 7,
+  "bookmarks": 71,
+  "impressions": 120515,
+  "score": 1500,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122461871106310410",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T22:48:38.000Z",
+  "text": "@drag0nm4n @snoxy77 what would your reasoning be for why i bought &lt; 30 seconds after him then, im curious to know",
+  "text_flat": "@drag0nm4n @snoxy77 what would your reasoning be for why i bought < 30 seconds after him then, im curious to know",
+  "url": "https://x.com/blknoiz06/status/2122461871106310410",
+  "lang": "en",
+  "conversation_id": "2122406641656291813",
+  "referenced": [
+   {
+    "id": "2122446204667932725",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1637191607501066240",
+     "start": 0,
+     "username": "drag0nm4n"
+    },
+    {
+     "end": 19,
+     "id": "1858134145899065344",
+     "start": 11,
+     "username": "snoxy77"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 17,
+  "retweets": 0,
+  "replies": 17,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6455,
+  "score": 51,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122466008292090214",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T23:05:04.000Z",
+  "text": "everybody is trying to become the everything app\n\nrobinhood started with stocks and now is integrating prediction markets &amp; crypto\n\npolymarket/kalshi started with prediction markets &amp; now integrating perps &amp; stocks\n\ncoinbase/kraken started with crypto spot trading &amp; now",
+  "text_flat": "everybody is trying to become the everything app  robinhood started with stocks and now is integrating prediction markets & crypto  polymarket/kalshi started with prediction markets & now integrating perps & stocks  coinbase/kraken started with crypto spot trading & now",
+  "url": "https://x.com/blknoiz06/status/2122466008292090214",
+  "lang": "en",
+  "conversation_id": "2122466008292090214",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 1173,
+  "retweets": 72,
+  "replies": 372,
+  "quotes": 52,
+  "bookmarks": 160,
+  "impressions": 178377,
+  "score": 2449,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122466129281261608",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T23:05:33.000Z",
+  "text": "@TrustlessState this is the scariest part of the chart to me lol, if it goes its gonna take them all out in one go",
+  "text_flat": "@TrustlessState this is the scariest part of the chart to me lol, if it goes its gonna take them all out in one go",
+  "url": "https://x.com/blknoiz06/status/2122466129281261608",
+  "lang": "en",
+  "conversation_id": "2122462521613590770",
+  "referenced": [
+   {
+    "id": "2122462521613590770",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "981208355115974656",
+     "start": 0,
+     "username": "TrustlessState"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 90,
+  "retweets": 2,
+  "replies": 22,
+  "quotes": 0,
+  "bookmarks": 3,
+  "impressions": 13137,
+  "score": 143,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122466431292133630",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:06:45.000Z",
+  "text": "RT @riskmaxxing: based off the way i’ve been trading lately my bloodline prob ends with me",
+  "text_flat": "RT @riskmaxxing: based off the way i’ve been trading lately my bloodline prob ends with me",
+  "url": "https://x.com/blknoiz06/status/2122466431292133630",
+  "lang": "en",
+  "conversation_id": "2122466431292133630",
+  "referenced": [
+   {
+    "id": "2122465738862805126",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1936687913116266496",
+     "start": 3,
+     "username": "riskmaxxing"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 57,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 36868,
+  "score": 171,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122472521748676864",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:30:57.000Z",
+  "text": "RT @andyyy: Backpack is the star of the Solana ecosystem, absolutely no doubt about it.",
+  "text_flat": "RT @andyyy: Backpack is the star of the Solana ecosystem, absolutely no doubt about it.",
+  "url": "https://x.com/blknoiz06/status/2122472521748676864",
+  "lang": "en",
+  "conversation_id": "2122472521748676864",
+  "referenced": [
+   {
+    "id": "2122462728765776076",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1046811588752285699",
+     "start": 3,
+     "username": "andyyy"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 34750,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122475215489753104",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T23:41:39.000Z",
+  "text": "anthropic ipo",
+  "text_flat": "anthropic ipo",
+  "url": "https://x.com/blknoiz06/status/2122475215489753104",
+  "lang": "en",
+  "conversation_id": "2122475215489753104",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 163,
+  "retweets": 5,
+  "replies": 106,
+  "quotes": 9,
+  "bookmarks": 5,
+  "impressions": 66039,
+  "score": 422,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122475250646692017",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-16T23:41:48.000Z",
+  "text": "nvidia earnings",
+  "text_flat": "nvidia earnings",
+  "url": "https://x.com/blknoiz06/status/2122475250646692017",
+  "lang": "en",
+  "conversation_id": "2122475250646692017",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 171,
+  "retweets": 6,
+  "replies": 117,
+  "quotes": 5,
+  "bookmarks": 8,
+  "impressions": 67874,
+  "score": 446,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122476337705443511",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:46:07.000Z",
+  "text": "RT @OxSimpleFarmer: From creating the Mad Lads NFT Collection on Solana to now having Backpack Stock Token Exchange approved for trading in…",
+  "text_flat": "RT @OxSimpleFarmer: From creating the Mad Lads NFT Collection on Solana to now having Backpack Stock Token Exchange approved for trading in…",
+  "url": "https://x.com/blknoiz06/status/2122476337705443511",
+  "lang": "en",
+  "conversation_id": "2122476337705443511",
+  "referenced": [
+   {
+    "id": "2122475782232527343",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "1394725411397976072",
+     "start": 3,
+     "username": "OxSimpleFarmer"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 35,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 34106,
+  "score": 105,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122476943065104516",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:48:31.000Z",
+  "text": "RT @m_box15: Tired of seeing all these black people talk down on other black people for being pro American. One of the excuses is “you’re t…",
+  "text_flat": "RT @m_box15: Tired of seeing all these black people talk down on other black people for being pro American. One of the excuses is “you’re t…",
+  "url": "https://x.com/blknoiz06/status/2122476943065104516",
+  "lang": "en",
+  "conversation_id": "2122476943065104516",
+  "referenced": [
+   {
+    "id": "2122470649600131300",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1462190754047029249",
+     "start": 3,
+     "username": "m_box15"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 62,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 35329,
+  "score": 186,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122478260575695247",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:53:45.000Z",
+  "text": "RT @ChairmanSelig: The @CFTC approved the first exchange and clearinghouse applications for a firm utilizing blockchain-based architecture…",
+  "text_flat": "RT @ChairmanSelig: The @CFTC approved the first exchange and clearinghouse applications for a firm utilizing blockchain-based architecture…",
+  "url": "https://x.com/blknoiz06/status/2122478260575695247",
+  "lang": "en",
+  "conversation_id": "2122478260575695247",
+  "referenced": [
+   {
+    "id": "2122443259658056046",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "2006398816933851136",
+     "start": 3,
+     "username": "ChairmanSelig"
+    },
+    {
+     "end": 28,
+     "id": "234044087",
+     "start": 23,
+     "username": "CFTC"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 450,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 34435,
+  "score": 1350,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122478321166393812",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-16T23:54:00.000Z",
+  "text": "@ChairmanSelig @CFTC you cooking g im ngl",
+  "text_flat": "@ChairmanSelig @CFTC you cooking g im ngl",
+  "url": "https://x.com/blknoiz06/status/2122478321166393812",
+  "lang": "en",
+  "conversation_id": "2122443259658056046",
+  "referenced": [
+   {
+    "id": "2122443259658056046",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "2006398816933851136",
+     "start": 0,
+     "username": "ChairmanSelig"
+    },
+    {
+     "end": 20,
+     "id": "234044087",
+     "start": 15,
+     "username": "CFTC"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 79,
+  "retweets": 1,
+  "replies": 35,
+  "quotes": 2,
+  "bookmarks": 0,
+  "impressions": 10202,
+  "score": 158,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122479037201236150",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:56:50.000Z",
+  "text": "RT @mickeymantled: Everyday I see so much hate on callouts but let me break down why that’s just an absurd thing to hate  \n\nI was earning l…",
+  "text_flat": "RT @mickeymantled: Everyday I see so much hate on callouts but let me break down why that’s just an absurd thing to hate    I was earning l…",
+  "url": "https://x.com/blknoiz06/status/2122479037201236150",
+  "lang": "en",
+  "conversation_id": "2122479037201236150",
+  "referenced": [
+   {
+    "id": "2122406996888670334",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1486935756249567232",
+     "start": 3,
+     "username": "mickeymantled"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 34682,
+  "score": 57,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485138387054781",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:21:05.000Z",
+  "text": "@WBigbucks @BigTrout300 does that say -34M all time",
+  "text_flat": "@WBigbucks @BigTrout300 does that say -34M all time",
+  "url": "https://x.com/blknoiz06/status/2122485138387054781",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122470956115304785",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1873019611156742144",
+     "start": 0,
+     "username": "WBigbucks"
+    },
+    {
+     "end": 23,
+     "id": "1841011241877168128",
+     "start": 11,
+     "username": "BigTrout300"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 26,
+  "retweets": 0,
+  "replies": 23,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 7549,
+  "score": 75,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485289817915642",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:21:41.000Z",
+  "text": "RT @mil2d3_: this trend has played out\n\nsmartphones became the everything device, and now everyone is sick of them\n\ndumbphones, digital cam…",
+  "text_flat": "RT @mil2d3_: this trend has played out  smartphones became the everything device, and now everyone is sick of them  dumbphones, digital cam…",
+  "url": "https://x.com/blknoiz06/status/2122485289817915642",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122484853203685630",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1840630570856181761",
+     "start": 3,
+     "username": "mil2d3_"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 33987,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485364699107539",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:21:59.000Z",
+  "text": "@LoganJastremski my time horizon is 3-5 days brotha",
+  "text_flat": "@LoganJastremski my time horizon is 3-5 days brotha",
+  "url": "https://x.com/blknoiz06/status/2122485364699107539",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122476546422112622",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "352777551",
+     "start": 0,
+     "username": "LoganJastremski"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 18,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 5608,
+  "score": 25,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485559012794490",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:22:45.000Z",
+  "text": "@WBigbucks @BigTrout300 i thought he just made like 10M past month or something",
+  "text_flat": "@WBigbucks @BigTrout300 i thought he just made like 10M past month or something",
+  "url": "https://x.com/blknoiz06/status/2122485559012794490",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122485266698907812",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1873019611156742144",
+     "start": 0,
+     "username": "WBigbucks"
+    },
+    {
+     "end": 23,
+     "id": "1841011241877168128",
+     "start": 11,
+     "username": "BigTrout300"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 10,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5271,
+  "score": 18,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486045916668376",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-17T00:24:41.000Z",
+  "text": "feels like a very important spot for crypto im ngl",
+  "text_flat": "feels like a very important spot for crypto im ngl",
+  "url": "https://x.com/blknoiz06/status/2122486045916668376",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 1361,
+  "retweets": 58,
+  "replies": 428,
+  "quotes": 13,
+  "bookmarks": 23,
+  "impressions": 91116,
+  "score": 2453,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486262464713093",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:25:33.000Z",
+  "text": "@goodalexander what if you get the first three things after the last set of things",
+  "text_flat": "@goodalexander what if you get the first three things after the last set of things",
+  "url": "https://x.com/blknoiz06/status/2122486262464713093",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2121355847443906631",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "22110973",
+     "start": 0,
+     "username": "goodalexander"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 15,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6499,
+  "score": 25,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486664983720117",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:27:09.000Z",
+  "text": "@0xAvast how am i biased",
+  "text_flat": "@0xAvast how am i biased",
+  "url": "https://x.com/blknoiz06/status/2122486664983720117",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122486434900980012",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1451266991143202827",
+     "start": 0,
+     "username": "0xAvast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 65,
+  "retweets": 1,
+  "replies": 35,
+  "quotes": 2,
+  "bookmarks": 1,
+  "impressions": 18459,
+  "score": 145,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486723410116942",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:27:23.000Z",
+  "text": "RT @lmrankhan: I’d take the opposite approach now if you’re a consumer founder. Everyone is bundling services, but I’d look to unbundle and…",
+  "text_flat": "RT @lmrankhan: I’d take the opposite approach now if you’re a consumer founder. Everyone is bundling services, but I’d look to unbundle and…",
+  "url": "https://x.com/blknoiz06/status/2122486723410116942",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122485901813043412",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "57584739",
+     "start": 3,
+     "username": "lmrankhan"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 31889,
+  "score": 42,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486973277618188",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:28:22.000Z",
+  "text": "RT @notthreadguy: yo austin wtf is up with the birds what is happening",
+  "text_flat": "RT @notthreadguy: yo austin wtf is up with the birds what is happening",
+  "url": "https://x.com/blknoiz06/status/2122486973277618188",
+  "lang": "en",
+  "conversation_id": "2122486973277618188",
+  "referenced": [
+   {
+    "id": "2122485503710618047",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1426732252768182281",
+     "start": 3,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 29957,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122487442980876776",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:30:14.000Z",
+  "text": "RT @amitisinvesting: BRAD GERSTNER:\n\n- I TEXTED JENSEN LAST WEEK TO CHECK ON HIM, HE RESPONDED: “I AM DEEPLY SORRY FOR WHAT I HAVE DONE.”…",
+  "text_flat": "RT @amitisinvesting: BRAD GERSTNER:  - I TEXTED JENSEN LAST WEEK TO CHECK ON HIM, HE RESPONDED: “I AM DEEPLY SORRY FOR WHAT I HAVE DONE.”…",
+  "url": "https://x.com/blknoiz06/status/2122487442980876776",
+  "lang": "en",
+  "conversation_id": "2122487442980876776",
+  "referenced": [
+   {
+    "id": "2122397403785433214",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1468103131737247748",
+     "start": 3,
+     "username": "amitisinvesting"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 114,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 33828,
+  "score": 342,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122487584136069181",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T00:30:48.000Z",
+  "text": "@0xAvast i appreciate it tho!",
+  "text_flat": "@0xAvast i appreciate it tho!",
+  "url": "https://x.com/blknoiz06/status/2122487584136069181",
+  "lang": "en",
+  "conversation_id": "2122486434900980012",
+  "referenced": [
+   {
+    "id": "2122486664983720117",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1451266991143202827",
+     "start": 0,
+     "username": "0xAvast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 39,
+  "retweets": 0,
+  "replies": 31,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 11299,
+  "score": 102,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122505894491525259",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-17T01:43:34.000Z",
+  "text": "@ggs80001 wrong, there are people who were getting $3/day payouts in August who are getting $20k/day payouts now\n\nyou all complain too much and you dont want it enough, other people do and are putting in the work to do so https://t.co/6vSPyPJ2Ts",
+  "text_flat": "@ggs80001 wrong, there are people who were getting $3/day payouts in August who are getting $20k/day payouts now  you all complain too much and you dont want it enough, other people do and are putting in the work to do so https://t.co/6vSPyPJ2Ts",
+  "url": "https://x.com/blknoiz06/status/2122505894491525259",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122406996888670334",
+    "type": "quoted"
+   },
+   {
+    "id": "2122505262032400608",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "65073112",
+     "start": 0,
+     "username": "ggs80001"
+    }
+   ],
+   "urls": [
+    {
+     "end": 245,
+     "start": 222,
+     "url": "https://t.co/6vSPyPJ2Ts"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 85,
+  "retweets": 5,
+  "replies": 56,
+  "quotes": 1,
+  "bookmarks": 1,
+  "impressions": 14440,
+  "score": 216,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122509165276835961",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-17T01:56:33.000Z",
+  "text": "@mickeymantled @ggs80001 correct, when i had no followers in 2017 &amp; lost money on mad coins my thought was not \"wow theyre scamming\" it was ok how do i get better and beat this game",
+  "text_flat": "@mickeymantled @ggs80001 correct, when i had no followers in 2017 & lost money on mad coins my thought was not \"wow theyre scamming\" it was ok how do i get better and beat this game",
+  "url": "https://x.com/blknoiz06/status/2122509165276835961",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122508672647716877",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1486935756249567232",
+     "start": 0,
+     "username": "mickeymantled"
+    },
+    {
+     "end": 24,
+     "id": "65073112",
+     "start": 15,
+     "username": "ggs80001"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 80,
+  "retweets": 7,
+  "replies": 72,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 7633,
+  "score": 245,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122656363759472783",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T11:41:28.000Z",
+  "text": "RT @Kaiz_294: Armani Ferrante charts a plan to put the entire U.S. stock market onto Solana, with 88 symbols today, thousands next, and a n…",
+  "text_flat": "RT @Kaiz_294: Armani Ferrante charts a plan to put the entire U.S. stock market onto Solana, with 88 symbols today, thousands next, and a n…",
+  "url": "https://x.com/blknoiz06/status/2122656363759472783",
+  "lang": "en",
+  "conversation_id": "2122656363759472783",
+  "referenced": [
+   {
+    "id": "2122652299415765240",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1392788750657232898",
+     "start": 3,
+     "username": "Kaiz_294"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 29087,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122664593994768649",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-17T12:14:11.000Z",
+  "text": "on November 5, i asked @armaniferrante about the infrastructure needed to bring tokenized stocks to retail traders and how new platforms could compete with existing brokerages\n\nhis answer made me think about how much easier it's becoming to build financial applications onchain https://t.co/vwHc5jaHHr",
+  "text_flat": "on November 5, i asked @armaniferrante about the infrastructure needed to bring tokenized stocks to retail traders and how new platforms could compete with existing brokerages  his answer made me think about how much easier it's becoming to build financial applications onchain https://t.co/vwHc5jaHHr",
+  "url": "https://x.com/blknoiz06/status/2122664593994768649",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {
+   "mentions": [
+    {
+     "end": 38,
+     "id": "276810355",
+     "start": 23,
+     "username": "armaniferrante"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 247,
+  "retweets": 28,
+  "replies": 151,
+  "quotes": 3,
+  "bookmarks": 10,
+  "impressions": 42443,
+  "score": 652,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122686494112624894",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T13:41:12.000Z",
+  "text": "RT @notthreadguy: at the tomorrowX summit in Texas trying to figure out if one of the craziest retail bubbles over the past six years has o…",
+  "text_flat": "RT @notthreadguy: at the tomorrowX summit in Texas trying to figure out if one of the craziest retail bubbles over the past six years has o…",
+  "url": "https://x.com/blknoiz06/status/2122686494112624894",
+  "lang": "en",
+  "conversation_id": "2122686494112624894",
+  "referenced": [
+   {
+    "id": "2122685880171426242",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1426732252768182281",
+     "start": 3,
+     "username": "notthreadguy"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14409,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122686564786487380",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-17T13:41:29.000Z",
+  "text": "gmihao comrades in war https://t.co/va7QuYEYYQ",
+  "text_flat": "gmihao comrades in war https://t.co/va7QuYEYYQ",
+  "url": "https://x.com/blknoiz06/status/2122686564786487380",
+  "lang": "en",
+  "conversation_id": "2122686564786487380",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/va7QuYEYYQ",
+     "end": 46,
+     "expanded_url": "https://x.com/blknoiz06/status/2122686564786487380/photo/1",
+     "media_key": "3_2122686560936120320",
+     "start": 23,
+     "url": "https://t.co/va7QuYEYYQ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 282,
+  "retweets": 69,
+  "replies": 206,
+  "quotes": 4,
+  "bookmarks": 11,
+  "impressions": 20956,
+  "score": 924,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122688052409815139",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T13:47:23.000Z",
+  "text": "RT @fluffyonchain: DREAMS COME TRUE",
+  "text_flat": "RT @fluffyonchain: DREAMS COME TRUE",
+  "url": "https://x.com/blknoiz06/status/2122688052409815139",
+  "lang": "en",
+  "conversation_id": "2122688052409815139",
+  "referenced": [
+   {
+    "id": "2122664231007101353",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1916378219026255878",
+     "start": 3,
+     "username": "fluffyonchain"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10836,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122688124409012497",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "retweet",
+  "created_at": "2026-11-17T13:47:41.000Z",
+  "text": "RT @RAP3MEFR: Good morning solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump X solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump collec…",
+  "text_flat": "RT @RAP3MEFR: Good morning solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump X solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump collec…",
+  "url": "https://x.com/blknoiz06/status/2122688124409012497",
+  "lang": "en",
+  "conversation_id": "2122688124409012497",
+  "referenced": [
+   {
+    "id": "2122640657806172660",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "2010894840809340930",
+     "start": 3,
+     "username": "RAP3MEFR"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13107,
+  "score": 24,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

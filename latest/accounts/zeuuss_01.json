@@ -1,0 +1,57 @@
+[
+ {
+  "id": "2122373514070245568",
+  "username": "zeuuss_01",
+  "username_canon": "zeuuss_01",
+  "type": "quote",
+  "created_at": "2026-11-16T16:57:32.000Z",
+  "text": "HOLY SH*T... this faceless channel pulled 185M views with just 38 posts 🤯\n\n- 48.6M views on the best video - 38.4M on this one - 82.5K followers\n\nThe format:\n - one 3D object on a cutting board - a counter shows the number of cuts - a second counter shows how many cubes it https://t.co/35pi64IjEZ https://t.co/5NYFFsbWyI",
+  "text_flat": "HOLY SH*T... this faceless channel pulled 185M views with just 38 posts 🤯  - 48.6M views on the best video - 38.4M on this one - 82.5K followers  The format:  - one 3D object on a cutting board - a counter shows the number of cuts - a second counter shows how many cubes it https://t.co/35pi64IjEZ https://t.co/5NYFFsbWyI",
+  "url": "https://x.com/zeuuss_01/status/2122373514070245568",
+  "lang": "en",
+  "conversation_id": "2122373514070245568",
+  "referenced": [
+   {
+    "id": "2109799143598100510",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/35pi64IjEZ",
+     "end": 297,
+     "expanded_url": "https://x.com/zeuuss_01/status/2122373514070245568/video/1",
+     "media_key": "13_2122373358117367808",
+     "start": 274,
+     "url": "https://t.co/35pi64IjEZ"
+    },
+    {
+     "display_url": "pic.x.com/35pi64IjEZ",
+     "end": 297,
+     "expanded_url": "https://x.com/zeuuss_01/status/2122373514070245568/photo/2",
+     "media_key": "3_2122373358100627456",
+     "start": 274,
+     "url": "https://t.co/35pi64IjEZ"
+    },
+    {
+     "display_url": "x.com/zeuuss_01/stat…",
+     "end": 321,
+     "expanded_url": "https://twitter.com/zeuuss_01/status/2109799143598100510",
+     "start": 298,
+     "url": "https://t.co/5NYFFsbWyI"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 6,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 5,
+  "impressions": 1340,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

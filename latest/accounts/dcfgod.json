@@ -1,0 +1,508 @@
+[
+ {
+  "id": "2122360579914686679",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "quote",
+  "created_at": "2026-11-16T16:06:08.000Z",
+  "text": "Let the RWA options wave begin\n\nnote: dcf cap holds ethereum:0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be https://t.co/gRVP7Uwc9Z",
+  "text_flat": "Let the RWA options wave begin  note: dcf cap holds ethereum:0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be https://t.co/gRVP7Uwc9Z",
+  "url": "https://x.com/dcfgod/status/2122360579914686679",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122344862402187413",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 127,
+     "start": 104,
+     "url": "https://t.co/gRVP7Uwc9Z"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 141,
+  "retweets": 6,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 7,
+  "impressions": 6138,
+  "score": 198,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122409301407105199",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:19:44.000Z",
+  "text": "RT @WazzCrypto: - deposit on defi for safe yield &gt; protocol gets exploited\n- move to cold storage &gt; turns out seed generation was faulty\n-…",
+  "text_flat": "RT @WazzCrypto: - deposit on defi for safe yield > protocol gets exploited - move to cold storage > turns out seed generation was faulty -…",
+  "url": "https://x.com/dcfgod/status/2122409301407105199",
+  "lang": "en",
+  "conversation_id": "2122409301407105199",
+  "referenced": [
+   {
+    "id": "2122394948943106542",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "869659857590288384",
+     "start": 3,
+     "username": "WazzCrypto"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 18,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1260,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445441484849313",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:43:21.000Z",
+  "text": "RT @Mehdi96_: we passed $300m of options premium recorded across the venues we read\n\n@DeriveXYZ  carries almost all of it, 94.3% of the pre…",
+  "text_flat": "RT @Mehdi96_: we passed $300m of options premium recorded across the venues we read  @DeriveXYZ  carries almost all of it, 94.3% of the pre…",
+  "url": "https://x.com/dcfgod/status/2122445441484849313",
+  "lang": "en",
+  "conversation_id": "2122445441484849313",
+  "referenced": [
+   {
+    "id": "2122368193197215791",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "793513453554110464",
+     "start": 3,
+     "username": "Mehdi96_"
+    },
+    {
+     "end": 95,
+     "id": "1361564569269800960",
+     "start": 85,
+     "username": "DeriveXYZ"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1332,
+  "score": 18,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445494500950020",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:43:33.000Z",
+  "text": "RT @MikeSilagadze: I remember when $5M a day seemed unattainable.\n\nPretty soon we're going to have $50M days.",
+  "text_flat": "RT @MikeSilagadze: I remember when $5M a day seemed unattainable.  Pretty soon we're going to have $50M days.",
+  "url": "https://x.com/dcfgod/status/2122445494500950020",
+  "lang": "en",
+  "conversation_id": "2122445494500950020",
+  "referenced": [
+   {
+    "id": "2121419251491700896",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1562116375",
+     "start": 3,
+     "username": "MikeSilagadze"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1297,
+  "score": 45,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445646552830207",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:44:09.000Z",
+  "text": "RT @Pickle_cRypto: ENA thoughts:\n\nThe pump from 7 to 31 was epic\n\nAny time BTC perps are bullish, USDe grows, positive signaling for ENA\n\nR…",
+  "text_flat": "RT @Pickle_cRypto: ENA thoughts:  The pump from 7 to 31 was epic  Any time BTC perps are bullish, USDe grows, positive signaling for ENA  R…",
+  "url": "https://x.com/dcfgod/status/2122445646552830207",
+  "lang": "en",
+  "conversation_id": "2122445646552830207",
+  "referenced": [
+   {
+    "id": "2122216685633458356",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "943869911293726720",
+     "start": 3,
+     "username": "Pickle_cRypto"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 13,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1312,
+  "score": 39,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122462434787262585",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "quote",
+  "created_at": "2026-11-16T22:50:52.000Z",
+  "text": "imagine u hack fox news, american eagle, bbc, gitlab, hootsuite, sales force, etc.\n\nand only walk away with $7k\n\ndoesn't even cover the fable credits https://t.co/q9Cg0Oj9yW",
+  "text_flat": "imagine u hack fox news, american eagle, bbc, gitlab, hootsuite, sales force, etc.  and only walk away with $7k  doesn't even cover the fable credits https://t.co/q9Cg0Oj9yW",
+  "url": "https://x.com/dcfgod/status/2122462434787262585",
+  "lang": "en",
+  "conversation_id": "2122462434787262585",
+  "referenced": [
+   {
+    "id": "2122454883278446793",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/WazzCrypto/sta…",
+     "end": 173,
+     "expanded_url": "https://twitter.com/WazzCrypto/status/2122454883278446793",
+     "start": 150,
+     "url": "https://t.co/q9Cg0Oj9yW"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 69,
+  "retweets": 0,
+  "replies": 17,
+  "quotes": 0,
+  "bookmarks": 5,
+  "impressions": 5635,
+  "score": 108,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465516258492877",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "reply",
+  "created_at": "2026-11-16T23:03:07.000Z",
+  "text": "@WazzCrypto worst to ever do it bro could've robbed a convenience store instead",
+  "text_flat": "@WazzCrypto worst to ever do it bro could've robbed a convenience store instead",
+  "url": "https://x.com/dcfgod/status/2122465516258492877",
+  "lang": "en",
+  "conversation_id": "2122462434787262585",
+  "referenced": [
+   {
+    "id": "2122464725871296908",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "869659857590288384",
+     "start": 0,
+     "username": "WazzCrypto"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 9,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 374,
+  "score": 11,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122469945359679889",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "reply",
+  "created_at": "2026-11-16T23:20:43.000Z",
+  "text": "@redactedrain Hacking crypto makes them money so it’s worth spending on\n\nWhat do they get by making it hard to log into your bank or whatever",
+  "text_flat": "@redactedrain Hacking crypto makes them money so it’s worth spending on  What do they get by making it hard to log into your bank or whatever",
+  "url": "https://x.com/dcfgod/status/2122469945359679889",
+  "lang": "en",
+  "conversation_id": "2122440576775688454",
+  "referenced": [
+   {
+    "id": "2122440576775688454",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "2823379399",
+     "start": 0,
+     "username": "redactedrain"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 11,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2066,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122471131907248277",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "reply",
+  "created_at": "2026-11-16T23:25:26.000Z",
+  "text": "@redactedrain It’s cool but if u can get 6b from binance its worth spending infinity resources on it",
+  "text_flat": "@redactedrain It’s cool but if u can get 6b from binance its worth spending infinity resources on it",
+  "url": "https://x.com/dcfgod/status/2122471131907248277",
+  "lang": "en",
+  "conversation_id": "2122440576775688454",
+  "referenced": [
+   {
+    "id": "2122470873676308874",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "2823379399",
+     "start": 0,
+     "username": "redactedrain"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 237,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122471806921753042",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "reply",
+  "created_at": "2026-11-16T23:28:07.000Z",
+  "text": "@_imhamzah Yes",
+  "text_flat": "@_imhamzah Yes",
+  "url": "https://x.com/dcfgod/status/2122471806921753042",
+  "lang": "und",
+  "conversation_id": "2122469022302371890",
+  "referenced": [
+   {
+    "id": "2122469022302371890",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "2611100725",
+     "start": 0,
+     "username": "_imhamzah"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 210,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122474016992842104",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:36:53.000Z",
+  "text": "RT @AutismCapital: You know in the past the nationwide banking system going down would usually cause people to buy bitcoin but we live in h…",
+  "text_flat": "RT @AutismCapital: You know in the past the nationwide banking system going down would usually cause people to buy bitcoin but we live in h…",
+  "url": "https://x.com/dcfgod/status/2122474016992842104",
+  "lang": "en",
+  "conversation_id": "2122474016992842104",
+  "referenced": [
+   {
+    "id": "2122442849002365339",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1297651178256257024",
+     "start": 3,
+     "username": "AutismCapital"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 29,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1231,
+  "score": 87,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122499025425559557",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "reply",
+  "created_at": "2026-11-17T01:16:16.000Z",
+  "text": "@0x_noot @redactedrain but why would \"they\" want to do it? and what happened? did they profit like they would from a crypto exploit?",
+  "text_flat": "@0x_noot @redactedrain but why would \"they\" want to do it? and what happened? did they profit like they would from a crypto exploit?",
+  "url": "https://x.com/dcfgod/status/2122499025425559557",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122498527175606538",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1421895550081830916",
+     "start": 0,
+     "username": "0x_noot"
+    },
+    {
+     "end": 22,
+     "id": "2823379399",
+     "start": 9,
+     "username": "redactedrain"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 177,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122501877309059123",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:27:36.000Z",
+  "text": "RT @domdosu: One of the most requested additions to Dream since we launched V2 has been stock and ETF options. Today, we're taking our firs…",
+  "text_flat": "RT @domdosu: One of the most requested additions to Dream since we launched V2 has been stock and ETF options. Today, we're taking our firs…",
+  "url": "https://x.com/dcfgod/status/2122501877309059123",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122496608134631633",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "815711486735740929",
+     "start": 3,
+     "username": "domdosu"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1342,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

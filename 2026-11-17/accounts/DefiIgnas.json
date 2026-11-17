@@ -1,0 +1,727 @@
+[
+ {
+  "id": "2122358355784073328",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T15:57:18.000Z",
+  "text": "@Trezor Should be industry standard !",
+  "text_flat": "@Trezor Should be industry standard !",
+  "url": "https://x.com/DefiIgnas/status/2122358355784073328",
+  "lang": "en",
+  "conversation_id": "2122323213677903932",
+  "referenced": [
+   {
+    "id": "2122323213677903932",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1431204614",
+     "start": 0,
+     "username": "Trezor"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 12,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 509,
+  "score": 14,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122424521735250209",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-16T20:20:13.000Z",
+  "text": "@mtndrew stablecoins leaving because of binance, not because of defi mostly \n\nhttps://t.co/3FIa5dZhfE",
+  "text_flat": "@mtndrew stablecoins leaving because of binance, not because of defi mostly   https://t.co/3FIa5dZhfE",
+  "url": "https://x.com/DefiIgnas/status/2122424521735250209",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2121262268654752162",
+    "type": "quoted"
+   },
+   {
+    "id": "2122405044792283152",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "179656739",
+     "start": 0,
+     "username": "mtndrew"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 337,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122428920704483610",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T20:37:42.000Z",
+  "text": "@mtndrew yeah for sure but most of stablecoin outlflow is due to binance hack",
+  "text_flat": "@mtndrew yeah for sure but most of stablecoin outlflow is due to binance hack",
+  "url": "https://x.com/DefiIgnas/status/2122428920704483610",
+  "lang": "en",
+  "conversation_id": "2122405044792283152",
+  "referenced": [
+   {
+    "id": "2122427919167324375",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "179656739",
+     "start": 0,
+     "username": "mtndrew"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 152,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122460267049066590",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-16T22:42:15.000Z",
+  "text": "$BP is a rare green bag in my otherwise red portfolio this year.\n\nGreat execution in regulation and perfectly positioned for tokenized stock narrative.\n\n+40% candle https://t.co/gcr9YfKQvM https://t.co/0vQTT8iW7x",
+  "text_flat": "$BP is a rare green bag in my otherwise red portfolio this year.  Great execution in regulation and perfectly positioned for tokenized stock narrative.  +40% candle https://t.co/gcr9YfKQvM https://t.co/0vQTT8iW7x",
+  "url": "https://x.com/DefiIgnas/status/2122460267049066590",
+  "lang": "en",
+  "conversation_id": "2122460267049066590",
+  "referenced": [
+   {
+    "id": "2122454683369283841",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 3,
+     "start": 0,
+     "tag": "BP"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/gcr9YfKQvM",
+     "end": 188,
+     "expanded_url": "https://x.com/DefiIgnas/status/2122460267049066590/photo/1",
+     "media_key": "3_2122460199197847552",
+     "start": 165,
+     "url": "https://t.co/gcr9YfKQvM"
+    },
+    {
+     "display_url": "x.com/Backpack/statu…",
+     "end": 212,
+     "expanded_url": "https://twitter.com/Backpack/status/2122454683369283841",
+     "start": 189,
+     "url": "https://t.co/0vQTT8iW7x"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 286,
+  "retweets": 12,
+  "replies": 32,
+  "quotes": 3,
+  "bookmarks": 25,
+  "impressions": 28353,
+  "score": 420,
+  "cashtags": [
+   "BP"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122463508034113682",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T22:55:08.000Z",
+  "text": "@CatfishFishy Yeah, sounds bad at first.  But BP also gives trading fee discounts, extra USD yield etc.\n\nThink like binance and BNB token.\n\nMore traders could mean more demand to buy and stake BP. Hope more value is added to it",
+  "text_flat": "@CatfishFishy Yeah, sounds bad at first.  But BP also gives trading fee discounts, extra USD yield etc.  Think like binance and BNB token.  More traders could mean more demand to buy and stake BP. Hope more value is added to it",
+  "url": "https://x.com/DefiIgnas/status/2122463508034113682",
+  "lang": "en",
+  "conversation_id": "2122460267049066590",
+  "referenced": [
+   {
+    "id": "2122461666193317894",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1126955403491676160",
+     "start": 0,
+     "username": "CatfishFishy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 475,
+  "score": 4,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465157418791066",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-16T23:01:41.000Z",
+  "text": "Thesis unbroken\n\nhttps://t.co/SguwfBvRIr",
+  "text_flat": "Thesis unbroken  https://t.co/SguwfBvRIr",
+  "url": "https://x.com/DefiIgnas/status/2122465157418791066",
+  "lang": "en",
+  "conversation_id": "2122460267049066590",
+  "referenced": [
+   {
+    "id": "2101590496715952398",
+    "type": "quoted"
+   },
+   {
+    "id": "2122460267049066590",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/DefiIgnas/stat…",
+     "end": 40,
+     "expanded_url": "https://x.com/DefiIgnas/status/2101590496715952398",
+     "start": 17,
+     "url": "https://t.co/SguwfBvRIr"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 3,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 1416,
+  "score": 10,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465284057670054",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T23:02:11.000Z",
+  "text": "@CatfishFishy well token pumping means that it's not entirely true. ppl still like tokens lol",
+  "text_flat": "@CatfishFishy well token pumping means that it's not entirely true. ppl still like tokens lol",
+  "url": "https://x.com/DefiIgnas/status/2122465284057670054",
+  "lang": "en",
+  "conversation_id": "2122460267049066590",
+  "referenced": [
+   {
+    "id": "2122463862024978604",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1126955403491676160",
+     "start": 0,
+     "username": "CatfishFishy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 246,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465707829170299",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T23:03:52.000Z",
+  "text": "@andyyy Was an underdog trade for quite a while. \n\ni'd say still is but might become a consensus trade... after another 3x",
+  "text_flat": "@andyyy Was an underdog trade for quite a while.   i'd say still is but might become a consensus trade... after another 3x",
+  "url": "https://x.com/DefiIgnas/status/2122465707829170299",
+  "lang": "en",
+  "conversation_id": "2122462728765776076",
+  "referenced": [
+   {
+    "id": "2122462728765776076",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1046811588752285699",
+     "start": 0,
+     "username": "andyyy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 993,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122468780576031084",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-16T23:16:05.000Z",
+  "text": "@that1618guy and $BP",
+  "text_flat": "@that1618guy and $BP",
+  "url": "https://x.com/DefiIgnas/status/2122468780576031084",
+  "lang": "und",
+  "conversation_id": "2122467316734767336",
+  "referenced": [
+   {
+    "id": "2122467316734767336",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 20,
+     "start": 17,
+     "tag": "BP"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 12,
+     "id": "990148009085169665",
+     "start": 0,
+     "username": "that1618guy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 6,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 590,
+  "score": 6,
+  "cashtags": [
+   "BP"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122636835083944426",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-17T10:23:52.000Z",
+  "text": "Coingecko could become one of the best trading apps\n\nPeople already used to open it, check prices/charts, and IMAGINE if token looks good they might just trade it.\n\nNo need to go to another app.\n\nTruly trade everything. Hope Solana Foundation won't prohibit CG adding EVM chains https://t.co/1dTAKhE5Cl",
+  "text_flat": "Coingecko could become one of the best trading apps  People already used to open it, check prices/charts, and IMAGINE if token looks good they might just trade it.  No need to go to another app.  Truly trade everything. Hope Solana Foundation won't prohibit CG adding EVM chains https://t.co/1dTAKhE5Cl",
+  "url": "https://x.com/DefiIgnas/status/2122636835083944426",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122615741895823516",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 302,
+     "start": 279,
+     "url": "https://t.co/1dTAKhE5Cl"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 95,
+  "retweets": 2,
+  "replies": 34,
+  "quotes": 0,
+  "bookmarks": 7,
+  "impressions": 8113,
+  "score": 176,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122637038155665920",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-17T10:24:41.000Z",
+  "text": "@0xNairolf exactly my thoughts man. can be massive",
+  "text_flat": "@0xNairolf exactly my thoughts man. can be massive",
+  "url": "https://x.com/DefiIgnas/status/2122637038155665920",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122625419937505771",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1442176296356696064",
+     "start": 0,
+     "username": "0xNairolf"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 319,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122637458492031076",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-17T10:26:21.000Z",
+  "text": "@milaidik if they added wallet, would you trade?",
+  "text_flat": "@milaidik if they added wallet, would you trade?",
+  "url": "https://x.com/DefiIgnas/status/2122637458492031076",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122637350647763399",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1650095686463938560",
+     "start": 0,
+     "username": "milaidik"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 201,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122640092309201299",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-17T10:36:49.000Z",
+  "text": "@vasily_sumanov might get too bloated.\n\nkeep those fundamentals for defillama + Trueo",
+  "text_flat": "@vasily_sumanov might get too bloated.  keep those fundamentals for defillama + Trueo",
+  "url": "https://x.com/DefiIgnas/status/2122640092309201299",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122639604927049995",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1098525764134334468",
+     "start": 0,
+     "username": "vasily_sumanov"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 227,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122641635943288922",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-17T10:42:57.000Z",
+  "text": "$BP repricing started. Still a lot more upside left.\n\nNext: $TRUE thanks to continuing Defillama integration +upcoming liquidity improvements\n\n$FLUID took months to recover after Resolv exploit. Fluid dex v2+Sui launch + restarting buybacks are catalysts to watch. https://t.co/OfhmHrKGdT",
+  "text_flat": "$BP repricing started. Still a lot more upside left.  Next: $TRUE thanks to continuing Defillama integration +upcoming liquidity improvements  $FLUID took months to recover after Resolv exploit. Fluid dex v2+Sui launch + restarting buybacks are catalysts to watch. https://t.co/OfhmHrKGdT",
+  "url": "https://x.com/DefiIgnas/status/2122641635943288922",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2115547239284154404",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 288,
+     "start": 265,
+     "url": "https://t.co/OfhmHrKGdT"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 65,
+  "retweets": 2,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 14,
+  "impressions": 6749,
+  "score": 117,
+  "cashtags": [
+   "BP",
+   "FLUID",
+   "TRUE"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122642096611885333",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-17T10:44:47.000Z",
+  "text": "@0xNairolf bullish candies?",
+  "text_flat": "@0xNairolf bullish candies?",
+  "url": "https://x.com/DefiIgnas/status/2122642096611885333",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122641866906841445",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1442176296356696064",
+     "start": 0,
+     "username": "0xNairolf"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 180,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122656116035195156",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "original",
+  "created_at": "2026-11-17T11:40:29.000Z",
+  "text": "I thought Solana would transition from Beta to mainnet with slashing being enabled.\n\nBut they upgraded to Solana 1.0 thanks to:\n\n1) Alpenglow consensus upgrade (with ~150ms transaction finality)\n\n2) integration of Firedancer client.\n\nThose seem arbitrary conditions for mainnet.",
+  "text_flat": "I thought Solana would transition from Beta to mainnet with slashing being enabled.  But they upgraded to Solana 1.0 thanks to:  1) Alpenglow consensus upgrade (with ~150ms transaction finality)  2) integration of Firedancer client.  Those seem arbitrary conditions for mainnet.",
+  "url": "https://x.com/DefiIgnas/status/2122656116035195156",
+  "lang": "en",
+  "conversation_id": "2122656116035195156",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 50,
+  "retweets": 0,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 5691,
+  "score": 83,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122668021605183714",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "original",
+  "created_at": "2026-11-17T12:27:48.000Z",
+  "text": "Stablecoin supply is down ~9% since May's ATH.\n\n$USDT: -$14.4B (-7.6%)\n$USDC: -$7.6B (-9.9%)\n\nBinance lost the most: $17.2B or - 28.5% of their total balance.\n\nSo binance is responsible for ~64% of the global supply decline.\n\nAt first I thought it's due to the hack, but 51% of https://t.co/SSLgQjgiF1",
+  "text_flat": "Stablecoin supply is down ~9% since May's ATH.  $USDT: -$14.4B (-7.6%) $USDC: -$7.6B (-9.9%)  Binance lost the most: $17.2B or - 28.5% of their total balance.  So binance is responsible for ~64% of the global supply decline.  At first I thought it's due to the hack, but 51% of https://t.co/SSLgQjgiF1",
+  "url": "https://x.com/DefiIgnas/status/2122668021605183714",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 40,
+  "retweets": 1,
+  "replies": 20,
+  "quotes": 2,
+  "bookmarks": 2,
+  "impressions": 6396,
+  "score": 91,
+  "cashtags": [
+   "USDC",
+   "USDT"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122668037568602431",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "reply",
+  "created_at": "2026-11-17T12:27:52.000Z",
+  "text": "Bitfinex stablecoin supply is very volatile:\n\nAFAIK it is used to redeem USDT to USD so large spikes are whales, MMs, institutions depositing to bitfinex to later withdraw USD to banks. https://t.co/4ZRc3XTQLY",
+  "text_flat": "Bitfinex stablecoin supply is very volatile:  AFAIK it is used to redeem USDT to USD so large spikes are whales, MMs, institutions depositing to bitfinex to later withdraw USD to banks. https://t.co/4ZRc3XTQLY",
+  "url": "https://x.com/DefiIgnas/status/2122668037568602431",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122668021605183714",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {},
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 937,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122669355876159959",
+  "username": "DefiIgnas",
+  "username_canon": "DefiIgnas",
+  "type": "quote",
+  "created_at": "2026-11-17T12:33:06.000Z",
+  "text": "TLDR: 9% decline in total stablecoin supply might seem small\n\nBut the actual purchasing power on CEXs is down by ~30% or more. https://t.co/F5675hH8G4",
+  "text_flat": "TLDR: 9% decline in total stablecoin supply might seem small  But the actual purchasing power on CEXs is down by ~30% or more. https://t.co/F5675hH8G4",
+  "url": "https://x.com/DefiIgnas/status/2122669355876159959",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122668021605183714",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 150,
+     "start": 127,
+     "url": "https://t.co/F5675hH8G4"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 35,
+  "retweets": 0,
+  "replies": 15,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 3918,
+  "score": 65,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

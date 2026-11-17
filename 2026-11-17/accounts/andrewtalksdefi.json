@@ -1,0 +1,3882 @@
+[
+ {
+  "id": "2122349882442707156",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:23:37.000Z",
+  "text": "RT @andrewtalksdefi: How I wish this is possible....\n\nSomebody pump my bags! 😤 https://t.co/O3WLPwFfR4",
+  "text_flat": "RT @andrewtalksdefi: How I wish this is possible....  Somebody pump my bags! 😤 https://t.co/O3WLPwFfR4",
+  "url": "https://x.com/andrewtalksdefi/status/2122349882442707156",
+  "lang": "en",
+  "conversation_id": "2122349882442707156",
+  "referenced": [
+   {
+    "id": "2122306852113220068",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1440083813657284625",
+     "start": 3,
+     "username": "andrewtalksdefi"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/O3WLPwFfR4",
+     "end": 102,
+     "expanded_url": "https://x.com/andrewtalksdefi/status/2122306852113220068/video/1",
+     "media_key": "13_2122306834581049344",
+     "start": 79,
+     "url": "https://t.co/O3WLPwFfR4"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122565085734502579",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T05:38:46.000Z",
+  "text": "@D_GREAT_EHMY Gm Gare",
+  "text_flat": "@D_GREAT_EHMY Gm Gare",
+  "url": "https://x.com/andrewtalksdefi/status/2122565085734502579",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122560357940031716",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1715655515835858944",
+     "start": 0,
+     "username": "D_GREAT_EHMY"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 18,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122590721555251441",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:20:38.000Z",
+  "text": "@blessing17_ Happy Tuesday fam",
+  "text_flat": "@blessing17_ Happy Tuesday fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122590721555251441",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122589359383724189",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1684134855972364288",
+     "start": 0,
+     "username": "blessing17_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122591832945074582",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:25:03.000Z",
+  "text": "@hvshark Gm Shark",
+  "text_flat": "@hvshark Gm Shark",
+  "url": "https://x.com/andrewtalksdefi/status/2122591832945074582",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122565554342912169",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1526842696660295680",
+     "start": 0,
+     "username": "hvshark"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122591904462250322",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:25:20.000Z",
+  "text": "@LePro_1 Gm Lepro",
+  "text_flat": "@LePro_1 Gm Lepro",
+  "url": "https://x.com/andrewtalksdefi/status/2122591904462250322",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122591438508560482",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "728603891915436032",
+     "start": 0,
+     "username": "LePro_1"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122594506923036817",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:35:41.000Z",
+  "text": "@Vethechamp0 @rarelistio Gm Fam",
+  "text_flat": "@Vethechamp0 @rarelistio Gm Fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122594506923036817",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593671962931346",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1686274200061808641",
+     "start": 0,
+     "username": "Vethechamp0"
+    },
+    {
+     "end": 24,
+     "id": "1970561535765553153",
+     "start": 13,
+     "username": "rarelistio"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 18,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122594561222426763",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:35:53.000Z",
+  "text": "@SharkyWeb3 Gm Sharky",
+  "text_flat": "@SharkyWeb3 Gm Sharky",
+  "url": "https://x.com/andrewtalksdefi/status/2122594561222426763",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593778062004364",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1530456585348296705",
+     "start": 0,
+     "username": "SharkyWeb3"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122594602104307959",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:36:03.000Z",
+  "text": "@Krisbee @IThinkItsArt Gm Krisbee",
+  "text_flat": "@Krisbee @IThinkItsArt Gm Krisbee",
+  "url": "https://x.com/andrewtalksdefi/status/2122594602104307959",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122575254640120100",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1240242398078402560",
+     "start": 0,
+     "username": "Krisbee"
+    },
+    {
+     "end": 22,
+     "id": "1850160877841911809",
+     "start": 9,
+     "username": "IThinkItsArt"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122594626120929291",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:36:09.000Z",
+  "text": "@H1TMAN_ Gm Hitman",
+  "text_flat": "@H1TMAN_ Gm Hitman",
+  "url": "https://x.com/andrewtalksdefi/status/2122594626120929291",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122552808545431762",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "385244155",
+     "start": 0,
+     "username": "H1TMAN_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122595637942227214",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "original",
+  "created_at": "2026-11-17T07:40:10.000Z",
+  "text": "You’re handed $10k to invest in ONE crypto in this current market.\n\nWhich coin is your long-term play?",
+  "text_flat": "You’re handed $10k to invest in ONE crypto in this current market.  Which coin is your long-term play?",
+  "url": "https://x.com/andrewtalksdefi/status/2122595637942227214",
+  "lang": "en",
+  "conversation_id": "2122595637942227214",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 58,
+  "retweets": 0,
+  "replies": 28,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 3316,
+  "score": 114,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122595687342711171",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:40:22.000Z",
+  "text": "@blue__guy__ Gm Blue",
+  "text_flat": "@blue__guy__ Gm Blue",
+  "url": "https://x.com/andrewtalksdefi/status/2122595687342711171",
+  "lang": "en",
+  "conversation_id": "2122558591291084803",
+  "referenced": [
+   {
+    "id": "2122558591291084803",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1357944930405130241",
+     "start": 0,
+     "username": "blue__guy__"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122595822776824252",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:40:54.000Z",
+  "text": "@Velli_draws Morning fam",
+  "text_flat": "@Velli_draws Morning fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122595822776824252",
+  "lang": "en",
+  "conversation_id": "2122590727779545395",
+  "referenced": [
+   {
+    "id": "2122590727779545395",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1629282640661544963",
+     "start": 0,
+     "username": "Velli_draws"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122595917119238593",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:41:17.000Z",
+  "text": "@OG_Mavrickks Happy Taco Tuesday",
+  "text_flat": "@OG_Mavrickks Happy Taco Tuesday",
+  "url": "https://x.com/andrewtalksdefi/status/2122595917119238593",
+  "lang": "en",
+  "conversation_id": "2122590315177500719",
+  "referenced": [
+   {
+    "id": "2122590315177500719",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1805861686814834688",
+     "start": 0,
+     "username": "OG_Mavrickks"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122595977856958929",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:41:31.000Z",
+  "text": "@BigZynex Gm Zynex",
+  "text_flat": "@BigZynex Gm Zynex",
+  "url": "https://x.com/andrewtalksdefi/status/2122595977856958929",
+  "lang": "in",
+  "conversation_id": "2122585597134958860",
+  "referenced": [
+   {
+    "id": "2122585597134958860",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "2089075746555764737",
+     "start": 0,
+     "username": "BigZynex"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596028410966099",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:41:43.000Z",
+  "text": "@Suntrixonchain Gm Suntrix",
+  "text_flat": "@Suntrixonchain Gm Suntrix",
+  "url": "https://x.com/andrewtalksdefi/status/2122596028410966099",
+  "lang": "en",
+  "conversation_id": "2122582005124583807",
+  "referenced": [
+   {
+    "id": "2122582005124583807",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1720228713168572416",
+     "start": 0,
+     "username": "Suntrixonchain"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596204072570999",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:42:25.000Z",
+  "text": "@Lynketh2 @termix_ai Termix is built differently",
+  "text_flat": "@Lynketh2 @termix_ai Termix is built differently",
+  "url": "https://x.com/andrewtalksdefi/status/2122596204072570999",
+  "lang": "en",
+  "conversation_id": "2122523861149438184",
+  "referenced": [
+   {
+    "id": "2122523861149438184",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1554496037406253056",
+     "start": 0,
+     "username": "Lynketh2"
+    },
+    {
+     "end": 20,
+     "id": "1624979259365392385",
+     "start": 10,
+     "username": "termix_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596366870340064",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:43:04.000Z",
+  "text": "@serrlavida @primus_labs Proving data without exposing everything is a huge step for user privacy.",
+  "text_flat": "@serrlavida @primus_labs Proving data without exposing everything is a huge step for user privacy.",
+  "url": "https://x.com/andrewtalksdefi/status/2122596366870340064",
+  "lang": "en",
+  "conversation_id": "2122593415460172256",
+  "referenced": [
+   {
+    "id": "2122593415460172256",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1697943364048388096",
+     "start": 0,
+     "username": "serrlavida"
+    },
+    {
+     "end": 24,
+     "id": "1561611650196578304",
+     "start": 12,
+     "username": "primus_labs"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596589210325485",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:43:57.000Z",
+  "text": "@kengdaica @zerufinance Zeru is here to make real impact",
+  "text_flat": "@kengdaica @zerufinance Zeru is here to make real impact",
+  "url": "https://x.com/andrewtalksdefi/status/2122596589210325485",
+  "lang": "en",
+  "conversation_id": "2122519416151978376",
+  "referenced": [
+   {
+    "id": "2122519416151978376",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1297343586984321024",
+     "start": 0,
+     "username": "kengdaica"
+    },
+    {
+     "end": 23,
+     "id": "1534383076687716353",
+     "start": 11,
+     "username": "zerufinance"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596702179778846",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:44:24.000Z",
+  "text": "@khodeSL @zerufinance Transparency around how rewards are unlocked is important",
+  "text_flat": "@khodeSL @zerufinance Transparency around how rewards are unlocked is important",
+  "url": "https://x.com/andrewtalksdefi/status/2122596702179778846",
+  "lang": "en",
+  "conversation_id": "2122565292530299044",
+  "referenced": [
+   {
+    "id": "2122565292530299044",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1267421741510529028",
+     "start": 0,
+     "username": "khodeSL"
+    },
+    {
+     "end": 21,
+     "id": "1534383076687716353",
+     "start": 9,
+     "username": "zerufinance"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597501484040244",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:47:34.000Z",
+  "text": "@EhDhizy Gm Creek",
+  "text_flat": "@EhDhizy Gm Creek",
+  "url": "https://x.com/andrewtalksdefi/status/2122597501484040244",
+  "lang": "en",
+  "conversation_id": "2122579300897456230",
+  "referenced": [
+   {
+    "id": "2122579300897456230",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1674357149378519043",
+     "start": 0,
+     "username": "EhDhizy"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597564138602946",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:47:49.000Z",
+  "text": "@ItsEshOnX Morning Esh",
+  "text_flat": "@ItsEshOnX Morning Esh",
+  "url": "https://x.com/andrewtalksdefi/status/2122597564138602946",
+  "lang": "en",
+  "conversation_id": "2122583279127904431",
+  "referenced": [
+   {
+    "id": "2122583279127904431",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1736191799096651776",
+     "start": 0,
+     "username": "ItsEshOnX"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597672414540045",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:48:15.000Z",
+  "text": "@CaoMinhWeb3 Gm, happy Tuesday",
+  "text_flat": "@CaoMinhWeb3 Gm, happy Tuesday",
+  "url": "https://x.com/andrewtalksdefi/status/2122597672414540045",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122560553906499876",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1388157854058614785",
+     "start": 0,
+     "username": "CaoMinhWeb3"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597779746742631",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:48:41.000Z",
+  "text": "@0xSofiya Morning Sofiya",
+  "text_flat": "@0xSofiya Morning Sofiya",
+  "url": "https://x.com/andrewtalksdefi/status/2122597779746742631",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122577554783756595",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1221075469895983105",
+     "start": 0,
+     "username": "0xSofiya"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 29,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597856175370410",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:48:59.000Z",
+  "text": "@RealJackPoor Gm Fam",
+  "text_flat": "@RealJackPoor Gm Fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122597856175370410",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122591819087438149",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1384555689843040259",
+     "start": 0,
+     "username": "RealJackPoor"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597927180705857",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:49:16.000Z",
+  "text": "@Ryanhlx Gm Ryan",
+  "text_flat": "@Ryanhlx Gm Ryan",
+  "url": "https://x.com/andrewtalksdefi/status/2122597927180705857",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593645983682741",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "580351011",
+     "start": 0,
+     "username": "Ryanhlx"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 7,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122597986786021624",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:49:30.000Z",
+  "text": "@remmyxbt Happy brithday fam",
+  "text_flat": "@remmyxbt Happy brithday fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122597986786021624",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122570453994856670",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1315754564847534084",
+     "start": 0,
+     "username": "remmyxbt"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598043870437826",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:49:44.000Z",
+  "text": "@princeNFA @Its_Yuffy @SerenaBlez Good morning Prince",
+  "text_flat": "@princeNFA @Its_Yuffy @SerenaBlez Good morning Prince",
+  "url": "https://x.com/andrewtalksdefi/status/2122598043870437826",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122559611832016963",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1881648449713524736",
+     "start": 0,
+     "username": "princeNFA"
+    },
+    {
+     "end": 21,
+     "id": "1765243491259416577",
+     "start": 11,
+     "username": "Its_Yuffy"
+    },
+    {
+     "end": 33,
+     "id": "1481710405747716096",
+     "start": 22,
+     "username": "SerenaBlez"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598283281375350",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:50:41.000Z",
+  "text": "@sumonrazamd17 Good morning fam",
+  "text_flat": "@sumonrazamd17 Good morning fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122598283281375350",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122577978760786190",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1870397534646198272",
+     "start": 0,
+     "username": "sumonrazamd17"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598361299571091",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:50:59.000Z",
+  "text": "@Web3stunner_ @termix_ai Termix is here to make real impact",
+  "text_flat": "@Web3stunner_ @termix_ai Termix is here to make real impact",
+  "url": "https://x.com/andrewtalksdefi/status/2122598361299571091",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593195859103764",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1589691002452934656",
+     "start": 0,
+     "username": "Web3stunner_"
+    },
+    {
+     "end": 24,
+     "id": "1624979259365392385",
+     "start": 14,
+     "username": "termix_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 47,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598476756271510",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:51:27.000Z",
+  "text": "@NKLinhzk @termix_ai Clear value and real use case here",
+  "text_flat": "@NKLinhzk @termix_ai Clear value and real use case here",
+  "url": "https://x.com/andrewtalksdefi/status/2122598476756271510",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122523696661451202",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1619588940775960576",
+     "start": 0,
+     "username": "NKLinhzk"
+    },
+    {
+     "end": 20,
+     "id": "1624979259365392385",
+     "start": 10,
+     "username": "termix_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598606557319518",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:51:58.000Z",
+  "text": "@MFagam6 @rntprotocol RWAs need real utility, and RNT Lend is exploring exactly that.",
+  "text_flat": "@MFagam6 @rntprotocol RWAs need real utility, and RNT Lend is exploring exactly that.",
+  "url": "https://x.com/andrewtalksdefi/status/2122598606557319518",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122570662145351768",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "3057737274",
+     "start": 0,
+     "username": "MFagam6"
+    },
+    {
+     "end": 21,
+     "id": "1185975900640337921",
+     "start": 9,
+     "username": "rntprotocol"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 21,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598824552157453",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:52:50.000Z",
+  "text": "@abdulhakeemson0 @Acurast This is the kind of innovation that makes crypto truly accessible.",
+  "text_flat": "@abdulhakeemson0 @Acurast This is the kind of innovation that makes crypto truly accessible.",
+  "url": "https://x.com/andrewtalksdefi/status/2122598824552157453",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122534661523927071",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1189167288244674560",
+     "start": 0,
+     "username": "abdulhakeemson0"
+    },
+    {
+     "end": 25,
+     "id": "1518977625062088704",
+     "start": 17,
+     "username": "Acurast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122598938066743446",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:53:17.000Z",
+  "text": "@NKLinhzk @Acurast Exactly the kind of infra we needed",
+  "text_flat": "@NKLinhzk @Acurast Exactly the kind of infra we needed",
+  "url": "https://x.com/andrewtalksdefi/status/2122598938066743446",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122505123415073171",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1619588940775960576",
+     "start": 0,
+     "username": "NKLinhzk"
+    },
+    {
+     "end": 18,
+     "id": "1518977625062088704",
+     "start": 10,
+     "username": "Acurast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599052986421757",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:53:44.000Z",
+  "text": "@Real_TShelby @Acurast Nice to see projects like this growing.",
+  "text_flat": "@Real_TShelby @Acurast Nice to see projects like this growing.",
+  "url": "https://x.com/andrewtalksdefi/status/2122599052986421757",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122510032185024559",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1547833388395966464",
+     "start": 0,
+     "username": "Real_TShelby"
+    },
+    {
+     "end": 22,
+     "id": "1518977625062088704",
+     "start": 14,
+     "username": "Acurast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599426988331293",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:55:14.000Z",
+  "text": "@0xPeggy_ Love what they're building here",
+  "text_flat": "@0xPeggy_ Love what they're building here",
+  "url": "https://x.com/andrewtalksdefi/status/2122599426988331293",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122125282656272557",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "2016309131666456576",
+     "start": 0,
+     "username": "0xPeggy_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599504440361003",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:55:32.000Z",
+  "text": "@0xALTF4 Gm Fam",
+  "text_flat": "@0xALTF4 Gm Fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122599504440361003",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122592979164823928",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1658490282005127172",
+     "start": 0,
+     "username": "0xALTF4"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599747382845611",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:56:30.000Z",
+  "text": "@0xSnaG @0xALTF4 Morning Snag",
+  "text_flat": "@0xSnaG @0xALTF4 Morning Snag",
+  "url": "https://x.com/andrewtalksdefi/status/2122599747382845611",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593150342472137",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1723073161124581376",
+     "start": 0,
+     "username": "0xSnaG"
+    },
+    {
+     "end": 16,
+     "id": "1658490282005127172",
+     "start": 8,
+     "username": "0xALTF4"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599790357659968",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:56:40.000Z",
+  "text": "@nftbotx Gm Vyre",
+  "text_flat": "@nftbotx Gm Vyre",
+  "url": "https://x.com/andrewtalksdefi/status/2122599790357659968",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122598657509707966",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1394562711137230849",
+     "start": 0,
+     "username": "nftbotx"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599979407601664",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:57:25.000Z",
+  "text": "@MrPraetorian Morning Jimmy, Keep winning.",
+  "text_flat": "@MrPraetorian Morning Jimmy, Keep winning.",
+  "url": "https://x.com/andrewtalksdefi/status/2122599979407601664",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122594675034828857",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "2874198844",
+     "start": 0,
+     "username": "MrPraetorian"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122600242382078326",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T07:58:28.000Z",
+  "text": "@jaadasss @termix_ai Gm Pooja, have a great day.",
+  "text_flat": "@jaadasss @termix_ai Gm Pooja, have a great day.",
+  "url": "https://x.com/andrewtalksdefi/status/2122600242382078326",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122564129206731240",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "2313381818",
+     "start": 0,
+     "username": "jaadasss"
+    },
+    {
+     "end": 20,
+     "id": "1624979259365392385",
+     "start": 10,
+     "username": "termix_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122600771770323059",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:00:34.000Z",
+  "text": "@Web3Niels Top of the morning fam",
+  "text_flat": "@Web3Niels Top of the morning fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122600771770323059",
+  "lang": "en",
+  "conversation_id": "2122599655003566476",
+  "referenced": [
+   {
+    "id": "2122599655003566476",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "2571486783",
+     "start": 0,
+     "username": "Web3Niels"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122600815361753336",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:00:45.000Z",
+  "text": "@Victorerick001 Gm Victor",
+  "text_flat": "@Victorerick001 Gm Victor",
+  "url": "https://x.com/andrewtalksdefi/status/2122600815361753336",
+  "lang": "en",
+  "conversation_id": "2122544326978728315",
+  "referenced": [
+   {
+    "id": "2122544326978728315",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1501942264494362634",
+     "start": 0,
+     "username": "Victorerick001"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122600849582993465",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:00:53.000Z",
+  "text": "@Lhzzr Gm Lhzr",
+  "text_flat": "@Lhzzr Gm Lhzr",
+  "url": "https://x.com/andrewtalksdefi/status/2122600849582993465",
+  "lang": "lv",
+  "conversation_id": "2122587063077752943",
+  "referenced": [
+   {
+    "id": "2122587063077752943",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 6,
+     "id": "1053561378047492096",
+     "start": 0,
+     "username": "Lhzzr"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122600930482823504",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:01:12.000Z",
+  "text": "@legbo_ Gm Legbo",
+  "text_flat": "@legbo_ Gm Legbo",
+  "url": "https://x.com/andrewtalksdefi/status/2122600930482823504",
+  "lang": "ht",
+  "conversation_id": "2122595788119544177",
+  "referenced": [
+   {
+    "id": "2122595788119544177",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1301482661303611393",
+     "start": 0,
+     "username": "legbo_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601076293513674",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:01:47.000Z",
+  "text": "@Hofers Gm Hofer",
+  "text_flat": "@Hofers Gm Hofer",
+  "url": "https://x.com/andrewtalksdefi/status/2122601076293513674",
+  "lang": "de",
+  "conversation_id": "2122575844090765401",
+  "referenced": [
+   {
+    "id": "2122575844090765401",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1053309451",
+     "start": 0,
+     "username": "Hofers"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601772841570360",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:04:33.000Z",
+  "text": "@drewxeth Gm Drew",
+  "text_flat": "@drewxeth Gm Drew",
+  "url": "https://x.com/andrewtalksdefi/status/2122601772841570360",
+  "lang": "en",
+  "conversation_id": "2122597239210336677",
+  "referenced": [
+   {
+    "id": "2122597239210336677",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1780277425173131265",
+     "start": 0,
+     "username": "drewxeth"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 18,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601902399484043",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:05:04.000Z",
+  "text": "@Clintoncc_ Gm Orange.",
+  "text_flat": "@Clintoncc_ Gm Orange.",
+  "url": "https://x.com/andrewtalksdefi/status/2122601902399484043",
+  "lang": "in",
+  "conversation_id": "2122594572874227777",
+  "referenced": [
+   {
+    "id": "2122594572874227777",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1664399297423503361",
+     "start": 0,
+     "username": "Clintoncc_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602004803358841",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:05:28.000Z",
+  "text": "@BroosterWeb3 @IThinkItsArt Morning Brooster",
+  "text_flat": "@BroosterWeb3 @IThinkItsArt Morning Brooster",
+  "url": "https://x.com/andrewtalksdefi/status/2122602004803358841",
+  "lang": "en",
+  "conversation_id": "2122570833524883949",
+  "referenced": [
+   {
+    "id": "2122570833524883949",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1378734742565163009",
+     "start": 0,
+     "username": "BroosterWeb3"
+    },
+    {
+     "end": 27,
+     "id": "1850160877841911809",
+     "start": 14,
+     "username": "IThinkItsArt"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602050076774682",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:05:39.000Z",
+  "text": "@Derick_Connect Gm Derick",
+  "text_flat": "@Derick_Connect Gm Derick",
+  "url": "https://x.com/andrewtalksdefi/status/2122602050076774682",
+  "lang": "en",
+  "conversation_id": "2122562062400307319",
+  "referenced": [
+   {
+    "id": "2122562062400307319",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "909810964668788736",
+     "start": 0,
+     "username": "Derick_Connect"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602508228894788",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:07:28.000Z",
+  "text": "@chiragxik76787 At this point Grok deserves a salary from you.",
+  "text_flat": "@chiragxik76787 At this point Grok deserves a salary from you.",
+  "url": "https://x.com/andrewtalksdefi/status/2122602508228894788",
+  "lang": "en",
+  "conversation_id": "2122585529258848640",
+  "referenced": [
+   {
+    "id": "2122585529258848640",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1881604593181675520",
+     "start": 0,
+     "username": "chiragxik76787"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 17,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602552445305054",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:07:39.000Z",
+  "text": "@keenn_eth Gm Kenn",
+  "text_flat": "@keenn_eth Gm Kenn",
+  "url": "https://x.com/andrewtalksdefi/status/2122602552445305054",
+  "lang": "ht",
+  "conversation_id": "2122577413347438862",
+  "referenced": [
+   {
+    "id": "2122577413347438862",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1685251013857476608",
+     "start": 0,
+     "username": "keenn_eth"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602581172113742",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:07:46.000Z",
+  "text": "@waleed_awc Gm Waleed",
+  "text_flat": "@waleed_awc Gm Waleed",
+  "url": "https://x.com/andrewtalksdefi/status/2122602581172113742",
+  "lang": "en",
+  "conversation_id": "2122581661233647986",
+  "referenced": [
+   {
+    "id": "2122581661233647986",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1644462515269582850",
+     "start": 0,
+     "username": "waleed_awc"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602636314595758",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:07:59.000Z",
+  "text": "@woryinX Gm  woryin, have a great day",
+  "text_flat": "@woryinX Gm  woryin, have a great day",
+  "url": "https://x.com/andrewtalksdefi/status/2122602636314595758",
+  "lang": "en",
+  "conversation_id": "2122564027410706602",
+  "referenced": [
+   {
+    "id": "2122564027410706602",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1523982039812395010",
+     "start": 0,
+     "username": "woryinX"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 20,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602687573246105",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:08:11.000Z",
+  "text": "@ZeoWeb3 @rarelistio Top of the morning fam",
+  "text_flat": "@ZeoWeb3 @rarelistio Top of the morning fam",
+  "url": "https://x.com/andrewtalksdefi/status/2122602687573246105",
+  "lang": "en",
+  "conversation_id": "2122585515044282864",
+  "referenced": [
+   {
+    "id": "2122585515044282864",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1631920198617030657",
+     "start": 0,
+     "username": "ZeoWeb3"
+    },
+    {
+     "end": 20,
+     "id": "1970561535765553153",
+     "start": 9,
+     "username": "rarelistio"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602739003695223",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:08:23.000Z",
+  "text": "@ROGUE_of_Web3 Gm Rogue",
+  "text_flat": "@ROGUE_of_Web3 Gm Rogue",
+  "url": "https://x.com/andrewtalksdefi/status/2122602739003695223",
+  "lang": "en",
+  "conversation_id": "2122570829892636753",
+  "referenced": [
+   {
+    "id": "2122570829892636753",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1252990527643045888",
+     "start": 0,
+     "username": "ROGUE_of_Web3"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602775582236804",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:08:32.000Z",
+  "text": "@mok4vi Gm Moka",
+  "text_flat": "@mok4vi Gm Moka",
+  "url": "https://x.com/andrewtalksdefi/status/2122602775582236804",
+  "lang": "en",
+  "conversation_id": "2122566785732100411",
+  "referenced": [
+   {
+    "id": "2122566785732100411",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1800634570758299648",
+     "start": 0,
+     "username": "mok4vi"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 20,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602855374737852",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:08:51.000Z",
+  "text": "@kozei Good morning Kozei",
+  "text_flat": "@kozei Good morning Kozei",
+  "url": "https://x.com/andrewtalksdefi/status/2122602855374737852",
+  "lang": "en",
+  "conversation_id": "2122601507891908857",
+  "referenced": [
+   {
+    "id": "2122601507891908857",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 6,
+     "id": "1218270888057036801",
+     "start": 0,
+     "username": "kozei"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122603237786140779",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:10:22.000Z",
+  "text": "@Maribtxn Nice. $Hype is on my watchlist.",
+  "text_flat": "@Maribtxn Nice. $Hype is on my watchlist.",
+  "url": "https://x.com/andrewtalksdefi/status/2122603237786140779",
+  "lang": "en",
+  "conversation_id": "2122595637942227214",
+  "referenced": [
+   {
+    "id": "2122602825364521440",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "cashtags": [
+    {
+     "end": 21,
+     "start": 16,
+     "tag": "Hype"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 9,
+     "id": "806461502337191936",
+     "start": 0,
+     "username": "Maribtxn"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 40,
+  "score": 0,
+  "cashtags": [
+   "HYPE",
+   "Hype"
+  ],
+  "hashtags": []
+ },
+ {
+  "id": "2122603410662797456",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:11:03.000Z",
+  "text": "@Victorerick001 🔥🔥",
+  "text_flat": "@Victorerick001 🔥🔥",
+  "url": "https://x.com/andrewtalksdefi/status/2122603410662797456",
+  "lang": "qme",
+  "conversation_id": "2122595637942227214",
+  "referenced": [
+   {
+    "id": "2122602607676166482",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1501942264494362634",
+     "start": 0,
+     "username": "Victorerick001"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 26,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122603729400607169",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:12:19.000Z",
+  "text": "@Kingface_13 @argonauts9999 Gm King",
+  "text_flat": "@Kingface_13 @argonauts9999 Gm King",
+  "url": "https://x.com/andrewtalksdefi/status/2122603729400607169",
+  "lang": "en",
+  "conversation_id": "2122596476878492152",
+  "referenced": [
+   {
+    "id": "2122596476878492152",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "485896666",
+     "start": 0,
+     "username": "Kingface_13"
+    },
+    {
+     "end": 27,
+     "id": "2092612195834028032",
+     "start": 13,
+     "username": "argonauts9999"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122605472536797517",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:19:15.000Z",
+  "text": "@zuri_nft Good morning Zuri",
+  "text_flat": "@zuri_nft Good morning Zuri",
+  "url": "https://x.com/andrewtalksdefi/status/2122605472536797517",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122603815505732053",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1679095392778985472",
+     "start": 0,
+     "username": "zuri_nft"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 17,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122605682415575183",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:20:05.000Z",
+  "text": "@muhitonx Gm Muhit",
+  "text_flat": "@muhitonx Gm Muhit",
+  "url": "https://x.com/andrewtalksdefi/status/2122605682415575183",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122542203859787913",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1744692286980825088",
+     "start": 0,
+     "username": "muhitonx"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122605745233662356",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:20:20.000Z",
+  "text": "@_web3dan Gm Dan",
+  "text_flat": "@_web3dan Gm Dan",
+  "url": "https://x.com/andrewtalksdefi/status/2122605745233662356",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122575153322135947",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1898790975339712512",
+     "start": 0,
+     "username": "_web3dan"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122605850246189452",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:20:45.000Z",
+  "text": "@cryptosanthoshK Grand raising champ",
+  "text_flat": "@cryptosanthoshK Grand raising champ",
+  "url": "https://x.com/andrewtalksdefi/status/2122605850246189452",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122585440339329485",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1544044068413521922",
+     "start": 0,
+     "username": "cryptosanthoshK"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122606360156156315",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:22:47.000Z",
+  "text": "@axeodust @akidcalledbeast Gm Gm",
+  "text_flat": "@axeodust @akidcalledbeast Gm Gm",
+  "url": "https://x.com/andrewtalksdefi/status/2122606360156156315",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122593952280739914",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "191751766",
+     "start": 0,
+     "username": "axeodust"
+    },
+    {
+     "end": 26,
+     "id": "1471084534208815106",
+     "start": 10,
+     "username": "akidcalledbeast"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122606627832672383",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:23:50.000Z",
+  "text": "@TedPillows Market crashing everyday",
+  "text_flat": "@TedPillows Market crashing everyday",
+  "url": "https://x.com/andrewtalksdefi/status/2122606627832672383",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122601720278888558",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "3222562058",
+     "start": 0,
+     "username": "TedPillows"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 79,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122607726039535712",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:28:12.000Z",
+  "text": "@SebyCore Gm SebyG",
+  "text_flat": "@SebyCore Gm SebyG",
+  "url": "https://x.com/andrewtalksdefi/status/2122607726039535712",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122585543133516172",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "35895939",
+     "start": 0,
+     "username": "SebyCore"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122607760097305063",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:28:20.000Z",
+  "text": "@renksieth Gm Renski",
+  "text_flat": "@renksieth Gm Renski",
+  "url": "https://x.com/andrewtalksdefi/status/2122607760097305063",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122595446459941146",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1337851478782959617",
+     "start": 0,
+     "username": "renksieth"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122607806629154896",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:28:31.000Z",
+  "text": "@9FStudioArt Happy taco Tuesday",
+  "text_flat": "@9FStudioArt Happy taco Tuesday",
+  "url": "https://x.com/andrewtalksdefi/status/2122607806629154896",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122582382595461140",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "946430947662086144",
+     "start": 0,
+     "username": "9FStudioArt"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 26,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122607915521458562",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T08:28:57.000Z",
+  "text": "@OzzyChina Gm Ozzy",
+  "text_flat": "@OzzyChina Gm Ozzy",
+  "url": "https://x.com/andrewtalksdefi/status/2122607915521458562",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122580839913632056",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "263211294",
+     "start": 0,
+     "username": "OzzyChina"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122623570706657284",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T09:31:10.000Z",
+  "text": "@theee_roman Gm Roman",
+  "text_flat": "@theee_roman Gm Roman",
+  "url": "https://x.com/andrewtalksdefi/status/2122623570706657284",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122608824292925517",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1550073155288440832",
+     "start": 0,
+     "username": "theee_roman"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 24,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122624373555360101",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T09:34:21.000Z",
+  "text": "@solrajab Gm Raj",
+  "text_flat": "@solrajab Gm Raj",
+  "url": "https://x.com/andrewtalksdefi/status/2122624373555360101",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122619496573653445",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1489369844394999812",
+     "start": 0,
+     "username": "solrajab"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122662163542106259",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "retweet",
+  "created_at": "2026-11-17T12:04:31.000Z",
+  "text": "RT @andrewtalksdefi: You’re handed $10k to invest in ONE crypto in this current market.\n\nWhich coin is your long-term play?",
+  "text_flat": "RT @andrewtalksdefi: You’re handed $10k to invest in ONE crypto in this current market.  Which coin is your long-term play?",
+  "url": "https://x.com/andrewtalksdefi/status/2122662163542106259",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122595637942227214",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1440083813657284625",
+     "start": 3,
+     "username": "andrewtalksdefi"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122664248849350706",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:12:48.000Z",
+  "text": "@MrPraetorian @GeckoTerminal GTA VI is about to take over timelines.",
+  "text_flat": "@MrPraetorian @GeckoTerminal GTA VI is about to take over timelines.",
+  "url": "https://x.com/andrewtalksdefi/status/2122664248849350706",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122654345506246861",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "2874198844",
+     "start": 0,
+     "username": "MrPraetorian"
+    },
+    {
+     "end": 28,
+     "id": "1410787559467151363",
+     "start": 14,
+     "username": "GeckoTerminal"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 21,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122664293740986642",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:12:59.000Z",
+  "text": "@MorkHood Gm Mork",
+  "text_flat": "@MorkHood Gm Mork",
+  "url": "https://x.com/andrewtalksdefi/status/2122664293740986642",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122618913867600116",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1393093556609458179",
+     "start": 0,
+     "username": "MorkHood"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122673730581037139",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:50:29.000Z",
+  "text": "@abdulhakeemson0 This concept could grow into something big.",
+  "text_flat": "@abdulhakeemson0 This concept could grow into something big.",
+  "url": "https://x.com/andrewtalksdefi/status/2122673730581037139",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122585453803008448",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1189167288244674560",
+     "start": 0,
+     "username": "abdulhakeemson0"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122673947523101170",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:51:21.000Z",
+  "text": "@mellyssandraa @Acurast Reputation-based reliability is an important piece for DePIN adoption.",
+  "text_flat": "@mellyssandraa @Acurast Reputation-based reliability is an important piece for DePIN adoption.",
+  "url": "https://x.com/andrewtalksdefi/status/2122673947523101170",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122670894082318756",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1915214676348329985",
+     "start": 0,
+     "username": "mellyssandraa"
+    },
+    {
+     "end": 23,
+     "id": "1518977625062088704",
+     "start": 15,
+     "username": "Acurast"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122674894773096806",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:55:06.000Z",
+  "text": "@Hurrrt100x Cool. FB.",
+  "text_flat": "@Hurrrt100x Cool. FB.",
+  "url": "https://x.com/andrewtalksdefi/status/2122674894773096806",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122373532969476386",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "627371909",
+     "start": 0,
+     "username": "Hurrrt100x"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122674981104488683",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:55:27.000Z",
+  "text": "@MrCryptoPandaa @primus_labs Primus is building something truly special here",
+  "text_flat": "@MrCryptoPandaa @primus_labs Primus is building something truly special here",
+  "url": "https://x.com/andrewtalksdefi/status/2122674981104488683",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122637763753496944",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1449825887537356806",
+     "start": 0,
+     "username": "MrCryptoPandaa"
+    },
+    {
+     "end": 28,
+     "id": "1561611650196578304",
+     "start": 16,
+     "username": "primus_labs"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 19,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122675289520050537",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:56:41.000Z",
+  "text": "@ItsEshOnX @quirkiesnft Bro might be small, but the aura is massive.",
+  "text_flat": "@ItsEshOnX @quirkiesnft Bro might be small, but the aura is massive.",
+  "url": "https://x.com/andrewtalksdefi/status/2122675289520050537",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122627077283418213",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1736191799096651776",
+     "start": 0,
+     "username": "ItsEshOnX"
+    },
+    {
+     "end": 23,
+     "id": "1478970178931097601",
+     "start": 11,
+     "username": "quirkiesnft"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122675610665267304",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:57:57.000Z",
+  "text": "@Gamerfigirl @termix_ai Utility like this drives mass adoption",
+  "text_flat": "@Gamerfigirl @termix_ai Utility like this drives mass adoption",
+  "url": "https://x.com/andrewtalksdefi/status/2122675610665267304",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122571133518074101",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1668957177665445888",
+     "start": 0,
+     "username": "Gamerfigirl"
+    },
+    {
+     "end": 23,
+     "id": "1624979259365392385",
+     "start": 13,
+     "username": "termix_ai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122675769553867192",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:58:35.000Z",
+  "text": "@_Pretty_Miraa zETH launch model feels fresh and worth watching.",
+  "text_flat": "@_Pretty_Miraa zETH launch model feels fresh and worth watching.",
+  "url": "https://x.com/andrewtalksdefi/status/2122675769553867192",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122513302320509174",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1462018656062394368",
+     "start": 0,
+     "username": "_Pretty_Miraa"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122675974269546996",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T12:59:24.000Z",
+  "text": "@Rigelcrypt @Morpho Utility and distribution matter more than flashy APYs.",
+  "text_flat": "@Rigelcrypt @Morpho Utility and distribution matter more than flashy APYs.",
+  "url": "https://x.com/andrewtalksdefi/status/2122675974269546996",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122625968170815921",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "33778988",
+     "start": 0,
+     "username": "Rigelcrypt"
+    },
+    {
+     "end": 19,
+     "id": "1420789685811650560",
+     "start": 12,
+     "username": "Morpho"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 13,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122676174610465068",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:00:12.000Z",
+  "text": "@nguyenthambt @GeckoTerminal It's smart to compare volume and liquidity before diving into new pools.",
+  "text_flat": "@nguyenthambt @GeckoTerminal It's smart to compare volume and liquidity before diving into new pools.",
+  "url": "https://x.com/andrewtalksdefi/status/2122676174610465068",
+  "lang": "en",
+  "conversation_id": "2122620789153554521",
+  "referenced": [
+   {
+    "id": "2122620789153554521",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1896955841380823041",
+     "start": 0,
+     "username": "nguyenthambt"
+    },
+    {
+     "end": 28,
+     "id": "1410787559467151363",
+     "start": 14,
+     "username": "GeckoTerminal"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122676342877512118",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:00:52.000Z",
+  "text": "@XammieCrypt @termix_ai @johnking_eth @xbbory482 @gokorea2022 @HenriLee92 @AdamsuMus @yangxin_chen This is the kind of innovation that makes crypto truly accessible.",
+  "text_flat": "@XammieCrypt @termix_ai @johnking_eth @xbbory482 @gokorea2022 @HenriLee92 @AdamsuMus @yangxin_chen This is the kind of innovation that makes crypto truly accessible.",
+  "url": "https://x.com/andrewtalksdefi/status/2122676342877512118",
+  "lang": "en",
+  "conversation_id": "2122621911385395241",
+  "referenced": [
+   {
+    "id": "2122621911385395241",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1107038577609842690",
+     "start": 0,
+     "username": "XammieCrypt"
+    },
+    {
+     "end": 23,
+     "id": "1624979259365392385",
+     "start": 13,
+     "username": "termix_ai"
+    },
+    {
+     "end": 37,
+     "id": "1444432981876035585",
+     "start": 24,
+     "username": "johnking_eth"
+    },
+    {
+     "end": 48,
+     "id": "963995692640321536",
+     "start": 38,
+     "username": "xbbory482"
+    },
+    {
+     "end": 61,
+     "id": "1470026635093352450",
+     "start": 49,
+     "username": "gokorea2022"
+    },
+    {
+     "end": 73,
+     "id": "1466203907609477120",
+     "start": 62,
+     "username": "HenriLee92"
+    },
+    {
+     "end": 84,
+     "id": "52278924",
+     "start": 74,
+     "username": "AdamsuMus"
+    },
+    {
+     "end": 98,
+     "id": "4740089114",
+     "start": 85,
+     "username": "yangxin_chen"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122676891018576185",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:03:02.000Z",
+  "text": "@e4ma_officiall @primus_labs Looking forward to seeing more from Primus.",
+  "text_flat": "@e4ma_officiall @primus_labs Looking forward to seeing more from Primus.",
+  "url": "https://x.com/andrewtalksdefi/status/2122676891018576185",
+  "lang": "en",
+  "conversation_id": "2122614435520864698",
+  "referenced": [
+   {
+    "id": "2122614435520864698",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1345838704926076937",
+     "start": 0,
+     "username": "e4ma_officiall"
+    },
+    {
+     "end": 28,
+     "id": "1561611650196578304",
+     "start": 16,
+     "username": "primus_labs"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 14,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122677086770856248",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:03:49.000Z",
+  "text": "@mr_ferdiansah @termix_ai @claudeai Agent-powered creativity is just getting started.",
+  "text_flat": "@mr_ferdiansah @termix_ai @claudeai Agent-powered creativity is just getting started.",
+  "url": "https://x.com/andrewtalksdefi/status/2122677086770856248",
+  "lang": "en",
+  "conversation_id": "2122648763122802910",
+  "referenced": [
+   {
+    "id": "2122648763122802910",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1455033100719693833",
+     "start": 0,
+     "username": "mr_ferdiansah"
+    },
+    {
+     "end": 25,
+     "id": "1624979259365392385",
+     "start": 15,
+     "username": "termix_ai"
+    },
+    {
+     "end": 35,
+     "id": "1943306828697550848",
+     "start": 26,
+     "username": "claudeai"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122677194979787064",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:04:15.000Z",
+  "text": "@Sainoleno Solid breakdown right here",
+  "text_flat": "@Sainoleno Solid breakdown right here",
+  "url": "https://x.com/andrewtalksdefi/status/2122677194979787064",
+  "lang": "en",
+  "conversation_id": "2122555112367227206",
+  "referenced": [
+   {
+    "id": "2122555112367227206",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1737153252406251520",
+     "start": 0,
+     "username": "Sainoleno"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122677547989098708",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:05:39.000Z",
+  "text": "@Hashmeta_x @onlystreetsfun The execution level here is top-tier",
+  "text_flat": "@Hashmeta_x @onlystreetsfun The execution level here is top-tier",
+  "url": "https://x.com/andrewtalksdefi/status/2122677547989098708",
+  "lang": "en",
+  "conversation_id": "2122540230435905707",
+  "referenced": [
+   {
+    "id": "2122540230435905707",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1907050883126312960",
+     "start": 0,
+     "username": "Hashmeta_x"
+    },
+    {
+     "end": 27,
+     "id": "2113344140901527552",
+     "start": 12,
+     "username": "onlystreetsfun"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122678073938079791",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:07:44.000Z",
+  "text": "@TheCryptoBlade @rntprotocol Staking tied to actual protocol revenue is definitely worth exploring.",
+  "text_flat": "@TheCryptoBlade @rntprotocol Staking tied to actual protocol revenue is definitely worth exploring.",
+  "url": "https://x.com/andrewtalksdefi/status/2122678073938079791",
+  "lang": "en",
+  "conversation_id": "2122578980234514724",
+  "referenced": [
+   {
+    "id": "2122578980234514724",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1394665045867499523",
+     "start": 0,
+     "username": "TheCryptoBlade"
+    },
+    {
+     "end": 28,
+     "id": "1185975900640337921",
+     "start": 16,
+     "username": "rntprotocol"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122678380159967628",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:08:57.000Z",
+  "text": "@Realboybr @onlystreetsfun This gives OnlyStreets a unique angle in the Solana meme ecosystem.",
+  "text_flat": "@Realboybr @onlystreetsfun This gives OnlyStreets a unique angle in the Solana meme ecosystem.",
+  "url": "https://x.com/andrewtalksdefi/status/2122678380159967628",
+  "lang": "en",
+  "conversation_id": "2122546950016782455",
+  "referenced": [
+   {
+    "id": "2122546950016782455",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1713218878803755008",
+     "start": 0,
+     "username": "Realboybr"
+    },
+    {
+     "end": 26,
+     "id": "2113344140901527552",
+     "start": 11,
+     "username": "onlystreetsfun"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 22,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122678664160485723",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:10:05.000Z",
+  "text": "@itsNoble00 @primus_labs This is what real utility looks like",
+  "text_flat": "@itsNoble00 @primus_labs This is what real utility looks like",
+  "url": "https://x.com/andrewtalksdefi/status/2122678664160485723",
+  "lang": "en",
+  "conversation_id": "2122447794069798912",
+  "referenced": [
+   {
+    "id": "2122447794069798912",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1900850989164318720",
+     "start": 0,
+     "username": "itsNoble00"
+    },
+    {
+     "end": 24,
+     "id": "1561611650196578304",
+     "start": 12,
+     "username": "primus_labs"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 12,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122680392679330160",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:16:57.000Z",
+  "text": "@SimonDesue @kucoincom Black Friday alpha is looking interesting.",
+  "text_flat": "@SimonDesue @kucoincom Black Friday alpha is looking interesting.",
+  "url": "https://x.com/andrewtalksdefi/status/2122680392679330160",
+  "lang": "en",
+  "conversation_id": "2122321243957527036",
+  "referenced": [
+   {
+    "id": "2122321243957527036",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "15076680",
+     "start": 0,
+     "username": "SimonDesue"
+    },
+    {
+     "end": 22,
+     "id": "910110294625492992",
+     "start": 12,
+     "username": "kucoincom"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 7,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122680627224772953",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:17:53.000Z",
+  "text": "@NKLinhzk @rntprotocol Love seeing more transparency around how RWA vaults work.",
+  "text_flat": "@NKLinhzk @rntprotocol Love seeing more transparency around how RWA vaults work.",
+  "url": "https://x.com/andrewtalksdefi/status/2122680627224772953",
+  "lang": "en",
+  "conversation_id": "2122233359044890915",
+  "referenced": [
+   {
+    "id": "2122233359044890915",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1619588940775960576",
+     "start": 0,
+     "username": "NKLinhzk"
+    },
+    {
+     "end": 22,
+     "id": "1185975900640337921",
+     "start": 10,
+     "username": "rntprotocol"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 6,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122680768618995807",
+  "username": "andrewtalksdefi",
+  "username_canon": "andrewtalksdefi",
+  "type": "reply",
+  "created_at": "2026-11-17T13:18:27.000Z",
+  "text": "@nguyenthambt @zerufinance Zeru is here to make real impact..",
+  "text_flat": "@nguyenthambt @zerufinance Zeru is here to make real impact..",
+  "url": "https://x.com/andrewtalksdefi/status/2122680768618995807",
+  "lang": "en",
+  "conversation_id": "2122517539939103159",
+  "referenced": [
+   {
+    "id": "2122517539939103159",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1896955841380823041",
+     "start": 0,
+     "username": "nguyenthambt"
+    },
+    {
+     "end": 26,
+     "id": "1534383076687716353",
+     "start": 14,
+     "username": "zerufinance"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

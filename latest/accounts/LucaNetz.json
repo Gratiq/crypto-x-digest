@@ -1,0 +1,422 @@
+[
+ {
+  "id": "2122484473208111281",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T00:18:26.000Z",
+  "text": "@armaniferrante @maxpsyop @Backpack Absolute 🐐",
+  "text_flat": "@armaniferrante @maxpsyop @Backpack Absolute 🐐",
+  "url": "https://x.com/LucaNetz/status/2122484473208111281",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122457061711601969",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "276810355",
+     "start": 0,
+     "username": "armaniferrante"
+    },
+    {
+     "end": 25,
+     "id": "1628428331451310083",
+     "start": 16,
+     "username": "maxpsyop"
+    },
+    {
+     "end": 35,
+     "id": "1498029602261905408",
+     "start": 26,
+     "username": "Backpack"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 5,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 631,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485367332904965",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T00:22:00.000Z",
+  "text": "@UnchainedDaniel Can’t wait to try it!",
+  "text_flat": "@UnchainedDaniel Can’t wait to try it!",
+  "url": "https://x.com/LucaNetz/status/2122485367332904965",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122324810105852243",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1414484408212545537",
+     "start": 0,
+     "username": "UnchainedDaniel"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 387,
+  "score": 4,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122485610334015737",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T00:22:58.000Z",
+  "text": "@gondixyz Epic! 🐐",
+  "text_flat": "@gondixyz Epic! 🐐",
+  "url": "https://x.com/LucaNetz/status/2122485610334015737",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122357666299424930",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1641174130224685056",
+     "start": 0,
+     "username": "gondixyz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 525,
+  "score": 8,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122513903343059198",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T02:15:23.000Z",
+  "text": "@mommacryptoOG @pudgypenguins 🔥",
+  "text_flat": "@mommacryptoOG @pudgypenguins 🔥",
+  "url": "https://x.com/LucaNetz/status/2122513903343059198",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122504078790135935",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1352754420186976257",
+     "start": 0,
+     "username": "mommacryptoOG"
+    },
+    {
+     "end": 29,
+     "id": "1415078650039443456",
+     "start": 15,
+     "username": "pudgypenguins"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 251,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122514269019197944",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "quote",
+  "created_at": "2026-11-17T02:16:50.000Z",
+  "text": "Mobile perps is the ultimate race to be won. https://t.co/QDhxzbcgRN",
+  "text_flat": "Mobile perps is the ultimate race to be won. https://t.co/QDhxzbcgRN",
+  "url": "https://x.com/LucaNetz/status/2122514269019197944",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122485901813043412",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 68,
+     "start": 45,
+     "url": "https://t.co/QDhxzbcgRN"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 104,
+  "retweets": 11,
+  "replies": 29,
+  "quotes": 1,
+  "bookmarks": 11,
+  "impressions": 11262,
+  "score": 209,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122514594539204681",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "retweet",
+  "created_at": "2026-11-17T02:18:08.000Z",
+  "text": "RT @pudgypenguins: The Huddle took over Beijing 🇨🇳 \n\nPengu is everywhere. https://t.co/GbYNU4on4I",
+  "text_flat": "RT @pudgypenguins: The Huddle took over Beijing 🇨🇳   Pengu is everywhere. https://t.co/GbYNU4on4I",
+  "url": "https://x.com/LucaNetz/status/2122514594539204681",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122377481273667941",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1415078650039443456",
+     "start": 3,
+     "username": "pudgypenguins"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 50,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2047,
+  "score": 150,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122514593364721793",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T02:18:08.000Z",
+  "text": "@pudgypenguins https://t.co/aonQdTktbv",
+  "text_flat": "@pudgypenguins https://t.co/aonQdTktbv",
+  "url": "https://x.com/LucaNetz/status/2122514593364721793",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122377481273667941",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1415078650039443456",
+     "start": 0,
+     "username": "pudgypenguins"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 8,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 697,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122514891290312978",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T02:19:19.000Z",
+  "text": "@annamerica @pudgypenguins @becca_nfts 💙❤️",
+  "text_flat": "@annamerica @pudgypenguins @becca_nfts 💙❤️",
+  "url": "https://x.com/LucaNetz/status/2122514891290312978",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122386946433360349",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1462797935536746506",
+     "start": 0,
+     "username": "annamerica"
+    },
+    {
+     "end": 26,
+     "id": "1415078650039443456",
+     "start": 12,
+     "username": "pudgypenguins"
+    },
+    {
+     "end": 38,
+     "id": "1504523182040096771",
+     "start": 27,
+     "username": "becca_nfts"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 336,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122515125089313028",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-17T02:20:14.000Z",
+  "text": "@PenguAsia @Edward__Park Happy birthday @Edward__Park 🐐",
+  "text_flat": "@PenguAsia @Edward__Park Happy birthday @Edward__Park 🐐",
+  "url": "https://x.com/LucaNetz/status/2122515125089313028",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122268498437210550",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1938451018448310272",
+     "start": 0,
+     "username": "PenguAsia"
+    },
+    {
+     "end": 24,
+     "id": "1373657430521868295",
+     "start": 11,
+     "username": "Edward__Park"
+    },
+    {
+     "end": 53,
+     "id": "1373657430521868295",
+     "start": 40,
+     "username": "Edward__Park"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 357,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122517262112293357",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "quote",
+  "created_at": "2026-11-17T02:28:44.000Z",
+  "text": "The sooner you realize that the phone is the root of all evil and that human connection is the true source of happiness, the more you will believe. AI will allow you to automate all digital tasks leaving you with 2 choices:\n\n1. Doom scroll your way to a deep depression \n\n2. Go https://t.co/HpvpeUqMeT",
+  "text_flat": "The sooner you realize that the phone is the root of all evil and that human connection is the true source of happiness, the more you will believe. AI will allow you to automate all digital tasks leaving you with 2 choices:  1. Doom scroll your way to a deep depression   2. Go https://t.co/HpvpeUqMeT",
+  "url": "https://x.com/LucaNetz/status/2122517262112293357",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122107442578551236",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 301,
+     "start": 278,
+     "url": "https://t.co/HpvpeUqMeT"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 777,
+  "retweets": 61,
+  "replies": 122,
+  "quotes": 20,
+  "bookmarks": 105,
+  "impressions": 32186,
+  "score": 1369,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

@@ -1,0 +1,193 @@
+[
+ {
+  "id": "2122429810739961873",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-16T20:41:14.000Z",
+  "text": "If you’re worried about quantum fud on cryptocurrency, hackers have much bigger fish to fry than a $2T hypergambling industry. https://t.co/pg3LntSd5q",
+  "text_flat": "If you’re worried about quantum fud on cryptocurrency, hackers have much bigger fish to fry than a $2T hypergambling industry. https://t.co/pg3LntSd5q",
+  "url": "https://x.com/NotChaseColeman/status/2122429810739961873",
+  "lang": "en",
+  "conversation_id": "2122429810739961873",
+  "referenced": [
+   {
+    "id": "2122404501399462305",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/watcherguru/st…",
+     "end": 150,
+     "expanded_url": "https://twitter.com/watcherguru/status/2122404501399462305",
+     "start": 127,
+     "url": "https://t.co/pg3LntSd5q"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 29,
+  "retweets": 2,
+  "replies": 5,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 1872,
+  "score": 48,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122432252042969483",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-16T20:50:56.000Z",
+  "text": "@Mnorinsberg Man if u ever get bullish im selling everything",
+  "text_flat": "@Mnorinsberg Man if u ever get bullish im selling everything",
+  "url": "https://x.com/NotChaseColeman/status/2122432252042969483",
+  "lang": "en",
+  "conversation_id": "2122431924702736571",
+  "referenced": [
+   {
+    "id": "2122431924702736571",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1411245348",
+     "start": 0,
+     "username": "Mnorinsberg"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 159,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122454238353875102",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-16T22:18:18.000Z",
+  "text": "The dude used to host Punk’d https://t.co/zu5PB9OhHP",
+  "text_flat": "The dude used to host Punk’d https://t.co/zu5PB9OhHP",
+  "url": "https://x.com/NotChaseColeman/status/2122454238353875102",
+  "lang": "en",
+  "conversation_id": "2122454238353875102",
+  "referenced": [
+   {
+    "id": "2122334427636527108",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/trungtphan/sta…",
+     "end": 52,
+     "expanded_url": "https://twitter.com/trungtphan/status/2122334427636527108",
+     "start": 29,
+     "url": "https://t.co/zu5PB9OhHP"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 7,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1850,
+  "score": 13,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122523306498883738",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-17T02:52:45.000Z",
+  "text": "RT @spencerpratt: It looks like Saddam Hussein is running NYC.",
+  "text_flat": "RT @spencerpratt: It looks like Saddam Hussein is running NYC.",
+  "url": "https://x.com/NotChaseColeman/status/2122523306498883738",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122353596993814823",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "23395456",
+     "start": 3,
+     "username": "spencerpratt"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 7603,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 645,
+  "score": 22809,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122581485467132003",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-17T06:43:56.000Z",
+  "text": "https://t.co/Yb8phVhfrB https://t.co/J2zkXkKB9K",
+  "text_flat": "https://t.co/Yb8phVhfrB https://t.co/J2zkXkKB9K",
+  "url": "https://x.com/NotChaseColeman/status/2122581485467132003",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "1764254990942556360",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/J2zkXkKB9K"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 13,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1595,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

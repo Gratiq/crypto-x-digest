@@ -1,0 +1,40 @@
+[
+ {
+  "id": "2122391221024981279",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:07:53.000Z",
+  "text": "RT @siamesemusic: Get Got — Death Grips (2012) https://t.co/E2Kr3ES3Fq",
+  "text_flat": "RT @siamesemusic: Get Got — Death Grips (2012) https://t.co/E2Kr3ES3Fq",
+  "url": "https://x.com/tomhschmidt/status/2122391221024981279",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122121421136507102",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "2091199584794001408",
+     "start": 3,
+     "username": "siamesemusic"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2510,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 240,
+  "score": 7530,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

@@ -1,0 +1,123 @@
+[
+ {
+  "id": "2122357241701597234",
+  "username": "rleshner",
+  "username_canon": "rleshner",
+  "type": "retweet",
+  "created_at": "2026-11-16T15:52:52.000Z",
+  "text": "RT @SuperstateInc: 1/ Real World Assets, tradable across Solana DeFi.\n\nThat’s Exposure: the official @solana RWA Launchpad, launching with…",
+  "text_flat": "RT @SuperstateInc: 1/ Real World Assets, tradable across Solana DeFi.  That’s Exposure: the official @solana RWA Launchpad, launching with…",
+  "url": "https://x.com/rleshner/status/2122357241701597234",
+  "lang": "en",
+  "conversation_id": "2122357241701597234",
+  "referenced": [
+   {
+    "id": "2122348883405844863",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1665792422918406144",
+     "start": 3,
+     "username": "SuperstateInc"
+    },
+    {
+     "end": 108,
+     "id": "951329744804392960",
+     "start": 101,
+     "username": "solana"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 632,
+  "score": 42,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122393991429718296",
+  "username": "rleshner",
+  "username_canon": "rleshner",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:18:54.000Z",
+  "text": "RT @formation_so: Formation is a launch partner on Exposure.\n\nWe’re building a path for new assets from issuance to scale, and Exposure bri…",
+  "text_flat": "RT @formation_so: Formation is a launch partner on Exposure.  We’re building a path for new assets from issuance to scale, and Exposure bri…",
+  "url": "https://x.com/rleshner/status/2122393991429718296",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122357417241374818",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "2088045326590496768",
+     "start": 3,
+     "username": "formation_so"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 653,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122494100079604114",
+  "username": "rleshner",
+  "username_canon": "rleshner",
+  "type": "quote",
+  "created_at": "2026-11-17T00:56:42.000Z",
+  "text": "Here you can see the very first on-chain transactions of a publicly registered, GENIUS-compliant money market fund, on Ethereum. Powered by Superstate and Invesco.\n\nBIG things start small. https://t.co/AehhAjpdud",
+  "text_flat": "Here you can see the very first on-chain transactions of a publicly registered, GENIUS-compliant money market fund, on Ethereum. Powered by Superstate and Invesco.  BIG things start small. https://t.co/AehhAjpdud",
+  "url": "https://x.com/rleshner/status/2122494100079604114",
+  "lang": "en",
+  "conversation_id": "2122494100079604114",
+  "referenced": [
+   {
+    "id": "2122490108582719725",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/hiltnerjim/sta…",
+     "end": 212,
+     "expanded_url": "https://twitter.com/hiltnerjim/status/2122490108582719725",
+     "start": 189,
+     "url": "https://t.co/AehhAjpdud"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 201,
+  "retweets": 9,
+  "replies": 23,
+  "quotes": 0,
+  "bookmarks": 36,
+  "impressions": 14215,
+  "score": 310,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

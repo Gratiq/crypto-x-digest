@@ -1,0 +1,878 @@
+[
+ {
+  "id": "2122366380683264438",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:29:11.000Z",
+  "text": "RT @pr6spr: I flew to Singapore to spend 72 hours with Crypto Millionaires... 🇸🇬\n\nnew vlog out now 💫\n\nhttps://t.co/HNl3I0fOmP https://t.co/…",
+  "text_flat": "RT @pr6spr: I flew to Singapore to spend 72 hours with Crypto Millionaires... 🇸🇬  new vlog out now 💫  https://t.co/HNl3I0fOmP https://t.co/…",
+  "url": "https://x.com/a1lon9/status/2122366380683264438",
+  "lang": "en",
+  "conversation_id": "2122366380683264438",
+  "referenced": [
+   {
+    "id": "2122346333373637106",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "2987146381",
+     "start": 3,
+     "username": "pr6spr"
+    }
+   ],
+   "urls": [
+    {
+     "description": "💻 START TRADING ON TERMINAL: https://trade.padre.gg/rk/prosper❤️‍🔥...",
+     "display_url": "youtu.be/1siuLu5PuMA",
+     "end": 125,
+     "expanded_url": "https://youtu.be/1siuLu5PuMA",
+     "images": [
+      {
+       "height": 720,
+       "url": "https://pbs.twimg.com/news_img/2122346338750803968/tIcEwHTN?format=jpg&name=orig",
+       "width": 1280
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2122346338750803968/tIcEwHTN?format=jpg&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 102,
+     "status": 200,
+     "title": "Life as a 22 Year Old Millionaire in Singapore",
+     "unwound_url": "https://www.youtube.com/watch?v=1siuLu5PuMA&feature=youtu.be",
+     "url": "https://t.co/HNl3I0fOmP"
+    },
+    {
+     "display_url": "t.co",
+     "end": 139,
+     "start": 126,
+     "url": "https://t.co/"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 20520,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122403830369292755",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T18:58:00.000Z",
+  "text": "RT @json1444: PoorGoat (a bag worker) is neck and neck with Cupsey (a microcap scalper) on the journey to $1,000,000 in Callout Rewards\n\nPu…",
+  "text_flat": "RT @json1444: PoorGoat (a bag worker) is neck and neck with Cupsey (a microcap scalper) on the journey to $1,000,000 in Callout Rewards  Pu…",
+  "url": "https://x.com/a1lon9/status/2122403830369292755",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122399922159018171",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1664955003113553920",
+     "start": 3,
+     "username": "json1444"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 11,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 19607,
+  "score": 33,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122404925527425336",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:02:21.000Z",
+  "text": "RT @Pumpfun: Pumpfun x @Polymarket\n\nPrediction markets are now live on the Pumpfun app for users in permitted jurisdictions! Trade on sport…",
+  "text_flat": "RT @Pumpfun: Pumpfun x @Polymarket  Prediction markets are now live on the Pumpfun app for users in permitted jurisdictions! Trade on sport…",
+  "url": "https://x.com/a1lon9/status/2122404925527425336",
+  "lang": "en",
+  "conversation_id": "2122404925527425336",
+  "referenced": [
+   {
+    "id": "2122404731415093477",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1622243071806128131",
+     "start": 3,
+     "username": "Pumpfun"
+    },
+    {
+     "end": 34,
+     "id": "1261335549215989760",
+     "start": 23,
+     "username": "Polymarket"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 118,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11371,
+  "score": 354,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122404971400638746",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:02:32.000Z",
+  "text": "RT @Pumpfun: The Pumpfun App is the FIRST EVER trading interface for prediction markets that pays you to trade.\n\nCallout rewards are suppor…",
+  "text_flat": "RT @Pumpfun: The Pumpfun App is the FIRST EVER trading interface for prediction markets that pays you to trade.  Callout rewards are suppor…",
+  "url": "https://x.com/a1lon9/status/2122404971400638746",
+  "lang": "en",
+  "conversation_id": "2122404971400638746",
+  "referenced": [
+   {
+    "id": "2122404740143399358",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1622243071806128131",
+     "start": 3,
+     "username": "Pumpfun"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 11786,
+  "score": 42,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122405356395487363",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:04:04.000Z",
+  "text": "RT @json1444: https://t.co/jVDijfdRvr",
+  "text_flat": "RT @json1444: https://t.co/jVDijfdRvr",
+  "url": "https://x.com/a1lon9/status/2122405356395487363",
+  "lang": "zxx",
+  "conversation_id": "2122405356395487363",
+  "referenced": [
+   {
+    "id": "2122405290951983557",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1664955003113553920",
+     "start": 3,
+     "username": "json1444"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/jVDijfdRvr",
+     "end": 37,
+     "expanded_url": "https://x.com/json1444/status/2122405290951983557/photo/1",
+     "media_key": "3_2122405261440905216",
+     "start": 14,
+     "url": "https://t.co/jVDijfdRvr"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 19071,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122406303872262264",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "quote",
+  "created_at": "2026-11-16T19:07:49.000Z",
+  "text": "When we started building the Pumpfun app, the goal was simple: one app to access everything people want to trade onchain.\n\nTo grow our market as much as possible, we need to build the richest social graph for any kind of trading. New users benefit from that because they can learn https://t.co/kbr08Iklib",
+  "text_flat": "When we started building the Pumpfun app, the goal was simple: one app to access everything people want to trade onchain.  To grow our market as much as possible, we need to build the richest social graph for any kind of trading. New users benefit from that because they can learn https://t.co/kbr08Iklib",
+  "url": "https://x.com/a1lon9/status/2122406303872262264",
+  "lang": "en",
+  "conversation_id": "2122406303872262264",
+  "referenced": [
+   {
+    "id": "2122404731415093477",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/Pumpfun/status…",
+     "end": 304,
+     "expanded_url": "https://twitter.com/Pumpfun/status/2122404731415093477",
+     "start": 281,
+     "url": "https://t.co/kbr08Iklib"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 505,
+  "retweets": 51,
+  "replies": 311,
+  "quotes": 30,
+  "bookmarks": 41,
+  "impressions": 75947,
+  "score": 1411,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122406452107084011",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T19:08:25.000Z",
+  "text": "RT @Polymarket: Polymarket is now live on the Pumpfun mobile app\n\nPost a callout on your trade to earn Callout Rewards👇",
+  "text_flat": "RT @Polymarket: Polymarket is now live on the Pumpfun mobile app  Post a callout on your trade to earn Callout Rewards👇",
+  "url": "https://x.com/a1lon9/status/2122406452107084011",
+  "lang": "en",
+  "conversation_id": "2122406452107084011",
+  "referenced": [
+   {
+    "id": "2122405693391319444",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1261335549215989760",
+     "start": 3,
+     "username": "Polymarket"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 28,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 84,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122406490958963017",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-16T19:08:34.000Z",
+  "text": "@Polymarket 🤝",
+  "text_flat": "@Polymarket 🤝",
+  "url": "https://x.com/a1lon9/status/2122406490958963017",
+  "lang": "qme",
+  "conversation_id": "2122405693391319444",
+  "referenced": [
+   {
+    "id": "2122405693391319444",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1261335549215989760",
+     "start": 0,
+     "username": "Polymarket"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 86,
+  "retweets": 2,
+  "replies": 41,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 5061,
+  "score": 175,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122447086314459619",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:49:53.000Z",
+  "text": "RT @Schoen_xyz: https://t.co/vQbxKYTUlj",
+  "text_flat": "RT @Schoen_xyz: https://t.co/vQbxKYTUlj",
+  "url": "https://x.com/a1lon9/status/2122447086314459619",
+  "lang": "zxx",
+  "conversation_id": "2122447086314459619",
+  "referenced": [
+   {
+    "id": "2122434783284490551",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1898389320773550080",
+     "start": 3,
+     "username": "Schoen_xyz"
+    }
+   ],
+   "urls": [
+    {
+     "description": "trade on pumpfun mobile: https://pump.fun/join/schoentrade on des...",
+     "display_url": "youtu.be/hdZW-06Lj7A",
+     "end": 39,
+     "expanded_url": "https://youtu.be/hdZW-06Lj7A",
+     "images": [
+      {
+       "height": 720,
+       "url": "https://pbs.twimg.com/news_img/2122434787466149888/mBEuBvsH?format=jpg&name=orig",
+       "width": 1280
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2122434787466149888/mBEuBvsH?format=jpg&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 16,
+     "status": 200,
+     "title": "pov: 48 hours of partying in NYC for halloween",
+     "unwound_url": "https://www.youtube.com/watch?v=hdZW-06Lj7A&feature=youtu.be",
+     "url": "https://t.co/vQbxKYTUlj"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 19074,
+  "score": 18,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122451904316010708",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:09:01.000Z",
+  "text": "RT @poe_real69: Everyone complaining about how bad the trenches are yet you open the pump app and check the leaderboard you see people up c…",
+  "text_flat": "RT @poe_real69: Everyone complaining about how bad the trenches are yet you open the pump app and check the leaderboard you see people up c…",
+  "url": "https://x.com/a1lon9/status/2122451904316010708",
+  "lang": "en",
+  "conversation_id": "2122451904316010708",
+  "referenced": [
+   {
+    "id": "2122362531469529490",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "349128988",
+     "start": 3,
+     "username": "poe_real69"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 17987,
+  "score": 30,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122492912306999773",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:51:58.000Z",
+  "text": "RT @HopiumPapi: Shoutout to https://t.co/lj6ifTmyM7 for Getting This Right \n\nJust got paid for the same callout for a second time, and the…",
+  "text_flat": "RT @HopiumPapi: Shoutout to https://t.co/lj6ifTmyM7 for Getting This Right   Just got paid for the same callout for a second time, and the…",
+  "url": "https://x.com/a1lon9/status/2122492912306999773",
+  "lang": "en",
+  "conversation_id": "2122492912306999773",
+  "referenced": [
+   {
+    "id": "2122478031117893845",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1397323152053530626",
+     "start": 3,
+     "username": "HopiumPapi"
+    }
+   ],
+   "urls": [
+    {
+     "description": "Pump.fun is the fairest way to launch and trade memecoins on Solana. Coins are instantly tradable on a transparent bonding curve — no liquidity to seed, no presales, no team allocations.",
+     "display_url": "Pump.fun",
+     "end": 51,
+     "expanded_url": "https://Pump.fun",
+     "images": [
+      {
+       "height": 537,
+       "url": "https://pbs.twimg.com/news_img/2122088602712805376/f9Qm7SGU?format=jpg&name=orig",
+       "width": 1024
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2122088602712805376/f9Qm7SGU?format=jpg&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 28,
+     "status": 200,
+     "title": "Pump.fun — Launch and trade memecoins on Solana",
+     "unwound_url": "https://Pump.fun",
+     "url": "https://t.co/lj6ifTmyM7"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 24,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16291,
+  "score": 72,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122497465891094617",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:10:04.000Z",
+  "text": "RT @Arcanemeta_: As a small non-kol account on @Pumpfun I gotta say these rewards are unreal\n\nThank you @a1lon9 and I think it’s great you…",
+  "text_flat": "RT @Arcanemeta_: As a small non-kol account on @Pumpfun I gotta say these rewards are unreal  Thank you @a1lon9 and I think it’s great you…",
+  "url": "https://x.com/a1lon9/status/2122497465891094617",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122447707075723270",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1769045530867269632",
+     "start": 3,
+     "username": "Arcanemeta_"
+    },
+    {
+     "end": 55,
+     "id": "1622243071806128131",
+     "start": 47,
+     "username": "Pumpfun"
+    },
+    {
+     "end": 111,
+     "id": "1470958472409792515",
+     "start": 104,
+     "username": "a1lon9"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 17275,
+  "score": 21,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122497688902029609",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-17T01:10:57.000Z",
+  "text": "@Arcanemeta_ @Pumpfun makes me laugh when people say that it's only for KOLs, it's factually much easier to earn than any other app",
+  "text_flat": "@Arcanemeta_ @Pumpfun makes me laugh when people say that it's only for KOLs, it's factually much easier to earn than any other app",
+  "url": "https://x.com/a1lon9/status/2122497688902029609",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122447707075723270",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1769045530867269632",
+     "start": 0,
+     "username": "Arcanemeta_"
+    },
+    {
+     "end": 21,
+     "id": "1622243071806128131",
+     "start": 13,
+     "username": "Pumpfun"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 160,
+  "retweets": 9,
+  "replies": 117,
+  "quotes": 5,
+  "bookmarks": 3,
+  "impressions": 13500,
+  "score": 439,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122508416836899250",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:53:35.000Z",
+  "text": "RT @sapijiju: https://t.co/D6P6A3g9bW",
+  "text_flat": "RT @sapijiju: https://t.co/D6P6A3g9bW",
+  "url": "https://x.com/a1lon9/status/2122508416836899250",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122508070039302512",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "883417844855255040",
+     "start": 3,
+     "username": "sapijiju"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 16,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16329,
+  "score": 48,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122508447128101227",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-17T01:53:42.000Z",
+  "text": "@sapijiju what a week!",
+  "text_flat": "@sapijiju what a week!",
+  "url": "https://x.com/a1lon9/status/2122508447128101227",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122508070039302512",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "883417844855255040",
+     "start": 0,
+     "username": "sapijiju"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 83,
+  "retweets": 0,
+  "replies": 58,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5322,
+  "score": 199,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122509188345512435",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:56:39.000Z",
+  "text": "RT @CookerFlips: Why is it so hard for people to understand \n\nYou need to MAKE PEOPLE MONEY THEN YOULL BE PAID\n\nJust cuz u called something…",
+  "text_flat": "RT @CookerFlips: Why is it so hard for people to understand   You need to MAKE PEOPLE MONEY THEN YOULL BE PAID  Just cuz u called something…",
+  "url": "https://x.com/a1lon9/status/2122509188345512435",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122502074353217926",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1189381231198134272",
+     "start": 3,
+     "username": "CookerFlips"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 15602,
+  "score": 24,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122509195295481904",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-17T01:56:41.000Z",
+  "text": "@CookerFlips yep",
+  "text_flat": "@CookerFlips yep",
+  "url": "https://x.com/a1lon9/status/2122509195295481904",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122502074353217926",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1189381231198134272",
+     "start": 0,
+     "username": "CookerFlips"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 72,
+  "retweets": 1,
+  "replies": 54,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 4556,
+  "score": 185,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122511431748948078",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-17T02:05:34.000Z",
+  "text": "@lowercaseboot the most hated rally.",
+  "text_flat": "@lowercaseboot the most hated rally.",
+  "url": "https://x.com/a1lon9/status/2122511431748948078",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122494665618595988",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "944464074888200194",
+     "start": 0,
+     "username": "lowercaseboot"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 225,
+  "retweets": 8,
+  "replies": 141,
+  "quotes": 9,
+  "bookmarks": 5,
+  "impressions": 11236,
+  "score": 563,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122511437897806194",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T02:05:35.000Z",
+  "text": "RT @lowercaseboot: Pump already won this game imo. I can't see any product competing with the mind share/users it has in the near future. O…",
+  "text_flat": "RT @lowercaseboot: Pump already won this game imo. I can't see any product competing with the mind share/users it has in the near future. O…",
+  "url": "https://x.com/a1lon9/status/2122511437897806194",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122494665618595988",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "944464074888200194",
+     "start": 3,
+     "username": "lowercaseboot"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 16869,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122683549241532828",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-17T13:29:30.000Z",
+  "text": "RT @mickeymantled: Everyday I see so much hate on callouts but let me break down why that’s just an absurd thing to hate  \n\nI was earning l…",
+  "text_flat": "RT @mickeymantled: Everyday I see so much hate on callouts but let me break down why that’s just an absurd thing to hate    I was earning l…",
+  "url": "https://x.com/a1lon9/status/2122683549241532828",
+  "lang": "en",
+  "conversation_id": "2122683549241532828",
+  "referenced": [
+   {
+    "id": "2122406996888670334",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1486935756249567232",
+     "start": 3,
+     "username": "mickeymantled"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9382,
+  "score": 57,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

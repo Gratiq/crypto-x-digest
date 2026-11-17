@@ -1,0 +1,3533 @@
+[
+ {
+  "id": "2122423525395103942",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T20:16:15.000Z",
+  "text": "RT @DegenerateNews: NEW: FORMER UK PM @BorisJohnson CALLS BITCOIN CREATOR SATOSHI NAKAMOTO \"YAKKO-MUCKO NAKASAKO\" AND \"YAKAMOTO NAKASORI\"…",
+  "text_flat": "RT @DegenerateNews: NEW: FORMER UK PM @BorisJohnson CALLS BITCOIN CREATOR SATOSHI NAKAMOTO \"YAKKO-MUCKO NAKASAKO\" AND \"YAKAMOTO NAKASORI\"…",
+  "url": "https://x.com/inversebrah/status/2122423525395103942",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122336844558065764",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "1505874016761831430",
+     "start": 3,
+     "username": "DegenerateNews"
+    },
+    {
+     "end": 51,
+     "id": "3131144855",
+     "start": 38,
+     "username": "BorisJohnson"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 73,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1732,
+  "score": 219,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122423569154232665",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T20:16:26.000Z",
+  "text": "RT @beniduboss: GG\n\nGTA 6 got cracked before it even released\n\nPC players about to experience GTA 6 in 4K at 120 FPS on Day 1",
+  "text_flat": "RT @beniduboss: GG  GTA 6 got cracked before it even released  PC players about to experience GTA 6 in 4K at 120 FPS on Day 1",
+  "url": "https://x.com/inversebrah/status/2122423569154232665",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122380009751159277",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1357663203547877377",
+     "start": 3,
+     "username": "beniduboss"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 47,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2166,
+  "score": 141,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122424643642654728",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T20:20:42.000Z",
+  "text": "RT @FabianoSolana: Meanwhile, Ledger really once thought it was a good idea to sell a chain so you could wear your money around your neck 💀…",
+  "text_flat": "RT @FabianoSolana: Meanwhile, Ledger really once thought it was a good idea to sell a chain so you could wear your money around your neck 💀…",
+  "url": "https://x.com/inversebrah/status/2122424643642654728",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122341807467954378",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "1452956319716106247",
+     "start": 3,
+     "username": "FabianoSolana"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2022,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122424738333196340",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T20:21:05.000Z",
+  "text": "business as usual den https://t.co/1w95l4cFe3",
+  "text_flat": "business as usual den https://t.co/1w95l4cFe3",
+  "url": "https://x.com/inversebrah/status/2122424738333196340",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122363569891135655",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 45,
+     "start": 22,
+     "url": "https://t.co/1w95l4cFe3"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 67,
+  "retweets": 4,
+  "replies": 11,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 7072,
+  "score": 102,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435325243076973",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:03:09.000Z",
+  "text": "RT @Lighter_xyz: https://t.co/frmX08jpZn",
+  "text_flat": "RT @Lighter_xyz: https://t.co/frmX08jpZn",
+  "url": "https://x.com/inversebrah/status/2122435325243076973",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122394446343946717",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1604942990417580032",
+     "start": 3,
+     "username": "Lighter_xyz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 91,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2043,
+  "score": 273,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435533842657343",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "reply",
+  "created_at": "2026-11-16T21:03:58.000Z",
+  "text": "@GITS2GiG @wassie worth",
+  "text_flat": "@GITS2GiG @wassie worth",
+  "url": "https://x.com/inversebrah/status/2122435533842657343",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122397206758203603",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "923537153409372160",
+     "start": 0,
+     "username": "GITS2GiG"
+    },
+    {
+     "end": 17,
+     "id": "1559614553561915393",
+     "start": 10,
+     "username": "wassie"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 6,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 272,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435589845012654",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:04:12.000Z",
+  "text": "RT @wassie: @Lighter_xyz bacc to bed to this wassie😴 https://t.co/YMRr7216D9",
+  "text_flat": "RT @wassie: @Lighter_xyz bacc to bed to this wassie😴 https://t.co/YMRr7216D9",
+  "url": "https://x.com/inversebrah/status/2122435589845012654",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122395965722075646",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1559614553561915393",
+     "start": 3,
+     "username": "wassie"
+    },
+    {
+     "end": 24,
+     "id": "1604942990417580032",
+     "start": 12,
+     "username": "Lighter_xyz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2094,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435807193731317",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:05:04.000Z",
+  "text": "potential gigabanger caught early https://t.co/zj9qoUI1GQ",
+  "text_flat": "potential gigabanger caught early https://t.co/zj9qoUI1GQ",
+  "url": "https://x.com/inversebrah/status/2122435807193731317",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 358,
+  "retweets": 3,
+  "replies": 21,
+  "quotes": 0,
+  "bookmarks": 11,
+  "impressions": 23318,
+  "score": 420,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122435979650982263",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:05:45.000Z",
+  "text": "batman is james bond\n\n1M lieks so far https://t.co/qu70cfHxrr",
+  "text_flat": "batman is james bond  1M lieks so far https://t.co/qu70cfHxrr",
+  "url": "https://x.com/inversebrah/status/2122435979650982263",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122343950308540474",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 61,
+     "start": 38,
+     "url": "https://t.co/qu70cfHxrr"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 90,
+  "retweets": 1,
+  "replies": 15,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 12079,
+  "score": 124,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122436656485798365",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:08:26.000Z",
+  "text": "2028 https://t.co/UmWBLmOR2E",
+  "text_flat": "2028 https://t.co/UmWBLmOR2E",
+  "url": "https://x.com/inversebrah/status/2122436656485798365",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": true,
+  "likes": 58,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 5468,
+  "score": 72,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122437173953941944",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:10:29.000Z",
+  "text": "RT @Dogetoshi: Back in my day Pomp would have immediately quote tweeted this and said banks went down today Bitcoin never goes down 🚀🚀🚀",
+  "text_flat": "RT @Dogetoshi: Back in my day Pomp would have immediately quote tweeted this and said banks went down today Bitcoin never goes down 🚀🚀🚀",
+  "url": "https://x.com/inversebrah/status/2122437173953941944",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122404692584009745",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "3833416227",
+     "start": 3,
+     "username": "Dogetoshi"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2075,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122437505366786254",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:11:48.000Z",
+  "text": "https://t.co/dPmasJyFTT https://t.co/47wVXO59tJ",
+  "text_flat": "https://t.co/dPmasJyFTT https://t.co/47wVXO59tJ",
+  "url": "https://x.com/inversebrah/status/2122437505366786254",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122411378913018357",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/47wVXO59tJ"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 49,
+  "retweets": 1,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 4857,
+  "score": 63,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122437593740754953",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:12:09.000Z",
+  "text": "todays snapshot https://t.co/68UpLz7b7c https://t.co/6zy9e1tAuK",
+  "text_flat": "todays snapshot https://t.co/68UpLz7b7c https://t.co/6zy9e1tAuK",
+  "url": "https://x.com/inversebrah/status/2122437593740754953",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122118399614668994",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 63,
+     "start": 40,
+     "url": "https://t.co/6zy9e1tAuK"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 49,
+  "retweets": 2,
+  "replies": 7,
+  "quotes": 1,
+  "bookmarks": 1,
+  "impressions": 13569,
+  "score": 73,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122438473965846801",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:15:39.000Z",
+  "text": "who thunk it https://t.co/U0w2sHWbxp",
+  "text_flat": "who thunk it https://t.co/U0w2sHWbxp",
+  "url": "https://x.com/inversebrah/status/2122438473965846801",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122397661286314101",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 36,
+     "start": 13,
+     "url": "https://t.co/U0w2sHWbxp"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 129,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 9850,
+  "score": 150,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122441898917085507",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:29:16.000Z",
+  "text": "RT @AshleyDCan: just your average day on CT https://t.co/tcBKw58HMa",
+  "text_flat": "RT @AshleyDCan: just your average day on CT https://t.co/tcBKw58HMa",
+  "url": "https://x.com/inversebrah/status/2122441898917085507",
+  "lang": "en",
+  "conversation_id": "2122441898917085507",
+  "referenced": [
+   {
+    "id": "2122424490563117185",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "2872584449",
+     "start": 3,
+     "username": "AshleyDCan"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/tcBKw58HMa",
+     "end": 67,
+     "expanded_url": "https://x.com/AshleyDCan/status/2122424490563117185/video/1",
+     "media_key": "13_2122424286094712832",
+     "start": 44,
+     "url": "https://t.co/tcBKw58HMa"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2161,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122442045298286930",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:29:51.000Z",
+  "text": "https://t.co/XF84tspKjT https://t.co/DfDvjmiZ8h",
+  "text_flat": "https://t.co/XF84tspKjT https://t.co/DfDvjmiZ8h",
+  "url": "https://x.com/inversebrah/status/2122442045298286930",
+  "lang": "zxx",
+  "conversation_id": "2122442045298286930",
+  "referenced": [
+   {
+    "id": "2122362601355035133",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/XF84tspKjT",
+     "end": 23,
+     "expanded_url": "https://x.com/inversebrah/status/2122442045298286930/photo/1",
+     "media_key": "3_2122442037895245824",
+     "start": 0,
+     "url": "https://t.co/XF84tspKjT"
+    },
+    {
+     "display_url": "x.com/cmsholdings/st…",
+     "end": 47,
+     "expanded_url": "https://twitter.com/cmsholdings/status/2122362601355035133",
+     "start": 24,
+     "url": "https://t.co/DfDvjmiZ8h"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 96,
+  "retweets": 1,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2878,
+  "score": 119,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122442864349380888",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:33:06.000Z",
+  "text": "in other news https://t.co/XZUjkcluF1",
+  "text_flat": "in other news https://t.co/XZUjkcluF1",
+  "url": "https://x.com/inversebrah/status/2122442864349380888",
+  "lang": "en",
+  "conversation_id": "2122442864349380888",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/XZUjkcluF1",
+     "end": 37,
+     "expanded_url": "https://x.com/inversebrah/status/2122442864349380888/video/1",
+     "media_key": "3_2122442781075689472",
+     "start": 14,
+     "url": "https://t.co/XZUjkcluF1"
+    },
+    {
+     "display_url": "pic.x.com/XZUjkcluF1",
+     "end": 37,
+     "expanded_url": "https://x.com/inversebrah/status/2122442864349380888/video/2",
+     "media_key": "13_2122442792630996993",
+     "start": 14,
+     "url": "https://t.co/XZUjkcluF1"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 32,
+  "retweets": 2,
+  "replies": 12,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 9226,
+  "score": 64,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122442868304544016",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:33:07.000Z",
+  "text": "RT @TheBengalTiger_: they got poor @inversebrah working it’s little wassie arse off. no labour laws for wassies as yet. my people are curre…",
+  "text_flat": "RT @TheBengalTiger_: they got poor @inversebrah working it’s little wassie arse off. no labour laws for wassies as yet. my people are curre…",
+  "url": "https://x.com/inversebrah/status/2122442868304544016",
+  "lang": "en",
+  "conversation_id": "2122442868304544016",
+  "referenced": [
+   {
+    "id": "2122322184026608059",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "576120742",
+     "start": 3,
+     "username": "TheBengalTiger_"
+    },
+    {
+     "end": 47,
+     "id": "1051852534518824960",
+     "start": 35,
+     "username": "inversebrah"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2136,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122443407004258656",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:35:15.000Z",
+  "text": "u can just bait pipl into followin ur ass https://t.co/YuuikRJYFc",
+  "text_flat": "u can just bait pipl into followin ur ass https://t.co/YuuikRJYFc",
+  "url": "https://x.com/inversebrah/status/2122443407004258656",
+  "lang": "en",
+  "conversation_id": "2122443407004258656",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/YuuikRJYFc",
+     "end": 65,
+     "expanded_url": "https://x.com/inversebrah/status/2122443407004258656/photo/1",
+     "media_key": "3_2122443401518051328",
+     "start": 42,
+     "url": "https://t.co/YuuikRJYFc"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 76,
+  "retweets": 2,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 4,
+  "impressions": 7074,
+  "score": 106,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122443729487470688",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:36:32.000Z",
+  "text": "RT @blockgraze: “how did you nail the bottom so well?”\n\nI was bullish the whole way down https://t.co/4W564YShjP",
+  "text_flat": "RT @blockgraze: “how did you nail the bottom so well?”  I was bullish the whole way down https://t.co/4W564YShjP",
+  "url": "https://x.com/inversebrah/status/2122443729487470688",
+  "lang": "en",
+  "conversation_id": "2122443729487470688",
+  "referenced": [
+   {
+    "id": "2122356417294373092",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1223801725674565632",
+     "start": 3,
+     "username": "blockgraze"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/4W564YShjP",
+     "end": 112,
+     "expanded_url": "https://x.com/blockgraze/status/2122356417294373092/photo/1",
+     "media_key": "3_2122356413263417344",
+     "start": 89,
+     "url": "https://t.co/4W564YShjP"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 29,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1825,
+  "score": 87,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122443783120080909",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:36:45.000Z",
+  "text": "deres levels to dis https://t.co/dqwQrkwwQR",
+  "text_flat": "deres levels to dis https://t.co/dqwQrkwwQR",
+  "url": "https://x.com/inversebrah/status/2122443783120080909",
+  "lang": "en",
+  "conversation_id": "2122443783120080909",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/dqwQrkwwQR",
+     "end": 43,
+     "expanded_url": "https://x.com/inversebrah/status/2122443783120080909/photo/1",
+     "media_key": "3_2122443777734500352",
+     "start": 20,
+     "url": "https://t.co/dqwQrkwwQR"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 121,
+  "retweets": 9,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 7646,
+  "score": 160,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122444272058405180",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:38:42.000Z",
+  "text": "RT @Evan_ss6: Anger https://t.co/k2ZJxI2S5f",
+  "text_flat": "RT @Evan_ss6: Anger https://t.co/k2ZJxI2S5f",
+  "url": "https://x.com/inversebrah/status/2122444272058405180",
+  "lang": "en",
+  "conversation_id": "2122444272058405180",
+  "referenced": [
+   {
+    "id": "2122419714966319335",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "279828819",
+     "start": 3,
+     "username": "Evan_ss6"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/k2ZJxI2S5f",
+     "end": 43,
+     "expanded_url": "https://x.com/Evan_ss6/status/2122419714966319335/photo/1",
+     "media_key": "3_2122419710453059586",
+     "start": 20,
+     "url": "https://t.co/k2ZJxI2S5f"
+    },
+    {
+     "display_url": "pic.x.com/k2ZJxI2S5f",
+     "end": 43,
+     "expanded_url": "https://x.com/Evan_ss6/status/2122419714966319335/photo/2",
+     "media_key": "3_2122419710453002240",
+     "start": 20,
+     "url": "https://t.co/k2ZJxI2S5f"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1876,
+  "score": 24,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122444778126348719",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T21:40:42.000Z",
+  "text": "18k lieks\n\nso far https://t.co/z9QxJCQuFM",
+  "text_flat": "18k lieks  so far https://t.co/z9QxJCQuFM",
+  "url": "https://x.com/inversebrah/status/2122444778126348719",
+  "lang": "en",
+  "conversation_id": "2122444778126348719",
+  "referenced": [
+   {
+    "id": "2122285962265030836",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/heart_/status/…",
+     "end": 41,
+     "expanded_url": "https://twitter.com/heart_/status/2122285962265030836",
+     "start": 18,
+     "url": "https://t.co/z9QxJCQuFM"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 26,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 1,
+  "bookmarks": 1,
+  "impressions": 13321,
+  "score": 40,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445082108551280",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T21:41:55.000Z",
+  "text": "tl snippet https://t.co/ESDsQm16wJ",
+  "text_flat": "tl snippet https://t.co/ESDsQm16wJ",
+  "url": "https://x.com/inversebrah/status/2122445082108551280",
+  "lang": "da",
+  "conversation_id": "2122445082108551280",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/ESDsQm16wJ",
+     "end": 34,
+     "expanded_url": "https://x.com/inversebrah/status/2122445082108551280/photo/1",
+     "media_key": "3_2122445074915278848",
+     "start": 11,
+     "url": "https://t.co/ESDsQm16wJ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 38,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 5495,
+  "score": 53,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122445421796790419",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "reply",
+  "created_at": "2026-11-16T21:43:16.000Z",
+  "text": "@beniduboss @Shenanigrahams @syq https://t.co/k5gZaklXE5",
+  "text_flat": "@beniduboss @Shenanigrahams @syq https://t.co/k5gZaklXE5",
+  "url": "https://x.com/inversebrah/status/2122445421796790419",
+  "lang": "qme",
+  "conversation_id": "2122260892087968165",
+  "referenced": [
+   {
+    "id": "2122371792711131375",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1357663203547877377",
+     "start": 0,
+     "username": "beniduboss"
+    },
+    {
+     "end": 27,
+     "id": "496116442",
+     "start": 12,
+     "username": "Shenanigrahams"
+    },
+    {
+     "end": 32,
+     "id": "14742695",
+     "start": 28,
+     "username": "syq"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/k5gZaklXE5",
+     "end": 56,
+     "expanded_url": "https://x.com/inversebrah/status/2122445421796790419/photo/1",
+     "media_key": "3_2122445415610298368",
+     "start": 33,
+     "url": "https://t.co/k5gZaklXE5"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 181,
+  "score": 8,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122448827760472124",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T21:56:48.000Z",
+  "text": "RT @inversebrah: we so big now https://t.co/Dm7WdWOpYc",
+  "text_flat": "RT @inversebrah: we so big now https://t.co/Dm7WdWOpYc",
+  "url": "https://x.com/inversebrah/status/2122448827760472124",
+  "lang": "en",
+  "conversation_id": "2122448827760472124",
+  "referenced": [
+   {
+    "id": "2122109162603868169",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/Dm7WdWOpYc",
+     "end": 54,
+     "expanded_url": "https://x.com/inversebrah/status/2122109162603868169/video/1",
+     "media_key": "13_2122109129724768257",
+     "start": 31,
+     "url": "https://t.co/Dm7WdWOpYc"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 20,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 60,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122449180199449041",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "reply",
+  "created_at": "2026-11-16T21:58:12.000Z",
+  "text": "@javajrr AYOOOO",
+  "text_flat": "@javajrr AYOOOO",
+  "url": "https://x.com/inversebrah/status/2122449180199449041",
+  "lang": "und",
+  "conversation_id": "2122409387969085778",
+  "referenced": [
+   {
+    "id": "2122409387969085778",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1480734239431671809",
+     "start": 0,
+     "username": "javajrr"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 7,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 364,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122451236758954291",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T22:06:22.000Z",
+  "text": "pip been commenting in q4 2026 https://t.co/P9kq9unWJw",
+  "text_flat": "pip been commenting in q4 2026 https://t.co/P9kq9unWJw",
+  "url": "https://x.com/inversebrah/status/2122451236758954291",
+  "lang": "en",
+  "conversation_id": "2122451236758954291",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/P9kq9unWJw",
+     "end": 54,
+     "expanded_url": "https://x.com/inversebrah/status/2122451236758954291/photo/1",
+     "media_key": "3_2122451227510472704",
+     "start": 31,
+     "url": "https://t.co/P9kq9unWJw"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 24,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4919,
+  "score": 41,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122451700711915611",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:08:13.000Z",
+  "text": "RT @DancingEddie_: it is legal to rob the clankers ??",
+  "text_flat": "RT @DancingEddie_: it is legal to rob the clankers ??",
+  "url": "https://x.com/inversebrah/status/2122451700711915611",
+  "lang": "en",
+  "conversation_id": "2122451700711915611",
+  "referenced": [
+   {
+    "id": "2122426133040021637",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "2428127946",
+     "start": 3,
+     "username": "DancingEddie_"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2049,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122452812466647216",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-16T22:12:38.000Z",
+  "text": "https://t.co/jsZ5O1oDjo https://t.co/OZ0e5ugyzS",
+  "text_flat": "https://t.co/jsZ5O1oDjo https://t.co/OZ0e5ugyzS",
+  "url": "https://x.com/inversebrah/status/2122452812466647216",
+  "lang": "zxx",
+  "conversation_id": "2122452812466647216",
+  "referenced": [
+   {
+    "id": "2122262617234288915",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/jsZ5O1oDjo",
+     "end": 23,
+     "expanded_url": "https://x.com/inversebrah/status/2122452812466647216/photo/1",
+     "media_key": "3_2122452806661742592",
+     "start": 0,
+     "url": "https://t.co/jsZ5O1oDjo"
+    },
+    {
+     "display_url": "x.com/Jackkk/status/…",
+     "end": 47,
+     "expanded_url": "https://twitter.com/Jackkk/status/2122262617234288915",
+     "start": 24,
+     "url": "https://t.co/OZ0e5ugyzS"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 36,
+  "retweets": 3,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 4241,
+  "score": 57,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122464256482521122",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T22:58:06.000Z",
+  "text": "https://t.co/K0E7MCtpuf",
+  "text_flat": "https://t.co/K0E7MCtpuf",
+  "url": "https://x.com/inversebrah/status/2122464256482521122",
+  "lang": "zxx",
+  "conversation_id": "2122464256482521122",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/K0E7MCtpuf",
+     "end": 23,
+     "expanded_url": "https://x.com/inversebrah/status/2122464256482521122/photo/1",
+     "media_key": "3_2122464249847169024",
+     "start": 0,
+     "url": "https://t.co/K0E7MCtpuf"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 31,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 5193,
+  "score": 40,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465197583651298",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:01:51.000Z",
+  "text": "RT @BitcoinNewsCom: 🚨 BREAKING: HUNDREDS OF MAJOR WEBSITES COMPROMISED IN CRYPTO-FOCUSED MALWARE ATTACK\n\nA supply-chain attack dubbed “OPTI…",
+  "text_flat": "RT @BitcoinNewsCom: 🚨 BREAKING: HUNDREDS OF MAJOR WEBSITES COMPROMISED IN CRYPTO-FOCUSED MALWARE ATTACK  A supply-chain attack dubbed “OPTI…",
+  "url": "https://x.com/inversebrah/status/2122465197583651298",
+  "lang": "en",
+  "conversation_id": "2122465197583651298",
+  "referenced": [
+   {
+    "id": "2122441184257982892",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "3005014565",
+     "start": 3,
+     "username": "BitcoinNewsCom"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 468,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2133,
+  "score": 1404,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465863760859456",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:04:30.000Z",
+  "text": "RT @InsiderWire: #BREAKING: United Airlines hit by ‘widespread system outage,’ planes reportedly stuck on tarmac.",
+  "text_flat": "RT @InsiderWire: #BREAKING: United Airlines hit by ‘widespread system outage,’ planes reportedly stuck on tarmac.",
+  "url": "https://x.com/inversebrah/status/2122465863760859456",
+  "lang": "en",
+  "conversation_id": "2122465863760859456",
+  "referenced": [
+   {
+    "id": "2122451259596923008",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "hashtags": [
+    {
+     "end": 26,
+     "start": 17,
+     "tag": "BREAKING"
+    }
+   ],
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1841181851538636806",
+     "start": 3,
+     "username": "InsiderWire"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1140,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2098,
+  "score": 3420,
+  "cashtags": [],
+  "hashtags": [
+   "BREAKING"
+  ]
+ },
+ {
+  "id": "2122466595033501741",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:07:24.000Z",
+  "text": "RT @Scott_Helme: It seems the clean up is done and the cat's out of the bag with who's responsible, so we've published:\n\nhttps://t.co/uCXWQ…",
+  "text_flat": "RT @Scott_Helme: It seems the clean up is done and the cat's out of the bag with who's responsible, so we've published:  https://t.co/uCXWQ…",
+  "url": "https://x.com/inversebrah/status/2122466595033501741",
+  "lang": "en",
+  "conversation_id": "2122466595033501741",
+  "referenced": [
+   {
+    "id": "2122462143236964578",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "166282004",
+     "start": 3,
+     "username": "Scott_Helme"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "t.co/uCXWQ",
+     "end": 139,
+     "start": 121,
+     "url": "https://t.co/uCXWQ"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 195,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2033,
+  "score": 585,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122466844720484462",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T23:08:23.000Z",
+  "text": "https://t.co/VJmVdKsaV4",
+  "text_flat": "https://t.co/VJmVdKsaV4",
+  "url": "https://x.com/inversebrah/status/2122466844720484462",
+  "lang": "zxx",
+  "conversation_id": "2122466844720484462",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/VJmVdKsaV4",
+     "end": 23,
+     "expanded_url": "https://x.com/inversebrah/status/2122466844720484462/photo/1",
+     "media_key": "3_2122466839314010112",
+     "start": 0,
+     "url": "https://t.co/VJmVdKsaV4"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 89,
+  "retweets": 3,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 5834,
+  "score": 114,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122466862206423221",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:08:28.000Z",
+  "text": "RT @0xbags: after years of waiting our clementine trees are finally full of fruits for the first time\n\nin this moment I am euphoric https:/…",
+  "text_flat": "RT @0xbags: after years of waiting our clementine trees are finally full of fruits for the first time  in this moment I am euphoric https:/…",
+  "url": "https://x.com/inversebrah/status/2122466862206423221",
+  "lang": "en",
+  "conversation_id": "2122466862206423221",
+  "referenced": [
+   {
+    "id": "2122283478053962013",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1139080225952866304",
+     "start": 3,
+     "username": "0xbags"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2021,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122467070365601805",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:09:17.000Z",
+  "text": "RT @beniduboss: Fuck it, the vibes are terrible\n\nI'm commissioning Wassies for all you guys/while supplies last (example attached)\n\nComment…",
+  "text_flat": "RT @beniduboss: Fuck it, the vibes are terrible  I'm commissioning Wassies for all you guys/while supplies last (example attached)  Comment…",
+  "url": "https://x.com/inversebrah/status/2122467070365601805",
+  "lang": "en",
+  "conversation_id": "2122467070365601805",
+  "referenced": [
+   {
+    "id": "2122411883479371835",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1357663203547877377",
+     "start": 3,
+     "username": "beniduboss"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 57,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122473076235596129",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "reply",
+  "created_at": "2026-11-16T23:33:09.000Z",
+  "text": "@AgentChud how smart r dey https://t.co/ZW9ghndUwk",
+  "text_flat": "@AgentChud how smart r dey https://t.co/ZW9ghndUwk",
+  "url": "https://x.com/inversebrah/status/2122473076235596129",
+  "lang": "en",
+  "conversation_id": "2122463598769299749",
+  "referenced": [
+   {
+    "id": "2122463598769299749",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1731745103989940224",
+     "start": 0,
+     "username": "AgentChud"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/ZW9ghndUwk",
+     "end": 50,
+     "expanded_url": "https://x.com/inversebrah/status/2122473076235596129/photo/1",
+     "media_key": "3_2122473070963388416",
+     "start": 27,
+     "url": "https://t.co/ZW9ghndUwk"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 30,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 1112,
+  "score": 38,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122475316111356331",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:42:03.000Z",
+  "text": "RT @SCHIZO_FREQ: Imagine getting summoned to jury duty and you’re like “maaaan, I’m really not looking forward to this. But I’m sure it won…",
+  "text_flat": "RT @SCHIZO_FREQ: Imagine getting summoned to jury duty and you’re like “maaaan, I’m really not looking forward to this. But I’m sure it won…",
+  "url": "https://x.com/inversebrah/status/2122475316111356331",
+  "lang": "en",
+  "conversation_id": "2122475316111356331",
+  "referenced": [
+   {
+    "id": "2122328714025333217",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1240784920831762433",
+     "start": 3,
+     "username": "SCHIZO_FREQ"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 616,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2101,
+  "score": 1848,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122476219606372724",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-16T23:45:39.000Z",
+  "text": "everyones busy https://t.co/qzYp4irmpT",
+  "text_flat": "everyones busy https://t.co/qzYp4irmpT",
+  "url": "https://x.com/inversebrah/status/2122476219606372724",
+  "lang": "en",
+  "conversation_id": "2122476219606372724",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/qzYp4irmpT",
+     "end": 38,
+     "expanded_url": "https://x.com/inversebrah/status/2122476219606372724/photo/1",
+     "media_key": "3_2122476210873942017",
+     "start": 15,
+     "url": "https://t.co/qzYp4irmpT"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 19,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4818,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122476998769688712",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:48:44.000Z",
+  "text": "RT @gainzy222: Reinstate him immediately",
+  "text_flat": "RT @gainzy222: Reinstate him immediately",
+  "url": "https://x.com/inversebrah/status/2122476998769688712",
+  "lang": "en",
+  "conversation_id": "2122476998769688712",
+  "referenced": [
+   {
+    "id": "2122344703395852593",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "4107711",
+     "start": 3,
+     "username": "gainzy222"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 18,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1555,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122477129812365585",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:49:16.000Z",
+  "text": "RT @WazzCrypto: Full list of affected websites that served this Malware\n\nSeems like Ledger website got infected as well\n\nThis list is quite…",
+  "text_flat": "RT @WazzCrypto: Full list of affected websites that served this Malware  Seems like Ledger website got infected as well  This list is quite…",
+  "url": "https://x.com/inversebrah/status/2122477129812365585",
+  "lang": "en",
+  "conversation_id": "2122477129812365585",
+  "referenced": [
+   {
+    "id": "2122464561546846227",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "869659857590288384",
+     "start": 3,
+     "username": "WazzCrypto"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 325,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1998,
+  "score": 975,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122478207207457180",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:53:32.000Z",
+  "text": "RT @safe: @solidintel_x This affected one multisig. Safe smart contracts and Safe{Wallet} are unaffected.\n\nA role member's key, likely comp…",
+  "text_flat": "RT @safe: @solidintel_x This affected one multisig. Safe smart contracts and Safe{Wallet} are unaffected.  A role member's key, likely comp…",
+  "url": "https://x.com/inversebrah/status/2122478207207457180",
+  "lang": "en",
+  "conversation_id": "2122478207207457180",
+  "referenced": [
+   {
+    "id": "2122380417516929507",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "8467082",
+     "start": 3,
+     "username": "safe"
+    },
+    {
+     "end": 23,
+     "id": "1404421873169993730",
+     "start": 10,
+     "username": "solidintel_x"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2003,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122479421357703385",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:58:22.000Z",
+  "text": "RT @MrEdogtagnft: No hacker has the balls to delete everyone’s debt",
+  "text_flat": "RT @MrEdogtagnft: No hacker has the balls to delete everyone’s debt",
+  "url": "https://x.com/inversebrah/status/2122479421357703385",
+  "lang": "en",
+  "conversation_id": "2122479421357703385",
+  "referenced": [
+   {
+    "id": "2122425800121299403",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "1524821435373432834",
+     "start": 3,
+     "username": "MrEdogtagnft"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 6173,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2094,
+  "score": 18519,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122480185606058127",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:01:24.000Z",
+  "text": "https://t.co/yAg7unVDVi https://t.co/vLcMYuW5G4",
+  "text_flat": "https://t.co/yAg7unVDVi https://t.co/vLcMYuW5G4",
+  "url": "https://x.com/inversebrah/status/2122480185606058127",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122297882631963035",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/vLcMYuW5G4"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 53,
+  "retweets": 2,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 5,
+  "impressions": 8416,
+  "score": 78,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122480889880068360",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:04:12.000Z",
+  "text": "discuss https://t.co/AQgQSwtkDz",
+  "text_flat": "discuss https://t.co/AQgQSwtkDz",
+  "url": "https://x.com/inversebrah/status/2122480889880068360",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122466629196054816",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 31,
+     "start": 8,
+     "url": "https://t.co/AQgQSwtkDz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 38,
+  "retweets": 1,
+  "replies": 13,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 9757,
+  "score": 69,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122480929826635953",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:04:22.000Z",
+  "text": "RT @elonmusk: We’ve come a long way",
+  "text_flat": "RT @elonmusk: We’ve come a long way",
+  "url": "https://x.com/inversebrah/status/2122480929826635953",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122406902827245831",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "44196397",
+     "start": 3,
+     "username": "elonmusk"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 6172,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 787,
+  "score": 18516,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122481303442673846",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:05:51.000Z",
+  "text": "RT @WassieSupporter: dont worry about it iwo https://t.co/H3bcItGvTX",
+  "text_flat": "RT @WassieSupporter: dont worry about it iwo https://t.co/H3bcItGvTX",
+  "url": "https://x.com/inversebrah/status/2122481303442673846",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122465851928633724",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "1974836088754597888",
+     "start": 3,
+     "username": "WassieSupporter"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2134,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122481999562821963",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:08:37.000Z",
+  "text": "RT @farbood: Download Lastbook while you can.\n\nEverything you need to survive and rebuild society.\n\nFree. Open source. Works offline.\n\nhttp…",
+  "text_flat": "RT @farbood: Download Lastbook while you can.  Everything you need to survive and rebuild society.  Free. Open source. Works offline.  http…",
+  "url": "https://x.com/inversebrah/status/2122481999562821963",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122413856693858581",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "16756160",
+     "start": 3,
+     "username": "farbood"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1053,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 3159,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122482680818458906",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:11:19.000Z",
+  "text": "discuss https://t.co/UoWkJ1QD6j",
+  "text_flat": "discuss https://t.co/UoWkJ1QD6j",
+  "url": "https://x.com/inversebrah/status/2122482680818458906",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122380946100105535",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 31,
+     "start": 8,
+     "url": "https://t.co/UoWkJ1QD6j"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 53,
+  "retweets": 3,
+  "replies": 20,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 6707,
+  "score": 103,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122489286952128648",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:37:34.000Z",
+  "text": "RT @chakravartiiin: &gt; Healthcare in 🇬🇧: 109 year wait time \n\n&gt; Healthcare in 🇺🇸: That'll be a million dollars \n\n&gt; Healthcare in 🇨🇦: https:/…",
+  "text_flat": "RT @chakravartiiin: > Healthcare in 🇬🇧: 109 year wait time   > Healthcare in 🇺🇸: That'll be a million dollars   > Healthcare in 🇨🇦: https:/…",
+  "url": "https://x.com/inversebrah/status/2122489286952128648",
+  "lang": "en",
+  "conversation_id": "2122489286952128648",
+  "referenced": [
+   {
+    "id": "2121996851364896866",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "923305158808780801",
+     "start": 3,
+     "username": "chakravartiiin"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 9359,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 28077,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122489856060514418",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T00:39:50.000Z",
+  "text": ". https://t.co/0wxjHooyVh",
+  "text_flat": ". https://t.co/0wxjHooyVh",
+  "url": "https://x.com/inversebrah/status/2122489856060514418",
+  "lang": "zxx",
+  "conversation_id": "2122489856060514418",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/0wxjHooyVh",
+     "end": 25,
+     "expanded_url": "https://x.com/inversebrah/status/2122489856060514418/photo/1",
+     "media_key": "3_2122489850121326592",
+     "start": 2,
+     "url": "https://t.co/0wxjHooyVh"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 26,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4573,
+  "score": 38,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122489925744689448",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T00:40:06.000Z",
+  "text": "💀 https://t.co/FvPzp01xzu",
+  "text_flat": "💀 https://t.co/FvPzp01xzu",
+  "url": "https://x.com/inversebrah/status/2122489925744689448",
+  "lang": "qme",
+  "conversation_id": "2122489925744689448",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/FvPzp01xzu",
+     "end": 25,
+     "expanded_url": "https://x.com/inversebrah/status/2122489925744689448/photo/1",
+     "media_key": "3_2122489919771922433",
+     "start": 2,
+     "url": "https://t.co/FvPzp01xzu"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 48,
+  "retweets": 1,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 3,
+  "impressions": 5591,
+  "score": 64,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122490588633448939",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T00:42:44.000Z",
+  "text": "different kind of explosiveness https://t.co/KsDYGdlEQm",
+  "text_flat": "different kind of explosiveness https://t.co/KsDYGdlEQm",
+  "url": "https://x.com/inversebrah/status/2122490588633448939",
+  "lang": "en",
+  "conversation_id": "2122490588633448939",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/KsDYGdlEQm",
+     "end": 55,
+     "expanded_url": "https://x.com/inversebrah/status/2122490588633448939/photo/1",
+     "media_key": "3_2122490581020798976",
+     "start": 32,
+     "url": "https://t.co/KsDYGdlEQm"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 40,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 6398,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122490965839720764",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:44:14.000Z",
+  "text": "todays snapshot \n\n. https://t.co/0B4g6E9QJ3 https://t.co/tQp2toww9C",
+  "text_flat": "todays snapshot   . https://t.co/0B4g6E9QJ3 https://t.co/tQp2toww9C",
+  "url": "https://x.com/inversebrah/status/2122490965839720764",
+  "lang": "en",
+  "conversation_id": "2122490965839720764",
+  "referenced": [
+   {
+    "id": "2122437593740754953",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/0B4g6E9QJ3",
+     "end": 43,
+     "expanded_url": "https://x.com/inversebrah/status/2122490965839720764/video/1",
+     "media_key": "3_2122490887083315201",
+     "start": 20,
+     "url": "https://t.co/0B4g6E9QJ3"
+    },
+    {
+     "display_url": "pic.x.com/0B4g6E9QJ3",
+     "end": 43,
+     "expanded_url": "https://x.com/inversebrah/status/2122490965839720764/video/2",
+     "media_key": "13_2122490897845862401",
+     "start": 20,
+     "url": "https://t.co/0B4g6E9QJ3"
+    },
+    {
+     "display_url": "pic.x.com/0B4g6E9QJ3",
+     "end": 43,
+     "expanded_url": "https://x.com/inversebrah/status/2122490965839720764/photo/3",
+     "media_key": "3_2122490958755565569",
+     "start": 20,
+     "url": "https://t.co/0B4g6E9QJ3"
+    },
+    {
+     "display_url": "x.com/inversebrah/st…",
+     "end": 67,
+     "expanded_url": "https://twitter.com/inversebrah/status/2122437593740754953",
+     "start": 44,
+     "url": "https://t.co/tQp2toww9C"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 55,
+  "retweets": 1,
+  "replies": 14,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 8528,
+  "score": 87,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122491009464717569",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:44:25.000Z",
+  "text": "RT @0xMerp: The world might be ending but at least I have an inversebrah plushie now https://t.co/ztws9CyhHO",
+  "text_flat": "RT @0xMerp: The world might be ending but at least I have an inversebrah plushie now https://t.co/ztws9CyhHO",
+  "url": "https://x.com/inversebrah/status/2122491009464717569",
+  "lang": "en",
+  "conversation_id": "2122491009464717569",
+  "referenced": [
+   {
+    "id": "2122452288312885739",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "926303893536960513",
+     "start": 3,
+     "username": "0xMerp"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/ztws9CyhHO",
+     "end": 108,
+     "expanded_url": "https://x.com/0xMerp/status/2122452288312885739/photo/1",
+     "media_key": "3_2122452283195883521",
+     "start": 85,
+     "url": "https://t.co/ztws9CyhHO"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1938,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122491774660927691",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:47:27.000Z",
+  "text": "quotes and replies https://t.co/nPaIkInZUh https://t.co/Tt2bIY1g6y",
+  "text_flat": "quotes and replies https://t.co/nPaIkInZUh https://t.co/Tt2bIY1g6y",
+  "url": "https://x.com/inversebrah/status/2122491774660927691",
+  "lang": "en",
+  "conversation_id": "2122491774660927691",
+  "referenced": [
+   {
+    "id": "2121815662964433346",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/nPaIkInZUh",
+     "end": 42,
+     "expanded_url": "https://x.com/inversebrah/status/2122491774660927691/video/1",
+     "media_key": "13_2122491744172593153",
+     "start": 19,
+     "url": "https://t.co/nPaIkInZUh"
+    },
+    {
+     "display_url": "x.com/nikitabier/sta…",
+     "end": 66,
+     "expanded_url": "https://twitter.com/nikitabier/status/2121815662964433346",
+     "start": 43,
+     "url": "https://t.co/Tt2bIY1g6y"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 126,
+  "retweets": 3,
+  "replies": 12,
+  "quotes": 0,
+  "bookmarks": 5,
+  "impressions": 14392,
+  "score": 164,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122491899508646044",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T00:47:57.000Z",
+  "text": "https://t.co/gCP52VFW6z https://t.co/7uiQChI5Gx",
+  "text_flat": "https://t.co/gCP52VFW6z https://t.co/7uiQChI5Gx",
+  "url": "https://x.com/inversebrah/status/2122491899508646044",
+  "lang": "zxx",
+  "conversation_id": "2122491899508646044",
+  "referenced": [
+   {
+    "id": "2122467888628174965",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/gCP52VFW6z",
+     "end": 23,
+     "expanded_url": "https://x.com/inversebrah/status/2122491899508646044/photo/1",
+     "media_key": "3_2122491894148251648",
+     "start": 0,
+     "url": "https://t.co/gCP52VFW6z"
+    },
+    {
+     "display_url": "x.com/DonAlt/status/…",
+     "end": 47,
+     "expanded_url": "https://twitter.com/DonAlt/status/2122467888628174965",
+     "start": 24,
+     "url": "https://t.co/7uiQChI5Gx"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 125,
+  "retweets": 1,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 3748,
+  "score": 149,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122491974725042266",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:48:15.000Z",
+  "text": "RT @0x_zKfbg: @DonAlt @0xMerp Expeditiously frog turtle @inversebrah https://t.co/F2L56kD8va",
+  "text_flat": "RT @0x_zKfbg: @DonAlt @0xMerp Expeditiously frog turtle @inversebrah https://t.co/F2L56kD8va",
+  "url": "https://x.com/inversebrah/status/2122491974725042266",
+  "lang": "en",
+  "conversation_id": "2122491974725042266",
+  "referenced": [
+   {
+    "id": "2122473329579700289",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1629598521518174208",
+     "start": 3,
+     "username": "0x_zKfbg"
+    },
+    {
+     "end": 21,
+     "id": "878219545785372673",
+     "start": 14,
+     "username": "DonAlt"
+    },
+    {
+     "end": 29,
+     "id": "926303893536960513",
+     "start": 22,
+     "username": "0xMerp"
+    },
+    {
+     "end": 68,
+     "id": "1051852534518824960",
+     "start": 56,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/F2L56kD8va",
+     "end": 92,
+     "expanded_url": "https://x.com/0x_zKfbg/status/2122473329579700289/photo/1",
+     "media_key": "3_2122473326232707072",
+     "start": 69,
+     "url": "https://t.co/F2L56kD8va"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2023,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122496638480703715",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T01:06:47.000Z",
+  "text": "tl snippet https://t.co/WzlSHSQPiE",
+  "text_flat": "tl snippet https://t.co/WzlSHSQPiE",
+  "url": "https://x.com/inversebrah/status/2122496638480703715",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 23,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4805,
+  "score": 33,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122497263645946240",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T01:09:16.000Z",
+  "text": "tings u lern bout on here https://t.co/0gIJ5v25n8 https://t.co/jvumhQ31RX",
+  "text_flat": "tings u lern bout on here https://t.co/0gIJ5v25n8 https://t.co/jvumhQ31RX",
+  "url": "https://x.com/inversebrah/status/2122497263645946240",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122391485949854153",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 73,
+     "start": 50,
+     "url": "https://t.co/jvumhQ31RX"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 29,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4218,
+  "score": 46,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122497589639835853",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T01:10:34.000Z",
+  "text": "TIL mans live on oxygen https://t.co/QWMQTXT8Rm",
+  "text_flat": "TIL mans live on oxygen https://t.co/QWMQTXT8Rm",
+  "url": "https://x.com/inversebrah/status/2122497589639835853",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122117749698912556",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/QWMQTXT8Rm"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 35,
+  "retweets": 0,
+  "replies": 9,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 8051,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122497679574040641",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:10:55.000Z",
+  "text": "RT @0xPunishedFren: Crypto is perfectly safe if you just don’t open any website ever again.",
+  "text_flat": "RT @0xPunishedFren: Crypto is perfectly safe if you just don’t open any website ever again.",
+  "url": "https://x.com/inversebrah/status/2122497679574040641",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122495022226710663",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "2071384657510432768",
+     "start": 3,
+     "username": "0xPunishedFren"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1977,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122498356975112396",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T01:13:37.000Z",
+  "text": "burgers be living in a south park episode https://t.co/QXusQretR9",
+  "text_flat": "burgers be living in a south park episode https://t.co/QXusQretR9",
+  "url": "https://x.com/inversebrah/status/2122498356975112396",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122418096820604957",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 65,
+     "start": 42,
+     "url": "https://t.co/QXusQretR9"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 115,
+  "retweets": 4,
+  "replies": 16,
+  "quotes": 0,
+  "bookmarks": 7,
+  "impressions": 11514,
+  "score": 166,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122499508898849235",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T01:18:11.000Z",
+  "text": "state https://t.co/FaI41DKIPB",
+  "text_flat": "state https://t.co/FaI41DKIPB",
+  "url": "https://x.com/inversebrah/status/2122499508898849235",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": true,
+  "likes": 246,
+  "retweets": 7,
+  "replies": 14,
+  "quotes": 0,
+  "bookmarks": 6,
+  "impressions": 10438,
+  "score": 301,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122499560757186957",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:18:24.000Z",
+  "text": "RT @goodalexander: if you told me on-chain Solana based Stocks were coming to the US with CFTC blessing, a Zelle partnership and a privacy…",
+  "text_flat": "RT @goodalexander: if you told me on-chain Solana based Stocks were coming to the US with CFTC blessing, a Zelle partnership and a privacy…",
+  "url": "https://x.com/inversebrah/status/2122499560757186957",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122469235381407994",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "22110973",
+     "start": 3,
+     "username": "goodalexander"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 35,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1807,
+  "score": 105,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122500920294707257",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T01:23:48.000Z",
+  "text": "mans on a roll https://t.co/HyfsrhVqls https://t.co/Jlx4GW8RVl",
+  "text_flat": "mans on a roll https://t.co/HyfsrhVqls https://t.co/Jlx4GW8RVl",
+  "url": "https://x.com/inversebrah/status/2122500920294707257",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122495124945203223",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 62,
+     "start": 39,
+     "url": "https://t.co/Jlx4GW8RVl"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 83,
+  "retweets": 2,
+  "replies": 10,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8140,
+  "score": 109,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122501179766890625",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "original",
+  "created_at": "2026-11-17T01:24:50.000Z",
+  "text": "ts made smoltings day https://t.co/IuFReJGQ2T",
+  "text_flat": "ts made smoltings day https://t.co/IuFReJGQ2T",
+  "url": "https://x.com/inversebrah/status/2122501179766890625",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 167,
+  "retweets": 1,
+  "replies": 12,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 8375,
+  "score": 195,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122501256333951195",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:25:08.000Z",
+  "text": "RT @GollumKhan: https://t.co/pihYcBTmb7",
+  "text_flat": "RT @GollumKhan: https://t.co/pihYcBTmb7",
+  "url": "https://x.com/inversebrah/status/2122501256333951195",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122460722365952065",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "1794552521274306560",
+     "start": 3,
+     "username": "GollumKhan"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1765,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122501302987141307",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:25:19.000Z",
+  "text": "RT @smilinglllama: og smolting plushie looks very sad in his box with no window, envious of new happy smiling smolting https://t.co/5QnYxrt…",
+  "text_flat": "RT @smilinglllama: og smolting plushie looks very sad in his box with no window, envious of new happy smiling smolting https://t.co/5QnYxrt…",
+  "url": "https://x.com/inversebrah/status/2122501302987141307",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122494823697420520",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "62924841",
+     "start": 3,
+     "username": "smilinglllama"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1993,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122512119728062514",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T02:08:18.000Z",
+  "text": "@oddsbtw @DonAlt @0xMerp :3\n\nhttps://t.co/vsDL51YG1w",
+  "text_flat": "@oddsbtw @DonAlt @0xMerp :3  https://t.co/vsDL51YG1w",
+  "url": "https://x.com/inversebrah/status/2122512119728062514",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2094818612234055891",
+    "type": "quoted"
+   },
+   {
+    "id": "2122494660375683567",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1324040929322229760",
+     "start": 0,
+     "username": "oddsbtw"
+    },
+    {
+     "end": 16,
+     "id": "878219545785372673",
+     "start": 9,
+     "username": "DonAlt"
+    },
+    {
+     "end": 24,
+     "id": "926303893536960513",
+     "start": 17,
+     "username": "0xMerp"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 231,
+  "score": 8,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122586937399910473",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T07:05:36.000Z",
+  "text": "how come\n\ndid someting happen https://t.co/0hLbi0knOz",
+  "text_flat": "how come  did someting happen https://t.co/0hLbi0knOz",
+  "url": "https://x.com/inversebrah/status/2122586937399910473",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122516896079646942",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 53,
+     "start": 30,
+     "url": "https://t.co/0hLbi0knOz"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 118,
+  "retweets": 3,
+  "replies": 30,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 9328,
+  "score": 188,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122589589500281117",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T07:16:08.000Z",
+  "text": "RT @Baskitchbrah: https://t.co/rULMbQalPS",
+  "text_flat": "RT @Baskitchbrah: https://t.co/rULMbQalPS",
+  "url": "https://x.com/inversebrah/status/2122589589500281117",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122558722560176433",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "560177240",
+     "start": 3,
+     "username": "Baskitchbrah"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2162,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122589699336446211",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "reply",
+  "created_at": "2026-11-17T07:16:34.000Z",
+  "text": "@raflinens not turtle :&lt;",
+  "text_flat": "@raflinens not turtle :<",
+  "url": "https://x.com/inversebrah/status/2122589699336446211",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122516092799308115",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1627803590986461186",
+     "start": 0,
+     "username": "raflinens"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 5,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 235,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122599929340375064",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T07:57:13.000Z",
+  "text": "RT @GITS2GiG: Well I round tripped my gains, but i got a @wassie https://t.co/4xW8TRWb8J",
+  "text_flat": "RT @GITS2GiG: Well I round tripped my gains, but i got a @wassie https://t.co/4xW8TRWb8J",
+  "url": "https://x.com/inversebrah/status/2122599929340375064",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122397206758203603",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "923537153409372160",
+     "start": 3,
+     "username": "GITS2GiG"
+    },
+    {
+     "end": 64,
+     "id": "1559614553561915393",
+     "start": 57,
+     "username": "wassie"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2247,
+  "score": 12,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601108288012525",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:01:54.000Z",
+  "text": "RT @inversebrah: discuss",
+  "text_flat": "RT @inversebrah: discuss",
+  "url": "https://x.com/inversebrah/status/2122601108288012525",
+  "lang": "en",
+  "conversation_id": "2122601108288012525",
+  "referenced": [
+   {
+    "id": "2122482680818458906",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601263275868382",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:02:31.000Z",
+  "text": "RT @inversebrah: https://t.co/VJmVdKsaV4",
+  "text_flat": "RT @inversebrah: https://t.co/VJmVdKsaV4",
+  "url": "https://x.com/inversebrah/status/2122601263275868382",
+  "lang": "zxx",
+  "conversation_id": "2122601263275868382",
+  "referenced": [
+   {
+    "id": "2122466844720484462",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/VJmVdKsaV4",
+     "end": 40,
+     "expanded_url": "https://x.com/inversebrah/status/2122466844720484462/photo/1",
+     "media_key": "3_2122466839314010112",
+     "start": 17,
+     "url": "https://t.co/VJmVdKsaV4"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601355907076139",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:02:53.000Z",
+  "text": "RT @inversebrah: https://t.co/jsZ5O1oDjo",
+  "text_flat": "RT @inversebrah: https://t.co/jsZ5O1oDjo",
+  "url": "https://x.com/inversebrah/status/2122601355907076139",
+  "lang": "zxx",
+  "conversation_id": "2122601355907076139",
+  "referenced": [
+   {
+    "id": "2122452812466647216",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/jsZ5O1oDjo",
+     "end": 40,
+     "expanded_url": "https://x.com/inversebrah/status/2122452812466647216/photo/1",
+     "media_key": "3_2122452806661742592",
+     "start": 17,
+     "url": "https://t.co/jsZ5O1oDjo"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601480658292870",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T08:03:23.000Z",
+  "text": "27k now https://t.co/SM4oLAN038",
+  "text_flat": "27k now https://t.co/SM4oLAN038",
+  "url": "https://x.com/inversebrah/status/2122601480658292870",
+  "lang": "en",
+  "conversation_id": "2122601480658292870",
+  "referenced": [
+   {
+    "id": "2122444778126348719",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/inversebrah/st…",
+     "end": 31,
+     "expanded_url": "https://twitter.com/inversebrah/status/2122444778126348719",
+     "start": 8,
+     "url": "https://t.co/SM4oLAN038"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 22,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8498,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601574417781216",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:03:46.000Z",
+  "text": "RT @inversebrah: in other news https://t.co/XZUjkcluF1",
+  "text_flat": "RT @inversebrah: in other news https://t.co/XZUjkcluF1",
+  "url": "https://x.com/inversebrah/status/2122601574417781216",
+  "lang": "en",
+  "conversation_id": "2122601574417781216",
+  "referenced": [
+   {
+    "id": "2122442864349380888",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/XZUjkcluF1",
+     "end": 54,
+     "expanded_url": "https://x.com/inversebrah/status/2122442864349380888/video/1",
+     "media_key": "3_2122442781075689472",
+     "start": 31,
+     "url": "https://t.co/XZUjkcluF1"
+    },
+    {
+     "display_url": "pic.x.com/XZUjkcluF1",
+     "end": 54,
+     "expanded_url": "https://x.com/inversebrah/status/2122442864349380888/video/2",
+     "media_key": "13_2122442792630996993",
+     "start": 31,
+     "url": "https://t.co/XZUjkcluF1"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122601753753653433",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:04:28.000Z",
+  "text": "RT @inversebrah: todays snapshot https://t.co/68UpLz7b7c",
+  "text_flat": "RT @inversebrah: todays snapshot https://t.co/68UpLz7b7c",
+  "url": "https://x.com/inversebrah/status/2122601753753653433",
+  "lang": "en",
+  "conversation_id": "2122601753753653433",
+  "referenced": [
+   {
+    "id": "2122437593740754953",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/68UpLz7b7c",
+     "end": 56,
+     "expanded_url": "https://x.com/inversebrah/status/2122437593740754953/photo/1",
+     "media_key": "3_2122437587914903552",
+     "start": 33,
+     "url": "https://t.co/68UpLz7b7c"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 0,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602119660446122",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:05:56.000Z",
+  "text": "RT @CryptoCronkite: somewhere out there is a guy who stopped using Ledger because of the address leaks then ordered a Trezor and now his ad…",
+  "text_flat": "RT @CryptoCronkite: somewhere out there is a guy who stopped using Ledger because of the address leaks then ordered a Trezor and now his ad…",
+  "url": "https://x.com/inversebrah/status/2122602119660446122",
+  "lang": "en",
+  "conversation_id": "2122602119660446122",
+  "referenced": [
+   {
+    "id": "2122387197227929780",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "179158131",
+     "start": 3,
+     "username": "CryptoCronkite"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1974,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122602292151246973",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T08:06:37.000Z",
+  "text": "RT @javajrr: BALLAD OF A GOLDENDOODLE IS OFFICIALLY LIVEEEE 💗💗💗💗💗\n\npoured my heart and soul into this anthology and had so much fun writing…",
+  "text_flat": "RT @javajrr: BALLAD OF A GOLDENDOODLE IS OFFICIALLY LIVEEEE 💗💗💗💗💗  poured my heart and soul into this anthology and had so much fun writing…",
+  "url": "https://x.com/inversebrah/status/2122602292151246973",
+  "lang": "en",
+  "conversation_id": "2122602292151246973",
+  "referenced": [
+   {
+    "id": "2122409387969085778",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1480734239431671809",
+     "start": 3,
+     "username": "javajrr"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2143,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122607982617956685",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T08:29:13.000Z",
+  "text": "https://t.co/GjjjC9eKvF https://t.co/2HS1zvVxJ8",
+  "text_flat": "https://t.co/GjjjC9eKvF https://t.co/2HS1zvVxJ8",
+  "url": "https://x.com/inversebrah/status/2122607982617956685",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2121746850147643393",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/2HS1zvVxJ8"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 86,
+  "retweets": 2,
+  "replies": 23,
+  "quotes": 4,
+  "bookmarks": 1,
+  "impressions": 8695,
+  "score": 151,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122610033699791049",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T08:37:22.000Z",
+  "text": "https://t.co/VfUzD2uDYv https://t.co/XtwMF298sm",
+  "text_flat": "https://t.co/VfUzD2uDYv https://t.co/XtwMF298sm",
+  "url": "https://x.com/inversebrah/status/2122610033699791049",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122517354160525706",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/XtwMF298sm"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 299,
+  "retweets": 19,
+  "replies": 32,
+  "quotes": 4,
+  "bookmarks": 37,
+  "impressions": 19572,
+  "score": 469,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122624095044960697",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T09:33:15.000Z",
+  "text": "RT @cdngdev: i recreated THE ENTIRE WORLD in minecraft at 1:1 scale. every building on earth, including your house!\n\nto do this, i trained…",
+  "text_flat": "RT @cdngdev: i recreated THE ENTIRE WORLD in minecraft at 1:1 scale. every building on earth, including your house!  to do this, i trained…",
+  "url": "https://x.com/inversebrah/status/2122624095044960697",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122416145517117463",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1235989037938167808",
+     "start": 3,
+     "username": "cdngdev"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 2469,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1927,
+  "score": 7407,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122624456703250475",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "retweet",
+  "created_at": "2026-11-17T09:34:41.000Z",
+  "text": "RT @goodalexander: I have decided I will sell my crypto and leave the industry when the national debt is cut in half and the people in the…",
+  "text_flat": "RT @goodalexander: I have decided I will sell my crypto and leave the industry when the national debt is cut in half and the people in the…",
+  "url": "https://x.com/inversebrah/status/2122624456703250475",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122505396065845721",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 17,
+     "id": "22110973",
+     "start": 3,
+     "username": "goodalexander"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 24,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1829,
+  "score": 72,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122625456218554763",
+  "username": "inversebrah",
+  "username_canon": "inversebrah",
+  "type": "quote",
+  "created_at": "2026-11-17T09:38:39.000Z",
+  "text": "https://t.co/I5B0Dc2mpW https://t.co/8rwC626SJz",
+  "text_flat": "https://t.co/I5B0Dc2mpW https://t.co/8rwC626SJz",
+  "url": "https://x.com/inversebrah/status/2122625456218554763",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122624933339566196",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 47,
+     "start": 24,
+     "url": "https://t.co/8rwC626SJz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 61,
+  "retweets": 3,
+  "replies": 24,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2807,
+  "score": 118,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

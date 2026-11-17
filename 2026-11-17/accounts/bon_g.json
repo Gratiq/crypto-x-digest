@@ -1,0 +1,226 @@
+[
+ {
+  "id": "2122436763570368918",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "original",
+  "created_at": "2026-11-16T21:08:52.000Z",
+  "text": "this coin got listed on coinbase btw https://t.co/1J4CSVnchx",
+  "text_flat": "this coin got listed on coinbase btw https://t.co/1J4CSVnchx",
+  "url": "https://x.com/bon_g/status/2122436763570368918",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 82,
+  "retweets": 7,
+  "replies": 28,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2300,
+  "score": 159,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122474572951822505",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "original",
+  "created_at": "2026-11-16T23:39:06.000Z",
+  "text": "guys internet is cooked, nice knowing you all",
+  "text_flat": "guys internet is cooked, nice knowing you all",
+  "url": "https://x.com/bon_g/status/2122474572951822505",
+  "lang": "en",
+  "conversation_id": "2122474572951822505",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 76,
+  "retweets": 9,
+  "replies": 28,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2153,
+  "score": 159,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122477354564133360",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "reply",
+  "created_at": "2026-11-16T23:50:09.000Z",
+  "text": "@0xWassie cyber pandemic era",
+  "text_flat": "@0xWassie cyber pandemic era",
+  "url": "https://x.com/bon_g/status/2122477354564133360",
+  "lang": "in",
+  "conversation_id": "2122474572951822505",
+  "referenced": [
+   {
+    "id": "2122476729793183746",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "1822785333739593728",
+     "start": 0,
+     "username": "0xWassie"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 398,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122487664461107513",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "reply",
+  "created_at": "2026-11-17T00:31:07.000Z",
+  "text": "@CarneyDavis_ nah",
+  "text_flat": "@CarneyDavis_ nah",
+  "url": "https://x.com/bon_g/status/2122487664461107513",
+  "lang": "und",
+  "conversation_id": "2122436763570368918",
+  "referenced": [
+   {
+    "id": "2122454361989169520",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "2215542206",
+     "start": 0,
+     "username": "CarneyDavis_"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 59,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122494937396551838",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "reply",
+  "created_at": "2026-11-17T01:00:01.000Z",
+  "text": "@sunnymaanz yo",
+  "text_flat": "@sunnymaanz yo",
+  "url": "https://x.com/bon_g/status/2122494937396551838",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122491255733002427",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1060000699763765249",
+     "start": 0,
+     "username": "sunnymaanz"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 63,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122664078837776863",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "original",
+  "created_at": "2026-11-17T12:12:08.000Z",
+  "text": "Denmark secure their spot in the quarter finals with a win today\n\nDenmark win at home 🇩🇰 https://t.co/RLi3FvPcAu",
+  "text_flat": "Denmark secure their spot in the quarter finals with a win today  Denmark win at home 🇩🇰 https://t.co/RLi3FvPcAu",
+  "url": "https://x.com/bon_g/status/2122664078837776863",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 57,
+  "retweets": 14,
+  "replies": 32,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 3807,
+  "score": 163,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122665099143856603",
+  "username": "bon_g",
+  "username_canon": "bon_g",
+  "type": "reply",
+  "created_at": "2026-11-17T12:16:11.000Z",
+  "text": "@CapitalistOG sorry but haaland is going home today",
+  "text_flat": "@CapitalistOG sorry but haaland is going home today",
+  "url": "https://x.com/bon_g/status/2122665099143856603",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122664561677406220",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 13,
+     "id": "1356685423985250304",
+     "start": 0,
+     "username": "CapitalistOG"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 106,
+  "score": 4,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

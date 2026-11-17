@@ -1,0 +1,46 @@
+[
+ {
+  "id": "2122663932439699687",
+  "username": "AltcoinPsycho",
+  "username_canon": "AltcoinPsycho",
+  "type": "retweet",
+  "created_at": "2026-11-17T12:11:33.000Z",
+  "text": "RT @solana: JUST IN: @akashnet is building the first forward market for GPU compute, and it will run on Solana. https://t.co/TBApHLhlIJ",
+  "text_flat": "RT @solana: JUST IN: @akashnet is building the first forward market for GPU compute, and it will run on Solana. https://t.co/TBApHLhlIJ",
+  "url": "https://x.com/AltcoinPsycho/status/2122663932439699687",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122647021588791657",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "951329744804392960",
+     "start": 3,
+     "username": "solana"
+    },
+    {
+     "end": 30,
+     "id": "922670090834780162",
+     "start": 21,
+     "username": "akashnet"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 29,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 4861,
+  "score": 87,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

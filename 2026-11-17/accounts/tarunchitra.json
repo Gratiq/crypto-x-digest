@@ -1,0 +1,308 @@
+[
+ {
+  "id": "2122455550394851676",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-16T22:23:31.000Z",
+  "text": "Someone sent me this exhibit right as I read this tweet and it is always funny how the universe conspires in weird ways to make the funniest outcome the real outcome https://t.co/CQaLKnLa7I https://t.co/fGaX1KZynD",
+  "text_flat": "Someone sent me this exhibit right as I read this tweet and it is always funny how the universe conspires in weird ways to make the funniest outcome the real outcome https://t.co/CQaLKnLa7I https://t.co/fGaX1KZynD",
+  "url": "https://x.com/tarunchitra/status/2122455550394851676",
+  "lang": "en",
+  "conversation_id": "2122455550394851676",
+  "referenced": [
+   {
+    "id": "2122445200203362694",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/CQaLKnLa7I",
+     "end": 189,
+     "expanded_url": "https://x.com/tarunchitra/status/2122455550394851676/photo/1",
+     "media_key": "3_2122454996830613504",
+     "start": 166,
+     "url": "https://t.co/CQaLKnLa7I"
+    },
+    {
+     "display_url": "pic.x.com/CQaLKnLa7I",
+     "end": 189,
+     "expanded_url": "https://x.com/tarunchitra/status/2122455550394851676/photo/2",
+     "media_key": "3_2122455529188466688",
+     "start": 166,
+     "url": "https://t.co/CQaLKnLa7I"
+    },
+    {
+     "display_url": "x.com/tradfi/status/…",
+     "end": 213,
+     "expanded_url": "https://twitter.com/tradfi/status/2122445200203362694",
+     "start": 190,
+     "url": "https://t.co/fGaX1KZynD"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 49,
+  "retweets": 1,
+  "replies": 11,
+  "quotes": 0,
+  "bookmarks": 12,
+  "impressions": 10194,
+  "score": 86,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122456065954451872",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:25:34.000Z",
+  "text": "RT @nasqret: Thanks to @AnnaRRose and @tarunchitra for the invitation. It was\ngreat talking to you about mathematics, cryptography and the…",
+  "text_flat": "RT @nasqret: Thanks to @AnnaRRose and @tarunchitra for the invitation. It was great talking to you about mathematics, cryptography and the…",
+  "url": "https://x.com/tarunchitra/status/2122456065954451872",
+  "lang": "en",
+  "conversation_id": "2122456065954451872",
+  "referenced": [
+   {
+    "id": "2122374352452640916",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1723350429885489152",
+     "start": 3,
+     "username": "nasqret"
+    },
+    {
+     "end": 33,
+     "id": "412148596",
+     "start": 23,
+     "username": "AnnaRRose"
+    },
+    {
+     "end": 50,
+     "id": "53836928",
+     "start": 38,
+     "username": "tarunchitra"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 386,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122456076516012150",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:25:36.000Z",
+  "text": "RT @zeroknowledgefm: 🎙️Last week @AnnaRRose &amp; @tarunchitra spoke with mathematician @nasqret about https://t.co/5QLoQA4WYg, auto research a…",
+  "text_flat": "RT @zeroknowledgefm: 🎙️Last week @AnnaRRose & @tarunchitra spoke with mathematician @nasqret about https://t.co/5QLoQA4WYg, auto research a…",
+  "url": "https://x.com/tarunchitra/status/2122456076516012150",
+  "lang": "en",
+  "conversation_id": "2122456076516012150",
+  "referenced": [
+   {
+    "id": "2122367051914158423",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 19,
+     "id": "977164339533832192",
+     "start": 3,
+     "username": "zeroknowledgefm"
+    },
+    {
+     "end": 43,
+     "id": "412148596",
+     "start": 33,
+     "username": "AnnaRRose"
+    },
+    {
+     "end": 62,
+     "id": "53836928",
+     "start": 50,
+     "username": "tarunchitra"
+    },
+    {
+     "end": 96,
+     "id": "1723350429885489152",
+     "start": 88,
+     "username": "nasqret"
+    }
+   ],
+   "urls": [
+    {
+     "description": "A benchmark arena for cracking ECDSA. Run your autoresearch harness, verify against the benchmark, and submit your score.",
+     "display_url": "ECDSA.fail",
+     "end": 126,
+     "expanded_url": "https://ECDSA.fail",
+     "images": [
+      {
+       "height": 195,
+       "url": "https://pbs.twimg.com/news_img/2120845432591187968/XpN9KOD3?format=png&name=orig",
+       "width": 1057
+      },
+      {
+       "height": 150,
+       "url": "https://pbs.twimg.com/news_img/2120845432591187968/XpN9KOD3?format=png&name=150x150",
+       "width": 150
+      }
+     ],
+     "start": 103,
+     "status": 200,
+     "title": "ECDSA.fail — can you break ECDSA?",
+     "unwound_url": "https://ECDSA.fail",
+     "url": "https://t.co/5QLoQA4WYg"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 384,
+  "score": 3,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122504008933978143",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-17T01:36:04.000Z",
+  "text": "RT @Beylin: https://t.co/toL2TJks7U",
+  "text_flat": "RT @Beylin: https://t.co/toL2TJks7U",
+  "url": "https://x.com/tarunchitra/status/2122504008933978143",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122462838006702084",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "137126152",
+     "start": 3,
+     "username": "Beylin"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 427,
+  "score": 9,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122589744542499200",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-17T07:16:45.000Z",
+  "text": "RT @MTSlive: .@dealignai argues Chinese AI labs are releasing open-weight models to get as much of the world's hardware as possible running…",
+  "text_flat": "RT @MTSlive: .@dealignai argues Chinese AI labs are releasing open-weight models to get as much of the world's hardware as possible running…",
+  "url": "https://x.com/tarunchitra/status/2122589744542499200",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122515907964813623",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "2029271146445848578",
+     "start": 3,
+     "username": "MTSlive"
+    },
+    {
+     "end": 24,
+     "id": "1749759735379939328",
+     "start": 14,
+     "username": "dealignai"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 398,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122591649268392330",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-17T07:24:19.000Z",
+  "text": "RT @rrwilliams: Got extra AI usage? Want to advance circuit complexity? \nSend your swarm to read https://t.co/6pMkrIEsiJ\ntell em to improve…",
+  "text_flat": "RT @rrwilliams: Got extra AI usage? Want to advance circuit complexity?  Send your swarm to read https://t.co/6pMkrIEsiJ tell em to improve…",
+  "url": "https://x.com/tarunchitra/status/2122591649268392330",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122491461912420841",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "14594687",
+     "start": 3,
+     "username": "rrwilliams"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 399,
+  "score": 45,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

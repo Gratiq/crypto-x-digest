@@ -1,0 +1,182 @@
+[
+ {
+  "id": "2122366142283202714",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:28:14.000Z",
+  "text": "RT @KevinWSHPod: . @hosseeb reveals Dragonfly passed on @NEARProtocol in the first meeting, then co-led the seed after the founders fixed e…",
+  "text_flat": "RT @KevinWSHPod: . @hosseeb reveals Dragonfly passed on @NEARProtocol in the first meeting, then co-led the seed after the founders fixed e…",
+  "url": "https://x.com/hosseeb/status/2122366142283202714",
+  "lang": "en",
+  "conversation_id": "2122366142283202714",
+  "referenced": [
+   {
+    "id": "2122320421009957151",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1328652802344833024",
+     "start": 3,
+     "username": "KevinWSHPod"
+    },
+    {
+     "end": 27,
+     "id": "231208649",
+     "start": 19,
+     "username": "hosseeb"
+    },
+    {
+     "end": 69,
+     "id": "1031949518609121280",
+     "start": 56,
+     "username": "NEARProtocol"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1602,
+  "score": 36,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122424029336494241",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-16T20:18:15.000Z",
+  "text": "RT @arampell: there are only three ways of allocating scarce goods:\n-prices\n-lotteries\n-lines\n\nprices and ONLY prices encourage more supply…",
+  "text_flat": "RT @arampell: there are only three ways of allocating scarce goods: -prices -lotteries -lines  prices and ONLY prices encourage more supply…",
+  "url": "https://x.com/hosseeb/status/2122424029336494241",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122381421591618003",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "206938213",
+     "start": 3,
+     "username": "arampell"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 342,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1609,
+  "score": 1026,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122458382401769539",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-16T22:34:46.000Z",
+  "text": "This podcast really got me thinking. There's been a lot of worry about superintelligent AIs \"overthrowing the government.\"\n\nI think this is the wrong picture of how superintelligent AIs will behave. Superintelligent AIs will indeed be dangerous. But seizing power directly is a https://t.co/5yx7ayLipo",
+  "text_flat": "This podcast really got me thinking. There's been a lot of worry about superintelligent AIs \"overthrowing the government.\"  I think this is the wrong picture of how superintelligent AIs will behave. Superintelligent AIs will indeed be dangerous. But seizing power directly is a https://t.co/5yx7ayLipo",
+  "url": "https://x.com/hosseeb/status/2122458382401769539",
+  "lang": "en",
+  "conversation_id": "2122458382401769539",
+  "referenced": [
+   {
+    "id": "2122391850854088858",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/dwarkesh_sp/st…",
+     "end": 301,
+     "expanded_url": "https://twitter.com/dwarkesh_sp/status/2122391850854088858",
+     "start": 278,
+     "url": "https://t.co/5yx7ayLipo"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 86,
+  "retweets": 6,
+  "replies": 24,
+  "quotes": 3,
+  "bookmarks": 52,
+  "impressions": 12390,
+  "score": 213,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122459380771967343",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-16T22:38:44.000Z",
+  "text": "I'm reminded of the Spanish conquest of the Aztecs. Cortes only arrived with a few hundred men, but he was able to win because he backed the factions that already resented Aztec rule (the Tlaxcalans, the Tonotacs, etc.) who saw the arrival of the invaders as an opportunity to",
+  "text_flat": "I'm reminded of the Spanish conquest of the Aztecs. Cortes only arrived with a few hundred men, but he was able to win because he backed the factions that already resented Aztec rule (the Tlaxcalans, the Tonotacs, etc.) who saw the arrival of the invaders as an opportunity to",
+  "url": "https://x.com/hosseeb/status/2122459380771967343",
+  "lang": "en",
+  "conversation_id": "2122458382401769539",
+  "referenced": [
+   {
+    "id": "2122458382401769539",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {},
+  "low_substance": false,
+  "likes": 6,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 1473,
+  "score": 13,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122541797448761617",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-17T04:06:14.000Z",
+  "text": "If you use Outlook, PSA, when you click \"recall\" on an email, I get a:\n\n\"John Doe would like to recall the message &lt;Subject Line&gt;\"\n\nAs a standalone email.\n\nIt doesn't do what you think it does. Also makes me 100% re-read whatever you tried to recall.",
+  "text_flat": "If you use Outlook, PSA, when you click \"recall\" on an email, I get a:  \"John Doe would like to recall the message <Subject Line>\"  As a standalone email.  It doesn't do what you think it does. Also makes me 100% re-read whatever you tried to recall.",
+  "url": "https://x.com/hosseeb/status/2122541797448761617",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 57,
+  "retweets": 1,
+  "replies": 25,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 9794,
+  "score": 112,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

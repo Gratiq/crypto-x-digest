@@ -1,0 +1,172 @@
+[
+ {
+  "id": "2122370970052653375",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "retweet",
+  "created_at": "2026-11-16T16:47:25.000Z",
+  "text": "RT @fomo: Introducing the fomo notification center.\n\nTrack follows, rewards, likes, leaderboard updates and more.\n\nAll your account activit…",
+  "text_flat": "RT @fomo: Introducing the fomo notification center.  Track follows, rewards, likes, leaderboard updates and more.  All your account activit…",
+  "url": "https://x.com/orangie/status/2122370970052653375",
+  "lang": "en",
+  "conversation_id": "2122370970052653375",
+  "referenced": [
+   {
+    "id": "2122370924766986264",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1867712496531877888",
+     "start": 3,
+     "username": "fomo"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 9719,
+  "score": 96,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122371016270008812",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "reply",
+  "created_at": "2026-11-16T16:47:36.000Z",
+  "text": "@fomo OK OK",
+  "text_flat": "@fomo OK OK",
+  "url": "https://x.com/orangie/status/2122371016270008812",
+  "lang": "en",
+  "conversation_id": "2122370924766986264",
+  "referenced": [
+   {
+    "id": "2122370924766986264",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 5,
+     "id": "1867712496531877888",
+     "start": 0,
+     "username": "fomo"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 26,
+  "retweets": 0,
+  "replies": 13,
+  "quotes": 0,
+  "bookmarks": 2,
+  "impressions": 2232,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122418222414586106",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "reply",
+  "created_at": "2026-11-16T19:55:11.000Z",
+  "text": "@RichardPtardio @MadeByWoven 😭🙏 Richard!!!",
+  "text_flat": "@RichardPtardio @MadeByWoven 😭🙏 Richard!!!",
+  "url": "https://x.com/orangie/status/2122418222414586106",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122418057951756626",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1834540200082440192",
+     "start": 0,
+     "username": "RichardPtardio"
+    },
+    {
+     "end": 28,
+     "id": "1520840676048457728",
+     "start": 16,
+     "username": "MadeByWoven"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 4,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1216,
+  "score": 14,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122681348104269994",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "reply",
+  "created_at": "2026-11-17T13:20:45.000Z",
+  "text": "@rasputnik7 @Cybertruck0001 @interstellargw Would you sell it?",
+  "text_flat": "@rasputnik7 @Cybertruck0001 @interstellargw Would you sell it?",
+  "url": "https://x.com/orangie/status/2122681348104269994",
+  "lang": "en",
+  "conversation_id": "2122331104241725767",
+  "referenced": [
+   {
+    "id": "2122553969545257311",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "81865495",
+     "start": 0,
+     "username": "rasputnik7"
+    },
+    {
+     "end": 27,
+     "id": "1725374005845110784",
+     "start": 12,
+     "username": "Cybertruck0001"
+    },
+    {
+     "end": 43,
+     "id": "554051314",
+     "start": 28,
+     "username": "interstellargw"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 326,
+  "score": 1,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

@@ -1,0 +1,671 @@
+[
+ {
+  "id": "2122338716161044950",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "quote",
+  "created_at": "2026-11-16T14:39:15.000Z",
+  "text": "TACO MONDAY!!!! https://t.co/7hT8ysGTFO",
+  "text_flat": "TACO MONDAY!!!! https://t.co/7hT8ysGTFO",
+  "url": "https://x.com/frankdegods/status/2122338716161044950",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122336238875349385",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 39,
+     "start": 16,
+     "url": "https://t.co/7hT8ysGTFO"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 238,
+  "retweets": 6,
+  "replies": 40,
+  "quotes": 2,
+  "bookmarks": 2,
+  "impressions": 26343,
+  "score": 344,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122342553592959434",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T14:54:30.000Z",
+  "text": "@jukan05 yeah its the 2nd best timed sale of the year",
+  "text_flat": "@jukan05 yeah its the 2nd best timed sale of the year",
+  "url": "https://x.com/frankdegods/status/2122342553592959434",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122328380003516570",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1836240683268759552",
+     "start": 0,
+     "username": "jukan05"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 31,
+  "retweets": 0,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 8762,
+  "score": 47,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122345635219489077",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "original",
+  "created_at": "2026-11-16T15:06:45.000Z",
+  "text": "that was a solid 30 minute bull market",
+  "text_flat": "that was a solid 30 minute bull market",
+  "url": "https://x.com/frankdegods/status/2122345635219489077",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 1826,
+  "retweets": 47,
+  "replies": 182,
+  "quotes": 6,
+  "bookmarks": 15,
+  "impressions": 62941,
+  "score": 2364,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122350860755948008",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "original",
+  "created_at": "2026-11-16T15:27:31.000Z",
+  "text": "everytime ive closed a short and flipped long i have regretted it \n\nfor like 2 months straight\n\nwhat does this mean 😔",
+  "text_flat": "everytime ive closed a short and flipped long i have regretted it   for like 2 months straight  what does this mean 😔",
+  "url": "https://x.com/frankdegods/status/2122350860755948008",
+  "lang": "en",
+  "conversation_id": "2122350860755948008",
+  "referenced": [],
+  "entities": {},
+  "low_substance": false,
+  "likes": 604,
+  "retweets": 6,
+  "replies": 137,
+  "quotes": 1,
+  "bookmarks": 16,
+  "impressions": 56714,
+  "score": 915,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122353162996891703",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:36:40.000Z",
+  "text": "@SCHIZO_FREQ this is the orderbook now",
+  "text_flat": "@SCHIZO_FREQ this is the orderbook now",
+  "url": "https://x.com/frankdegods/status/2122353162996891703",
+  "lang": "en",
+  "conversation_id": "2122350860755948008",
+  "referenced": [
+   {
+    "id": "2122352303730753823",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1240784920831762433",
+     "start": 0,
+     "username": "SCHIZO_FREQ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2015,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122353391351288151",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:37:34.000Z",
+  "text": "@blknoiz06 I",
+  "text_flat": "@blknoiz06 I",
+  "url": "https://x.com/frankdegods/status/2122353391351288151",
+  "lang": "und",
+  "conversation_id": "2122350860755948008",
+  "referenced": [
+   {
+    "id": "2122353319196635196",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "973261472",
+     "start": 0,
+     "username": "blknoiz06"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 96,
+  "retweets": 0,
+  "replies": 52,
+  "quotes": 1,
+  "bookmarks": 0,
+  "impressions": 15580,
+  "score": 203,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122354395060822441",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "original",
+  "created_at": "2026-11-16T15:41:33.000Z",
+  "text": "https://t.co/lOtatDt2He",
+  "text_flat": "https://t.co/lOtatDt2He",
+  "url": "https://x.com/frankdegods/status/2122354395060822441",
+  "lang": "zxx",
+  "conversation_id": "2122354395060822441",
+  "referenced": [],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/lOtatDt2He",
+     "end": 23,
+     "expanded_url": "https://x.com/frankdegods/status/2122354395060822441/photo/1",
+     "media_key": "3_2122354392271560705",
+     "start": 0,
+     "url": "https://t.co/lOtatDt2He"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 1341,
+  "retweets": 65,
+  "replies": 101,
+  "quotes": 12,
+  "bookmarks": 38,
+  "impressions": 62824,
+  "score": 1812,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122354558110474591",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:42:12.000Z",
+  "text": "@riskmaxxing billionaire mindset",
+  "text_flat": "@riskmaxxing billionaire mindset",
+  "url": "https://x.com/frankdegods/status/2122354558110474591",
+  "lang": "da",
+  "conversation_id": "2122350860755948008",
+  "referenced": [
+   {
+    "id": "2122354149756993792",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 12,
+     "id": "1936687913116266496",
+     "start": 0,
+     "username": "riskmaxxing"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1787,
+  "score": 7,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122358430736208329",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:57:36.000Z",
+  "text": "@ponzibaron seems cool but no position",
+  "text_flat": "@ponzibaron seems cool but no position",
+  "url": "https://x.com/frankdegods/status/2122358430736208329",
+  "lang": "en",
+  "conversation_id": "2122354395060822441",
+  "referenced": [
+   {
+    "id": "2122356965288399359",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1902328757018578944",
+     "start": 0,
+     "username": "ponzibaron"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 8,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2652,
+  "score": 14,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122358617387012137",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:58:20.000Z",
+  "text": "@aaalex true",
+  "text_flat": "@aaalex true",
+  "url": "https://x.com/frankdegods/status/2122358617387012137",
+  "lang": "en",
+  "conversation_id": "2122352374937198807",
+  "referenced": [
+   {
+    "id": "2122352374937198807",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 7,
+     "id": "1142277188294598656",
+     "start": 0,
+     "username": "aaalex"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1763,
+  "score": 4,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122358653563146586",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T15:58:29.000Z",
+  "text": "@007 yeah he on that goat run",
+  "text_flat": "@007 yeah he on that goat run",
+  "url": "https://x.com/frankdegods/status/2122358653563146586",
+  "lang": "en",
+  "conversation_id": "2122343950308540474",
+  "referenced": [
+   {
+    "id": "2122343950308540474",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 4,
+     "id": "389229444",
+     "start": 0,
+     "username": "007"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 171,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 17115,
+  "score": 186,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122360260056748276",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T16:04:52.000Z",
+  "text": "@Evan_ss6 im tired boss 😔",
+  "text_flat": "@Evan_ss6 im tired boss 😔",
+  "url": "https://x.com/frankdegods/status/2122360260056748276",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122359960373993983",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 9,
+     "id": "279828819",
+     "start": 0,
+     "username": "Evan_ss6"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 9,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2562,
+  "score": 21,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122362596036845957",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "quote",
+  "created_at": "2026-11-16T16:14:09.000Z",
+  "text": "i think a lot of retail already blew their ports and now they just slam 0DTE lotto calls on every dip to make it back\n\nso bottom won’t be in until retail starts chasing puts into dips https://t.co/AryWkBVT2o",
+  "text_flat": "i think a lot of retail already blew their ports and now they just slam 0DTE lotto calls on every dip to make it back  so bottom won’t be in until retail starts chasing puts into dips https://t.co/AryWkBVT2o",
+  "url": "https://x.com/frankdegods/status/2122362596036845957",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122353407256121629",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "end": 207,
+     "start": 184,
+     "url": "https://t.co/AryWkBVT2o"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 293,
+  "retweets": 7,
+  "replies": 75,
+  "quotes": 0,
+  "bookmarks": 20,
+  "impressions": 36268,
+  "score": 484,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122366155713388653",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T16:28:17.000Z",
+  "text": "@BULLOFBRITAIN yeah not this flow specifically just mean more in general",
+  "text_flat": "@BULLOFBRITAIN yeah not this flow specifically just mean more in general",
+  "url": "https://x.com/frankdegods/status/2122366155713388653",
+  "lang": "en",
+  "conversation_id": "2122362596036845957",
+  "referenced": [
+   {
+    "id": "2122365378022047867",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 14,
+     "id": "554464129",
+     "start": 0,
+     "username": "BULLOFBRITAIN"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1814,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122368019963793761",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-16T16:35:42.000Z",
+  "text": "@rasmr_eth you would think that, wouldn't you",
+  "text_flat": "@rasmr_eth you would think that, wouldn't you",
+  "url": "https://x.com/frankdegods/status/2122368019963793761",
+  "lang": "en",
+  "conversation_id": "2122362596036845957",
+  "referenced": [
+   {
+    "id": "2122367810357915867",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "423164349",
+     "start": 0,
+     "username": "rasmr_eth"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 16,
+  "retweets": 1,
+  "replies": 8,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 2976,
+  "score": 35,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122479851781419073",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "retweet",
+  "created_at": "2026-11-17T00:00:05.000Z",
+  "text": "RT @paulerlanger: Public trading is inevitable. The problems it will solve outweigh the growing pains of today.\n\nIn the future, it'll be ob…",
+  "text_flat": "RT @paulerlanger: Public trading is inevitable. The problems it will solve outweigh the growing pains of today.  In the future, it'll be ob…",
+  "url": "https://x.com/frankdegods/status/2122479851781419073",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122478896474116599",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 16,
+     "id": "109422148",
+     "start": 3,
+     "username": "paulerlanger"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 10537,
+  "score": 24,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122486123133800830",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-17T00:25:00.000Z",
+  "text": "@armaniferrante @LoganJastremski @RyanWatkins_ hip3 x backpack? that would be insane...",
+  "text_flat": "@armaniferrante @LoganJastremski @RyanWatkins_ hip3 x backpack? that would be insane...",
+  "url": "https://x.com/frankdegods/status/2122486123133800830",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122475088947863915",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "276810355",
+     "start": 0,
+     "username": "armaniferrante"
+    },
+    {
+     "end": 32,
+     "id": "352777551",
+     "start": 16,
+     "username": "LoganJastremski"
+    },
+    {
+     "end": 46,
+     "id": "708805895258574849",
+     "start": 33,
+     "username": "RyanWatkins_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 5,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 1418,
+  "score": 5,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122557956533502406",
+  "username": "frankdegods",
+  "username_canon": "frankdegods",
+  "type": "reply",
+  "created_at": "2026-11-17T05:10:26.000Z",
+  "text": "@samfiyn @ProsperityDAO_ s/o yogurt thanks for the ping https://t.co/3qHEGJVncK",
+  "text_flat": "@samfiyn @ProsperityDAO_ s/o yogurt thanks for the ping https://t.co/3qHEGJVncK",
+  "url": "https://x.com/frankdegods/status/2122557956533502406",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122555115781693837",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 8,
+     "id": "1861332364502159360",
+     "start": 0,
+     "username": "samfiyn"
+    },
+    {
+     "end": 24,
+     "id": "1499836941751050242",
+     "start": 9,
+     "username": "ProsperityDAO_"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 71,
+  "retweets": 1,
+  "replies": 17,
+  "quotes": 1,
+  "bookmarks": 2,
+  "impressions": 9703,
+  "score": 113,
+  "cashtags": [],
+  "hashtags": []
+ }
+]

@@ -1,0 +1,470 @@
+[
+ {
+  "id": "2122459763011383800",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-16T22:40:15.000Z",
+  "text": "RT @inversebrah: todays snapshot\n\n💀 https://t.co/D9WRywg1en",
+  "text_flat": "RT @inversebrah: todays snapshot  💀 https://t.co/D9WRywg1en",
+  "url": "https://x.com/Fiskantes/status/2122459763011383800",
+  "lang": "en",
+  "conversation_id": "2122459763011383800",
+  "referenced": [
+   {
+    "id": "2122118399614668994",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "1051852534518824960",
+     "start": 3,
+     "username": "inversebrah"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/D9WRywg1en",
+     "end": 59,
+     "expanded_url": "https://x.com/inversebrah/status/2122118399614668994/photo/1",
+     "media_key": "3_2122118329657913344",
+     "start": 36,
+     "url": "https://t.co/D9WRywg1en"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 498,
+  "score": 45,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122460274917519559",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-16T22:42:17.000Z",
+  "text": "it looks down to me boss https://t.co/hDdXXcoedZ https://t.co/5JUzj2UCa5",
+  "text_flat": "it looks down to me boss https://t.co/hDdXXcoedZ https://t.co/5JUzj2UCa5",
+  "url": "https://x.com/Fiskantes/status/2122460274917519559",
+  "lang": "en",
+  "conversation_id": "2122460274917519559",
+  "referenced": [
+   {
+    "id": "2122405040849825886",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "pic.x.com/hDdXXcoedZ",
+     "end": 48,
+     "expanded_url": "https://x.com/Fiskantes/status/2122460274917519559/photo/1",
+     "media_key": "3_2122460265031643136",
+     "start": 25,
+     "url": "https://t.co/hDdXXcoedZ"
+    },
+    {
+     "display_url": "x.com/nic_carter/sta…",
+     "end": 72,
+     "expanded_url": "https://twitter.com/nic_carter/status/2122405040849825886",
+     "start": 49,
+     "url": "https://t.co/5JUzj2UCa5"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 47,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "bookmarks": 1,
+  "impressions": 4208,
+  "score": 54,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122464871593775447",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-16T23:00:33.000Z",
+  "text": "@AgentChud https://t.co/84wBhYGMQT",
+  "text_flat": "@AgentChud https://t.co/84wBhYGMQT",
+  "url": "https://x.com/Fiskantes/status/2122464871593775447",
+  "lang": "qme",
+  "conversation_id": "2122434947310899698",
+  "referenced": [
+   {
+    "id": "2122434947310899698",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1731745103989940224",
+     "start": 0,
+     "username": "AgentChud"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "pic.x.com/84wBhYGMQT",
+     "end": 34,
+     "expanded_url": "https://x.com/Fiskantes/status/2122464871593775447/photo/1",
+     "media_key": "16_2122464862378860544",
+     "start": 11,
+     "url": "https://t.co/84wBhYGMQT"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 209,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 23820,
+  "score": 214,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465705081606208",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-16T23:03:52.000Z",
+  "text": "RT @armaniferrante: It all started in Chicago almost four years ago when we embarked on this journey to build @Backpack Exchange. \n\nAt the…",
+  "text_flat": "RT @armaniferrante: It all started in Chicago almost four years ago when we embarked on this journey to build @Backpack Exchange.   At the…",
+  "url": "https://x.com/Fiskantes/status/2122465705081606208",
+  "lang": "en",
+  "conversation_id": "2122465705081606208",
+  "referenced": [
+   {
+    "id": "2122457061711601969",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 18,
+     "id": "276810355",
+     "start": 3,
+     "username": "armaniferrante"
+    },
+    {
+     "end": 119,
+     "id": "1498029602261905408",
+     "start": 110,
+     "username": "Backpack"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 170,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 562,
+  "score": 510,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122465814162940176",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-16T23:04:18.000Z",
+  "text": "@beniduboss Where are we sir",
+  "text_flat": "@beniduboss Where are we sir",
+  "url": "https://x.com/Fiskantes/status/2122465814162940176",
+  "lang": "en",
+  "conversation_id": "2122442086192496869",
+  "referenced": [
+   {
+    "id": "2122442086192496869",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1357663203547877377",
+     "start": 0,
+     "username": "beniduboss"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 626,
+  "score": 4,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122467276259786804",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-16T23:10:06.000Z",
+  "text": "@LefterisJP https://t.co/eXq6AWUuux",
+  "text_flat": "@LefterisJP https://t.co/eXq6AWUuux",
+  "url": "https://x.com/Fiskantes/status/2122467276259786804",
+  "lang": "qme",
+  "conversation_id": "2122438509873291753",
+  "referenced": [
+   {
+    "id": "2122460274917519559",
+    "type": "quoted"
+   },
+   {
+    "id": "2122438509873291753",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "43949721",
+     "start": 0,
+     "username": "LefterisJP"
+    }
+   ],
+   "urls": [
+    {
+     "display_url": "x.com/Fiskantes/stat…",
+     "end": 35,
+     "expanded_url": "https://x.com/Fiskantes/status/2122460274917519559?a=AxkZAa3gWYfb_8e00gs&s=20",
+     "start": 12,
+     "url": "https://t.co/eXq6AWUuux"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 386,
+  "score": 2,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122470543144439922",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-16T23:23:05.000Z",
+  "text": "@armaniferrante Rip 7-11 diet",
+  "text_flat": "@armaniferrante Rip 7-11 diet",
+  "url": "https://x.com/Fiskantes/status/2122470543144439922",
+  "lang": "nl",
+  "conversation_id": "2122457061711601969",
+  "referenced": [
+   {
+    "id": "2122457310186401806",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 15,
+     "id": "276810355",
+     "start": 0,
+     "username": "armaniferrante"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 463,
+  "score": 6,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122476785052840095",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-16T23:47:53.000Z",
+  "text": "One of the formative experiences during my teenage years https://t.co/QXRCOCR9FQ",
+  "text_flat": "One of the formative experiences during my teenage years https://t.co/QXRCOCR9FQ",
+  "url": "https://x.com/Fiskantes/status/2122476785052840095",
+  "lang": "en",
+  "conversation_id": "2122476785052840095",
+  "referenced": [
+   {
+    "id": "2122446120911614147",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/0xPajke/status…",
+     "end": 80,
+     "expanded_url": "https://twitter.com/0xPajke/status/2122446120911614147",
+     "start": 57,
+     "url": "https://t.co/QXRCOCR9FQ"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 22,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 3408,
+  "score": 27,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122596817313378538",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-17T07:44:51.000Z",
+  "text": "May all our wars be cyberwars from now on https://t.co/RnKqR6Bncd",
+  "text_flat": "May all our wars be cyberwars from now on https://t.co/RnKqR6Bncd",
+  "url": "https://x.com/Fiskantes/status/2122596817313378538",
+  "lang": "en",
+  "conversation_id": "2122596817313378538",
+  "referenced": [
+   {
+    "id": "2122535982591365248",
+    "type": "quoted"
+   }
+  ],
+  "entities": {
+   "urls": [
+    {
+     "display_url": "x.com/HormuzLetter/s…",
+     "end": 65,
+     "expanded_url": "https://twitter.com/HormuzLetter/status/2122535982591365248",
+     "start": 42,
+     "url": "https://t.co/RnKqR6Bncd"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 8,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "bookmarks": 1,
+  "impressions": 2628,
+  "score": 15,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122615459262636310",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-17T08:58:56.000Z",
+  "text": "@dudusvicki Better than bombs hitting your roof",
+  "text_flat": "@dudusvicki Better than bombs hitting your roof",
+  "url": "https://x.com/Fiskantes/status/2122615459262636310",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122610439783579919",
+    "type": "replied_to"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 11,
+     "id": "1369748403131981827",
+     "start": 0,
+     "username": "dudusvicki"
+    }
+   ]
+  },
+  "low_substance": false,
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 47,
+  "score": 0,
+  "cashtags": [],
+  "hashtags": []
+ },
+ {
+  "id": "2122616476414931275",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-17T09:02:58.000Z",
+  "text": "RT @tradfi: *NVIDIA EMPLOYEES WEIGH CAMPUS DEMONSTRATION IN SUPPORT OF HUANG: WSJ\n\n*SENIOR NVIDIA DIRECTOR LEADS INTERNAL PUSH TO BRING BAC…",
+  "text_flat": "RT @tradfi: *NVIDIA EMPLOYEES WEIGH CAMPUS DEMONSTRATION IN SUPPORT OF HUANG: WSJ  *SENIOR NVIDIA DIRECTOR LEADS INTERNAL PUSH TO BRING BAC…",
+  "url": "https://x.com/Fiskantes/status/2122616476414931275",
+  "lang": null,
+  "conversation_id": null,
+  "referenced": [
+   {
+    "id": "2122519896806543684",
+    "type": "retweeted"
+   }
+  ],
+  "entities": {
+   "mentions": [
+    {
+     "end": 10,
+     "id": "1841217208091099141",
+     "start": 3,
+     "username": "tradfi"
+    }
+   ]
+  },
+  "low_substance": true,
+  "likes": 0,
+  "retweets": 49,
+  "replies": 0,
+  "quotes": 0,
+  "bookmarks": 0,
+  "impressions": 536,
+  "score": 147,
+  "cashtags": [],
+  "hashtags": []
+ }
+]
