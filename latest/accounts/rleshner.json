@@ -1,123 +1,82 @@
 [
  {
-  "id": "2122357241701597234",
+  "id": "2122713538070208965",
   "username": "rleshner",
   "username_canon": "rleshner",
   "type": "retweet",
-  "created_at": "2026-11-16T15:52:52.000Z",
-  "text": "RT @SuperstateInc: 1/ Real World Assets, tradable across Solana DeFi.\n\nThat’s Exposure: the official @solana RWA Launchpad, launching with…",
-  "text_flat": "RT @SuperstateInc: 1/ Real World Assets, tradable across Solana DeFi.  That’s Exposure: the official @solana RWA Launchpad, launching with…",
-  "url": "https://x.com/rleshner/status/2122357241701597234",
-  "lang": "en",
-  "conversation_id": "2122357241701597234",
-  "referenced": [
-   {
-    "id": "2122348883405844863",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "1665792422918406144",
-     "start": 3,
-     "username": "SuperstateInc"
-    },
-    {
-     "end": 108,
-     "id": "951329744804392960",
-     "start": 101,
-     "username": "solana"
-    }
-   ]
-  },
-  "low_substance": true,
+  "created_at": "2026-11-17T15:28:40.000Z",
+  "text": "RT @SuperstateInc: 1/ FundOS now powers its first publicly registered fund.\n\nToday, $2.5T asset manager @InvescoUS launched IROXX, the Inve…",
+  "url": "https://x.com/rleshner/status/2122713538070208965",
   "likes": 0,
-  "retweets": 14,
+  "retweets": 6,
   "replies": 0,
   "quotes": 0,
+  "impressions": 638,
   "bookmarks": 0,
-  "impressions": 632,
-  "score": 42,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122699784029106242",
+   "text": "1/ FundOS now powers its first publicly registered fund.\n\nToday, $2.5T asset manager @InvescoUS launched IROXX, the Invesco Stablecoin Reserves Onchain Fund, a registered money market fund for stablecoin reserves.\n\nhttps://t.co/5w1AHqgStE https://t.co/7vz9z4arXN"
+  }
  },
  {
-  "id": "2122393991429718296",
+  "id": "2122735831295098894",
   "username": "rleshner",
   "username_canon": "rleshner",
   "type": "retweet",
-  "created_at": "2026-11-16T18:18:54.000Z",
-  "text": "RT @formation_so: Formation is a launch partner on Exposure.\n\nWe’re building a path for new assets from issuance to scale, and Exposure bri…",
-  "text_flat": "RT @formation_so: Formation is a launch partner on Exposure.  We’re building a path for new assets from issuance to scale, and Exposure bri…",
-  "url": "https://x.com/rleshner/status/2122393991429718296",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122357417241374818",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2088045326590496768",
-     "start": 3,
-     "username": "formation_so"
-    }
-   ]
-  },
-  "low_substance": true,
+  "created_at": "2026-11-17T16:57:15.000Z",
+  "text": "RT @austincampbell: Have you ever looking inside the moldy, decaying plumbing of our current financial system?\n\nYou know, the one creaking…",
+  "url": "https://x.com/rleshner/status/2122735831295098894",
   "likes": 0,
-  "retweets": 9,
+  "retweets": 3,
   "replies": 0,
   "quotes": 0,
+  "impressions": 609,
   "bookmarks": 0,
-  "impressions": 653,
-  "score": 27,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122735706367811945",
+   "text": "Have you ever looking inside the moldy, decaying plumbing of our current financial system?\n\nYou know, the one creaking and groaning under the weight of decades of building and the ever-increasing rate of hacks and exploits?\n\nIt's bad down there.\n\nThis is the way out.\n\nHere we have: \n\n1. Complete and total lifetime record of ownership from inception onto the ledger\n2. Instant tracking for dividends"
+  }
  },
  {
-  "id": "2122494100079604114",
+  "id": "2122759106905698782",
   "username": "rleshner",
   "username_canon": "rleshner",
-  "type": "quote",
-  "created_at": "2026-11-17T00:56:42.000Z",
-  "text": "Here you can see the very first on-chain transactions of a publicly registered, GENIUS-compliant money market fund, on Ethereum. Powered by Superstate and Invesco.\n\nBIG things start small. https://t.co/AehhAjpdud",
-  "text_flat": "Here you can see the very first on-chain transactions of a publicly registered, GENIUS-compliant money market fund, on Ethereum. Powered by Superstate and Invesco.  BIG things start small. https://t.co/AehhAjpdud",
-  "url": "https://x.com/rleshner/status/2122494100079604114",
-  "lang": "en",
-  "conversation_id": "2122494100079604114",
-  "referenced": [
-   {
-    "id": "2122490108582719725",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "x.com/hiltnerjim/sta…",
-     "end": 212,
-     "expanded_url": "https://twitter.com/hiltnerjim/status/2122490108582719725",
-     "start": 189,
-     "url": "https://t.co/AehhAjpdud"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 201,
-  "retweets": 9,
-  "replies": 23,
+  "type": "retweet",
+  "created_at": "2026-11-17T18:29:44.000Z",
+  "text": "RT @malekanoms: My thanks to @rleshner for coming to class recently to share his wisdom on tokenization and the future of capital markets.…",
+  "url": "https://x.com/rleshner/status/2122759106905698782",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
   "quotes": 0,
-  "bookmarks": 36,
-  "impressions": 14215,
-  "score": 310,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 602,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122758625680871646",
+   "text": "My thanks to @rleshner for coming to class recently to share his wisdom on tokenization and the future of capital markets. https://t.co/FFWSykJbBM"
+  }
+ },
+ {
+  "id": "2122781559061139917",
+  "username": "rleshner",
+  "username_canon": "rleshner",
+  "type": "retweet",
+  "created_at": "2026-11-17T19:58:57.000Z",
+  "text": "RT @SuperstateInc: Now onchain: “a registered money market fund designed to back stablecoins.”\n\nMeet IROXX from @InvescoUS, powered by Fund…",
+  "url": "https://x.com/rleshner/status/2122781559061139917",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 540,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122780053377536270",
+   "text": "Now onchain: “a registered money market fund designed to back stablecoins.”\n\nMeet IROXX from @InvescoUS, powered by FundOS.\n\nFull story from @DefiantNews: https://t.co/TKO195PWzm"
+  }
  }
 ]

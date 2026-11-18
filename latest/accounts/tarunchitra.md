@@ -1,48 +1,47 @@
-# @tarunchitra — посты за 2026-11-17
+# @tarunchitra — посты за 2026-11-18
 
 Всего: 6
 
-## 2026-11-16 22:23 UTC · цитата
+## 2026-11-17 15:42 UTC · цитата
 
-Someone sent me this exhibit right as I read this tweet and it is always funny how the universe conspires in weird ways to make the funniest outcome the real outcome https://t.co/CQaLKnLa7I https://t.co/fGaX1KZynD
+Wow, the U-series from DESRES lives on; proof that basic numerical analysis is still valuable in an AI era? 😅
 
-❤ 49 · 🔁 1 · 💬 11 · цитат 0 · просмотров 10194  
-https://x.com/tarunchitra/status/2122455550394851676
+https://t.co/S8yfx8Umii https://t.co/Oi9v6BsCLL
 
-## 2026-11-16 22:25 UTC · репост
+❤ 18 · 🔁 0 · 💬 9 · цитат 0 · просмотров 1754  
+https://x.com/tarunchitra/status/2122717082395533507
 
-RT @nasqret: Thanks to @AnnaRRose and @tarunchitra for the invitation. It was
-great talking to you about mathematics, cryptography and the…
+## 2026-11-17 18:27 UTC · репост
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 386  
-https://x.com/tarunchitra/status/2122456065954451872
+RT @MTSlive: Lyber AI founder @ConejoCapital reveals that his four-person team uncovered vulnerabilities that could drain the entire treasu…
 
-## 2026-11-16 22:25 UTC · репост
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 358  
+https://x.com/tarunchitra/status/2122758602821865668
 
-RT @zeroknowledgefm: 🎙️Last week @AnnaRRose &amp; @tarunchitra spoke with mathematician @nasqret about https://t.co/5QLoQA4WYg, auto research a…
+## 2026-11-17 18:43 UTC · цитата
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 384  
-https://x.com/tarunchitra/status/2122456076516012150
+I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7TRYq
 
-## 2026-11-17 01:36 UTC · репост
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 468  
+https://x.com/tarunchitra/status/2122762499061874802
 
-RT @Beylin: https://t.co/toL2TJks7U
+## 2026-11-17 18:43 UTC · цитата
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 427  
-https://x.com/tarunchitra/status/2122504008933978143
+I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7Tk8S
 
-## 2026-11-17 07:16 UTC · репост
+❤ 18 · 🔁 1 · 💬 8 · цитат 0 · просмотров 2805  
+https://x.com/tarunchitra/status/2122762684168802444
 
-RT @MTSlive: .@dealignai argues Chinese AI labs are releasing open-weight models to get as much of the world's hardware as possible running…
+## 2026-11-18 00:33 UTC · репост
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 398  
-https://x.com/tarunchitra/status/2122589744542499200
+RT @Teknium: Gotta say, Jensen's been an awesome supporter of Nous Research, our efforts in open source, and Hermes Agent since we first me…
 
-## 2026-11-17 07:24 UTC · репост
+❤ 0 · 🔁 111 · 💬 0 · цитат 0 · просмотров 329  
+https://x.com/tarunchitra/status/2122850629597135272
 
-RT @rrwilliams: Got extra AI usage? Want to advance circuit complexity? 
-Send your swarm to read https://t.co/6pMkrIEsiJ
-tell em to improve…
+## 2026-11-18 07:10 UTC · цитата
 
-❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 399  
-https://x.com/tarunchitra/status/2122591649268392330
+OH: “@sunnya97, @zkDragon, and @Lsquaredleland walked so that @CalBlockchain could pivot from Cosmos to AI or ZCash as fast as humanly possible” https://t.co/iR9tupCaLh
+
+❤ 11 · 🔁 0 · 💬 8 · цитат 0 · просмотров 614  
+https://x.com/tarunchitra/status/2122950476580921444

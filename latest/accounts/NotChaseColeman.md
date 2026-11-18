@@ -1,38 +1,39 @@
-# @NotChaseColeman — посты за 2026-11-17
+# @NotChaseColeman — посты за 2026-11-18
 
-Всего: 5
+Всего: 4
 
-## 2026-11-16 20:41 UTC · цитата
+## 2026-11-17 13:54 UTC · репост
 
-If you’re worried about quantum fud on cryptocurrency, hackers have much bigger fish to fry than a $2T hypergambling industry. https://t.co/pg3LntSd5q
+RT @AlaskanTom: “We’re sorry to hear of her experience!” https://t.co/mMmOQOOiyj
 
-❤ 29 · 🔁 2 · 💬 5 · цитат 1 · просмотров 1872  
-https://x.com/NotChaseColeman/status/2122429810739961873
+❤ 0 · 🔁 818 · 💬 0 · цитат 0 · просмотров 706  
+https://x.com/NotChaseColeman/status/2122689738209386653
 
-## 2026-11-16 20:50 UTC · ответ
+## 2026-11-17 19:38 UTC · репост
 
-@Mnorinsberg Man if u ever get bullish im selling everything
+RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never m…
 
-❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 159  
-https://x.com/NotChaseColeman/status/2122432252042969483
+❤ 0 · 🔁 111619 · 💬 0 · цитат 0 · просмотров 574  
+https://x.com/NotChaseColeman/status/2122776428890431504
 
-## 2026-11-16 22:18 UTC · цитата
+## 2026-11-18 05:52 UTC · репост
 
-The dude used to host Punk’d https://t.co/zu5PB9OhHP
+RT @ThinkingUSD: Long Delaware Trusts
 
-❤ 7 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1850  
-https://x.com/NotChaseColeman/status/2122454238353875102
+Long Off Shore Bank accounts
 
-## 2026-11-17 02:52 UTC · репост
+Long Second Nationality Passport
 
-RT @spencerpratt: It looks like Saddam Hussein is running NYC.
+Long Asset Protection mechanisms
 
-❤ 0 · 🔁 7603 · 💬 0 · цитат 0 · просмотров 645  
-https://x.com/NotChaseColeman/status/2122523306498883738
+Lo…
 
-## 2026-11-17 06:43 UTC · цитата
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 406  
+https://x.com/NotChaseColeman/status/2122930951718425033
 
-https://t.co/Yb8phVhfrB https://t.co/J2zkXkKB9K
+## 2026-11-18 06:14 UTC · репост
 
-❤ 13 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1595  
-https://x.com/NotChaseColeman/status/2122581485467132003
+RT @investujem: i've met this dude https://t.co/FSoQKhxUf7
+
+❤ 0 · 🔁 82 · 💬 0 · цитат 0 · просмотров 435  
+https://x.com/NotChaseColeman/status/2122936351150801397

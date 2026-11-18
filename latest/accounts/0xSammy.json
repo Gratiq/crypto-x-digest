@@ -1,442 +1,23 @@
 [
  {
-  "id": "2122336798638485962",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "retweet",
-  "created_at": "2026-11-16T14:31:38.000Z",
-  "text": "RT @KhalaResearch: Crypto was built on the assumption that any participant could be hostile\n\nAI wasn't built that way\n\n\"Component-level sec…",
-  "text_flat": "RT @KhalaResearch: Crypto was built on the assumption that any participant could be hostile  AI wasn't built that way  \"Component-level sec…",
-  "url": "https://x.com/0xSammy/status/2122336798638485962",
-  "lang": "en",
-  "conversation_id": "2122336798638485962",
-  "referenced": [
-   {
-    "id": "2122336356919627791",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "2003447478860099584",
-     "start": 3,
-     "username": "KhalaResearch"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 5,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 3032,
-  "score": 15,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122337218438283748",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-16T14:33:18.000Z",
-  "text": "@KhalaResearch @WalrusProtocol @SuiNetwork @EvanWeb3 verification becomes a huge unlock to mitigate this",
-  "text_flat": "@KhalaResearch @WalrusProtocol @SuiNetwork @EvanWeb3 verification becomes a huge unlock to mitigate this",
-  "url": "https://x.com/0xSammy/status/2122337218438283748",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122336356919627791",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "2003447478860099584",
-     "start": 0,
-     "username": "KhalaResearch"
-    },
-    {
-     "end": 30,
-     "id": "1803816329553850368",
-     "start": 15,
-     "username": "WalrusProtocol"
-    },
-    {
-     "end": 42,
-     "id": "1428872926363754497",
-     "start": 31,
-     "username": "SuiNetwork"
-    },
-    {
-     "end": 52,
-     "id": "1973894065",
-     "start": 43,
-     "username": "EvanWeb3"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 295,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122339529676009647",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-16T14:42:29.000Z",
-  "text": "@KhalaResearch @WalrusProtocol @SuiNetwork @EvanWeb3 💯",
-  "text_flat": "@KhalaResearch @WalrusProtocol @SuiNetwork @EvanWeb3 💯",
-  "url": "https://x.com/0xSammy/status/2122339529676009647",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122338417564368921",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "2003447478860099584",
-     "start": 0,
-     "username": "KhalaResearch"
-    },
-    {
-     "end": 30,
-     "id": "1803816329553850368",
-     "start": 15,
-     "username": "WalrusProtocol"
-    },
-    {
-     "end": 42,
-     "id": "1428872926363754497",
-     "start": 31,
-     "username": "SuiNetwork"
-    },
-    {
-     "end": 52,
-     "id": "1973894065",
-     "start": 43,
-     "username": "EvanWeb3"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 215,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122357923196043423",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "retweet",
-  "created_at": "2026-11-16T15:55:35.000Z",
-  "text": "RT @CChiemelie92195: This is probably the clearest way to look at it\n\nThe biggest risk isn’t that AI growth will slow down, but that Nvidia…",
-  "text_flat": "RT @CChiemelie92195: This is probably the clearest way to look at it  The biggest risk isn’t that AI growth will slow down, but that Nvidia…",
-  "url": "https://x.com/0xSammy/status/2122357923196043423",
-  "lang": "en",
-  "conversation_id": "2122357923196043423",
-  "referenced": [
-   {
-    "id": "2122357826664198205",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "1678084934760529921",
-     "start": 3,
-     "username": "CChiemelie92195"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 3236,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122451115807592483",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-16T22:05:53.000Z",
-  "text": "@007 Not sure about this one",
-  "text_flat": "@007 Not sure about this one",
-  "url": "https://x.com/0xSammy/status/2122451115807592483",
-  "lang": "en",
-  "conversation_id": "2122343950308540474",
-  "referenced": [
-   {
-    "id": "2122343950308540474",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 4,
-     "id": "389229444",
-     "start": 0,
-     "username": "007"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 593,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122590017864503774",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-17T07:17:50.000Z",
-  "text": "@crypto_condom @AlphaPlayHQ Yeah why am I being tagged here, I’ve not said anything either on NVDA\n\nGo fuck yourself too Alpha Play 🙃",
-  "text_flat": "@crypto_condom @AlphaPlayHQ Yeah why am I being tagged here, I’ve not said anything either on NVDA  Go fuck yourself too Alpha Play 🙃",
-  "url": "https://x.com/0xSammy/status/2122590017864503774",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122458538115313841",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1424441728770220037",
-     "start": 0,
-     "username": "crypto_condom"
-    },
-    {
-     "end": 27,
-     "id": "2094460033522446336",
-     "start": 15,
-     "username": "AlphaPlayHQ"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 262,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122591051424665854",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "quote",
-  "created_at": "2026-11-17T07:21:57.000Z",
-  "text": "No wonder there’s brain drain from the U.K. tech sector\n\nCombine this with increased regulation for those touching crypto and it’s no longer viable to function as an entrepreneur here https://t.co/jiMZNyC059",
-  "text_flat": "No wonder there’s brain drain from the U.K. tech sector  Combine this with increased regulation for those touching crypto and it’s no longer viable to function as an entrepreneur here https://t.co/jiMZNyC059",
-  "url": "https://x.com/0xSammy/status/2122591051424665854",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122336844558065764",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 207,
-     "start": 184,
-     "url": "https://t.co/jiMZNyC059"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 52,
-  "retweets": 4,
-  "replies": 18,
-  "quotes": 0,
-  "bookmarks": 2,
-  "impressions": 5860,
-  "score": 102,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122591367952232592",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-17T07:23:12.000Z",
-  "text": "@peceka @crypto_condom @AlphaPlayHQ @inversebrah Turns out Alpha Play made up the Alpha\n\nWho’d a thought https://t.co/baw06ReNHK",
-  "text_flat": "@peceka @crypto_condom @AlphaPlayHQ @inversebrah Turns out Alpha Play made up the Alpha  Who’d a thought https://t.co/baw06ReNHK",
-  "url": "https://x.com/0xSammy/status/2122591367952232592",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122590812080857113",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "59792384",
-     "start": 0,
-     "username": "peceka"
-    },
-    {
-     "end": 22,
-     "id": "1424441728770220037",
-     "start": 8,
-     "username": "crypto_condom"
-    },
-    {
-     "end": 35,
-     "id": "2094460033522446336",
-     "start": 23,
-     "username": "AlphaPlayHQ"
-    },
-    {
-     "end": 48,
-     "id": "1051852534518824960",
-     "start": 36,
-     "username": "inversebrah"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 182,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122591525800476940",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-17T07:23:50.000Z",
-  "text": "@waleswoosh Get well soon ser",
-  "text_flat": "@waleswoosh Get well soon ser",
-  "url": "https://x.com/0xSammy/status/2122591525800476940",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122542871920414888",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1501997405755088900",
-     "start": 0,
-     "username": "waleswoosh"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 346,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122599859945652234",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "reply",
   "created_at": "2026-11-17T07:56:57.000Z",
   "text": "@AgentChud What’s the tea? Is it bunker up time?",
-  "text_flat": "@AgentChud What’s the tea? Is it bunker up time?",
   "url": "https://x.com/0xSammy/status/2122599859945652234",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122434947310899698",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1731745103989940224",
-     "start": 0,
-     "username": "AgentChud"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 2,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 410,
   "bookmarks": 0,
-  "impressions": 323,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122434947310899698",
+   "text": "Stay out of big cities tonight no time to explain"
+  }
  },
  {
   "id": "2122600247545172273",
@@ -445,42 +26,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:58:29.000Z",
   "text": "@kryptomokus I mean it got attention, so depends whether it was an intentional appointment \n\nGgwp @vibhu if so!",
-  "text_flat": "@kryptomokus I mean it got attention, so depends whether it was an intentional appointment   Ggwp @vibhu if so!",
   "url": "https://x.com/0xSammy/status/2122600247545172273",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122595938548228499",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1490101589591347202",
-     "start": 0,
-     "username": "kryptomokus"
-    },
-    {
-     "end": 104,
-     "id": "14393567",
-     "start": 98,
-     "username": "vibhu"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 2,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 240,
   "bookmarks": 0,
-  "impressions": 201,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122595938548228499",
+   "text": "@0xSammy the worst part: solana thought its a good idea to let him speak at bp..."
+  }
  },
  {
   "id": "2122603824158491135",
@@ -489,36 +46,18 @@
   "type": "reply",
   "created_at": "2026-11-17T08:12:42.000Z",
   "text": "@dudusvicki Bingo",
-  "text_flat": "@dudusvicki Bingo",
   "url": "https://x.com/0xSammy/status/2122603824158491135",
-  "lang": "es",
-  "conversation_id": "2122591051424665854",
-  "referenced": [
-   {
-    "id": "2122602694833480166",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1369748403131981827",
-     "start": 0,
-     "username": "dudusvicki"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 220,
   "bookmarks": 0,
-  "impressions": 179,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122602694833480166",
+   "text": "@0xSammy Talent always moves to where building is easier and the UK keeps making it harder"
+  }
  },
  {
   "id": "2122645168872710450",
@@ -527,36 +66,19 @@
   "type": "retweet",
   "created_at": "2026-11-17T10:56:59.000Z",
   "text": "RT @0xSammy: No wonder there’s brain drain from the U.K. tech sector\n\nCombine this with increased regulation for those touching crypto and…",
-  "text_flat": "RT @0xSammy: No wonder there’s brain drain from the U.K. tech sector  Combine this with increased regulation for those touching crypto and…",
   "url": "https://x.com/0xSammy/status/2122645168872710450",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122591051424665854",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "223921570",
-     "start": 3,
-     "username": "0xSammy"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
-  "retweets": 4,
+  "retweets": 5,
   "replies": 0,
   "quotes": 0,
-  "bookmarks": 0,
   "impressions": 0,
-  "score": 12,
-  "cashtags": [],
-  "hashtags": []
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122591051424665854",
+   "author": "0xSammy",
+   "text": "No wonder there’s brain drain from the U.K. tech sector\n\nCombine this with increased regulation for those touching crypto and it’s no longer viable to function as an entrepreneur here https://t.co/jiMZNyC059"
+  }
  },
  {
   "id": "2122645371885175284",
@@ -565,36 +87,18 @@
   "type": "reply",
   "created_at": "2026-11-17T10:57:48.000Z",
   "text": "@R2D2zen Since never, so why bring him to a crypto conference? \n\nAlso it’s consistent with general ignorance + adverse tech culture in the U.K. \n\nWish it was more progressive, it isn’t unfortunately",
-  "text_flat": "@R2D2zen Since never, so why bring him to a crypto conference?   Also it’s consistent with general ignorance + adverse tech culture in the U.K.   Wish it was more progressive, it isn’t unfortunately",
   "url": "https://x.com/0xSammy/status/2122645371885175284",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122593835507499366",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1587849097557458948",
-     "start": 0,
-     "username": "R2D2zen"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 188,
   "bookmarks": 0,
-  "impressions": 130,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122593835507499366",
+   "text": "@0xSammy Since when is Boris an indicator for anything tech related ?"
+  }
  },
  {
   "id": "2122645630774595763",
@@ -603,42 +107,18 @@
   "type": "reply",
   "created_at": "2026-11-17T10:58:49.000Z",
   "text": "@Carlitoswa_y @AlexIsBuilding Umbro is so last year\n\nAll about the Dia Dora",
-  "text_flat": "@Carlitoswa_y @AlexIsBuilding Umbro is so last year  All about the Dia Dora",
   "url": "https://x.com/0xSammy/status/2122645630774595763",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122637021621649410",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1471926684874162189",
-     "start": 0,
-     "username": "Carlitoswa_y"
-    },
-    {
-     "end": 29,
-     "id": "1479782723325595649",
-     "start": 14,
-     "username": "AlexIsBuilding"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
+  "likes": 3,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 385,
   "bookmarks": 0,
-  "impressions": 232,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122637021621649410",
+   "text": "you bump into this guy in london \n\nscared? 🥷🏻 https://t.co/muUV0VKXdX"
+  }
  },
  {
   "id": "2122645808063332404",
@@ -647,36 +127,18 @@
   "type": "reply",
   "created_at": "2026-11-17T10:59:32.000Z",
   "text": "@Ryanbabel The legendary Cruijff turn!",
-  "text_flat": "@Ryanbabel The legendary Cruijff turn!",
   "url": "https://x.com/0xSammy/status/2122645808063332404",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122297442964013057",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "92020072",
-     "start": 0,
-     "username": "Ryanbabel"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
+  "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 206,
   "bookmarks": 0,
-  "impressions": 134,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122297442964013057",
+   "text": "Legends like Johan Cruijff didn't just shape the game. They brought people together, across generations, through a shared love for football.\n\nAnd perhaps that is the greatest legacy anyone can leave behind\n\n14. https://t.co/IPbTprq3o4"
+  }
  },
  {
   "id": "2122646017946648621",
@@ -685,36 +147,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:00:22.000Z",
   "text": "@SolanaFndn Huge",
-  "text_flat": "@SolanaFndn Huge",
   "url": "https://x.com/0xSammy/status/2122646017946648621",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122618815708045633",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1407411848446611459",
-     "start": 0,
-     "username": "SolanaFndn"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 285,
   "bookmarks": 0,
-  "impressions": 167,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122618815708045633",
+   "text": "For more than a decade, CoinGecko has been the #1 crypto market data provider, serving tens of millions of users each year, while also powering 180,000 crypto applications and businesses through their APIs.\n\nWe’re excited to announce that Solana Foundation is backing CoinGecko in https://t.co/mJVVQ8w5B2"
+  }
  },
  {
   "id": "2122646326387134966",
@@ -723,36 +167,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:01:35.000Z",
   "text": "@vydamo_ Jesus",
-  "text_flat": "@vydamo_ Jesus",
   "url": "https://x.com/0xSammy/status/2122646326387134966",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122574216902156518",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1449941836034822144",
-     "start": 0,
-     "username": "vydamo_"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 391,
   "bookmarks": 0,
-  "impressions": 220,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122574216902156518",
+   "text": "It's crazy how many of these guys will end up in jail for 100 likes on twitter https://t.co/bnmCDiShDg"
+  }
  },
  {
   "id": "2122647008620036561",
@@ -761,42 +187,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:04:18.000Z",
   "text": "@Carlitoswa_y @AlexIsBuilding Some ninja shift",
-  "text_flat": "@Carlitoswa_y @AlexIsBuilding Some ninja shift",
   "url": "https://x.com/0xSammy/status/2122647008620036561",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122646088834257346",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1471926684874162189",
-     "start": 0,
-     "username": "Carlitoswa_y"
-    },
-    {
-     "end": 29,
-     "id": "1479782723325595649",
-     "start": 14,
-     "username": "AlexIsBuilding"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 155,
   "bookmarks": 0,
-  "impressions": 102,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122646088834257346",
+   "text": "@0xSammy @AlexIsBuilding 😂😂 https://t.co/24zxC445Pv"
+  }
  },
  {
   "id": "2122647130712293640",
@@ -805,36 +207,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:04:47.000Z",
   "text": "@MacroBombastic Savage to watch the complete lack of understanding",
-  "text_flat": "@MacroBombastic Savage to watch the complete lack of understanding",
   "url": "https://x.com/0xSammy/status/2122647130712293640",
-  "lang": "en",
-  "conversation_id": "2122591051424665854",
-  "referenced": [
-   {
-    "id": "2122621371012522335",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1911683712544018432",
-     "start": 0,
-     "username": "MacroBombastic"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 159,
   "bookmarks": 0,
-  "impressions": 102,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122621371012522335",
+   "text": "@0xSammy that name butchering is doing the uk no favors tbh"
+  }
  },
  {
   "id": "2122647556530589903",
@@ -843,36 +227,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:06:29.000Z",
   "text": "@AgentChud Chud got motion 😂",
-  "text_flat": "@AgentChud Chud got motion 😂",
   "url": "https://x.com/0xSammy/status/2122647556530589903",
-  "lang": "en",
-  "conversation_id": "2122463598769299749",
-  "referenced": [
-   {
-    "id": "2122463598769299749",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1731745103989940224",
-     "start": 0,
-     "username": "AgentChud"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 284,
   "bookmarks": 0,
-  "impressions": 172,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122463598769299749",
+   "text": "ok smart people are dming me ab this...\n\nit's a schizopost relax. https://t.co/W98VarzvUv"
+  }
  },
  {
   "id": "2122648757993083033",
@@ -881,36 +247,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:11:15.000Z",
   "text": "@Carlitoswa_y It’s wild man\n\nCan only imagine the audiences reaction\n\nBoris can be such a clown, giving him any platform to speak anymore is a mistake",
-  "text_flat": "@Carlitoswa_y It’s wild man  Can only imagine the audiences reaction  Boris can be such a clown, giving him any platform to speak anymore is a mistake",
   "url": "https://x.com/0xSammy/status/2122648757993083033",
-  "lang": "en",
-  "conversation_id": "2122591051424665854",
-  "referenced": [
-   {
-    "id": "2122648264126165272",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1471926684874162189",
-     "start": 0,
-     "username": "Carlitoswa_y"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 200,
   "bookmarks": 0,
-  "impressions": 141,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122648264126165272",
+   "text": "@0xSammy Insane to say this in front of a room of Degens"
+  }
  },
  {
   "id": "2122648929003040949",
@@ -919,36 +267,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:11:56.000Z",
   "text": "@kryptomokus Outperforming Aschenbrenner is wild",
-  "text_flat": "@kryptomokus Outperforming Aschenbrenner is wild",
   "url": "https://x.com/0xSammy/status/2122648929003040949",
-  "lang": "en",
-  "conversation_id": "2122612382820184304",
-  "referenced": [
-   {
-    "id": "2122612382820184304",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1490101589591347202",
-     "start": 0,
-     "username": "kryptomokus"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 311,
   "bookmarks": 0,
-  "impressions": 183,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122612382820184304",
+   "text": "Am I the only one who is wondering how Ashton Kutchers venture firm can put 435M in one single investment? https://t.co/bFdGWaDYf2"
+  }
  },
  {
   "id": "2122649053238304946",
@@ -957,36 +287,19 @@
   "type": "reply",
   "created_at": "2026-11-17T11:12:25.000Z",
   "text": "@CryptoKaleo Surely he’s lost investors more money than anyone in history by this point",
-  "text_flat": "@CryptoKaleo Surely he’s lost investors more money than anyone in history by this point",
   "url": "https://x.com/0xSammy/status/2122649053238304946",
-  "lang": "en",
-  "conversation_id": "2122455932638789781",
-  "referenced": [
-   {
-    "id": "2122455932638789781",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "906234475604037637",
-     "start": 0,
-     "username": "CryptoKaleo"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 448,
   "bookmarks": 0,
-  "impressions": 331,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122455932638789781",
+   "author": "CryptoKaleo",
+   "text": "LIQUIDATED AGAIN.\n\nNow resume up only. https://t.co/06VtZnWVvh https://t.co/NDisugKzha"
+  }
  },
  {
   "id": "2122649177272324208",
@@ -995,36 +308,18 @@
   "type": "reply",
   "created_at": "2026-11-17T11:12:55.000Z",
   "text": "@TrungTPhan The lads on a role\n\nSelling NVIDIA Bonds",
-  "text_flat": "@TrungTPhan The lads on a role  Selling NVIDIA Bonds",
   "url": "https://x.com/0xSammy/status/2122649177272324208",
-  "lang": "en",
-  "conversation_id": "2122392039363080444",
-  "referenced": [
-   {
-    "id": "2122392039363080444",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "945817135816654848",
-     "start": 0,
-     "username": "TrungTPhan"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 2065,
   "bookmarks": 0,
-  "impressions": 713,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122392039363080444",
+   "text": "BREAKING: Robert Pattison has been selected by Nvidia’s board as the new CEO, effective immediately. https://t.co/jOXeySbQ65"
+  }
  },
  {
   "id": "2122651604772151752",
@@ -1033,35 +328,237 @@
   "type": "reply",
   "created_at": "2026-11-17T11:22:34.000Z",
   "text": "@Carlitoswa_y Yeah fair point\n\nComical to just go and watch",
-  "text_flat": "@Carlitoswa_y Yeah fair point  Comical to just go and watch",
   "url": "https://x.com/0xSammy/status/2122651604772151752",
-  "lang": "en",
-  "conversation_id": "2122591051424665854",
-  "referenced": [
-   {
-    "id": "2122650353963557353",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1471926684874162189",
-     "start": 0,
-     "username": "Carlitoswa_y"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 189,
   "bookmarks": 0,
-  "impressions": 134,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122650353963557353",
+   "text": "@0xSammy Was for the clout I guess \n\nSome came just because of him but yeah your statement is on point"
+  }
+ },
+ {
+  "id": "2122692511919407480",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T14:05:07.000Z",
+  "text": "@Carlitoswa_y @bot whats the prompt?",
+  "url": "https://x.com/0xSammy/status/2122692511919407480",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 229,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122665833218408489",
+   "text": "my @bot now is able to detect who botted their following and who outsourced growth to third parties and took a shortcut. \n\nit’s instructed to send me one hundred accounts every day served with my espresso to unfollow mute and block. \n\nchances are you might have been unfollowed by mistake, i do manually check all, but likely you’re just an npc not worth following. \n\nsoon to have the most curated fo"
+  }
+ },
+ {
+  "id": "2122747459940257846",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T17:43:27.000Z",
+  "text": "@SamSpratt What’s occurring?",
+  "url": "https://x.com/0xSammy/status/2122747459940257846",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 197,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122501070287220925",
+   "text": "Tomorrow."
+  }
+ },
+ {
+  "id": "2122747510816911654",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T17:43:39.000Z",
+  "text": "@0xALTF4 Rough indeed",
+  "url": "https://x.com/0xSammy/status/2122747510816911654",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 126,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122737563433922850",
+   "text": "@0xSammy uk tech brain drain plus heavier crypto rules is a rough combo for builders"
+  }
+ },
+ {
+  "id": "2122747601313223008",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-17T17:44:01.000Z",
+  "text": "RT @KhalaResearch: Khala Show w/ UR (SN25) &amp; Yanez (SN54) https://t.co/Rm5stgCw71",
+  "url": "https://x.com/0xSammy/status/2122747601313223008",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2625,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122696731129250161",
+   "text": "Khala Show w/ UR (SN25) &amp; Yanez (SN54) https://t.co/Rm5stgCw71"
+  }
+ },
+ {
+  "id": "2122747779344965972",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T17:44:43.000Z",
+  "text": "@KhalaResearch Banger chaps",
+  "url": "https://x.com/0xSammy/status/2122747779344965972",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 177,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122696731129250161",
+   "text": "Khala Show w/ UR (SN25) &amp; Yanez (SN54) https://t.co/Rm5stgCw71"
+  }
+ },
+ {
+  "id": "2122747896168698274",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T17:45:11.000Z",
+  "text": "@JensenHuang @anthonyyim Come back Jensen\n\nNVDA wants you",
+  "url": "https://x.com/0xSammy/status/2122747896168698274",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 249,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122726005219737649",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it "
+  }
+ },
+ {
+  "id": "2122747906860208160",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-17T17:45:14.000Z",
+  "text": "RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never m…",
+  "url": "https://x.com/0xSammy/status/2122747906860208160",
+  "likes": 0,
+  "retweets": 111603,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2601,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122726005219737649",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it "
+  }
+ },
+ {
+  "id": "2122831294128361932",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T23:16:35.000Z",
+  "text": "@VIILines You’d be surprised who played (and still plays) afk in the background while building some of the most valuable businesses in the world \n\nLiterally the training ground for the new digital future \n\nGgwp gower bros",
+  "url": "https://x.com/0xSammy/status/2122831294128361932",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 860,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122670222738162056",
+   "text": "The University of RuneScape produced another billionaire\n\nStake's founders met on RuneScape - now the guy who built SoulSplit at 14 is the youngest Dutch billionaire\n\nWhen are we admitting that RuneScape had the most goated entrepreneurial education of all time? https://t.co/WziZyohvKl"
+  }
+ },
+ {
+  "id": "2122833137117823129",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-17T23:23:54.000Z",
+  "text": "@WilliamShatner @leap_xyz Woah\n\nbeam me up Scottie https://t.co/4mrqaNp8f2",
+  "url": "https://x.com/0xSammy/status/2122833137117823129",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 445,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122512937051119968",
+   "text": "Hi @leap_xyz, thank for  the donation but the CFO of my charity has refunded it. Your Donation company received those funds under false pretenses which is fraud. I am also requesting that you remove my charity’s page from your website and do not allow anyone to put up a page for it. I don’t care if it’s permissionless. You are helping to participate in fraud and I will not stand for that. Please r"
+  }
+ },
+ {
+  "id": "2122855053744631973",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-18T00:51:00.000Z",
+  "text": "@evrendag1284 I don’t see how that’s viable for smaller businesses\n\nThe compliance costs are gonna be insane",
+  "url": "https://x.com/0xSammy/status/2122855053744631973",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 130,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122852397634793957",
+   "text": "@0xSammy The UK’s crypto rules now require firms to register with the FCA, so even small projects need legal teams, which cuts margins fast"
+  }
+ },
+ {
+  "id": "2122872492851437770",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-18T02:00:18.000Z",
+  "text": "@elonmusk @bot How long until this is viable for the average user/ safe to integrate into broader corporate workflows?",
+  "url": "https://x.com/0xSammy/status/2122872492851437770",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 529,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122872199623414175",
+   "text": "Grok @Bot can save you millions in corporate expenses!\n\nIt will research every expenditure, evaluate its necessity and find better deals on the Internet or by calling suppliers on the phone directly. https://t.co/PvDxsFgLLe"
+  }
  }
 ]

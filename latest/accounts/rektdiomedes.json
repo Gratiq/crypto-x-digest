@@ -1,3222 +1,23 @@
 [
  {
-  "id": "2122391844365479973",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "original",
-  "created_at": "2026-11-16T18:10:22.000Z",
-  "text": "Crypto is dead. \n\nLong live crypto.\n\n...\n\nMy feeling is that we are basically approaching a macro end point right now...\n\nBasically the exact opposite of where we were at in March 2020. \n\nMarch 2020 was the blow-off top in money printing and ZIRP and dovishness and etc. \n\nNow we https://t.co/OV9Qdhsy6D",
-  "text_flat": "Crypto is dead.   Long live crypto.  ...  My feeling is that we are basically approaching a macro end point right now...  Basically the exact opposite of where we were at in March 2020.   March 2020 was the blow-off top in money printing and ZIRP and dovishness and etc.   Now we https://t.co/OV9Qdhsy6D",
-  "url": "https://x.com/rektdiomedes/status/2122391844365479973",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 226,
-  "retweets": 16,
-  "replies": 44,
-  "quotes": 1,
-  "bookmarks": 27,
-  "impressions": 9066,
-  "score": 392,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122399965570015391",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:42:38.000Z",
-  "text": "@ondrej0x Well said man :)",
-  "text_flat": "@ondrej0x Well said man :)",
-  "url": "https://x.com/rektdiomedes/status/2122399965570015391",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122394056395542741",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1454800864506486786",
-     "start": 0,
-     "username": "ondrej0x"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 193,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400124114710944",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:43:16.000Z",
-  "text": "@Oleg0x9 🤝 https://t.co/7nJzCSIstK",
-  "text_flat": "@Oleg0x9 🤝 https://t.co/7nJzCSIstK",
-  "url": "https://x.com/rektdiomedes/status/2122400124114710944",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122393804477001841",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "795936566858383363",
-     "start": 0,
-     "username": "Oleg0x9"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 125,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400299457429901",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:43:58.000Z",
-  "text": "@QuotableCrypto One of my all-time favorite images :)",
-  "text_flat": "@QuotableCrypto One of my all-time favorite images :)",
-  "url": "https://x.com/rektdiomedes/status/2122400299457429901",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122380362818920930",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1577014164748484608",
-     "start": 0,
-     "username": "QuotableCrypto"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 83,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400443573674332",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:44:32.000Z",
-  "text": "@peace_node :)",
-  "text_flat": "@peace_node :)",
-  "url": "https://x.com/rektdiomedes/status/2122400443573674332",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122354958825873690",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1322247549273563138",
-     "start": 0,
-     "username": "peace_node"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 44,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400608183627882",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:45:11.000Z",
-  "text": "@Bullettooth23 Fr man :)",
-  "text_flat": "@Bullettooth23 Fr man :)",
-  "url": "https://x.com/rektdiomedes/status/2122400608183627882",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122336574813938015",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1196893819",
-     "start": 0,
-     "username": "Bullettooth23"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 42,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400679415431368",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T18:45:28.000Z",
-  "text": "RT @richardnhsu: Wild times. Great time to dca into the market imo.",
-  "text_flat": "RT @richardnhsu: Wild times. Great time to dca into the market imo.",
-  "url": "https://x.com/rektdiomedes/status/2122400679415431368",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122309825069727967",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "2821533047",
-     "start": 3,
-     "username": "richardnhsu"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 966,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400717608755364",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:45:38.000Z",
-  "text": "@richardnhsu 🤝",
-  "text_flat": "@richardnhsu 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122400717608755364",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122309825069727967",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "2821533047",
-     "start": 0,
-     "username": "richardnhsu"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 36,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400854192034238",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T18:46:10.000Z",
-  "text": "RT @retardsgonnawin: @rektdiomedes @nik_algo we have built a turnkey society that takes care of your basic needs and rolls you around on wh…",
-  "text_flat": "RT @retardsgonnawin: @rektdiomedes @nik_algo we have built a turnkey society that takes care of your basic needs and rolls you around on wh…",
-  "url": "https://x.com/rektdiomedes/status/2122400854192034238",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122289680280588563",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "1769937120414576640",
-     "start": 3,
-     "username": "retardsgonnawin"
-    },
-    {
-     "end": 34,
-     "id": "1470955425084235780",
-     "start": 21,
-     "username": "rektdiomedes"
-    },
-    {
-     "end": 44,
-     "id": "2716765572",
-     "start": 35,
-     "username": "nik_algo"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1021,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122400895816380423",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:46:20.000Z",
-  "text": "@retardsgonnawin @nik_algo Very well said man 🤝",
-  "text_flat": "@retardsgonnawin @nik_algo Very well said man 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122400895816380423",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122289680280588563",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1769937120414576640",
-     "start": 0,
-     "username": "retardsgonnawin"
-    },
-    {
-     "end": 26,
-     "id": "2716765572",
-     "start": 17,
-     "username": "nik_algo"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 63,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122402142262644924",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:51:17.000Z",
-  "text": "@Ceazor7 @Eli5defi Yeah you're probably right... I find the idea of them so horrifying I haven't fully thought through the implications though lol...",
-  "text_flat": "@Ceazor7 @Eli5defi Yeah you're probably right... I find the idea of them so horrifying I haven't fully thought through the implications though lol...",
-  "url": "https://x.com/rektdiomedes/status/2122402142262644924",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122126274600808565",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1290239278413262848",
-     "start": 0,
-     "username": "Ceazor7"
-    },
-    {
-     "end": 18,
-     "id": "1481568237624393730",
-     "start": 9,
-     "username": "Eli5defi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 77,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122402260294726012",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:51:45.000Z",
-  "text": "@DylanGrabowski @AnonNgmi Ahh nice... that is fascinating... very wholesome man 🤝",
-  "text_flat": "@DylanGrabowski @AnonNgmi Ahh nice... that is fascinating... very wholesome man 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122402260294726012",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122121785080692824",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "997502650357727232",
-     "start": 0,
-     "username": "DylanGrabowski"
-    },
-    {
-     "end": 25,
-     "id": "1367788919551590400",
-     "start": 16,
-     "username": "AnonNgmi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 44,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122402580433408152",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:53:02.000Z",
-  "text": "@cakecharts_ @AnonNgmi 100% man :)\n\nEspecially if it was next to lakes or river too and you could combine it with night-swimming... so insanely wholesome man...",
-  "text_flat": "@cakecharts_ @AnonNgmi 100% man :)  Especially if it was next to lakes or river too and you could combine it with night-swimming... so insanely wholesome man...",
-  "url": "https://x.com/rektdiomedes/status/2122402580433408152",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122104631534743713",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1389572306608041988",
-     "start": 0,
-     "username": "cakecharts_"
-    },
-    {
-     "end": 22,
-     "id": "1367788919551590400",
-     "start": 13,
-     "username": "AnonNgmi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 50,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122402699429949854",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T18:53:30.000Z",
-  "text": "@tombxbt https://t.co/yap8QNVvnz",
-  "text_flat": "@tombxbt https://t.co/yap8QNVvnz",
-  "url": "https://x.com/rektdiomedes/status/2122402699429949854",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122102100947763361",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1428320937749876742",
-     "start": 0,
-     "username": "tombxbt"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 67,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122459348366409963",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T22:38:36.000Z",
-  "text": "RT @thedailydegenhq: Is health insurance about to catalyze the next big financial crisis in America?\n\nThe average cost of health insurance…",
-  "text_flat": "RT @thedailydegenhq: Is health insurance about to catalyze the next big financial crisis in America?  The average cost of health insurance…",
-  "url": "https://x.com/rektdiomedes/status/2122459348366409963",
-  "lang": "en",
-  "conversation_id": "2122459348366409963",
-  "referenced": [
-   {
-    "id": "2122454590150853079",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "1527901666003013632",
-     "start": 3,
-     "username": "thedailydegenhq"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 3,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 750,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122459441048031587",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:38:58.000Z",
-  "text": "@thedailydegenhq Prediction: This will be the biggest topic of discussion in the US at some point in the next two years.",
-  "text_flat": "@thedailydegenhq Prediction: This will be the biggest topic of discussion in the US at some point in the next two years.",
-  "url": "https://x.com/rektdiomedes/status/2122459441048031587",
-  "lang": "en",
-  "conversation_id": "2122454590150853079",
-  "referenced": [
-   {
-    "id": "2122454590150853079",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1527901666003013632",
-     "start": 0,
-     "username": "thedailydegenhq"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 7,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 191,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122462473622298941",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:51:01.000Z",
-  "text": "@GuigsLuke I actually think financial markets will be higher 2 years from now... but lots of other things may definitely be worse...",
-  "text_flat": "@GuigsLuke I actually think financial markets will be higher 2 years from now... but lots of other things may definitely be worse...",
-  "url": "https://x.com/rektdiomedes/status/2122462473622298941",
-  "lang": "en",
-  "conversation_id": "2122391844365479973",
-  "referenced": [
-   {
-    "id": "2122458235638591937",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1454233872712048655",
-     "start": 0,
-     "username": "GuigsLuke"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 69,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122462555608084590",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:51:21.000Z",
-  "text": "@crypto_linn :)",
-  "text_flat": "@crypto_linn :)",
-  "url": "https://x.com/rektdiomedes/status/2122462555608084590",
-  "lang": "qam",
-  "conversation_id": "2122391844365479973",
-  "referenced": [
-   {
-    "id": "2122449974093037700",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1139174563802226688",
-     "start": 0,
-     "username": "crypto_linn"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 170,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122463214696866262",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:53:58.000Z",
-  "text": "@Ceazor7 :) https://t.co/U14UFvCFAI",
-  "text_flat": "@Ceazor7 :) https://t.co/U14UFvCFAI",
-  "url": "https://x.com/rektdiomedes/status/2122463214696866262",
-  "lang": "und",
-  "conversation_id": "2122391844365479973",
-  "referenced": [
-   {
-    "id": "2122442683860029833",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1290239278413262848",
-     "start": 0,
-     "username": "Ceazor7"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/U14UFvCFAI",
-     "end": 35,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122463214696866262/photo/1",
-     "media_key": "3_2122463180085514240",
-     "start": 12,
-     "url": "https://t.co/U14UFvCFAI"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 88,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122463284590960945",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T22:54:15.000Z",
-  "text": "RT @Genia_XBT: The more obituaries I read, but more bullish I become.",
-  "text_flat": "RT @Genia_XBT: The more obituaries I read, but more bullish I become.",
-  "url": "https://x.com/rektdiomedes/status/2122463284590960945",
-  "lang": "en",
-  "conversation_id": "2122463284590960945",
-  "referenced": [
-   {
-    "id": "2122437064641970554",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "70281681",
-     "start": 3,
-     "username": "Genia_XBT"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 2,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 974,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122463327830081827",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:54:25.000Z",
-  "text": "@Genia_XBT 🤝",
-  "text_flat": "@Genia_XBT 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122463327830081827",
-  "lang": "qme",
-  "conversation_id": "2122437064641970554",
-  "referenced": [
-   {
-    "id": "2122437064641970554",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "70281681",
-     "start": 0,
-     "username": "Genia_XBT"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 35,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122464307669762259",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:58:19.000Z",
-  "text": "@CryptoISFreedom Yeah gud points man... that is an interesting thesis in your third to last paragraph too... hadn't heard that before...",
-  "text_flat": "@CryptoISFreedom Yeah gud points man... that is an interesting thesis in your third to last paragraph too... hadn't heard that before...",
-  "url": "https://x.com/rektdiomedes/status/2122464307669762259",
-  "lang": "en",
-  "conversation_id": "2122391844365479973",
-  "referenced": [
-   {
-    "id": "2122401499628404895",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2904334601",
-     "start": 0,
-     "username": "CryptoISFreedom"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 98,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122464496145007051",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T22:59:04.000Z",
-  "text": "RT @Stoiiic: birthday today.\n\nreflecting on the last year, it’s been another year of tremendous learning.\n\ngrateful for all the obstacles,…",
-  "text_flat": "RT @Stoiiic: birthday today.  reflecting on the last year, it’s been another year of tremendous learning.  grateful for all the obstacles,…",
-  "url": "https://x.com/rektdiomedes/status/2122464496145007051",
-  "lang": "en",
-  "conversation_id": "2122464496145007051",
-  "referenced": [
-   {
-    "id": "2122245512489480357",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1507999314148302858",
-     "start": 3,
-     "username": "Stoiiic"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 2,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 838,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122464582501581082",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T22:59:24.000Z",
-  "text": "@Stoiiic Happy Birthday brother 💪 https://t.co/48byvCNjVh",
-  "text_flat": "@Stoiiic Happy Birthday brother 💪 https://t.co/48byvCNjVh",
-  "url": "https://x.com/rektdiomedes/status/2122464582501581082",
-  "lang": "en",
-  "conversation_id": "2122245512489480357",
-  "referenced": [
-   {
-    "id": "2122245512489480357",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1507999314148302858",
-     "start": 0,
-     "username": "Stoiiic"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/48byvCNjVh",
-     "end": 57,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122464582501581082/photo/1",
-     "media_key": "3_2122464569935245313",
-     "start": 34,
-     "url": "https://t.co/48byvCNjVh"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 100,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122464791767785826",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:00:14.000Z",
-  "text": "@Only1temmy Wholesome man 🤝",
-  "text_flat": "@Only1temmy Wholesome man 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122464791767785826",
-  "lang": "en",
-  "conversation_id": "2122389103199109555",
-  "referenced": [
-   {
-    "id": "2122389103199109555",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1485444955325833219",
-     "start": 0,
-     "username": "Only1temmy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 110,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122466931165077807",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:08:44.000Z",
-  "text": "@SCHIZO_FREQ There's also the issue that we as a society may no longer possess the intelligence and conscientiousness and asabiya needed to rebuild that which we have inherited :/\n\nBasically the Idiocracy effect... https://t.co/RviKSrd6TA",
-  "text_flat": "@SCHIZO_FREQ There's also the issue that we as a society may no longer possess the intelligence and conscientiousness and asabiya needed to rebuild that which we have inherited :/  Basically the Idiocracy effect... https://t.co/RviKSrd6TA",
-  "url": "https://x.com/rektdiomedes/status/2122466931165077807",
-  "lang": "en",
-  "conversation_id": "2122374152694997172",
-  "referenced": [
-   {
-    "id": "2122374152694997172",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1240784920831762433",
-     "start": 0,
-     "username": "SCHIZO_FREQ"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/RviKSrd6TA",
-     "end": 238,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122466931165077807/photo/1",
-     "media_key": "3_2122466899032199168",
-     "start": 215,
-     "url": "https://t.co/RviKSrd6TA"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 7,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 518,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122467418396332397",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:10:40.000Z",
-  "text": "@AraRawr11 Wholesome 🙏",
-  "text_flat": "@AraRawr11 Wholesome 🙏",
-  "url": "https://x.com/rektdiomedes/status/2122467418396332397",
-  "lang": "en",
-  "conversation_id": "2122358027772887535",
-  "referenced": [
-   {
-    "id": "2122358027772887535",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1848813120426512384",
-     "start": 0,
-     "username": "AraRawr11"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 59,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122467519072215378",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:11:04.000Z",
-  "text": "@DonCryptoDraper Would...",
-  "text_flat": "@DonCryptoDraper Would...",
-  "url": "https://x.com/rektdiomedes/status/2122467519072215378",
-  "lang": "en",
-  "conversation_id": "2122351477419311435",
-  "referenced": [
-   {
-    "id": "2122351477419311435",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "27619548",
-     "start": 0,
-     "username": "DonCryptoDraper"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 55,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122467840158548150",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:12:21.000Z",
-  "text": "@Nomaticcap @Trezor @edge_pod Very nice man - always like Trezor, that is a great match with you guys 🤝",
-  "text_flat": "@Nomaticcap @Trezor @edge_pod Very nice man - always like Trezor, that is a great match with you guys 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122467840158548150",
-  "lang": "en",
-  "conversation_id": "2122358479306502467",
-  "referenced": [
-   {
-    "id": "2122358479306502467",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1348855389069066240",
-     "start": 0,
-     "username": "Nomaticcap"
-    },
-    {
-     "end": 19,
-     "id": "1431204614",
-     "start": 12,
-     "username": "Trezor"
-    },
-    {
-     "end": 29,
-     "id": "1620991833701601280",
-     "start": 20,
-     "username": "edge_pod"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 86,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122468223006470252",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:13:52.000Z",
-  "text": "@danielgothits A based holiday to be certain 🤝 https://t.co/UcrGjK9Fgr",
-  "text_flat": "@danielgothits A based holiday to be certain 🤝 https://t.co/UcrGjK9Fgr",
-  "url": "https://x.com/rektdiomedes/status/2122468223006470252",
-  "lang": "en",
-  "conversation_id": "2122385642323653003",
-  "referenced": [
-   {
-    "id": "2122385642323653003",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "141784177",
-     "start": 0,
-     "username": "danielgothits"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/UcrGjK9Fgr",
-     "end": 70,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122468223006470252/photo/1",
-     "media_key": "3_2122468190143856640",
-     "start": 47,
-     "url": "https://t.co/UcrGjK9Fgr"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 12,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 892,
-  "score": 12,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122468615651832320",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:15:26.000Z",
-  "text": "@0xbags Based... I'd love to just pick one and eat it mid workout... total outdoor vitality mode :)",
-  "text_flat": "@0xbags Based... I'd love to just pick one and eat it mid workout... total outdoor vitality mode :)",
-  "url": "https://x.com/rektdiomedes/status/2122468615651832320",
-  "lang": "en",
-  "conversation_id": "2122283478053962013",
-  "referenced": [
-   {
-    "id": "2122283478053962013",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "1139080225952866304",
-     "start": 0,
-     "username": "0xbags"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 138,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122468631158084043",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T23:15:29.000Z",
-  "text": "RT @0xbags: after years of waiting our clementine trees are finally full of fruits for the first time\n\nin this moment I am euphoric https:/…",
-  "text_flat": "RT @0xbags: after years of waiting our clementine trees are finally full of fruits for the first time  in this moment I am euphoric https:/…",
-  "url": "https://x.com/rektdiomedes/status/2122468631158084043",
-  "lang": "en",
-  "conversation_id": "2122468631158084043",
-  "referenced": [
-   {
-    "id": "2122283478053962013",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1139080225952866304",
-     "start": 3,
-     "username": "0xbags"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 3,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 956,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122469358001680582",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:18:23.000Z",
-  "text": "@heart_ Feel like Connery was the quintessential Boomer Bond and Brosnan was the quintessential Gen-X Bond...",
-  "text_flat": "@heart_ Feel like Connery was the quintessential Boomer Bond and Brosnan was the quintessential Gen-X Bond...",
-  "url": "https://x.com/rektdiomedes/status/2122469358001680582",
-  "lang": "en",
-  "conversation_id": "2122403502622212561",
-  "referenced": [
-   {
-    "id": "2122403502622212561",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "4705209135",
-     "start": 0,
-     "username": "heart_"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 157,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122469545612804273",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:19:07.000Z",
-  "text": "@heart_ I must say the only one I never liked was Dalton... he just looks like a bad guy... very non-Chadish countenance...",
-  "text_flat": "@heart_ I must say the only one I never liked was Dalton... he just looks like a bad guy... very non-Chadish countenance...",
-  "url": "https://x.com/rektdiomedes/status/2122469545612804273",
-  "lang": "en",
-  "conversation_id": "2122403502622212561",
-  "referenced": [
-   {
-    "id": "2122403502622212561",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "4705209135",
-     "start": 0,
-     "username": "heart_"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 105,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122469857946177723",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:20:22.000Z",
-  "text": "@royal1dd @reisnertobias @HyperliquidX Great work gents! Keep it up 💪",
-  "text_flat": "@royal1dd @reisnertobias @HyperliquidX Great work gents! Keep it up 💪",
-  "url": "https://x.com/rektdiomedes/status/2122469857946177723",
-  "lang": "en",
-  "conversation_id": "2122276705523867967",
-  "referenced": [
-   {
-    "id": "2122276705523867967",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1893024946055458816",
-     "start": 0,
-     "username": "royal1dd"
-    },
-    {
-     "end": 24,
-     "id": "1275249432",
-     "start": 10,
-     "username": "reisnertobias"
-    },
-    {
-     "end": 38,
-     "id": "1527020295059648513",
-     "start": 25,
-     "username": "HyperliquidX"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 68,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122470002552963359",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:20:56.000Z",
-  "text": "@koreanjewcrypto https://t.co/n4HMeOS8B3",
-  "text_flat": "@koreanjewcrypto https://t.co/n4HMeOS8B3",
-  "url": "https://x.com/rektdiomedes/status/2122470002552963359",
-  "lang": "qme",
-  "conversation_id": "2122447371904655600",
-  "referenced": [
-   {
-    "id": "2122447371904655600",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "873190778910253056",
-     "start": 0,
-     "username": "koreanjewcrypto"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/n4HMeOS8B3",
-     "end": 40,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122470002552963359/photo/1",
-     "media_key": "3_2122469983816974336",
-     "start": 17,
-     "url": "https://t.co/n4HMeOS8B3"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 352,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122470223542706678",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:21:49.000Z",
-  "text": "@BackTheBunny https://t.co/5TEriPxwpQ",
-  "text_flat": "@BackTheBunny https://t.co/5TEriPxwpQ",
-  "url": "https://x.com/rektdiomedes/status/2122470223542706678",
-  "lang": "qme",
-  "conversation_id": "2122419277760532584",
-  "referenced": [
-   {
-    "id": "2122419277760532584",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1542779675361288192",
-     "start": 0,
-     "username": "BackTheBunny"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/5TEriPxwpQ",
-     "end": 37,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122470223542706678/photo/1",
-     "media_key": "3_2122470205473349632",
-     "start": 14,
-     "url": "https://t.co/5TEriPxwpQ"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 120,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122470398688395446",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:22:31.000Z",
-  "text": "@Ceazor7 Lezgo Ceazor 💪",
-  "text_flat": "@Ceazor7 Lezgo Ceazor 💪",
-  "url": "https://x.com/rektdiomedes/status/2122470398688395446",
-  "lang": "ro",
-  "conversation_id": "2122352857441800307",
-  "referenced": [
-   {
-    "id": "2122352857441800307",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1290239278413262848",
-     "start": 0,
-     "username": "Ceazor7"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 65,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122470643086082356",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:23:29.000Z",
-  "text": "@inkblotistan There is no better use of Twitter/X than immortalizing those we love 🤝",
-  "text_flat": "@inkblotistan There is no better use of Twitter/X than immortalizing those we love 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122470643086082356",
-  "lang": "en",
-  "conversation_id": "2122360022038438380",
-  "referenced": [
-   {
-    "id": "2122360022038438380",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1135183911850582016",
-     "start": 0,
-     "username": "inkblotistan"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 46,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122471033076641926",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:25:02.000Z",
-  "text": "@belizardd Interesting... I apparently missed your engagement farming arc... had no memory of any of that...",
-  "text_flat": "@belizardd Interesting... I apparently missed your engagement farming arc... had no memory of any of that...",
-  "url": "https://x.com/rektdiomedes/status/2122471033076641926",
-  "lang": "en",
-  "conversation_id": "2122402097845117330",
-  "referenced": [
-   {
-    "id": "2122402097845117330",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1485245285924282369",
-     "start": 0,
-     "username": "belizardd"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 91,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122471280716780011",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:26:01.000Z",
-  "text": "@PhilMrlo You never know what's gonna pop off man :) fascinating site...",
-  "text_flat": "@PhilMrlo You never know what's gonna pop off man :) fascinating site...",
-  "url": "https://x.com/rektdiomedes/status/2122471280716780011",
-  "lang": "en",
-  "conversation_id": "2122264973686571265",
-  "referenced": [
-   {
-    "id": "2122264973686571265",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "925663777542074368",
-     "start": 0,
-     "username": "PhilMrlo"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 60,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122471452280770888",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:26:42.000Z",
-  "text": "@mezzanine_fi YES https://t.co/MsO5d6mzoq",
-  "text_flat": "@mezzanine_fi YES https://t.co/MsO5d6mzoq",
-  "url": "https://x.com/rektdiomedes/status/2122471452280770888",
-  "lang": "und",
-  "conversation_id": "2122332958426374177",
-  "referenced": [
-   {
-    "id": "2122332958426374177",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1686928587486617600",
-     "start": 0,
-     "username": "mezzanine_fi"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/MsO5d6mzoq",
-     "end": 41,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122471452280770888/photo/1",
-     "media_key": "3_2122471430549901312",
-     "start": 18,
-     "url": "https://t.co/MsO5d6mzoq"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 75,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122471754601832865",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:27:54.000Z",
-  "text": "@litocoen Well said brother - hope you bounce back x10 🤝",
-  "text_flat": "@litocoen Well said brother - hope you bounce back x10 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122471754601832865",
-  "lang": "en",
-  "conversation_id": "2122160153005007020",
-  "referenced": [
-   {
-    "id": "2122160153005007020",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "190634593",
-     "start": 0,
-     "username": "litocoen"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 75,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122472176616141189",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:29:35.000Z",
-  "text": "@bigballsbulla They never had to deal with customer support phone center stuff either man... I'd rather drag a dead elk carcass for 30 miles in the 100 degree heat than spend 20 minutes dealing with that kind of thing...",
-  "text_flat": "@bigballsbulla They never had to deal with customer support phone center stuff either man... I'd rather drag a dead elk carcass for 30 miles in the 100 degree heat than spend 20 minutes dealing with that kind of thing...",
-  "url": "https://x.com/rektdiomedes/status/2122472176616141189",
-  "lang": "en",
-  "conversation_id": "2122114871110300061",
-  "referenced": [
-   {
-    "id": "2122114871110300061",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1391958780154454028",
-     "start": 0,
-     "username": "bigballsbulla"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 102,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122472372657877066",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-16T23:30:21.000Z",
-  "text": "RT @CryptoISFreedom: AI might be crypto’s biggest threat.\n\nAnd ironically, its most natural path forward.\n\nCT is capitulating. Yieldtern su…",
-  "text_flat": "RT @CryptoISFreedom: AI might be crypto’s biggest threat.  And ironically, its most natural path forward.  CT is capitulating. Yieldtern su…",
-  "url": "https://x.com/rektdiomedes/status/2122472372657877066",
-  "lang": "en",
-  "conversation_id": "2122472372657877066",
-  "referenced": [
-   {
-    "id": "2122258408795484275",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "2904334601",
-     "start": 3,
-     "username": "CryptoISFreedom"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 2,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 908,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122472435144331753",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:30:36.000Z",
-  "text": "@CryptoISFreedom Nice... same point you were making in that comment... I like it 🤝",
-  "text_flat": "@CryptoISFreedom Nice... same point you were making in that comment... I like it 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122472435144331753",
-  "lang": "en",
-  "conversation_id": "2122258408795484275",
-  "referenced": [
-   {
-    "id": "2122258408795484275",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2904334601",
-     "start": 0,
-     "username": "CryptoISFreedom"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 60,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122472710437818559",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:31:42.000Z",
-  "text": "@failuredril556 Exquisite 🤝",
-  "text_flat": "@failuredril556 Exquisite 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122472710437818559",
-  "lang": "en",
-  "conversation_id": "2122354841314083078",
-  "referenced": [
-   {
-    "id": "2122354841314083078",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1591742472790712320",
-     "start": 0,
-     "username": "failuredril556"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 56,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122472901605515660",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-16T23:32:28.000Z",
-  "text": "@Axel_bitblaze69 100% man... is wild how things work out...",
-  "text_flat": "@Axel_bitblaze69 100% man... is wild how things work out...",
-  "url": "https://x.com/rektdiomedes/status/2122472901605515660",
-  "lang": "en",
-  "conversation_id": "2122323247442325560",
-  "referenced": [
-   {
-    "id": "2122323247442325560",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "3168947216",
-     "start": 0,
-     "username": "Axel_bitblaze69"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 213,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122488453992525835",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "quote",
-  "created_at": "2026-11-17T00:34:16.000Z",
-  "text": "Again, I think the 5 year 'crypto dark ages' are going to hit their terminal point sometime soon (probably at peak of rate hiking cycle, as simplistic as that sounds). \n\nAnd eventually, once things have turned around, we are going to realize that we were thinking WAY WAY too https://t.co/7Wjvr3oAsH https://t.co/IDC0Ca7Kwx",
-  "text_flat": "Again, I think the 5 year 'crypto dark ages' are going to hit their terminal point sometime soon (probably at peak of rate hiking cycle, as simplistic as that sounds).   And eventually, once things have turned around, we are going to realize that we were thinking WAY WAY too https://t.co/7Wjvr3oAsH https://t.co/IDC0Ca7Kwx",
-  "url": "https://x.com/rektdiomedes/status/2122488453992525835",
-  "lang": "en",
-  "conversation_id": "2122488453992525835",
-  "referenced": [
-   {
-    "id": "2119962261825716329",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/7Wjvr3oAsH",
-     "end": 299,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122488453992525835/photo/1",
-     "media_key": "3_2122477853845360640",
-     "start": 276,
-     "url": "https://t.co/7Wjvr3oAsH"
-    },
-    {
-     "display_url": "pic.x.com/7Wjvr3oAsH",
-     "end": 299,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122488453992525835/photo/2",
-     "media_key": "3_2122477913895313408",
-     "start": 276,
-     "url": "https://t.co/7Wjvr3oAsH"
-    },
-    {
-     "display_url": "pic.x.com/7Wjvr3oAsH",
-     "end": 299,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122488453992525835/photo/3",
-     "media_key": "3_2122478019331657728",
-     "start": 276,
-     "url": "https://t.co/7Wjvr3oAsH"
-    },
-    {
-     "display_url": "pic.x.com/7Wjvr3oAsH",
-     "end": 299,
-     "expanded_url": "https://x.com/rektdiomedes/status/2122488453992525835/photo/4",
-     "media_key": "3_2122478056925270016",
-     "start": 276,
-     "url": "https://t.co/7Wjvr3oAsH"
-    },
-    {
-     "display_url": "x.com/rektdiomedes/s…",
-     "end": 323,
-     "expanded_url": "https://twitter.com/rektdiomedes/status/2119962261825716329",
-     "start": 300,
-     "url": "https://t.co/IDC0Ca7Kwx"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 132,
-  "retweets": 16,
-  "replies": 26,
-  "quotes": 2,
-  "bookmarks": 62,
-  "impressions": 8486,
-  "score": 300,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122548235223122161",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-17T04:31:48.000Z",
-  "text": "RT @pcresswell: American healthcare market working as designed",
-  "text_flat": "RT @pcresswell: American healthcare market working as designed",
-  "url": "https://x.com/rektdiomedes/status/2122548235223122161",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122472729349611710",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "19160609",
-     "start": 3,
-     "username": "pcresswell"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1016,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122548331318788161",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T04:32:11.000Z",
-  "text": "@pcresswell 🤝",
-  "text_flat": "@pcresswell 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122548331318788161",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122472729349611710",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "19160609",
-     "start": 0,
-     "username": "pcresswell"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 45,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122565233134768256",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T05:39:21.000Z",
-  "text": "@pray_eth @protocol_fx Its very reflective to price action man... people shutting down positions, etc... but that means its also way more reflective to the upside when prices go up...",
-  "text_flat": "@pray_eth @protocol_fx Its very reflective to price action man... people shutting down positions, etc... but that means its also way more reflective to the upside when prices go up...",
-  "url": "https://x.com/rektdiomedes/status/2122565233134768256",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122537756274663518",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1349346452284317701",
-     "start": 0,
-     "username": "pray_eth"
-    },
-    {
-     "end": 22,
-     "id": "1651177412707725312",
-     "start": 10,
-     "username": "protocol_fx"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 42,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122565540262842771",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T05:40:34.000Z",
-  "text": "@C_C_G3 @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Exactly! https://t.co/MAhsMs5R5v",
-  "text_flat": "@C_C_G3 @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Exactly! https://t.co/MAhsMs5R5v",
-  "url": "https://x.com/rektdiomedes/status/2122565540262842771",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122529303338627501",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "134268216",
-     "start": 0,
-     "username": "C_C_G3"
-    },
-    {
-     "end": 17,
-     "id": "925663777542074368",
-     "start": 8,
-     "username": "PhilMrlo"
-    },
-    {
-     "end": 27,
-     "id": "1562609603367796738",
-     "start": 18,
-     "username": "Nuel_fxt"
-    },
-    {
-     "end": 44,
-     "id": "2904334601",
-     "start": 28,
-     "username": "CryptoISFreedom"
-    },
-    {
-     "end": 55,
-     "id": "1621329954016296963",
-     "start": 45,
-     "username": "0xWhizMiz"
-    },
-    {
-     "end": 70,
-     "id": "3410466699",
-     "start": 56,
-     "username": "lampropeltis_"
-    },
-    {
-     "end": 78,
-     "id": "260539871",
-     "start": 71,
-     "username": "kmets_"
-    },
-    {
-     "end": 88,
-     "id": "88440635",
-     "start": 79,
-     "username": "taowang1"
-    },
-    {
-     "end": 105,
-     "id": "1949814078504906752",
-     "start": 89,
-     "username": "aladdindao_fans"
-    },
-    {
-     "end": 113,
-     "id": "841938510705758208",
-     "start": 106,
-     "username": "0xDrVV"
-    },
-    {
-     "end": 123,
-     "id": "1908913816647163904",
-     "start": 114,
-     "username": "GoatXII3"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 90,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122566593393607168",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T05:44:45.000Z",
-  "text": "@0xadriandefi Yup... lot of funny business going on too man... feel like the Trump admin and Bessent and etc are sort of trying to play 5D Chess right now, with $NVDA and etc... and the Fed is doing their own shenanigans... all is messed up is unclear what the results will be :/",
-  "text_flat": "@0xadriandefi Yup... lot of funny business going on too man... feel like the Trump admin and Bessent and etc are sort of trying to play 5D Chess right now, with $NVDA and etc... and the Fed is doing their own shenanigans... all is messed up is unclear what the results will be :/",
-  "url": "https://x.com/rektdiomedes/status/2122566593393607168",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122517228427833609",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1658795938821951489",
-     "start": 0,
-     "username": "0xadriandefi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 83,
-  "score": 3,
-  "cashtags": [
-   "NVDA"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122566762487218519",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T05:45:26.000Z",
-  "text": "@Nick_Researcher https://t.co/06YJRKRbga",
-  "text_flat": "@Nick_Researcher https://t.co/06YJRKRbga",
-  "url": "https://x.com/rektdiomedes/status/2122566762487218519",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122517139156541554",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "331204922",
-     "start": 0,
-     "username": "Nick_Researcher"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 48,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122567904231317950",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T05:49:58.000Z",
-  "text": "@0xCheeezzyyyy @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Exactly my deer Cheeze 🤝",
-  "text_flat": "@0xCheeezzyyyy @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Exactly my deer Cheeze 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122567904231317950",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122515362063524110",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1448318145177919489",
-     "start": 0,
-     "username": "0xCheeezzyyyy"
-    },
-    {
-     "end": 24,
-     "id": "925663777542074368",
-     "start": 15,
-     "username": "PhilMrlo"
-    },
-    {
-     "end": 34,
-     "id": "1562609603367796738",
-     "start": 25,
-     "username": "Nuel_fxt"
-    },
-    {
-     "end": 51,
-     "id": "2904334601",
-     "start": 35,
-     "username": "CryptoISFreedom"
-    },
-    {
-     "end": 62,
-     "id": "1621329954016296963",
-     "start": 52,
-     "username": "0xWhizMiz"
-    },
-    {
-     "end": 77,
-     "id": "3410466699",
-     "start": 63,
-     "username": "lampropeltis_"
-    },
-    {
-     "end": 85,
-     "id": "260539871",
-     "start": 78,
-     "username": "kmets_"
-    },
-    {
-     "end": 95,
-     "id": "88440635",
-     "start": 86,
-     "username": "taowang1"
-    },
-    {
-     "end": 112,
-     "id": "1949814078504906752",
-     "start": 96,
-     "username": "aladdindao_fans"
-    },
-    {
-     "end": 120,
-     "id": "841938510705758208",
-     "start": 113,
-     "username": "0xDrVV"
-    },
-    {
-     "end": 130,
-     "id": "1908913816647163904",
-     "start": 121,
-     "username": "GoatXII3"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 93,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122571421117497482",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:03:56.000Z",
-  "text": "@bigtime_anon @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 NIce man... this is the way 🤝",
-  "text_flat": "@bigtime_anon @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 NIce man... this is the way 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122571421117497482",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122497008179277940",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1289527308206784512",
-     "start": 0,
-     "username": "bigtime_anon"
-    },
-    {
-     "end": 23,
-     "id": "925663777542074368",
-     "start": 14,
-     "username": "PhilMrlo"
-    },
-    {
-     "end": 33,
-     "id": "1562609603367796738",
-     "start": 24,
-     "username": "Nuel_fxt"
-    },
-    {
-     "end": 50,
-     "id": "2904334601",
-     "start": 34,
-     "username": "CryptoISFreedom"
-    },
-    {
-     "end": 61,
-     "id": "1621329954016296963",
-     "start": 51,
-     "username": "0xWhizMiz"
-    },
-    {
-     "end": 76,
-     "id": "3410466699",
-     "start": 62,
-     "username": "lampropeltis_"
-    },
-    {
-     "end": 84,
-     "id": "260539871",
-     "start": 77,
-     "username": "kmets_"
-    },
-    {
-     "end": 94,
-     "id": "88440635",
-     "start": 85,
-     "username": "taowang1"
-    },
-    {
-     "end": 111,
-     "id": "1949814078504906752",
-     "start": 95,
-     "username": "aladdindao_fans"
-    },
-    {
-     "end": 119,
-     "id": "841938510705758208",
-     "start": 112,
-     "username": "0xDrVV"
-    },
-    {
-     "end": 129,
-     "id": "1908913816647163904",
-     "start": 120,
-     "username": "GoatXII3"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 77,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122571619344285831",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:04:44.000Z",
-  "text": "@FIREDxyz @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 YES 🤝 https://t.co/H7BXYvTg9T",
-  "text_flat": "@FIREDxyz @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 YES 🤝 https://t.co/H7BXYvTg9T",
-  "url": "https://x.com/rektdiomedes/status/2122571619344285831",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122495397755232552",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1369916133365542914",
-     "start": 0,
-     "username": "FIREDxyz"
-    },
-    {
-     "end": 19,
-     "id": "925663777542074368",
-     "start": 10,
-     "username": "PhilMrlo"
-    },
-    {
-     "end": 29,
-     "id": "1562609603367796738",
-     "start": 20,
-     "username": "Nuel_fxt"
-    },
-    {
-     "end": 46,
-     "id": "2904334601",
-     "start": 30,
-     "username": "CryptoISFreedom"
-    },
-    {
-     "end": 57,
-     "id": "1621329954016296963",
-     "start": 47,
-     "username": "0xWhizMiz"
-    },
-    {
-     "end": 72,
-     "id": "3410466699",
-     "start": 58,
-     "username": "lampropeltis_"
-    },
-    {
-     "end": 80,
-     "id": "260539871",
-     "start": 73,
-     "username": "kmets_"
-    },
-    {
-     "end": 90,
-     "id": "88440635",
-     "start": 81,
-     "username": "taowang1"
-    },
-    {
-     "end": 107,
-     "id": "1949814078504906752",
-     "start": 91,
-     "username": "aladdindao_fans"
-    },
-    {
-     "end": 115,
-     "id": "841938510705758208",
-     "start": 108,
-     "username": "0xDrVV"
-    },
-    {
-     "end": 125,
-     "id": "1908913816647163904",
-     "start": 116,
-     "username": "GoatXII3"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 127,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122571872575672670",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:05:44.000Z",
-  "text": "@FIREDxyz Soon my good Fired... soon... (maybe 2-6 months from now?)",
-  "text_flat": "@FIREDxyz Soon my good Fired... soon... (maybe 2-6 months from now?)",
-  "url": "https://x.com/rektdiomedes/status/2122571872575672670",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122495234181562686",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1369916133365542914",
-     "start": 0,
-     "username": "FIREDxyz"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 52,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122572150544417010",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-17T06:06:50.000Z",
-  "text": "RT @WovenDissent: @rektdiomedes We shall persevere ♥️ https://t.co/bU4yW5klHY",
-  "text_flat": "RT @WovenDissent: @rektdiomedes We shall persevere ♥️ https://t.co/bU4yW5klHY",
-  "url": "https://x.com/rektdiomedes/status/2122572150544417010",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122484628418334947",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1571196898488229888",
-     "start": 3,
-     "username": "WovenDissent"
-    },
-    {
-     "end": 31,
-     "id": "1470955425084235780",
-     "start": 18,
-     "username": "rektdiomedes"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1027,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122572183289606395",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:06:58.000Z",
-  "text": "@WovenDissent I love that image :)",
-  "text_flat": "@WovenDissent I love that image :)",
-  "url": "https://x.com/rektdiomedes/status/2122572183289606395",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122484628418334947",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1571196898488229888",
-     "start": 0,
-     "username": "WovenDissent"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 50,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122576365484495057",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:23:35.000Z",
-  "text": "@HalloweenIn2008 @thedailydegenhq Interesting... appraciate the info man 🤝",
-  "text_flat": "@HalloweenIn2008 @thedailydegenhq Interesting... appraciate the info man 🤝",
-  "url": "https://x.com/rektdiomedes/status/2122576365484495057",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122471892263047618",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1536676008459386880",
-     "start": 0,
-     "username": "HalloweenIn2008"
-    },
-    {
-     "end": 33,
-     "id": "1527901666003013632",
-     "start": 17,
-     "username": "thedailydegenhq"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 45,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122579669434376307",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:36:43.000Z",
-  "text": "@crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol Gm :)",
-  "text_flat": "@crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol Gm :)",
-  "url": "https://x.com/rektdiomedes/status/2122579669434376307",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122468972490862957",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1139174563802226688",
-     "start": 0,
-     "username": "crypto_linn"
-    },
-    {
-     "end": 22,
-     "id": "1855775452042002432",
-     "start": 13,
-     "username": "boros_fi"
-    },
-    {
-     "end": 33,
-     "id": "1377493693762969600",
-     "start": 23,
-     "username": "pendle_fi"
-    },
-    {
-     "end": 44,
-     "id": "1084668943405436928",
-     "start": 34,
-     "username": "Chainflip"
-    },
-    {
-     "end": 58,
-     "id": "1686928587486617600",
-     "start": 45,
-     "username": "mezzanine_fi"
-    },
-    {
-     "end": 75,
-     "id": "1592468786489212928",
-     "start": 59,
-     "username": "Mantle_Official"
-    },
-    {
-     "end": 92,
-     "id": "2078552004411154432",
-     "start": 76,
-     "username": "StaticsProtocol"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 161,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122579982790574487",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:37:58.000Z",
-  "text": "@Zeneca Mine is the same but interspersed with random bits of wholesomeness :)",
-  "text_flat": "@Zeneca Mine is the same but interspersed with random bits of wholesomeness :)",
-  "url": "https://x.com/rektdiomedes/status/2122579982790574487",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122514753352601739",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "1370479673818427403",
-     "start": 0,
-     "username": "Zeneca"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 143,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122580247941972314",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:39:01.000Z",
-  "text": "@zariat Getting to the airport several hours early is kingly 🤝 hurrying anxiously and frenetically because you're worried about missing your flight is peasant behavior...",
-  "text_flat": "@zariat Getting to the airport several hours early is kingly 🤝 hurrying anxiously and frenetically because you're worried about missing your flight is peasant behavior...",
-  "url": "https://x.com/rektdiomedes/status/2122580247941972314",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122536713444901128",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "20872437",
-     "start": 0,
-     "username": "zariat"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 102,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122580406012637447",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "retweet",
-  "created_at": "2026-11-17T06:39:39.000Z",
-  "text": "RT @phtevenstrong: We need fewer soft men with hardened hearts.\nAnd more hardened men with soft hearts.",
-  "text_flat": "RT @phtevenstrong: We need fewer soft men with hardened hearts. And more hardened men with soft hearts.",
-  "url": "https://x.com/rektdiomedes/status/2122580406012637447",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122515988138832240",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "330533467",
-     "start": 3,
-     "username": "phtevenstrong"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 5,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 877,
-  "score": 15,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122580481073987620",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:39:56.000Z",
-  "text": "@phtevenstrong https://t.co/E55rar5PyH",
-  "text_flat": "@phtevenstrong https://t.co/E55rar5PyH",
-  "url": "https://x.com/rektdiomedes/status/2122580481073987620",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122515988138832240",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "330533467",
-     "start": 0,
-     "username": "phtevenstrong"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 6,
-  "retweets": 1,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 201,
-  "score": 11,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122582359312625961",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:47:24.000Z",
-  "text": "@Pickle_cRypto Some EXTREMELY popular mainstream books I admittedly could not put down:\n\n-Hunger Games trilogy\n-Da Vinci Code\n-Lucifer's Hammer (science fiction book that was basically the film Deep Impact in book form)\n-Contact \n-Eat, Pray, Love (I know its the most horrible pozz-maxxed book",
-  "text_flat": "@Pickle_cRypto Some EXTREMELY popular mainstream books I admittedly could not put down:  -Hunger Games trilogy -Da Vinci Code -Lucifer's Hammer (science fiction book that was basically the film Deep Impact in book form) -Contact  -Eat, Pray, Love (I know its the most horrible pozz-maxxed book",
-  "url": "https://x.com/rektdiomedes/status/2122582359312625961",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122567077735399573",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "943869911293726720",
-     "start": 0,
-     "username": "Pickle_cRypto"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 7,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 2,
-  "impressions": 529,
-  "score": 11,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122582849316602147",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:49:21.000Z",
-  "text": "@0xMerp https://t.co/nzZLZWSSq8",
-  "text_flat": "@0xMerp https://t.co/nzZLZWSSq8",
-  "url": "https://x.com/rektdiomedes/status/2122582849316602147",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122452288312885739",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "926303893536960513",
-     "start": 0,
-     "username": "0xMerp"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 100,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122584615193887052",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:56:22.000Z",
-  "text": "@SCHIZO_FREQ This is why you need to eat copious amounts of frozen protein bars and maintain adherence to a strict 50/50 left/right ratio for chewing... \n\nGet them massive Drew Dober massiters :) https://t.co/5P62VjVrBr",
-  "text_flat": "@SCHIZO_FREQ This is why you need to eat copious amounts of frozen protein bars and maintain adherence to a strict 50/50 left/right ratio for chewing...   Get them massive Drew Dober massiters :) https://t.co/5P62VjVrBr",
-  "url": "https://x.com/rektdiomedes/status/2122584615193887052",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122315658587226251",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1240784920831762433",
-     "start": 0,
-     "username": "SCHIZO_FREQ"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 76,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122584820559544412",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:57:11.000Z",
-  "text": "@crypto_linn Appropriate as I think we're at a very equivalent time right now...",
-  "text_flat": "@crypto_linn Appropriate as I think we're at a very equivalent time right now...",
-  "url": "https://x.com/rektdiomedes/status/2122584820559544412",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122550403380457531",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1139174563802226688",
-     "start": 0,
-     "username": "crypto_linn"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 250,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122585475646955987",
-  "username": "rektdiomedes",
-  "username_canon": "rektdiomedes",
-  "type": "reply",
-  "created_at": "2026-11-17T06:59:47.000Z",
-  "text": "@safetyth1rd Seriously man...\n\nA perfect example of why walks in silence are so valuable too... they allow your mind to sort through things so you can get to 'empty cup' status and then work unencumbered...",
-  "text_flat": "@safetyth1rd Seriously man...  A perfect example of why walks in silence are so valuable too... they allow your mind to sort through things so you can get to 'empty cup' status and then work unencumbered...",
-  "url": "https://x.com/rektdiomedes/status/2122585475646955987",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122543600529703413",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "957303442250260480",
-     "start": 0,
-     "username": "safetyth1rd"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 164,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122595036861022321",
   "username": "rektdiomedes",
   "username_canon": "rektdiomedes",
   "type": "reply",
   "created_at": "2026-11-17T07:37:47.000Z",
   "text": "@thelearningpill 🤝 https://t.co/y42rCpaYYw",
-  "text_flat": "@thelearningpill 🤝 https://t.co/y42rCpaYYw",
   "url": "https://x.com/rektdiomedes/status/2122595036861022321",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122355261843349709",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "948883353662451714",
-     "start": 0,
-     "username": "thelearningpill"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 74,
   "bookmarks": 0,
-  "impressions": 67,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122355261843349709",
+   "text": "When price goes up, we realise how underexposed we are\n\nWhen price goes down, we realise how overexposed we are\n\nAh, the duality of man. https://t.co/AhS99SdYYT"
+  }
  },
  {
   "id": "2122595097913286945",
@@ -3225,46 +26,18 @@
   "type": "retweet",
   "created_at": "2026-11-17T07:38:01.000Z",
   "text": "RT @CryptoISFreedom: Wen fundamentals matter? https://t.co/AqRZJq1jrN",
-  "text_flat": "RT @CryptoISFreedom: Wen fundamentals matter? https://t.co/AqRZJq1jrN",
   "url": "https://x.com/rektdiomedes/status/2122595097913286945",
-  "lang": "en",
-  "conversation_id": "2122595097913286945",
-  "referenced": [
-   {
-    "id": "2122572393637966073",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "2904334601",
-     "start": 3,
-     "username": "CryptoISFreedom"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/AqRZJq1jrN",
-     "end": 69,
-     "expanded_url": "https://x.com/CryptoISFreedom/status/2122572393637966073/photo/1",
-     "media_key": "16_2122572346510729216",
-     "start": 46,
-     "url": "https://t.co/AqRZJq1jrN"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 1,
   "replies": 0,
   "quotes": 0,
+  "impressions": 1128,
   "bookmarks": 0,
-  "impressions": 945,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122572393637966073",
+   "text": "Wen fundamentals matter? https://t.co/AqRZJq1jrN https://t.co/65Q5KflPjP"
+  }
  },
  {
   "id": "2122595130314002697",
@@ -3273,36 +46,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:38:09.000Z",
   "text": "@CryptoISFreedom :)",
-  "text_flat": "@CryptoISFreedom :)",
   "url": "https://x.com/rektdiomedes/status/2122595130314002697",
-  "lang": "qam",
-  "conversation_id": "2122572393637966073",
-  "referenced": [
-   {
-    "id": "2122572393637966073",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2904334601",
-     "start": 0,
-     "username": "CryptoISFreedom"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 56,
   "bookmarks": 0,
-  "impressions": 51,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122572393637966073",
+   "text": "Wen fundamentals matter? https://t.co/AqRZJq1jrN https://t.co/65Q5KflPjP"
+  }
  },
  {
   "id": "2122595313487954008",
@@ -3311,36 +66,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:38:53.000Z",
   "text": "@safetyth1rd Would very much like to go there someday :)",
-  "text_flat": "@safetyth1rd Would very much like to go there someday :)",
   "url": "https://x.com/rektdiomedes/status/2122595313487954008",
-  "lang": "en",
-  "conversation_id": "2122577931050557462",
-  "referenced": [
-   {
-    "id": "2122577931050557462",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "957303442250260480",
-     "start": 0,
-     "username": "safetyth1rd"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 2282,
   "bookmarks": 0,
-  "impressions": 1710,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122577931050557462",
+   "text": "I had a rich asian boss back in the day,  not Japanese, who loved to visit Japan. \n\nI had visited Japan before and didn't find it super special at the time so I always wondered why he seemed so fond of it.\n\nAfter making a bit of money, I got it.\n\nIt's not the cheap crowded https://t.co/3R03tXm2Sq"
+  }
  },
  {
   "id": "2122595373399023964",
@@ -3349,52 +86,18 @@
   "type": "retweet",
   "created_at": "2026-11-17T07:39:07.000Z",
   "text": "RT @QuotableCrypto: 🔸 re: AFK ...............\n🔸 @kenodnb .................... https://t.co/uuHbaAA7cz",
-  "text_flat": "RT @QuotableCrypto: 🔸 re: AFK ............... 🔸 @kenodnb .................... https://t.co/uuHbaAA7cz",
   "url": "https://x.com/rektdiomedes/status/2122595373399023964",
-  "lang": "no",
-  "conversation_id": "2122595373399023964",
-  "referenced": [
-   {
-    "id": "2122366009902248181",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 18,
-     "id": "1577014164748484608",
-     "start": 3,
-     "username": "QuotableCrypto"
-    },
-    {
-     "end": 56,
-     "id": "1388746210744442881",
-     "start": 48,
-     "username": "kenodnb"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/uuHbaAA7cz",
-     "end": 101,
-     "expanded_url": "https://x.com/QuotableCrypto/status/2122366009902248181/photo/1",
-     "media_key": "3_2122366004604903424",
-     "start": 78,
-     "url": "https://t.co/uuHbaAA7cz"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 3,
   "replies": 0,
   "quotes": 0,
+  "impressions": 1096,
   "bookmarks": 0,
-  "impressions": 914,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122366009902248181",
+   "text": "🔸 re: AFK ...............\n🔸 @kenodnb .................... https://t.co/uuHbaAA7cz https://t.co/np2VNBK1mk"
+  }
  },
  {
   "id": "2122595414813577501",
@@ -3403,42 +106,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:39:17.000Z",
   "text": "@QuotableCrypto @kenodnb Wise dude that Keno :)",
-  "text_flat": "@QuotableCrypto @kenodnb Wise dude that Keno :)",
   "url": "https://x.com/rektdiomedes/status/2122595414813577501",
-  "lang": "en",
-  "conversation_id": "2122366009902248181",
-  "referenced": [
-   {
-    "id": "2122366009902248181",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1577014164748484608",
-     "start": 0,
-     "username": "QuotableCrypto"
-    },
-    {
-     "end": 24,
-     "id": "1388746210744442881",
-     "start": 16,
-     "username": "kenodnb"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
+  "likes": 2,
   "retweets": 0,
-  "replies": 0,
+  "replies": 1,
   "quotes": 0,
+  "impressions": 124,
   "bookmarks": 0,
-  "impressions": 92,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122366009902248181",
+   "text": "🔸 re: AFK ...............\n🔸 @kenodnb .................... https://t.co/uuHbaAA7cz https://t.co/np2VNBK1mk"
+  }
  },
  {
   "id": "2122595543750770914",
@@ -3447,46 +126,18 @@
   "type": "retweet",
   "created_at": "2026-11-17T07:39:48.000Z",
   "text": "RT @Eli5defi: Arguably, crypto’s biggest secret, after Satoshi’s true identity. https://t.co/DfMhcAEzoI",
-  "text_flat": "RT @Eli5defi: Arguably, crypto’s biggest secret, after Satoshi’s true identity. https://t.co/DfMhcAEzoI",
   "url": "https://x.com/rektdiomedes/status/2122595543750770914",
-  "lang": "en",
-  "conversation_id": "2122595543750770914",
-  "referenced": [
-   {
-    "id": "2122404591472169010",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1481568237624393730",
-     "start": 3,
-     "username": "Eli5defi"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/DfMhcAEzoI",
-     "end": 103,
-     "expanded_url": "https://x.com/Eli5defi/status/2122404591472169010/photo/1",
-     "media_key": "3_2122404589416931328",
-     "start": 80,
-     "url": "https://t.co/DfMhcAEzoI"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 2,
   "replies": 0,
   "quotes": 0,
+  "impressions": 996,
   "bookmarks": 0,
-  "impressions": 834,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122404591472169010",
+   "text": "Arguably, crypto’s biggest secret, after Satoshi’s true identity. https://t.co/DfMhcAEzoI"
+  }
  },
  {
   "id": "2122595575673569624",
@@ -3495,36 +146,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:39:55.000Z",
   "text": "@Eli5defi Lol indeed",
-  "text_flat": "@Eli5defi Lol indeed",
   "url": "https://x.com/rektdiomedes/status/2122595575673569624",
-  "lang": "en",
-  "conversation_id": "2122404591472169010",
-  "referenced": [
-   {
-    "id": "2122404591472169010",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1481568237624393730",
-     "start": 0,
-     "username": "Eli5defi"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 216,
   "bookmarks": 0,
-  "impressions": 183,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122404591472169010",
+   "text": "Arguably, crypto’s biggest secret, after Satoshi’s true identity. https://t.co/DfMhcAEzoI"
+  }
  },
  {
   "id": "2122596159625765365",
@@ -3533,36 +166,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:42:15.000Z",
   "text": "@zariat 'Anemoia' :)",
-  "text_flat": "@zariat 'Anemoia' :)",
   "url": "https://x.com/rektdiomedes/status/2122596159625765365",
-  "lang": "et",
-  "conversation_id": "2122530255428800753",
-  "referenced": [
-   {
-    "id": "2122530255428800753",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "20872437",
-     "start": 0,
-     "username": "zariat"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 1,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 74,
   "bookmarks": 0,
-  "impressions": 68,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122530255428800753",
+   "text": "is there a word to describe nostalgia for a thing i didn't personally experience...?\n\nsouthern california in the 70s is a dream life for me. https://t.co/7tzZ8CxMJo"
+  }
  },
  {
   "id": "2122596792277885245",
@@ -3571,36 +186,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:44:45.000Z",
   "text": "@defidave One of the few biochemical addictions I've never experienced :)\n\nFor some reason tobacco just never agreed with me...",
-  "text_flat": "@defidave One of the few biochemical addictions I've never experienced :)  For some reason tobacco just never agreed with me...",
   "url": "https://x.com/rektdiomedes/status/2122596792277885245",
-  "lang": "en",
-  "conversation_id": "2122415618913903099",
-  "referenced": [
-   {
-    "id": "2122415618913903099",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "243415763",
-     "start": 0,
-     "username": "defidave"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
+  "likes": 2,
   "retweets": 0,
-  "replies": 0,
+  "replies": 1,
   "quotes": 0,
+  "impressions": 274,
   "bookmarks": 0,
-  "impressions": 176,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122415618913903099",
+   "text": "This isn’t a bit anymore I think I actually got addicted to cigarettes https://t.co/1sXozwD99v"
+  }
  },
  {
   "id": "2122597130812448979",
@@ -3609,36 +206,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:46:06.000Z",
   "text": "@Mantle_Official 💪🤝",
-  "text_flat": "@Mantle_Official 💪🤝",
   "url": "https://x.com/rektdiomedes/status/2122597130812448979",
-  "lang": "qme",
-  "conversation_id": "2122348610583208117",
-  "referenced": [
-   {
-    "id": "2122348610583208117",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1592468786489212928",
-     "start": 0,
-     "username": "Mantle_Official"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 108,
   "bookmarks": 0,
-  "impressions": 85,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122348610583208117",
+   "text": "When the going gets tough, your assets get going.\n\nFrom crypto to stablecoins and tokenized stocks, make every one of them earn its keep, without ever leaving Mantle. https://t.co/5nNOzdCmrO"
+  }
  },
  {
   "id": "2122597261964464275",
@@ -3647,36 +226,18 @@
   "type": "retweet",
   "created_at": "2026-11-17T07:46:37.000Z",
   "text": "RT @taowang1: Thinking Bigly",
-  "text_flat": "RT @taowang1: Thinking Bigly",
   "url": "https://x.com/rektdiomedes/status/2122597261964464275",
-  "lang": "en",
-  "conversation_id": "2122597261964464275",
-  "referenced": [
-   {
-    "id": "2122567919544500309",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "88440635",
-     "start": 3,
-     "username": "taowang1"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
   "retweets": 1,
   "replies": 0,
   "quotes": 0,
+  "impressions": 1220,
   "bookmarks": 0,
-  "impressions": 1038,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122567919544500309",
+   "text": "Thinking Bigly https://t.co/ZkrfjQ09Lb"
+  }
  },
  {
   "id": "2122597319363432533",
@@ -3685,36 +246,18 @@
   "type": "reply",
   "created_at": "2026-11-17T07:46:51.000Z",
   "text": "@taowang1 My brother 🤝",
-  "text_flat": "@taowang1 My brother 🤝",
   "url": "https://x.com/rektdiomedes/status/2122597319363432533",
-  "lang": "en",
-  "conversation_id": "2122567919544500309",
-  "referenced": [
-   {
-    "id": "2122567919544500309",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "88440635",
-     "start": 0,
-     "username": "taowang1"
-    }
-   ]
-  },
-  "low_substance": false,
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 55,
   "bookmarks": 0,
-  "impressions": 44,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122567919544500309",
+   "text": "Thinking Bigly https://t.co/ZkrfjQ09Lb"
+  }
  },
  {
   "id": "2122597660913795359",
@@ -3723,35 +266,1174 @@
   "type": "reply",
   "created_at": "2026-11-17T07:48:12.000Z",
   "text": "@protocol_fx 💪",
-  "text_flat": "@protocol_fx 💪",
   "url": "https://x.com/rektdiomedes/status/2122597660913795359",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122316529509548518",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1651177412707725312",
-     "start": 0,
-     "username": "protocol_fx"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 83,
   "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122316529509548518",
+   "text": "Fear &amp; Greed is sitting at extreme fear.\n\nSome of you think this is the bottom. Some of you think it keeps bleeding.\n\nWhichever side you take on f(x), you don’t pay funding while you wait for the move. And if the market goes the other way, liquidation protection has your back. https://t.co/PnEzF2nF7d"
+  }
+ },
+ {
+  "id": "2122832434668433795",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-17T23:21:07.000Z",
+  "text": "@linkchainlink Well said brother :)",
+  "url": "https://x.com/rektdiomedes/status/2122832434668433795",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 71,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122796164248633509",
+   "text": "Fatherhood really is the most transformational psychedelic in the sense it shatters your world view and is super accesible \n\nTook my son on a midnight walk to get him to sleep, cuddled him extra close while he looked all around over my shoulder with his tiny head he can hold up https://t.co/7o6n7CKJ8x"
+  }
+ },
+ {
+  "id": "2122832753804927385",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-17T23:22:23.000Z",
+  "text": "@failuredril556 🤝 https://t.co/jGj3vB9dwS",
+  "url": "https://x.com/rektdiomedes/status/2122832753804927385",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 48,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122707579591922116",
+   "text": "just remind her there's gold and silver bullion in the gun safe next to her night vision goggles and meshtastic node, and if she needs to transact small amounts she has a hot wallet on her graphene pixel\n\noh the normies only started realizing they're on their own finally just https://t.co/16ISwZvL5Z"
+  }
+ },
+ {
+  "id": "2122854624377938255",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "original",
+  "created_at": "2026-11-18T00:49:17.000Z",
+  "text": "Crypto + Macro Stuff I'm Looking At Today\n\n...\n\n- $NVDA earnings came in strong\n\n- Continued talk of Jensen being reinstated \n\n- Lots of talk and conjecture about weird government stuff vis a vis $NVDA though and why certain parts of the Trump admin might have been interested in https://t.co/p4OOKPljrj",
+  "url": "https://x.com/rektdiomedes/status/2122854624377938255",
+  "likes": 37,
+  "retweets": 8,
+  "replies": 20,
+  "quotes": 2,
+  "impressions": 2657,
+  "bookmarks": 4,
+  "referenced": null
+ },
+ {
+  "id": "2122860012514972047",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:10:42.000Z",
+  "text": "More info on the burgeoning US health insurance crisis...\n\nFrom a great clip of Doomberg we recently posted on @thedailydegenhq:\n\nhttps://t.co/dE1wB5cvlm",
+  "url": "https://x.com/rektdiomedes/status/2122860012514972047",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 145,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122454590150853079",
+   "text": "Is health insurance about to catalyze the next big financial crisis in America?\n\nThe average cost of health insurance for a family in the US has now hit $28,000 per year...\n\nAnd is growing at more than 20% year over year in cost...\n\n\"Having just received my 2027 health plan https://t.co/bivB0Dk9Ia"
+  }
+ },
+ {
+  "id": "2122860290052341870",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:11:48.000Z",
+  "text": "@thedailydegenhq Excellent new newsletter from the gents at @castle_labs 💪\n\nhttps://t.co/d89gQfiTIj",
+  "url": "https://x.com/rektdiomedes/status/2122860290052341870",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 128,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122709848324534690",
+   "text": "Our weekly newsletter is out\n\n✦ Anthropic IPO onchain @fintchone\n✦ @metricxyz first month\n✦ @pendle_fi fixed-term markets ft. @tn_pendle\n✦ Revenue and Narrative Bias\n✦ @DeriveXYZ $NVDA market, @Backpack CFTC approval, and @delpho_labs USDV launch\n\nhttps://t.co/XrA6HdHd8N"
+  }
+ },
+ {
+  "id": "2122860488489091171",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:12:35.000Z",
+  "text": "@thedailydegenhq @castle_labs Very on the money tweet from @Axel_bitblaze69 (could not agree with this more)...\n\nhttps://t.co/JJa0OmuNzB",
+  "url": "https://x.com/rektdiomedes/status/2122860488489091171",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 118,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122323247442325560",
+   "text": "man how did we get the crypto thesis right and still get smoked on alts ?\n\nif you told me 3–4 years ago that:\n\n- BTC and ETH would both get spot ETFs\n- people would actually use stablecoins to move dollars\n- you’d be able to trade stocks onchain\n- the company that owns the NYSE"
+  }
+ },
+ {
+  "id": "2122860938168877291",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:14:23.000Z",
+  "text": "@thedailydegenhq @castle_labs @Axel_bitblaze69 Note: My bro @joshthedoyen is open to try new apps(!)... \n\nI get tons of dm's from folks every week wanting me to try their app and I never have enough time and always feel bad, so hope this is useful to you if you are in that boat!\n\nhttps://t.co/8Q3yIjFkV4",
+  "url": "https://x.com/rektdiomedes/status/2122860938168877291",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 116,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2121302698129818090",
+   "text": "i have a small experiment.\n\nif you're building a product, send it to me. i'll use it like a new user, tell you what works and what doesn't, and post what i found (with your ok).\n\nthis week a founder asked me to review his product. after my feedback, he said he'd take my notes"
+  }
+ },
+ {
+  "id": "2122861178154062312",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:15:20.000Z",
+  "text": "@thedailydegenhq @castle_labs @Axel_bitblaze69 @joshthedoyen Is $AERO a good buy here? \n\nh/t the legendary @thedefivillain:\n\nhttps://t.co/HdbgQdjkyd",
+  "url": "https://x.com/rektdiomedes/status/2122861178154062312",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 158,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122713855948099714",
+   "text": "$AERO is probably in a good spot to be bought again\n\nIt got crushed because of the news-selling + the market pullback, but now standing close to its strong $0.4 support, while fundamentals are improving\n\nI'm not sure what it's going to do in USD terms, but I'm expecting it to be https://t.co/vPrV8797hr"
+  }
+ },
+ {
+  "id": "2122861519738138777",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:16:41.000Z",
+  "text": "@thedailydegenhq @castle_labs @Axel_bitblaze69 @joshthedoyen @thedefivillain Is $CARDS a good buy here?\n\nh/t my fellow tropics enjoying, Muay Thai practicing bro @0xadriandefi:\n\nhttps://t.co/HeQcg2pOj5",
+  "url": "https://x.com/rektdiomedes/status/2122861519738138777",
+  "likes": 4,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 160,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2121844027293069452",
+   "text": "Buying solana:CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp here.\n\nI’ve been trading it actively over the last few months and it’s still one of the most interesting tokens in my portfolio.\n\nI want exposure to tokenized trading cards as a narrative. Of the tokens tied to that https://t.co/z7RhDvC1Il"
+  }
+ },
+ {
+  "id": "2122862120794747371",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:19:05.000Z",
+  "text": "@thedailydegenhq @castle_labs @Axel_bitblaze69 @joshthedoyen @thedefivillain @0xadriandefi Finally... \n\nIf you've been living under a rock this week, here is what is- IMHO- the best trailer I've ever seen- \n\nOf a prospective purely AI film... \n\nMade with AskVenice $VVV: \n\nhttps://t.co/mSaCD48d3X",
+  "url": "https://x.com/rektdiomedes/status/2122862120794747371",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 323,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2121357879341166683",
+   "text": "NUREMBERG - Official Trailer https://t.co/M7GjP0wfk9"
+  }
+ },
+ {
+  "id": "2122862378538717550",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:20:06.000Z",
+  "text": "@thedailydegenhq @castle_labs @Axel_bitblaze69 @joshthedoyen @thedefivillain @0xadriandefi Linking back to first tweet below!\n\nPlease RT if you enjoyed!\n\nAppreciate your all tremendously my dear internet frens 💪🙏\n\nhttps://t.co/dseh2ZQbGJ",
+  "url": "https://x.com/rektdiomedes/status/2122862378538717550",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 259,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122854624377938255",
+   "author": "rektdiomedes",
+   "text": "Crypto + Macro Stuff I'm Looking At Today\n\n...\n\n- $NVDA earnings came in strong\n\n- Continued talk of Jensen being reinstated \n\n- Lots of talk and conjecture about weird government stuff vis a vis $NVDA though and why certain parts of the Trump admin might have been interested in https://t.co/p4OOKPljrj"
+  }
+ },
+ {
+  "id": "2122864512118235310",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:28:35.000Z",
+  "text": "@lampropeltis_ Wild times my friend - much appreciate you as always 💪🙏",
+  "url": "https://x.com/rektdiomedes/status/2122864512118235310",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 33,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122860943755694230",
+   "text": "@rektdiomedes Thanks for the roundup! Agree, there's still a lot of short-term uncertainty with wars, rates, and all the rest."
+  }
+ },
+ {
+  "id": "2122864708269273243",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:29:22.000Z",
+  "text": "@QuotableCrypto Yup if someone can just mindlessly DCA into both crypto and stonks right now without getting too stressed over the immediate results I think they'll kill it on nearly any timeline...",
+  "url": "https://x.com/rektdiomedes/status/2122864708269273243",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 38,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122860210545144068",
+   "text": "@rektdiomedes \"...Crypto still getting clubbed in the head...\"\n\nsad lol.\n\n*accumulate* is the mantra...⚜️QC https://t.co/6FyxblF0v4"
+  }
+ },
+ {
+  "id": "2122865119814463684",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "quote",
+  "created_at": "2026-11-18T01:31:00.000Z",
+  "text": "@pravijn @grok This is what I was referencing... I think there has been similar headlines about Hyperliquid too though... \n\nhttps://t.co/PfD480V9Gz",
+  "url": "https://x.com/rektdiomedes/status/2122865119814463684",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 34,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122480140416413800",
+   "text": "🔥 NOW: Backpack secures CFTC approval to launch a US derivatives exchange with leveraged perpetuals, crypto collateral and one global order book. https://t.co/Kde3MmpmfU"
+  }
+ },
+ {
+  "id": "2122865303914983739",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T01:31:44.000Z",
+  "text": "RT @lampropeltis_: Stacking ethereum:0x365accfca291e7d3914637abf1f7635db165bb09 through these crypto dark ages has another interesting side…",
+  "url": "https://x.com/rektdiomedes/status/2122865303914983739",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 780,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122855803208057322",
+   "text": "Stacking ethereum:0x365accfca291e7d3914637abf1f7635db165bb09 through these crypto dark ages has another interesting side to it: the yields you can earn along the way.\n\nI really enjoyed @rektdiomedes's article and follow-up, especially his point that we may be thinking far too small about crypto's future. Well worth a read for a fresh dose of optimism.\n\nAnd there's plenty to like about the yield op"
+  }
+ },
+ {
+  "id": "2122865390208307229",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:32:04.000Z",
+  "text": "@lampropeltis_ Beautifully said my brother 💪🤝",
+  "url": "https://x.com/rektdiomedes/status/2122865390208307229",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 61,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122855803208057322",
+   "text": "Stacking ethereum:0x365accfca291e7d3914637abf1f7635db165bb09 through these crypto dark ages has another interesting side to it: the yields you can earn along the way.\n\nI really enjoyed @rektdiomedes's article and follow-up, especially his point that we may be thinking far too small about crypto's future. Well worth a read for a fresh dose of optimism.\n\nAnd there's plenty to like about the yield op"
+  }
+ },
+ {
+  "id": "2122865742416650638",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:33:28.000Z",
+  "text": "@subjuicee Will be sitting down and going through all of them tomorrow ser and look forward to seeing it then! :)\n\nIf its something urgent for some reason let me know though!",
+  "url": "https://x.com/rektdiomedes/status/2122865742416650638",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 35,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122781277657207134",
+   "text": "hi @rektdiomedes , I just sent you a DM. Could you please check it when you have a moment?"
+  }
+ },
+ {
+  "id": "2122865868870996325",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T01:33:58.000Z",
+  "text": "RT @retardsgonnawin: @rektdiomedes https://t.co/evbjqQXiQ2",
+  "url": "https://x.com/rektdiomedes/status/2122865868870996325",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 722,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122754366201290764",
+   "text": "@rektdiomedes https://t.co/evbjqQXiQ2"
+  }
+ },
+ {
+  "id": "2122865897530335362",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:34:05.000Z",
+  "text": "@retardsgonnawin 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122865897530335362",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 29,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122754366201290764",
+   "text": "@rektdiomedes https://t.co/evbjqQXiQ2"
+  }
+ },
+ {
+  "id": "2122865943894429877",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T01:34:16.000Z",
+  "text": "RT @pravijn: went outside cause everything is going down \n\n@rektdiomedes @adamilenich https://t.co/lhxH0rlMDw",
+  "url": "https://x.com/rektdiomedes/status/2122865943894429877",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 794,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122740729378476330",
+   "text": "went outside cause everything is going down \n\n@rektdiomedes @adamilenich https://t.co/lhxH0rlMDw https://t.co/VphgGcdX2A"
+  }
+ },
+ {
+  "id": "2122866021979615674",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:34:35.000Z",
+  "text": "@pravijn @adamilenich RUCK-MAXXING BABY LFG 💪💪💪",
+  "url": "https://x.com/rektdiomedes/status/2122866021979615674",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 41,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122740729378476330",
+   "text": "went outside cause everything is going down \n\n@rektdiomedes @adamilenich https://t.co/lhxH0rlMDw https://t.co/VphgGcdX2A"
+  }
+ },
+ {
+  "id": "2122866337752265001",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:35:50.000Z",
+  "text": "@Nuel_fxt @PhilMrlo @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 https://t.co/QkvBBM71R8",
+  "url": "https://x.com/rektdiomedes/status/2122866337752265001",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 36,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122688038337712240",
+   "text": "@rektdiomedes @PhilMrlo @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 This is time to accumulate $FXN 🙏💥"
+  }
+ },
+ {
+  "id": "2122866559219814651",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:36:43.000Z",
+  "text": "@thelearningpill @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Is an exquisite one my dear Pill :)",
+  "url": "https://x.com/rektdiomedes/status/2122866559219814651",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 57,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122661494970253316",
+   "text": "@rektdiomedes @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 the fxn chad 🫡"
+  }
+ },
+ {
+  "id": "2122866875457765421",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:37:58.000Z",
+  "text": "@JohnMavler Fascinating... had never seen that before!",
+  "url": "https://x.com/rektdiomedes/status/2122866875457765421",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 22,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122619508989026368",
+   "text": "@rektdiomedes Why btc follows netflix? https://t.co/ZwE75yYnUn"
+  }
+ },
+ {
+  "id": "2122867709587165341",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:41:17.000Z",
+  "text": "@the_smart_ape @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Good question man :)\n\nWill have to write follow-up...\n\nI'm definitely tempted to buy some $VVV though... and then maybe something like $CARDS ... also bought some $TRUE recently and would like to accumulate more... and then just other defi blue chips similar to $FXN basically :)",
+  "url": "https://x.com/rektdiomedes/status/2122867709587165341",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 100,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122612722021851181",
+   "text": "@rektdiomedes @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 good read. what are the other 5-6 on your list? curious lol"
+  }
+ },
+ {
+  "id": "2122868163553743107",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:43:05.000Z",
+  "text": "@thehaiduk @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Yes... the actual long-term societal outlook is blackpills upon blackpills... but the (nominal) prices of assets I think will start going back up eventually, even if the above doesn't see improvement...",
+  "url": "https://x.com/rektdiomedes/status/2122868163553743107",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 51,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122605780528513212",
+   "text": "@rektdiomedes @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 The dawn will still come and we will try again🌞 \nPersonally, hard to see this 'dark age' coming to an end just cuz of geopolitics, and also of more and more upcoming regulations (look at the EU stance on crypto) - but let's hope for the best"
+  }
+ },
+ {
+  "id": "2122868646846542079",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:45:01.000Z",
+  "text": "@ccdcdcdcdccdcd @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Probably anywhere from 1-4 months I would guess... depends a lot on how blackpilled one is on the Fed and the extent to which they have been politicized... \n\nWorst case scenario I could see them stop hiking but not cut at all for another two years... we will see...",
+  "url": "https://x.com/rektdiomedes/status/2122868646846542079",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 41,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122599097630871614",
+   "text": "@rektdiomedes @PhilMrlo @Nuel_fxt @CryptoISFreedom @0xWhizMiz @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 when should be peak of rate hikes"
+  }
+ },
+ {
+  "id": "2122869302999323126",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:47:37.000Z",
+  "text": "@0xadriandefi Yes... the age old question... to what extent is the government acting out of a) incompetence or b) malice :)",
+  "url": "https://x.com/rektdiomedes/status/2122869302999323126",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 32,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122583723702952067",
+   "text": "I'm obviously biased, but not so sure Trump and his friends really know what they are doing. If a game gets too complicated, I wouldn't go all in. But I also don't have a lot of trust in the competence of politicians in general. \n\nStill seems like we are getting very good entries as investors with a long time horizon."
+  }
+ },
+ {
+  "id": "2122869452740112793",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:48:13.000Z",
+  "text": "@0xWhizMiz @PhilMrlo @Nuel_fxt @CryptoISFreedom @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 Love it Miz lezgo man 💪🤝",
+  "url": "https://x.com/rektdiomedes/status/2122869452740112793",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 49,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122583417141510636",
+   "text": "@rektdiomedes @PhilMrlo @Nuel_fxt @CryptoISFreedom @lampropeltis_ @kmets_ @taowang1 @aladdindao_fans @0xDrVV @GoatXII3 1000% agreed rekt\n\nIt's a great time to accumulate your fav coins/tokens and eth and fxn are always on top of my list"
+  }
+ },
+ {
+  "id": "2122870056103330100",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:50:37.000Z",
+  "text": "@Pickle_cRypto Ahhh... I've heard of it but haven't read it!\n\nWill add it to my list :)",
+  "url": "https://x.com/rektdiomedes/status/2122870056103330100",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 57,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122582838964847071",
+   "text": "@rektdiomedes man, honestly, you should read the Red Rising books (split into 2 trilogies and a final book not yet out). Book 1 is similar vibes to lord of the flies/battle royale/hunger games. But its so much more, best fiction novels I've read in 2-3 yrs. trust me."
+  }
+ },
+ {
+  "id": "2122870614591443169",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T01:52:50.000Z",
+  "text": "@splinter0n 🤝 https://t.co/2nDS8exR6b",
+  "url": "https://x.com/rektdiomedes/status/2122870614591443169",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 23,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122569301647577464",
+   "text": "@rektdiomedes https://t.co/t6u7SK1rwa"
+  }
+ },
+ {
+  "id": "2122886203271966820",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T02:54:46.000Z",
+  "text": "RT @cyrille_briere: Almost 2/3 of fxUSD supply left and the peg moved 1 bps. Max.\n\nHere's why: f(x) Protocol was built as a leverage tradin…",
+  "url": "https://x.com/rektdiomedes/status/2122886203271966820",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 763,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122676141580562714",
+   "text": "Almost 2/3 of fxUSD supply left and the peg moved 1 bps. Max.\n\nHere's why: f(x) Protocol was built as a leverage trading platform. Meaning fxUSD is designed to handle significant supply volatility while remaining reliable at all times.\nTraders get peace of mind knowing neither funding nor liquidation hunts will eat their position, and stable users get a real onchain alternative."
+  }
+ },
+ {
+  "id": "2122886245974004158",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T02:54:57.000Z",
+  "text": "@cyrille_briere 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122886245974004158",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 18,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122676141580562714",
+   "text": "Almost 2/3 of fxUSD supply left and the peg moved 1 bps. Max.\n\nHere's why: f(x) Protocol was built as a leverage trading platform. Meaning fxUSD is designed to handle significant supply volatility while remaining reliable at all times.\nTraders get peace of mind knowing neither funding nor liquidation hunts will eat their position, and stable users get a real onchain alternative."
+  }
+ },
+ {
+  "id": "2122886641844891721",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T02:56:31.000Z",
+  "text": "RT @lampropeltis_: Part of the recent crypto sell-off may be people raising cash for the Anthropic IPO. At least that's how some in the mar…",
+  "url": "https://x.com/rektdiomedes/status/2122886641844891721",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 810,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122781182039351713",
+   "text": "Part of the recent crypto sell-off may be people raising cash for the Anthropic IPO. At least that's how some in the market are reading it.\n\nI doubt most of them want out of crypto. They probably just needed dollars, and selling was the quickest way to get them.\n\nBut selling isn't the only way. With fxMINT on @protocol_fx you can borrow $fxUSD against your $ETH or $BTC and keep your exposure. Unde"
+  }
+ },
+ {
+  "id": "2122886687059501180",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T02:56:42.000Z",
+  "text": "@lampropeltis_ @protocol_fx Very well said my dear Lampro 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122886687059501180",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 29,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122781182039351713",
+   "text": "Part of the recent crypto sell-off may be people raising cash for the Anthropic IPO. At least that's how some in the market are reading it.\n\nI doubt most of them want out of crypto. They probably just needed dollars, and selling was the quickest way to get them.\n\nBut selling isn't the only way. With fxMINT on @protocol_fx you can borrow $fxUSD against your $ETH or $BTC and keep your exposure. Unde"
+  }
+ },
+ {
+  "id": "2122887166082847131",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T02:58:36.000Z",
+  "text": "@Usoppu 100% man. I derive immense power from the posts I see on this site. \n\nIndeed I'd say 80% of my favorite stuff on the internet is from here... other 20% probably YT...",
+  "url": "https://x.com/rektdiomedes/status/2122887166082847131",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 59,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122598457177407632",
+   "text": "you never really know who is watching, and how much a random post might help someone\n\nwhat feels like just another update to you could be the exact push someone needs to fix their habits, start building, or finally bet on themselves\n\nso never stop showing up and sharing your journey in here\n\nsometimes the smallest thing you post makes the biggest difference to someone on the other side of the scre"
+  }
+ },
+ {
+  "id": "2122887941215137858",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:01:41.000Z",
+  "text": "@crypto_linn https://t.co/FTmtNp91Oy",
+  "url": "https://x.com/rektdiomedes/status/2122887941215137858",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 194,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122735264502366526",
+   "text": "a volatile \"Store of Value\" https://t.co/lb1IfOIbyd"
+  }
+ },
+ {
+  "id": "2122888939379810397",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:05:39.000Z",
+  "text": "@BackTheBunny A chiselled countenance, as they used to say :)\n\nBut yeah, is wild man... people looked so much older back in the day...",
+  "url": "https://x.com/rektdiomedes/status/2122888939379810397",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 162,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122708645301403975",
+   "text": "By 35-40, a man has largely authored his own face. His countenance resembles the life he's lived. Biology supplies the features; experience shapes their expression. Adversity chisels, discipline sharpens, indulgence softens.\n\nYouth is the face you're given. Middle age is the face you've earned. Nature drafts it, hardship makes revisions. Physiognomy supplies both a temperamental signature and reco"
+  }
+ },
+ {
+  "id": "2122888997416341721",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T03:05:53.000Z",
+  "text": "RT @QuotableCrypto: 🟣 Blueprint for growth .............\n🟣 @0xDevinG ..................\n🟣 11.10.24 ................ https://t.co/KS5z23RfU0",
+  "url": "https://x.com/rektdiomedes/status/2122888997416341721",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 777,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122816108428181671",
+   "text": "🟣 Blueprint for growth .............\n🟣 @0xDevinG ..................\n🟣 11.10.24 ................ https://t.co/KS5z23RfU0"
+  }
+ },
+ {
+  "id": "2122889127729172911",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:06:24.000Z",
+  "text": "@QuotableCrypto @0xDevinG Gud dude that @0xDevinG 💪",
+  "url": "https://x.com/rektdiomedes/status/2122889127729172911",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 56,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122816108428181671",
+   "text": "🟣 Blueprint for growth .............\n🟣 @0xDevinG ..................\n🟣 11.10.24 ................ https://t.co/KS5z23RfU0"
+  }
+ },
+ {
+  "id": "2122889279458197967",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:07:00.000Z",
+  "text": "@GuigsLuke Lezgo brother 💪",
+  "url": "https://x.com/rektdiomedes/status/2122889279458197967",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 29,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122696757540798847",
+   "text": "I’m tired , I’ve had 5 hours sleep at best \n\nI’ve just worked 48 hours, 2 days 2 nights \n\nThe weather is horrendous \n\nThe markets pretty shit to \n\nBut…..\n\nI’ve 5k steps to do \n\nSo, time to hit the walking pad \n\nMight throw a little shoulder work out in there to \n\nNo pain, no Gain \n\nPlus, might help me sleep tonight"
+  }
+ },
+ {
+  "id": "2122889786134598022",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T03:09:01.000Z",
+  "text": "RT @FIREDxyz: a green candle in $ETH US Spot ETF Net Flows after so many red days.\n\nEthereum is so fcuking back. https://t.co/43SETf3Aic",
+  "url": "https://x.com/rektdiomedes/status/2122889786134598022",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 19,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122758603732140232",
+   "text": "a green candle in $ETH US Spot ETF Net Flows after so many red days.\n\nEthereum is so fcuking back. https://t.co/43SETf3Aic"
+  }
+ },
+ {
+  "id": "2122889846788178221",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:09:15.000Z",
+  "text": "@FIREDxyz I'll take it :)",
+  "url": "https://x.com/rektdiomedes/status/2122889846788178221",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 38,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122758603732140232",
+   "text": "a green candle in $ETH US Spot ETF Net Flows after so many red days.\n\nEthereum is so fcuking back. https://t.co/43SETf3Aic"
+  }
+ },
+ {
+  "id": "2122890021426389390",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:09:57.000Z",
+  "text": "@Ceazor7 Gud stuff Ceazor 💪",
+  "url": "https://x.com/rektdiomedes/status/2122890021426389390",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 55,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122709791806230542",
+   "text": "Scrolling with Ceazor - 11/17/2026 https://t.co/M6tFfuZNrS"
+  }
+ },
+ {
+  "id": "2122890846404018538",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:13:13.000Z",
+  "text": "@Usoppu 🤝 https://t.co/vvXKIbDSWW",
+  "url": "https://x.com/rektdiomedes/status/2122890846404018538",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 40,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122637185153430000",
+   "text": "one of the easiest times to buy for me is during extreme fear \n\nnfa, but i'll emphasize this particular 2. again:\n\n2. bears and choppy markets are where the real bags get built. selling there is how you stay poor https://t.co/eKXxET1f3B https://t.co/Wi1n3Y0z8I"
+  }
+ },
+ {
+  "id": "2122891463902003350",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T03:15:41.000Z",
+  "text": "RT @EVNFT: Hey everyone, I’m actively exploring new opportunities across crypto, fintech, and tech, primarily in growth, business developme…",
+  "url": "https://x.com/rektdiomedes/status/2122891463902003350",
+  "likes": 0,
+  "retweets": 34,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 774,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122780610678898777",
+   "text": "Hey everyone, I’m actively exploring new opportunities across crypto, fintech, and tech, primarily in growth, business development, marketing, and operations.\n\nI have 7+ years of experience building and scaling early-stage companies, with an extensive background in DeFi, partnerships, and GTM strategy.\n\nIf anyone knows of teams hiring or can facilitate a warm intro, I’d genuinely appreciate it. Ha"
+  }
+ },
+ {
+  "id": "2122891496810570236",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:15:48.000Z",
+  "text": "@EVNFT RT'd 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122891496810570236",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 62,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122780610678898777",
+   "text": "Hey everyone, I’m actively exploring new opportunities across crypto, fintech, and tech, primarily in growth, business development, marketing, and operations.\n\nI have 7+ years of experience building and scaling early-stage companies, with an extensive background in DeFi, partnerships, and GTM strategy.\n\nIf anyone knows of teams hiring or can facilitate a warm intro, I’d genuinely appreciate it. Ha"
+  }
+ },
+ {
+  "id": "2122891792886473106",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:16:59.000Z",
+  "text": "@Nomaticcap @metricxyz Gud stuff Nomat 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122891792886473106",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
   "impressions": 67,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122821946698260944",
+   "text": "This is such a good guide from the @metricxyz team.\n\nI was experimenting a bit with single sided LPing on Metric recently and I put a small portion of my ethereum:0x57e114b691db790c35207b2e685d4a43181e6061  holdings into a single sided LP. \n\nENA was around $0.17 - $0.16 when I entered. I had bins that were all ENA at the time. \n\nENA sold off down to $0.11 and instead of being down 35% on my positi"
+  }
+ },
+ {
+  "id": "2122892381192364544",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:19:19.000Z",
+  "text": "@jedifractal https://t.co/ADZiUpBm4v",
+  "url": "https://x.com/rektdiomedes/status/2122892381192364544",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 65,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122604248844124285",
+   "text": "All that is gold does not glitter,\nNot all those who wander are lost;\nThe old that is strong does not wither,\nDeep roots are not reached by the frost.\n\nFrom the ashes, a fire shall be woken,\nA light from the shadows shall spring;\nRenewed shall be blade that was broken,\nThe crownless again shall be king.\n- J. R. R. Tolkien"
+  }
+ },
+ {
+  "id": "2122893763488231691",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:24:49.000Z",
+  "text": "@sodnjm Wild times indeed my friend 🤝 https://t.co/ESwXBbZQRu",
+  "url": "https://x.com/rektdiomedes/status/2122893763488231691",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 29,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122796023705727328",
+   "text": "Gonna grab me some popcorn, world is turning insane in every possible way rn\n(I’m totaly fine btw) https://t.co/O6vBAHUgu4"
+  }
+ },
+ {
+  "id": "2122894443724279937",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:27:31.000Z",
+  "text": "@KinorcKinorc Lezgo 💪",
+  "url": "https://x.com/rektdiomedes/status/2122894443724279937",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 31,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122784090470428866",
+   "text": "Made this gluten free deep dish pizza/stromboli type thing\n\nAnd a pizza roll\n\n🫡 https://t.co/BjXU2uG5fy"
+  }
+ },
+ {
+  "id": "2122894739209093140",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:28:41.000Z",
+  "text": "@pravijn Yup is wild how much older people used to look man...",
+  "url": "https://x.com/rektdiomedes/status/2122894739209093140",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 48,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122724537938964839",
+   "text": "Microplastics https://t.co/5MKa4EFNrP"
+  }
+ },
+ {
+  "id": "2122895583924957667",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:32:03.000Z",
+  "text": "@llamaonthebrink @TychePrime @CMCC_Global Lezgo 💪",
+  "url": "https://x.com/rektdiomedes/status/2122895583924957667",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 44,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122730873753666040",
+   "text": "This is our first collaboration for non-crypto market categories!\n\nWe’ll be working with @TychePrime, a partner of @CMCC_Global to elevate our Political and Geopolitical market offerings.\n\nTychePrime was an active player in many of the Iran War and Ukraine War polymarkets.\n\nNow they’re a curation partner for Trueo!\n\nEvent contracts on politics is one of the oldest and most successful use cases of "
+  }
+ },
+ {
+  "id": "2122896590620737658",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:36:03.000Z",
+  "text": "Yup even the rate raises man... they're ostensibly doing them for austerity reasons but the higher they raise them the higher the debt payments go and and thus the bigger the budget deficit is...\n\nSo in a roundabout way the rate raises catalyze debasement just as fast as any cuts could...",
+  "url": "https://x.com/rektdiomedes/status/2122896590620737658",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 119,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122712098077827258",
+   "text": "The world’s smartest man who can shoot rockets into the sky and catch them with chopsticks tried to reduce government spending and gave up within just a few months.\n\nThis should make you violently bullish crypto"
+  }
+ },
+ {
+  "id": "2122896865469530560",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:37:08.000Z",
+  "text": "@CryptoJonesRC @metricxyz Yup well said brother 🤝",
+  "url": "https://x.com/rektdiomedes/status/2122896865469530560",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 32,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122622026204553287",
+   "text": "I will not buy newly launched tokens atm. It's just not worth it for me in this market.\n\nI'll be focusing on\n\n&gt; more gym/health maxxing\n&gt; points farming for potential airdrops (@metricxyz is one of them)\n&gt; monitoring the markets until opportunities present themselves again."
+  }
+ },
+ {
+  "id": "2122897281074737475",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:38:47.000Z",
+  "text": "@infinitybanyan :)",
+  "url": "https://x.com/rektdiomedes/status/2122897281074737475",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 40,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122794232448496118",
+   "text": "Can’t wait to 2x my alts after one more -90% leg down https://t.co/Fx3krJQ0Vf"
+  }
+ },
+ {
+  "id": "2122899869664763987",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "reply",
+  "created_at": "2026-11-18T03:49:05.000Z",
+  "text": "@CoinSurveyor Jesus... that is absolutely horrible man...\n\nMassive, massive condolences... \n\nLost my dad a few years ago too, and my mom very suddenly several years before that...\n\nWill send all the positive prayers/energy possible 🙏",
+  "url": "https://x.com/rektdiomedes/status/2122899869664763987",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 103,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122883696252559851",
+   "text": "Today has been a rough day. \n\nI went to complete a survey up in Erie, Co. my company has been scaling and my Dads moving his clients over to me. Talked to him about what I thought would resolve the boundary we were working on him around 8:10. Tried to call him back 30 mins later"
+  }
+ },
+ {
+  "id": "2122910393249276376",
+  "username": "rektdiomedes",
+  "username_canon": "rektdiomedes",
+  "type": "retweet",
+  "created_at": "2026-11-18T04:30:54.000Z",
+  "text": "RT @CoinSurveyor: Today has been a rough day. \n\nI went to complete a survey up in Erie, Co. my company has been scaling and my Dads moving…",
+  "url": "https://x.com/rektdiomedes/status/2122910393249276376",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 703,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122883696252559851",
+   "text": "Today has been a rough day. \n\nI went to complete a survey up in Erie, Co. my company has been scaling and my Dads moving his clients over to me. Talked to him about what I thought would resolve the boundary we were working on him around 8:10. Tried to call him back 30 mins later"
+  }
  }
 ]

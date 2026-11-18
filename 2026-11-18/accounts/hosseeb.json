@@ -1,0 +1,334 @@
+[
+ {
+  "id": "2122728396212064743",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-17T16:27:42.000Z",
+  "text": "RT @KevinWSHPod: . @hosseeb reveals $vvv is the crypto asset he has the most belief in right now\n\n“Venice is a privacy preserving AI infere…",
+  "url": "https://x.com/hosseeb/status/2122728396212064743",
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1501,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122675243492016194",
+   "text": ". @hosseeb reveals $vvv is the crypto asset he has the most belief in right now\n\n“Venice is a privacy preserving AI inference platform. I like to think of it like a private ChatGPT”\n\n“This business has been growing like gangbusters. They’re now well over 100 million revenue run rate. I think when we first spoke to them, this must have been like last December, they were on more like 15 million reve"
+  }
+ },
+ {
+  "id": "2122728647413088708",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-17T16:28:42.000Z",
+  "text": "@agastyateja @KevinWSHPod We bought both",
+  "url": "https://x.com/hosseeb/status/2122728647413088708",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 100,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122723247020007563",
+   "text": "@KevinWSHPod @hosseeb He shilled it because it’s his bag. Stop the crap. They didn’t even buy the token .. they got equity in the company 😂 https://t.co/4ziSMhTECL"
+  }
+ },
+ {
+  "id": "2122736181758792007",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-17T16:58:38.000Z",
+  "text": "FX is a $10T market. But stablecoin-backed FX is just in its infancy.\n\n@CodexFX is going to take this market mainstream. They've already 10x'd in volume this year alone. \n\nProud to continue backing this team! https://t.co/G9uCfCQwIO",
+  "url": "https://x.com/hosseeb/status/2122736181758792007",
+  "likes": 125,
+  "retweets": 5,
+  "replies": 6,
+  "quotes": 1,
+  "impressions": 14333,
+  "bookmarks": 47,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122709086148194446",
+   "text": "Announcing our $30M Series A raise, led by @PanteraCapital, with participation from @Dragonfly, @CBVentures, and others.\n\nWe're building the stablecoin FX layer for the next century of finance.\n\nJoin us. https://t.co/pnkPzB0Xea"
+  }
+ },
+ {
+  "id": "2122751587055796606",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-17T17:59:51.000Z",
+  "text": "What exactly is supposed to be scandalous about this? \n\nAnthropic was extremely public about their position on chip exports to China. Dario has been pounding the table on it  for years. Lobbying is how companies express their political preferences to lawmakers, it's 100% legal and doesn't imply anything nefarious.\n\nSo what's the big deal? \n\nSounds like this story is supposed to be innuendo that Anthropic was secretly connected to the Jensen ouster. But this article produces 0 new evidence of that. Of course they were paying lobbying firms aligned with their publicly stated views.\n\nSeems like more Anthropic derangement syndrome.",
+  "url": "https://x.com/hosseeb/status/2122751587055796606",
+  "likes": 45,
+  "retweets": 1,
+  "replies": 17,
+  "quotes": 0,
+  "impressions": 9291,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122709959641059589",
+   "text": "Anthropic Paid Rubio's Ex-Chief Of Staff's Firm $740,000. After The Jensen Memo, It Lobbied His NSC https://t.co/LAvU0lgjDq"
+  }
+ },
+ {
+  "id": "2122769883821936778",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-17T19:12:34.000Z",
+  "text": "@beniduboss Agreed",
+  "url": "https://x.com/hosseeb/status/2122769883821936778",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 304,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122754405485396020",
+   "text": "@hosseeb Everything I’ve read about this scandal so far has been incredible lackluster \n\nImmensely disappointed"
+  }
+ },
+ {
+  "id": "2122821734219039227",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-17T22:38:36.000Z",
+  "text": "Infuriating story about the DOJ using Pangram to persuade a judge to invalidate defense motions.\n\nIf the motions are not 100% human-written, DOJ claims they are are a \"waste of judicial resources\" and they should not have to respond to them.\n\nThis is absurd. Who cares if AI wrote your motions? The cost is internalized by the defendant. This is just welfare for lawyers. Why should both parties have to waste money?\n\nI can't wait for AI-based arbitration courts. Both parties contractually agree to a binding ruling, both parties generate AI-powered briefs, and an AI judge instantly renders a verdict.\n\nLitigation will become cheap and instantaneous.\n\nhttps://t.co/ohUFjW4Zkb",
+  "url": "https://x.com/hosseeb/status/2122821734219039227",
+  "likes": 40,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 1,
+  "impressions": 7562,
+  "bookmarks": 7,
+  "referenced": null
+ },
+ {
+  "id": "2122841983731527930",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-17T23:59:04.000Z",
+  "text": "@beniduboss @max_spero_",
+  "url": "https://x.com/hosseeb/status/2122841983731527930",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 282,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122830933053321637",
+   "text": "@hosseeb Give me any &lt;1900 literature book you want and by tweaking a few things I’ll get pangram to score it 100% AI"
+  }
+ },
+ {
+  "id": "2122849414436004184",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-18T00:28:35.000Z",
+  "text": "RT @WuBlockchain: Dragonfly Partner Reflects on Missing Out on Solana’s 4-Cent Seed Round  \n\nIn the November 12, 2026 When Shift Happens @K…",
+  "url": "https://x.com/hosseeb/status/2122849414436004184",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1176,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122842219942195315",
+   "text": "Dragonfly Partner Reflects on Missing Out on Solana’s 4-Cent Seed Round  \n\nIn the November 12, 2026 When Shift Happens @KevinWSHPod episode, Dragonfly managing partner Haseeb @hosseeb said he passed on Solana's seed round at four cents as a VC in 2017 and 2018. \n\nHe wrote a memo for every deal he passed on; his unusually detailed Solana memo worked through it like homework, yet the result was no i"
+  }
+ },
+ {
+  "id": "2122849476964729240",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T00:28:50.000Z",
+  "text": "@beniduboss @max_spero_ You dug your own grave",
+  "url": "https://x.com/hosseeb/status/2122849476964729240",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 188,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122842228087472329",
+   "text": "@hosseeb @max_spero_ Brother don’t get me in trouble now"
+  }
+ },
+ {
+  "id": "2122889751284142192",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T03:08:52.000Z",
+  "text": "@OlivierAxelX Ah yes, as we all know, Anthropic wanted to topple Nvidia because they did not rely on them or the circus of circular financing. Masterful plan.\n\nStupid take. \n\nTheir own pre-IPO markets are also massively down because of how much the Jensen shakeup has rattled compute markets.",
+  "url": "https://x.com/hosseeb/status/2122889751284142192",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 180,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122832744560337344",
+   "text": "You don’t find it scandalous that an orchestrated leak from the US intelligence apparatus to the media, with the goal of toppling the CEO of a major US company vital to the global economy \n\nis timed in such a way that it happens to benefit in a decisive way the IPO of a rival company that spent money lobbying the US government, and could end up dominating every industry?\n\nJesus Christ, man"
+  }
+ },
+ {
+  "id": "2122890323240370609",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T03:11:09.000Z",
+  "text": "@helloitslynne @torvaman_ Stay positive",
+  "url": "https://x.com/hosseeb/status/2122890323240370609",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 110,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122871909729915254",
+   "text": "@torvaman_ @hosseeb I think he means outlook on life?"
+  }
+ },
+ {
+  "id": "2122893230194995350",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T03:22:42.000Z",
+  "text": "@OlivierAxelX According to you they succeeded in toppling the CEO of Nvidia and as a result, their stock is down, and Nvidia is likely to pull back their orgy of circular financing and being the backstop for the domestic compute buildout, which Anthropic depends on.\n\nExcellent theory.",
+  "url": "https://x.com/hosseeb/status/2122893230194995350",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 150,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122892257892118788",
+   "text": "You either have a reading disability or argue in bad faith. Possibly both\n\nI did not say Anthropic wanted to topple Nvidia. I said Anthropic wanted to topple the CEO of Nvidia\n\nPrecisely because Jensen opposes chip export controls, which Ant needs to keep the existential threat of Chinese opensource AI at bay"
+  }
+ },
+ {
+  "id": "2122906132046110943",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T04:13:58.000Z",
+  "text": "@OlivierAxelX State-backed quasi monopoly? Lolll\n\nOAI? Google? SPCX? Meta? \n\nYou think Ant believes Moonshot with Blackwells is their biggest competitor?\n\nBro what are you huffing?",
+  "url": "https://x.com/hosseeb/status/2122906132046110943",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 122,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122897464990552500",
+   "text": "Nvidia will get back on track. But even if Jensen is back, he will now have to toe the line to prove he’s no traitor to the US. Whoever succeeds him will also have to. This is a huge structural win for Anthropic\n\nFraming China as the enemy is key to Ant’s longterm success because it cancels out Chinese competition at home and grants them a state-backed quasi monopoly"
+  }
+ },
+ {
+  "id": "2122931093741695147",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-18T05:53:09.000Z",
+  "text": "RT @poppy_haze: BREAKING: Jensen Huang is in the datacenters ripping the Nvidia cards out - causing worldwide outages - saying “they’re min…",
+  "url": "https://x.com/hosseeb/status/2122931093741695147",
+  "likes": 0,
+  "retweets": 3614,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1141,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122794095240479153",
+   "text": "BREAKING: Jensen Huang is in the datacenters ripping the Nvidia cards out - causing worldwide outages - saying “they’re mine anyway”. He removed his leather jacket, revealing he’s all greased up, and they can’t get a hold of him because of the grease"
+  }
+ },
+ {
+  "id": "2122937538931474924",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-18T06:18:46.000Z",
+  "text": "RT @avichal: Well-Behaved Founders Seldom Make History\n-\nMost people make a fundamental mistake when they think about founders. They assume…",
+  "url": "https://x.com/hosseeb/status/2122937538931474924",
+  "likes": 0,
+  "retweets": 35,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 921,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122770377600369006",
+   "text": "Well-Behaved Founders Seldom Make History\n-\nMost people make a fundamental mistake when they think about founders. They assume founders are business people.\n\nGreat founders are not business people.\n\nFounders are artists who happen to be good at business.\n\nBusiness people operate within the world as it exists today and work forward. They see the world as it is.\n\nFounders imagine a world that doesn'"
+  }
+ },
+ {
+  "id": "2122942869694738573",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-18T06:39:57.000Z",
+  "text": "Can't believe I once spent a summer trying to learn Vim.\n\nFuture generations will never know the anguish.",
+  "url": "https://x.com/hosseeb/status/2122942869694738573",
+  "likes": 27,
+  "retweets": 0,
+  "replies": 21,
+  "quotes": 0,
+  "impressions": 2677,
+  "bookmarks": 1,
+  "referenced": null
+ },
+ {
+  "id": "2122953459863576720",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-18T07:22:02.000Z",
+  "text": "@marek_ Dvorak bros in shambles",
+  "url": "https://x.com/hosseeb/status/2122953459863576720",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 43,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122943771314905518",
+   "text": "@hosseeb Can't believe I spent a month transitioning to dvorak\n\nNot to mention having to relearn vim all over again"
+  }
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2122663932439699687",
+  "username": "AltcoinPsycho",
+  "username_canon": "AltcoinPsycho",
+  "type": "retweet",
+  "created_at": "2026-11-17T12:11:33.000Z",
+  "text": "RT @solana: JUST IN: @akashnet is building the first forward market for GPU compute, and it will run on Solana. https://t.co/TBApHLhlIJ",
+  "url": "https://x.com/AltcoinPsycho/status/2122663932439699687",
+  "likes": 0,
+  "retweets": 48,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 7552,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122647021588791657",
+   "text": "JUST IN: @akashnet is building the first forward market for GPU compute, and it will run on Solana. https://t.co/TBApHLhlIJ"
+  }
+ },
+ {
+  "id": "2122846912059765150",
+  "username": "AltcoinPsycho",
+  "username_canon": "AltcoinPsycho",
+  "type": "reply",
+  "created_at": "2026-11-18T00:18:39.000Z",
+  "text": "@ThinkingUSD This is correct, and it’s less distant of a future than one may think",
+  "url": "https://x.com/AltcoinPsycho/status/2122846912059765150",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2153,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122842377631260804",
+   "text": "Probably optimal flow for trading in the far future\n\nDeposit Stablecoins -&gt; Agent\n\nAgent asks what you want to trade, can be idea and then it suggests trades, or can be more abstracted\n\nAgent goes out and finds best pricing on available venues (ideally onchain for us crypto guys)"
+  }
+ }
+]

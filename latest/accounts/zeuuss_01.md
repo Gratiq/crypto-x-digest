@@ -1,15 +1,20 @@
-# @zeuuss_01 — посты за 2026-11-17
+# @zeuuss_01 — посты за 2026-11-18
 
 Всего: 1
 
-## 2026-11-16 16:57 UTC · цитата
+## 2026-11-18 04:49 UTC · цитата
 
-HOLY SH*T... this faceless channel pulled 185M views with just 38 posts 🤯
+F*CKING GENIUS… a faceless cartoon channel with 4.2K subs pulled 6.1M views on one Short 🤯
 
-- 48.6M views on the best video - 38.4M on this one - 82.5K followers
+→ 26 videos total
+→ 6.1M views on the top one
+→ 493K on another
 
-The format:
- - one 3D object on a cutting board - a counter shows the number of cuts - a second counter shows how many cubes it https://t.co/35pi64IjEZ https://t.co/5NYFFsbWyI
+The format is dead simple:
 
-❤ 6 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1340  
-https://x.com/zeuuss_01/status/2122373514070245568
+→ 1 cartoon character
+→ 1 short story with a twist
+→ 1 line of captions at a time https://t.co/wLvCjHMbmH https://t.co/5NYFFsboJa
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 584  
+https://x.com/zeuuss_01/status/2122915168984158243

@@ -1,213 +1,19 @@
 [
  {
-  "id": "2122502289915277569",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "original",
-  "created_at": "2026-11-17T01:29:14.000Z",
-  "text": "A wallet possibly linked to Arthur Hayes(@CryptoHayes) deposited 1,500 $ETH ($2.73M) into #Coinbase 4 hours ago.\n\nhttps://t.co/4NqSj2Z0KF https://t.co/jMcFJeo79I",
-  "text_flat": "A wallet possibly linked to Arthur Hayes(@CryptoHayes) deposited 1,500 $ETH ($2.73M) into #Coinbase 4 hours ago.  https://t.co/4NqSj2Z0KF https://t.co/jMcFJeo79I",
-  "url": "https://x.com/lookonchain/status/2122502289915277569",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 53,
-     "id": "983993370048630785",
-     "start": 41,
-     "username": "CryptoHayes"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 253,
-  "retweets": 12,
-  "replies": 54,
-  "quotes": 7,
-  "bookmarks": 11,
-  "impressions": 57639,
-  "score": 429,
-  "cashtags": [
-   "ETH"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122510725650546828",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "original",
-  "created_at": "2026-11-17T02:02:45.000Z",
-  "text": "Whale 0x4b10 withdrew 5,500 $ETH ($9.95M) and 5M $WLD ($1.32M) from #Binance over the past 2 days.\n\nhttps://t.co/kDEgHjF9Er https://t.co/y4jQIucFvt",
-  "text_flat": "Whale 0x4b10 withdrew 5,500 $ETH ($9.95M) and 5M $WLD ($1.32M) from #Binance over the past 2 days.  https://t.co/kDEgHjF9Er https://t.co/y4jQIucFvt",
-  "url": "https://x.com/lookonchain/status/2122510725650546828",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 207,
-  "retweets": 11,
-  "replies": 33,
-  "quotes": 2,
-  "bookmarks": 3,
-  "impressions": 42925,
-  "score": 315,
-  "cashtags": [
-   "ETH",
-   "WLD"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122518108850225555",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "quote",
-  "created_at": "2026-11-17T02:32:06.000Z",
-  "text": "The Erik Voorhees-linked wallets bought another 13,134 $ETH ($23.67M)!\n\nOver the past 6 days, these wallets have bought a total of 84,837 $ETH ($154M) at an average price of $1,931.\n\nThey still have $12.96M in stablecoins left to buy more.\nhttps://t.co/UCDdvaHjup https://t.co/bfQB2qxpwv",
-  "text_flat": "The Erik Voorhees-linked wallets bought another 13,134 $ETH ($23.67M)!  Over the past 6 days, these wallets have bought a total of 84,837 $ETH ($154M) at an average price of $1,931.  They still have $12.96M in stablecoins left to buy more. https://t.co/UCDdvaHjup https://t.co/bfQB2qxpwv",
-  "url": "https://x.com/lookonchain/status/2122518108850225555",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122143774906438101",
-    "type": "quoted"
-   }
-  ],
-  "entities": {},
-  "low_substance": false,
-  "likes": 276,
-  "retweets": 20,
-  "replies": 66,
-  "quotes": 6,
-  "bookmarks": 22,
-  "impressions": 55463,
-  "score": 508,
-  "cashtags": [
-   "ETH"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122528462963626121",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "original",
-  "created_at": "2026-11-17T03:13:14.000Z",
-  "text": "Whale 0x9a80 has capitulated on $ENA, depositing 20M $ENA ($2.33M) into #Binance 10 hours ago.\n\nThe whale bought 37.96M $ENA ($10.29M) at a high price of $0.27 a month ago and still holds 17.96M $ENA ($2.05M), with a total loss of $5.91M (-57.44%).\n\nhttps://t.co/q4hAzAv9VM https://t.co/qrrHzLiI8y",
-  "text_flat": "Whale 0x9a80 has capitulated on $ENA, depositing 20M $ENA ($2.33M) into #Binance 10 hours ago.  The whale bought 37.96M $ENA ($10.29M) at a high price of $0.27 a month ago and still holds 17.96M $ENA ($2.05M), with a total loss of $5.91M (-57.44%).  https://t.co/q4hAzAv9VM https://t.co/qrrHzLiI8y",
-  "url": "https://x.com/lookonchain/status/2122528462963626121",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 213,
-  "retweets": 13,
-  "replies": 47,
-  "quotes": 8,
-  "bookmarks": 7,
-  "impressions": 50351,
-  "score": 377,
-  "cashtags": [
-   "ENA"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122574870605385787",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "quote",
-  "created_at": "2026-11-17T06:17:39.000Z",
-  "text": "Abraxas Capital, whose API keys may have been leaked, has closed almost all of its short positions on #Hyperliquid, leaving only $11.6M in open positions.\n\nOver the past 24 hours, its account value has dropped by $161M to just $22.4M.\nhttps://t.co/nKTfAQw9kA https://t.co/jOCII7jKE9",
-  "text_flat": "Abraxas Capital, whose API keys may have been leaked, has closed almost all of its short positions on #Hyperliquid, leaving only $11.6M in open positions.  Over the past 24 hours, its account value has dropped by $161M to just $22.4M. https://t.co/nKTfAQw9kA https://t.co/jOCII7jKE9",
-  "url": "https://x.com/lookonchain/status/2122574870605385787",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122318038301397353",
-    "type": "quoted"
-   }
-  ],
-  "entities": {},
-  "low_substance": false,
-  "likes": 217,
-  "retweets": 6,
-  "replies": 54,
-  "quotes": 6,
-  "bookmarks": 13,
-  "impressions": 55026,
-  "score": 374,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122576882965352805",
-  "username": "lookonchain",
-  "username_canon": "lookonchain",
-  "type": "original",
-  "created_at": "2026-11-17T06:25:39.000Z",
-  "text": "Trader 0xC289 opened a 4x long on 4.1M $ARIA ($925K) on @Aster_DEX and is now up $247K in unrealized profit, with a 106.72% ROI.\n\nhttps://t.co/r8FPaElde7 https://t.co/Unl5RxDjOM",
-  "text_flat": "Trader 0xC289 opened a 4x long on 4.1M $ARIA ($925K) on @Aster_DEX and is now up $247K in unrealized profit, with a 106.72% ROI.  https://t.co/r8FPaElde7 https://t.co/Unl5RxDjOM",
-  "url": "https://x.com/lookonchain/status/2122576882965352805",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 66,
-     "id": "1789908971953799168",
-     "start": 56,
-     "username": "Aster_DEX"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 84,
-  "retweets": 2,
-  "replies": 32,
-  "quotes": 1,
-  "bookmarks": 2,
-  "impressions": 43966,
-  "score": 159,
-  "cashtags": [
-   "ARIA"
-  ],
-  "hashtags": []
- },
- {
   "id": "2122633788127940768",
   "username": "lookonchain",
   "username_canon": "lookonchain",
   "type": "original",
   "created_at": "2026-11-17T10:11:46.000Z",
   "text": "The Binance hacker has started laundering the 602,402 $ETH ($1.09B) he holds!\n\nOver the past 3 hours, he has transferred out 74,880 $ETH ($136.8M) and is now swapping it for $BTC via #THORChain.\n\nhttps://t.co/jKWvcOSJCB https://t.co/0LFGTFRknc",
-  "text_flat": "The Binance hacker has started laundering the 602,402 $ETH ($1.09B) he holds!  Over the past 3 hours, he has transferred out 74,880 $ETH ($136.8M) and is now swapping it for $BTC via #THORChain.  https://t.co/jKWvcOSJCB https://t.co/0LFGTFRknc",
   "url": "https://x.com/lookonchain/status/2122633788127940768",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 306,
-  "retweets": 31,
-  "replies": 76,
-  "quotes": 25,
-  "bookmarks": 20,
-  "impressions": 62461,
-  "score": 646,
-  "cashtags": [
-   "BTC",
-   "ETH"
-  ],
-  "hashtags": []
+  "likes": 498,
+  "retweets": 45,
+  "replies": 93,
+  "quotes": 31,
+  "impressions": 99436,
+  "bookmarks": 40,
+  "referenced": null
  },
  {
   "id": "2122671449739780214",
@@ -216,25 +22,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:41:25.000Z",
   "text": "Two newly created wallets withdrew 299,045 $UNI ($1.58M) and 355B $PEPE ($1.38M) from #OKX and #Binance 5 hours ago.\n\nhttps://t.co/H7MH7yPHlP\nhttps://t.co/qcu1l6XcjM https://t.co/Bkqf7ijamP",
-  "text_flat": "Two newly created wallets withdrew 299,045 $UNI ($1.58M) and 355B $PEPE ($1.38M) from #OKX and #Binance 5 hours ago.  https://t.co/H7MH7yPHlP https://t.co/qcu1l6XcjM https://t.co/Bkqf7ijamP",
   "url": "https://x.com/lookonchain/status/2122671449739780214",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 70,
-  "retweets": 7,
-  "replies": 15,
+  "likes": 153,
+  "retweets": 13,
+  "replies": 24,
   "quotes": 1,
-  "bookmarks": 7,
-  "impressions": 31765,
-  "score": 131,
-  "cashtags": [
-   "PEPE",
-   "UNI"
-  ],
-  "hashtags": []
+  "impressions": 52913,
+  "bookmarks": 10,
+  "referenced": null
  },
  {
   "id": "2122682904652460436",
@@ -243,52 +38,14 @@
   "type": "original",
   "created_at": "2026-11-17T13:26:56.000Z",
   "text": "AguilaTrades(@AguilaTrades) lost all 6 trades in the past 24 hours, for a total loss of $2.68M!\n\nhttps://t.co/jaJBeXPhew https://t.co/M8x6T71Aby",
-  "text_flat": "AguilaTrades(@AguilaTrades) lost all 6 trades in the past 24 hours, for a total loss of $2.68M!  https://t.co/jaJBeXPhew https://t.co/M8x6T71Aby",
   "url": "https://x.com/lookonchain/status/2122682904652460436",
-  "lang": "en",
-  "conversation_id": "2122682904652460436",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 26,
-     "id": "1715394475021742081",
-     "start": 13,
-     "username": "AguilaTrades"
-    }
-   ],
-   "urls": [
-    {
-     "description": "查看交易员 0x1f25…F925 在 Hyperliquid、Aster 等 Perp DEX 上的仓位、交易记录与盈亏表现，并通过 Hyperbot 进行分析或跟单。",
-     "display_url": "hyperbot.network/trader/0x1f250…",
-     "end": 120,
-     "expanded_url": "https://hyperbot.network/trader/0x1f250Df59A777d61Cb8bd043c12970F3AFE4F925",
-     "start": 97,
-     "status": 200,
-     "title": "交易员 0x1f25…F925 表现分析｜Hyperliquid & Aster Perp DEX",
-     "unwound_url": "https://hyperbot.network/trader/0x1f250Df59A777d61Cb8bd043c12970F3AFE4F925",
-     "url": "https://t.co/jaJBeXPhew"
-    },
-    {
-     "display_url": "pic.x.com/M8x6T71Aby",
-     "end": 144,
-     "expanded_url": "https://x.com/lookonchain/status/2122682904652460436/photo/1",
-     "media_key": "3_2122682736402112512",
-     "start": 121,
-     "url": "https://t.co/M8x6T71Aby"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 47,
-  "retweets": 3,
-  "replies": 17,
-  "quotes": 0,
-  "bookmarks": 4,
-  "impressions": 23598,
-  "score": 94,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 254,
+  "retweets": 8,
+  "replies": 48,
+  "quotes": 7,
+  "impressions": 56348,
+  "bookmarks": 11,
+  "referenced": null
  },
  {
   "id": "2122685233153904760",
@@ -297,72 +54,146 @@
   "type": "original",
   "created_at": "2026-11-17T13:36:11.000Z",
   "text": "Nov 17 Update:\n\n#Bitcoin ETFs:\n1D NetFlow: +801 $BTC(+$52.01M)🟢\n7D NetFlow: -11,710 $BTC(-$760.61M)🔴\n\n#Ethereum ETFs:\n1D NetFlow: -7,509 $ETH(-$13.67M)🔴\n7D NetFlow: -116,722 $ETH(-$212.44M)🔴 https://t.co/gCSs1Kgjip",
-  "text_flat": "Nov 17 Update:  #Bitcoin ETFs: 1D NetFlow: +801 $BTC(+$52.01M)🟢 7D NetFlow: -11,710 $BTC(-$760.61M)🔴  #Ethereum ETFs: 1D NetFlow: -7,509 $ETH(-$13.67M)🔴 7D NetFlow: -116,722 $ETH(-$212.44M)🔴 https://t.co/gCSs1Kgjip",
   "url": "https://x.com/lookonchain/status/2122685233153904760",
-  "lang": "en",
-  "conversation_id": "2122685233153904760",
-  "referenced": [],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 52,
-     "start": 48,
-     "tag": "BTC"
-    },
-    {
-     "end": 88,
-     "start": 84,
-     "tag": "BTC"
-    },
-    {
-     "end": 141,
-     "start": 137,
-     "tag": "ETH"
-    },
-    {
-     "end": 178,
-     "start": 174,
-     "tag": "ETH"
-    }
-   ],
-   "hashtags": [
-    {
-     "end": 24,
-     "start": 16,
-     "tag": "Bitcoin"
-    },
-    {
-     "end": 111,
-     "start": 102,
-     "tag": "Ethereum"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/gCSs1Kgjip",
-     "end": 214,
-     "expanded_url": "https://x.com/lookonchain/status/2122685233153904760/photo/1",
-     "media_key": "3_2122685208176775169",
-     "start": 191,
-     "url": "https://t.co/gCSs1Kgjip"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 40,
-  "retweets": 5,
-  "replies": 11,
+  "likes": 147,
+  "retweets": 14,
+  "replies": 44,
+  "quotes": 8,
+  "impressions": 48750,
+  "bookmarks": 6,
+  "referenced": null
+ },
+ {
+  "id": "2122873746302316626",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T02:05:16.000Z",
+  "text": "Trader 0x9b7B sold 280 $ETH for 1.086M $USDC at $3,881 over a year ago.\n\nHe just spent the same 1.086M $USDC to buy back 598 $ETH at $1,816.\n\nNicely done — sell high, buy low!\n\nhttps://t.co/zoErTrwldE https://t.co/JFYOcNnUmO",
+  "url": "https://x.com/lookonchain/status/2122873746302316626",
+  "likes": 250,
+  "retweets": 17,
+  "replies": 50,
+  "quotes": 0,
+  "impressions": 37930,
+  "bookmarks": 6,
+  "referenced": null
+ },
+ {
+  "id": "2122878961684463834",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "quote",
+  "created_at": "2026-11-18T02:26:00.000Z",
+  "text": "The Erik Voorhees-linked wallets have bought a total of 92,052 $ETH ($165.55M) at an average price of $1,921 over the past week and is now sitting on $11M in unrealized losses.\nhttps://t.co/t4ovf9puVE https://t.co/5XO1VHKRTJ",
+  "url": "https://x.com/lookonchain/status/2122878961684463834",
+  "likes": 159,
+  "retweets": 7,
+  "replies": 31,
   "quotes": 1,
-  "bookmarks": 2,
-  "impressions": 20172,
-  "score": 82,
-  "cashtags": [
-   "BTC",
-   "ETH"
-  ],
-  "hashtags": [
-   "Bitcoin",
-   "Ethereum"
-  ]
+  "impressions": 38369,
+  "bookmarks": 10,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122518108850225555",
+   "author": "lookonchain",
+   "text": "The Erik Voorhees-linked wallets bought another 13,134 $ETH ($23.67M)!\n\nOver the past 6 days, these wallets have bought a total of 84,837 $ETH ($154M) at an average price of $1,931.\n\nThey still have $12.96M in stablecoins left to buy more.\nhttps://t.co/UCDdvaHjup https://t.co/bfQB2qxpwv"
+  }
+ },
+ {
+  "id": "2122896058963661224",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T03:33:56.000Z",
+  "text": "Bitcoin miner MARA Holdings (@MARA) continues to dump $BTC, transferring out another 366 $BTC ($23.33M) 8 hours ago.\n\nAccording to official disclosures, #MARA sold 40,581 $BTC ($3.03B) in 2026 at an average price of $74,446.\n\nhttps://t.co/fTOd8FQMxR https://t.co/SQgTLUdrve",
+  "url": "https://x.com/lookonchain/status/2122896058963661224",
+  "likes": 177,
+  "retweets": 15,
+  "replies": 67,
+  "quotes": 8,
+  "impressions": 39267,
+  "bookmarks": 13,
+  "referenced": null
+ },
+ {
+  "id": "2122903443363016896",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T04:03:17.000Z",
+  "text": "Whale 0xd0A4 dumped another 500,000 $UNI ($2.63M) 6 hours ago.\n\nOver the past month, the whale has sold a total of 3.11M $UNI ($21.48M) and still holds 1.89M $UNI ($9.85M).\n\nhttps://t.co/hKjJx21jbd https://t.co/Z8HTJdfz8X",
+  "url": "https://x.com/lookonchain/status/2122903443363016896",
+  "likes": 81,
+  "retweets": 9,
+  "replies": 25,
+  "quotes": 3,
+  "impressions": 33672,
+  "bookmarks": 4,
+  "referenced": null
+ },
+ {
+  "id": "2122935713016721445",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T06:11:30.000Z",
+  "text": "The total supply of $USDT on #TRON has grown year after year, reaching $94.21B and accounting for 54% of the total $USDT supply. https://t.co/NivW87wheB",
+  "url": "https://x.com/lookonchain/status/2122935713016721445",
+  "likes": 59,
+  "retweets": 2,
+  "replies": 30,
+  "quotes": 1,
+  "impressions": 29313,
+  "bookmarks": 0,
+  "referenced": null
+ },
+ {
+  "id": "2122945077756772620",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T06:48:43.000Z",
+  "text": "This guy turned $3.19M into just $258K in 1.5 years.\n\nHe bought 267,272 $TRUMP 1.5 years ago, worth $3.19M at the time but only $258K today — a loss of $2.93M (-92%).\n\nhttps://t.co/ADa9L1chlP https://t.co/SlGuwj70Xy",
+  "url": "https://x.com/lookonchain/status/2122945077756772620",
+  "likes": 77,
+  "retweets": 5,
+  "replies": 27,
+  "quotes": 1,
+  "impressions": 26729,
+  "bookmarks": 5,
+  "referenced": null
+ },
+ {
+  "id": "2122946935179055398",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T06:56:06.000Z",
+  "text": "After some \"hard work,\" Machi (@machibigbrother) has finally topped the loss leaderboard on @papertrade_xyz with $2.69M in realized losses.\n\nhttps://t.co/uTIgj9Rh3i https://t.co/yLeeiEBJDE",
+  "url": "https://x.com/lookonchain/status/2122946935179055398",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 18587,
+  "bookmarks": 0,
+  "referenced": null
+ },
+ {
+  "id": "2122947154360852753",
+  "username": "lookonchain",
+  "username_canon": "lookonchain",
+  "type": "original",
+  "created_at": "2026-11-18T06:56:58.000Z",
+  "text": "After some \"hard work,\" Machi (@machibigbrother) has finally topped the loss leaderboard on @papertrade_xyz with $2.61M in realized losses.\n\nhttps://t.co/uTIgj9Rh3i https://t.co/d3yJnelLhB",
+  "url": "https://x.com/lookonchain/status/2122947154360852753",
+  "likes": 44,
+  "retweets": 0,
+  "replies": 25,
+  "quotes": 2,
+  "impressions": 21554,
+  "bookmarks": 0,
+  "referenced": null
  }
 ]

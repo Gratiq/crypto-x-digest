@@ -1,2231 +1,1256 @@
 [
  {
-  "id": "2122343943337824407",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "original",
-  "created_at": "2026-11-16T15:00:01.000Z",
-  "text": "HUGE: ⚠️ $XRP plunges ~36% this quarter to $0.89, a level not seen since Nov. 2024",
-  "text_flat": "HUGE: ⚠️ $XRP plunges ~36% this quarter to $0.89, a level not seen since Nov. 2024",
-  "url": "https://x.com/CryptoWendyO/status/2122343943337824407",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 267,
-  "retweets": 12,
-  "replies": 60,
-  "quotes": 0,
-  "bookmarks": 3,
-  "impressions": 16262,
-  "score": 426,
-  "cashtags": [
-   "XRP"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122349949186974135",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T15:23:53.000Z",
-  "text": "@zac70182 589m",
-  "text_flat": "@zac70182 589m",
-  "url": "https://x.com/CryptoWendyO/status/2122349949186974135",
-  "lang": "und",
-  "conversation_id": "2122343943337824407",
-  "referenced": [
-   {
-    "id": "2122345685467189266",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "2008164347810553856",
-     "start": 0,
-     "username": "zac70182"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 431,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122352475613356413",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T15:33:56.000Z",
-  "text": "@Quintonlehy Yeah it’s cute and fun",
-  "text_flat": "@Quintonlehy Yeah it’s cute and fun",
-  "url": "https://x.com/CryptoWendyO/status/2122352475613356413",
-  "lang": "en",
-  "conversation_id": "2122343943337824407",
-  "referenced": [
-   {
-    "id": "2122350194696061313",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "44370030",
-     "start": 0,
-     "username": "Quintonlehy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 410,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122352520672784821",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T15:34:06.000Z",
-  "text": "@KevinTheFatKid Heck yeah",
-  "text_flat": "@KevinTheFatKid Heck yeah",
-  "url": "https://x.com/CryptoWendyO/status/2122352520672784821",
-  "lang": "en",
-  "conversation_id": "2122343943337824407",
-  "referenced": [
-   {
-    "id": "2122347527760757107",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "875938925742878721",
-     "start": 0,
-     "username": "KevinTheFatKid"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 439,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122357200060600764",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "quote",
-  "created_at": "2026-11-16T15:52:42.000Z",
-  "text": "I’ve never seen a single movie with Rob Pattinson. https://t.co/EFeA4oidiP",
-  "text_flat": "I’ve never seen a single movie with Rob Pattinson. https://t.co/EFeA4oidiP",
-  "url": "https://x.com/CryptoWendyO/status/2122357200060600764",
-  "lang": "en",
-  "conversation_id": "2122357200060600764",
-  "referenced": [
-   {
-    "id": "2122343950308540474",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "x.com/007/status/212…",
-     "end": 74,
-     "expanded_url": "https://twitter.com/007/status/2122343950308540474",
-     "start": 51,
-     "url": "https://t.co/EFeA4oidiP"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 99,
-  "retweets": 3,
-  "replies": 82,
-  "quotes": 1,
-  "bookmarks": 5,
-  "impressions": 13595,
-  "score": 280,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122361297715249341",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T16:08:59.000Z",
-  "text": "@BitcoinWolf_ I haven’t \n\nLiterally",
-  "text_flat": "@BitcoinWolf_ I haven’t   Literally",
-  "url": "https://x.com/CryptoWendyO/status/2122361297715249341",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122359267886067818",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "794498866460631040",
-     "start": 0,
-     "username": "BitcoinWolf_"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 335,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122361354489405825",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T16:09:13.000Z",
-  "text": "@girlintheverse I ever got into twilight",
-  "text_flat": "@girlintheverse I ever got into twilight",
-  "url": "https://x.com/CryptoWendyO/status/2122361354489405825",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122358999630663997",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1478876579707166720",
-     "start": 0,
-     "username": "girlintheverse"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 329,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122369824886231376",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "retweet",
-  "created_at": "2026-11-16T16:42:52.000Z",
-  "text": "RT @CryptoWendyO: What if $BTC hasn’t capitulated and we see $10k?",
-  "text_flat": "RT @CryptoWendyO: What if $BTC hasn’t capitulated and we see $10k?",
-  "url": "https://x.com/CryptoWendyO/status/2122369824886231376",
-  "lang": "en",
-  "conversation_id": "2122369824886231376",
-  "referenced": [
-   {
-    "id": "1669099190478045185",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 30,
-     "start": 26,
-     "tag": "BTC"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 16,
-     "id": "935742315389444096",
-     "start": 3,
-     "username": "CryptoWendyO"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 87,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 0,
-  "score": 261,
-  "cashtags": [
-   "BTC"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122374009144955073",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T16:59:30.000Z",
-  "text": "@SarcasticTexan_ This post is from 2023....",
-  "text_flat": "@SarcasticTexan_ This post is from 2023....",
-  "url": "https://x.com/CryptoWendyO/status/2122374009144955073",
-  "lang": "en",
-  "conversation_id": "1669099190478045185",
-  "referenced": [
-   {
-    "id": "2122372105719149018",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2045868205172817920",
-     "start": 0,
-     "username": "SarcasticTexan_"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 265,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122374136202944600",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "original",
-  "created_at": "2026-11-16T17:00:00.000Z",
-  "text": "Crypto things you might have missed:\n\n-Bitcoin ETFs see $1.065B outflows\n-Two massive $XRP transfers flagged\n-Solana launches mainnet 1.0\n-@NEARProtocol Intents hits $2.2M record\n-US stocks fall sharply\n-Former $NVDA CEO Huang potential comeback\n-Fed: AI major risk to US finance",
-  "text_flat": "Crypto things you might have missed:  -Bitcoin ETFs see $1.065B outflows -Two massive $XRP transfers flagged -Solana launches mainnet 1.0 -@NEARProtocol Intents hits $2.2M record -US stocks fall sharply -Former $NVDA CEO Huang potential comeback -Fed: AI major risk to US finance",
-  "url": "https://x.com/CryptoWendyO/status/2122374136202944600",
-  "lang": "en",
-  "conversation_id": "2122374136202944600",
-  "referenced": [],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 90,
-     "start": 86,
-     "tag": "XRP"
-    },
-    {
-     "end": 216,
-     "start": 211,
-     "tag": "NVDA"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 152,
-     "id": "1031949518609121280",
-     "start": 139,
-     "username": "NEARProtocol"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 103,
-  "retweets": 15,
-  "replies": 23,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 11563,
-  "score": 194,
-  "cashtags": [
-   "NVDA",
-   "XRP"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122382884879360148",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T17:34:46.000Z",
-  "text": "@alexandre_lores I like the old school Batman’s \n\nSo good and so masculine",
-  "text_flat": "@alexandre_lores I like the old school Batman’s   So good and so masculine",
-  "url": "https://x.com/CryptoWendyO/status/2122382884879360148",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122368684161187987",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1322284097427877897",
-     "start": 0,
-     "username": "alexandre_lores"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 218,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122382926612770841",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T17:34:56.000Z",
-  "text": "@RealCryptoFace No thank you",
-  "text_flat": "@RealCryptoFace No thank you",
-  "url": "https://x.com/CryptoWendyO/status/2122382926612770841",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122364455401234920",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1341796696867491841",
-     "start": 0,
-     "username": "RealCryptoFace"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 315,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122382967758811216",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T17:35:06.000Z",
-  "text": "@Patrickkeltron Keaton",
-  "text_flat": "@Patrickkeltron Keaton",
-  "url": "https://x.com/CryptoWendyO/status/2122382967758811216",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122375530636795907",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "295187780",
-     "start": 0,
-     "username": "Patrickkeltron"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 250,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122386598822326433",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T17:49:31.000Z",
-  "text": "@CAgovernor Gavin, we have homeless children, women and veterans all over California \n\nCan we get them housing first?",
-  "text_flat": "@CAgovernor Gavin, we have homeless children, women and veterans all over California   Can we get them housing first?",
-  "url": "https://x.com/CryptoWendyO/status/2122386598822326433",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122360525170643266",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "38349184",
-     "start": 0,
-     "username": "CAgovernor"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 343,
-  "retweets": 14,
-  "replies": 16,
-  "quotes": 1,
-  "bookmarks": 2,
-  "impressions": 6473,
-  "score": 422,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122395689510658125",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T18:25:39.000Z",
-  "text": "@LydiaMoynihan Banger",
-  "text_flat": "@LydiaMoynihan Banger",
-  "url": "https://x.com/CryptoWendyO/status/2122395689510658125",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122388248454709516",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "817218718396624896",
-     "start": 0,
-     "username": "LydiaMoynihan"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 239,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122399267796975797",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "original",
-  "created_at": "2026-11-16T18:39:52.000Z",
-  "text": "IT'S ALL FALLING APART?! Bitcoin XRP CRYPTO and Nvidia Face an INSANE Week!✨ JOIN THE LIVE CONVERSATION ON YOUTUBE! https://t.co/l2CloL2pUh",
-  "text_flat": "IT'S ALL FALLING APART?! Bitcoin XRP CRYPTO and Nvidia Face an INSANE Week!✨ JOIN THE LIVE CONVERSATION ON YOUTUBE! https://t.co/l2CloL2pUh",
-  "url": "https://x.com/CryptoWendyO/status/2122399267796975797",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 51,
-  "retweets": 6,
-  "replies": 13,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 8337,
-  "score": 95,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122410652077785236",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "quote",
-  "created_at": "2026-11-16T19:25:06.000Z",
-  "text": "The airlines went down \n\nThe banks are down \n\nBitcoin does fix this. https://t.co/9E0p7vG6A0 https://t.co/scQcrrVoup",
-  "text_flat": "The airlines went down   The banks are down   Bitcoin does fix this. https://t.co/9E0p7vG6A0 https://t.co/scQcrrVoup",
-  "url": "https://x.com/CryptoWendyO/status/2122410652077785236",
-  "lang": "en",
-  "conversation_id": "2122410652077785236",
-  "referenced": [
-   {
-    "id": "2122389777014026249",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/9E0p7vG6A0",
-     "end": 92,
-     "expanded_url": "https://x.com/CryptoWendyO/status/2122410652077785236/photo/1",
-     "media_key": "3_2122410424847253504",
-     "start": 69,
-     "url": "https://t.co/9E0p7vG6A0"
-    },
-    {
-     "display_url": "x.com/InsiderWire/st…",
-     "end": 116,
-     "expanded_url": "https://twitter.com/InsiderWire/status/2122389777014026249",
-     "start": 93,
-     "url": "https://t.co/scQcrrVoup"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 628,
-  "retweets": 42,
-  "replies": 152,
-  "quotes": 10,
-  "bookmarks": 16,
-  "impressions": 26946,
-  "score": 1104,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122415925987348518",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T19:46:03.000Z",
-  "text": "@BoredCoobs can use a radio thingie and that is more complex",
-  "text_flat": "@BoredCoobs can use a radio thingie and that is more complex",
-  "url": "https://x.com/CryptoWendyO/status/2122415925987348518",
-  "lang": "en",
-  "conversation_id": "2122410652077785236",
-  "referenced": [
-   {
-    "id": "2122411436596994352",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "232419288",
-     "start": 0,
-     "username": "BoredCoobs"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 424,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122416249091310020",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T19:47:21.000Z",
-  "text": "@alexandre_lores https://t.co/jhbsRFV48L",
-  "text_flat": "@alexandre_lores https://t.co/jhbsRFV48L",
-  "url": "https://x.com/CryptoWendyO/status/2122416249091310020",
-  "lang": "qme",
-  "conversation_id": "2122410652077785236",
-  "referenced": [
-   {
-    "id": "2122415814527648152",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1322284097427877897",
-     "start": 0,
-     "username": "alexandre_lores"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/jhbsRFV48L",
-     "end": 40,
-     "expanded_url": "https://x.com/CryptoWendyO/status/2122416249091310020/photo/1",
-     "media_key": "3_2122416244691456000",
-     "start": 17,
-     "url": "https://t.co/jhbsRFV48L"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 506,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122418119776104762",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T19:54:47.000Z",
-  "text": "@skel HIGHER",
-  "text_flat": "@skel HIGHER",
-  "url": "https://x.com/CryptoWendyO/status/2122418119776104762",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122412320307790290",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 5,
-     "id": "28367114",
-     "start": 0,
-     "username": "skel"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 6,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 669,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122421056246014396",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T20:06:27.000Z",
-  "text": "@5oyokaze @BitcoinMagazine ofc they are",
-  "text_flat": "@5oyokaze @BitcoinMagazine ofc they are",
-  "url": "https://x.com/CryptoWendyO/status/2122421056246014396",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122419770394112174",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "886380248690044929",
-     "start": 0,
-     "username": "5oyokaze"
-    },
-    {
-     "end": 26,
-     "id": "361289499",
-     "start": 10,
-     "username": "BitcoinMagazine"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 143,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122424479280455787",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T20:20:03.000Z",
-  "text": "@RepYassAnsari Bitcoin and crypto do fix this, pass clarity tysm",
-  "text_flat": "@RepYassAnsari Bitcoin and crypto do fix this, pass clarity tysm",
-  "url": "https://x.com/CryptoWendyO/status/2122424479280455787",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122413234640892359",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1871623075822772224",
-     "start": 0,
-     "username": "RepYassAnsari"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 24,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 839,
-  "score": 26,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122424845736800516",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T20:21:30.000Z",
-  "text": "@IAmJoyceChow Miss you!",
-  "text_flat": "@IAmJoyceChow Miss you!",
-  "url": "https://x.com/CryptoWendyO/status/2122424845736800516",
-  "lang": "en",
-  "conversation_id": "2122116940051480648",
-  "referenced": [
-   {
-    "id": "2122347952165511467",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1477173066375462913",
-     "start": 0,
-     "username": "IAmJoyceChow"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 136,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122432514396741753",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T20:51:58.000Z",
-  "text": "@RachelConlan @mert Are you guys doing a Where is Waldo type of scavenger hunt but it's mert?",
-  "text_flat": "@RachelConlan @mert Are you guys doing a Where is Waldo type of scavenger hunt but it's mert?",
-  "url": "https://x.com/CryptoWendyO/status/2122432514396741753",
-  "lang": "en",
-  "conversation_id": "2122431138849550492",
-  "referenced": [
-   {
-    "id": "2122431138849550492",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1240886711229562880",
-     "start": 0,
-     "username": "RachelConlan"
-    },
-    {
-     "end": 19,
-     "id": "1309886201944473600",
-     "start": 14,
-     "username": "mert"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 324,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122432689479495816",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T20:52:40.000Z",
-  "text": "@GoldChainCowboi You can trade anything just as long as there is a market",
-  "text_flat": "@GoldChainCowboi You can trade anything just as long as there is a market",
-  "url": "https://x.com/CryptoWendyO/status/2122432689479495816",
-  "lang": "en",
-  "conversation_id": "2122410652077785236",
-  "referenced": [
-   {
-    "id": "2122419600407331211",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1458881938593247250",
-     "start": 0,
-     "username": "GoldChainCowboi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 3,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 440,
-  "score": 8,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122442719599706155",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T21:32:32.000Z",
-  "text": "@MurrayHillGuy1 The ad was soooo good and well received",
-  "text_flat": "@MurrayHillGuy1 The ad was soooo good and well received",
-  "url": "https://x.com/CryptoWendyO/status/2122442719599706155",
-  "lang": "en",
-  "conversation_id": "2122421934189371574",
-  "referenced": [
-   {
-    "id": "2122421934189371574",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1805622878550843392",
-     "start": 0,
-     "username": "MurrayHillGuy1"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 789,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122449640431681925",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "original",
-  "created_at": "2026-11-16T22:00:02.000Z",
-  "text": "Ripple owes you NOTHING.\n\nYou bought $XRP, not shares in Ripple.\n\nIf you need a CEO to justify your investment, maybe crypto isn't for you. https://t.co/JK2rTnG5WS",
-  "text_flat": "Ripple owes you NOTHING.  You bought $XRP, not shares in Ripple.  If you need a CEO to justify your investment, maybe crypto isn't for you. https://t.co/JK2rTnG5WS",
-  "url": "https://x.com/CryptoWendyO/status/2122449640431681925",
-  "lang": "en",
-  "conversation_id": "2122449640431681925",
-  "referenced": [],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 41,
-     "start": 37,
-     "tag": "XRP"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/JK2rTnG5WS",
-     "end": 163,
-     "expanded_url": "https://x.com/CryptoWendyO/status/2122449640431681925/video/1",
-     "media_key": "13_2122440575223762944",
-     "start": 140,
-     "url": "https://t.co/JK2rTnG5WS"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 286,
-  "retweets": 27,
-  "replies": 129,
-  "quotes": 7,
-  "bookmarks": 12,
-  "impressions": 16365,
-  "score": 658,
-  "cashtags": [
-   "XRP"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122454014998815058",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T22:17:25.000Z",
-  "text": "@allthemoney Great James now they will see it 😂",
-  "text_flat": "@allthemoney Great James now they will see it 😂",
-  "url": "https://x.com/CryptoWendyO/status/2122454014998815058",
-  "lang": "en",
-  "conversation_id": "2122451211408351577",
-  "referenced": [
-   {
-    "id": "2122451211408351577",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1220135485680619524",
-     "start": 0,
-     "username": "allthemoney"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 253,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122461437524320716",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T22:46:54.000Z",
-  "text": "@ChairmanSelig @CFTC Yes and retail deserves a seat",
-  "text_flat": "@ChairmanSelig @CFTC Yes and retail deserves a seat",
-  "url": "https://x.com/CryptoWendyO/status/2122461437524320716",
-  "lang": "en",
-  "conversation_id": "2122443259658056046",
-  "referenced": [
-   {
-    "id": "2122443259658056046",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "2006398816933851136",
-     "start": 0,
-     "username": "ChairmanSelig"
-    },
-    {
-     "end": 20,
-     "id": "234044087",
-     "start": 15,
-     "username": "CFTC"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 11,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1791,
-  "score": 14,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122462208227672269",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T22:49:58.000Z",
-  "text": "@lilybrodi @bangerz @solana @SuperteamUK @SolanaEvents @moonpay Did she give you cantaloupe after? \n\nMiss you both xo",
-  "text_flat": "@lilybrodi @bangerz @solana @SuperteamUK @SolanaEvents @moonpay Did she give you cantaloupe after?   Miss you both xo",
-  "url": "https://x.com/CryptoWendyO/status/2122462208227672269",
-  "lang": "en",
-  "conversation_id": "2122452000319099140",
-  "referenced": [
-   {
-    "id": "2122452000319099140",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1494295077723770886",
-     "start": 0,
-     "username": "lilybrodi"
-    },
-    {
-     "end": 19,
-     "id": "1366906549336240139",
-     "start": 11,
-     "username": "bangerz"
-    },
-    {
-     "end": 27,
-     "id": "951329744804392960",
-     "start": 20,
-     "username": "solana"
-    },
-    {
-     "end": 40,
-     "id": "1666021234935488512",
-     "start": 28,
-     "username": "SuperteamUK"
-    },
-    {
-     "end": 54,
-     "id": "1419653495611875330",
-     "start": 41,
-     "username": "SolanaEvents"
-    },
-    {
-     "end": 63,
-     "id": "1024699964071522305",
-     "start": 55,
-     "username": "moonpay"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 461,
-  "score": 7,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122462478265426066",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T22:51:02.000Z",
-  "text": "@clavicular Are you ok?",
-  "text_flat": "@clavicular Are you ok?",
-  "url": "https://x.com/CryptoWendyO/status/2122462478265426066",
-  "lang": "en",
-  "conversation_id": "2122391897822167281",
-  "referenced": [
-   {
-    "id": "2122391897822167281",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1917648334254170112",
-     "start": 0,
-     "username": "clavicular"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 6,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1344,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122462681513005067",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T22:51:51.000Z",
-  "text": "@Kalshi He was not very aware of the situation apparently",
-  "text_flat": "@Kalshi He was not very aware of the situation apparently",
-  "url": "https://x.com/CryptoWendyO/status/2122462681513005067",
-  "lang": "en",
-  "conversation_id": "2122456950000718294",
-  "referenced": [
-   {
-    "id": "2122456950000718294",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "1071484733543079936",
-     "start": 0,
-     "username": "Kalshi"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 119,
-  "retweets": 2,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 7802,
-  "score": 128,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122475049860911546",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "quote",
-  "created_at": "2026-11-16T23:41:00.000Z",
-  "text": "CAN THE DEVS DO SOMETHING AND CALL YAKKO-MUCKO NAKASAKO https://t.co/dUGxLgIXQU https://t.co/hV6KZKMlie",
-  "text_flat": "CAN THE DEVS DO SOMETHING AND CALL YAKKO-MUCKO NAKASAKO https://t.co/dUGxLgIXQU https://t.co/hV6KZKMlie",
-  "url": "https://x.com/CryptoWendyO/status/2122475049860911546",
-  "lang": "en",
-  "conversation_id": "2122475049860911546",
-  "referenced": [
-   {
-    "id": "2122410652077785236",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/dUGxLgIXQU",
-     "end": 79,
-     "expanded_url": "https://x.com/CryptoWendyO/status/2122475049860911546/photo/1",
-     "media_key": "3_2122429688601866240",
-     "start": 56,
-     "url": "https://t.co/dUGxLgIXQU"
-    },
-    {
-     "display_url": "x.com/CryptoWendyO/s…",
-     "end": 103,
-     "expanded_url": "https://twitter.com/CryptoWendyO/status/2122410652077785236",
-     "start": 80,
-     "url": "https://t.co/hV6KZKMlie"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 26,
-  "retweets": 3,
-  "replies": 14,
-  "quotes": 0,
-  "bookmarks": 2,
-  "impressions": 6891,
-  "score": 65,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122476946504491458",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T23:48:32.000Z",
-  "text": "@armaniferrante @Backpack Congrats",
-  "text_flat": "@armaniferrante @Backpack Congrats",
-  "url": "https://x.com/CryptoWendyO/status/2122476946504491458",
-  "lang": "en",
-  "conversation_id": "2122457061711601969",
-  "referenced": [
-   {
-    "id": "2122457061711601969",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "276810355",
-     "start": 0,
-     "username": "armaniferrante"
-    },
-    {
-     "end": 25,
-     "id": "1498029602261905408",
-     "start": 16,
-     "username": "Backpack"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 238,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122477186775126044",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-16T23:49:29.000Z",
-  "text": "@allthemoney Instigator 😂",
-  "text_flat": "@allthemoney Instigator 😂",
-  "url": "https://x.com/CryptoWendyO/status/2122477186775126044",
-  "lang": "es",
-  "conversation_id": "2122449640431681925",
-  "referenced": [
-   {
-    "id": "2122450958102020321",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1220135485680619524",
-     "start": 0,
-     "username": "allthemoney"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 368,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122485229558575340",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "quote",
-  "created_at": "2026-11-17T00:21:27.000Z",
-  "text": "What the fxck is happening ing in America? https://t.co/8IhHDHRDMp",
-  "text_flat": "What the fxck is happening ing in America? https://t.co/8IhHDHRDMp",
-  "url": "https://x.com/CryptoWendyO/status/2122485229558575340",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122446698765287876",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 66,
-     "start": 43,
-     "url": "https://t.co/8IhHDHRDMp"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 374,
-  "retweets": 34,
-  "replies": 88,
-  "quotes": 2,
-  "bookmarks": 35,
-  "impressions": 27244,
-  "score": 693,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122488024613454059",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T00:32:33.000Z",
-  "text": "@westsidebets I honestly don’t care 😂",
-  "text_flat": "@westsidebets I honestly don’t care 😂",
-  "url": "https://x.com/CryptoWendyO/status/2122488024613454059",
-  "lang": "en",
-  "conversation_id": "2122485229558575340",
-  "referenced": [
-   {
-    "id": "2122486694473760845",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1460342010083037184",
-     "start": 0,
-     "username": "westsidebets"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 744,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122488127701078419",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T00:32:58.000Z",
-  "text": "@jamjen1011 Born and raised LAC it’s ghetto as all hell here",
-  "text_flat": "@jamjen1011 Born and raised LAC it’s ghetto as all hell here",
-  "url": "https://x.com/CryptoWendyO/status/2122488127701078419",
-  "lang": "en",
-  "conversation_id": "2122485229558575340",
-  "referenced": [
-   {
-    "id": "2122485823056568641",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "788916667833122816",
-     "start": 0,
-     "username": "jamjen1011"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 607,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122488180847038513",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T00:33:10.000Z",
-  "text": "@XRPZBCNLANTERN Shhhhh I’m sleeping",
-  "text_flat": "@XRPZBCNLANTERN Shhhhh I’m sleeping",
-  "url": "https://x.com/CryptoWendyO/status/2122488180847038513",
-  "lang": "en",
-  "conversation_id": "2122485229558575340",
-  "referenced": [
-   {
-    "id": "2122485476464755170",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1949504379087659008",
-     "start": 0,
-     "username": "XRPZBCNLANTERN"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 793,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122497219404411277",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "quote",
-  "created_at": "2026-11-17T01:09:05.000Z",
-  "text": "I’m a millennial and we literally don’t care anymore. https://t.co/SnYKvTzemW",
-  "text_flat": "I’m a millennial and we literally don’t care anymore. https://t.co/SnYKvTzemW",
-  "url": "https://x.com/CryptoWendyO/status/2122497219404411277",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122465440672952809",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 77,
-     "start": 54,
-     "url": "https://t.co/SnYKvTzemW"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 231,
-  "retweets": 5,
-  "replies": 37,
-  "quotes": 1,
-  "bookmarks": 6,
-  "impressions": 10616,
-  "score": 329,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122501579253399660",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T01:26:25.000Z",
-  "text": "@DBCrypt0 To the gun safe i go",
-  "text_flat": "@DBCrypt0 To the gun safe i go",
-  "url": "https://x.com/CryptoWendyO/status/2122501579253399660",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122498776807923973",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1386634700630941697",
-     "start": 0,
-     "username": "DBCrypt0"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 253,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122501714981118447",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T01:26:57.000Z",
-  "text": "@crypto_amaru I don’t have crypto in my home \n\nFDIC \n\nI’m not planning any travel currently",
-  "text_flat": "@crypto_amaru I don’t have crypto in my home   FDIC   I’m not planning any travel currently",
-  "url": "https://x.com/CryptoWendyO/status/2122501714981118447",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122499835504820538",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "962105765921284096",
-     "start": 0,
-     "username": "crypto_amaru"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 243,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122503441289560206",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T01:33:49.000Z",
-  "text": "@CapitalOne I would imagine becuase you have terrible customer service and the customer can’t alert anyone at corporate",
-  "text_flat": "@CapitalOne I would imagine becuase you have terrible customer service and the customer can’t alert anyone at corporate",
-  "url": "https://x.com/CryptoWendyO/status/2122503441289560206",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122474392039166462",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "364477412",
-     "start": 0,
-     "username": "CapitalOne"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 19,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 3782,
-  "score": 19,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122508603068453150",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T01:54:19.000Z",
-  "text": "@Fityeth They are just back ordered becuase of the vitality of today \n\nSame thing happened when I was looking to order a generator and water pump during the LA fires",
-  "text_flat": "@Fityeth They are just back ordered becuase of the vitality of today   Same thing happened when I was looking to order a generator and water pump during the LA fires",
-  "url": "https://x.com/CryptoWendyO/status/2122508603068453150",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122460923017494805",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1431423782900621314",
-     "start": 0,
-     "username": "Fityeth"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 953,
-  "score": 7,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122509363084771756",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T01:57:21.000Z",
-  "text": "@nickisanders I just care about my kid and other then that I’m dead inside",
-  "text_flat": "@nickisanders I just care about my kid and other then that I’m dead inside",
-  "url": "https://x.com/CryptoWendyO/status/2122509363084771756",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122504259484975340",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "3031643693",
-     "start": 0,
-     "username": "nickisanders"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 240,
-  "score": 8,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122514300191604800",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T02:16:58.000Z",
-  "text": "@craigscoinpurse No need to tag me friend it will be ok \n\nSomeone also said they do this annually but it’s just odd timing https://t.co/hZTMzXwfLj",
-  "text_flat": "@craigscoinpurse No need to tag me friend it will be ok   Someone also said they do this annually but it’s just odd timing https://t.co/hZTMzXwfLj",
-  "url": "https://x.com/CryptoWendyO/status/2122514300191604800",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122513981344813518",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1382498448012824578",
-     "start": 0,
-     "username": "craigscoinpurse"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 142,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122518829586862578",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T02:34:58.000Z",
-  "text": "@craigscoinpurse I was doing press on nails for LO 😂",
-  "text_flat": "@craigscoinpurse I was doing press on nails for LO 😂",
-  "url": "https://x.com/CryptoWendyO/status/2122518829586862578",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122515691316314288",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1382498448012824578",
-     "start": 0,
-     "username": "craigscoinpurse"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 149,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122530052063809748",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T03:19:33.000Z",
-  "text": "@X_Giotto_X I hope I don’t get probed",
-  "text_flat": "@X_Giotto_X I hope I don’t get probed",
-  "url": "https://x.com/CryptoWendyO/status/2122530052063809748",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122509715536023970",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1085724035235880960",
-     "start": 0,
-     "username": "X_Giotto_X"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 210,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122533938103263415",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "original",
-  "created_at": "2026-11-17T03:35:00.000Z",
-  "text": "Goodnight to everyone that holds crypto through the ups and downs\n\nMay you retire your entire bloodline. https://t.co/6ECXBDGLE1",
-  "text_flat": "Goodnight to everyone that holds crypto through the ups and downs  May you retire your entire bloodline. https://t.co/6ECXBDGLE1",
-  "url": "https://x.com/CryptoWendyO/status/2122533938103263415",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 639,
-  "retweets": 10,
-  "replies": 85,
-  "quotes": 2,
-  "bookmarks": 11,
-  "impressions": 12235,
-  "score": 856,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122534424587948224",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T03:36:56.000Z",
-  "text": "@skel Now say this in Spanish. It’s always more dramatic and fun",
-  "text_flat": "@skel Now say this in Spanish. It’s always more dramatic and fun",
-  "url": "https://x.com/CryptoWendyO/status/2122534424587948224",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122531420987937016",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 5,
-     "id": "28367114",
-     "start": 0,
-     "username": "skel"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 431,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122534939552063808",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T03:38:59.000Z",
-  "text": "@Seanfrank The lack of building started before Covid and Covid accelerated it becuase of all the red tape and costs of permits \n\nThis also caused the movie industry to die becuase of increased costs etc \n\nSad I love my home",
-  "text_flat": "@Seanfrank The lack of building started before Covid and Covid accelerated it becuase of all the red tape and costs of permits   This also caused the movie industry to die becuase of increased costs etc   Sad I love my home",
-  "url": "https://x.com/CryptoWendyO/status/2122534939552063808",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122514707668242941",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1367733614880825344",
-     "start": 0,
-     "username": "Seanfrank"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 7,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 593,
-  "score": 7,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122536392870031364",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T03:44:45.000Z",
-  "text": "@SenJohnKennedy Will you be running for president. \n\nBoth sides adore you.",
-  "text_flat": "@SenJohnKennedy Will you be running for president.   Both sides adore you.",
-  "url": "https://x.com/CryptoWendyO/status/2122536392870031364",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122512868390105126",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "816683274076614656",
-     "start": 0,
-     "username": "SenJohnKennedy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 11,
-  "retweets": 2,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 486,
-  "score": 19,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122546131930628149",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T04:23:27.000Z",
-  "text": "@CryptoNewsFlash You are",
-  "text_flat": "@CryptoNewsFlash You are",
-  "url": "https://x.com/CryptoWendyO/status/2122546131930628149",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122541284196007962",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "806342528169439232",
-     "start": 0,
-     "username": "CryptoNewsFlash"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 232,
-  "score": 4,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122546169373172076",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T04:23:36.000Z",
-  "text": "@SarcasticTexan_ Gn",
-  "text_flat": "@SarcasticTexan_ Gn",
-  "url": "https://x.com/CryptoWendyO/status/2122546169373172076",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122540751166837083",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2045868205172817920",
-     "start": 0,
-     "username": "SarcasticTexan_"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 246,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122546200075493605",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T04:23:43.000Z",
-  "text": "@MikeVollmerXRP Thrift as always tysm",
-  "text_flat": "@MikeVollmerXRP Thrift as always tysm",
-  "url": "https://x.com/CryptoWendyO/status/2122546200075493605",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122539003862044734",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1664749405851856896",
-     "start": 0,
-     "username": "MikeVollmerXRP"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 266,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122546264877441151",
-  "username": "CryptoWendyO",
-  "username_canon": "CryptoWendyO",
-  "type": "reply",
-  "created_at": "2026-11-17T04:23:59.000Z",
-  "text": "@6_marq 😂😂😂",
-  "text_flat": "@6_marq 😂😂😂",
-  "url": "https://x.com/CryptoWendyO/status/2122546264877441151",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122540906259652689",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "1066357611795238913",
-     "start": 0,
-     "username": "6_marq"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 241,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122676125843247538",
   "username": "CryptoWendyO",
   "username_canon": "CryptoWendyO",
   "type": "original",
   "created_at": "2026-11-17T13:00:00.000Z",
   "text": "NEW: ☕️ Solana Foundation takes majority stake in CoinGecko, with plans to bring Solana-powered trading to its website and apps https://t.co/EhB9EMnU2J",
-  "text_flat": "NEW: ☕️ Solana Foundation takes majority stake in CoinGecko, with plans to bring Solana-powered trading to its website and apps https://t.co/EhB9EMnU2J",
   "url": "https://x.com/CryptoWendyO/status/2122676125843247538",
-  "lang": "en",
-  "conversation_id": "2122676125843247538",
-  "referenced": [],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/EhB9EMnU2J",
-     "end": 151,
-     "expanded_url": "https://x.com/CryptoWendyO/status/2122676125843247538/photo/1",
-     "media_key": "3_2122673631633276928",
-     "start": 128,
-     "url": "https://t.co/EhB9EMnU2J"
-    }
-   ]
-  },
-  "low_substance": false,
+  "likes": 46,
+  "retweets": 1,
+  "replies": 17,
+  "quotes": 0,
+  "impressions": 7018,
+  "bookmarks": 3,
+  "referenced": null
+ },
+ {
+  "id": "2122706328808464878",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-17T15:00:01.000Z",
+  "text": "JUST IN: Ripple-backed $XRP treasury firm Evernorth ($XRPN) reports its 346 million $XRP holdings were written down ~60%, from $847 million to $342 million, due to accounting rules",
+  "url": "https://x.com/CryptoWendyO/status/2122706328808464878",
+  "likes": 208,
+  "retweets": 10,
+  "replies": 33,
+  "quotes": 0,
+  "impressions": 19360,
+  "bookmarks": 11,
+  "referenced": null
+ },
+ {
+  "id": "2122709938065863010",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T15:14:21.000Z",
+  "text": "@baddo345xyz gm",
+  "url": "https://x.com/CryptoWendyO/status/2122709938065863010",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 977,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122706551785845227",
+   "text": "@CryptoWendyO 😳😳😳"
+  }
+ },
+ {
+  "id": "2122709971813142823",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T15:14:29.000Z",
+  "text": "@Fityeth Also NVDA",
+  "url": "https://x.com/CryptoWendyO/status/2122709971813142823",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1050,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122708230577222115",
+   "text": "@CryptoWendyO Wendy, only in crypto can you lose $500 million without selling a damn thing."
+  }
+ },
+ {
+  "id": "2122710536018383046",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T15:16:44.000Z",
+  "text": "@kevinolearytv I have worked 80 hours a week and made time for family.",
+  "url": "https://x.com/CryptoWendyO/status/2122710536018383046",
+  "likes": 23,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 1,
+  "impressions": 2819,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122689246993809657",
+   "text": "Success isn't about how many hours you work. It's about what you deliver. \n\nWhether it's 20 hours or 80, execution is what matters. Get the job done and make time for what matters most. https://t.co/LuVQwI1YBt"
+  }
+ },
+ {
+  "id": "2122718895001997478",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T15:49:57.000Z",
+  "text": "@HuinGuillaume Oh my \n\nYou guys gave the people exactly what they want. It’s nice to see a big company listening.\n\nWe all have adult money now and choose to spend it on nostalgia",
+  "url": "https://x.com/CryptoWendyO/status/2122718895001997478",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 908,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122714964506902750",
+   "text": "Kevin did it again. This time at McDonald's. \nThe Home Alone Meal, coming soon to 45+ markets. https://t.co/roWrxERt2b"
+  }
+ },
+ {
+  "id": "2122721069622870183",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T15:58:35.000Z",
+  "text": "@blknoiz06 3-4%",
+  "url": "https://x.com/CryptoWendyO/status/2122721069622870183",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 796,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122714022869189003",
+   "author": "blknoiz06",
+   "text": "whats the apr on high yield savings accounts rn?"
+  }
+ },
+ {
+  "id": "2122722152512442621",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-17T16:02:54.000Z",
+  "text": "Everyone take a shot everytime there is a cyber attack or a website goes down. https://t.co/fpJKa8147C",
+  "url": "https://x.com/CryptoWendyO/status/2122722152512442621",
+  "likes": 108,
+  "retweets": 5,
+  "replies": 39,
+  "quotes": 0,
+  "impressions": 11194,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122714798450229401",
+   "text": "We break: The highly classified network that the National Security Agency uses for its internal communications is down, according to five people familiar with the matter.\n\nThe network, called NSA Net, allows employees to communicate classified information internally. At this point there is no evidence of a cyberattack, sources said.\n\nAs the agency works to understand the scope of the problem, it h"
+  }
+ },
+ {
+  "id": "2122723632908788073",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:08:47.000Z",
+  "text": "@JdubyouIII hell yeah brother",
+  "url": "https://x.com/CryptoWendyO/status/2122723632908788073",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 149,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122722614263074871",
+   "text": "@CryptoWendyO Imma aldready drunkdid..."
+  }
+ },
+ {
+  "id": "2122723673044041941",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:08:56.000Z",
+  "text": "@CryptomuseT i should be at 8am pt",
+  "url": "https://x.com/CryptoWendyO/status/2122723673044041941",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 149,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122722769200693273",
+   "text": "@CryptoWendyO Haha, I'd be so drunk"
+  }
+ },
+ {
+  "id": "2122725343782113573",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:15:34.000Z",
+  "text": "@lostinthemix_jb For those who do not drink, may I interest you in a sparkling water with a lemon and a maraschino cherry",
+  "url": "https://x.com/CryptoWendyO/status/2122725343782113573",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 175,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122723640827584603",
+   "text": "@CryptoWendyO https://t.co/JIwvdUcCId"
+  }
+ },
+ {
+  "id": "2122727165351575954",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:22:49.000Z",
+  "text": "@onlybackcuzelon she was drinking vitamins I believe",
+  "url": "https://x.com/CryptoWendyO/status/2122727165351575954",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 148,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122725020606791916",
+   "text": "@CryptoWendyO https://t.co/F2zrl38eGY"
+  }
+ },
+ {
+  "id": "2122727604260397354",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:24:33.000Z",
+  "text": "@SpeakServeGrow I'm very much for that during the week",
+  "url": "https://x.com/CryptoWendyO/status/2122727604260397354",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 138,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122727343907308032",
+   "text": "@CryptoWendyO It's gonna have to be shots of sparkling water or I'm a goner."
+  }
+ },
+ {
+  "id": "2122727810066481223",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:25:22.000Z",
+  "text": "@JensenHuang Rock on Jensen and keep wearing the leather jacket.",
+  "url": "https://x.com/CryptoWendyO/status/2122727810066481223",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 297,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122726005219737649",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it "
+  }
+ },
+ {
+  "id": "2122732314820247846",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T16:43:16.000Z",
+  "text": "@MattWalshBlog They let you apply, and then they pick based off the application or they will reach out to you if you have a viral video.",
+  "url": "https://x.com/CryptoWendyO/status/2122732314820247846",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 298,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122706462900199743",
+   "text": "First of all, this is not a \"Gen Z worker.\" Everyone who appears in these Jubilee videos is an influencer or trying to be one. Jubilee isn't out recruiting normal people at random office buildings. Second, the Gen Z guy is disrespectful, snide, glib, and whiney, and can't even look O'Leary in the eyes as he insults him. He projects weakness. He's jumpy and awkward. Just based on body language and "
+  }
+ },
+ {
+  "id": "2122736525506908239",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-17T17:00:00.000Z",
+  "text": "Crypto things you might have missed:\n\n-Bitcoin drops to $62,000\n-$1.4T wiped out from US stocks\n=Google: autonomous AI cyberattacks era\n- $NEAR co-founder: privacy essential for adoption\n-@Bitwise: Institutions betting on $SOL long-term\n-BlackRock tokenized funds live on $SEI",
+  "url": "https://x.com/CryptoWendyO/status/2122736525506908239",
+  "likes": 64,
+  "retweets": 5,
+  "replies": 23,
+  "quotes": 0,
+  "impressions": 9791,
+  "bookmarks": 2,
+  "referenced": null
+ },
+ {
+  "id": "2122741828168626364",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T17:21:05.000Z",
+  "text": "@bradleypellis I just drink the white stuff from costco out of the bottle",
+  "url": "https://x.com/CryptoWendyO/status/2122741828168626364",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 151,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122728233636626837",
+   "text": "@CryptoWendyO I recommend tequila anejo shots. I'll start!"
+  }
+ },
+ {
+  "id": "2122749096792633447",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T17:49:58.000Z",
+  "text": "@MoonOverlord Not cool unless you did it from your refrigerator",
+  "url": "https://x.com/CryptoWendyO/status/2122749096792633447",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 652,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122746272528625930",
+   "text": "Just cracked Bitcoin's SHA-256 algorithm with the free chatbot from DoorDash"
+  }
+ },
+ {
+  "id": "2122749832607805774",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T17:52:53.000Z",
+  "text": "@HawleyMO This isn’t new and should have been investigated from the start \n\nOther countries have banned it but for some reason in America we do everything but protect our children \n\nChina, Iraq and Egypt have banned it … \n\nBetter late then never thanks",
+  "url": "https://x.com/CryptoWendyO/status/2122749832607805774",
+  "likes": 19,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 1078,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122715890466672919",
+   "text": "I am investigating allegations that Roblox, a popular online gaming platform for kids, has become a breeding ground for sexual predators. \n\nToday, as my Subcommittee holds the first-ever congressional hearing on Roblox’s practices, Senator Durbin and I will introduce new"
+  }
+ },
+ {
+  "id": "2122762174917427393",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-17T18:41:56.000Z",
+  "text": "BLACK SWAN ALERT! Bitcoin in DANGER as $1.4 TRILLION ERASED From Stock Market! American CYBERATTACK?✨ JOIN THE LIVE CONVERSATION ON YOUTUBE! https://t.co/otCMpqiYF6",
+  "url": "https://x.com/CryptoWendyO/status/2122762174917427393",
+  "likes": 52,
+  "retweets": 3,
+  "replies": 12,
+  "quotes": 1,
+  "impressions": 8501,
+  "bookmarks": 2,
+  "referenced": null
+ },
+ {
+  "id": "2122772761399504922",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-17T19:24:00.000Z",
+  "text": "I remember when I was homeless and went back to school, worked in unsafe conditions, had a round-trip commute of 3+ hours 4-5 times a week while in school, had a side hustle and then had a newborn baby, and bought my first house in the hood. https://t.co/LpdtDKURpM",
+  "url": "https://x.com/CryptoWendyO/status/2122772761399504922",
+  "likes": 206,
+  "retweets": 8,
+  "replies": 47,
+  "quotes": 1,
+  "impressions": 32131,
+  "bookmarks": 20,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122076401486430638",
+   "text": "OH THIS IS THE NASTIEST READ OF ALL TIME HE CLEARED HIM SO BAD LMFAOOO😭😭😭 https://t.co/P7ytKLyDDu https://t.co/MeXV6Vom7Z"
+  }
+ },
+ {
+  "id": "2122774677907186018",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:31:37.000Z",
+  "text": "@kenjohnscreates thanks friend",
+  "url": "https://x.com/CryptoWendyO/status/2122774677907186018",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 638,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122774354379317424",
+   "text": "@CryptoWendyO Yes! Lets goooo legend, b/c you're awesome 👏"
+  }
+ },
+ {
+  "id": "2122774774070054946",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:32:00.000Z",
+  "text": "@Khonqueeftador_ I did sleep in my car but also a lot of random places I should not have been in",
+  "url": "https://x.com/CryptoWendyO/status/2122774774070054946",
+  "likes": 7,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 642,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122773093286613430",
+   "text": "@CryptoWendyO When i was homeless I doordashed out of my car / lived in my car"
+  }
+ },
+ {
+  "id": "2122775734011990338",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:35:48.000Z",
+  "text": "@ronie72974718 It's literally all on the internet",
+  "url": "https://x.com/CryptoWendyO/status/2122775734011990338",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 447,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122774194027131329",
+   "text": "@CryptoWendyO You forgot to mention how you got that baby"
+  }
+ },
+ {
+  "id": "2122779055397409036",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:49:00.000Z",
+  "text": "@baddo345xyz it could have been worse \n\nI did get thrown across the back area when i worked at the thrift store by my sweater collar lol",
+  "url": "https://x.com/CryptoWendyO/status/2122779055397409036",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 503,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122776004712120707",
+   "text": "@CryptoWendyO You’ve been through hell mom but you came out stronger"
+  }
+ },
+ {
+  "id": "2122779271261495534",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:49:52.000Z",
+  "text": "@Npc92773 Ok well we can do sparkling water sips?!\n\ncan I use a wine glass",
+  "url": "https://x.com/CryptoWendyO/status/2122779271261495534",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 138,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122764372686909513",
+   "text": "@CryptoWendyO My weekday sobriety is already delicate Wendy!!  🤣"
+  }
+ },
+ {
+  "id": "2122781631023112691",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T19:59:14.000Z",
+  "text": "@solana Thank you cuties",
+  "url": "https://x.com/CryptoWendyO/status/2122781631023112691",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 342,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122773156255641886",
+   "text": "Thank you to everyone who worked behind the scenes to make Breakpoint 2026 a success 🙏💜 https://t.co/abB1reTyMx"
+  }
+ },
+ {
+  "id": "2122782859652149608",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:04:07.000Z",
+  "text": "@Candmremodeling ok ty",
+  "url": "https://x.com/CryptoWendyO/status/2122782859652149608",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 336,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122782142807838751",
+   "text": "that’s Wrong they are pulling money from the stock market  it will be injected into crypto.  see Wells Fargo latest purchase. https://t.co/nxAqhoFGwv"
+  }
+ },
+ {
+  "id": "2122782955194229005",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:04:30.000Z",
+  "text": "@EVNFT I really want to share my story but  bc im a girl it wont be recived well",
+  "url": "https://x.com/CryptoWendyO/status/2122782955194229005",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 450,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122773525048225815",
+   "text": "@CryptoWendyO 💜"
+  }
+ },
+ {
+  "id": "2122784416464335238",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-17T20:10:18.000Z",
+  "text": "Congrats! @goinginwrld1\n\nhttps://t.co/xr6VJIV2C9 https://t.co/k9TWgcQ025",
+  "url": "https://x.com/CryptoWendyO/status/2122784416464335238",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 1028,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2121023203841913053",
+   "text": "@CryptoWendyO @MetaWin Never left \n\n🆔 Goinginwrld"
+  }
+ },
+ {
+  "id": "2122786036413771958",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:16:45.000Z",
+  "text": "@Polymarket holy wow super shocking",
+  "url": "https://x.com/CryptoWendyO/status/2122786036413771958",
+  "likes": 21,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1564,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122784131449033145",
+   "text": "JUST IN: Major Harvard study reveals strict school cellphone bans are linked to higher math &amp; reading scores across 3.3 million U.S. students."
+  }
+ },
+ {
+  "id": "2122789370847699367",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-17T20:30:00.000Z",
+  "text": "Why is America the only place reporting cyber attacks? https://t.co/JfXdK2rtGB",
+  "url": "https://x.com/CryptoWendyO/status/2122789370847699367",
+  "likes": 441,
+  "retweets": 27,
+  "replies": 78,
+  "quotes": 5,
+  "impressions": 21962,
+  "bookmarks": 36,
+  "referenced": null
+ },
+ {
+  "id": "2122789538049462744",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-17T20:30:40.000Z",
+  "text": "The volatility on the new @MetaWin slot is crazy!\n\nMake sure you go claim your free 20 spins if you gamble\n\nEveryone who uses code MIAMI20 when they deposit qualifies\n\nThey have a $10k leaderboard running on top of the free spins as well…\n\nSince they’re being so generous with the promos I’ll run a little giveaway of my own\n\nComment your username once you sign up! I’ve got $100 for 1 of you",
+  "url": "https://x.com/CryptoWendyO/status/2122789538049462744",
+  "likes": 328,
+  "retweets": 169,
+  "replies": 330,
+  "quotes": 0,
+  "impressions": 8801,
+  "bookmarks": 40,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122766239118524903",
+   "text": "HUGE : New Drop.  Get 20 Free Spins on the brand new Miami Heist Slot at MetaWin.\n\nUse Code : MIAMI20 in the browse menu to activate and get access to today’s $10,000 leaderboard split 50% wagering 50% multipliers.\n\nNo deposit required, no wagering on wins. \n\nALL WELCOME. 🩵🩷 https://t.co/qnsELZpepi"
+  }
+ },
+ {
+  "id": "2122790751528731091",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:35:29.000Z",
+  "text": "@EVNFT BOOST!",
+  "url": "https://x.com/CryptoWendyO/status/2122790751528731091",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 368,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122780610678898777",
+   "text": "Hey everyone, I’m actively exploring new opportunities across crypto, fintech, and tech, primarily in growth, business development, marketing, and operations.\n\nI have 7+ years of experience building and scaling early-stage companies, with an extensive background in DeFi, partnerships, and GTM strategy.\n\nIf anyone knows of teams hiring or can facilitate a warm intro, I’d genuinely appreciate it. Ha"
+  }
+ },
+ {
+  "id": "2122793870824239471",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:47:53.000Z",
+  "text": "@EVNFT I will be on the lookout or we can just build something cool I do not have that skill",
+  "url": "https://x.com/CryptoWendyO/status/2122793870824239471",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 146,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122791041569087991",
+   "text": "@CryptoWendyO Wendy 💜🤝"
+  }
+ },
+ {
+  "id": "2122793947479388321",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:48:11.000Z",
+  "text": "@LawrenceRaichle like omg",
+  "url": "https://x.com/CryptoWendyO/status/2122793947479388321",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 385,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122791851891585092",
+   "text": "@CryptoWendyO 😂"
+  }
+ },
+ {
+  "id": "2122794353823551515",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:49:48.000Z",
+  "text": "@CryptoParadyme Send me some after the taco bell order \n\n*insert feet photo text*",
+  "url": "https://x.com/CryptoWendyO/status/2122794353823551515",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 733,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122790023926047146",
+   "text": "costco gold bars calling to me like the green goblin mask \n\ni will wait."
+  }
+ },
+ {
+  "id": "2122795255712096500",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:53:23.000Z",
+  "text": "@CKopi8602 OH NO NOT THE EUROS!",
+  "url": "https://x.com/CryptoWendyO/status/2122795255712096500",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 342,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122794490209489182",
+   "text": "@CryptoWendyO https://t.co/kS2HKCLRKX"
+  }
+ },
+ {
+  "id": "2122795775747055962",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T20:55:27.000Z",
+  "text": "@GavinNewsom https://t.co/fmRQuWZZr6",
+  "url": "https://x.com/CryptoWendyO/status/2122795775747055962",
+  "likes": 26,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 506,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122791656172990739",
+   "text": "The American people made themselves heard loud and clear.\n\nNow it's time to be RELENTLESS about delivering real results. https://t.co/9FG4kQIVSI"
+  }
+ },
+ {
+  "id": "2122802466702176671",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T21:22:02.000Z",
+  "text": "@CAgovernor Gavin Californians had to show up and support each other because you stole all the money ...",
+  "url": "https://x.com/CryptoWendyO/status/2122802466702176671",
+  "likes": 94,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1761,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122791509762445684",
+   "text": "Donald Trump needs to do the job he said he was going to do: deliver federal disaster relief for LA fire survivors.\n\nCalifornia has shown up for other states in moments of crisis. Now when is Trump going to show up for us? https://t.co/M8wwUS37PB"
+  }
+ },
+ {
+  "id": "2122802556405752040",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T21:22:23.000Z",
+  "text": "@decimated_game Like totally brother",
+  "url": "https://x.com/CryptoWendyO/status/2122802556405752040",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 333,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122798220594073776",
+   "text": "@CryptoWendyO This is like, totally the most American rant, like, ever. Like, y'know? https://t.co/gkchKCzTVN"
+  }
+ },
+ {
+  "id": "2122816012043313198",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T22:15:51.000Z",
+  "text": "@AaronBremser_ @AFpost I can do short form content",
+  "url": "https://x.com/CryptoWendyO/status/2122816012043313198",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 205,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122226072741986728",
+   "text": "We are looking for content creators @AFpost \n\n- Long and Short form video\n\n- Writing content (Can also write anonymously) \n\nIf this interests you please reply to this post"
+  }
+ },
+ {
+  "id": "2122816259209523537",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T22:16:50.000Z",
+  "text": "@celestial_slugz it is very rough right now, and I'm not discounting that for those just trying to cover food, shelter and energy \n\nI beleive in you",
+  "url": "https://x.com/CryptoWendyO/status/2122816259209523537",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 353,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122802237563134234",
+   "text": "@CryptoWendyO I'm about to be sleeping in my car 3 nights a week. Rto mandate after hiring me as a remote employee. Nearest office is 3.5 hours away one way. Have applied for jobs for 2 years and can't get a decent one to safe my life. But we shall prevail!"
+  }
+ },
+ {
+  "id": "2122816769454968876",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-17T22:18:52.000Z",
+  "text": "The worst decision $NVDA  could ever make \n\nThe people want Jensen back and don't care about his open marriage https://t.co/P6wy7m9zW5",
+  "url": "https://x.com/CryptoWendyO/status/2122816769454968876",
+  "likes": 385,
+  "retweets": 24,
+  "replies": 50,
+  "quotes": 1,
+  "impressions": 11461,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122814552416915645",
+   "text": "BREAKING: Nvidia’s chair officially declares “the board does not intend to reinstate Jensen Huang as CEO.”"
+  }
+ },
+ {
+  "id": "2122820523147313174",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-17T22:33:47.000Z",
+  "text": "@RonnieRipple603 im great tysm",
+  "url": "https://x.com/CryptoWendyO/status/2122820523147313174",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 323,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122817202487181524",
+   "text": "@CryptoWendyO Hope you have been well Wendy"
+  }
+ },
+ {
+  "id": "2122827128186261536",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-17T23:00:02.000Z",
+  "text": "You don’t hate these people enough.\n\nThey say AI agents causing bank runs is a huge risk…\n\nBut giving you 4-6% yield on stablecoins is \"too dangerous.\" https://t.co/Yskh8zmVJh",
+  "url": "https://x.com/CryptoWendyO/status/2122827128186261536",
+  "likes": 103,
+  "retweets": 13,
+  "replies": 19,
+  "quotes": 0,
+  "impressions": 6428,
+  "bookmarks": 2,
+  "referenced": null
+ },
+ {
+  "id": "2122852463565066406",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T00:40:42.000Z",
+  "text": "@Jason Are you wearing new balances while posting this?",
+  "url": "https://x.com/CryptoWendyO/status/2122852463565066406",
   "likes": 26,
   "retweets": 0,
-  "replies": 14,
+  "replies": 6,
   "quotes": 0,
+  "impressions": 1821,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122838434163421659",
+   "text": "Best dad joke below gets $420"
+  }
+ },
+ {
+  "id": "2122852520922100077",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T00:40:56.000Z",
+  "text": "@nickisanders Girl byyyyyyye 😂",
+  "url": "https://x.com/CryptoWendyO/status/2122852520922100077",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 209,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122798558277767661",
+   "text": "So fun fact, it’s only a cyber attack if it comes from the cyber region of France. Otherwise it’s called a sparkling network failure."
+  }
+ },
+ {
+  "id": "2122853139795869935",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-18T00:43:23.000Z",
+  "text": "Why do I have to pay taxes when the Pentagon can’t pass a financial audit and verify $2 trillion in asset? https://t.co/8HJzrslL3I",
+  "url": "https://x.com/CryptoWendyO/status/2122853139795869935",
+  "likes": 1819,
+  "retweets": 154,
+  "replies": 81,
+  "quotes": 5,
+  "impressions": 33626,
+  "bookmarks": 20,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122758928312193034",
+   "text": "JUST IN: 🇺🇸 Pentagon fails 9th consecutive financial audit, unable to fully verify over $2 trillion in assets."
+  }
+ },
+ {
+  "id": "2122854765969412554",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T00:49:51.000Z",
+  "text": "@QTHESTORMM Heck yeah",
+  "url": "https://x.com/CryptoWendyO/status/2122854765969412554",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 520,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122853357329232070",
+   "text": "@CryptoWendyO Because there is only 7 people working at the Pentagon ..."
+  }
+ },
+ {
+  "id": "2122859093295829122",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T01:07:03.000Z",
+  "text": "@dejanjurisic The birth rate is declining",
+  "url": "https://x.com/CryptoWendyO/status/2122859093295829122",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 566,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122858468881432785",
+   "text": "@CryptoWendyO Our grandchildren will look back and think we were so stupid for letting it get this bad!"
+  }
+ },
+ {
+  "id": "2122859147247116592",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T01:07:16.000Z",
+  "text": "@theinvestorguyy Heck yeah I love this!",
+  "url": "https://x.com/CryptoWendyO/status/2122859147247116592",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 404,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122854568900153658",
+   "text": "@CryptoWendyO Wendy, I don't always agree with what you have to say and that's okay but this however I agree 1000%!"
+  }
+ },
+ {
+  "id": "2122859500164243784",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T01:08:40.000Z",
+  "text": "@SolJakey Congrats to you both! \n\nI hope Chippy gets a million peanut butter Sammy’s and rib eyes",
+  "url": "https://x.com/CryptoWendyO/status/2122859500164243784",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 356,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122851739535806906",
+   "text": "Meet my new bestfriend chippy! https://t.co/PGEoJoQCsr"
+  }
+ },
+ {
+  "id": "2122864644356505956",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T01:29:06.000Z",
+  "text": "@C_H_ICO @Jason Nope",
+  "url": "https://x.com/CryptoWendyO/status/2122864644356505956",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 121,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122863481875751353",
+   "text": "@CryptoWendyO @Jason Do NB slides count?"
+  }
+ },
+ {
+  "id": "2122879282066477351",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "quote",
+  "created_at": "2026-11-18T02:27:16.000Z",
+  "text": "I remember when I gave birth on Friday and my daughters dad went back to work on Monday. \n\nHe would get up at 3-5am and get home 5-7pm 5 days a week sometimes 7. \n\nI had horrible postpartum depression and complications from giving birth \n\nI went back to school a month after https://t.co/WIbUiW7t1r",
+  "url": "https://x.com/CryptoWendyO/status/2122879282066477351",
+  "likes": 193,
+  "retweets": 5,
+  "replies": 22,
+  "quotes": 1,
+  "impressions": 14850,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122772761399504922",
+   "author": "CryptoWendyO",
+   "text": "I remember when I was homeless and went back to school, worked in unsafe conditions, had a round-trip commute of 3+ hours 4-5 times a week while in school, had a side hustle and then had a newborn baby, and bought my first house in the hood. https://t.co/LpdtDKURpM"
+  }
+ },
+ {
+  "id": "2122882068887814584",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T02:38:21.000Z",
+  "text": "@rustincavel Thank you. \n\nThat is a very very small part of my life that I can share.",
+  "url": "https://x.com/CryptoWendyO/status/2122882068887814584",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 213,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122881377062535640",
+   "text": "@CryptoWendyO Helluva come up, Wendy"
+  }
+ },
+ {
+  "id": "2122882359234359688",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T02:39:30.000Z",
+  "text": "@jamesrealezz Different place different struggle",
+  "url": "https://x.com/CryptoWendyO/status/2122882359234359688",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 211,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122879634295410804",
+   "text": "@CryptoWendyO It must have been so trauma  🫤 I'm glad you're in a better place now Wendy"
+  }
+ },
+ {
+  "id": "2122882603489648999",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T02:40:28.000Z",
+  "text": "@tding35x That was a challenging time \n\nI shared because I want people to know it takes years sometimes",
+  "url": "https://x.com/CryptoWendyO/status/2122882603489648999",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 254,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122880245745467495",
+   "text": "@CryptoWendyO Dang girl, you are freaking battle-tested👏🏻."
+  }
+ },
+ {
+  "id": "2122883293347807354",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T02:43:13.000Z",
+  "text": "@SonnieJohnson Iconic mother",
+  "url": "https://x.com/CryptoWendyO/status/2122883293347807354",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 300,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122882641665867938",
+   "text": "Cooked pork chops and cabbage for dinner.  Little 1 is sick and wants soup. Guess who's making zuppa toscana before bed😭😭😭"
+  }
+ },
+ {
+  "id": "2122885038786441708",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T02:50:09.000Z",
+  "text": "@rustincavel This. My daughter made it for me and slide it under my door during a stream. \n\nIt’s important because no other job would allow me to work around her schedule and be there for her on call https://t.co/yJE0OR3Wqr",
+  "url": "https://x.com/CryptoWendyO/status/2122885038786441708",
+  "likes": 46,
+  "retweets": 1,
+  "replies": 6,
+  "quotes": 0,
+  "impressions": 1205,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122880335360950739",
+   "text": "What is your most meaningful possession, and why?"
+  }
+ },
+ {
+  "id": "2122887633223520390",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T03:00:27.000Z",
+  "text": "@rustincavel Thank you. A few years ago I save all the little things she slips under my door while steaming",
+  "url": "https://x.com/CryptoWendyO/status/2122887633223520390",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 133,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122887266615939189",
+   "text": "@CryptoWendyO Wow. Thank you for sharing. Your availability to her will not be lost on her, even though she will likely never fully understand the sacrifices to get where you are.\n\nHow long ago was this?"
+  }
+ },
+ {
+  "id": "2122891485813289024",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T03:15:46.000Z",
+  "text": "@rustincavel No lol. I just tell her things like I’ll get her ice cream when I’m done 😂",
+  "url": "https://x.com/CryptoWendyO/status/2122891485813289024",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 117,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122888120211223004",
+   "text": "@CryptoWendyO Do you ever slip any back?"
+  }
+ },
+ {
+  "id": "2122913186722836984",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "original",
+  "created_at": "2026-11-18T04:42:00.000Z",
+  "text": "Goodnight to everyone who wear a leather jacket. \n\nSleep well King. https://t.co/jF4TrtRCa7",
+  "url": "https://x.com/CryptoWendyO/status/2122913186722836984",
+  "likes": 113,
+  "retweets": 4,
+  "replies": 36,
+  "quotes": 0,
+  "impressions": 5418,
   "bookmarks": 3,
-  "impressions": 3690,
-  "score": 57,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": null
+ },
+ {
+  "id": "2122921444539805752",
+  "username": "CryptoWendyO",
+  "username_canon": "CryptoWendyO",
+  "type": "reply",
+  "created_at": "2026-11-18T05:14:49.000Z",
+  "text": "@cDJClash See ya!",
+  "url": "https://x.com/CryptoWendyO/status/2122921444539805752",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 139,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122917149719310824",
+   "text": "@CryptoWendyO Good night Wendy! See you on your next livestream"
+  }
  }
 ]

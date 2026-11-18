@@ -1,4 +1,4 @@
-# @ZeMariaMacedo — посты за 2026-11-17
+# @ZeMariaMacedo — посты за 2026-11-18
 
 Всего: 1
 
@@ -8,5 +8,5 @@ For a long time yet, AI is the lever and humans are the fulcrum. It's just such 
 
 Returns to judgment scale with the size of the lever, which is why I've never been more bullish on exceptional humans
 
-❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1496  
+❤ 10 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2082  
 https://x.com/ZeMariaMacedo/status/2122647111309148336

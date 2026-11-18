@@ -1,320 +1,19 @@
 [
  {
-  "id": "2122340351922893210",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "retweet",
-  "created_at": "2026-11-16T14:45:45.000Z",
-  "text": "RT @Shinjuku6900: Day 1 of DCAing $10 into #SPX6900 every single day. Inspired by @maddox00000 💚 https://t.co/Vn1AgB7cOs",
-  "text_flat": "RT @Shinjuku6900: Day 1 of DCAing $10 into #SPX6900 every single day. Inspired by @maddox00000 💚 https://t.co/Vn1AgB7cOs",
-  "url": "https://x.com/MustStopMurad/status/2122340351922893210",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122168714925871204",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1960127673197555712",
-     "start": 3,
-     "username": "Shinjuku6900"
-    },
-    {
-     "end": 94,
-     "id": "160358122",
-     "start": 82,
-     "username": "maddox00000"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 44,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 22528,
-  "score": 132,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122359484337062196",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "original",
-  "created_at": "2026-11-16T16:01:47.000Z",
-  "text": "Consistency is Power.\n\nLet’s make the World Ours.",
-  "text_flat": "Consistency is Power.  Let’s make the World Ours.",
-  "url": "https://x.com/MustStopMurad/status/2122359484337062196",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 843,
-  "retweets": 136,
-  "replies": 136,
-  "quotes": 14,
-  "bookmarks": 31,
-  "impressions": 40514,
-  "score": 1596,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122385732044005751",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "retweet",
-  "created_at": "2026-11-16T17:46:05.000Z",
-  "text": "RT @MarketMayhdxc7: @GrillapeTRW nice meeting you tonight brother! First time meeting an aeon IRL. Thanks for the flyers, next time i’ll ha…",
-  "text_flat": "RT @MarketMayhdxc7: @GrillapeTRW nice meeting you tonight brother! First time meeting an aeon IRL. Thanks for the flyers, next time i’ll ha…",
-  "url": "https://x.com/MustStopMurad/status/2122385732044005751",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2121797679223046184",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 18,
-     "id": "2059381871054618625",
-     "start": 3,
-     "username": "MarketMayhdxc7"
-    },
-    {
-     "end": 32,
-     "id": "295897609",
-     "start": 20,
-     "username": "GrillapeTRW"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 37,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 22871,
-  "score": 111,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122399204530323781",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "original",
-  "created_at": "2026-11-16T18:39:37.000Z",
-  "text": "The thing about the crypto market is that it reprices assets very fast\n\nYou are either there when the asset is unnoticed by the majority\n\nOr you miss out on the biggest opportunity of the decade",
-  "text_flat": "The thing about the crypto market is that it reprices assets very fast  You are either there when the asset is unnoticed by the majority  Or you miss out on the biggest opportunity of the decade",
-  "url": "https://x.com/MustStopMurad/status/2122399204530323781",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 994,
-  "retweets": 134,
-  "replies": 134,
-  "quotes": 15,
-  "bookmarks": 33,
-  "impressions": 46442,
-  "score": 1742,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122415046118563905",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "retweet",
-  "created_at": "2026-11-16T19:42:34.000Z",
-  "text": "RT @user_aeon_one: What if we fought back?\n\nSPX6900 https://t.co/9AXLJyxWNo",
-  "text_flat": "RT @user_aeon_one: What if we fought back?  SPX6900 https://t.co/9AXLJyxWNo",
-  "url": "https://x.com/MustStopMurad/status/2122415046118563905",
-  "lang": "en",
-  "conversation_id": "2122415046118563905",
-  "referenced": [
-   {
-    "id": "2120528854116692051",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "1401725907488980995",
-     "start": 3,
-     "username": "user_aeon_one"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/9AXLJyxWNo",
-     "end": 75,
-     "expanded_url": "https://x.com/user_aeon_one/status/2120528854116692051/video/1",
-     "media_key": "13_2120528815625539584",
-     "start": 52,
-     "url": "https://t.co/9AXLJyxWNo"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 37,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 21359,
-  "score": 111,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122439743862374558",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "original",
-  "created_at": "2026-11-16T21:20:42.000Z",
-  "text": "SPX6900 is Counter-culture in a World without Counter-culture.\n\ncredit: @STPC_Pro https://t.co/RyCK3mI120",
-  "text_flat": "SPX6900 is Counter-culture in a World without Counter-culture.  credit: @STPC_Pro https://t.co/RyCK3mI120",
-  "url": "https://x.com/MustStopMurad/status/2122439743862374558",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 81,
-     "id": "1902735910602506240",
-     "start": 72,
-     "username": "STPC_Pro"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 477,
-  "retweets": 130,
-  "replies": 65,
-  "quotes": 0,
-  "bookmarks": 25,
-  "impressions": 30709,
-  "score": 1022,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122476691146608958",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "retweet",
-  "created_at": "2026-11-16T23:47:31.000Z",
-  "text": "RT @maddox00000: you know it’s time to Flip The Stock Market when Kevin O’Leary, a boomer wearing 2 watches worth millions of dollars at sa…",
-  "text_flat": "RT @maddox00000: you know it’s time to Flip The Stock Market when Kevin O’Leary, a boomer wearing 2 watches worth millions of dollars at sa…",
-  "url": "https://x.com/MustStopMurad/status/2122476691146608958",
-  "lang": "en",
-  "conversation_id": "2122476691146608958",
-  "referenced": [
-   {
-    "id": "2122469832998166718",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "160358122",
-     "start": 3,
-     "username": "maddox00000"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 52,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 19695,
-  "score": 156,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122502400128991239",
-  "username": "MustStopMurad",
-  "username_canon": "MustStopMurad",
-  "type": "retweet",
-  "created_at": "2026-11-17T01:29:41.000Z",
-  "text": "RT @Matthew_C_Beck: In a Global Trust Crisis\n\nWith no clear solutions\n\nGo outside the box\n\nBuild a Global Trust Asset\n\nWith the truest beli…",
-  "text_flat": "RT @Matthew_C_Beck: In a Global Trust Crisis  With no clear solutions  Go outside the box  Build a Global Trust Asset  With the truest beli…",
-  "url": "https://x.com/MustStopMurad/status/2122502400128991239",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2121610029522616749",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 18,
-     "id": "715850721346908160",
-     "start": 3,
-     "username": "Matthew_C_Beck"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 86,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 18927,
-  "score": 258,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122630989776142722",
   "username": "MustStopMurad",
   "username_canon": "MustStopMurad",
   "type": "original",
   "created_at": "2026-11-17T10:00:39.000Z",
   "text": "People who want to win today will fail.\n\nPeople who want to win a year from now will succeed.",
-  "text_flat": "People who want to win today will fail.  People who want to win a year from now will succeed.",
   "url": "https://x.com/MustStopMurad/status/2122630989776142722",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 609,
-  "retweets": 79,
-  "replies": 155,
-  "quotes": 14,
-  "bookmarks": 17,
-  "impressions": 31345,
-  "score": 1215,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 1058,
+  "retweets": 133,
+  "replies": 187,
+  "quotes": 18,
+  "impressions": 46609,
+  "bookmarks": 32,
+  "referenced": null
  },
  {
   "id": "2122634038594666771",
@@ -323,36 +22,19 @@
   "type": "reply",
   "created_at": "2026-11-17T10:12:46.000Z",
   "text": "@lmrankhan 1) a Billion AI agents flooding the on-chain world\n\n2) massive wave of money printing \n\n3) all software being increasingly reverse-engineerable, with 'scarcity' and 'premia' moving to things with onchain/cryptographic provenance\n\n4) continued mega-trend of",
-  "text_flat": "@lmrankhan 1) a Billion AI agents flooding the on-chain world  2) massive wave of money printing   3) all software being increasingly reverse-engineerable, with 'scarcity' and 'premia' moving to things with onchain/cryptographic provenance  4) continued mega-trend of",
   "url": "https://x.com/MustStopMurad/status/2122634038594666771",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122543867585007646",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "57584739",
-     "start": 0,
-     "username": "lmrankhan"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 124,
-  "retweets": 22,
-  "replies": 15,
+  "likes": 198,
+  "retweets": 38,
+  "replies": 16,
   "quotes": 1,
-  "bookmarks": 6,
-  "impressions": 3406,
-  "score": 229,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 5657,
+  "bookmarks": 10,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122543867585007646",
+   "author": "lmrankhan",
+   "text": "Here's my unabashed hyper bullish view on where crypto is going  \n\nEvery onchain cycle since 2013, we've had an onchain boom/bust. The boom typically shows what pmf would look like for onchain experiments if it were sustainable and with the bust it kills 95% of the experiments"
+  }
  },
  {
   "id": "2122649421901173076",
@@ -361,36 +43,18 @@
   "type": "retweet",
   "created_at": "2026-11-17T11:13:53.000Z",
   "text": "RT @Vadimme53293584: Everyone is tired and they know that the system is rigged. Everyone is talking about uniting together. Everyone is loo…",
-  "text_flat": "RT @Vadimme53293584: Everyone is tired and they know that the system is rigged. Everyone is talking about uniting together. Everyone is loo…",
   "url": "https://x.com/MustStopMurad/status/2122649421901173076",
-  "lang": "en",
-  "conversation_id": "2122649421901173076",
-  "referenced": [
-   {
-    "id": "2122347896494260484",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "971952060898988032",
-     "start": 3,
-     "username": "Vadimme53293584"
-    }
-   ]
-  },
-  "low_substance": true,
   "likes": 0,
-  "retweets": 19,
+  "retweets": 27,
   "replies": 0,
   "quotes": 0,
+  "impressions": 23595,
   "bookmarks": 0,
-  "impressions": 16877,
-  "score": 57,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122347896494260484",
+   "text": "Everyone is tired and they know that the system is rigged. Everyone is talking about uniting together. Everyone is looking for something like #spx6900 movement. They just haven’t found it yet, but they will. Consider yourself very lucky to have found spx extremely early."
+  }
  },
  {
   "id": "2122662903383781540",
@@ -399,21 +63,97 @@
   "type": "original",
   "created_at": "2026-11-17T12:07:27.000Z",
   "text": "Value will flow to loyalty\n\nValue will flow to persistence\n\nValue will flow to trust",
-  "text_flat": "Value will flow to loyalty  Value will flow to persistence  Value will flow to trust",
   "url": "https://x.com/MustStopMurad/status/2122662903383781540",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 401,
+  "likes": 878,
+  "retweets": 147,
+  "replies": 168,
+  "quotes": 18,
+  "impressions": 41853,
+  "bookmarks": 21,
+  "referenced": null
+ },
+ {
+  "id": "2122697379203743874",
+  "username": "MustStopMurad",
+  "username_canon": "MustStopMurad",
+  "type": "original",
+  "created_at": "2026-11-17T14:24:27.000Z",
+  "text": "SPX6900 will become the biggest crypto asset in the World.",
+  "url": "https://x.com/MustStopMurad/status/2122697379203743874",
+  "likes": 1060,
+  "retweets": 187,
+  "replies": 190,
+  "quotes": 19,
+  "impressions": 63155,
+  "bookmarks": 26,
+  "referenced": null
+ },
+ {
+  "id": "2122728172961595540",
+  "username": "MustStopMurad",
+  "username_canon": "MustStopMurad",
+  "type": "original",
+  "created_at": "2026-11-17T16:26:49.000Z",
+  "text": "Most won't make it not because they are dumb.\n\nBut because they are impatient.\n\nThe biggest opportunity is right in front of you.\n\nAll you have to do is buy and hold.",
+  "url": "https://x.com/MustStopMurad/status/2122728172961595540",
+  "likes": 1026,
+  "retweets": 168,
+  "replies": 177,
+  "quotes": 24,
+  "impressions": 43181,
+  "bookmarks": 47,
+  "referenced": null
+ },
+ {
+  "id": "2122749483049996584",
+  "username": "MustStopMurad",
+  "username_canon": "MustStopMurad",
+  "type": "retweet",
+  "created_at": "2026-11-17T17:51:30.000Z",
+  "text": "RT @GhostOfTanzCho: Nobody wanted Bitcoin. It was a joke. So Bitcoiners exposed the flaws of Broken Money. Nobody wanted SPX6900. It was a…",
+  "url": "https://x.com/MustStopMurad/status/2122749483049996584",
+  "likes": 0,
+  "retweets": 53,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 21010,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122296663775785090",
+   "text": "Nobody wanted Bitcoin. It was a joke. So Bitcoiners exposed the flaws of Broken Money. Nobody wanted SPX6900. It was a joke. So Aeons exposed the flaws of a Broken System."
+  }
+ },
+ {
+  "id": "2122790179543110037",
+  "username": "MustStopMurad",
+  "username_canon": "MustStopMurad",
+  "type": "original",
+  "created_at": "2026-11-17T20:33:12.000Z",
+  "text": "How I feel after buying more SPX6900 https://t.co/FAY0QxsxZa",
+  "url": "https://x.com/MustStopMurad/status/2122790179543110037",
+  "likes": 538,
+  "retweets": 116,
+  "replies": 105,
+  "quotes": 11,
+  "impressions": 35663,
+  "bookmarks": 23,
+  "referenced": null
+ },
+ {
+  "id": "2122858913791877613",
+  "username": "MustStopMurad",
+  "username_canon": "MustStopMurad",
+  "type": "original",
+  "created_at": "2026-11-18T01:06:20.000Z",
+  "text": "Going Live on the SPX6900 Into the Cognisphere Podcast\n\nhttps://t.co/fmu1IIYH5G",
+  "url": "https://x.com/MustStopMurad/status/2122858913791877613",
+  "likes": 230,
   "retweets": 70,
-  "replies": 120,
-  "quotes": 10,
-  "bookmarks": 11,
-  "impressions": 23972,
-  "score": 892,
-  "cashtags": [],
-  "hashtags": []
+  "replies": 41,
+  "quotes": 3,
+  "impressions": 27222,
+  "bookmarks": 23,
+  "referenced": null
  }
 ]

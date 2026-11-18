@@ -1,1524 +1,23 @@
 [
  {
-  "id": "2122338175913759140",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T14:37:06.000Z",
-  "text": "I think this is the right move for Saylor and Strategy.\n\nThe average repurchase price of $STRC was $99.93 per share. Practically no discount, and zero new issuance on a week when it touched $100.\n\nThey funded the entire $BTC and STRC purchases via issuing new $MSTR shares.\n\nIs https://t.co/tYFBjRHD3E",
-  "text_flat": "I think this is the right move for Saylor and Strategy.  The average repurchase price of $STRC was $99.93 per share. Practically no discount, and zero new issuance on a week when it touched $100.  They funded the entire $BTC and STRC purchases via issuing new $MSTR shares.  Is https://t.co/tYFBjRHD3E",
-  "url": "https://x.com/CryptoKaleo/status/2122338175913759140",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122315179522429177",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 301,
-     "start": 278,
-     "url": "https://t.co/tYFBjRHD3E"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 158,
-  "retweets": 4,
-  "replies": 28,
-  "quotes": 1,
-  "bookmarks": 7,
-  "impressions": 42881,
-  "score": 236,
-  "cashtags": [
-   "BTC",
-   "MSTR",
-   "STRC"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122338601606263262",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T14:38:48.000Z",
-  "text": "@WIFforLife nope?",
-  "text_flat": "@WIFforLife nope?",
-  "url": "https://x.com/CryptoKaleo/status/2122338601606263262",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122338314741256306",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1714984435257376768",
-     "start": 0,
-     "username": "WIFforLife"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 838,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122341692573471204",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T14:51:05.000Z",
-  "text": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f \n\nSlowly then all at once\n\nBillions will think 🤔🐈 https://t.co/UUqmmxP5ls",
-  "text_flat": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f   Slowly then all at once  Billions will think 🤔🐈 https://t.co/UUqmmxP5ls",
-  "url": "https://x.com/CryptoKaleo/status/2122341692573471204",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 147,
-  "retweets": 19,
-  "replies": 31,
-  "quotes": 2,
-  "bookmarks": 1,
-  "impressions": 28805,
-  "score": 273,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122342349972127761",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T14:53:42.000Z",
-  "text": "The next Robinhood Chain up will make the last one look like a test pump.",
-  "text_flat": "The next Robinhood Chain up will make the last one look like a test pump.",
-  "url": "https://x.com/CryptoKaleo/status/2122342349972127761",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 11233,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122342392481087977",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T14:53:52.000Z",
-  "text": "The next Robinhood Chain leg up will make the last one look like a test pump.",
-  "text_flat": "The next Robinhood Chain leg up will make the last one look like a test pump.",
-  "url": "https://x.com/CryptoKaleo/status/2122342392481087977",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 470,
-  "retweets": 29,
-  "replies": 86,
-  "quotes": 8,
-  "bookmarks": 12,
-  "impressions": 45380,
-  "score": 765,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122353585916645693",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T15:38:20.000Z",
-  "text": "One of the most interesting parts about fomo is having the ability to watch big name KOLs chop themselves to shreds overtrading in real time.\n\nAs long as the market is good and a consistent spicket of copy traders are there, they do fine.\n\nWhen the market dries up and the copy",
-  "text_flat": "One of the most interesting parts about fomo is having the ability to watch big name KOLs chop themselves to shreds overtrading in real time.  As long as the market is good and a consistent spicket of copy traders are there, they do fine.  When the market dries up and the copy",
-  "url": "https://x.com/CryptoKaleo/status/2122353585916645693",
-  "lang": "en",
-  "conversation_id": "2122353585916645693",
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 123,
-  "retweets": 8,
-  "replies": 47,
-  "quotes": 2,
-  "bookmarks": 5,
-  "impressions": 24571,
-  "score": 252,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122354985044218102",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T15:43:54.000Z",
-  "text": "e.g. people have called me mentally insane for doing this with $HMM  but feel like it'll seem obvious in hindsight why it's maintained such a strong floor and outperformed the majority of everything else in the trenches recently. It's a lot easier to defend one position then https://t.co/hE81Pfwdds",
-  "text_flat": "e.g. people have called me mentally insane for doing this with $HMM  but feel like it'll seem obvious in hindsight why it's maintained such a strong floor and outperformed the majority of everything else in the trenches recently. It's a lot easier to defend one position then https://t.co/hE81Pfwdds",
-  "url": "https://x.com/CryptoKaleo/status/2122354985044218102",
-  "lang": "en",
-  "conversation_id": "2122353585916645693",
-  "referenced": [
-   {
-    "id": "2122353585916645693",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 67,
-     "start": 63,
-     "tag": "HMM"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/hE81Pfwdds",
-     "end": 299,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122354985044218102/photo/1",
-     "media_key": "3_2122354468775751680",
-     "start": 276,
-     "url": "https://t.co/hE81Pfwdds"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 53,
-  "retweets": 8,
-  "replies": 7,
-  "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 4545,
-  "score": 92,
-  "cashtags": [
-   "HMM"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122357462770843688",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T15:53:45.000Z",
-  "text": "@Eagle_0X love to see it\n\ncat coin supercycle",
-  "text_flat": "@Eagle_0X love to see it  cat coin supercycle",
-  "url": "https://x.com/CryptoKaleo/status/2122357462770843688",
-  "lang": "en",
-  "conversation_id": "2122342392481087977",
-  "referenced": [
-   {
-    "id": "2122354352161771815",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1454831937676324867",
-     "start": 0,
-     "username": "Eagle_0X"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 665,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122359061538595029",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T16:00:06.000Z",
-  "text": "@mikematvei quadrillions it is then",
-  "text_flat": "@mikematvei quadrillions it is then",
-  "url": "https://x.com/CryptoKaleo/status/2122359061538595029",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122355769551233386",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "365591047",
-     "start": 0,
-     "username": "mikematvei"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 409,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122359649160855774",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T16:02:26.000Z",
-  "text": "@andyyy deserves more",
-  "text_flat": "@andyyy deserves more",
-  "url": "https://x.com/CryptoKaleo/status/2122359649160855774",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122303474784170084",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 7,
-     "id": "1046811588752285699",
-     "start": 0,
-     "username": "andyyy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 5,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 874,
-  "score": 9,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122362445163319779",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T16:13:33.000Z",
-  "text": "@BluntCap 🤔🐈",
-  "text_flat": "@BluntCap 🤔🐈",
-  "url": "https://x.com/CryptoKaleo/status/2122362445163319779",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122344521929462173",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1576088736940658693",
-     "start": 0,
-     "username": "BluntCap"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 7,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 768,
-  "score": 7,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122365641990762737",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T16:26:15.000Z",
-  "text": "hmm... looks ready https://t.co/NHvsRJzjaY",
-  "text_flat": "hmm... looks ready https://t.co/NHvsRJzjaY",
-  "url": "https://x.com/CryptoKaleo/status/2122365641990762737",
-  "lang": "en",
-  "conversation_id": "2122341692573471204",
-  "referenced": [
-   {
-    "id": "2122341692573471204",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/NHvsRJzjaY",
-     "end": 42,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122365641990762737/photo/1",
-     "media_key": "3_2122365538298957824",
-     "start": 19,
-     "url": "https://t.co/NHvsRJzjaY"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 25,
-  "retweets": 4,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 3077,
-  "score": 40,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122381010570539447",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T17:27:19.000Z",
-  "text": "@Kolten2TheM00N RIP",
-  "text_flat": "@Kolten2TheM00N RIP",
-  "url": "https://x.com/CryptoKaleo/status/2122381010570539447",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122377715504357442",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "952173656335056896",
-     "start": 0,
-     "username": "Kolten2TheM00N"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 589,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122383569351750101",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T17:37:29.000Z",
-  "text": "@Crypto_Pericles hmm 🤔🐈\n\nbullish",
-  "text_flat": "@Crypto_Pericles hmm 🤔🐈  bullish",
-  "url": "https://x.com/CryptoKaleo/status/2122383569351750101",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122352626524094732",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "634791458",
-     "start": 0,
-     "username": "Crypto_Pericles"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 11,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 566,
-  "score": 11,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122384900510658753",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T17:42:46.000Z",
-  "text": "@0xmasiwei 还早呢，兄弟。",
-  "text_flat": "@0xmasiwei 还早呢，兄弟。",
-  "url": "https://x.com/CryptoKaleo/status/2122384900510658753",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122383930036998455",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "4700535975",
-     "start": 0,
-     "username": "0xmasiwei"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 396,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122386899973144708",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T17:50:43.000Z",
-  "text": "\"Robinhood Chain is dead\"\n\nhmm...\n\nNot quite https://t.co/v1bbhQBWSa https://t.co/N3Makl1fBP",
-  "text_flat": "\"Robinhood Chain is dead\"  hmm...  Not quite https://t.co/v1bbhQBWSa https://t.co/N3Makl1fBP",
-  "url": "https://x.com/CryptoKaleo/status/2122386899973144708",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122342392481087977",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 92,
-     "start": 69,
-     "url": "https://t.co/N3Makl1fBP"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 346,
-  "retweets": 26,
-  "replies": 105,
-  "quotes": 5,
-  "bookmarks": 17,
-  "impressions": 39633,
-  "score": 666,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122388177315037333",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T17:55:48.000Z",
-  "text": "Back to the top of the fomo leaderboard using the same strategy from early August.\n\n➡️ https://t.co/InSTibk0Ug\n\nI still believe in the power of patience, concentrated capital and attention, and a community who actually bullieves in what they buy.\n\nHMM will teach the trenches how https://t.co/wWgzGoeV6Y https://t.co/TVlAWjNICy",
-  "text_flat": "Back to the top of the fomo leaderboard using the same strategy from early August.  ➡️ https://t.co/InSTibk0Ug  I still believe in the power of patience, concentrated capital and attention, and a community who actually bullieves in what they buy.  HMM will teach the trenches how https://t.co/wWgzGoeV6Y https://t.co/TVlAWjNICy",
-  "url": "https://x.com/CryptoKaleo/status/2122388177315037333",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2085342159406792941",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 327,
-     "start": 304,
-     "url": "https://t.co/TVlAWjNICy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 109,
-  "retweets": 13,
-  "replies": 39,
-  "quotes": 0,
-  "bookmarks": 3,
-  "impressions": 21407,
-  "score": 229,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122390606899253493",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T18:05:27.000Z",
-  "text": "@mememe69696969 Hmm...",
-  "text_flat": "@mememe69696969 Hmm...",
-  "url": "https://x.com/CryptoKaleo/status/2122390606899253493",
-  "lang": "und",
-  "conversation_id": "2122389462798012799",
-  "referenced": [
-   {
-    "id": "2122389462798012799",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1453982860663087107",
-     "start": 0,
-     "username": "mememe69696969"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 28,
-  "retweets": 0,
-  "replies": 3,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 933,
-  "score": 34,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122392280040686002",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T18:12:06.000Z",
-  "text": "@SnipesSparta yes sir 🤝\n\nbest thing to do in a bear market is find a coin and narrative you have conviction in (e.g. not just a quick flip trade) and just patiently accumulate\n\nestablish yourself as part of the lore of the chain and cycle and eventually the market will do the work for you",
-  "text_flat": "@SnipesSparta yes sir 🤝  best thing to do in a bear market is find a coin and narrative you have conviction in (e.g. not just a quick flip trade) and just patiently accumulate  establish yourself as part of the lore of the chain and cycle and eventually the market will do the work for you",
-  "url": "https://x.com/CryptoKaleo/status/2122392280040686002",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122376980632948794",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1752799378006241280",
-     "start": 0,
-     "username": "SnipesSparta"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 420,
-  "score": 3,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122393467657830461",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T18:16:49.000Z",
-  "text": "So what happens when Robinhood starts actually listing more of the native assets it's been adding and Bitcoin and ETH start printing green candles again?\n\nhmm...\n\nthink bigger https://t.co/XZlZhMHgFu",
-  "text_flat": "So what happens when Robinhood starts actually listing more of the native assets it's been adding and Bitcoin and ETH start printing green candles again?  hmm...  think bigger https://t.co/XZlZhMHgFu",
-  "url": "https://x.com/CryptoKaleo/status/2122393467657830461",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 178,
-  "retweets": 17,
-  "replies": 54,
-  "quotes": 2,
-  "bookmarks": 3,
-  "impressions": 18886,
-  "score": 346,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122395538029195339",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T18:25:03.000Z",
-  "text": "Hmm\n\nTop clan on FOMO also 🤔🐈 https://t.co/w53qa9A54I",
-  "text_flat": "Hmm  Top clan on FOMO also 🤔🐈 https://t.co/w53qa9A54I",
-  "url": "https://x.com/CryptoKaleo/status/2122395538029195339",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122388177315037333",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {},
-  "low_substance": false,
-  "likes": 20,
-  "retweets": 5,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 3209,
-  "score": 39,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122407337424253094",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T19:11:56.000Z",
-  "text": "@mikematvei @fomo Love to see it",
-  "text_flat": "@mikematvei @fomo Love to see it",
-  "url": "https://x.com/CryptoKaleo/status/2122407337424253094",
-  "lang": "en",
-  "conversation_id": "2122394580863648052",
-  "referenced": [
-   {
-    "id": "2122394580863648052",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "365591047",
-     "start": 0,
-     "username": "mikematvei"
-    },
-    {
-     "end": 17,
-     "id": "1867712496531877888",
-     "start": 12,
-     "username": "fomo"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 14,
-  "retweets": 1,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 589,
-  "score": 19,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122415014296608948",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T19:42:26.000Z",
-  "text": "Wondered why the UK started to decline so much after Covid.\n\nIf this was British leadership, I no longer wonder. https://t.co/cq7Fv3YRiA",
-  "text_flat": "Wondered why the UK started to decline so much after Covid.  If this was British leadership, I no longer wonder. https://t.co/cq7Fv3YRiA",
-  "url": "https://x.com/CryptoKaleo/status/2122415014296608948",
-  "lang": "en",
-  "conversation_id": "2122415014296608948",
-  "referenced": [
-   {
-    "id": "2122336844558065764",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "x.com/degeneratenews…",
-     "end": 136,
-     "expanded_url": "https://twitter.com/degeneratenews/status/2122336844558065764",
-     "start": 113,
-     "url": "https://t.co/cq7Fv3YRiA"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 76,
-  "retweets": 2,
-  "replies": 23,
-  "quotes": 0,
-  "bookmarks": 3,
-  "impressions": 26386,
-  "score": 131,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122428591053111514",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-16T20:36:23.000Z",
-  "text": "1.1 Million sui:native have been repurchased year to date from stablecoin yield on chain.\n\nHow?\n\nRather than give the yield from USDSui to Circle or Tether, the capital reserves sit in short term treasuries controlled by the SUI Foundation.\n\nThe more USDSui that's in circulation, https://t.co/vvhhHb2Rda",
-  "text_flat": "1.1 Million sui:native have been repurchased year to date from stablecoin yield on chain.  How?  Rather than give the yield from USDSui to Circle or Tether, the capital reserves sit in short term treasuries controlled by the SUI Foundation.  The more USDSui that's in circulation, https://t.co/vvhhHb2Rda",
-  "url": "https://x.com/CryptoKaleo/status/2122428591053111514",
-  "lang": "en",
-  "conversation_id": "2122428591053111514",
-  "referenced": [],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/vvhhHb2Rda",
-     "end": 304,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122428591053111514/photo/1",
-     "media_key": "3_2122425853267107840",
-     "start": 281,
-     "url": "https://t.co/vvhhHb2Rda"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 206,
-  "retweets": 21,
-  "replies": 28,
-  "quotes": 1,
-  "bookmarks": 11,
-  "impressions": 22602,
-  "score": 339,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122454251620454856",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T22:18:21.000Z",
-  "text": "If you're bullish on $SUI, this one is for you:\n\nTONIGHT at 8pm EST I'm going live on X with @KevinBoon_ML \n\nWe'll have some time at the end where we go through some of your questions, so make sure you don't miss it. https://t.co/6JxN335XVy https://t.co/InYr3angAB",
-  "text_flat": "If you're bullish on $SUI, this one is for you:  TONIGHT at 8pm EST I'm going live on X with @KevinBoon_ML   We'll have some time at the end where we go through some of your questions, so make sure you don't miss it. https://t.co/6JxN335XVy https://t.co/InYr3angAB",
-  "url": "https://x.com/CryptoKaleo/status/2122454251620454856",
-  "lang": "en",
-  "conversation_id": "2122454251620454856",
-  "referenced": [
-   {
-    "id": "2121316591472431156",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 25,
-     "start": 21,
-     "tag": "SUI"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 106,
-     "id": "1543008569657741313",
-     "start": 93,
-     "username": "KevinBoon_ML"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/6JxN335XVy",
-     "end": 240,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122454251620454856/photo/1",
-     "media_key": "3_2122453637515390976",
-     "start": 217,
-     "url": "https://t.co/6JxN335XVy"
-    },
-    {
-     "display_url": "x.com/CryptoKaleo/st…",
-     "end": 264,
-     "expanded_url": "https://twitter.com/CryptoKaleo/status/2121316591472431156",
-     "start": 241,
-     "url": "https://t.co/InYr3angAB"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 80,
-  "retweets": 12,
-  "replies": 20,
-  "quotes": 1,
-  "bookmarks": 7,
-  "impressions": 19030,
-  "score": 166,
-  "cashtags": [
-   "SUI"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122455932638789781",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T22:25:02.000Z",
-  "text": "LIQUIDATED AGAIN.\n\nNow resume up only. https://t.co/06VtZnWVvh https://t.co/NDisugKzha",
-  "text_flat": "LIQUIDATED AGAIN.  Now resume up only. https://t.co/06VtZnWVvh https://t.co/NDisugKzha",
-  "url": "https://x.com/CryptoKaleo/status/2122455932638789781",
-  "lang": "en",
-  "conversation_id": "2122455932638789781",
-  "referenced": [
-   {
-    "id": "2122449574820475324",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/06VtZnWVvh",
-     "end": 62,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122455932638789781/photo/1",
-     "media_key": "3_2122455926028263425",
-     "start": 39,
-     "url": "https://t.co/06VtZnWVvh"
-    },
-    {
-     "display_url": "x.com/Kalshi_Finance…",
-     "end": 86,
-     "expanded_url": "https://twitter.com/Kalshi_Finance/status/2122449574820475324",
-     "start": 63,
-     "url": "https://t.co/NDisugKzha"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 282,
-  "retweets": 6,
-  "replies": 17,
-  "quotes": 0,
-  "bookmarks": 13,
-  "impressions": 33214,
-  "score": 347,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122456433413521575",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T22:27:01.000Z",
-  "text": "@iLiquidatebots sir I literally just buy and stack one bag on there lol\n\nentire narrative of everyone on the app is \"you can't hold anything and win in this market anymore\" which is justification for constant P&amp;Ds, etc.\n\ntrying to change the mentality on the app and show everyone on there that",
-  "text_flat": "@iLiquidatebots sir I literally just buy and stack one bag on there lol  entire narrative of everyone on the app is \"you can't hold anything and win in this market anymore\" which is justification for constant P&Ds, etc.  trying to change the mentality on the app and show everyone on there that",
-  "url": "https://x.com/CryptoKaleo/status/2122456433413521575",
-  "lang": "en",
-  "conversation_id": "2122388177315037333",
-  "referenced": [
-   {
-    "id": "2122455383243436268",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "889941285116751874",
-     "start": 0,
-     "username": "iLiquidatebots"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 588,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122460628811980827",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-16T22:43:41.000Z",
-  "text": "$HMM \n\nThe most bullish chart on Robinhood Chain looks ready to continue the send.\n\nThink bigger. https://t.co/YfiUX0bwfQ https://t.co/u7SGp4Mbol",
-  "text_flat": "$HMM   The most bullish chart on Robinhood Chain looks ready to continue the send.  Think bigger. https://t.co/YfiUX0bwfQ https://t.co/u7SGp4Mbol",
-  "url": "https://x.com/CryptoKaleo/status/2122460628811980827",
-  "lang": "en",
-  "conversation_id": "2122460628811980827",
-  "referenced": [
-   {
-    "id": "2122341692573471204",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 4,
-     "start": 0,
-     "tag": "HMM"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/YfiUX0bwfQ",
-     "end": 121,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122460628811980827/photo/1",
-     "media_key": "3_2122460361605431296",
-     "start": 98,
-     "url": "https://t.co/YfiUX0bwfQ"
-    },
-    {
-     "display_url": "pic.x.com/YfiUX0bwfQ",
-     "end": 121,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122460628811980827/photo/2",
-     "media_key": "3_2122460580480942080",
-     "start": 98,
-     "url": "https://t.co/YfiUX0bwfQ"
-    },
-    {
-     "display_url": "x.com/CryptoKaleo/st…",
-     "end": 145,
-     "expanded_url": "https://twitter.com/CryptoKaleo/status/2122341692573471204",
-     "start": 122,
-     "url": "https://t.co/u7SGp4Mbol"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 103,
-  "retweets": 12,
-  "replies": 28,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 17056,
-  "score": 195,
-  "cashtags": [
-   "HMM"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122461441341231182",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T22:46:55.000Z",
-  "text": "@BluntCap @thinkingcatRH @vladtenev Higher",
-  "text_flat": "@BluntCap @thinkingcatRH @vladtenev Higher",
-  "url": "https://x.com/CryptoKaleo/status/2122461441341231182",
-  "lang": "en",
-  "conversation_id": "2122394683477504457",
-  "referenced": [
-   {
-    "id": "2122394683477504457",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1576088736940658693",
-     "start": 0,
-     "username": "BluntCap"
-    },
-    {
-     "end": 24,
-     "id": "2078762022855176192",
-     "start": 10,
-     "username": "thinkingcatRH"
-    },
-    {
-     "end": 35,
-     "id": "605700792",
-     "start": 25,
-     "username": "vladtenev"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 471,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122461917880914383",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "retweet",
-  "created_at": "2026-11-16T22:48:49.000Z",
-  "text": "RT @RealAlexBob: Robinhood Onchain Flow | Nov 14\n\n🟢 Buyers:\n\n$HMM +$17K\n\n🔴 Sellers:\n\n$PONS -$359K\n$CASHCAT -$312K\n$STANDARD -$239K\n$ORBIO -…",
-  "text_flat": "RT @RealAlexBob: Robinhood Onchain Flow | Nov 14  🟢 Buyers:  $HMM +$17K  🔴 Sellers:  $PONS -$359K $CASHCAT -$312K $STANDARD -$239K $ORBIO -…",
-  "url": "https://x.com/CryptoKaleo/status/2122461917880914383",
-  "lang": "ht",
-  "conversation_id": "2122461917880914383",
-  "referenced": [
-   {
-    "id": "2122064194845491355",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 65,
-     "start": 61,
-     "tag": "HMM"
-    },
-    {
-     "end": 90,
-     "start": 85,
-     "tag": "PONS"
-    },
-    {
-     "end": 106,
-     "start": 98,
-     "tag": "CASHCAT"
-    },
-    {
-     "end": 123,
-     "start": 114,
-     "tag": "STANDARD"
-    },
-    {
-     "end": 137,
-     "start": 131,
-     "tag": "ORBIO"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 15,
-     "id": "2277093872",
-     "start": 3,
-     "username": "RealAlexBob"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 9,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 10067,
-  "score": 27,
-  "cashtags": [
-   "CASHCAT",
-   "HMM",
-   "ORBIO",
-   "PONS",
-   "STANDARD"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122477993268289979",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-16T23:52:41.000Z",
-  "text": "Perfect timing for a solid explanation from @EmanAbio on the @SuiNetwork account\n\n https://t.co/Y2D9DwMEfm",
-  "text_flat": "Perfect timing for a solid explanation from @EmanAbio on the @SuiNetwork account   https://t.co/Y2D9DwMEfm",
-  "url": "https://x.com/CryptoKaleo/status/2122477993268289979",
-  "lang": "en",
-  "conversation_id": "2122428591053111514",
-  "referenced": [
-   {
-    "id": "2122428591053111514",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 53,
-     "id": "780566666790842368",
-     "start": 44,
-     "username": "EmanAbio"
-    },
-    {
-     "end": 72,
-     "id": "1428872926363754497",
-     "start": 61,
-     "username": "SuiNetwork"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/Y2D9DwMEfm",
-     "end": 106,
-     "expanded_url": "https://x.com/suinetwork/status/2122465392962719835/video/1?s=46",
-     "media_key": "13_2122465238381645824",
-     "start": 83,
-     "url": "https://t.co/Y2D9DwMEfm"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 3059,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122486196140146701",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-17T00:25:17.000Z",
-  "text": "@mememe69696969 Hmm",
-  "text_flat": "@mememe69696969 Hmm",
-  "url": "https://x.com/CryptoKaleo/status/2122486196140146701",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122475623335780665",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "1453982860663087107",
-     "start": 0,
-     "username": "mememe69696969"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 23,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 686,
-  "score": 23,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122492561759801796",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-17T00:50:35.000Z",
-  "text": "SEE Y'ALL IN A BIT",
-  "text_flat": "SEE Y'ALL IN A BIT",
-  "url": "https://x.com/CryptoKaleo/status/2122492561759801796",
-  "lang": "en",
-  "conversation_id": "2122454251620454856",
-  "referenced": [
-   {
-    "id": "2122454251620454856",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {},
-  "low_substance": false,
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 2655,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122495086780883028",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "original",
-  "created_at": "2026-11-17T01:00:37.000Z",
-  "text": "What's Next for SUI? (with Kevin Boon) https://t.co/bBBcKvRazK",
-  "text_flat": "What's Next for SUI? (with Kevin Boon) https://t.co/bBBcKvRazK",
-  "url": "https://x.com/CryptoKaleo/status/2122495086780883028",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 169,
-  "retweets": 37,
-  "replies": 29,
-  "quotes": 8,
-  "bookmarks": 34,
-  "impressions": 34723,
-  "score": 396,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122495211490123821",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "retweet",
-  "created_at": "2026-11-17T01:01:07.000Z",
-  "text": "RT @CryptoKaleo: What's Next for SUI? (with Kevin Boon) https://t.co/bBBcKvRazK",
-  "text_flat": "RT @CryptoKaleo: What's Next for SUI? (with Kevin Boon) https://t.co/bBBcKvRazK",
-  "url": "https://x.com/CryptoKaleo/status/2122495211490123821",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122495086780883028",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "906234475604037637",
-     "start": 3,
-     "username": "CryptoKaleo"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 37,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 0,
-  "score": 111,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122517322648715376",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-17T02:28:58.000Z",
-  "text": "@ponsdotfamily Hmm 🤔🐈",
-  "text_flat": "@ponsdotfamily Hmm 🤔🐈",
-  "url": "https://x.com/CryptoKaleo/status/2122517322648715376",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122503985592664400",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "2076794413284569089",
-     "start": 0,
-     "username": "ponsdotfamily"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 23,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 853,
-  "score": 25,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122521849875612136",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "quote",
-  "created_at": "2026-11-17T02:46:58.000Z",
-  "text": "$HMM \n\nAlmost god candle szn.\n\nRobinhood Chain this bull market will be bigger than Solana ever was last cycle, and HMM will be bigger than WIF.\n\nStill early. https://t.co/2M7UrDMGYd https://t.co/6ATdcsGn6Y",
-  "text_flat": "$HMM   Almost god candle szn.  Robinhood Chain this bull market will be bigger than Solana ever was last cycle, and HMM will be bigger than WIF.  Still early. https://t.co/2M7UrDMGYd https://t.co/6ATdcsGn6Y",
-  "url": "https://x.com/CryptoKaleo/status/2122521849875612136",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2121341196081447013",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 206,
-     "start": 183,
-     "url": "https://t.co/6ATdcsGn6Y"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 135,
-  "retweets": 19,
-  "replies": 52,
-  "quotes": 2,
-  "bookmarks": 4,
-  "impressions": 21432,
-  "score": 306,
-  "cashtags": [
-   "HMM"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122540246902452546",
-  "username": "CryptoKaleo",
-  "username_canon": "CryptoKaleo",
-  "type": "reply",
-  "created_at": "2026-11-17T04:00:04.000Z",
-  "text": "@seaphosstheboss Longer term thesis / experiment\n\nUnderstand if it’s annoying, but one of the lessons from it is have high conviction in a position and be committed regardless of market conditions\n\nDo it on a new chain while the majority of the market is down\n\nEstablish it with momentum before",
-  "text_flat": "@seaphosstheboss Longer term thesis / experiment  Understand if it’s annoying, but one of the lessons from it is have high conviction in a position and be committed regardless of market conditions  Do it on a new chain while the majority of the market is down  Establish it with momentum before",
-  "url": "https://x.com/CryptoKaleo/status/2122540246902452546",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122531192931262467",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1251268827855425537",
-     "start": 0,
-     "username": "seaphosstheboss"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 10,
-  "retweets": 2,
-  "replies": 2,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 612,
-  "score": 20,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122671932579500361",
   "username": "CryptoKaleo",
   "username_canon": "CryptoKaleo",
   "type": "reply",
   "created_at": "2026-11-17T12:43:20.000Z",
   "text": "@koreanjewcrypto Best thing I’ve read on here in a long time.\n\nLove to hear it brother!\n\nGod is good.",
-  "text_flat": "@koreanjewcrypto Best thing I’ve read on here in a long time.  Love to hear it brother!  God is good.",
   "url": "https://x.com/CryptoKaleo/status/2122671932579500361",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122491466584928260",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "873190778910253056",
-     "start": 0,
-     "username": "koreanjewcrypto"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
+  "likes": 6,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 812,
   "bookmarks": 0,
-  "impressions": 453,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122491466584928260",
+   "text": "Earlier this year so many things were going bad for me I was in a really dark place\n\nWent to church around Easter and got baptized a couple weeks later and Jesus brought me a sense of peace i never really had before \n\nI think I was just Jewish out of tradition but never connected https://t.co/CIgXirPlgB"
+  }
  },
  {
   "id": "2122673989688684805",
@@ -1527,35 +26,18 @@
   "type": "quote",
   "created_at": "2026-11-17T12:51:31.000Z",
   "text": "Make serial rugging crime again.\n\nQuit celebrating this type of behavior.\n\nWe’ve let these pos get way too bold. https://t.co/psZjB4EVMh",
-  "text_flat": "Make serial rugging crime again.  Quit celebrating this type of behavior.  We’ve let these pos get way too bold. https://t.co/psZjB4EVMh",
   "url": "https://x.com/CryptoKaleo/status/2122673989688684805",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122408559308644849",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 136,
-     "start": 113,
-     "url": "https://t.co/psZjB4EVMh"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 42,
-  "retweets": 2,
-  "replies": 12,
-  "quotes": 2,
-  "bookmarks": 4,
-  "impressions": 11248,
-  "score": 82,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 105,
+  "retweets": 7,
+  "replies": 22,
+  "quotes": 1,
+  "impressions": 23454,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122408559308644849",
+   "text": "I've been testing Proxima and this is How to Make Money on Proxima\n\nGet the €25 Claude subscription and chatgpt, then check every morning for the meta that’s running. If a tech coin takes off, make a similar project while people are paying attention. Starting a new meta is https://t.co/mUpPsw9a6r"
+  }
  },
  {
   "id": "2122683194613096883",
@@ -1564,32 +46,549 @@
   "type": "original",
   "created_at": "2026-11-17T13:28:05.000Z",
   "text": "GOOD MORNING BULLS https://t.co/SccnTOk5ag",
-  "text_flat": "GOOD MORNING BULLS https://t.co/SccnTOk5ag",
   "url": "https://x.com/CryptoKaleo/status/2122683194613096883",
-  "lang": "en",
-  "conversation_id": "2122683194613096883",
-  "referenced": [],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/SccnTOk5ag",
-     "end": 42,
-     "expanded_url": "https://x.com/CryptoKaleo/status/2122683194613096883/photo/1",
-     "media_key": "3_2122683185322430464",
-     "start": 19,
-     "url": "https://t.co/SccnTOk5ag"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 36,
-  "retweets": 5,
-  "replies": 24,
+  "likes": 115,
+  "retweets": 12,
+  "replies": 46,
   "quotes": 0,
+  "impressions": 16051,
   "bookmarks": 1,
-  "impressions": 6801,
-  "score": 100,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": null
+ },
+ {
+  "id": "2122695551032692999",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-17T14:17:11.000Z",
+  "text": "RT @Tradinator33: Every new RH wave needs a leader\n\n$CASHCAT led the first wave on robinhood and gave us big runners\n\n$HMM will lead the se…",
+  "url": "https://x.com/CryptoKaleo/status/2122695551032692999",
+  "likes": 0,
+  "retweets": 23,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10775,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122590732901134584",
+   "text": "Every new RH wave needs a leader\n\n$CASHCAT led the first wave on robinhood and gave us big runners\n\n$HMM will lead the second wave and give us even bigger ones\n\nthink about it, HMM leading the RH trenches, get in before it's obvious"
+  }
+ },
+ {
+  "id": "2122695635757322537",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T14:17:31.000Z",
+  "text": "@Tradinator33 Hmm\n\nAgreed 🤝",
+  "url": "https://x.com/CryptoKaleo/status/2122695635757322537",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 455,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122590732901134584",
+   "text": "Every new RH wave needs a leader\n\n$CASHCAT led the first wave on robinhood and gave us big runners\n\n$HMM will lead the second wave and give us even bigger ones\n\nthink about it, HMM leading the RH trenches, get in before it's obvious"
+  }
+ },
+ {
+  "id": "2122695778833498195",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T14:18:06.000Z",
+  "text": "@Cryptowonderful @CryptoAJ_eth 🤝",
+  "url": "https://x.com/CryptoKaleo/status/2122695778833498195",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 385,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122675776982331895",
+   "text": "@CryptoAJ_eth Ape $Hmm"
+  }
+ },
+ {
+  "id": "2122696330552508669",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T14:20:17.000Z",
+  "text": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f \n\nFILL THE WICK https://t.co/og0SoxAQP7",
+  "url": "https://x.com/CryptoKaleo/status/2122696330552508669",
+  "likes": 34,
+  "retweets": 5,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 6279,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122521849875612136",
+   "author": "CryptoKaleo",
+   "text": "$HMM \n\nAlmost god candle szn.\n\nRobinhood Chain this bull market will be bigger than Solana ever was last cycle, and HMM will be bigger than WIF.\n\nStill early. https://t.co/2M7UrDMGYd https://t.co/6ATdcsGn6Y"
+  }
+ },
+ {
+  "id": "2122701289045794868",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T14:39:59.000Z",
+  "text": "Last night I interviewed the new CEO of Mysten Labs, @KevinBoon_ML , to discuss all things $SUI.\n\nIt was one of my favorite stream conversations I've had in a long time.\n\nIf you missed it, you can catch up and watch the replay below. https://t.co/Fq1fA3wF5r",
+  "url": "https://x.com/CryptoKaleo/status/2122701289045794868",
+  "likes": 94,
+  "retweets": 14,
+  "replies": 22,
+  "quotes": 0,
+  "impressions": 19314,
+  "bookmarks": 14,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122495086780883028",
+   "author": "CryptoKaleo",
+   "text": "What's Next for SUI? (with Kevin Boon) https://t.co/bBBcKvRazK"
+  }
+ },
+ {
+  "id": "2122703642650173641",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T14:49:20.000Z",
+  "text": "Daily check in on the Robinhood Chain top 20:\n\nLittle bit of a cool off from yesterday's bounce.\n\nBiggest mover is $HOOKR trying to erase some of its recent violent move lower followed by $HMM continuing to grind higher.\n\nThe current top names like $CASHCAT, $AI, and $PONS are still holding strong above their lows which is encouraging.\n\nThink it's only a matter of time before we see the trenches truly wake up again.",
+  "url": "https://x.com/CryptoKaleo/status/2122703642650173641",
+  "likes": 137,
+  "retweets": 16,
+  "replies": 51,
+  "quotes": 3,
+  "impressions": 22922,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122386899973144708",
+   "author": "CryptoKaleo",
+   "text": "\"Robinhood Chain is dead\"\n\nhmm...\n\nNot quite https://t.co/v1bbhQBWSa https://t.co/N3Makl1fBP"
+  }
+ },
+ {
+  "id": "2122704793462591762",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T14:53:55.000Z",
+  "text": "@Fyntdev just ape hmm and chill",
+  "url": "https://x.com/CryptoKaleo/status/2122704793462591762",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 0,
+  "impressions": 495,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122704135036326152",
+   "text": "@CryptoKaleo wen pfp brohao https://t.co/clUpVuPN9a"
+  }
+ },
+ {
+  "id": "2122718761216323665",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T15:49:25.000Z",
+  "text": "@BluntCap just stack more hmm and chill",
+  "url": "https://x.com/CryptoKaleo/status/2122718761216323665",
+  "likes": 9,
+  "retweets": 2,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 612,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122667721888567497",
+   "text": "Thoughts on solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump here?\n\nVibe check https://t.co/xxzw0L85UV https://t.co/AUFW1KKg4i"
+  }
+ },
+ {
+  "id": "2122721224044192030",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T15:59:12.000Z",
+  "text": "@thebryanjun Lmfao",
+  "url": "https://x.com/CryptoKaleo/status/2122721224044192030",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 655,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122545094838608170",
+   "text": "Jensen Huang already has a Netflix special https://t.co/h7f9GlIkxA"
+  }
+ },
+ {
+  "id": "2122722745553215640",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-17T16:05:15.000Z",
+  "text": "THIS IS YOUR DAILY REMINDER TO BE MORE BULLISH.\n\nWhenever there is THIS MUCH fear dominating the timeline -\n\ndiscussions of world wars, major political shifts, the AI industry both somehow simultaneously collapsing and destroying everything else.... \n\nthere's always opportunity that comes along with it.\n\nIt's difficult to see in the moment, but it becomes obvious in hindsight.\n\nThis too shall pass.",
+  "url": "https://x.com/CryptoKaleo/status/2122722745553215640",
+  "likes": 219,
+  "retweets": 9,
+  "replies": 41,
+  "quotes": 1,
+  "impressions": 21590,
+  "bookmarks": 4,
+  "referenced": null
+ },
+ {
+  "id": "2122727424362451049",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T16:23:50.000Z",
+  "text": "@bludex check the market caps sir",
+  "url": "https://x.com/CryptoKaleo/status/2122727424362451049",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 415,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122727034216382741",
+   "text": "@CryptoKaleo How is $GLDSTN not on this list"
+  }
+ },
+ {
+  "id": "2122736063987036478",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-17T16:58:10.000Z",
+  "text": "$HMM vs. $MOG \n\nDo you see it yet?\n\nStill early. 🤔🐈 https://t.co/GoBP4Wfzm3",
+  "url": "https://x.com/CryptoKaleo/status/2122736063987036478",
+  "likes": 86,
+  "retweets": 11,
+  "replies": 27,
+  "quotes": 0,
+  "impressions": 17631,
+  "bookmarks": 1,
+  "referenced": null
+ },
+ {
+  "id": "2122766273134432572",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T18:58:13.000Z",
+  "text": "@Alt_Coin_Degen \"at what cost to my followers\"\n\nbrother if we're near the base of the bear market like I believe we are, and we do run it to new all time highs like I expect us to next year... could I be wrong?\n\nsure! the crypto industry could die and go away forever and we all have our ports go",
+  "url": "https://x.com/CryptoKaleo/status/2122766273134432572",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 365,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122735848164581793",
+   "text": "@CryptoKaleo You have said this on every hourly dump since 81k tho.\n\nYou'll be right eventually,  but at what cost to your followers?"
+  }
+ },
+ {
+  "id": "2122773973557494045",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T19:28:49.000Z",
+  "text": "@j0hnwang dang I missed the grayed out text and thought it was live haha",
+  "url": "https://x.com/CryptoKaleo/status/2122773973557494045",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 596,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122769341477245035",
+   "text": "the ticker is $ANT https://t.co/ntsJERSojp"
+  }
+ },
+ {
+  "id": "2122777470638207012",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T19:42:42.000Z",
+  "text": "Bottom is in for $NVDA -\n\nWhich means it's also in for other tech &amp; AI plays.\n\nStill holding my long open on Kalshi for the monthly challenge.\n\nRun it back turbo.\n\nlong it with me here ➡️ https://t.co/8O9rYuaiGf https://t.co/2gWkZBFQPZ https://t.co/pHUy8Ktwxh",
+  "url": "https://x.com/CryptoKaleo/status/2122777470638207012",
+  "likes": 81,
+  "retweets": 6,
+  "replies": 16,
+  "quotes": 3,
+  "impressions": 45690,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2120909056227336606",
+   "author": "CryptoKaleo",
+   "text": "$NVDA is bouncing early.\n\nHad a lot of push back last night when I said Jensen being removed from CEO today was bullish.\n\nIt obviously would have been more bullish if none of this had happened in the first place, but it did.\n\nHe was most likely going to be removed one way or another.\n\nThis just ripped the bandaid off and makes something happen swiftly that was possibly going to drag out over month"
+  }
+ },
+ {
+  "id": "2122779675646697848",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-17T19:51:28.000Z",
+  "text": "RT @meme_ancient: Cat Thinking (2019) https://t.co/JXwKKvn6ng",
+  "url": "https://x.com/CryptoKaleo/status/2122779675646697848",
+  "likes": 0,
+  "retweets": 159,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9186,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "1961746973054095847",
+   "text": "Cat Thinking (2019) https://t.co/JXwKKvn6ng"
+  }
+ },
+ {
+  "id": "2122779983013892352",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T19:52:41.000Z",
+  "text": "hmm\n\nlore https://t.co/2BapZNx3zG",
+  "url": "https://x.com/CryptoKaleo/status/2122779983013892352",
+  "likes": 68,
+  "retweets": 9,
+  "replies": 16,
+  "quotes": 0,
+  "impressions": 15424,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "1645862529162268675",
+   "text": "How to get to the moon? Don't worry, I've got my thinking cat on 😼 \n\nHappy #NationalPetDay from Bitstamp! 💚 https://t.co/8nNuJopcxF"
+  }
+ },
+ {
+  "id": "2122780437328056351",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T19:54:30.000Z",
+  "text": "$NVDA is going to rip higher after earnings today.\n\nStill free. https://t.co/io9LCpx1pW",
+  "url": "https://x.com/CryptoKaleo/status/2122780437328056351",
+  "likes": 170,
+  "retweets": 7,
+  "replies": 24,
+  "quotes": 2,
+  "impressions": 27970,
+  "bookmarks": 9,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122777470638207012",
+   "author": "CryptoKaleo",
+   "text": "Bottom is in for $NVDA -\n\nWhich means it's also in for other tech &amp; AI plays.\n\nStill holding my long open on Kalshi for the monthly challenge.\n\nRun it back turbo.\n\nlong it with me here ➡️ https://t.co/8O9rYuaiGf https://t.co/2gWkZBFQPZ https://t.co/pHUy8Ktwxh"
+  }
+ },
+ {
+  "id": "2122806476318327193",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T21:37:58.000Z",
+  "text": "$NVDA crushed earnings.\n\nBULLISH. https://t.co/Ll9zdX2VCu",
+  "url": "https://x.com/CryptoKaleo/status/2122806476318327193",
+  "likes": 21,
+  "retweets": 2,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 7549,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122777470638207012",
+   "author": "CryptoKaleo",
+   "text": "Bottom is in for $NVDA -\n\nWhich means it's also in for other tech &amp; AI plays.\n\nStill holding my long open on Kalshi for the monthly challenge.\n\nRun it back turbo.\n\nlong it with me here ➡️ https://t.co/8O9rYuaiGf https://t.co/2gWkZBFQPZ https://t.co/pHUy8Ktwxh"
+  }
+ },
+ {
+  "id": "2122808635831062930",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-17T21:46:33.000Z",
+  "text": "tldr:\n\nmixed reviews, but the benchmarks show Fable 5.2 level performance for a fraction of the cost\n\ninsane https://t.co/Ys8tJMYmys",
+  "url": "https://x.com/CryptoKaleo/status/2122808635831062930",
+  "likes": 41,
+  "retweets": 0,
+  "replies": 13,
+  "quotes": 0,
+  "impressions": 19477,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122750124543926515",
+   "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://t.co/qr2iP0GpfX https://t.co/jLCyVIws2Y"
+  }
+ },
+ {
+  "id": "2122809273432346723",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T21:49:05.000Z",
+  "text": "$HMM\n\nLooks ready for the next leg up.\n\nThe wick will be filled.\n\nRobinhood Chain needs a runner.\n\nThinking the cat will do it 🤔🐈 https://t.co/H5I7VI7aZu",
+  "url": "https://x.com/CryptoKaleo/status/2122809273432346723",
+  "likes": 40,
+  "retweets": 4,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 3494,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122696330552508669",
+   "author": "CryptoKaleo",
+   "text": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f \n\nFILL THE WICK https://t.co/og0SoxAQP7"
+  }
+ },
+ {
+  "id": "2122811279379214345",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T21:57:03.000Z",
+  "text": "@RobinhoodApp Hmm 🤔🐈\n\nOn chain? https://t.co/NQVrdrrryu",
+  "url": "https://x.com/CryptoKaleo/status/2122811279379214345",
+  "likes": 21,
+  "retweets": 4,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 923,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122784352899903938",
+   "text": "onchain 👀 https://t.co/3dHlmGz6BM"
+  }
+ },
+ {
+  "id": "2122829736590086648",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T23:10:24.000Z",
+  "text": "$NVDA \n\nSEND IT https://t.co/NSIX3HX1XY",
+  "url": "https://x.com/CryptoKaleo/status/2122829736590086648",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 3262,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122806476318327193",
+   "author": "CryptoKaleo",
+   "text": "$NVDA crushed earnings.\n\nBULLISH. https://t.co/Ll9zdX2VCu"
+  }
+ },
+ {
+  "id": "2122830015762968639",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-17T23:11:30.000Z",
+  "text": "DON'T LET THE FEAR ON THE TIMELINE CONSUME YOU.\n\nYOU ARE ABOUT TO ENTER THE MOST ABUNDANT, PROSPEROUS, OPPORTUNITY FILLED PHASE OF YOUR LIFE.\n\nBULLIEVE IN THE GOLDEN BULL RUN.",
+  "url": "https://x.com/CryptoKaleo/status/2122830015762968639",
+  "likes": 661,
+  "retweets": 29,
+  "replies": 86,
+  "quotes": 2,
+  "impressions": 25256,
+  "bookmarks": 10,
+  "referenced": null
+ },
+ {
+  "id": "2122830440411050096",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-17T23:13:11.000Z",
+  "text": "RT @SuiNetworkCN: 🎬 Mysten Labs CEO @KevinBoon_ML 做客 @CryptoKaleo 访谈：Sui 下一步怎么走？\n\n稳定币支付、SUI 回购、Hashi、AI Agent，以及建立亚太办公室计划。\n\n我们剪了一支 4 分钟预告，先…",
+  "url": "https://x.com/CryptoKaleo/status/2122830440411050096",
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 8891,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122593052451881150",
+   "text": "🎬 Mysten Labs CEO @KevinBoon_ML 做客 @CryptoKaleo 访谈：Sui 下一步怎么走？\n\n稳定币支付、SUI 回购、Hashi、AI Agent，以及建立亚太办公室计划。\n\n我们剪了一支 4 分钟预告，先看几个关键片段👇\n\n完整中文视频 ➡️ https://t.co/OqjHAEL9a3\n\n访谈出处见转推⬇ https://t.co/hh0THZbbcp https://t.co/AenNtjsICz"
+  }
+ },
+ {
+  "id": "2122830484300574870",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-17T23:13:22.000Z",
+  "text": "@SuiNetworkCN @KevinBoon_ML this is awesome!",
+  "url": "https://x.com/CryptoKaleo/status/2122830484300574870",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 415,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122593052451881150",
+   "text": "🎬 Mysten Labs CEO @KevinBoon_ML 做客 @CryptoKaleo 访谈：Sui 下一步怎么走？\n\n稳定币支付、SUI 回购、Hashi、AI Agent，以及建立亚太办公室计划。\n\n我们剪了一支 4 分钟预告，先看几个关键片段👇\n\n完整中文视频 ➡️ https://t.co/OqjHAEL9a3\n\n访谈出处见转推⬇ https://t.co/hh0THZbbcp https://t.co/AenNtjsICz"
+  }
+ },
+ {
+  "id": "2122845492199543164",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-18T00:13:00.000Z",
+  "text": "@RealAlexBob @thinkingcatRH bullish on both\n\nCASHCAT = BONK\nHMM = WIF",
+  "url": "https://x.com/CryptoKaleo/status/2122845492199543164",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 512,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122721029520867605",
+   "text": "$CASHCAT losing to other cats on Robinhood Chain. $HMM new king?\n\nCASHCAT keeps dumping hard after the recent FUD and sitting at $45M mcap\n\nSame levels as late July with no signs of recovery\n\nAt the same time @thinkingcatRH bounced almost 2x off the lows\n\nMarket's bleeding but https://t.co/tMpl4nLzOL"
+  }
  }
 ]

@@ -1,161 +1,6 @@
-# @a1lon9 — посты за 2026-11-17
+# @a1lon9 — посты за 2026-11-18
 
-Всего: 20
-
-## 2026-11-16 16:29 UTC · репост
-
-RT @pr6spr: I flew to Singapore to spend 72 hours with Crypto Millionaires... 🇸🇬
-
-new vlog out now 💫
-
-https://t.co/HNl3I0fOmP https://t.co/…
-
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 20520  
-https://x.com/a1lon9/status/2122366380683264438
-
-## 2026-11-16 18:58 UTC · репост
-
-RT @json1444: PoorGoat (a bag worker) is neck and neck with Cupsey (a microcap scalper) on the journey to $1,000,000 in Callout Rewards
-
-Pu…
-
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 19607  
-https://x.com/a1lon9/status/2122403830369292755
-
-## 2026-11-16 19:02 UTC · репост
-
-RT @Pumpfun: Pumpfun x @Polymarket
-
-Prediction markets are now live on the Pumpfun app for users in permitted jurisdictions! Trade on sport…
-
-❤ 0 · 🔁 118 · 💬 0 · цитат 0 · просмотров 11371  
-https://x.com/a1lon9/status/2122404925527425336
-
-## 2026-11-16 19:02 UTC · репост
-
-RT @Pumpfun: The Pumpfun App is the FIRST EVER trading interface for prediction markets that pays you to trade.
-
-Callout rewards are suppor…
-
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 11786  
-https://x.com/a1lon9/status/2122404971400638746
-
-## 2026-11-16 19:04 UTC · репост
-
-RT @json1444: https://t.co/jVDijfdRvr
-
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 19071  
-https://x.com/a1lon9/status/2122405356395487363
-
-## 2026-11-16 19:07 UTC · цитата
-
-When we started building the Pumpfun app, the goal was simple: one app to access everything people want to trade onchain.
-
-To grow our market as much as possible, we need to build the richest social graph for any kind of trading. New users benefit from that because they can learn https://t.co/kbr08Iklib
-
-❤ 505 · 🔁 51 · 💬 311 · цитат 30 · просмотров 75947  
-https://x.com/a1lon9/status/2122406303872262264
-
-## 2026-11-16 19:08 UTC · репост
-
-RT @Polymarket: Polymarket is now live on the Pumpfun mobile app
-
-Post a callout on your trade to earn Callout Rewards👇
-
-❤ 0 · 🔁 28 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/a1lon9/status/2122406452107084011
-
-## 2026-11-16 19:08 UTC · ответ
-
-@Polymarket 🤝
-
-❤ 86 · 🔁 2 · 💬 41 · цитат 0 · просмотров 5061  
-https://x.com/a1lon9/status/2122406490958963017
-
-## 2026-11-16 21:49 UTC · репост
-
-RT @Schoen_xyz: https://t.co/vQbxKYTUlj
-
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 19074  
-https://x.com/a1lon9/status/2122447086314459619
-
-## 2026-11-16 22:09 UTC · репост
-
-RT @poe_real69: Everyone complaining about how bad the trenches are yet you open the pump app and check the leaderboard you see people up c…
-
-❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 17987  
-https://x.com/a1lon9/status/2122451904316010708
-
-## 2026-11-17 00:51 UTC · репост
-
-RT @HopiumPapi: Shoutout to https://t.co/lj6ifTmyM7 for Getting This Right 
-
-Just got paid for the same callout for a second time, and the…
-
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 16291  
-https://x.com/a1lon9/status/2122492912306999773
-
-## 2026-11-17 01:10 UTC · репост
-
-RT @Arcanemeta_: As a small non-kol account on @Pumpfun I gotta say these rewards are unreal
-
-Thank you @a1lon9 and I think it’s great you…
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 17275  
-https://x.com/a1lon9/status/2122497465891094617
-
-## 2026-11-17 01:10 UTC · ответ
-
-@Arcanemeta_ @Pumpfun makes me laugh when people say that it's only for KOLs, it's factually much easier to earn than any other app
-
-❤ 160 · 🔁 9 · 💬 117 · цитат 5 · просмотров 13500  
-https://x.com/a1lon9/status/2122497688902029609
-
-## 2026-11-17 01:53 UTC · репост
-
-RT @sapijiju: https://t.co/D6P6A3g9bW
-
-❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 16329  
-https://x.com/a1lon9/status/2122508416836899250
-
-## 2026-11-17 01:53 UTC · ответ
-
-@sapijiju what a week!
-
-❤ 83 · 🔁 0 · 💬 58 · цитат 0 · просмотров 5322  
-https://x.com/a1lon9/status/2122508447128101227
-
-## 2026-11-17 01:56 UTC · репост
-
-RT @CookerFlips: Why is it so hard for people to understand 
-
-You need to MAKE PEOPLE MONEY THEN YOULL BE PAID
-
-Just cuz u called something…
-
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 15602  
-https://x.com/a1lon9/status/2122509188345512435
-
-## 2026-11-17 01:56 UTC · ответ
-
-@CookerFlips yep
-
-❤ 72 · 🔁 1 · 💬 54 · цитат 0 · просмотров 4556  
-https://x.com/a1lon9/status/2122509195295481904
-
-## 2026-11-17 02:05 UTC · ответ
-
-@lowercaseboot the most hated rally.
-
-❤ 225 · 🔁 8 · 💬 141 · цитат 9 · просмотров 11236  
-https://x.com/a1lon9/status/2122511431748948078
-
-## 2026-11-17 02:05 UTC · репост
-
-RT @lowercaseboot: Pump already won this game imo. I can't see any product competing with the mind share/users it has in the near future. O…
-
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 16869  
-https://x.com/a1lon9/status/2122511437897806194
+Всего: 15
 
 ## 2026-11-17 13:29 UTC · репост
 
@@ -163,5 +8,122 @@ RT @mickeymantled: Everyday I see so much hate on callouts but let me break down
 
 I was earning l…
 
-❤ 0 · 🔁 19 · 💬 0 · цитат 0 · просмотров 9382  
+❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 20757  
 https://x.com/a1lon9/status/2122683549241532828
+
+## 2026-11-17 17:09 UTC · репост
+
+RT @west_v1: Onboarding never sleeps!
+
+I’m looking for people experienced with:
+
+- UGC content 
+-AI content 
+-Gaming network 
+-BD
+
+Only US…
+
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 19596  
+https://x.com/a1lon9/status/2122738867635728395
+
+## 2026-11-17 18:33 UTC · репост
+
+RT @Pumpfun: Pumpfun x @base
+
+Callout Rewards for tokens on Base are getting up to $10,000 daily in boosted Callout Rewards, powered by Mer…
+
+❤ 0 · 🔁 54 · 💬 0 · цитат 0 · просмотров 10971  
+https://x.com/a1lon9/status/2122760001471258892
+
+## 2026-11-17 18:34 UTC · цитата
+
+Our vision is to make the Pumpfun app the most rewarding app on Earth.
+
+Since August we've paid $33,000,000 to nearly 55,000 callers on the Pumpfun app. Starting today, callouts on tokens on Base earn boosted Callout Rewards, up to $20,000 daily.
+
+The Coinbase team seeing value https://t.co/1ddq3nxvuZ
+
+❤ 559 · 🔁 54 · 💬 407 · цитат 36 · просмотров 61902  
+https://x.com/a1lon9/status/2122760248511635810
+
+## 2026-11-17 18:41 UTC · ответ
+
+@Pumpfun @base The fastest AND most rewarding crosschain trading app
+
+#1.
+
+❤ 106 · 🔁 3 · 💬 31 · цитат 7 · просмотров 7275  
+https://x.com/a1lon9/status/2122762145545040001
+
+## 2026-11-17 19:08 UTC · ответ
+
+@wirelyss sick vid!
+
+❤ 94 · 🔁 1 · 💬 52 · цитат 1 · просмотров 4970  
+https://x.com/a1lon9/status/2122768877453255125
+
+## 2026-11-17 19:08 UTC · репост
+
+RT @wirelyss: Asked Claude to make a vid of my callouts :) https://t.co/1ptUsSQyeS
+
+❤ 0 · 🔁 29 · 💬 0 · цитат 0 · просмотров 18873  
+https://x.com/a1lon9/status/2122768903256322209
+
+## 2026-11-17 19:24 UTC · репост
+
+RT @base: Callout Rewards for tokens on Base just got a boost on @pumpfun ↓
+
+❤ 0 · 🔁 53 · 💬 0 · цитат 0 · просмотров 17278  
+https://x.com/a1lon9/status/2122772896955433129
+
+## 2026-11-17 19:24 UTC · ответ
+
+@base @Pumpfun Just start calling
+
+❤ 81 · 🔁 5 · 💬 64 · цитат 4 · просмотров 6503  
+https://x.com/a1lon9/status/2122772944803786899
+
+## 2026-11-17 19:37 UTC · репост
+
+RT @j_austincain: When joint-stock companies were forming in 18th-century London, capital allocation happened inside coffee houses like Jon…
+
+❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 18735  
+https://x.com/a1lon9/status/2122776143967523301
+
+## 2026-11-17 19:41 UTC · репост
+
+RT @TradingTerminal: Tip: See how many traders are hiding a specific token - now live on Terminal
+
+If people think it's slop, it's probably…
+
+❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 18602  
+https://x.com/a1lon9/status/2122777136180474345
+
+## 2026-11-17 19:43 UTC · ответ
+
+@j_austincain couldn't have said it better myself!
+
+❤ 63 · 🔁 0 · 💬 44 · цитат 1 · просмотров 4982  
+https://x.com/a1lon9/status/2122777552175444127
+
+## 2026-11-17 22:02 UTC · ответ
+
+@json1444 @PumpfunEco it’s literally pointless to trade anywhere else at this point
+
+❤ 133 · 🔁 0 · 💬 101 · цитат 3 · просмотров 9470  
+https://x.com/a1lon9/status/2122812524038873167
+
+## 2026-11-17 22:02 UTC · репост
+
+RT @json1444: it's literally pointless to trade anywhere else at this point https://t.co/BQjoDrVzja
+
+❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 17199  
+https://x.com/a1lon9/status/2122812533971296379
+
+## 2026-11-17 23:29 UTC · репост
+
+RT @jessepollak: 👀 callouts in the @base trenches
+
+❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 15389  
+https://x.com/a1lon9/status/2122834432776188000

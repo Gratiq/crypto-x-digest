@@ -1,249 +1,6 @@
-# @JamesWynnReal — посты за 2026-11-17
+# @JamesWynnReal — посты за 2026-11-18
 
-Всего: 45
-
-## 2026-11-16 14:02 UTC · пост
-
-Be honest, is the US stock market gonna pump or dump today? 30 minutes until open, below 👇
-
-❤ 27 · 🔁 2 · 💬 16 · цитат 1 · просмотров 22662  
-https://x.com/JamesWynnReal/status/2122329370702631257
-
-## 2026-11-16 14:34 UTC · пост
-
-So far so bad, I expect a blood bath today 🩸 📉
- 
-sorry to be the bearer of bad news
-
-❤ 237 · 🔁 7 · 💬 25 · цитат 1 · просмотров 32820  
-https://x.com/JamesWynnReal/status/2122337583024005501
-
-## 2026-11-16 14:35 UTC · пост
-
-$Shitcoin over $Bitcoin
-
-❤ 32 · 🔁 1 · 💬 18 · цитат 0 · просмотров 19443  
-https://x.com/JamesWynnReal/status/2122337749101641834
-
-## 2026-11-16 14:41 UTC · пост
-
-The Global Financial Collapse has Officially Begun.
- 
-I warned you all.
-
-❤ 517 · 🔁 18 · 💬 71 · цитат 2 · просмотров 49711  
-https://x.com/JamesWynnReal/status/2122339226356453383
-
-## 2026-11-16 14:42 UTC · ответ
-
-@MarioNawfal Everything is normal. ha
-
-❤ 1 · 🔁 1 · 💬 0 · цитат 0 · просмотров 2108  
-https://x.com/JamesWynnReal/status/2122339564283150794
-
-## 2026-11-16 14:55 UTC · пост
-
-WE ARE DROPPING A MASSIVE LAUNCH ON SOLANA WITHIN THE NEXT 30 MINUTES.
- 
-THE TIME HAS FINALLY COME FOR THIS TO BE RELEASED.
- 
-WILL TELL YOU 5 MINUTES BEFORE THE CA DROPS.
- 
-IT WILL BE DROPPED HERE.
-
-❤ 58 · 🔁 2 · 💬 32 · цитат 0 · просмотров 29347  
-https://x.com/JamesWynnReal/status/2122342753648640235
-
-## 2026-11-16 15:00 UTC · пост
-
-MASSIVE MASSIVE LAUNCH COMING
-
-❤ 136 · 🔁 2 · 💬 24 · цитат 0 · просмотров 24961  
-https://x.com/JamesWynnReal/status/2122344068864946669
-
-## 2026-11-16 15:00 UTC · пост
-
-TURN NOTIS ON. ITS WILL BE ON SOLANA
-
-❤ 26 · 🔁 1 · 💬 6 · цитат 0 · просмотров 19593  
-https://x.com/JamesWynnReal/status/2122344157696110725
-
-## 2026-11-16 15:05 UTC · пост
-
-GET FUCKING READY FOR THIS
-
-❤ 180 · 🔁 7 · 💬 19 · цитат 1 · просмотров 48000  
-https://x.com/JamesWynnReal/status/2122345198017736863
-
-## 2026-11-16 15:13 UTC · пост
-
-2 MINUTES LAUNCH ON SOLANA, WILL DROP CA AND CA ONLY
-
-❤ 17 · 🔁 0 · 💬 9 · цитат 0 · просмотров 17666  
-https://x.com/JamesWynnReal/status/2122347416624263601
-
-## 2026-11-16 15:14 UTC · пост
-
-TURN NOTIS ON
-
-❤ 15 · 🔁 1 · 💬 9 · цитат 0 · просмотров 18636  
-https://x.com/JamesWynnReal/status/2122347458672173439
-
-## 2026-11-16 15:16 UTC · пост
-
-READY?
-
-❤ 27 · 🔁 2 · 💬 14 · цитат 1 · просмотров 20071  
-https://x.com/JamesWynnReal/status/2122348106096468077
-
-## 2026-11-16 15:17 UTC · пост
-
-https://t.co/WxR94KFpbW 🐻
-
-❤ 14 · 🔁 0 · 💬 7 · цитат 0 · просмотров 19069  
-https://x.com/JamesWynnReal/status/2122348405385252911
-
-## 2026-11-16 17:07 UTC · ответ
-
-@_BOBO_THE_BEAR WE GOT THIS!!!!!
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1518  
-https://x.com/JamesWynnReal/status/2122375941821530249
-
-## 2026-11-16 18:10 UTC · репост
-
-RT @_BOBO_THE_BEAR: He’s back. https://t.co/peOfUtVHwX
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 13296  
-https://x.com/JamesWynnReal/status/2122391866721386625
-
-## 2026-11-16 18:46 UTC · репост
-
-RT @JamesWynnReal: So far so bad, I expect a blood bath today 🩸 📉
- 
-sorry to be the bearer of bad news
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/JamesWynnReal/status/2122400879408222237
-
-## 2026-11-16 18:47 UTC · репост
-
-RT @JamesWynnReal: The Global Financial Collapse has Officially Begun.
- 
-I warned you all.
-
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/JamesWynnReal/status/2122401194912145878
-
-## 2026-11-17 00:17 UTC · пост
-
-good morning crypto
-
-❤ 43 · 🔁 1 · 💬 13 · цитат 0 · просмотров 19020  
-https://x.com/JamesWynnReal/status/2122484198300893316
-
-## 2026-11-17 02:11 UTC · пост
-
-Re-launched on PumpFun because Ember is dog shit and will never use again. PumpFun is 2nd to none.
- 
-3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/JWEqm00o5I
-
-❤ 35 · 🔁 7 · 💬 36 · цитат 4 · просмотров 21701  
-https://x.com/JamesWynnReal/status/2122512887780655390
-
-## 2026-11-17 02:45 UTC · пост
-
-I’am sorry for the $BOBO launch yesterday. I stupidly decided to use Ember, and I set the max bonding curve.
- 
-Reality is nobody uses Ember, everyone is on PumpFun, because its the best and the best for a reason.
- 
-Make no mistake this will be taken very seriously, I know BOBO https://t.co/U77d4y9jlJ
-
-❤ 42 · 🔁 9 · 💬 41 · цитат 0 · просмотров 23968  
-https://x.com/JamesWynnReal/status/2122521423134507303
-
-## 2026-11-17 03:17 UTC · ответ
-
-@Crowzzz223298 It was good for a few days, I actually liked the interface but pumpfun is just way ahead and continue to build
-
-❤ 2 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1531  
-https://x.com/JamesWynnReal/status/2122529469370142793
-
-## 2026-11-17 03:44 UTC · цитата
-
-FYI 🚨 WE HAVE RE-LAUNCHED DUE TO EMBER BEING AN EPIC FAIL! WE HAVE LAUNCHED ON PUMP FUN.
- 
-3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
- 
-Sorry for the inconvenience. All socials, site, everything is the same. https://t.co/jzA2NeWk7n
-
-❤ 17 · 🔁 4 · 💬 21 · цитат 0 · просмотров 18679  
-https://x.com/JamesWynnReal/status/2122536262993084776
-
-## 2026-11-17 05:02 UTC · цитата
-
-Heil Bobo! 🐻 
- 
-The bulls hd their time, now is ours!
- 
-Send this to VALHALLA. The PROMISE LAND!
- 
-3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/rxurc62eCV https://t.co/s3o2HTO0Qw
-
-❤ 12 · 🔁 1 · 💬 7 · цитат 0 · просмотров 16556  
-https://x.com/JamesWynnReal/status/2122556025542991969
-
-## 2026-11-17 06:10 UTC · пост
-
-The Global Reset is well underway and I told everyone on my timeline for months. $SPX.
- 
-And for the record that big fat red arrow is not for click bait, i’m deadly serious. We’re heading into the dark ages.
- 
-The only two things I’am buying is Bitcoin and BOBO. Bitcoin because, https://t.co/u9X7o134I2
-
-❤ 131 · 🔁 7 · 💬 46 · цитат 6 · просмотров 39010  
-https://x.com/JamesWynnReal/status/2122572948288516278
-
-## 2026-11-17 06:10 UTC · ответ
-
-@_BOBO_THE_BEAR Pump it harder
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1480  
-https://x.com/JamesWynnReal/status/2122573109425262714
-
-## 2026-11-17 07:10 UTC · пост
-
-The thought of me buying a Playstation, buying GTA and sitting there running stealing cars and doing ‘missions‘ while I could be working feels painful to me. No thanks.
-
-❤ 72 · 🔁 0 · 💬 19 · цитат 1 · просмотров 20131  
-https://x.com/JamesWynnReal/status/2122588123347513730
-
-## 2026-11-17 07:11 UTC · ответ
-
-@aibolatl2017 https://t.co/4m4BI5ifSr
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1121  
-https://x.com/JamesWynnReal/status/2122588331724914781
-
-## 2026-11-17 07:16 UTC · пост
-
-As long as they don’t crash X so I can shill $BOBO 
- 
-3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/udvWiKmE0J
-
-❤ 11 · 🔁 0 · 💬 11 · цитат 0 · просмотров 15282  
-https://x.com/JamesWynnReal/status/2122589590922072265
-
-## 2026-11-17 07:21 UTC · пост
-
-You would be STUPID not to be a bear right now considering what is going on in the world &amp; markets.
- 
-$BOBO Billions.
- 
-3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/LsbNxLAl1j
-
-❤ 23 · 🔁 1 · 💬 17 · цитат 0 · просмотров 16231  
-https://x.com/JamesWynnReal/status/2122591055581221049
+Всего: 66
 
 ## 2026-11-17 08:17 UTC · цитата
 
@@ -253,7 +10,7 @@ Last time was $PEPE, this time it is $BOBO.
  
 I’m going all-in on this one. https://t.co/QAJSJH44wD
 
-❤ 40 · 🔁 0 · 💬 41 · цитат 0 · просмотров 19607  
+❤ 43 · 🔁 0 · 💬 42 · цитат 0 · просмотров 23264  
 https://x.com/JamesWynnReal/status/2122605093581418566
 
 ## 2026-11-17 08:41 UTC · репост
@@ -262,7 +19,7 @@ RT @_BOBO_THE_BEAR: DEX Updated:
  
 To showcase how serious we are taking this project we have proceeded by paying for DEX prior to the bond…
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 12708  
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 15451  
 https://x.com/JamesWynnReal/status/2122611115339432214
 
 ## 2026-11-17 08:56 UTC · пост
@@ -273,7 +30,7 @@ https://t.co/gqu0JLzhSG
  
 #BoboBillions 🐻
 
-❤ 9 · 🔁 1 · 💬 6 · цитат 0 · просмотров 14999  
+❤ 9 · 🔁 1 · 💬 6 · цитат 0 · просмотров 18407  
 https://x.com/JamesWynnReal/status/2122614809028100217
 
 ## 2026-11-17 09:00 UTC · пост
@@ -284,14 +41,14 @@ NOW $BOBO HAS THE PERFECT TIMING!!!
  
 3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/2coAaoT6AL
 
-❤ 28 · 🔁 5 · 💬 15 · цитат 2 · просмотров 15553  
+❤ 30 · 🔁 5 · 💬 16 · цитат 2 · просмотров 19125  
 https://x.com/JamesWynnReal/status/2122615818408374448
 
 ## 2026-11-17 09:05 UTC · пост
 
 US futures is dumping HARD! Retail will be rekt once again, bears are back in town.
 
-❤ 131 · 🔁 0 · 💬 9 · цитат 2 · просмотров 23639  
+❤ 159 · 🔁 2 · 💬 9 · цитат 2 · просмотров 30027  
 https://x.com/JamesWynnReal/status/2122616994336002453
 
 ## 2026-11-17 09:09 UTC · пост
@@ -300,7 +57,7 @@ Do you BEARlieve we are in a bear market yet?
  
 3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/WuZSbV7SGu
 
-❤ 29 · 🔁 5 · 💬 14 · цитат 0 · просмотров 16223  
+❤ 29 · 🔁 5 · 💬 14 · цитат 0 · просмотров 19565  
 https://x.com/JamesWynnReal/status/2122618052256931990
 
 ## 2026-11-17 09:27 UTC · пост
@@ -313,14 +70,14 @@ My conviction is the highest its been in a long time. Bobo Billions.
  
 3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
 
-❤ 30 · 🔁 4 · 💬 22 · цитат 2 · просмотров 19408  
+❤ 41 · 🔁 4 · 💬 31 · цитат 3 · просмотров 26728  
 https://x.com/JamesWynnReal/status/2122622600543350965
 
 ## 2026-11-17 11:13 UTC · пост
 
 Is stocks going to pump or dump today?
 
-❤ 15 · 🔁 0 · 💬 10 · цитат 0 · просмотров 15523  
+❤ 17 · 🔁 0 · 💬 9 · цитат 1 · просмотров 28824  
 https://x.com/JamesWynnReal/status/2122649441299767718
 
 ## 2026-11-17 11:47 UTC · цитата
@@ -333,7 +90,7 @@ The closest OG meme you will ever get to PEPE!
  
 3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/CfCwMDI7He
 
-❤ 16 · 🔁 1 · 💬 9 · цитат 0 · просмотров 13683  
+❤ 18 · 🔁 1 · 💬 9 · цитат 0 · просмотров 18612  
 https://x.com/JamesWynnReal/status/2122657904809689522
 
 ## 2026-11-17 12:11 UTC · цитата
@@ -348,7 +105,7 @@ And the timing has never been better.
  
 Official CA on Solana: https://t.co/SSnZT1AuKG
 
-❤ 11 · 🔁 0 · 💬 17 · цитат 0 · просмотров 13494  
+❤ 13 · 🔁 0 · 💬 24 · цитат 1 · просмотров 22755  
 https://x.com/JamesWynnReal/status/2122663929050775989
 
 ## 2026-11-17 12:42 UTC · пост
@@ -361,21 +118,21 @@ The USA has sent the USS Theodore Roosevelt (CVN-71), a nuclear-powered aircraft
  
 They have THREE aircraft
 
-❤ 69 · 🔁 3 · 💬 11 · цитат 0 · просмотров 16261  
+❤ 161 · 🔁 5 · 💬 19 · цитат 0 · просмотров 33451  
 https://x.com/JamesWynnReal/status/2122671655336235123
 
 ## 2026-11-17 13:09 UTC · ответ
 
 @lvn_crypto Never been done before, and it ain’t a bluff, surely they know Iran will fight til the bitter end. And besides, they are far more sophisticated than Westerners / Western media think.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 696  
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1489  
 https://x.com/JamesWynnReal/status/2122678629410668637
 
 ## 2026-11-17 13:19 UTC · цитата
 
 Yet they are the ones being cyber attacked 😭 https://t.co/Z2RhyJHwfx
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9508  
+❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19259  
 https://x.com/JamesWynnReal/status/2122681114607124481
 
 ## 2026-11-17 13:25 UTC · пост
@@ -386,7 +143,7 @@ Hurry up USA and buy the #1 bear market meme to ever exist. BOBO THE BEAR. In th
  
 Now trading on Solana. @_BOBO_THE_BEAR https://t.co/6TBbxJDnA6
 
-❤ 17 · 🔁 0 · 💬 21 · цитат 0 · просмотров 9479  
+❤ 24 · 🔁 0 · 💬 32 · цитат 0 · просмотров 19113  
 https://x.com/JamesWynnReal/status/2122682434936512759
 
 ## 2026-11-17 13:46 UTC · репост
@@ -397,12 +154,446 @@ We have been waiting for you..
  
 3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/O…
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 4833  
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 13485  
 https://x.com/JamesWynnReal/status/2122687877670965517
 
 ## 2026-11-17 13:46 UTC · ответ
 
 @_BOBO_THE_BEAR USA USA USA
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 341  
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1440  
 https://x.com/JamesWynnReal/status/2122687904178934210
+
+## 2026-11-17 14:12 UTC · цитата
+
+Don’t like a lot of your views on the market but respect for standing up. Nobody should forget, and real one’s will never forget or forgive.
+ 
+It was atrocious. And NEVER forget how Binance tried to destroy Hyper Liquids business when they had a small window of time to do it. https://t.co/JyA2qJc6S8
+
+❤ 22 · 🔁 1 · 💬 7 · цитат 1 · просмотров 11738  
+https://x.com/JamesWynnReal/status/2122694268884258886
+
+## 2026-11-17 14:13 UTC · цитата
+
+Good Morning America ☕️
+ 
+We have been waiting for you..
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/rfXLJs13jB
+
+❤ 12 · 🔁 0 · 💬 5 · цитат 1 · просмотров 16456  
+https://x.com/JamesWynnReal/status/2122694572715200823
+
+## 2026-11-17 14:16 UTC · цитата
+
+Can BOBO be the next billion dollar meme?
+ 
+The FACE of bear markets.
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/hT0BUCowkT https://t.co/YgDGF4G2QV
+
+❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 16757  
+https://x.com/JamesWynnReal/status/2122695407226556519
+
+## 2026-11-17 14:19 UTC · цитата
+
+10 minutes and we find out that 40% are still delusional bulls in a bear market. https://t.co/Na8TIhCswU
+
+❤ 64 · 🔁 2 · 💬 10 · цитат 0 · просмотров 22405  
+https://x.com/JamesWynnReal/status/2122696030911447113
+
+## 2026-11-17 14:34 UTC · ответ
+
+He was and is and always will be a retarded clown , so was the vast majority of people in them spaces.
+ 
+I was the only one who was right alongside a select few other big names. Not saying to brag, saying it because it is fact.
+ 
+Reality is, this old yet new money coming into crypto was our exit liquidity.
+ 
+We’ll buy back 3x as cheap. 3 for the price of 1.
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1411  
+https://x.com/JamesWynnReal/status/2122699930095460763
+
+## 2026-11-17 14:38 UTC · пост
+
+Here we go again boys, S&amp;P is bleeding again and continue to bleed for the long foreseeable future.
+ 
+Bears are in full control as the world turns to SHIT!
+ 
+$BOBO THE BEAR IS BACK.
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/b5vom8x34v
+
+❤ 14 · 🔁 1 · 💬 16 · цитат 1 · просмотров 21657  
+https://x.com/JamesWynnReal/status/2122700787277307937
+
+## 2026-11-17 14:54 UTC · репост
+
+RT @JamesWynnReal: First they IGNORE you, then they LAUGH at you, then they FIGHT you, then you WYNN!
+ 
+- Gandhi
+
+❤ 0 · 🔁 20 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/JamesWynnReal/status/2122705006595809618
+
+## 2026-11-17 14:56 UTC · цитата
+
+I pretty much nailed the $SPX too,
+ 
+People laughed then,
+ 
+My short is now quite a hefty profit :) https://t.co/yZtSJw5Id9
+
+❤ 35 · 🔁 0 · 💬 12 · цитат 0 · просмотров 22908  
+https://x.com/JamesWynnReal/status/2122705340953211012
+
+## 2026-11-17 15:20 UTC · репост
+
+RT @_BOBO_THE_BEAR: $BOBO is on SOLANA:
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
+ 
+https://t.co/M0txKfm4yH https://t.co/Q2QyNPuTk0
+
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 13620  
+https://x.com/JamesWynnReal/status/2122711488238645425
+
+## 2026-11-17 15:27 UTC · пост
+
+First come first served $BOBO won’t be this cheap for long! Bears are out in full force!
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
+ 
+@_BOBO_THE_BEAR 🐻 https://t.co/Klom8SXVFH
+
+❤ 15 · 🔁 0 · 💬 10 · цитат 0 · просмотров 17150  
+https://x.com/JamesWynnReal/status/2122713170162655664
+
+## 2026-11-17 15:37 UTC · пост
+
+FIVE MASSIVE TANKERS JUST GOT HIT IN THE STRAIT OF HORMUZ. THIS SHIT HAS TO END.
+
+❤ 88 · 🔁 1 · 💬 7 · цитат 1 · просмотров 27016  
+https://x.com/JamesWynnReal/status/2122715867876151374
+
+## 2026-11-17 15:39 UTC · цитата
+
+SEVERAL VESSELS REPORTEDLY ON FIRE https://t.co/FWBvs8Thja
+
+❤ 41 · 🔁 1 · 💬 2 · цитат 0 · просмотров 19175  
+https://x.com/JamesWynnReal/status/2122716239193936248
+
+## 2026-11-17 15:41 UTC · пост
+
+THE UNITED STATES NATIONAL SECURITY COMMUNICATIONS NETWORK IS SUFFERING A MAJOR OUTAGE 🤯
+
+❤ 80 · 🔁 3 · 💬 7 · цитат 0 · просмотров 23201  
+https://x.com/JamesWynnReal/status/2122716711334142133
+
+## 2026-11-17 15:53 UTC · пост
+
+‘’A 6 year old boy was shot in his head in his tent’’ ⛺️ 
+ 
+I don’t have any words. https://t.co/yGWJyRkQe8
+
+❤ 144 · 🔁 22 · 💬 14 · цитат 0 · просмотров 20763  
+https://x.com/JamesWynnReal/status/2122719779911786815
+
+## 2026-11-17 15:55 UTC · репост
+
+RT @WatcherGuru: JUST IN: $13 trillion asset manager Charles Schwab's website goes down.
+
+❤ 0 · 🔁 2722 · 💬 0 · цитат 0 · просмотров 9051  
+https://x.com/JamesWynnReal/status/2122720292522827791
+
+## 2026-11-17 16:16 UTC · пост
+
+I’am not saying $BTC won’t go lower because I think it will due to an incoming black swan event, however, with these hacks and bank outages its not a bad entry at all.
+ 
+I said a few days ago I closed all my shorts on $BTC because I saw more opportunity in shorting the US Stock Market. And how right I was.
+ 
+Stay safe. Preserve, diversify and protect capital.
+ 
+Dark times are here.
+
+❤ 342 · 🔁 10 · 💬 21 · цитат 0 · просмотров 50712  
+https://x.com/JamesWynnReal/status/2122725522111082807
+
+## 2026-11-17 16:20 UTC · пост
+
+What are USA going to do, I mean send 3 ships to the middle east and not retaliate when literally Iran is actively attacking US Military compounds and infrastructure right in front of them.
+ 
+The worse case is USA reacting because it will be an even further escalation but it almost seems inevitable.
+ 
+This is fucking crazy.
+
+❤ 63 · 🔁 0 · 💬 10 · цитат 0 · просмотров 24194  
+https://x.com/JamesWynnReal/status/2122726487421829215
+
+## 2026-11-17 17:29 UTC · репост
+
+RT @_BOBO_THE_BEAR: Checking the charts is fun when you’re a bear.
+ 
+Meet $BOBO, the face of bear markets since 2018.
+ 
+3Us5kPR1BL5XpiBR9Qi…
+
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 12884  
+https://x.com/JamesWynnReal/status/2122743831040798736
+
+## 2026-11-17 17:29 UTC · ответ
+
+@_BOBO_THE_BEAR bobo billions
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1234  
+https://x.com/JamesWynnReal/status/2122743998351622548
+
+## 2026-11-17 17:37 UTC · ответ
+
+@0xAvseenko @_BOBO_THE_BEAR Its within that era to some degree
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1079  
+https://x.com/JamesWynnReal/status/2122745902809153849
+
+## 2026-11-17 18:09 UTC · ответ
+
+@Polymarket Hasn’t this been happening all day in multiple states now in USA.
+
+❤ 7 · 🔁 1 · 💬 0 · цитат 0 · просмотров 3646  
+https://x.com/JamesWynnReal/status/2122753970372554918
+
+## 2026-11-17 18:11 UTC · пост
+
+We are in World War 3.
+ 
+And most of it is cyber warfare.
+ 
+@Grok what actually needs/has to happen to be officially in WW3 and explain why we are or not in one already.
+
+❤ 128 · 🔁 3 · 💬 15 · цитат 0 · просмотров 46498  
+https://x.com/JamesWynnReal/status/2122754539053011316
+
+## 2026-11-17 18:16 UTC · цитата
+
+Everything is going to be fine. https://t.co/sC6HaDi6Sp
+
+❤ 10 · 🔁 0 · 💬 5 · цитат 1 · просмотров 16817  
+https://x.com/JamesWynnReal/status/2122755832916119753
+
+## 2026-11-17 18:18 UTC · ответ
+
+@DollarShill @grok I don’t give a fuck about views on X or attention seeking I just say whatever I want whenever I want
+
+❤ 10 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2594  
+https://x.com/JamesWynnReal/status/2122756303999447531
+
+## 2026-11-17 19:15 UTC · пост
+
+BREAKING! European energy giant Equinor, one of Europe’s biggest natural gas suppliers are undergoing a major cyber attack 🇪🇺
+
+❤ 96 · 🔁 0 · 💬 6 · цитат 0 · просмотров 23142  
+https://x.com/JamesWynnReal/status/2122770617523122616
+
+## 2026-11-17 19:22 UTC · пост
+
+Who remembers? https://t.co/7v8ER7tTpY
+
+❤ 396 · 🔁 4 · 💬 64 · цитат 2 · просмотров 61266  
+https://x.com/JamesWynnReal/status/2122772379864834116
+
+## 2026-11-17 19:45 UTC · репост
+
+RT @WatcherGuru: JUST IN: 🇺🇸 Pentagon fails 9th consecutive financial audit, unable to fully verify over $2 trillion in assets.
+
+❤ 0 · 🔁 2141 · 💬 0 · цитат 0 · просмотров 8678  
+https://x.com/JamesWynnReal/status/2122778135104311637
+
+## 2026-11-17 19:50 UTC · ответ
+
+@a1lon9 Can’t lie your doing a great job and continue to build out
+
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1528  
+https://x.com/JamesWynnReal/status/2122779347425927317
+
+## 2026-11-17 19:53 UTC · ответ
+
+@crypto_bitlord7 haha
+
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1411  
+https://x.com/JamesWynnReal/status/2122780229882232860
+
+## 2026-11-17 19:58 UTC · пост
+
+Mark my words BOBO is going to explode. Community there, holder count growing. It’ll happen fast and when you least expect it.
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump https://t.co/8xmR2f1Odd
+
+❤ 27 · 🔁 7 · 💬 19 · цитат 0 · просмотров 17367  
+https://x.com/JamesWynnReal/status/2122781453012676862
+
+## 2026-11-17 20:12 UTC · пост
+
+I know the market is abysmal right now but I truly believe BOBO deserves his shot at riches.
+ 
+PEPE did it in a bear market. BOBO is the pinnacle meme of a bear market!
+ 
+Join us: https://t.co/gqu0JLzhSG
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
+
+❤ 17 · 🔁 2 · 💬 12 · цитат 0 · просмотров 20301  
+https://x.com/JamesWynnReal/status/2122785077671383165
+
+## 2026-11-18 04:28 UTC · ответ
+
+@TonyGuoga Haha, i liked the one with Hellmuth where you had AK and ran it 4 times and said you hadn’t seen your cards. Great for TV. Legend mate!
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 910  
+https://x.com/JamesWynnReal/status/2122909899470549264
+
+## 2026-11-18 04:31 UTC · пост
+
+Whats happening guys? Let’s talk.. 👇
+
+❤ 42 · 🔁 0 · 💬 23 · цитат 1 · просмотров 18982  
+https://x.com/JamesWynnReal/status/2122910500782735509
+
+## 2026-11-18 04:38 UTC · ответ
+
+@lvn_crypto I’m panic shorting the S&amp;P and NasDaq.
+ 
+What about you?
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1144  
+https://x.com/JamesWynnReal/status/2122912392682336491
+
+## 2026-11-18 04:39 UTC · ответ
+
+@impixiecat What would you do if you retired?
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1100  
+https://x.com/JamesWynnReal/status/2122912524366749869
+
+## 2026-11-18 04:40 UTC · репост
+
+RT @_BOBO_THE_BEAR: One mission 
+
+$BOBO https://t.co/9IsBkuCsxG
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 9208  
+https://x.com/JamesWynnReal/status/2122912828776644680
+
+## 2026-11-18 05:18 UTC · ответ
+
+@Mattikus179889 Good, Gram is on my list. Do not own any yet. Which wallet do you use? I use Keeper.
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 904  
+https://x.com/JamesWynnReal/status/2122922344121610373
+
+## 2026-11-18 05:18 UTC · ответ
+
+@C33k2 Standard.
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 866  
+https://x.com/JamesWynnReal/status/2122922380129697967
+
+## 2026-11-18 05:25 UTC · цитата
+
+Take a look at this post below, and then the one behind that one. EVERYONE laughed at me.
+ 
+The more they laughed, the more I shorted. Their arrogance made me more money.
+ 
+Their is no denying my trading capabilities. https://t.co/cFHGbOyNwV
+
+❤ 25 · 🔁 0 · 💬 10 · цитат 0 · просмотров 14861  
+https://x.com/JamesWynnReal/status/2122924225719947729
+
+## 2026-11-18 05:26 UTC · ответ
+
+@Peregrino1708 https://t.co/Xzrnoz4SYe
+
+❤ 1 · 🔁 1 · 💬 1 · цитат 0 · просмотров 728  
+https://x.com/JamesWynnReal/status/2122924424441798722
+
+## 2026-11-18 05:26 UTC · ответ
+
+@Honeyxgpt https://t.co/YNRLY0aDCM
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 88  
+https://x.com/JamesWynnReal/status/2122924505203187795
+
+## 2026-11-18 05:32 UTC · ответ
+
+@ShirleyXBT What if the door is locked from the other side?
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 847  
+https://x.com/JamesWynnReal/status/2122925872927871164
+
+## 2026-11-18 05:33 UTC · ответ
+
+@MaisonGhost It was slow and steady and then all at once.
+ 
+Similar to how $BOBO THE BEAR could play out…
+ 
+3Us5kPR1BL5XpiBR9QiXVtS2CgfLgahenzh9qKtNpump
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 1 · просмотров 753  
+https://x.com/JamesWynnReal/status/2122926231062769881
+
+## 2026-11-18 05:34 UTC · ответ
+
+@GaryCardone I like the competition
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 690  
+https://x.com/JamesWynnReal/status/2122926376525484230
+
+## 2026-11-18 05:35 UTC · ответ
+
+@playmatejaylene Until you run out of chips
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 875  
+https://x.com/JamesWynnReal/status/2122926525100245486
+
+## 2026-11-18 05:39 UTC · пост
+
+After NVIDIA’s strikingly good revenue earnings came out. I have now decided to short the AI market with hefty size.
+ 
+No good if you have no chips. Top is in.
+ 
+Bookmark this.
+ 
+- wynn
+
+❤ 90 · 🔁 4 · 💬 19 · цитат 1 · просмотров 18290  
+https://x.com/JamesWynnReal/status/2122927558144700842
+
+## 2026-11-18 05:50 UTC · ответ
+
+@OachyO Correct and there is nothing nobody can do to stop it.
+ 
+Writing on the wall.
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1231  
+https://x.com/JamesWynnReal/status/2122930486238720050
+
+## 2026-11-18 05:51 UTC · ответ
+
+@Uan07715890 Part and parcel of the game, win some you lose some
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1204  
+https://x.com/JamesWynnReal/status/2122930620053803035
+
+## 2026-11-18 06:09 UTC · ответ
+
+@oneminvin idgaf about spelling capabilities, I could easily write very formal, i rarely ever re-read my posts. I’am 1 of 1. I commonly abbreviate words, ‘’ur’’ instead of ‘’your’’ ‘’fu’’ instead of ‘’fuck you’’ ‘’Vin’’ instead of ‘’Vinnie’’
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 736  
+https://x.com/JamesWynnReal/status/2122935157959385365
+
+## 2026-11-18 06:14 UTC · цитата
+
+It’s extremely easy to manipulate product sales, aka, net revenue. If they wanted to come short of expectations they could have - easily. They, and other large corps do this all the time, it’s actually a warning sign. But I expect extremely few people to even understand what I’am https://t.co/oX7bWDQzYf
+
+❤ 15 · 🔁 1 · 💬 8 · цитат 1 · просмотров 12138  
+https://x.com/JamesWynnReal/status/2122936491479560213

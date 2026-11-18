@@ -1,80 +1,23 @@
 [
  {
-  "id": "2122376159925243966",
-  "username": "EvgenyGaevoy",
-  "username_canon": "EvgenyGaevoy",
-  "type": "quote",
-  "created_at": "2026-11-16T17:08:03.000Z",
-  "text": "who exactly had a bright idea about inviting this blabbering clown? https://t.co/pZ2DD5VwNy",
-  "text_flat": "who exactly had a bright idea about inviting this blabbering clown? https://t.co/pZ2DD5VwNy",
-  "url": "https://x.com/EvgenyGaevoy/status/2122376159925243966",
-  "lang": "en",
-  "conversation_id": "2122376159925243966",
-  "referenced": [
-   {
-    "id": "2122335832128549182",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "x.com/SolanaFloor/st…",
-     "end": 91,
-     "expanded_url": "https://twitter.com/SolanaFloor/status/2122335832128549182",
-     "start": 68,
-     "url": "https://t.co/pZ2DD5VwNy"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 426,
-  "retweets": 7,
-  "replies": 43,
-  "quotes": 2,
-  "bookmarks": 19,
-  "impressions": 29784,
-  "score": 558,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122600612504461338",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "reply",
   "created_at": "2026-11-17T07:59:56.000Z",
   "text": "@trading_axe I would but then to be fair I wouldn’t be able to come up with a scenario where I would meet the guy",
-  "text_flat": "@trading_axe I would but then to be fair I wouldn’t be able to come up with a scenario where I would meet the guy",
   "url": "https://x.com/EvgenyGaevoy/status/2122600612504461338",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122389419332092301",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1398319504975970310",
-     "start": 0,
-     "username": "trading_axe"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
+  "likes": 3,
   "retweets": 0,
-  "replies": 0,
+  "replies": 1,
   "quotes": 0,
+  "impressions": 615,
   "bookmarks": 0,
-  "impressions": 512,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122389419332092301",
+   "text": "@EvgenyGaevoy You wouldn’t say that to his face.\n\n~ Dr. Axius."
+  }
  },
  {
   "id": "2122635174735429999",
@@ -83,34 +26,17 @@
   "type": "quote",
   "created_at": "2026-11-17T10:17:16.000Z",
   "text": "me and crypro/ai meltdown https://t.co/7GJAzJrsRb https://t.co/La2xv4iOfB",
-  "text_flat": "me and crypro/ai meltdown https://t.co/7GJAzJrsRb https://t.co/La2xv4iOfB",
   "url": "https://x.com/EvgenyGaevoy/status/2122635174735429999",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122468609079558298",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 73,
-     "start": 50,
-     "url": "https://t.co/La2xv4iOfB"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 97,
-  "retweets": 3,
-  "replies": 8,
-  "quotes": 1,
-  "bookmarks": 8,
-  "impressions": 9500,
-  "score": 133,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 143,
+  "retweets": 4,
+  "replies": 12,
+  "quotes": 2,
+  "impressions": 13539,
+  "bookmarks": 10,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122468609079558298",
+   "text": "金正恩视察滑雪场，女儿金主爱一身白衣滑雪，金正恩和李雪主戴墨镜观看。\n\n朝鲜今日公布一系列照片，显示金正恩一行视察了北胞胎山地区的滑雪旅游休养地建设工地。\n\n不得不说，金主爱滑雪水平确实不错，而且也不戴墨镜。 https://t.co/z5AgZbddJx"
+  }
  }
 ]

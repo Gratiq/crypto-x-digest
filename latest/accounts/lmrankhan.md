@@ -1,54 +1,31 @@
-# @lmrankhan — посты за 2026-11-17
+# @lmrankhan — посты за 2026-11-18
 
-Всего: 6
+Всего: 4
 
-## 2026-11-16 17:29 UTC · репост
+## 2026-11-17 13:57 UTC · ответ
 
-RT @alliance: ALL19 APPS ARE STILL OPEN FOR 2 MORE DAYS
+@bobbyong @coingecko @SolanaFndn Congrats Bobby!
 
-• $400K in funding
-• Build in Soho, NYC
-• Pitch tier-1 VCs at Demo Day
-• A lifelon…
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 258  
+https://x.com/lmrankhan/status/2122690679411535960
 
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 612  
-https://x.com/lmrankhan/status/2122381570426228846
+## 2026-11-17 19:22 UTC · цитата
 
-## 2026-11-17 00:24 UTC · цитата
+Apply if you are looking to change the world. https://t.co/phtLSPNWfG
 
-I’d take the opposite approach now if you’re a consumer founder. Everyone is bundling services, but I’d look to unbundle and focus on specific archetypes of users or products. 
+❤ 105 · 🔁 4 · 💬 9 · цитат 0 · просмотров 13160  
+https://x.com/lmrankhan/status/2122772285052334522
 
-Build something niche or hyper specific. There are still so many products and ideas that haven’t been https://t.co/RoviK9abQ1
+## 2026-11-17 19:32 UTC · ответ
 
-❤ 328 · 🔁 14 · 💬 55 · цитат 7 · просмотров 34856  
-https://x.com/lmrankhan/status/2122485901813043412
+@swunicorn @creatorgenapp ty!
 
-## 2026-11-17 00:32 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 160  
+https://x.com/lmrankhan/status/2122774797700718621
 
-An example @papertrade_xyz or @tradeupdown
+## 2026-11-17 19:38 UTC · ответ
 
-❤ 15 · 🔁 0 · 💬 4 · цитат 1 · просмотров 2160  
-https://x.com/lmrankhan/status/2122487939493929239
+@strangeraisin @Sebastianq2001 @rriccio thanks Ishan
 
-## 2026-11-17 01:10 UTC · цитата
-
-@jeazous https://t.co/QSr16mBrtf https://t.co/hFU8WHiUQK
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 673  
-https://x.com/lmrankhan/status/2122497621201965201
-
-## 2026-11-17 04:14 UTC · пост
-
-Here's my unabashed hyper bullish view on where crypto is going  
-
-Every onchain cycle since 2013, we've had an onchain boom/bust. The boom typically shows what pmf would look like for onchain experiments if it were sustainable and with the bust it kills 95% of the experiments
-
-❤ 249 · 🔁 32 · 💬 42 · цитат 14 · просмотров 29969  
-https://x.com/lmrankhan/status/2122543867585007646
-
-## 2026-11-17 04:15 UTC · цитата
-
-@AltcoinSherpa Good question, here are my thoughts https://t.co/taKRbuLoN8
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 610  
-https://x.com/lmrankhan/status/2122544039023308935
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 178  
+https://x.com/lmrankhan/status/2122776418916385014

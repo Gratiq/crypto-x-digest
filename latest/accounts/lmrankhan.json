@@ -1,243 +1,82 @@
 [
  {
-  "id": "2122381570426228846",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "retweet",
-  "created_at": "2026-11-16T17:29:32.000Z",
-  "text": "RT @alliance: ALL19 APPS ARE STILL OPEN FOR 2 MORE DAYS\n\n• $400K in funding\n• Build in Soho, NYC\n• Pitch tier-1 VCs at Demo Day\n• A lifelon…",
-  "text_flat": "RT @alliance: ALL19 APPS ARE STILL OPEN FOR 2 MORE DAYS  • $400K in funding • Build in Soho, NYC • Pitch tier-1 VCs at Demo Day • A lifelon…",
-  "url": "https://x.com/lmrankhan/status/2122381570426228846",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122380941595193733",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "909513498652225538",
-     "start": 3,
-     "username": "alliance"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 11,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 612,
-  "score": 33,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122485901813043412",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "quote",
-  "created_at": "2026-11-17T00:24:07.000Z",
-  "text": "I’d take the opposite approach now if you’re a consumer founder. Everyone is bundling services, but I’d look to unbundle and focus on specific archetypes of users or products. \n\nBuild something niche or hyper specific. There are still so many products and ideas that haven’t been https://t.co/RoviK9abQ1",
-  "text_flat": "I’d take the opposite approach now if you’re a consumer founder. Everyone is bundling services, but I’d look to unbundle and focus on specific archetypes of users or products.   Build something niche or hyper specific. There are still so many products and ideas that haven’t been https://t.co/RoviK9abQ1",
-  "url": "https://x.com/lmrankhan/status/2122485901813043412",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122466008292090214",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 303,
-     "start": 280,
-     "url": "https://t.co/RoviK9abQ1"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 328,
-  "retweets": 14,
-  "replies": 55,
-  "quotes": 7,
-  "bookmarks": 97,
-  "impressions": 34856,
-  "score": 598,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122487939493929239",
+  "id": "2122690679411535960",
   "username": "lmrankhan",
   "username_canon": "lmrankhan",
   "type": "reply",
-  "created_at": "2026-11-17T00:32:13.000Z",
-  "text": "An example @papertrade_xyz or @tradeupdown",
-  "text_flat": "An example @papertrade_xyz or @tradeupdown",
-  "url": "https://x.com/lmrankhan/status/2122487939493929239",
-  "lang": "en",
-  "conversation_id": "2122485901813043412",
-  "referenced": [
-   {
-    "id": "2122485901813043412",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 26,
-     "id": "1526686213402464256",
-     "start": 11,
-     "username": "papertrade_xyz"
-    },
-    {
-     "end": 42,
-     "id": "2028662799485067264",
-     "start": 30,
-     "username": "tradeupdown"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 15,
-  "retweets": 0,
-  "replies": 4,
-  "quotes": 1,
-  "bookmarks": 2,
-  "impressions": 2160,
-  "score": 28,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122497621201965201",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "quote",
-  "created_at": "2026-11-17T01:10:41.000Z",
-  "text": "@jeazous https://t.co/QSr16mBrtf https://t.co/hFU8WHiUQK",
-  "text_flat": "@jeazous https://t.co/QSr16mBrtf https://t.co/hFU8WHiUQK",
-  "url": "https://x.com/lmrankhan/status/2122497621201965201",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122487939493929239",
-    "type": "quoted"
-   },
-   {
-    "id": "2122496394174841264",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "840945357148311552",
-     "start": 0,
-     "username": "jeazous"
-    }
-   ],
-   "urls": [
-    {
-     "end": 56,
-     "start": 33,
-     "url": "https://t.co/hFU8WHiUQK"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
+  "created_at": "2026-11-17T13:57:50.000Z",
+  "text": "@bobbyong @coingecko @SolanaFndn Congrats Bobby!",
+  "url": "https://x.com/lmrankhan/status/2122690679411535960",
+  "likes": 2,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 673,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122543867585007646",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "original",
-  "created_at": "2026-11-17T04:14:27.000Z",
-  "text": "Here's my unabashed hyper bullish view on where crypto is going  \n\nEvery onchain cycle since 2013, we've had an onchain boom/bust. The boom typically shows what pmf would look like for onchain experiments if it were sustainable and with the bust it kills 95% of the experiments",
-  "text_flat": "Here's my unabashed hyper bullish view on where crypto is going    Every onchain cycle since 2013, we've had an onchain boom/bust. The boom typically shows what pmf would look like for onchain experiments if it were sustainable and with the bust it kills 95% of the experiments",
-  "url": "https://x.com/lmrankhan/status/2122543867585007646",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 249,
-  "retweets": 32,
-  "replies": 42,
-  "quotes": 14,
-  "bookmarks": 97,
-  "impressions": 29969,
-  "score": 568,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122544039023308935",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "quote",
-  "created_at": "2026-11-17T04:15:08.000Z",
-  "text": "@AltcoinSherpa Good question, here are my thoughts https://t.co/taKRbuLoN8",
-  "text_flat": "@AltcoinSherpa Good question, here are my thoughts https://t.co/taKRbuLoN8",
-  "url": "https://x.com/lmrankhan/status/2122544039023308935",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122543867585007646",
-    "type": "quoted"
-   },
-   {
-    "id": "2122533795089772977",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "1068237257977544704",
-     "start": 0,
-     "username": "AltcoinSherpa"
-    }
-   ],
-   "urls": [
-    {
-     "end": 74,
-     "start": 51,
-     "url": "https://t.co/taKRbuLoN8"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
+  "impressions": 258,
   "bookmarks": 0,
-  "impressions": 610,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122619196735430800",
+   "text": "Today, I’m proud to share that after bootstrapping for over 12 years, @coingecko will be backed by @SolanaFndn.\n\nSince 2014, millions of you have used CoinGecko to track the crypto market through every cycle.\n\nWe will continue to serve our community with the same commitment to reliable, comprehensive market coverage and transparent methodologies.\n\nThank you to everyone who's been part of this jour"
+  }
+ },
+ {
+  "id": "2122772285052334522",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "quote",
+  "created_at": "2026-11-17T19:22:06.000Z",
+  "text": "Apply if you are looking to change the world. https://t.co/phtLSPNWfG",
+  "url": "https://x.com/lmrankhan/status/2122772285052334522",
+  "likes": 105,
+  "retweets": 4,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 13160,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122771480958451721",
+   "text": "Applications for our most ambitious batch ever close tomorrow.\n\nOnchain. Compute. Robotics. Energy.\n\n$400K per startup. 24 hours left to apply. Apply at https://t.co/y1WL2bIZxV https://t.co/Z7wHBy2RwO"
+  }
+ },
+ {
+  "id": "2122774797700718621",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "reply",
+  "created_at": "2026-11-17T19:32:05.000Z",
+  "text": "@swunicorn @creatorgenapp ty!",
+  "url": "https://x.com/lmrankhan/status/2122774797700718621",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 160,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122774553336406199",
+   "text": "Alliance was one of the most formative experiences of my founder journey and building @creatorgenapp \n\nQiao and Imran were incredibly hands-on and brutally honest in the best way. The founder network is still one of the first places I go for help\n\nApps close tomorrow. DM me if you’d like a referral!"
+  }
+ },
+ {
+  "id": "2122776418916385014",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "reply",
+  "created_at": "2026-11-17T19:38:32.000Z",
+  "text": "@strangeraisin @Sebastianq2001 @rriccio thanks Ishan",
+  "url": "https://x.com/lmrankhan/status/2122776418916385014",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 178,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122776293510881725",
+   "text": "Just went through ALL18 with @Sebastianq2001\n\nThe pace of the program is insane. We came in with one product, pivoted in the first week, and grew to $3.5M+ in notional volume during the batch.\n\n@lmrankhan , @rriccio , and the other mentors are incredibly hands-on. You get direct, honest feedback from people who have actually built and scaled crypto/fintech companies, and they're constantly pushing"
+  }
  }
 ]

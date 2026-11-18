@@ -1,40 +1,62 @@
 [
  {
-  "id": "2122552276292411695",
+  "id": "2122704963977834706",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "retweet",
+  "created_at": "2026-11-17T14:54:36.000Z",
+  "text": "RT @BusinessInsider: Jensen Huang was building an open AI ecosystem that threatened Anthropic's business model. His ouster changes the stak…",
+  "url": "https://x.com/arthur0x/status/2122704963977834706",
+  "likes": 0,
+  "retweets": 3880,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1948,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122631250087145943",
+   "text": "Jensen Huang was building an open AI ecosystem that threatened Anthropic's business model. His ouster changes the stakes of its IPO. https://t.co/MBgw0FhRFy"
+  }
+ },
+ {
+  "id": "2122734853338829033",
   "username": "arthur0x",
   "username_canon": "arthur0x",
   "type": "reply",
-  "created_at": "2026-11-17T04:47:52.000Z",
-  "text": "@LucaNetz Agree",
-  "text_flat": "@LucaNetz Agree",
-  "url": "https://x.com/arthur0x/status/2122552276292411695",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122107442578551236",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "807982663000674305",
-     "start": 0,
-     "username": "LucaNetz"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 1,
-  "retweets": 0,
+  "created_at": "2026-11-17T16:53:22.000Z",
+  "text": "@JensenHuang Call a shareholders meeting to replace the board of directors, you have all of our support to return as CEO and replace all the board members",
+  "url": "https://x.com/arthur0x/status/2122734853338829033",
+  "likes": 121,
+  "retweets": 5,
   "replies": 0,
   "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 629,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 10322,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122726005219737649",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it "
+  }
+ },
+ {
+  "id": "2122734940546879923",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "quote",
+  "created_at": "2026-11-17T16:53:42.000Z",
+  "text": "Looking forward to the return of the King. https://t.co/uKnCL6njd5",
+  "url": "https://x.com/arthur0x/status/2122734940546879923",
+  "likes": 93,
+  "retweets": 4,
+  "replies": 8,
+  "quotes": 0,
+  "impressions": 8062,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122726005219737649",
+   "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it "
+  }
  }
 ]

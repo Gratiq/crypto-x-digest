@@ -1,35 +1,40 @@
-# @Orangie — посты за 2026-11-17
+# @Orangie — посты за 2026-11-18
 
-Всего: 4
-
-## 2026-11-16 16:47 UTC · репост
-
-RT @fomo: Introducing the fomo notification center.
-
-Track follows, rewards, likes, leaderboard updates and more.
-
-All your account activit…
-
-❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 9719  
-https://x.com/orangie/status/2122370970052653375
-
-## 2026-11-16 16:47 UTC · ответ
-
-@fomo OK OK
-
-❤ 26 · 🔁 0 · 💬 13 · цитат 0 · просмотров 2232  
-https://x.com/orangie/status/2122371016270008812
-
-## 2026-11-16 19:55 UTC · ответ
-
-@RichardPtardio @MadeByWoven 😭🙏 Richard!!!
-
-❤ 4 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1216  
-https://x.com/orangie/status/2122418222414586106
+Всего: 5
 
 ## 2026-11-17 13:20 UTC · ответ
 
 @rasputnik7 @Cybertruck0001 @interstellargw Would you sell it?
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 326  
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1141  
 https://x.com/orangie/status/2122681348104269994
+
+## 2026-11-17 16:26 UTC · пост
+
+https://t.co/iXcKSkYBa7
+
+❤ 436 · 🔁 19 · 💬 45 · цитат 3 · просмотров 30710  
+https://x.com/orangie/status/2122728065188941870
+
+## 2026-11-17 18:39 UTC · цитата
+
+so what’s actually going on and what steps are you taking https://t.co/xbzXSH5dX6
+
+❤ 222 · 🔁 5 · 💬 55 · цитат 2 · просмотров 38281  
+https://x.com/orangie/status/2122761617964454146
+
+## 2026-11-17 21:12 UTC · ответ
+
+@LeilaHormozi ❤️❤️❤️❤️
+
+❤ 11 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2430  
+https://x.com/orangie/status/2122800062346719453
+
+## 2026-11-17 23:53 UTC · пост
+
+bye london 
+
+great city 🇬🇧 https://t.co/8P80biQGOR
+
+❤ 350 · 🔁 3 · 💬 45 · цитат 1 · просмотров 18599  
+https://x.com/orangie/status/2122840617973961138

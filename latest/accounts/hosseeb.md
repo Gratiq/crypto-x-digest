@@ -1,51 +1,164 @@
-# @hosseeb — посты за 2026-11-17
+# @hosseeb — посты за 2026-11-18
 
-Всего: 5
+Всего: 17
 
-## 2026-11-16 16:28 UTC · репост
+## 2026-11-17 16:27 UTC · репост
 
-RT @KevinWSHPod: . @hosseeb reveals Dragonfly passed on @NEARProtocol in the first meeting, then co-led the seed after the founders fixed e…
+RT @KevinWSHPod: . @hosseeb reveals $vvv is the crypto asset he has the most belief in right now
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 1602  
-https://x.com/hosseeb/status/2122366142283202714
+“Venice is a privacy preserving AI infere…
 
-## 2026-11-16 20:18 UTC · репост
+❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 1501  
+https://x.com/hosseeb/status/2122728396212064743
 
-RT @arampell: there are only three ways of allocating scarce goods:
--prices
--lotteries
--lines
+## 2026-11-17 16:28 UTC · ответ
 
-prices and ONLY prices encourage more supply…
+@agastyateja @KevinWSHPod We bought both
 
-❤ 0 · 🔁 342 · 💬 0 · цитат 0 · просмотров 1609  
-https://x.com/hosseeb/status/2122424029336494241
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 100  
+https://x.com/hosseeb/status/2122728647413088708
 
-## 2026-11-16 22:34 UTC · цитата
+## 2026-11-17 16:58 UTC · цитата
 
-This podcast really got me thinking. There's been a lot of worry about superintelligent AIs "overthrowing the government."
+FX is a $10T market. But stablecoin-backed FX is just in its infancy.
 
-I think this is the wrong picture of how superintelligent AIs will behave. Superintelligent AIs will indeed be dangerous. But seizing power directly is a https://t.co/5yx7ayLipo
+@CodexFX is going to take this market mainstream. They've already 10x'd in volume this year alone. 
 
-❤ 86 · 🔁 6 · 💬 24 · цитат 3 · просмотров 12390  
-https://x.com/hosseeb/status/2122458382401769539
+Proud to continue backing this team! https://t.co/G9uCfCQwIO
 
-## 2026-11-16 22:38 UTC · ответ
+❤ 125 · 🔁 5 · 💬 6 · цитат 1 · просмотров 14333  
+https://x.com/hosseeb/status/2122736181758792007
 
-I'm reminded of the Spanish conquest of the Aztecs. Cortes only arrived with a few hundred men, but he was able to win because he backed the factions that already resented Aztec rule (the Tlaxcalans, the Tonotacs, etc.) who saw the arrival of the invaders as an opportunity to
+## 2026-11-17 17:59 UTC · цитата
 
-❤ 6 · 🔁 1 · 💬 1 · цитат 0 · просмотров 1473  
-https://x.com/hosseeb/status/2122459380771967343
+What exactly is supposed to be scandalous about this? 
 
-## 2026-11-17 04:06 UTC · пост
+Anthropic was extremely public about their position on chip exports to China. Dario has been pounding the table on it  for years. Lobbying is how companies express their political preferences to lawmakers, it's 100% legal and doesn't imply anything nefarious.
 
-If you use Outlook, PSA, when you click "recall" on an email, I get a:
+So what's the big deal? 
 
-"John Doe would like to recall the message &lt;Subject Line&gt;"
+Sounds like this story is supposed to be innuendo that Anthropic was secretly connected to the Jensen ouster. But this article produces 0 new evidence of that. Of course they were paying lobbying firms aligned with their publicly stated views.
 
-As a standalone email.
+Seems like more Anthropic derangement syndrome.
 
-It doesn't do what you think it does. Also makes me 100% re-read whatever you tried to recall.
+❤ 45 · 🔁 1 · 💬 17 · цитат 0 · просмотров 9291  
+https://x.com/hosseeb/status/2122751587055796606
 
-❤ 57 · 🔁 1 · 💬 25 · цитат 0 · просмотров 9794  
-https://x.com/hosseeb/status/2122541797448761617
+## 2026-11-17 19:12 UTC · ответ
+
+@beniduboss Agreed
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 304  
+https://x.com/hosseeb/status/2122769883821936778
+
+## 2026-11-17 22:38 UTC · пост
+
+Infuriating story about the DOJ using Pangram to persuade a judge to invalidate defense motions.
+
+If the motions are not 100% human-written, DOJ claims they are are a "waste of judicial resources" and they should not have to respond to them.
+
+This is absurd. Who cares if AI wrote your motions? The cost is internalized by the defendant. This is just welfare for lawyers. Why should both parties have to waste money?
+
+I can't wait for AI-based arbitration courts. Both parties contractually agree to a binding ruling, both parties generate AI-powered briefs, and an AI judge instantly renders a verdict.
+
+Litigation will become cheap and instantaneous.
+
+https://t.co/ohUFjW4Zkb
+
+❤ 40 · 🔁 0 · 💬 10 · цитат 1 · просмотров 7562  
+https://x.com/hosseeb/status/2122821734219039227
+
+## 2026-11-17 23:59 UTC · ответ
+
+@beniduboss @max_spero_
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 282  
+https://x.com/hosseeb/status/2122841983731527930
+
+## 2026-11-18 00:28 UTC · репост
+
+RT @WuBlockchain: Dragonfly Partner Reflects on Missing Out on Solana’s 4-Cent Seed Round  
+
+In the November 12, 2026 When Shift Happens @K…
+
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1176  
+https://x.com/hosseeb/status/2122849414436004184
+
+## 2026-11-18 00:28 UTC · ответ
+
+@beniduboss @max_spero_ You dug your own grave
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 188  
+https://x.com/hosseeb/status/2122849476964729240
+
+## 2026-11-18 03:08 UTC · ответ
+
+@OlivierAxelX Ah yes, as we all know, Anthropic wanted to topple Nvidia because they did not rely on them or the circus of circular financing. Masterful plan.
+
+Stupid take. 
+
+Their own pre-IPO markets are also massively down because of how much the Jensen shakeup has rattled compute markets.
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 180  
+https://x.com/hosseeb/status/2122889751284142192
+
+## 2026-11-18 03:11 UTC · ответ
+
+@helloitslynne @torvaman_ Stay positive
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 110  
+https://x.com/hosseeb/status/2122890323240370609
+
+## 2026-11-18 03:22 UTC · ответ
+
+@OlivierAxelX According to you they succeeded in toppling the CEO of Nvidia and as a result, their stock is down, and Nvidia is likely to pull back their orgy of circular financing and being the backstop for the domestic compute buildout, which Anthropic depends on.
+
+Excellent theory.
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 150  
+https://x.com/hosseeb/status/2122893230194995350
+
+## 2026-11-18 04:13 UTC · ответ
+
+@OlivierAxelX State-backed quasi monopoly? Lolll
+
+OAI? Google? SPCX? Meta? 
+
+You think Ant believes Moonshot with Blackwells is their biggest competitor?
+
+Bro what are you huffing?
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 122  
+https://x.com/hosseeb/status/2122906132046110943
+
+## 2026-11-18 05:53 UTC · репост
+
+RT @poppy_haze: BREAKING: Jensen Huang is in the datacenters ripping the Nvidia cards out - causing worldwide outages - saying “they’re min…
+
+❤ 0 · 🔁 3614 · 💬 0 · цитат 0 · просмотров 1141  
+https://x.com/hosseeb/status/2122931093741695147
+
+## 2026-11-18 06:18 UTC · репост
+
+RT @avichal: Well-Behaved Founders Seldom Make History
+-
+Most people make a fundamental mistake when they think about founders. They assume…
+
+❤ 0 · 🔁 35 · 💬 0 · цитат 0 · просмотров 921  
+https://x.com/hosseeb/status/2122937538931474924
+
+## 2026-11-18 06:39 UTC · пост
+
+Can't believe I once spent a summer trying to learn Vim.
+
+Future generations will never know the anguish.
+
+❤ 27 · 🔁 0 · 💬 21 · цитат 0 · просмотров 2677  
+https://x.com/hosseeb/status/2122942869694738573
+
+## 2026-11-18 07:22 UTC · ответ
+
+@marek_ Dvorak bros in shambles
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 43  
+https://x.com/hosseeb/status/2122953459863576720

@@ -1,40 +1,38 @@
 [
  {
-  "id": "2122391221024981279",
+  "id": "2122711538612219911",
   "username": "tomhschmidt",
   "username_canon": "tomhschmidt",
   "type": "retweet",
-  "created_at": "2026-11-16T18:07:53.000Z",
-  "text": "RT @siamesemusic: Get Got — Death Grips (2012) https://t.co/E2Kr3ES3Fq",
-  "text_flat": "RT @siamesemusic: Get Got — Death Grips (2012) https://t.co/E2Kr3ES3Fq",
-  "url": "https://x.com/tomhschmidt/status/2122391221024981279",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122121421136507102",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "2091199584794001408",
-     "start": 3,
-     "username": "siamesemusic"
-    }
-   ]
-  },
-  "low_substance": true,
+  "created_at": "2026-11-17T15:20:43.000Z",
+  "text": "RT @haonan: Accelerating improvements in model capabilities has made it possible to build a new kind of financial institution — made of age…",
+  "url": "https://x.com/tomhschmidt/status/2122711538612219911",
   "likes": 0,
-  "retweets": 2510,
+  "retweets": 11,
   "replies": 0,
   "quotes": 0,
+  "impressions": 225,
   "bookmarks": 0,
-  "impressions": 240,
-  "score": 7530,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122709964313473355",
+   "text": "Accelerating improvements in model capabilities has made it possible to build a new kind of financial institution — made of agents, protocols, and stablecoins.\n\nFX is a $195T market stuck in the 1970s. There are three forces culminating now that make it possible to build a new kind of financial institution.\n\n- Technological: intelligence is commoditizing, opening products and cost structures that "
+  }
+ },
+ {
+  "id": "2122744543741419914",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "original",
+  "created_at": "2026-11-17T17:31:52.000Z",
+  "text": "there is a massive coordinated anti-ANT media campaign going on right now https://t.co/T9gKHkSv4c",
+  "url": "https://x.com/tomhschmidt/status/2122744543741419914",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 2157,
+  "bookmarks": 1,
+  "referenced": null
  }
 ]

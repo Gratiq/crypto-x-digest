@@ -1,40 +1,38 @@
 [
  {
-  "id": "2122381224991674681",
+  "id": "2122773814061011314",
   "username": "QwQiao",
   "username_canon": "QwQiao",
   "type": "retweet",
-  "created_at": "2026-11-16T17:28:10.000Z",
-  "text": "RT @alliance: ALL19 APPS ARE STILL OPEN FOR 2 MORE DAYS\n\n• $400K in funding\n• Build in Soho, NYC\n• Pitch tier-1 VCs at Demo Day\n• A lifelon…",
-  "text_flat": "RT @alliance: ALL19 APPS ARE STILL OPEN FOR 2 MORE DAYS  • $400K in funding • Build in Soho, NYC • Pitch tier-1 VCs at Demo Day • A lifelon…",
-  "url": "https://x.com/QwQiao/status/2122381224991674681",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122380941595193733",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "909513498652225538",
-     "start": 3,
-     "username": "alliance"
-    }
-   ]
-  },
-  "low_substance": true,
+  "created_at": "2026-11-17T19:28:11.000Z",
+  "text": "RT @alliance: Applications for our most ambitious batch ever close tomorrow.\n\nOnchain. Compute. Robotics. Energy.\n\n$400K per startup. 24 ho…",
+  "url": "https://x.com/QwQiao/status/2122773814061011314",
   "likes": 0,
-  "retweets": 11,
+  "retweets": 31,
   "replies": 0,
   "quotes": 0,
+  "impressions": 1724,
   "bookmarks": 0,
-  "impressions": 1844,
-  "score": 33,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122771480958451721",
+   "text": "Applications for our most ambitious batch ever close tomorrow.\n\nOnchain. Compute. Robotics. Energy.\n\n$400K per startup. 24 hours left to apply. Apply at https://t.co/y1WL2bIZxV https://t.co/Z7wHBy2RwO"
+  }
+ },
+ {
+  "id": "2122823550549602358",
+  "username": "QwQiao",
+  "username_canon": "QwQiao",
+  "type": "original",
+  "created_at": "2026-11-17T22:45:49.000Z",
+  "text": "nvidia board: we do not intend to reinstate jensen as ceo\n\nnvidia shareholders: we do not intend to let this board serve another term",
+  "url": "https://x.com/QwQiao/status/2122823550549602358",
+  "likes": 28708,
+  "retweets": 1303,
+  "replies": 127,
+  "quotes": 40,
+  "impressions": 398726,
+  "bookmarks": 443,
+  "referenced": null
  }
 ]

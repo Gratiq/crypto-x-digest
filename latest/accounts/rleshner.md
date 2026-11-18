@@ -1,30 +1,37 @@
-# @rleshner — посты за 2026-11-17
+# @rleshner — посты за 2026-11-18
 
-Всего: 3
+Всего: 4
 
-## 2026-11-16 15:52 UTC · репост
+## 2026-11-17 15:28 UTC · репост
 
-RT @SuperstateInc: 1/ Real World Assets, tradable across Solana DeFi.
+RT @SuperstateInc: 1/ FundOS now powers its first publicly registered fund.
 
-That’s Exposure: the official @solana RWA Launchpad, launching with…
+Today, $2.5T asset manager @InvescoUS launched IROXX, the Inve…
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 632  
-https://x.com/rleshner/status/2122357241701597234
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 638  
+https://x.com/rleshner/status/2122713538070208965
 
-## 2026-11-16 18:18 UTC · репост
+## 2026-11-17 16:57 UTC · репост
 
-RT @formation_so: Formation is a launch partner on Exposure.
+RT @austincampbell: Have you ever looking inside the moldy, decaying plumbing of our current financial system?
 
-We’re building a path for new assets from issuance to scale, and Exposure bri…
+You know, the one creaking…
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 653  
-https://x.com/rleshner/status/2122393991429718296
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 609  
+https://x.com/rleshner/status/2122735831295098894
 
-## 2026-11-17 00:56 UTC · цитата
+## 2026-11-17 18:29 UTC · репост
 
-Here you can see the very first on-chain transactions of a publicly registered, GENIUS-compliant money market fund, on Ethereum. Powered by Superstate and Invesco.
+RT @malekanoms: My thanks to @rleshner for coming to class recently to share his wisdom on tokenization and the future of capital markets.…
 
-BIG things start small. https://t.co/AehhAjpdud
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 602  
+https://x.com/rleshner/status/2122759106905698782
 
-❤ 201 · 🔁 9 · 💬 23 · цитат 0 · просмотров 14215  
-https://x.com/rleshner/status/2122494100079604114
+## 2026-11-17 19:58 UTC · репост
+
+RT @SuperstateInc: Now onchain: “a registered money market fund designed to back stablecoins.”
+
+Meet IROXX from @InvescoUS, powered by Fund…
+
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 540  
+https://x.com/rleshner/status/2122781559061139917

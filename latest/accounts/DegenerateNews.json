@@ -1,656 +1,19 @@
 [
  {
-  "id": "2122336844558065764",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T14:31:49.000Z",
-  "text": "NEW: FORMER UK PM @BorisJohnson CALLS BITCOIN CREATOR SATOSHI NAKAMOTO \"YAKKO-MUCKO NAKASAKO\" AND \"YAKAMOTO NAKASORI\"\n\n\"NOBODY KNOWS WHO'S IN CHARGE APART FROM YAKAMOTO NAKASORI, AND I DON'T KNOW WHERE TO FIND HIM\" https://t.co/Mdsj31mTZO",
-  "text_flat": "NEW: FORMER UK PM @BorisJohnson CALLS BITCOIN CREATOR SATOSHI NAKAMOTO \"YAKKO-MUCKO NAKASAKO\" AND \"YAKAMOTO NAKASORI\"  \"NOBODY KNOWS WHO'S IN CHARGE APART FROM YAKAMOTO NAKASORI, AND I DON'T KNOW WHERE TO FIND HIM\" https://t.co/Mdsj31mTZO",
-  "url": "https://x.com/DegenerateNews/status/2122336844558065764",
-  "lang": "en",
-  "conversation_id": "2122336844558065764",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 31,
-     "id": "3131144855",
-     "start": 18,
-     "username": "BorisJohnson"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/Mdsj31mTZO",
-     "end": 238,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122336844558065764/video/1",
-     "media_key": "13_2122336417145552896",
-     "start": 215,
-     "url": "https://t.co/Mdsj31mTZO"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 906,
-  "retweets": 73,
-  "replies": 230,
-  "quotes": 166,
-  "bookmarks": 255,
-  "impressions": 358732,
-  "score": 2338,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122369126471495756",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T16:40:06.000Z",
-  "text": "NEW: @AbraGlobal PARTNERS WITH @NYSE OWNER @ICE_Markets' DIGITAL TRUST TO LET INSTITUTIONS BORROW US DOLLARS AGAINST $BTC, $ETH AND $SOL\n\nICE DIGITAL TRUST WILL HOLD THE COLLATERAL IN SEGREGATED WALLETS, WITH NO REHYPOTHECATION https://t.co/7Y9uacwxz0",
-  "text_flat": "NEW: @AbraGlobal PARTNERS WITH @NYSE OWNER @ICE_Markets' DIGITAL TRUST TO LET INSTITUTIONS BORROW US DOLLARS AGAINST $BTC, $ETH AND $SOL  ICE DIGITAL TRUST WILL HOLD THE COLLATERAL IN SEGREGATED WALLETS, WITH NO REHYPOTHECATION https://t.co/7Y9uacwxz0",
-  "url": "https://x.com/DegenerateNews/status/2122369126471495756",
-  "lang": "en",
-  "conversation_id": "2122369126471495756",
-  "referenced": [],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 121,
-     "start": 117,
-     "tag": "BTC"
-    },
-    {
-     "end": 127,
-     "start": 123,
-     "tag": "ETH"
-    },
-    {
-     "end": 136,
-     "start": 132,
-     "tag": "SOL"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 16,
-     "id": "3009637010",
-     "start": 5,
-     "username": "AbraGlobal"
-    },
-    {
-     "end": 36,
-     "id": "21323268",
-     "start": 31,
-     "username": "NYSE"
-    },
-    {
-     "end": 55,
-     "id": "25570548",
-     "start": 43,
-     "username": "ICE_Markets"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/7Y9uacwxz0",
-     "end": 251,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122369126471495756/photo/1",
-     "media_key": "3_2122369118934388738",
-     "start": 228,
-     "url": "https://t.co/7Y9uacwxz0"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 98,
-  "retweets": 8,
-  "replies": 31,
-  "quotes": 4,
-  "bookmarks": 3,
-  "impressions": 23389,
-  "score": 199,
-  "cashtags": [
-   "BTC",
-   "ETH",
-   "SOL"
-  ],
-  "hashtags": []
- },
- {
-  "id": "2122376976346513448",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T17:11:17.000Z",
-  "text": "BREAKING: @Pumpfun's APP FLIPS @fomo IN DAILY SOLANA SPOT TRADING VOLUME FOR THE FIRST TIME https://t.co/MSREIFmYCS",
-  "text_flat": "BREAKING: @Pumpfun's APP FLIPS @fomo IN DAILY SOLANA SPOT TRADING VOLUME FOR THE FIRST TIME https://t.co/MSREIFmYCS",
-  "url": "https://x.com/DegenerateNews/status/2122376976346513448",
-  "lang": "en",
-  "conversation_id": "2122376976346513448",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 18,
-     "id": "1622243071806128131",
-     "start": 10,
-     "username": "Pumpfun"
-    },
-    {
-     "end": 36,
-     "id": "1867712496531877888",
-     "start": 31,
-     "username": "fomo"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/MSREIFmYCS",
-     "end": 115,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122376976346513448/photo/1",
-     "media_key": "3_2122376966477148160",
-     "start": 92,
-     "url": "https://t.co/MSREIFmYCS"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 141,
-  "retweets": 14,
-  "replies": 28,
-  "quotes": 4,
-  "bookmarks": 4,
-  "impressions": 20029,
-  "score": 255,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122378474434531712",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T17:17:14.000Z",
-  "text": "NEW: @JupiterExchange UNVEILS ITS POST-TOKENIZATION STACK: GLOBAL PASSPORT FOR ACCESS, LIQUIDITY SERVICES FOR ISSUERS, AND A NATIVE EQUITIES LENDING MARKET COMING TO JUPITER LEND - BUILT WITH @Bullish https://t.co/M9ZEXq9A7n",
-  "text_flat": "NEW: @JupiterExchange UNVEILS ITS POST-TOKENIZATION STACK: GLOBAL PASSPORT FOR ACCESS, LIQUIDITY SERVICES FOR ISSUERS, AND A NATIVE EQUITIES LENDING MARKET COMING TO JUPITER LEND - BUILT WITH @Bullish https://t.co/M9ZEXq9A7n",
-  "url": "https://x.com/DegenerateNews/status/2122378474434531712",
-  "lang": "en",
-  "conversation_id": "2122378474434531712",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 21,
-     "id": "1446489618208067586",
-     "start": 5,
-     "username": "JupiterExchange"
-    },
-    {
-     "end": 200,
-     "id": "772963621206917120",
-     "start": 192,
-     "username": "Bullish"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/M9ZEXq9A7n",
-     "end": 224,
-     "expanded_url": "https://x.com/solana/status/2122370287815508297/video/1",
-     "media_key": "13_2122369977487351808",
-     "start": 201,
-     "url": "https://t.co/M9ZEXq9A7n"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 241,
-  "retweets": 23,
-  "replies": 22,
-  "quotes": 5,
-  "bookmarks": 14,
-  "impressions": 28854,
-  "score": 383,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122384988276473901",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T17:43:07.000Z",
-  "text": "BREAKING: @nvidia BOARD IS NOT CONSIDERING BRINGING @JensenHuang BACK AS CEO https://t.co/xfBGBEOLDK",
-  "text_flat": "BREAKING: @nvidia BOARD IS NOT CONSIDERING BRINGING @JensenHuang BACK AS CEO https://t.co/xfBGBEOLDK",
-  "url": "https://x.com/DegenerateNews/status/2122384988276473901",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "61559439",
-     "start": 10,
-     "username": "nvidia"
-    },
-    {
-     "end": 64,
-     "id": "2070631956824698880",
-     "start": 52,
-     "username": "JensenHuang"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 117,
-  "retweets": 4,
-  "replies": 20,
-  "quotes": 5,
-  "bookmarks": 2,
-  "impressions": 21926,
-  "score": 186,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122396205284204755",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T18:27:42.000Z",
-  "text": "NEW: @Trezor SAYS SHIPPING PARTNER SKLADON WAS BREACHED - EXPOSING NAMES, PHONE NUMBERS, HOME ADDRESSES, EMAILS AND ORDER DETAILS FROM ABOUT 27,000 ORDERS\n\nTHE ORDERS WERE PLACED BETWEEN AUG 9 AND NOV 7\n\nTREZOR SAYS ITS OWN SYSTEMS AND DEVICES WERE NOT COMPROMISED, BUT SOME https://t.co/FATUx903xU",
-  "text_flat": "NEW: @Trezor SAYS SHIPPING PARTNER SKLADON WAS BREACHED - EXPOSING NAMES, PHONE NUMBERS, HOME ADDRESSES, EMAILS AND ORDER DETAILS FROM ABOUT 27,000 ORDERS  THE ORDERS WERE PLACED BETWEEN AUG 9 AND NOV 7  TREZOR SAYS ITS OWN SYSTEMS AND DEVICES WERE NOT COMPROMISED, BUT SOME https://t.co/FATUx903xU",
-  "url": "https://x.com/DegenerateNews/status/2122396205284204755",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1431204614",
-     "start": 5,
-     "username": "Trezor"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 119,
-  "retweets": 19,
-  "replies": 33,
-  "quotes": 11,
-  "bookmarks": 8,
-  "impressions": 34179,
-  "score": 283,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122399873567953063",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T18:42:16.000Z",
-  "text": "NEW: @Lighter_xyz SAYS WITHDRAWALS ARE \"BACK TO NORMAL\" AND ~$5M USDC WAS RETURNED TO THE AFFECTED TRADER\n\nLIGHTER SAYS THE TRADER'S API KEYS LEAKED VIA UNOFFICIAL SIGNING CODE\n\nABRAXAS-LINKED WALLETS EARLIER CLOSED $274M OF @HyperliquidX SHORTS https://t.co/krxA4mtc7a",
-  "text_flat": "NEW: @Lighter_xyz SAYS WITHDRAWALS ARE \"BACK TO NORMAL\" AND ~$5M USDC WAS RETURNED TO THE AFFECTED TRADER  LIGHTER SAYS THE TRADER'S API KEYS LEAKED VIA UNOFFICIAL SIGNING CODE  ABRAXAS-LINKED WALLETS EARLIER CLOSED $274M OF @HyperliquidX SHORTS https://t.co/krxA4mtc7a",
-  "url": "https://x.com/DegenerateNews/status/2122399873567953063",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "1604942990417580032",
-     "start": 5,
-     "username": "Lighter_xyz"
-    },
-    {
-     "end": 238,
-     "id": "1527020295059648513",
-     "start": 225,
-     "username": "HyperliquidX"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 121,
-  "retweets": 13,
-  "replies": 20,
-  "quotes": 2,
-  "bookmarks": 3,
-  "impressions": 22817,
-  "score": 209,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122406566192173329",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T19:08:52.000Z",
-  "text": "BREAKING: BANK OF AMERICA, CHASE, J.P. MORGAN, U.S. BANK, WELLS FARGO AND ZELLE HIT BY OUTAGES - PER DOWNDETECTOR USERS\n\nA CHASE SPOKESPERSON TELLS AP: \"DUE TO A TECHNICAL ISSUE, SOME TRANSACTIONS ARE TAKING LONGER THAN USUAL TO COMPLETE\" \n\nCHASE SAYS IT'S A TECHNICAL BUG, NOT A https://t.co/gYYFPDUmW1",
-  "text_flat": "BREAKING: BANK OF AMERICA, CHASE, J.P. MORGAN, U.S. BANK, WELLS FARGO AND ZELLE HIT BY OUTAGES - PER DOWNDETECTOR USERS  A CHASE SPOKESPERSON TELLS AP: \"DUE TO A TECHNICAL ISSUE, SOME TRANSACTIONS ARE TAKING LONGER THAN USUAL TO COMPLETE\"   CHASE SAYS IT'S A TECHNICAL BUG, NOT A https://t.co/gYYFPDUmW1",
-  "url": "https://x.com/DegenerateNews/status/2122406566192173329",
-  "lang": "en",
-  "conversation_id": "2122406566192173329",
-  "referenced": [],
-  "entities": {
-   "urls": [
-    {
-     "display_url": "pic.x.com/gYYFPDUmW1",
-     "end": 303,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122406566192173329/photo/1",
-     "media_key": "3_2122406557996453889",
-     "start": 280,
-     "url": "https://t.co/gYYFPDUmW1"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 128,
-  "retweets": 13,
-  "replies": 22,
-  "quotes": 8,
-  "bookmarks": 10,
-  "impressions": 33823,
-  "score": 245,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122414360471753076",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T19:39:50.000Z",
-  "text": "BREAKING: @Polymarket PREDICTION MARKETS GO LIVE ON THE @Pumpfun MOBILE APP FOR USERS IN PERMITTED JURISDICTIONS https://t.co/kVQoqIqoC7",
-  "text_flat": "BREAKING: @Polymarket PREDICTION MARKETS GO LIVE ON THE @Pumpfun MOBILE APP FOR USERS IN PERMITTED JURISDICTIONS https://t.co/kVQoqIqoC7",
-  "url": "https://x.com/DegenerateNews/status/2122414360471753076",
-  "lang": "en",
-  "conversation_id": "2122414360471753076",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 21,
-     "id": "1261335549215989760",
-     "start": 10,
-     "username": "Polymarket"
-    },
-    {
-     "end": 64,
-     "id": "1622243071806128131",
-     "start": 56,
-     "username": "Pumpfun"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/kVQoqIqoC7",
-     "end": 136,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122414360471753076/photo/1",
-     "media_key": "3_2122414351487291392",
-     "start": 113,
-     "url": "https://t.co/kVQoqIqoC7"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 87,
-  "retweets": 5,
-  "replies": 22,
-  "quotes": 1,
-  "bookmarks": 1,
-  "impressions": 19753,
-  "score": 150,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122420659833938122",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T20:04:52.000Z",
-  "text": "NEW: @solana CO-FOUNDER @toly SAYS FORMER UK PM @BorisJohnson HAS \"IRONICALLY, A DEEPER UNDERSTANDING OF CRYPTOCURRENCY AND SOV THAN MOST OF CT\" https://t.co/UB9DNgYt6X",
-  "text_flat": "NEW: @solana CO-FOUNDER @toly SAYS FORMER UK PM @BorisJohnson HAS \"IRONICALLY, A DEEPER UNDERSTANDING OF CRYPTOCURRENCY AND SOV THAN MOST OF CT\" https://t.co/UB9DNgYt6X",
-  "url": "https://x.com/DegenerateNews/status/2122420659833938122",
-  "lang": "en",
-  "conversation_id": "2122420659833938122",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "951329744804392960",
-     "start": 5,
-     "username": "solana"
-    },
-    {
-     "end": 29,
-     "id": "2327407569",
-     "start": 24,
-     "username": "toly"
-    },
-    {
-     "end": 61,
-     "id": "3131144855",
-     "start": 48,
-     "username": "BorisJohnson"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/UB9DNgYt6X",
-     "end": 168,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122420659833938122/photo/1",
-     "media_key": "3_2122420596319420416",
-     "start": 145,
-     "url": "https://t.co/UB9DNgYt6X"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 178,
-  "retweets": 14,
-  "replies": 35,
-  "quotes": 6,
-  "bookmarks": 6,
-  "impressions": 27476,
-  "score": 314,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122452530604998948",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T22:11:31.000Z",
-  "text": "BREAKING: @CFTC APPROVES ITS FIRST EXCHANGE AND CLEARINGHOUSE APPLICATIONS FOR A FIRM USING BLOCKCHAIN-BASED ARCHITECTURE TO EXECUTE AND SETTLE DERIVATIVES\n\nCHAIRMAN @ChairmanSelig SAYS THE APPROVALS REINFORCE THAT \"THE UNITED STATES IS OPEN FOR BUSINESS TO INNOVATORS\" https://t.co/MfV8axqcyE",
-  "text_flat": "BREAKING: @CFTC APPROVES ITS FIRST EXCHANGE AND CLEARINGHOUSE APPLICATIONS FOR A FIRM USING BLOCKCHAIN-BASED ARCHITECTURE TO EXECUTE AND SETTLE DERIVATIVES  CHAIRMAN @ChairmanSelig SAYS THE APPROVALS REINFORCE THAT \"THE UNITED STATES IS OPEN FOR BUSINESS TO INNOVATORS\" https://t.co/MfV8axqcyE",
-  "url": "https://x.com/DegenerateNews/status/2122452530604998948",
-  "lang": "en",
-  "conversation_id": "2122452530604998948",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "234044087",
-     "start": 10,
-     "username": "CFTC"
-    },
-    {
-     "end": 180,
-     "id": "2006398816933851136",
-     "start": 166,
-     "username": "ChairmanSelig"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/MfV8axqcyE",
-     "end": 293,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122452530604998948/photo/1",
-     "media_key": "3_2122452523420090368",
-     "start": 270,
-     "url": "https://t.co/MfV8axqcyE"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 183,
-  "retweets": 19,
-  "replies": 26,
-  "quotes": 5,
-  "bookmarks": 13,
-  "impressions": 30647,
-  "score": 320,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122457034016661621",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-16T22:29:24.000Z",
-  "text": "BREAKING: @Backpack SAYS IT HAS RECEIVED \"LANDMARK CFTC APPROVAL\" FOR A US DERIVATIVES EXCHANGE WITH LEVERAGED PERPS, CRYPTO COLLATERAL, CROSS-MARGIN AND 24/7 TRADING\n\n\"BACKPACK IS COMING HOME TO THE USA\" https://t.co/QLWWBHeD3F",
-  "text_flat": "BREAKING: @Backpack SAYS IT HAS RECEIVED \"LANDMARK CFTC APPROVAL\" FOR A US DERIVATIVES EXCHANGE WITH LEVERAGED PERPS, CRYPTO COLLATERAL, CROSS-MARGIN AND 24/7 TRADING  \"BACKPACK IS COMING HOME TO THE USA\" https://t.co/QLWWBHeD3F",
-  "url": "https://x.com/DegenerateNews/status/2122457034016661621",
-  "lang": "en",
-  "conversation_id": "2122457034016661621",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 19,
-     "id": "1498029602261905408",
-     "start": 10,
-     "username": "Backpack"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/QLWWBHeD3F",
-     "end": 228,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122457034016661621/photo/1",
-     "media_key": "3_2122457026236227584",
-     "start": 205,
-     "url": "https://t.co/QLWWBHeD3F"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 404,
-  "retweets": 30,
-  "replies": 33,
-  "quotes": 7,
-  "bookmarks": 16,
-  "impressions": 30839,
-  "score": 597,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122516896079646942",
-  "username": "DegenerateNews",
-  "username_canon": "DegenerateNews",
-  "type": "original",
-  "created_at": "2026-11-17T02:27:17.000Z",
-  "text": "BREAKING: @JensenHuang LOSES @nvidia BADGE ON @X https://t.co/Bve3API6f1",
-  "text_flat": "BREAKING: @JensenHuang LOSES @nvidia BADGE ON @X https://t.co/Bve3API6f1",
-  "url": "https://x.com/DegenerateNews/status/2122516896079646942",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 22,
-     "id": "2070631956824698880",
-     "start": 10,
-     "username": "JensenHuang"
-    },
-    {
-     "end": 36,
-     "id": "61559439",
-     "start": 29,
-     "username": "nvidia"
-    },
-    {
-     "end": 48,
-     "id": "783214",
-     "start": 46,
-     "username": "X"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 398,
-  "retweets": 21,
-  "replies": 101,
-  "quotes": 16,
-  "bookmarks": 15,
-  "impressions": 51101,
-  "score": 726,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122651048573534510",
   "username": "DegenerateNews",
   "username_canon": "DegenerateNews",
   "type": "original",
   "created_at": "2026-11-17T11:20:21.000Z",
   "text": "NEW: @Revolut CHAIRMAN MARTIN GILBERT ON @solana - \"IT'S A BUILDING BLOCK FOR EVERYTHING A LOT OF THE FINTECHS ARE GOING TO DO\" https://t.co/N2JgO1C3D7",
-  "text_flat": "NEW: @Revolut CHAIRMAN MARTIN GILBERT ON @solana - \"IT'S A BUILDING BLOCK FOR EVERYTHING A LOT OF THE FINTECHS ARE GOING TO DO\" https://t.co/N2JgO1C3D7",
   "url": "https://x.com/DegenerateNews/status/2122651048573534510",
-  "lang": "en",
-  "conversation_id": "2122651048573534510",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "2676313880",
-     "start": 5,
-     "username": "Revolut"
-    },
-    {
-     "end": 48,
-     "id": "951329744804392960",
-     "start": 41,
-     "username": "solana"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/N2JgO1C3D7",
-     "end": 151,
-     "expanded_url": "https://x.com/solana/status/2122644452884004874/video/1",
-     "media_key": "13_2122644100184752128",
-     "start": 128,
-     "url": "https://t.co/N2JgO1C3D7"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 70,
+  "likes": 79,
   "retweets": 3,
   "replies": 19,
   "quotes": 1,
-  "bookmarks": 3,
-  "impressions": 13473,
-  "score": 123,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 18855,
+  "bookmarks": 4,
+  "referenced": null
  },
  {
   "id": "2122653014280319131",
@@ -659,47 +22,14 @@
   "type": "original",
   "created_at": "2026-11-17T11:28:10.000Z",
   "text": "NEW: @coingecko SAYS IT IS NOW BACKED BY @SolanaFndn\n\nPLANS INCLUDE EXPANDING ITS DATA AND API INFRASTRUCTURE AND EXPLORING TRADING https://t.co/6odhrxQDfW",
-  "text_flat": "NEW: @coingecko SAYS IT IS NOW BACKED BY @SolanaFndn  PLANS INCLUDE EXPANDING ITS DATA AND API INFRASTRUCTURE AND EXPLORING TRADING https://t.co/6odhrxQDfW",
   "url": "https://x.com/DegenerateNews/status/2122653014280319131",
-  "lang": "en",
-  "conversation_id": "2122653014280319131",
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 15,
-     "id": "2412652615",
-     "start": 5,
-     "username": "coingecko"
-    },
-    {
-     "end": 52,
-     "id": "1407411848446611459",
-     "start": 41,
-     "username": "SolanaFndn"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/6odhrxQDfW",
-     "end": 155,
-     "expanded_url": "https://x.com/DegenerateNews/status/2122653014280319131/photo/1",
-     "media_key": "3_2122653007967932416",
-     "start": 132,
-     "url": "https://t.co/6odhrxQDfW"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 148,
-  "retweets": 15,
-  "replies": 22,
+  "likes": 223,
+  "retweets": 17,
+  "replies": 26,
   "quotes": 1,
-  "bookmarks": 5,
-  "impressions": 14759,
-  "score": 245,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 21119,
+  "bookmarks": 6,
+  "referenced": null
  },
  {
   "id": "2122664837096292453",
@@ -708,55 +38,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:15:09.000Z",
   "text": "NEW: @SolanaFndn's @vibhu HAS HIS SPEAKER NOTES SHOWN ON THE BIG SCREEN AT BREAKPOINT\n\nHE THEN CALLS @Helius CEO @mert \"HELIUM FOUNDER\" AND PURPOSELY MISPRONOUNCES @toly AS \"ANTOLYNIO SCHNIKOVENLO\" https://t.co/8k2862lhnD",
-  "text_flat": "NEW: @SolanaFndn's @vibhu HAS HIS SPEAKER NOTES SHOWN ON THE BIG SCREEN AT BREAKPOINT  HE THEN CALLS @Helius CEO @mert \"HELIUM FOUNDER\" AND PURPOSELY MISPRONOUNCES @toly AS \"ANTOLYNIO SCHNIKOVENLO\" https://t.co/8k2862lhnD",
   "url": "https://x.com/DegenerateNews/status/2122664837096292453",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1407411848446611459",
-     "start": 5,
-     "username": "SolanaFndn"
-    },
-    {
-     "end": 25,
-     "id": "14393567",
-     "start": 19,
-     "username": "vibhu"
-    },
-    {
-     "end": 108,
-     "id": "1542601224654127105",
-     "start": 101,
-     "username": "Helius"
-    },
-    {
-     "end": 118,
-     "id": "1309886201944473600",
-     "start": 113,
-     "username": "mert"
-    },
-    {
-     "end": 169,
-     "id": "2327407569",
-     "start": 164,
-     "username": "toly"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 66,
-  "retweets": 2,
-  "replies": 17,
-  "quotes": 1,
-  "bookmarks": 6,
-  "impressions": 15577,
-  "score": 115,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 187,
+  "retweets": 4,
+  "replies": 26,
+  "quotes": 2,
+  "impressions": 34763,
+  "bookmarks": 19,
+  "referenced": null
  },
  {
   "id": "2122667018008859108",
@@ -765,67 +54,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:23:48.000Z",
   "text": "NEW: @moonpay'S @PayBox BRINGS THE @solana ECOSYSTEM TO AI AGENTS WITH NEW PLUG-INS FOR @PhoenixTrade, @maplefinance, @MeteoraAG AND @fomo https://t.co/m9oFkTrUnx",
-  "text_flat": "NEW: @moonpay'S @PayBox BRINGS THE @solana ECOSYSTEM TO AI AGENTS WITH NEW PLUG-INS FOR @PhoenixTrade, @maplefinance, @MeteoraAG AND @fomo https://t.co/m9oFkTrUnx",
   "url": "https://x.com/DegenerateNews/status/2122667018008859108",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1024699964071522305",
-     "start": 5,
-     "username": "moonpay"
-    },
-    {
-     "end": 23,
-     "id": "1808178602326085634",
-     "start": 16,
-     "username": "PayBox"
-    },
-    {
-     "end": 42,
-     "id": "951329744804392960",
-     "start": 35,
-     "username": "solana"
-    },
-    {
-     "end": 101,
-     "id": "1675883225321807874",
-     "start": 88,
-     "username": "PhoenixTrade"
-    },
-    {
-     "end": 116,
-     "id": "1164762427604389890",
-     "start": 103,
-     "username": "maplefinance"
-    },
-    {
-     "end": 128,
-     "id": "1384042881808166924",
-     "start": 118,
-     "username": "MeteoraAG"
-    },
-    {
-     "end": 138,
-     "id": "1867712496531877888",
-     "start": 133,
-     "username": "fomo"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 93,
-  "retweets": 16,
-  "replies": 24,
-  "quotes": 1,
-  "bookmarks": 6,
-  "impressions": 12920,
-  "score": 198,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 114,
+  "retweets": 17,
+  "replies": 30,
+  "quotes": 2,
+  "impressions": 19931,
+  "bookmarks": 7,
+  "referenced": null
  },
  {
   "id": "2122669934635262176",
@@ -834,31 +70,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:35:24.000Z",
   "text": "NEW: @1inch WARNS DARKSWORD MALWARE IS STILL TARGETING CRYPTO WALLETS ON UNPATCHED IPHONES\n\nOPENING A MALICIOUS SITE IN SAFARI CAN BE ENOUGH, WITH NO WALLET CONNECTION OR SIGNATURE NEEDED, AS IT GOES AFTER PRIVATE KEYS AND SEED PHRASES https://t.co/Q3hGMzVaT1",
-  "text_flat": "NEW: @1inch WARNS DARKSWORD MALWARE IS STILL TARGETING CRYPTO WALLETS ON UNPATCHED IPHONES  OPENING A MALICIOUS SITE IN SAFARI CAN BE ENOUGH, WITH NO WALLET CONNECTION OR SIGNATURE NEEDED, AS IT GOES AFTER PRIVATE KEYS AND SEED PHRASES https://t.co/Q3hGMzVaT1",
   "url": "https://x.com/DegenerateNews/status/2122669934635262176",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1137038394503114753",
-     "start": 5,
-     "username": "1inch"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 62,
-  "retweets": 9,
-  "replies": 19,
-  "quotes": 6,
-  "bookmarks": 10,
-  "impressions": 15566,
-  "score": 155,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 158,
+  "retweets": 16,
+  "replies": 22,
+  "quotes": 9,
+  "impressions": 31803,
+  "bookmarks": 27,
+  "referenced": null
  },
  {
   "id": "2122672425787887860",
@@ -867,31 +86,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:45:18.000Z",
   "text": "BREAKING: @solana BREAKPOINT 2027 TO TAKE PLACE IN SAN FRANCISCO \n\nTHE CONFERENCE LANDS AT PIER 48 ON SEPTEMBER 8-10 https://t.co/V7CvcuKqtQ",
-  "text_flat": "BREAKING: @solana BREAKPOINT 2027 TO TAKE PLACE IN SAN FRANCISCO   THE CONFERENCE LANDS AT PIER 48 ON SEPTEMBER 8-10 https://t.co/V7CvcuKqtQ",
   "url": "https://x.com/DegenerateNews/status/2122672425787887860",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {
-   "mentions": [
-    {
-     "end": 17,
-     "id": "951329744804392960",
-     "start": 10,
-     "username": "solana"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 68,
-  "retweets": 10,
-  "replies": 26,
-  "quotes": 1,
-  "bookmarks": 5,
-  "impressions": 11719,
-  "score": 158,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 188,
+  "retweets": 12,
+  "replies": 37,
+  "quotes": 4,
+  "impressions": 36437,
+  "bookmarks": 10,
+  "referenced": null
  },
  {
   "id": "2122674706348445996",
@@ -900,48 +102,246 @@
   "type": "quote",
   "created_at": "2026-11-17T12:54:22.000Z",
   "text": "NEW: @zachxbt SAYS INDIAN LAW ENFORCEMENT FROZE $3M FROM AN INNOCENT CHINESE INVESTOR AFTER MISTAKING A CRYPTO BRIDGE FOR A PIG BUTCHERING SCAM\n\nHE SAYS AN INDIAN COURT HAS NOW ORDERED @Gate TO HAND THE FUNDS \"TO A PERSON THEY NEVER BELONGED TO\" https://t.co/P3Ou2SV4sL https://t.co/u75nBzRXu9",
-  "text_flat": "NEW: @zachxbt SAYS INDIAN LAW ENFORCEMENT FROZE $3M FROM AN INNOCENT CHINESE INVESTOR AFTER MISTAKING A CRYPTO BRIDGE FOR A PIG BUTCHERING SCAM  HE SAYS AN INDIAN COURT HAS NOW ORDERED @Gate TO HAND THE FUNDS \"TO A PERSON THEY NEVER BELONGED TO\" https://t.co/P3Ou2SV4sL https://t.co/u75nBzRXu9",
   "url": "https://x.com/DegenerateNews/status/2122674706348445996",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122669479700099192",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "3012852462",
-     "start": 5,
-     "username": "zachxbt"
-    },
-    {
-     "end": 190,
-     "id": "912539725071777792",
-     "start": 185,
-     "username": "Gate"
-    }
-   ],
-   "urls": [
-    {
-     "end": 293,
-     "start": 270,
-     "url": "https://t.co/u75nBzRXu9"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 47,
+  "likes": 195,
+  "retweets": 8,
+  "replies": 35,
+  "quotes": 4,
+  "impressions": 31861,
+  "bookmarks": 12,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122669479700099192",
+   "author": "zachxbt",
+   "text": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.\n\nMy analysis of how Indian LE traced through an unlabeled service and wrongly froze @xxxkeym's Gate account:\n\nThe case stems from a pig butchering victim who allegedly lost $1.7M of B"
+  }
+ },
+ {
+  "id": "2122693922602336418",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T14:10:43.000Z",
+  "text": "NEW: @coingecko CO-FOUNDER @bobbyong SAYS 39% OF THE OVER 50 MILLION TOKENS IT TRACKS ARE @solana TOKENS\n\n\"ANYTHING THAT CAN BE TOKENIZED WILL BE TOKENIZED. WE ARE AT 50 MILLION TODAY, AND I THINK IN A FEW MORE YEARS' TIME, WE HIT A BILLION TOKENS\" https://t.co/ObkScSGopK",
+  "url": "https://x.com/DegenerateNews/status/2122693922602336418",
+  "likes": 241,
+  "retweets": 11,
+  "replies": 34,
+  "quotes": 4,
+  "impressions": 26248,
+  "bookmarks": 11,
+  "referenced": null
+ },
+ {
+  "id": "2122700726237376698",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "quote",
+  "created_at": "2026-11-17T14:37:45.000Z",
+  "text": "NEW: @Ondo INTRODUCES TOKEN SEEKING TO ALLOW ELIGIBLE INVESTORS TO CAPTURE S&amp;P 500 GAINS UP TO A CAP, WITH A BUFFER DESIGNED TO ABSORB DOWNSIDE\n\nLIVE ON ETHEREUM, BNB CHAIN AND SOLANA\n\nSPYSHIELDON (ONDO US 500 CAPITAL SHIELDED PORTFOLIO) IS THE EIGHTH ONDO INTELLIGENT PORTFOLIO https://t.co/9NoIDJ1pcW https://t.co/0GKbjZRMqi",
+  "url": "https://x.com/DegenerateNews/status/2122700726237376698",
+  "likes": 60,
+  "retweets": 4,
+  "replies": 8,
+  "quotes": 0,
+  "impressions": 17886,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122699204397076769",
+   "text": "A new kind of portfolio, only possible onchain.\n\nIntroducing SPYSHIELDon, the Ondo US 500 Capital Shielded Portfolio.\n\nA new approach to the S&P 500 for eligible investors outside the U.S.\n\nDesigned to participate in market gains while seeking to reduce the impact of declines.\n\nSPYSHIELDon brings a new kind of financial product to life through tokenization:\n\n▸ 12 defined-outcome ETFs in one token."
+  }
+ },
+ {
+  "id": "2122712224158642280",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T15:23:26.000Z",
+  "text": "BREAKING: @CharlesSchwab WEBSITE GOES DOWN https://t.co/FaOSn1cW84",
+  "url": "https://x.com/DegenerateNews/status/2122712224158642280",
+  "likes": 263,
+  "retweets": 34,
+  "replies": 31,
+  "quotes": 19,
+  "impressions": 50910,
+  "bookmarks": 19,
+  "referenced": null
+ },
+ {
+  "id": "2122728263328104753",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T16:27:11.000Z",
+  "text": "BREAKING: @JensenHuang BREAKS SILENCE ON @X, ADMITTING HE HAS \"MADE SERIOUS MISTAKES\" IN HIS PERSONAL LIFE\n\nHE SAYS HE WOULD BE \"HONORED TO ANSWER THESE CALLS AND RETURN AS CEO\" OF @nvidia IF THE BOARD DECIDES IT'S IN THE BEST INTEREST https://t.co/iLG4tzUN6e",
+  "url": "https://x.com/DegenerateNews/status/2122728263328104753",
+  "likes": 117,
+  "retweets": 5,
+  "replies": 12,
+  "quotes": 0,
+  "impressions": 20986,
+  "bookmarks": 5,
+  "referenced": null
+ },
+ {
+  "id": "2122731776523354603",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T16:41:08.000Z",
+  "text": "NEW: @crossmint COMPLETES THE FIRST EVER CONFIDENTIAL ONRAMP ON @solana, WITH A USER PAYING IN FIAT AND $USDC LANDING STRAIGHT IN THEIR PRIVATE BALANCE\n\nIT USES @helius PRIVACY RINGS, AND ANY APP CAN OFFER IT BY \"ADDING ONE PARAMETER\" TO A @crossmint ONRAMP ORDER https://t.co/EQaH9ihZNj",
+  "url": "https://x.com/DegenerateNews/status/2122731776523354603",
+  "likes": 153,
+  "retweets": 13,
+  "replies": 16,
+  "quotes": 3,
+  "impressions": 18889,
+  "bookmarks": 13,
+  "referenced": null
+ },
+ {
+  "id": "2122739077439189471",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T17:10:09.000Z",
+  "text": "NEW: @aave MOBILE APP GOES LIVE IN EARLY ACCESS ON ANDROID https://t.co/QPXQB07Ogh",
+  "url": "https://x.com/DegenerateNews/status/2122739077439189471",
+  "likes": 54,
   "retweets": 3,
-  "replies": 17,
+  "replies": 14,
   "quotes": 1,
+  "impressions": 17032,
+  "bookmarks": 2,
+  "referenced": null
+ },
+ {
+  "id": "2122759203580252280",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T18:30:07.000Z",
+  "text": "NEW: @temporal_xyz CEO @marcryptonio WARNS @HyperliquidX AND @binance ON THE @solana BREAKPOINT STAGE\n\n\"TEMPORAL IS ON A MISSION TO BEAT HYPERLIQUID. WE ARE ON A MISSION TO BEAT BINANCE\"\n\nHE UNVEILS \"SUPERMASSIVE” - A SHARED PERPS AND OPTIONS LIQUIDITY LAYER ON SOLANA https://t.co/qQEcz3vAnP",
+  "url": "https://x.com/DegenerateNews/status/2122759203580252280",
+  "likes": 215,
+  "retweets": 17,
+  "replies": 107,
+  "quotes": 35,
+  "impressions": 62297,
+  "bookmarks": 49,
+  "referenced": null
+ },
+ {
+  "id": "2122782773077582150",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T20:03:47.000Z",
+  "text": "BREAKING: THE @WorldBank ANNOUNCES IT WILL EXPLORE REGULATED STABLECOINS WITH @Citi AND @circle - USING $USDC TO MINT AND SETTLE FUNDS FOR ITS DISBURSEMENTS\n\nIT BUILDS ON FUNDSCHAIN, ITS BLOCKCHAIN PLATFORM ALREADY USED BY 350+ PROJECTS ACROSS 96 COUNTRIES https://t.co/LUr1SisnRw",
+  "url": "https://x.com/DegenerateNews/status/2122782773077582150",
+  "likes": 221,
+  "retweets": 22,
+  "replies": 28,
+  "quotes": 6,
+  "impressions": 23261,
+  "bookmarks": 16,
+  "referenced": null
+ },
+ {
+  "id": "2122803763266064582",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T21:27:11.000Z",
+  "text": "NEW: @solanamobile EVANGELIST @toly TAKES A SHOT AT @Apple AFTER ITS OUTAGE\n\n\"WHILE APPLE IS DOWN, SEEKER APP STORE IS SEEKING\" https://t.co/ruGNHC3KCr",
+  "url": "https://x.com/DegenerateNews/status/2122803763266064582",
+  "likes": 132,
+  "retweets": 15,
+  "replies": 16,
+  "quotes": 4,
+  "impressions": 26764,
+  "bookmarks": 0,
+  "referenced": null
+ },
+ {
+  "id": "2122814596981366993",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T22:10:14.000Z",
+  "text": "BREAKING: @nvidia CHAIRMAN HARVEY JONES SAYS THE BOARD DOES NOT INTEND TO REINSTATE @JensenHuang AS CEO, ON THE COMPANY'S EARNINGS CALL https://t.co/8IChiF1RKs",
+  "url": "https://x.com/DegenerateNews/status/2122814596981366993",
+  "likes": 86,
+  "retweets": 7,
+  "replies": 17,
+  "quotes": 4,
+  "impressions": 20124,
   "bookmarks": 4,
-  "impressions": 11204,
-  "score": 97,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": null
+ },
+ {
+  "id": "2122828072588120388",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-17T23:03:47.000Z",
+  "text": "NEW: @coinbase SAYS SCAMMERS USED AN AI DEEPFAKE OF @elonmusk TO PROMOTE A FAKE @Tesla CRYPTO GIVEAWAY TO A LIVESTREAM AUDIENCE OF 500K+\n\nITS AI SCAM DEFENSES STOPPED $4.7M FROM LEAVING CUSTOMERS' ACCOUNTS AFTER HUNDREDS TRIED TO SEND MILLIONS IN ABOUT 2 HOURS https://t.co/HJGG2eajwz",
+  "url": "https://x.com/DegenerateNews/status/2122828072588120388",
+  "likes": 136,
+  "retweets": 6,
+  "replies": 31,
+  "quotes": 7,
+  "impressions": 22561,
+  "bookmarks": 15,
+  "referenced": null
+ },
+ {
+  "id": "2122888022240670094",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-18T03:02:00.000Z",
+  "text": "BREAKING: SOUTHEAST ASIA'S LARGEST BANK @dbsbank PARTNERS WITH @circle TO GIVE INSTITUTIONS DIRECT $USDC MINTING AND REDEMPTION https://t.co/bpNiwhDqw2",
+  "url": "https://x.com/DegenerateNews/status/2122888022240670094",
+  "likes": 127,
+  "retweets": 17,
+  "replies": 25,
+  "quotes": 2,
+  "impressions": 15041,
+  "bookmarks": 8,
+  "referenced": null
+ },
+ {
+  "id": "2122946784624292056",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-18T06:55:30.000Z",
+  "text": "NEW: @solana CO-FOUNDER @toly SAYS \"99.999% OF COMPUTE WILL BE IN SPACE\"\n\n\"WE NEED A BLOCKCHAIN THAT CAN WITHSTAND THE HARSH VACUUM OF SPACE. SOLANA\" https://t.co/2i0XlCmUb4",
+  "url": "https://x.com/DegenerateNews/status/2122946784624292056",
+  "likes": 33,
+  "retweets": 4,
+  "replies": 12,
+  "quotes": 3,
+  "impressions": 8179,
+  "bookmarks": 4,
+  "referenced": null
+ },
+ {
+  "id": "2122951414142181834",
+  "username": "DegenerateNews",
+  "username_canon": "DegenerateNews",
+  "type": "original",
+  "created_at": "2026-11-18T07:13:54.000Z",
+  "text": "NEW: @solana CO-FOUNDER @toly SAYS \"IT'S REALLY HARD TO 'DOUBLE DOWN' ON MEMES\"\n\n\"YOU CAN'T HIRE BD SALES PEOPLE FOR IT\"\n\n\"I THINK MEMES JUST NEED TO BE ORGANIC TO WORK\" https://t.co/kaDKEveZXP",
+  "url": "https://x.com/DegenerateNews/status/2122951414142181834",
+  "likes": 31,
+  "retweets": 1,
+  "replies": 21,
+  "quotes": 2,
+  "impressions": 6996,
+  "bookmarks": 3,
+  "referenced": null
  }
 ]

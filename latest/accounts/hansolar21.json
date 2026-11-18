@@ -1,101 +1,82 @@
 [
  {
-  "id": "2122511445552459778",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "original",
-  "created_at": "2026-11-17T02:05:37.000Z",
-  "text": "the best group chats get made during the bear markets♥️",
-  "text_flat": "the best group chats get made during the bear markets♥️",
-  "url": "https://x.com/hansolar21/status/2122511445552459778",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 146,
-  "retweets": 5,
-  "replies": 16,
-  "quotes": 1,
-  "bookmarks": 2,
-  "impressions": 5749,
-  "score": 198,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122524552668594642",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "reply",
-  "created_at": "2026-11-17T02:57:42.000Z",
-  "text": "@doodlely213 https://t.co/zEfZ0i84lJ",
-  "text_flat": "@doodlely213 https://t.co/zEfZ0i84lJ",
-  "url": "https://x.com/hansolar21/status/2122524552668594642",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122523423784202409",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1610618555334266881",
-     "start": 0,
-     "username": "doodlely213"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 289,
-  "score": 0,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122611414552772999",
   "username": "hansolar21",
   "username_canon": "hansolar21",
   "type": "quote",
   "created_at": "2026-11-17T08:42:52.000Z",
   "text": "Things might get really weird next year https://t.co/EsdexCZzjK",
-  "text_flat": "Things might get really weird next year https://t.co/EsdexCZzjK",
   "url": "https://x.com/hansolar21/status/2122611414552772999",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122407059979386894",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 63,
-     "start": 40,
-     "url": "https://t.co/EsdexCZzjK"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 45,
-  "retweets": 1,
-  "replies": 6,
+  "likes": 76,
+  "retweets": 4,
+  "replies": 8,
   "quotes": 0,
-  "bookmarks": 21,
-  "impressions": 5135,
-  "score": 81,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 8031,
+  "bookmarks": 26,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122407059979386894",
+   "text": "in any case, its literally fucking over https://t.co/ArJUCz2yig"
+  }
+ },
+ {
+  "id": "2122847320824033716",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-18T00:20:16.000Z",
+  "text": "is this the gen-z version of y2k? https://t.co/y0p3Y3LeKD",
+  "url": "https://x.com/hansolar21/status/2122847320824033716",
+  "likes": 38,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 3137,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122535982591365248",
+   "text": "BREAKING: A cyberattack hit 178 major organizations, including Zoom, CNN, BBC, Fox News, HSBC, Ledger, Equifax, Salesforce, IKEA and Air France-KLM, by loading malware on the Optimizely Web platform, exposing visitors to scripts built to steal payment data and exploit iOS"
+  }
+ },
+ {
+  "id": "2122919055988515234",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-18T05:05:19.000Z",
+  "text": "@0xPhoenix77 @shu_bit_ liquidation stories are the ones that build character",
+  "url": "https://x.com/hansolar21/status/2122919055988515234",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 54,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122914033984831822",
+   "text": "@shu_bit_ @hansolar21 need his worst liquidation story, nor the wins"
+  }
+ },
+ {
+  "id": "2122925360526639357",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-18T05:30:22.000Z",
+  "text": "I found the perfect pnl card background @JustinCBram https://t.co/E2kWFsJ2Wd",
+  "url": "https://x.com/hansolar21/status/2122925360526639357",
+  "likes": 31,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 0,
+  "impressions": 2146,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122714038488780929",
+   "text": "aura farming to the max https://t.co/MCoZsDYgmV"
+  }
  }
 ]

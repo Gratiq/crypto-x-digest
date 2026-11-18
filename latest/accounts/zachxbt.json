@@ -6,22 +6,14 @@
   "type": "original",
   "created_at": "2026-11-17T12:33:35.000Z",
   "text": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.\n\nMy analysis of how Indian LE traced through an unlabeled https://t.co/F2brHOyDpG",
-  "text_flat": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.  My analysis of how Indian LE traced through an unlabeled https://t.co/F2brHOyDpG",
   "url": "https://x.com/zachxbt/status/2122669479700099192",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [],
-  "entities": {},
-  "low_substance": false,
-  "likes": 1511,
-  "retweets": 198,
-  "replies": 292,
-  "quotes": 81,
-  "bookmarks": 251,
-  "impressions": 152156,
-  "score": 3183,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 4290,
+  "retweets": 538,
+  "replies": 601,
+  "quotes": 204,
+  "impressions": 913965,
+  "bookmarks": 780,
+  "referenced": null
  },
  {
   "id": "2122669931036868610",
@@ -30,36 +22,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:35:23.000Z",
   "text": "@DinoMaxZK Thank you",
-  "text_flat": "@DinoMaxZK Thank you",
   "url": "https://x.com/zachxbt/status/2122669931036868610",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122669838740996140",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1372188469590642695",
-     "start": 0,
-     "username": "DinoMaxZK"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 12,
+  "likes": 16,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 5914,
   "bookmarks": 0,
-  "impressions": 3015,
-  "score": 12,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122669838740996140",
+   "text": "@zachxbt Great work ser https://t.co/DiKBNv5dw8"
+  }
  },
  {
   "id": "2122670139300876373",
@@ -68,36 +42,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:36:13.000Z",
   "text": "@hrithikk Time to lock in https://t.co/929B6mvNFe",
-  "text_flat": "@hrithikk Time to lock in https://t.co/929B6mvNFe",
   "url": "https://x.com/zachxbt/status/2122670139300876373",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122669947646283953",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1350464371231604736",
-     "start": 0,
-     "username": "hrithikk"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 68,
+  "likes": 145,
   "retweets": 1,
-  "replies": 4,
+  "replies": 6,
   "quotes": 1,
-  "bookmarks": 1,
-  "impressions": 4684,
-  "score": 83,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 12743,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122669947646283953",
+   "text": "@zachxbt I was looking in the same matters, but I can’t post anything \n\nGlad you posted it https://t.co/KwLQMDMT9A"
+  }
  },
  {
   "id": "2122670959937405257",
@@ -106,47 +62,19 @@
   "type": "quote",
   "created_at": "2026-11-17T12:39:28.000Z",
   "text": "@KMCrypton I am curious if Gate actually has any connection to India which prompted them to respond to an Indian court order. \n\nNonetheless India LE incompetence is well documented at this point and exchanges need to fight for user rights in bad cases: https://t.co/YWvXFAl7Az",
-  "text_flat": "@KMCrypton I am curious if Gate actually has any connection to India which prompted them to respond to an Indian court order.   Nonetheless India LE incompetence is well documented at this point and exchanges need to fight for user rights in bad cases: https://t.co/YWvXFAl7Az",
   "url": "https://x.com/zachxbt/status/2122670959937405257",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2091137383605628945",
-    "type": "quoted"
-   },
-   {
-    "id": "2122670088696340750",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1366742720820236292",
-     "start": 0,
-     "username": "KMCrypton"
-    }
-   ],
-   "urls": [
-    {
-     "end": 276,
-     "start": 253,
-     "url": "https://t.co/YWvXFAl7Az"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 11,
+  "likes": 29,
   "retweets": 1,
   "replies": 1,
   "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 2401,
-  "score": 16,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 5437,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2091137383605628945",
+   "author": "zachxbt",
+   "text": "@OnchainLens @aabisanaytulla Never seen incompetence as bad as India:\n\nEX 1: India law enforcement contacted me and they tried to get my help to unfreeze stolen funds \n\nEX 2: Another time Indian law enforcement emails were used to try to unfreeze Lazarus Group funds. \n\nEX 3: Indian law enforcement arrested"
+  }
  },
  {
   "id": "2122671228305699299",
@@ -155,36 +83,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:40:32.000Z",
   "text": "@0xHeatt we need lots of public pressure to hold Indian law enforcement accountable for its incompetence",
-  "text_flat": "@0xHeatt we need lots of public pressure to hold Indian law enforcement accountable for its incompetence",
   "url": "https://x.com/zachxbt/status/2122671228305699299",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122670729934078197",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1669695526973894660",
-     "start": 0,
-     "username": "0xHeatt"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 49,
-  "retweets": 3,
-  "replies": 3,
+  "likes": 102,
+  "retweets": 5,
+  "replies": 4,
   "quotes": 1,
+  "impressions": 8951,
   "bookmarks": 1,
-  "impressions": 3549,
-  "score": 68,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122670729934078197",
+   "text": "@zachxbt unbelievable story\n\ngreat to see you helping this guy Zach\n\nlet’s hope this helps him get his funds back"
+  }
  },
  {
   "id": "2122671467783749639",
@@ -193,36 +103,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:41:29.000Z",
   "text": "@bellx_crypto yes for 16+ months the Gate users funds have been frozen\n\nthe value of his portfolio has decreased from $3M -&gt; $1.5M as a result",
-  "text_flat": "@bellx_crypto yes for 16+ months the Gate users funds have been frozen  the value of his portfolio has decreased from $3M -> $1.5M as a result",
   "url": "https://x.com/zachxbt/status/2122671467783749639",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122671214955212918",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1442344197768429577",
-     "start": 0,
-     "username": "bellx_crypto"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 12,
+  "likes": 21,
   "retweets": 0,
-  "replies": 2,
+  "replies": 3,
   "quotes": 0,
+  "impressions": 3786,
   "bookmarks": 0,
-  "impressions": 1962,
-  "score": 16,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122671214955212918",
+   "text": "@zachxbt unbelievable incompetence, wow. so are the funds still frozen today?"
+  }
  },
  {
   "id": "2122672231021236724",
@@ -231,42 +123,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:44:31.000Z",
   "text": "@bugcrow @0xHeatt I think Gate is kind of trapped since they complied initially",
-  "text_flat": "@bugcrow @0xHeatt I think Gate is kind of trapped since they complied initially",
   "url": "https://x.com/zachxbt/status/2122672231021236724",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122671837457105081",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1222497844805816328",
-     "start": 0,
-     "username": "bugcrow"
-    },
-    {
-     "end": 17,
-     "id": "1669695526973894660",
-     "start": 9,
-     "username": "0xHeatt"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
+  "likes": 5,
   "retweets": 0,
   "replies": 3,
   "quotes": 0,
+  "impressions": 2805,
   "bookmarks": 0,
-  "impressions": 1491,
-  "score": 7,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122671837457105081",
+   "text": "@zachxbt @0xHeatt In here Indian LE will simply don’t care we need to pressure Gate to unfreez the fund"
+  }
  },
  {
   "id": "2122672444620353653",
@@ -275,36 +143,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:45:22.000Z",
   "text": "@acousticxbt Indian law enforcement crypto tracing team: https://t.co/XWaM2LOW3P",
-  "text_flat": "@acousticxbt Indian law enforcement crypto tracing team: https://t.co/XWaM2LOW3P",
   "url": "https://x.com/zachxbt/status/2122672444620353653",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122671369234370703",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 12,
-     "id": "1251401938760949760",
-     "start": 0,
-     "username": "acousticxbt"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 19,
+  "likes": 46,
   "retweets": 3,
-  "replies": 0,
+  "replies": 2,
   "quotes": 0,
+  "impressions": 4716,
   "bookmarks": 0,
-  "impressions": 2078,
-  "score": 28,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122671369234370703",
+   "text": "@zachxbt indian law enforcement 🤦🏻‍♂️ https://t.co/SfP7uI7stQ"
+  }
  },
  {
   "id": "2122673638969336206",
@@ -313,36 +163,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:50:07.000Z",
   "text": "@HalfBullBear Not surprised",
-  "text_flat": "@HalfBullBear Not surprised",
   "url": "https://x.com/zachxbt/status/2122673638969336206",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122671942306304362",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1633837725077078026",
-     "start": 0,
-     "username": "HalfBullBear"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 3,
+  "likes": 16,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 6512,
   "bookmarks": 0,
-  "impressions": 2044,
-  "score": 5,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122671942306304362",
+   "text": "@zachxbt The Indian LE is the most incompetent LE. Just look at the law regarding Digital assets. \n\nI alongwith millions others have frozen bank accounts for years because of transections related to Binance. \n\nThey refuse to help us and just keep holding our money."
+  }
  },
  {
   "id": "2122673809279049777",
@@ -351,36 +183,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:50:48.000Z",
   "text": "@Smitty_xyz Would not surprise me tbh",
-  "text_flat": "@Smitty_xyz Would not surprise me tbh",
   "url": "https://x.com/zachxbt/status/2122673809279049777",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122672260511085017",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1354120129383178242",
-     "start": 0,
-     "username": "Smitty_xyz"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 4,
+  "likes": 22,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 3629,
   "bookmarks": 0,
-  "impressions": 1501,
-  "score": 6,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122672260511085017",
+   "text": "@zachxbt What are the odds this entire thing is the actual scam and they steal money from people this way, and everybody along the way is bribed"
+  }
  },
  {
   "id": "2122673846163771461",
@@ -389,36 +203,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:50:56.000Z",
   "text": "@RationalG Sorry G",
-  "text_flat": "@RationalG Sorry G",
   "url": "https://x.com/zachxbt/status/2122673846163771461",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122672207767695823",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "1427619292690976777",
-     "start": 0,
-     "username": "RationalG"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
+  "likes": 6,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 3973,
   "bookmarks": 0,
-  "impressions": 1718,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122672207767695823",
+   "text": "@zachxbt WTF is this man, you should be exhausting your time in informing cryptobrokes about the most recent Ansem scam so they not lose their last 738$ gambling"
+  }
  },
  {
   "id": "2122673931983438050",
@@ -427,36 +223,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:51:17.000Z",
   "text": "@morsyxbt Made me extremely upset to see the legal system weaponized by the India government against a foreigner. \n\nI decided to help the Gate user on an entirely pro bono basis after I reviewed their story.",
-  "text_flat": "@morsyxbt Made me extremely upset to see the legal system weaponized by the India government against a foreigner.   I decided to help the Gate user on an entirely pro bono basis after I reviewed their story.",
   "url": "https://x.com/zachxbt/status/2122673931983438050",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122672173416673656",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1791348220762968064",
-     "start": 0,
-     "username": "morsyxbt"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 132,
-  "retweets": 5,
-  "replies": 5,
-  "quotes": 0,
-  "bookmarks": 3,
-  "impressions": 5499,
-  "score": 160,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 448,
+  "retweets": 8,
+  "replies": 14,
+  "quotes": 1,
+  "impressions": 22956,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122672173416673656",
+   "text": "@zachxbt indian law enforcement needs to hire good blockchain analysts rather than incompetent ones who can’t even differentiate between a chain bridge and an EOA\n\nthis is genuinely laughable https://t.co/CsokVvEZw0"
+  }
  },
  {
   "id": "2122674028817396134",
@@ -465,42 +243,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:51:40.000Z",
   "text": "@evilcos @SlowMist_Team Thanks for confirming!",
-  "text_flat": "@evilcos @SlowMist_Team Thanks for confirming!",
   "url": "https://x.com/zachxbt/status/2122674028817396134",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122673494760792361",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "17552210",
-     "start": 0,
-     "username": "evilcos"
-    },
-    {
-     "end": 23,
-     "id": "988385053800517632",
-     "start": 9,
-     "username": "SlowMist_Team"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 12,
+  "likes": 26,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 4946,
   "bookmarks": 0,
-  "impressions": 2626,
-  "score": 12,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122673494760792361",
+   "text": "执法部门误判带来的麻烦一例，这是个很经典的案例。\n\n顺便说下：里面关于慢雾（@SlowMist_Team）的信息，是 @zachxbt 和我确认的，没问题。 https://t.co/L59QtDfbUb"
+  }
  },
  {
   "id": "2122674128213954988",
@@ -509,36 +263,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:52:04.000Z",
   "text": "@Naeven_ Indian LE needs to correct its mistake asap",
-  "text_flat": "@Naeven_ Indian LE needs to correct its mistake asap",
   "url": "https://x.com/zachxbt/status/2122674128213954988",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122673570279215154",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "1763882951950168064",
-     "start": 0,
-     "username": "Naeven_"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 8,
-  "retweets": 1,
-  "replies": 0,
+  "likes": 34,
+  "retweets": 2,
+  "replies": 1,
   "quotes": 0,
+  "impressions": 5638,
   "bookmarks": 0,
-  "impressions": 1831,
-  "score": 11,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122673570279215154",
+   "text": "@zachxbt All because of someone's incompetence this guy had to go through so much\n\nHope he gets his funds back tho their LE system seems like a complete mess"
+  }
  },
  {
   "id": "2122674159646073111",
@@ -547,36 +283,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:52:11.000Z",
   "text": "@zackvoell 🤝",
-  "text_flat": "@zackvoell 🤝",
   "url": "https://x.com/zachxbt/status/2122674159646073111",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122673882515808408",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 10,
-     "id": "2373682811",
-     "start": 0,
-     "username": "zackvoell"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 8,
+  "likes": 20,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 8201,
   "bookmarks": 0,
-  "impressions": 3223,
-  "score": 10,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122673882515808408",
+   "text": "@zachxbt This is amazing work as always. \n\nThanks for posting it."
+  }
  },
  {
   "id": "2122674996141342996",
@@ -585,74 +303,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:55:31.000Z",
   "text": "@verysillyeth Yes I’ve seen it happen before for Chainflip / THORchain arbitrage traders and LPs",
-  "text_flat": "@verysillyeth Yes I’ve seen it happen before for Chainflip / THORchain arbitrage traders and LPs",
   "url": "https://x.com/zachxbt/status/2122674996141342996",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122674403427197119",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "237478210",
-     "start": 0,
-     "username": "verysillyeth"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
+  "likes": 6,
   "retweets": 0,
-  "replies": 0,
+  "replies": 1,
   "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 1628,
-  "score": 1,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122675078429360249",
-  "username": "zachxbt",
-  "username_canon": "zachxbt",
-  "type": "retweet",
-  "created_at": "2026-11-17T12:55:50.000Z",
-  "text": "RT @zachxbt: Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam.…",
-  "text_flat": "RT @zachxbt: Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam.…",
-  "url": "https://x.com/zachxbt/status/2122675078429360249",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122669479700099192",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "3012852462",
-     "start": 3,
-     "username": "zachxbt"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 194,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 0,
-  "score": 582,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 3961,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122674403427197119",
+   "text": "@zachxbt Freezing the wrong guy off an unlabeled bridge is terrifying. Anyone could be next"
+  }
  },
  {
   "id": "2122675496022646825",
@@ -661,36 +323,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:57:30.000Z",
   "text": "@bax1337 It’s unfortunate but true.\n\nStudy the TradeOgre, NiaNations, Million Exchange, etc cases in Canada.",
-  "text_flat": "@bax1337 It’s unfortunate but true.  Study the TradeOgre, NiaNations, Million Exchange, etc cases in Canada.",
   "url": "https://x.com/zachxbt/status/2122675496022646825",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122675028059693377",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "57394106",
-     "start": 0,
-     "username": "bax1337"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 16,
+  "likes": 61,
   "retweets": 0,
-  "replies": 1,
+  "replies": 2,
   "quotes": 0,
-  "bookmarks": 1,
-  "impressions": 2462,
-  "score": 19,
-  "cashtags": [],
-  "hashtags": []
+  "impressions": 8481,
+  "bookmarks": 9,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122675028059693377",
+   "text": "@zachxbt lmao ☠️ https://t.co/YCOu4E3Xry"
+  }
  },
  {
   "id": "2122675902039613499",
@@ -699,36 +343,18 @@
   "type": "reply",
   "created_at": "2026-11-17T12:59:07.000Z",
   "text": "@moo9000 The India media articles state a court order was sent https://t.co/AsnnDZPtiS",
-  "text_flat": "@moo9000 The India media articles state a court order was sent https://t.co/AsnnDZPtiS",
   "url": "https://x.com/zachxbt/status/2122675902039613499",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122675249388871816",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "50703014",
-     "start": 0,
-     "username": "moo9000"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 14,
+  "likes": 52,
   "retweets": 1,
-  "replies": 1,
+  "replies": 4,
   "quotes": 0,
+  "impressions": 8776,
   "bookmarks": 0,
-  "impressions": 2577,
-  "score": 19,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122675249388871816",
+   "text": "@zachxbt Indian law enforcement does not only want to freeze, but confiscate assets without a court order\n\nhttps://t.co/MZJmvmNbED"
+  }
  },
  {
   "id": "2122676473475871125",
@@ -737,36 +363,18 @@
   "type": "reply",
   "created_at": "2026-11-17T13:01:23.000Z",
   "text": "@xxxkeym Happy to help. Your story was quite sad to read and Indian law enforcement / courts need to be held accountable for gross negligence.",
-  "text_flat": "@xxxkeym Happy to help. Your story was quite sad to read and Indian law enforcement / courts need to be held accountable for gross negligence.",
   "url": "https://x.com/zachxbt/status/2122676473475871125",
-  "lang": "en",
-  "conversation_id": "2122669479700099192",
-  "referenced": [
-   {
-    "id": "2122674471932924299",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 8,
-     "id": "738183538185408512",
-     "start": 0,
-     "username": "xxxkeym"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 100,
-  "retweets": 1,
-  "replies": 7,
-  "quotes": 1,
-  "bookmarks": 1,
-  "impressions": 4711,
-  "score": 121,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 614,
+  "retweets": 7,
+  "replies": 14,
+  "quotes": 2,
+  "impressions": 27621,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122674471932924299",
+   "text": "@zachxbt 太牛了，感谢@zachxbt 的帮助🥰"
+  }
  },
  {
   "id": "2122680887393521687",
@@ -775,36 +383,18 @@
   "type": "reply",
   "created_at": "2026-11-17T13:18:55.000Z",
   "text": "@SlowMist_Team 🫡",
-  "text_flat": "@SlowMist_Team 🫡",
   "url": "https://x.com/zachxbt/status/2122680887393521687",
-  "lang": "qme",
-  "conversation_id": "2122669479700099192",
-  "referenced": [
-   {
-    "id": "2122679907419562407",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 14,
-     "id": "988385053800517632",
-     "start": 0,
-     "username": "SlowMist_Team"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
+  "likes": 24,
+  "retweets": 1,
   "replies": 0,
   "quotes": 0,
+  "impressions": 11175,
   "bookmarks": 0,
-  "impressions": 1679,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122679907419562407",
+   "text": "@zachxbt Thanks for sharing and for the mention, Zach. Appreciate your work in on-chain investigations."
+  }
  },
  {
   "id": "2122683293405675990",
@@ -813,189 +403,19 @@
   "type": "quote",
   "created_at": "2026-11-17T13:28:29.000Z",
   "text": "@CBIHeadquarters @PMOIndia @HMOIndia @Cyberdost @DoPTGoI @mygovindia @GoI_MeitY @MIB_India @PIB_India Can CBI please explain why Indian law enforcement seems incapable of tracing basic crypto cases which have resulted in bad freezes and court orders of $3M due to its gross negligence? https://t.co/koqi1BTzIY",
-  "text_flat": "@CBIHeadquarters @PMOIndia @HMOIndia @Cyberdost @DoPTGoI @mygovindia @GoI_MeitY @MIB_India @PIB_India Can CBI please explain why Indian law enforcement seems incapable of tracing basic crypto cases which have resulted in bad freezes and court orders of $3M due to its gross negligence? https://t.co/koqi1BTzIY",
   "url": "https://x.com/zachxbt/status/2122683293405675990",
-  "lang": "en",
-  "conversation_id": "2121229027050463345",
-  "referenced": [
-   {
-    "id": "2122669479700099192",
-    "type": "quoted"
-   },
-   {
-    "id": "2121229027050463345",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 16,
-     "id": "1638467860954587137",
-     "start": 0,
-     "username": "CBIHeadquarters"
-    },
-    {
-     "end": 26,
-     "id": "471741741",
-     "start": 17,
-     "username": "PMOIndia"
-    },
-    {
-     "end": 36,
-     "id": "2541363451",
-     "start": 27,
-     "username": "HMOIndia"
-    },
-    {
-     "end": 47,
-     "id": "970591741131804672",
-     "start": 37,
-     "username": "Cyberdost"
-    },
-    {
-     "end": 56,
-     "id": "837248099613487104",
-     "start": 48,
-     "username": "DoPTGoI"
-    },
-    {
-     "end": 68,
-     "id": "2686834802",
-     "start": 57,
-     "username": "mygovindia"
-    },
-    {
-     "end": 79,
-     "id": "2570642840",
-     "start": 69,
-     "username": "GoI_MeitY"
-    },
-    {
-     "end": 90,
-     "id": "920488039",
-     "start": 80,
-     "username": "MIB_India"
-    },
-    {
-     "end": 101,
-     "id": "231033118",
-     "start": 91,
-     "username": "PIB_India"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "x.com/zachxbt/status…",
-     "end": 309,
-     "expanded_url": "https://twitter.com/zachxbt/status/2122669479700099192",
-     "start": 286,
-     "url": "https://t.co/koqi1BTzIY"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 145,
-  "retweets": 10,
-  "replies": 10,
-  "quotes": 3,
-  "bookmarks": 5,
-  "impressions": 8457,
-  "score": 209,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122683319498559720",
-  "username": "zachxbt",
-  "username_canon": "zachxbt",
-  "type": "retweet",
-  "created_at": "2026-11-17T13:28:35.000Z",
-  "text": "RT @zachxbt: @CBIHeadquarters @PMOIndia @HMOIndia @Cyberdost @DoPTGoI @mygovindia @GoI_MeitY @MIB_India @PIB_India Can CBI please explain w…",
-  "text_flat": "RT @zachxbt: @CBIHeadquarters @PMOIndia @HMOIndia @Cyberdost @DoPTGoI @mygovindia @GoI_MeitY @MIB_India @PIB_India Can CBI please explain w…",
-  "url": "https://x.com/zachxbt/status/2122683319498559720",
-  "lang": "en",
-  "conversation_id": "2122683319498559720",
-  "referenced": [
-   {
-    "id": "2122683293405675990",
-    "type": "retweeted"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "3012852462",
-     "start": 3,
-     "username": "zachxbt"
-    },
-    {
-     "end": 29,
-     "id": "1638467860954587137",
-     "start": 13,
-     "username": "CBIHeadquarters"
-    },
-    {
-     "end": 39,
-     "id": "471741741",
-     "start": 30,
-     "username": "PMOIndia"
-    },
-    {
-     "end": 49,
-     "id": "2541363451",
-     "start": 40,
-     "username": "HMOIndia"
-    },
-    {
-     "end": 60,
-     "id": "970591741131804672",
-     "start": 50,
-     "username": "Cyberdost"
-    },
-    {
-     "end": 69,
-     "id": "837248099613487104",
-     "start": 61,
-     "username": "DoPTGoI"
-    },
-    {
-     "end": 81,
-     "id": "2686834802",
-     "start": 70,
-     "username": "mygovindia"
-    },
-    {
-     "end": 92,
-     "id": "2570642840",
-     "start": 82,
-     "username": "GoI_MeitY"
-    },
-    {
-     "end": 103,
-     "id": "920488039",
-     "start": 93,
-     "username": "MIB_India"
-    },
-    {
-     "end": 114,
-     "id": "231033118",
-     "start": 104,
-     "username": "PIB_India"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 0,
-  "retweets": 10,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 0,
-  "score": 30,
-  "cashtags": [],
-  "hashtags": []
+  "likes": 332,
+  "retweets": 31,
+  "replies": 25,
+  "quotes": 7,
+  "impressions": 20569,
+  "bookmarks": 16,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122669479700099192",
+   "author": "zachxbt",
+   "text": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.\n\nMy analysis of how Indian LE traced through an unlabeled service and wrongly froze @xxxkeym's Gate account:\n\nThe case stems from a pig butchering victim who allegedly lost $1.7M of B"
+  }
  },
  {
   "id": "2122685456693571603",
@@ -1004,35 +424,139 @@
   "type": "reply",
   "created_at": "2026-11-17T13:37:05.000Z",
   "text": "@BARCCMESSI Gate should have reviewed and told Indian LE to F off after seeing the tracing was incorrect. \n\nAfaik Gate has no nexus to India meaning they legally do not need to comply with an India court order.",
-  "text_flat": "@BARCCMESSI Gate should have reviewed and told Indian LE to F off after seeing the tracing was incorrect.   Afaik Gate has no nexus to India meaning they legally do not need to comply with an India court order.",
   "url": "https://x.com/zachxbt/status/2122685456693571603",
-  "lang": "en",
-  "conversation_id": "2122669479700099192",
-  "referenced": [
-   {
-    "id": "2122683813142917468",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 11,
-     "id": "1360422913363484672",
-     "start": 0,
-     "username": "BARCCMESSI"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
+  "likes": 19,
+  "retweets": 1,
+  "replies": 1,
   "quotes": 0,
+  "impressions": 3365,
   "bookmarks": 0,
-  "impressions": 814,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122683813142917468",
+   "text": "@zachxbt So, from your perspective, how do you think Gate should have handled this? Or, to put it another way, if this had happened at another centralized exchange (CEX), would they also have frozen the assets in response to a request from law enforcement?"
+  }
+ },
+ {
+  "id": "2122690273553830091",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "reply",
+  "created_at": "2026-11-17T13:56:13.000Z",
+  "text": "@krate27 @chai_lens it really depends on the country. India &amp; Canada are among the worst jurisdictions.",
+  "url": "https://x.com/zachxbt/status/2122690273553830091",
+  "likes": 22,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 1,
+  "impressions": 3695,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122688105098715608",
+   "text": "@zachxbt @chai_lens in your pov governments in general  are retarded or this case is special?"
+  }
+ },
+ {
+  "id": "2122694927281012872",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "quote",
+  "created_at": "2026-11-17T14:14:43.000Z",
+  "text": "@Kruwed Posting this while fully knowing your largest “user” is currently Lazarus Group laundering hundreds of millions from exploits?\n\nInteresting. https://t.co/IhLkIOHjHb",
+  "url": "https://x.com/zachxbt/status/2122694927281012872",
+  "likes": 485,
+  "retweets": 25,
+  "replies": 39,
+  "quotes": 4,
+  "impressions": 45651,
+  "bookmarks": 31,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122531366491574642",
+   "text": "Bitcoin into CoinJoin: 2,173.76 BTC ($154.45M)\n\nThe hacker moved the proceeds into CoinJoin as soon as they left the entity.\n\n 2,065.43 BTC ($146.73M) was transferred directly into WabiSabi CoinJoin rounds. 108.33 BTC ($7.72M) entered through new addresses. https://t.co/DysmDMI1CV"
+  }
+ },
+ {
+  "id": "2122930489422147685",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "quote",
+  "created_at": "2026-11-18T05:50:45.000Z",
+  "text": "@naralokesh Kindly please explain why Andhra Pradesh law enforcement abused fake evidence to obtain an Indian court order to seize $1.5M from an innocent Chinese investor because they do not understand basic crypto tracing? \n\nCase reference:  Cr. No. 10/2025 https://t.co/koqi1BTzIY",
+  "url": "https://x.com/zachxbt/status/2122930489422147685",
+  "likes": 476,
+  "retweets": 29,
+  "replies": 35,
+  "quotes": 5,
+  "impressions": 20395,
+  "bookmarks": 23,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122669479700099192",
+   "author": "zachxbt",
+   "text": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.\n\nMy analysis of how Indian LE traced through an unlabeled service and wrongly froze @xxxkeym's Gate account:\n\nThe case stems from a pig butchering victim who allegedly lost $1.7M of B"
+  }
+ },
+ {
+  "id": "2122932300774285558",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "reply",
+  "created_at": "2026-11-18T05:57:57.000Z",
+  "text": "@demoaccountbaby @naralokesh Yes the team received a reward for the incorrect findings https://t.co/x6HPPMteuq",
+  "url": "https://x.com/zachxbt/status/2122932300774285558",
+  "likes": 18,
+  "retweets": 2,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1825,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122931186301567366",
+   "text": "@zachxbt @naralokesh You are asking the right guy !! . High chances that the police might’ve involved with the victim"
+  }
+ },
+ {
+  "id": "2122933395479261385",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "quote",
+  "created_at": "2026-11-18T06:02:18.000Z",
+  "text": "@Anitha_TDP Hello why did Andhra Pradesh law enforcement abuse fake evidence to recently obtain an Indian court order to seize $1.5M from an innocent Chinese investor because the team does not understand basic crypto tracing? \n\nCase reference:  Cr. No. 10/2025 https://t.co/koqi1BTzIY",
+  "url": "https://x.com/zachxbt/status/2122933395479261385",
+  "likes": 310,
+  "retweets": 16,
+  "replies": 25,
+  "quotes": 3,
+  "impressions": 15093,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122669479700099192",
+   "author": "zachxbt",
+   "text": "Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Gate to hand his funds to a person they never belonged to.\n\nMy analysis of how Indian LE traced through an unlabeled service and wrongly froze @xxxkeym's Gate account:\n\nThe case stems from a pig butchering victim who allegedly lost $1.7M of B"
+  }
+ },
+ {
+  "id": "2122941744811757782",
+  "username": "zachxbt",
+  "username_canon": "zachxbt",
+  "type": "reply",
+  "created_at": "2026-11-18T06:35:28.000Z",
+  "text": "@Shiva_SPC @naralokesh Maybe?\nMaybe not?\n\nAt least I can I tried to make an effort to help out the person wronged. \n\nI have one of the biggest X accounts on CT I have seen my posts reach places I would not have expected such as the UN or China State TV.",
+  "url": "https://x.com/zachxbt/status/2122941744811757782",
+  "likes": 16,
+  "retweets": 1,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 1400,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122937506455052576",
+   "text": "@zachxbt @naralokesh Forget it bro. You're banging your head against wall. Indian police is corrupt. You will need to visit police station and sit on protest outside to get response or you need Powerful friends in politics to get somewhere. In short your chacha must be  vidhayak."
+  }
  }
 ]

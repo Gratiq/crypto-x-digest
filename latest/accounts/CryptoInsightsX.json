@@ -1,124 +1,24 @@
 [
  {
-  "id": "2122326464007917633",
-  "username": "CryptoInsightsX",
-  "username_canon": "CryptoInsightsX",
-  "type": "reply",
-  "created_at": "2026-11-16T13:50:34.000Z",
-  "text": "@ChuChu_MeMee @LFWallet 👀🔥",
-  "text_flat": "@ChuChu_MeMee @LFWallet 👀🔥",
-  "url": "https://x.com/CryptoInsightsX/status/2122326464007917633",
-  "lang": "qme",
-  "conversation_id": "2122325102922735651",
-  "referenced": [
-   {
-    "id": "2122325676619669627",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 13,
-     "id": "1905391035494400000",
-     "start": 0,
-     "username": "ChuChu_MeMee"
-    },
-    {
-     "end": 23,
-     "id": "1522610622822682624",
-     "start": 14,
-     "username": "LFWallet"
-    }
-   ]
-  },
-  "low_substance": true,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 40,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
-  "id": "2122332550345769060",
-  "username": "CryptoInsightsX",
-  "username_canon": "CryptoInsightsX",
-  "type": "reply",
-  "created_at": "2026-11-16T14:14:45.000Z",
-  "text": "@LFWallet Vietnam🇻🇳❤️",
-  "text_flat": "@LFWallet Vietnam🇻🇳❤️",
-  "url": "https://x.com/CryptoInsightsX/status/2122332550345769060",
-  "lang": "vi",
-  "conversation_id": "2122209407887098334",
-  "referenced": [
-   {
-    "id": "2122209407887098334",
-    "type": "replied_to"
-   }
-  ],
-  "entities": {
-   "mentions": [
-    {
-     "end": 9,
-     "id": "1522610622822682624",
-     "start": 0,
-     "username": "LFWallet"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "bookmarks": 0,
-  "impressions": 56,
-  "score": 2,
-  "cashtags": [],
-  "hashtags": []
- },
- {
   "id": "2122645038341714005",
   "username": "CryptoInsightsX",
   "username_canon": "CryptoInsightsX",
   "type": "quote",
   "created_at": "2026-11-17T10:56:28.000Z",
   "text": "Daily Market Overview: EXTREME FEAR\nNov 17, 2026\n\n #BTC price trades around $64K \n \nIn the past 24 hours, 78,046 traders(53.9% Long) liquidated. Total liquidations were $278.98M.\n\n#CryptoNews #Crypto $BTC https://t.co/YbS7OIUpj7 https://t.co/ZCv1o8Bg1D",
-  "text_flat": "Daily Market Overview: EXTREME FEAR Nov 17, 2026   #BTC price trades around $64K    In the past 24 hours, 78,046 traders(53.9% Long) liquidated. Total liquidations were $278.98M.  #CryptoNews #Crypto $BTC https://t.co/YbS7OIUpj7 https://t.co/ZCv1o8Bg1D",
   "url": "https://x.com/CryptoInsightsX/status/2122645038341714005",
-  "lang": null,
-  "conversation_id": null,
-  "referenced": [
-   {
-    "id": "2122281617884602591",
-    "type": "quoted"
-   }
-  ],
-  "entities": {
-   "urls": [
-    {
-     "end": 252,
-     "start": 229,
-     "url": "https://t.co/ZCv1o8Bg1D"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
+  "likes": 2,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
+  "impressions": 224,
   "bookmarks": 0,
-  "impressions": 122,
-  "score": 3,
-  "cashtags": [
-   "BTC"
-  ],
-  "hashtags": []
+  "referenced": {
+   "type": "quoted",
+   "id": "2122281617884602591",
+   "author": "CryptoInsightsX",
+   "text": "Daily Market Overview: EXTREME FEAR\nNov 16, 2026\n\n #BTC price trades around $64K \n \nIn the past 24 hours, 64,111 traders(63.3% Long) liquidated. Total liquidations were $181.70M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/UJJ9K8ZZn4 https://t.co/JeyBg84jvg"
+  }
  },
  {
   "id": "2122687710372770095",
@@ -127,55 +27,109 @@
   "type": "original",
   "created_at": "2026-11-17T13:46:02.000Z",
   "text": "📢Pro Spot Tools are now live on @TartProtocol \n\nNo matter the market conditions, TartSwap continues to push forward, building and thriving with unstoppable momentum.  \n\nMake DeFi Great Again💪\n\n$TART @notralbnb https://t.co/Jy6ihqZCMU",
-  "text_flat": "📢Pro Spot Tools are now live on @TartProtocol   No matter the market conditions, TartSwap continues to push forward, building and thriving with unstoppable momentum.    Make DeFi Great Again💪  $TART @notralbnb https://t.co/Jy6ihqZCMU",
   "url": "https://x.com/CryptoInsightsX/status/2122687710372770095",
-  "lang": "en",
-  "conversation_id": "2122687710372770095",
-  "referenced": [],
-  "entities": {
-   "cashtags": [
-    {
-     "end": 198,
-     "start": 193,
-     "tag": "TART"
-    }
-   ],
-   "mentions": [
-    {
-     "end": 45,
-     "id": "2049209802950049795",
-     "start": 32,
-     "username": "TartProtocol"
-    },
-    {
-     "end": 209,
-     "id": "1967865730889601024",
-     "start": 199,
-     "username": "notralbnb"
-    }
-   ],
-   "urls": [
-    {
-     "display_url": "pic.x.com/Jy6ihqZCMU",
-     "end": 233,
-     "expanded_url": "https://x.com/TartProtocol/status/2121980134177562830/video/1",
-     "media_key": "13_2121979826651140096",
-     "start": 210,
-     "url": "https://t.co/Jy6ihqZCMU"
-    }
-   ]
-  },
-  "low_substance": false,
-  "likes": 1,
+  "likes": 80,
+  "retweets": 21,
+  "replies": 12,
+  "quotes": 1,
+  "impressions": 1633,
+  "bookmarks": 1,
+  "referenced": null
+ },
+ {
+  "id": "2122691602208719279",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "reply",
+  "created_at": "2026-11-17T14:01:30.000Z",
+  "text": "@muzuksiyen @TartProtocol @notralbnb 🔥🔥",
+  "url": "https://x.com/CryptoInsightsX/status/2122691602208719279",
+  "likes": 2,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
+  "impressions": 62,
   "bookmarks": 0,
-  "impressions": 9,
-  "score": 1,
-  "cashtags": [
-   "TART"
-  ],
-  "hashtags": []
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122689509670129749",
+   "text": "@CryptoInsightsX @TartProtocol @notralbnb Kitchen always open for $TART 💯🥧🔥"
+  }
+ },
+ {
+  "id": "2122692780338315587",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "retweet",
+  "created_at": "2026-11-17T14:06:11.000Z",
+  "text": "RT @claytoshi: He bought $ADA at  $3.5 😢 https://t.co/fwpT5xUsZm",
+  "url": "https://x.com/CryptoInsightsX/status/2122692780338315587",
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 0,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122444337485402443",
+   "text": "He bought $ADA at  $3.5 😢 https://t.co/fwpT5xUsZm"
+  }
+ },
+ {
+  "id": "2122698013579583836",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "original",
+  "created_at": "2026-11-17T14:26:58.000Z",
+  "text": "Trending #Memecoins on 𝕏 last 24h🔥🔥\n\nsolana:4kjruqGHDsSqkMdFfCjV7Vb62HPFhtXyWc2t6JpQzDnz \n$MIHAO @iAmNihaoCat\n$CLAUDIA \ncash-cat:native @cashcat_token\n$DACITYCOIN @DacityCoin_meme\nsolana:AsrtqZiNYt3c6nNCtkj7abUrVc8APsFF37Wffq45rkVh @HachikoInuCTO \n$DRB @DRBTaskForce\nsolana:HcRLc9VDgjLeK154xDawfb1dmVJ98DoSqcwTHGqiDeJR \negl1:native @EGLL_american\n$M @MemeCore_M \n$REKT @RektCoin \n\n#memecoin",
+  "url": "https://x.com/CryptoInsightsX/status/2122698013579583836",
+  "likes": 1,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 482,
+  "bookmarks": 0,
+  "referenced": null
+ },
+ {
+  "id": "2122899750290919662",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "reply",
+  "created_at": "2026-11-18T03:48:36.000Z",
+  "text": "@ClipX0_ Happy 1st year Anniversary, ClipX",
+  "url": "https://x.com/CryptoInsightsX/status/2122899750290919662",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 26,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122718554403553586",
+   "text": "ClipX is 1 year old. 🎂\n\nOne year ago we started building a way to tip, gift and trade without leaving X.\n\nToday:\n\n- Tips and gifts sent straight from X\n- Cashtag pills with live prices right in the tweet\n- A news page built for traders\n- A community that stayed through every https://t.co/q2zbWxzXEq"
+  }
+ },
+ {
+  "id": "2122900093535924674",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "reply",
+  "created_at": "2026-11-18T03:49:58.000Z",
+  "text": "@LFWallet 🔥🔥🔥",
+  "url": "https://x.com/CryptoInsightsX/status/2122900093535924674",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 88,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122890955368083556",
+   "text": "🏆 ICO Grand Giveaway 🎉\n\nEveryone who takes part in ICO can claim a ticket for the Grand Giveaway\n\n🚙 Tesla Cybertruck \n🏍️ Ducati Monster \n📱 iPhone DUO\n\nAllotted or not, your application counts. Claim it 👇 \nhttps://t.co/8A2EtYMS0R https://t.co/KQFNXCCAYk"
+  }
  }
 ]

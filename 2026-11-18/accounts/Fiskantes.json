@@ -1,0 +1,102 @@
+[
+ {
+  "id": "2122596817313378538",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-17T07:44:51.000Z",
+  "text": "May all our wars be cyberwars from now on https://t.co/RnKqR6Bncd",
+  "url": "https://x.com/Fiskantes/status/2122596817313378538",
+  "likes": 15,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "impressions": 3491,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122535982591365248",
+   "text": "BREAKING: A cyberattack hit 178 major organizations, including Zoom, CNN, BBC, Fox News, HSBC, Ledger, Equifax, Salesforce, IKEA and Air France-KLM, by loading malware on the Optimizely Web platform, exposing visitors to scripts built to steal payment data and exploit iOS"
+  }
+ },
+ {
+  "id": "2122615459262636310",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-17T08:58:56.000Z",
+  "text": "@dudusvicki Better than bombs hitting your roof",
+  "url": "https://x.com/Fiskantes/status/2122615459262636310",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 67,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122610439783579919",
+   "text": "@Fiskantes Cyberwars still hit real people's bank accounts though\nJust ask everyone this week"
+  }
+ },
+ {
+  "id": "2122616476414931275",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-17T09:02:58.000Z",
+  "text": "RT @tradfi: *NVIDIA EMPLOYEES WEIGH CAMPUS DEMONSTRATION IN SUPPORT OF HUANG: WSJ\n\n*SENIOR NVIDIA DIRECTOR LEADS INTERNAL PUSH TO BRING BAC…",
+  "url": "https://x.com/Fiskantes/status/2122616476414931275",
+  "likes": 0,
+  "retweets": 51,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 706,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122519896806543684",
+   "text": "*NVIDIA EMPLOYEES WEIGH CAMPUS DEMONSTRATION IN SUPPORT OF HUANG: WSJ\n\n*SENIOR NVIDIA DIRECTOR LEADS INTERNAL PUSH TO BRING BACK HUANG\n\n*NVIDIA BOARD WARNED OF 'IRREPLACEABLE' TALENT LOSS IF HUANG NOT REINSTATED\n\n$NVDA"
+  }
+ },
+ {
+  "id": "2122851760230273490",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T00:37:54.000Z",
+  "text": "@beniduboss https://t.co/byhIZRDqQJ",
+  "url": "https://x.com/Fiskantes/status/2122851760230273490",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 99,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122620337737347291",
+   "text": "@Fiskantes Mid stage bull"
+  }
+ },
+ {
+  "id": "2122857331431969151",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-18T01:00:03.000Z",
+  "text": "RT @dnapway: Gavin Baker pushes back on the idea that Nvidia can just operate like Apple did post Steve Jobs: “There’s one Michael Jordan,…",
+  "url": "https://x.com/Fiskantes/status/2122857331431969151",
+  "likes": 0,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 523,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122852854524448917",
+   "text": "Gavin Baker pushes back on the idea that Nvidia can just operate like Apple did post Steve Jobs: “There’s one Michael Jordan, there’s one Larry Bird, and there’s one Jensen.”\n\n\"There are a lot of really capable executives at NVIDIA, they seem overwhelmingly loyal and supportive of Jensen. Colette is an extremely capable CFO, who I think will be a good interim CEO, which means there's no pressure o"
+  }
+ }
+]
