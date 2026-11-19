@@ -1,31 +1,62 @@
-# @hansolar21 — посты за 2026-11-18
+# @hansolar21 — посты за 2026-11-19
 
-Всего: 4
+Всего: 7
 
-## 2026-11-17 08:42 UTC · цитата
+## 2026-11-18 12:10 UTC · ответ
 
-Things might get really weird next year https://t.co/EsdexCZzjK
+@0xThoor impressive!
 
-❤ 76 · 🔁 4 · 💬 8 · цитат 0 · просмотров 8031  
-https://x.com/hansolar21/status/2122611414552772999
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 194  
+https://x.com/hansolar21/status/2123026114922844209
 
-## 2026-11-18 00:20 UTC · цитата
+## 2026-11-18 16:10 UTC · цитата
 
-is this the gen-z version of y2k? https://t.co/y0p3Y3LeKD
+Variational is generational. https://t.co/YuUNkzZ9Ev
 
-❤ 38 · 🔁 0 · 💬 3 · цитат 0 · просмотров 3137  
-https://x.com/hansolar21/status/2122847320824033716
+❤ 167 · 🔁 4 · 💬 18 · цитат 0 · просмотров 4169  
+https://x.com/hansolar21/status/2123086557561467178
 
-## 2026-11-18 05:05 UTC · ответ
+## 2026-11-19 02:17 UTC · цитата
 
-@0xPhoenix77 @shu_bit_ liquidation stories are the ones that build character
+In crypto, who invests often matters more than how much.
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 54  
-https://x.com/hansolar21/status/2122919055988515234
+Bain Capital Crypto : Lead investor
+Dragonfly : Early backer
+HSG : Formerly Sequoia China. $61B+ AUM. ByteDance, Alibaba, SHEIN
+Peak XV : Formerly Sequoia India. $10B+ AUM. Zomato, Razorpay, Groww
+50T Funds : Dan Tapiero. https://t.co/YuUNkzZ9Ev
 
-## 2026-11-18 05:30 UTC · цитата
+❤ 126 · 🔁 7 · 💬 19 · цитат 0 · просмотров 6648  
+https://x.com/hansolar21/status/2123239121640731061
 
-I found the perfect pnl card background @JustinCBram https://t.co/E2kWFsJ2Wd
+## 2026-11-19 02:22 UTC · ответ
 
-❤ 31 · 🔁 1 · 💬 7 · цитат 0 · просмотров 2146  
-https://x.com/hansolar21/status/2122925360526639357
+@koolkrypto223 Im definitely feeling a lot of dejavu lately 😅
+
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 601  
+https://x.com/hansolar21/status/2123240451293761562
+
+## 2026-11-19 03:26 UTC · ответ
+
+@JustDeauIt I'd argue it's one of the more interesting game-theoretic distribution mechanisms for getting tokens into the hands of those who control arguably the most valuable resource of the current zeitgeist: compute.
+
+The reflexive loop is something like:
+
+1. AI firms mine PRL to
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 333  
+https://x.com/hansolar21/status/2123256524185522409
+
+## 2026-11-19 03:29 UTC · ответ
+
+@NarwhalTan 👀
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 140  
+https://x.com/hansolar21/status/2123257347388936488
+
+## 2026-11-19 03:35 UTC · ответ
+
+@Wild_Randomness dropping a prayer here 🥲🙏
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 263  
+https://x.com/hansolar21/status/2123258748802330846

@@ -1,122 +1,102 @@
 [
  {
-  "id": "2122717082395533507",
+  "id": "2122958530827444225",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
-  "type": "quote",
-  "created_at": "2026-11-17T15:42:45.000Z",
-  "text": "Wow, the U-series from DESRES lives on; proof that basic numerical analysis is still valuable in an AI era? 😅\n\nhttps://t.co/S8yfx8Umii https://t.co/Oi9v6BsCLL",
-  "url": "https://x.com/tarunchitra/status/2122717082395533507",
-  "likes": 18,
+  "type": "reply",
+  "created_at": "2026-11-18T07:42:11.000Z",
+  "text": "@Lsquaredleland @sunnya97 @zkDragon @CalBlockchain Slower than others, yet the same direction",
+  "url": "https://x.com/tarunchitra/status/2122958530827444225",
+  "likes": 5,
   "retweets": 0,
-  "replies": 9,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 1754,
-  "bookmarks": 3,
+  "impressions": 190,
+  "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2122458416610165088",
-   "text": "🆕 cuPotential\nA CUDA-X library for computing nonbonded interactions in molecular dynamics. The OpenMM plugin replaces the nonbonded force, integrator, and barostat.\n\nIn NPT benchmarks on systems from 24K to 400K atoms, it ran over 3x faster than OpenMM on RTX PRO 6000 Blackwell https://t.co/YuRpyTf0tK"
+   "type": "replied_to",
+   "id": "2122956710944068083",
+   "text": "@tarunchitra @sunnya97 @zkDragon @CalBlockchain Awk that I just pivoted to AI"
   }
  },
  {
-  "id": "2122758602821865668",
+  "id": "2123104850787680667",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "retweet",
-  "created_at": "2026-11-17T18:27:44.000Z",
-  "text": "RT @MTSlive: Lyber AI founder @ConejoCapital reveals that his four-person team uncovered vulnerabilities that could drain the entire treasu…",
-  "url": "https://x.com/tarunchitra/status/2122758602821865668",
+  "created_at": "2026-11-18T17:23:36.000Z",
+  "text": "RT @gauntlet_xyz: xStocks and xBTC are now collateral on @Morpho, and Gauntlet's USDC vault on @XLayerOfficial supplies to those markets.…",
+  "url": "https://x.com/tarunchitra/status/2123104850787680667",
   "likes": 0,
   "retweets": 5,
   "replies": 0,
   "quotes": 0,
-  "impressions": 358,
+  "impressions": 327,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2122518679959286202",
-   "text": "Lyber AI founder @ConejoCapital reveals that his four-person team uncovered vulnerabilities that could drain the entire treasury of a major Solana ecosystem protocol:\n\n\"We found some pretty big ones.\"\n\n\"We worked with the Solana Foundation to find some exploits on one of the https://t.co/CvVSLdZXaD"
+   "id": "2123012389046198704",
+   "text": "xStocks and xBTC are now collateral on @Morpho, and Gauntlet's USDC vault on @XLayerOfficial supplies to those markets.\n\n@okx Wallet users can supply USDC directly from their wallet, and holders of xBTC and supported @xStocksFi assets can borrow against them on Morpho.\n\nOnchain https://t.co/eRxJjidhth"
   }
  },
  {
-  "id": "2122762499061874802",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "quote",
-  "created_at": "2026-11-17T18:43:13.000Z",
-  "text": "I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7TRYq",
-  "url": "https://x.com/tarunchitra/status/2122762499061874802",
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 468,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "quoted",
-   "id": "1828891251283841044",
-   "text": "https://t.co/ff2YGiI5Ny"
-  }
- },
- {
-  "id": "2122762684168802444",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "quote",
-  "created_at": "2026-11-17T18:43:57.000Z",
-  "text": "I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7Tk8S",
-  "url": "https://x.com/tarunchitra/status/2122762684168802444",
-  "likes": 18,
-  "retweets": 1,
-  "replies": 8,
-  "quotes": 0,
-  "impressions": 2805,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "quoted",
-   "id": "1828891251283841044",
-   "text": "https://t.co/ff2YGiI5Ny"
-  }
- },
- {
-  "id": "2122850629597135272",
+  "id": "2123104902167904265",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "retweet",
-  "created_at": "2026-11-18T00:33:25.000Z",
-  "text": "RT @Teknium: Gotta say, Jensen's been an awesome supporter of Nous Research, our efforts in open source, and Hermes Agent since we first me…",
-  "url": "https://x.com/tarunchitra/status/2122850629597135272",
+  "created_at": "2026-11-18T17:23:48.000Z",
+  "text": "RT @gauntlet_xyz: Now live on @XLayerOfficial \n\nGauntlet USDC Earn supplies USDC to @Morpho markets for xBTC and @xStocksFi, right inside O…",
+  "url": "https://x.com/tarunchitra/status/2123104902167904265",
   "likes": 0,
-  "retweets": 111,
+  "retweets": 1,
   "replies": 0,
   "quotes": 0,
-  "impressions": 329,
+  "impressions": 348,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2122795682298028373",
-   "text": "Gotta say, Jensen's been an awesome supporter of Nous Research, our efforts in open source, and Hermes Agent since we first met, as has all of Nvidia.\n\nIn general, I think Nvidia has been the largest and one of the few big companies who has championed open source AI. I hope https://t.co/0Rx2VssJzS"
+   "id": "2123049587498008921",
+   "text": "Now live on @XLayerOfficial \n\nGauntlet USDC Earn supplies USDC to @Morpho markets for xBTC and @xStocksFi, right inside OKX @Wallet https://t.co/IeZG35VO9R"
   }
  },
  {
-  "id": "2122950476580921444",
+  "id": "2123105697361691102",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-18T17:26:58.000Z",
+  "text": "RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.\n\nSpecial episode feat. @Joshua_J_Lim!\n\nTimestamps\n00:00 Intro…",
+  "url": "https://x.com/tarunchitra/status/2123105697361691102",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 387,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123054116855267504",
+   "text": "We're having a nice little funeral for crypto and Nvidia.\n\nSpecial episode feat. @Joshua_J_Lim!\n\nTimestamps\n00:00 Intro\n01:11 Crypto's Brutal Week\n07:09 Who's Selling Bitcoin?\n12:51 Situational Awareness -92%\n15:58 CZ vs. Star\n22:30 Anthropic IPO and Crypto\n30:10 Is This Bear https://t.co/Gumm0jiYwH"
+  }
+ },
+ {
+  "id": "2123304686472380853",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "quote",
-  "created_at": "2026-11-18T07:10:10.000Z",
-  "text": "OH: “@sunnya97, @zkDragon, and @Lsquaredleland walked so that @CalBlockchain could pivot from Cosmos to AI or ZCash as fast as humanly possible” https://t.co/iR9tupCaLh",
-  "url": "https://x.com/tarunchitra/status/2122950476580921444",
-  "likes": 11,
+  "created_at": "2026-11-19T06:37:41.000Z",
+  "text": "Tatsu crushing by quizzing everyone in a world of nonsense hype videos is really inspiring https://t.co/NEjBkKdnKr",
+  "url": "https://x.com/tarunchitra/status/2123304686472380853",
+  "likes": 5,
   "retweets": 0,
-  "replies": 8,
+  "replies": 5,
   "quotes": 0,
-  "impressions": 614,
-  "bookmarks": 2,
+  "impressions": 855,
+  "bookmarks": 4,
   "referenced": {
    "type": "quoted",
-   "id": "2122894820599631903",
-   "text": "If blockchain at Berkeley is still alive crypto has a future https://t.co/n70prMmtcW"
+   "id": "2123122779788894478",
+   "text": "For this week's CS312 quiz on deep learning, let's see if you have good intuition for Looped Transformers. These models reuse the same block, saving parameters, but how do they compare to a standard dense model, and what happens if we undo the weight sharing mid-training? ↓\n\nWe https://t.co/Dt1ojraPrV"
   }
  }
 ]

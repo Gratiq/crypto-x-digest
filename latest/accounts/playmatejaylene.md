@@ -1,528 +1,509 @@
-# @playmatejaylene — посты за 2026-11-18
+# @playmatejaylene — посты за 2026-11-19
 
-Всего: 74
+Всего: 71
 
-## 2026-11-17 07:59 UTC · ответ
+## 2026-11-18 08:33 UTC · репост
 
-@KPGlobalCharts @solflare @phantom @solana @theblondebroker @Lewsiphur @SolPay_io @Mastercard @jpmorgan phantom was the first wallet i had so im gonna have to go with phantom 👻💜
+RT @KeithGrossman: A few thoughts on @solana Breakpoint as I fly home…
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 92  
-https://x.com/playmatejaylene/status/2122600466026557856
+I spent the first 20 years of my career in media and I know what it…
 
-## 2026-11-17 08:00 UTC · ответ
+❤ 0 · 🔁 50 · 💬 0 · цитат 0 · просмотров 703  
+https://x.com/playmatejaylene/status/2122971491612377286
 
-@0xMoonbags @cobie 😂
+## 2026-11-18 09:36 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 334  
-https://x.com/playmatejaylene/status/2122600633387622520
+@coinempress that last line tho 😂
 
-## 2026-11-17 08:00 UTC · ответ
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 110  
+https://x.com/playmatejaylene/status/2122987175134523430
 
-@dudusvicki @joinfrontier ya dig?
+## 2026-11-18 09:36 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 45  
-https://x.com/playmatejaylene/status/2122600724173345069
+@ledoraeth @toriribolla @the_sharmini @crystalxbtt @cryptopizzagirl @0xzoe_im @0xSweep @eth_apple @FoxyPenguinApe @eyezenhour ILYSM
+❤️❤️
 
-## 2026-11-17 08:01 UTC · ответ
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 162  
+https://x.com/playmatejaylene/status/2122987317245927799
 
-@Leon_Defi wym 🥺
+## 2026-11-18 09:37 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 223  
-https://x.com/playmatejaylene/status/2122601099182108688
+@yymacun i’m working on it 🤣
 
-## 2026-11-17 08:10 UTC · ответ
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 164  
+https://x.com/playmatejaylene/status/2122987467343327453
 
-@KeithGrossman Gm legend! 
-(see you soon)
+## 2026-11-18 09:41 UTC · пост
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 86  
-https://x.com/playmatejaylene/status/2122603215153959048
+Asked AI who will win and it said Melgar 
 
-## 2026-11-17 08:18 UTC · ответ
+So naturally i picked Atletico 🤣 https://t.co/ETgGuCrFji
 
-@brimigs @SolanaEvents It was so lovely to meet you bb 😘
+❤ 92 · 🔁 5 · 💬 51 · цитат 0 · просмотров 3314  
+https://x.com/playmatejaylene/status/2122988668453343518
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 59  
-https://x.com/playmatejaylene/status/2122605238125523398
+## 2026-11-18 09:43 UTC · ответ
 
-## 2026-11-17 08:18 UTC · ответ
+@Benexolent will i regret it? 😬
 
-@brimigs Naww, honestly melts my heart with the little plushie pillow 🥹
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 91  
+https://x.com/playmatejaylene/status/2122989135652937971
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 104  
-https://x.com/playmatejaylene/status/2122605362503106980
+## 2026-11-18 09:43 UTC · ответ
 
-## 2026-11-17 08:19 UTC · ответ
+@0xb3hrang hahahaha or stupid jaylene?
 
-@brimigs @getofflinexyz @SolanaFndn 😍
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 82  
+https://x.com/playmatejaylene/status/2122989170289213740
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 125  
-https://x.com/playmatejaylene/status/2122605432078291228
+## 2026-11-18 09:44 UTC · ответ
 
-## 2026-11-17 08:20 UTC · ответ
+@handeh777 trust myself instead 🤭
 
-@KPGlobalCharts @solflare @phantom @solana @theblondebroker @Lewsiphur @SolPay_io @Mastercard @jpmorgan Sorry, but it’s @phantom for me 💜
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 64  
+https://x.com/playmatejaylene/status/2122989224982905292
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 95  
-https://x.com/playmatejaylene/status/2122605745606930572
+## 2026-11-18 09:44 UTC · ответ
 
-## 2026-11-17 08:21 UTC · ответ
+@itsbac0201 what else do you expect from a human?
 
-@TC_Solana @SolanaEvents @SuiNetwork and Solana are the S-tier top event throwers. There is literally no comparison
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 85  
+https://x.com/playmatejaylene/status/2122989297284636986
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 72  
-https://x.com/playmatejaylene/status/2122606001106886954
+## 2026-11-18 09:44 UTC · ответ
 
-## 2026-11-17 08:32 UTC · цитата
+@Web3Sadiia ehhh
 
-Interviewing the legend himself 🐐
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 68  
+https://x.com/playmatejaylene/status/2122989322974429541
 
-what questions do you have for @idatsy? https://t.co/dsjL1pqMr1 https://t.co/beh7rTNBHT
+## 2026-11-18 09:48 UTC · ответ
 
-❤ 184 · 🔁 2 · 💬 42 · цитат 0 · просмотров 6411  
-https://x.com/playmatejaylene/status/2122608742092980576
+@Symphony_Young @solana @pudgypenguins @SolanaEvents absolutely adorable!!!
 
-## 2026-11-17 08:39 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 94  
+https://x.com/playmatejaylene/status/2122990251253678416
 
-Will be around the @phantom booth at Breakpoint today. Come say hi! 💜
+## 2026-11-18 09:48 UTC · ответ
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 440  
-https://x.com/playmatejaylene/status/2122610480745210299
+@enigmafantasies bro am i cooked!? 😭
 
-## 2026-11-17 08:41 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 80  
+https://x.com/playmatejaylene/status/2122990301463613501
 
-@phantom purple everywhere 💟
+## 2026-11-18 09:48 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 341  
-https://x.com/playmatejaylene/status/2122611102655947182
+what’s your RB username?
 
-## 2026-11-17 08:42 UTC · ответ
+❤ 65 · 🔁 6 · 💬 65 · цитат 0 · просмотров 1104  
+https://x.com/playmatejaylene/status/2122990348272390198
 
-@NotAMai_ @idatsy hi
+## 2026-11-18 10:05 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 106  
-https://x.com/playmatejaylene/status/2122611263360344225
+@saggzisback sent ✅💸
 
-## 2026-11-17 08:43 UTC · ответ
+❤ 5 · 🔁 0 · 💬 4 · цитат 0 · просмотров 101  
+https://x.com/playmatejaylene/status/2122994537366990880
 
-@skeppy26_ @idatsy We’re talking about the interview right? 🤨
+## 2026-11-18 10:06 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 98  
-https://x.com/playmatejaylene/status/2122611517652607079
+@roshekidd sent 💸
 
-## 2026-11-17 09:20 UTC · ответ
+❤ 6 · 🔁 0 · 💬 4 · цитат 0 · просмотров 103  
+https://x.com/playmatejaylene/status/2122994750890643684
 
-@MafuzNeverStop @idatsy i did and it’s actually so interesting!
+## 2026-11-18 10:26 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 93  
-https://x.com/playmatejaylene/status/2122620780160885204
+@JoeyMoose i mean.. what did they expect!?
 
-## 2026-11-17 09:41 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 253  
+https://x.com/playmatejaylene/status/2122999946227880022
 
-@tyinlife 🫂🤍
+## 2026-11-18 10:55 UTC · пост
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 73  
-https://x.com/playmatejaylene/status/2122626204700189084
+you don’t need to drink alcohol to have a good time btw
 
-## 2026-11-17 09:41 UTC · ответ
+❤ 389 · 🔁 12 · 💬 140 · цитат 5 · просмотров 8371  
+https://x.com/playmatejaylene/status/2123007267884695916
 
-@moonpay 🐐
+## 2026-11-18 11:03 UTC · ответ
 
-❤ 2 · 🔁 1 · 💬 0 · цитат 0 · просмотров 145  
-https://x.com/playmatejaylene/status/2122626262451769662
+@HalvSesh it does hurt tho 😭
 
-## 2026-11-17 09:50 UTC · ответ
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 109  
+https://x.com/playmatejaylene/status/2123009314021318994
 
-@ammyfex @idatsy you like my accent huh!? 😆
+## 2026-11-18 11:04 UTC · ответ
+
+@MalayAhmad oh wow that’s almost unheard of!
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 141  
+https://x.com/playmatejaylene/status/2123009370195660967
+
+## 2026-11-18 11:04 UTC · ответ
+
+@MadeByWoven hahaha i can relate 😂 hope you had the best time woven!
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 191  
+https://x.com/playmatejaylene/status/2123009493575598226
+
+## 2026-11-18 11:05 UTC · ответ
+
+@kaypresso @0xganny try it and see
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 139  
+https://x.com/playmatejaylene/status/2123009584965267549
+
+## 2026-11-18 11:05 UTC · ответ
+
+@Promirexy also v true
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 112  
+https://x.com/playmatejaylene/status/2123009646130757893
+
+## 2026-11-18 11:05 UTC · ответ
+
+@WhaleNoName i’ll prove it
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 147  
+https://x.com/playmatejaylene/status/2123009710899044568
+
+## 2026-11-18 11:07 UTC · ответ
+
+@DipWheeler titts you mean?
+
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 249  
+https://x.com/playmatejaylene/status/2123010260898333140
+
+## 2026-11-18 11:08 UTC · ответ
+
+@zekedup_ @DipWheeler 💀
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 89  
+https://x.com/playmatejaylene/status/2123010362920534204
+
+## 2026-11-18 11:08 UTC · ответ
+
+@decircusmaster hope you’re feeling better for it sister 😁
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 172  
+https://x.com/playmatejaylene/status/2123010456994697230
+
+## 2026-11-18 11:09 UTC · ответ
+
+@jessyfries oooh have i got some stories for you.. 🤣
+
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 163  
+https://x.com/playmatejaylene/status/2123010710074748958
+
+## 2026-11-18 11:11 UTC · ответ
+
+@moonpay JPMorgan https://t.co/j4VzDdK8vb
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 109  
+https://x.com/playmatejaylene/status/2123011095673864300
+
+## 2026-11-18 11:39 UTC · ответ
+
+@the_sharmini i had a big cut before i came, it feels so short now 😭🤣
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 140  
+https://x.com/playmatejaylene/status/2123018236635865411
+
+## 2026-11-18 11:39 UTC · ответ
+
+@yymacun does it tho?
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 115  
+https://x.com/playmatejaylene/status/2123018357641236791
+
+## 2026-11-18 11:50 UTC · цитата
+
+Living in New Zealand has its advantages 💅 https://t.co/Q1SyfHnJnL https://t.co/tgQkF1sciQ
+
+❤ 328 · 🔁 6 · 💬 91 · цитат 0 · просмотров 7003  
+https://x.com/playmatejaylene/status/2123021005828530511
+
+## 2026-11-18 11:51 UTC · ответ
+
+@WeedleChamp hahahah 😂 not sure they can get any worse tbh
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 79  
+https://x.com/playmatejaylene/status/2123021329636970722
+
+## 2026-11-18 11:52 UTC · ответ
+
+@quasirich_ shocker ik
 
 ❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 106  
-https://x.com/playmatejaylene/status/2122628441816322274
+https://x.com/playmatejaylene/status/2123021403616350286
 
-## 2026-11-17 10:07 UTC · пост
+## 2026-11-18 11:52 UTC · ответ
 
-good morning 🖤 https://t.co/0IZAvZyViK
+@Rakermoon the lords day
 
-❤ 538 · 🔁 5 · 💬 255 · цитат 1 · просмотров 6104  
-https://x.com/playmatejaylene/status/2122632686074523669
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 101  
+https://x.com/playmatejaylene/status/2123021468564869449
 
-## 2026-11-17 10:10 UTC · ответ
+## 2026-11-18 12:01 UTC · ответ
 
-@vvscapital gmv
+@Rahim_mahtab see you soon
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 116  
-https://x.com/playmatejaylene/status/2122633483063361813
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 107  
+https://x.com/playmatejaylene/status/2123023856470532415
 
-## 2026-11-17 10:10 UTC · ответ
+## 2026-11-18 12:02 UTC · ответ
 
-@thekasik gm hon!! 💗
+@Starcaster1 green 💚
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 122  
-https://x.com/playmatejaylene/status/2122633518723547236
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 102  
+https://x.com/playmatejaylene/status/2123023923596169466
 
-## 2026-11-17 10:10 UTC · ответ
+## 2026-11-18 12:04 UTC · ответ
 
-@TheHillson gm fam
+@anonchain @WilliamShatner @leap_xyz @inversebrah lil shid
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 131  
-https://x.com/playmatejaylene/status/2122633537387991479
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 59  
+https://x.com/playmatejaylene/status/2123024619645157542
 
-## 2026-11-17 10:10 UTC · ответ
+## 2026-11-18 12:04 UTC · ответ
 
-@enigmafantasies gm legend
+@WilliamShatner @leap_xyz holyyyy 💀
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 122  
-https://x.com/playmatejaylene/status/2122633555280851148
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 127  
+https://x.com/playmatejaylene/status/2123024646568325517
 
-## 2026-11-17 10:10 UTC · ответ
+## 2026-11-18 12:12 UTC · ответ
 
-@saggzisback where u at
+@skimonsol i try to encourage everyone to come to new zealand!
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 139  
-https://x.com/playmatejaylene/status/2122633581704978910
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 148  
+https://x.com/playmatejaylene/status/2123026540183375925
 
-## 2026-11-17 10:11 UTC · ответ
+## 2026-11-18 12:13 UTC · ответ
 
-@0xShadmehr gmgmgm 💗
+@0xleegenz @ZIllI00N 😭
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 113  
-https://x.com/playmatejaylene/status/2122633608338784297
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 69  
+https://x.com/playmatejaylene/status/2123026864935415908
 
-## 2026-11-17 10:11 UTC · ответ
+## 2026-11-18 12:44 UTC · ответ
 
-@GucciBoredApe same to you hon!! 💜🧡
-
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 125  
-https://x.com/playmatejaylene/status/2122633655772213691
-
-## 2026-11-17 10:11 UTC · ответ
-
-@AntoChi90 hahah this the only english style top i own, it’s the only time ive had a chance to wear it 😂
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 135  
-https://x.com/playmatejaylene/status/2122633778275160188
-
-## 2026-11-17 10:11 UTC · ответ
-
-@vengance24 gm darlin 🥹💛
-
-❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 124  
-https://x.com/playmatejaylene/status/2122633835443843264
-
-## 2026-11-17 11:03 UTC · ответ
-
-@psychononumber gm sonson
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 123  
-https://x.com/playmatejaylene/status/2122646720311939583
-
-## 2026-11-17 11:04 UTC · ответ
-
-@McLovinQuant1 gmmmm 💛
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 95  
-https://x.com/playmatejaylene/status/2122646982304973104
-
-## 2026-11-17 11:04 UTC · ответ
-
-@_kate_lv hi lover
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 87  
-https://x.com/playmatejaylene/status/2122647018422292688
-
-## 2026-11-17 11:05 UTC · ответ
-
-@frontrunpro gm legends
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 98  
-https://x.com/playmatejaylene/status/2122647251042312514
-
-## 2026-11-17 11:05 UTC · ответ
-
-@yymacun yoooooo
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 94  
-https://x.com/playmatejaylene/status/2122647271389196445
-
-## 2026-11-17 11:05 UTC · ответ
-
-@Itsjavari hiiii 🩵
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 88  
-https://x.com/playmatejaylene/status/2122647307527299282
-
-## 2026-11-17 11:23 UTC · ответ
-
-@garnachoszn17 @joinfrontier little jack 😆
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 75  
-https://x.com/playmatejaylene/status/2122651923991974086
-
-## 2026-11-17 11:24 UTC · ответ
-
-@Lorrentz oh man you have no idea 😭😭
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 105  
-https://x.com/playmatejaylene/status/2122651987603062790
-
-## 2026-11-17 11:24 UTC · ответ
-
-@nezsek same
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 142  
-https://x.com/playmatejaylene/status/2122652120092643408
-
-## 2026-11-17 11:24 UTC · ответ
-
-@Sharkymoeder you know it! you there now?
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 110  
-https://x.com/playmatejaylene/status/2122652176854163830
-
-## 2026-11-17 11:26 UTC · ответ
-
-@kev0x13 gm kev
-
-❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 118  
-https://x.com/playmatejaylene/status/2122652548834152756
-
-## 2026-11-17 11:26 UTC · ответ
-
-@kev0x13 💛💛💛
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 58  
-https://x.com/playmatejaylene/status/2122652571013947706
-
-## 2026-11-17 13:36 UTC · пост
-
-come see me at breakpoint for a game of rock scissors paper 
-
-apparently i like to lose and giveaway bands 😭🤣 https://t.co/P9X2HugeeZ
-
-❤ 96 · 🔁 3 · 💬 36 · цитат 0 · просмотров 7392  
-https://x.com/playmatejaylene/status/2122685410392650017
-
-## 2026-11-17 13:58 UTC · ответ
-
-@garnachoszn17 you the goat https://t.co/ed3VYYhB1W
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 62  
-https://x.com/playmatejaylene/status/2122690964057940129
-
-## 2026-11-17 13:59 UTC · ответ
-
-@samiez_0x rock scissors paper
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 65  
-https://x.com/playmatejaylene/status/2122691023298249141
-
-## 2026-11-17 13:59 UTC · ответ
-
-@DRPC777 see you in a sec!
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 50  
-https://x.com/playmatejaylene/status/2122691050439397639
-
-## 2026-11-17 13:59 UTC · ответ
-
-@Lorrentz only the girls https://t.co/vXXwZfoIYG
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 55  
-https://x.com/playmatejaylene/status/2122691114746490956
-
-## 2026-11-17 13:59 UTC · ответ
-
-@IMenlikovaOG i like the adrenaline rush 😆
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 52  
-https://x.com/playmatejaylene/status/2122691215179100533
-
-## 2026-11-17 14:00 UTC · ответ
-
-@yasu0x1 i choose to win
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 58  
-https://x.com/playmatejaylene/status/2122691274537042428
-
-## 2026-11-17 14:00 UTC · ответ
-
-@IfwRex game on 🤣
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 67  
-https://x.com/playmatejaylene/status/2122691372276961599
-
-## 2026-11-17 14:01 UTC · ответ
-
-@iyandahodl hope you like free money
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 71  
-https://x.com/playmatejaylene/status/2122691492967797151
-
-## 2026-11-17 14:01 UTC · ответ
-
-@BigDave58975 i’m gonna be so broke 😭🤣
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 52  
-https://x.com/playmatejaylene/status/2122691563268780113
-
-## 2026-11-17 14:01 UTC · ответ
-
-@WellzOnSol sucker for punishment
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 68  
-https://x.com/playmatejaylene/status/2122691663906623919
-
-## 2026-11-17 14:13 UTC · ответ
-
-@0xb3hrang i feel the same way about you
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 53  
-https://x.com/playmatejaylene/status/2122694503693721660
-
-## 2026-11-17 14:13 UTC · ответ
-
-@Offisher5 pull up
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 62  
-https://x.com/playmatejaylene/status/2122694572329271556
-
-## 2026-11-17 14:23 UTC · ответ
-
-@mayamaster @idatsy nope, first time i heard of him was the show but he’s actually got an insane story
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 84  
-https://x.com/playmatejaylene/status/2122697259452346721
-
-## 2026-11-17 14:34 UTC · ответ
-
-@svofshahr gm sammy
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 61  
-https://x.com/playmatejaylene/status/2122699796125265967
-
-## 2026-11-17 14:34 UTC · ответ
-
-@luvvjenny_ my secret is to look more like Jenny
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 72  
-https://x.com/playmatejaylene/status/2122699876798771455
-
-## 2026-11-17 14:34 UTC · ответ
-
-@10trillionfiat you look handsome
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 75  
-https://x.com/playmatejaylene/status/2122699917613224202
-
-## 2026-11-17 16:01 UTC · ответ
-
-@yo_itsmatt LFG
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 62  
-https://x.com/playmatejaylene/status/2122721796600291830
-
-## 2026-11-17 16:03 UTC · репост
-
-RT @phantom: phantom szn 👻 https://t.co/eoNIECzmGQ
-
-❤ 0 · 🔁 164 · 💬 0 · цитат 0 · просмотров 486  
-https://x.com/playmatejaylene/status/2122722230870425967
-
-## 2026-11-17 17:14 UTC · пост
-
-this is the easiest W of the week 💅
-
-don’t believe me? watch https://t.co/ikdD9pVbkG
-
-❤ 45 · 🔁 3 · 💬 24 · цитат 0 · просмотров 2549  
-https://x.com/playmatejaylene/status/2122740058977718547
-
-## 2026-11-17 19:01 UTC · ответ
-
-@andybids i have normie friends that live here asking me about this event 🫪
-
-❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 372  
-https://x.com/playmatejaylene/status/2122766985016783190
-
-## 2026-11-17 19:07 UTC · ответ
-
-@WyatEarpStudios gmgm
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 54  
-https://x.com/playmatejaylene/status/2122768717490561371
-
-## 2026-11-17 19:08 UTC · ответ
-
-@PackripEwing hahaha
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 87  
-https://x.com/playmatejaylene/status/2122768827331301418
-
-## 2026-11-17 19:08 UTC · ответ
-
-@swandogs happy birthday angel boy! 🤍
+@viabigboy https://t.co/3T1gBl9ZxL
 
 ❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 81  
-https://x.com/playmatejaylene/status/2122768907530367039
+https://x.com/playmatejaylene/status/2123034716500545624
 
-## 2026-11-17 19:11 UTC · ответ
+## 2026-11-18 12:45 UTC · ответ
 
-@friskk same bro.. same
+@0xfs7 one track mind and it’s not where you think
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 103  
-https://x.com/playmatejaylene/status/2122769512629957041
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 139  
+https://x.com/playmatejaylene/status/2123034819927871845
 
-## 2026-11-17 20:59 UTC · ответ
+## 2026-11-18 13:04 UTC · пост
 
-@brimigs cheers 🥂
+The side of London they don’t want you to see.. https://t.co/nZb08At1Qt
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 127  
-https://x.com/playmatejaylene/status/2122796694995693590
+❤ 267 · 🔁 6 · 💬 69 · цитат 0 · просмотров 10581  
+https://x.com/playmatejaylene/status/2123039614977912962
 
-## 2026-11-17 21:44 UTC · цитата
+## 2026-11-18 13:04 UTC · ответ
 
-🚨BREAKING: Being a horny founder has zero effect on product sales. https://t.co/lUJrlqpCuh
+@maxwin Comfy af in Rainbet
 
-❤ 86 · 🔁 3 · 💬 30 · цитат 1 · просмотров 5410  
-https://x.com/playmatejaylene/status/2122808232926159341
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 64  
+https://x.com/playmatejaylene/status/2123039623362338829
 
-## 2026-11-17 21:48 UTC · ответ
+## 2026-11-18 13:04 UTC · ответ
 
-@TheBigDegen @joinfrontier thank you homie! appreciate it 🙏
+@Lizmej12 not even a sip
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 58  
-https://x.com/playmatejaylene/status/2122809079139860773
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 71  
+https://x.com/playmatejaylene/status/2123039654392082871
 
-## 2026-11-18 01:27 UTC · репост
+## 2026-11-18 13:04 UTC · ответ
 
-RT @phantom: Photodump from the Phantom X @joinbingbong party 🎉 https://t.co/L8gGcltMsg
+@heroman0x ew. (although i do like the odd cigar)
 
-❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 414  
-https://x.com/playmatejaylene/status/2122864134110740888
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 64  
+https://x.com/playmatejaylene/status/2123039660406673846
 
-## 2026-11-18 02:24 UTC · ответ
+## 2026-11-18 13:06 UTC · ответ
 
-@lilybrodi @fomo @world_xyz oh, we noticed
+@Testimony64 U R 🤎
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 133  
-https://x.com/playmatejaylene/status/2122878487962739179
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 105  
+https://x.com/playmatejaylene/status/2123040104059228383
 
-## 2026-11-18 02:24 UTC · ответ
+## 2026-11-18 13:06 UTC · ответ
 
-@HYPEconomist @phantom bullish on phantom 💜
+@yalcn_tuncayy wish you were here
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 58  
-https://x.com/playmatejaylene/status/2122878619848474922
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 119  
+https://x.com/playmatejaylene/status/2123040129438880190
 
-## 2026-11-18 06:15 UTC · пост
+## 2026-11-18 13:08 UTC · ответ
 
-it’s been real fun ✌️ https://t.co/vBazj6NvbY
+@Novanoodle5165 stop being judgable
 
-❤ 132 · 🔁 0 · 💬 48 · цитат 0 · просмотров 1833  
-https://x.com/playmatejaylene/status/2122936827476906366
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 105  
+https://x.com/playmatejaylene/status/2123040678984794484
 
-## 2026-11-18 07:25 UTC · ответ
+## 2026-11-18 13:08 UTC · ответ
 
-@OnlyTerp because i asked nicely
+@0xb3hrang that’s the part they don’t want you to see
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 56  
-https://x.com/playmatejaylene/status/2122954251572011173
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 111  
+https://x.com/playmatejaylene/status/2123040736870621290
+
+## 2026-11-18 13:12 UTC · ответ
+
+@Rakermoon that’s where i’m flying out of 😁
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 115  
+https://x.com/playmatejaylene/status/2123041638457221304
+
+## 2026-11-18 13:27 UTC · ответ
+
+@d_mick420 do you often want to feel like shit?
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 77  
+https://x.com/playmatejaylene/status/2123045507451015501
+
+## 2026-11-18 13:28 UTC · ответ
+
+@RockieRockie wish you were here
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 111  
+https://x.com/playmatejaylene/status/2123045568654045427
+
+## 2026-11-18 13:28 UTC · ответ
+
+@xstacy3 amen sister
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 123  
+https://x.com/playmatejaylene/status/2123045703224111564
+
+## 2026-11-18 14:51 UTC · ответ
+
+@mrdariusone my king
+
+❤ 1 · 🔁 1 · 💬 0 · цитат 0 · просмотров 173  
+https://x.com/playmatejaylene/status/2123066609132613775
+
+## 2026-11-18 17:10 UTC · ответ
+
+@coinempress oh my goodness, this might just be the kindest thing anyone has ever said about me 🥺😭😭
+
+i’m soo happy our paths finally crossed (even if the first time was in a toilet) lol 
+
+it’s been an absolutely blessing honey and i would love to host you in NZ! (pamela eagerly awaits your
+
+❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 144  
+https://x.com/playmatejaylene/status/2123101546292625877
+
+## 2026-11-18 17:10 UTC · репост
+
+RT @coinempress: i met @playmatejaylene at token2049 in singapore and we ended up seeing each other again in 4 countries in under 6 weeks…
+
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 629  
+https://x.com/playmatejaylene/status/2123101632015770035
+
+## 2026-11-18 17:13 UTC · ответ
+
+@MrBeast would (2026)
+
+❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 720  
+https://x.com/playmatejaylene/status/2123102347320869332
+
+## 2026-11-18 19:39 UTC · ответ
+
+@anytwocardzz honestly that kinda sounds like NZ 🤣
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 81  
+https://x.com/playmatejaylene/status/2123139080322199716
+
+## 2026-11-18 19:39 UTC · ответ
+
+@smsonx sooo cute 🥹
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 97  
+https://x.com/playmatejaylene/status/2123139135468904919
+
+## 2026-11-18 19:40 UTC · ответ
+
+@Nyanni237 the parks this time of year are so stunning!!! 🥹🍂
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 84  
+https://x.com/playmatejaylene/status/2123139228158628318
+
+## 2026-11-18 20:47 UTC · ответ
+
+@RODLAWRENCE12 edgy or stabby?
+
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 80  
+https://x.com/playmatejaylene/status/2123156230424170617
+
+## 2026-11-18 21:52 UTC · ответ
+
+@alyonitaa They are the best nights 👏
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 98  
+https://x.com/playmatejaylene/status/2123172456743698482
+
+## 2026-11-18 22:19 UTC · пост
+
+men only want one thing and it’s disgusting. https://t.co/Fyd9HpIL6Q
+
+❤ 445 · 🔁 7 · 💬 119 · цитат 2 · просмотров 15522  
+https://x.com/playmatejaylene/status/2123179204833624388
+
+## 2026-11-18 22:22 UTC · ответ
+
+@Bugger_prime You too?
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 533  
+https://x.com/playmatejaylene/status/2123180089185890358
+
+## 2026-11-18 22:23 UTC · ответ
+
+@Dreenonchain Both at the same time
+
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 440  
+https://x.com/playmatejaylene/status/2123180319977402608
+
+## 2026-11-18 22:24 UTC · ответ
+
+@jharleyd1212 https://t.co/oQsNWGthVq
+
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 598  
+https://x.com/playmatejaylene/status/2123180600492523714
+
+## 2026-11-18 22:24 UTC · ответ
+
+@yymacun Agree
+
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 657  
+https://x.com/playmatejaylene/status/2123180608751116525
+
+## 2026-11-18 22:24 UTC · ответ
+
+@zephyr_ov Can confirm
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 826  
+https://x.com/playmatejaylene/status/2123180626522329158
+
+## 2026-11-18 22:24 UTC · ответ
+
+@korbinian_vogt Yessir
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 507  
+https://x.com/playmatejaylene/status/2123180650069209391
+
+## 2026-11-18 22:25 UTC · ответ
+
+@Bankrupt_szn Biscuits
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 506  
+https://x.com/playmatejaylene/status/2123180737616834674

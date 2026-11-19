@@ -1,164 +1,92 @@
-# @hosseeb — посты за 2026-11-18
+# @hosseeb — посты за 2026-11-19
 
-Всего: 17
+Всего: 10
 
-## 2026-11-17 16:27 UTC · репост
+## 2026-11-18 14:57 UTC · репост
 
-RT @KevinWSHPod: . @hosseeb reveals $vvv is the crypto asset he has the most belief in right now
+RT @_choppingblock: Haseeb says voters hate AI and bringing Jensen back is how you get a revolt. Tarun's defense of Jensen is a one-liner.…
 
-“Venice is a privacy preserving AI infere…
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1638  
+https://x.com/hosseeb/status/2123068105274638582
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 1501  
-https://x.com/hosseeb/status/2122728396212064743
+## 2026-11-18 15:14 UTC · цитата
 
-## 2026-11-17 16:28 UTC · ответ
+RWA perps have grown massively this year, and Variational's RFQ model allows it to mainline deep TradFi liquidity for more trading pairs than any other DEX.
 
-@agastyateja @KevinWSHPod We bought both
+This thing just keeps growing and attracting more and more traders.
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 100  
-https://x.com/hosseeb/status/2122728647413088708
+Proud to be a backer. 
 
-## 2026-11-17 16:58 UTC · цитата
+But job's not done. https://t.co/rFHYS1pRWJ
 
-FX is a $10T market. But stablecoin-backed FX is just in its infancy.
+❤ 184 · 🔁 12 · 💬 29 · цитат 0 · просмотров 7804  
+https://x.com/hosseeb/status/2123072257622990938
 
-@CodexFX is going to take this market mainstream. They've already 10x'd in volume this year alone. 
+## 2026-11-18 15:17 UTC · цитата
 
-Proud to continue backing this team! https://t.co/G9uCfCQwIO
+Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.
 
-❤ 125 · 🔁 5 · 💬 6 · цитат 1 · просмотров 14333  
-https://x.com/hosseeb/status/2122736181758792007
+This week we got into the sell-off with @Joshua_J_Lim, the Anthropic IPO, and a spicy debate about whether Jensen should come back (I say no)
 
-## 2026-11-17 17:59 UTC · цитата
+Believe in something ⤵️ https://t.co/q7lHjhzb3A
 
-What exactly is supposed to be scandalous about this? 
+❤ 50 · 🔁 4 · 💬 12 · цитат 0 · просмотров 8781  
+https://x.com/hosseeb/status/2123073142805733724
 
-Anthropic was extremely public about their position on chip exports to China. Dario has been pounding the table on it  for years. Lobbying is how companies express their political preferences to lawmakers, it's 100% legal and doesn't imply anything nefarious.
+## 2026-11-18 15:57 UTC · ответ
 
-So what's the big deal? 
+@DylanGrabowski @joshua_j_lim Because some assets explode upward. Upside convexity exists at every stage.
 
-Sounds like this story is supposed to be innuendo that Anthropic was secretly connected to the Jensen ouster. But this article produces 0 new evidence of that. Of course they were paying lobbying firms aligned with their publicly stated views.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 103  
+https://x.com/hosseeb/status/2123083292299989304
 
-Seems like more Anthropic derangement syndrome.
+## 2026-11-18 15:59 UTC · ответ
 
-❤ 45 · 🔁 1 · 💬 17 · цитат 0 · просмотров 9291  
-https://x.com/hosseeb/status/2122751587055796606
+@imfaziiii It's a good time to have money
 
-## 2026-11-17 19:12 UTC · ответ
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 193  
+https://x.com/hosseeb/status/2123083738871644338
 
-@beniduboss Agreed
+## 2026-11-18 16:53 UTC · репост
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 304  
-https://x.com/hosseeb/status/2122769883821936778
+RT @variational_lvs: Two years ago, @edward_yu_var &amp; I bet that on-chain trading didn’t need another exchange. It needed to aggregate globa…
 
-## 2026-11-17 22:38 UTC · пост
+❤ 0 · 🔁 53 · 💬 0 · цитат 0 · просмотров 1659  
+https://x.com/hosseeb/status/2123097303116587116
 
-Infuriating story about the DOJ using Pangram to persuade a judge to invalidate defense motions.
+## 2026-11-18 21:28 UTC · репост
 
-If the motions are not 100% human-written, DOJ claims they are are a "waste of judicial resources" and they should not have to respond to them.
+RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.
 
-This is absurd. Who cares if AI wrote your motions? The cost is internalized by the defendant. This is just welfare for lawyers. Why should both parties have to waste money?
+Special episode feat. @Joshua_J_Lim!
 
-I can't wait for AI-based arbitration courts. Both parties contractually agree to a binding ruling, both parties generate AI-powered briefs, and an AI judge instantly renders a verdict.
+Timestamps
+00:00 Intro…
 
-Litigation will become cheap and instantaneous.
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1438  
+https://x.com/hosseeb/status/2123166487074746776
 
-https://t.co/ohUFjW4Zkb
+## 2026-11-19 03:20 UTC · репост
 
-❤ 40 · 🔁 0 · 💬 10 · цитат 1 · просмотров 7562  
-https://x.com/hosseeb/status/2122821734219039227
+RT @hosseeb: Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.
 
-## 2026-11-17 23:59 UTC · ответ
+This week we…
 
-@beniduboss @max_spero_
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/hosseeb/status/2123255037111754976
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 282  
-https://x.com/hosseeb/status/2122841983731527930
+## 2026-11-19 04:40 UTC · пост
 
-## 2026-11-18 00:28 UTC · репост
+PSA https://t.co/xxPVHacE7U is still by far the most liquid venue to buy and sell $PRL, and doesn't require KYC
 
-RT @WuBlockchain: Dragonfly Partner Reflects on Missing Out on Solana’s 4-Cent Seed Round  
+(long both) https://t.co/tdNRpDiw0w
 
-In the November 12, 2026 When Shift Happens @K…
+❤ 76 · 🔁 7 · 💬 8 · цитат 1 · просмотров 6946  
+https://x.com/hosseeb/status/2123275177782132803
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1176  
-https://x.com/hosseeb/status/2122849414436004184
+## 2026-11-19 04:41 UTC · ответ
 
-## 2026-11-18 00:28 UTC · ответ
+@emilylai What was your answer?
 
-@beniduboss @max_spero_ You dug your own grave
-
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 188  
-https://x.com/hosseeb/status/2122849476964729240
-
-## 2026-11-18 03:08 UTC · ответ
-
-@OlivierAxelX Ah yes, as we all know, Anthropic wanted to topple Nvidia because they did not rely on them or the circus of circular financing. Masterful plan.
-
-Stupid take. 
-
-Their own pre-IPO markets are also massively down because of how much the Jensen shakeup has rattled compute markets.
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 180  
-https://x.com/hosseeb/status/2122889751284142192
-
-## 2026-11-18 03:11 UTC · ответ
-
-@helloitslynne @torvaman_ Stay positive
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 110  
-https://x.com/hosseeb/status/2122890323240370609
-
-## 2026-11-18 03:22 UTC · ответ
-
-@OlivierAxelX According to you they succeeded in toppling the CEO of Nvidia and as a result, their stock is down, and Nvidia is likely to pull back their orgy of circular financing and being the backstop for the domestic compute buildout, which Anthropic depends on.
-
-Excellent theory.
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 150  
-https://x.com/hosseeb/status/2122893230194995350
-
-## 2026-11-18 04:13 UTC · ответ
-
-@OlivierAxelX State-backed quasi monopoly? Lolll
-
-OAI? Google? SPCX? Meta? 
-
-You think Ant believes Moonshot with Blackwells is their biggest competitor?
-
-Bro what are you huffing?
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 122  
-https://x.com/hosseeb/status/2122906132046110943
-
-## 2026-11-18 05:53 UTC · репост
-
-RT @poppy_haze: BREAKING: Jensen Huang is in the datacenters ripping the Nvidia cards out - causing worldwide outages - saying “they’re min…
-
-❤ 0 · 🔁 3614 · 💬 0 · цитат 0 · просмотров 1141  
-https://x.com/hosseeb/status/2122931093741695147
-
-## 2026-11-18 06:18 UTC · репост
-
-RT @avichal: Well-Behaved Founders Seldom Make History
--
-Most people make a fundamental mistake when they think about founders. They assume…
-
-❤ 0 · 🔁 35 · 💬 0 · цитат 0 · просмотров 921  
-https://x.com/hosseeb/status/2122937538931474924
-
-## 2026-11-18 06:39 UTC · пост
-
-Can't believe I once spent a summer trying to learn Vim.
-
-Future generations will never know the anguish.
-
-❤ 27 · 🔁 0 · 💬 21 · цитат 0 · просмотров 2677  
-https://x.com/hosseeb/status/2122942869694738573
-
-## 2026-11-18 07:22 UTC · ответ
-
-@marek_ Dvorak bros in shambles
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 43  
-https://x.com/hosseeb/status/2122953459863576720
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 844  
+https://x.com/hosseeb/status/2123275363984031986

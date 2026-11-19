@@ -1,294 +1,894 @@
-**Крипто-X дайджест — 18.11.2026** (окно: 17.11 07:27 – 18.11 07:27 UTC)
-📊 Проанализировано аккаунтов: **44 из 44** · постов: **956** · в среднем **21,7** поста на аккаунт (42 аккаунта с постами; 143 оригинальных поста, 148 цитат, 495 ответов, 170 репостов)
+**Крипто-X дайджест — 19.11.2026** (окно: 18.11 07:29 – 19.11 07:29 UTC)
+📊 Проанализировано аккаунтов: **44 из 44** · постов: **757** · в среднем **17,2** поста на аккаунт (40 аккаунтов с постами, 18,9 на активный; 121 оригинальный пост, 98 цитат, 428 ответов, 110 репостов)
 
 ## 1. Общие темы дня
-**Nvidia: отказ вернуть Дженсена Хуанга + отчётность.** Самая обсуждаемая тема дня, крипто-аккаунты обсуждали её больше, чем крипту.
-- Председатель совета директоров на звонке по отчётности заявил, что возвращать Хуанга на пост CEO не собираются ([DegenerateNews](https://x.com/DegenerateNews/status/2122814596981366993)). @QwQiao пошутил, что тогда акционеры не дадут этому совету ещё один срок ([28,7K лайков](https://x.com/QwQiao/status/2122823550549602358)). @arthur0x призвал созвать собрание акционеров и сменить совет ([ответ](https://x.com/arthur0x/status/2122734853338829033), [цитата](https://x.com/arthur0x/status/2122734940546879923)). @CryptoWendyO назвала решение худшим из возможных ([пост](https://x.com/CryptoWendyO/status/2122816769454968876)).
-- Взгляды на рынок разошлись. @CryptoKaleo считает, что дно по $NVDA пройдено, и ждёт роста после отчёта ([пост](https://x.com/CryptoKaleo/status/2122780437328056351)). @Route2FI открыл небольшой лонг после бита по EPS и выручке ([пост](https://x.com/Route2FI/status/2122803137631355202)). @JamesWynnReal, наоборот, «крупно» шортит AI-сектор: «Top is in» ([пост](https://x.com/JamesWynnReal/status/2122927558144700842)). @blknoiz06 боится, что рост после отчёта сольют, как было с Micron в июне ([1](https://x.com/blknoiz06/status/2122878032222282095), [2](https://x.com/blknoiz06/status/2122878125625262334)). @frankdegods: «надеюсь, Дженсен не вернётся, тогда это полетит» ([пост](https://x.com/frankdegods/status/2122887339005366550)).
-- @choffstein иронизирует над «шпионской» драмой вокруг совета ([пост](https://x.com/choffstein/status/2122882081521094993)). @tarunchitra вспоминает прошлые «вечеринки» в барах в честь отчётов $NVDA ([пост](https://x.com/tarunchitra/status/2122762684168802444)).
+**Рынок: BTC −50% от ATH, «бить или не бить» в районе $58–62k.** Почти все трейдеры обсуждали одну зону.
+- @DegenerateNews: BTC впервые на 50% ниже ATH $126 080 ([пост](https://x.com/DegenerateNews/status/2123082797254668775)).
+- @blknoiz06 видит «do or die» зону на ближайшие недели: «если мы в начале бычки, не должны долго торговаться ниже 57k», будет набирать 58–61k на отскок ([пост](https://x.com/blknoiz06/status/2123114160481337656), [пост](https://x.com/blknoiz06/status/2123112670278844720)).
+- @QwQiao спокойнее: S&P примерно в 50-м перцентиле по оценке за 5–10 лет, у BTC много бидов около 60k ([пост](https://x.com/QwQiao/status/2123029963787919788)).
+- @Route2FI объясняет давление макро: хайк ФРС в декабре почти полностью заложен в цены, Уоллер говорит про 50 б.п., оттоки из BTC-ETF больше $2,5 млрд ([пост](https://x.com/Route2FI/status/2123088546403656155)). @AshCrypto: протокол ФРС допускает хайк больше 25 б.п. ([пост](https://x.com/AshCrypto/status/2123133530624643552)), а ETF вывели ещё $306,5 млн ([пост](https://x.com/AshCrypto/status/2123282343209378180)). @lookonchain: за день BTC-ETF −4 216 BTC, ETH-ETF −16 279 ETH ([пост](https://x.com/lookonchain/status/2123069422525092327)).
+- Оптимисты: @JamesWynnReal «молюсь, чтобы BTC упал как можно ниже, ставьте ордера» ([пост](https://x.com/JamesWynnReal/status/2123083857612378619)), @andrewtalksdefi ждёт BTC $150K и ETH $5K ([пост](https://x.com/andrewtalksdefi/status/2122976486835576960)), @hosseeb: «каждый медвежий рынок кажется вечным, этот не исключение» ([пост](https://x.com/hosseeb/status/2123073142805733724)). Для контраста @AshCrypto: у альтов открытый интерес почти не снизился, значит, в них ещё много плеча ([пост](https://x.com/AshCrypto/status/2123314916870565888)).
+- Ирония: @dcfgod «ETH по $1,7k убил аппетит сильнее ретатрутида» ([пост](https://x.com/dcfgod/status/2123272829668069753)), @inversebrah «если BTC уйдёт на $40k, пока все играют в GTA, это вообще считается?» ([пост](https://x.com/inversebrah/status/2123187388172444019)).
 
-**Сбои и кибератаки.** Об этом писали @AshCrypto, @blknoiz06, @JamesWynnReal, @CryptoWendyO, @Orangie, @hansolar21, @Fiskantes и @toly.
-- @AshCrypto перечисляет сбои: сеть NSA, Charles Schwab, крупные банки, Zelle ([2,7K лайков](https://x.com/AshCrypto/status/2122720777179156514)), позже и сервисы Apple ([пост](https://x.com/AshCrypto/status/2122756062747201732)). @JamesWynnReal пишет о кибератаке на Equinor ([пост](https://x.com/JamesWynnReal/status/2122770617523122616)).
-- Скептики и ирония. @CryptoWendyO спрашивает, почему о кибератаках сообщает только Америка ([пост](https://x.com/CryptoWendyO/status/2122789370847699367)). @hansolar21: «gen-z версия Y2K?» ([пост](https://x.com/hansolar21/status/2122847320824033716)). @Fiskantes: «пусть все наши войны будут кибервойнами» ([пост](https://x.com/Fiskantes/status/2122596817313378538)). @toly воспользовался сбоем Apple, чтобы прорекламировать Seeker App Store ([пост](https://x.com/toly/status/2122791327523856861)).
+**IPO Anthropic ($ANT) и токенизация.** Тема, где крипта и TradFi пересеклись сильнее всего.
+- @CryptoWendyO: оценка до $1,4 трлн, дебют на Nasdaq ([пост](https://x.com/CryptoWendyO/status/2123038525847200240)). @toly ретвитит цену $83 за акцию и то, что ANT появится на Phoenix и на Solana через Sunrise/Backpack ([пост](https://x.com/toly/status/2123203105303261522), [пост](https://x.com/toly/status/2123096349877174632)).
+- @lookonchain: перед дебютом кит открыл шорт Anthropic на Hyperliquid на $93,87 млн, в плюсе на $4 млн ([пост](https://x.com/lookonchain/status/2123047896409092499)).
+- @Route2FI продвигает перпы Polymarket на IPO ([пост](https://x.com/Route2FI/status/2123180742083792930)). @DefiIgnas осторожен: подписка в Binance Wallet дошла до $500 млн, но объём аллокации не раскрыт, а сейл SPCX раньше отменили ([пост](https://x.com/DefiIgnas/status/2123069792877961661)). @DegenerateNews: Эли Бен-Сассон считает оценку выше $1 трлн завышенной ([пост](https://x.com/DegenerateNews/status/2123080438671618093)).
 
-**Крипта ходит за Nasdaq: страх против «покупай».**
-- @Route2FI: BTC сейчас торгуется как «Nasdaq ETF с плечом, который работает и по выходным», а не как цифровое золото ([пост](https://x.com/Route2FI/status/2122723764337012976)). @DefiIgnas недоумевает, почему крипта падает, если она вроде бы заранее сняла риск перед падением акций ([пост](https://x.com/DefiIgnas/status/2122719313954210034)).
-- Быки. @CryptoKaleo призывает не поддаваться страху ([пост](https://x.com/CryptoKaleo/status/2122830015762968639)). @MustStopMurad: «buy and hold», SPX6900 «станет крупнейшим криптоактивом в мире» ([1](https://x.com/MustStopMurad/status/2122728172961595540), [2](https://x.com/MustStopMurad/status/2122697379203743874)). @JamesWynnReal ждёт продолжения падения BTC, но считает текущие уровни неплохим входом ([пост](https://x.com/JamesWynnReal/status/2122725522111082807)).
+**Variational: Series B $110M при оценке $1,5B (лид Bain Capital Crypto).**
+- @DegenerateNews: перп-DEX с месячным объёмом $61,7B ([пост](https://x.com/DegenerateNews/status/2123065624020836762)).
+- @hosseeb (инвестор, Dragonfly): RFQ-модель подключает глубокую TradFi-ликвидность, RWA-перпы сильно выросли ([пост](https://x.com/hosseeb/status/2123072257622990938)). @hansolar21: «Variational is generational» и разбор состава инвесторов ([пост](https://x.com/hansolar21/status/2123086557561467178), [пост](https://x.com/hansolar21/status/2123239121640731061)).
+- @DefiIgnas: $VAR за $1,5B выглядит дёшево на фоне $LIT ($2,7B) и $HYPE, ждёт TGE ([пост](https://x.com/DefiIgnas/status/2123070775045624179)).
 
-**Solana Breakpoint и TradFi/стейблкоины.**
-- CoinGecko теперь поддерживает Solana Foundation, в планах есть трейдинг ([DegenerateNews](https://x.com/DegenerateNews/status/2122653014280319131)). @DefiIgnas считает, что CoinGecko может стать одним из лучших торговых приложений ([пост](https://x.com/DefiIgnas/status/2122636835083944426)). Breakpoint 2027 пройдёт в Сан-Франциско ([пост](https://x.com/DegenerateNews/status/2122672425787887860)).
-- Стейблкоины. Всемирный банк изучает USDC с Citi и Circle ([пост](https://x.com/DegenerateNews/status/2122782773077582150)). DBS даёт институционалам прямой минт и погашение USDC ([пост](https://x.com/DegenerateNews/status/2122888022240670094)). @AshCrypto пишет, что CFTC 15 декабря обсудит торговлю 24/7 через блокчейн ([пост](https://x.com/AshCrypto/status/2122743272024211550)). @hosseeb о раунде CodexFX: FX на стейблкоинах только начинается ([пост](https://x.com/hosseeb/status/2122736181758792007)).
+**Nvidia без Дженсена Хуанга.** Тема второй день подряд.
+- @Fiskantes: прибавкой к зарплате утечку мозгов не остановить, а Q3 — это заслуга Дженсена двухлетней давности ([пост](https://x.com/Fiskantes/status/2123169279948541990), [пост](https://x.com/Fiskantes/status/2123190806177542192)). @Fiskantes и @arthur0x ретвитнули Билла Акмана о том, что совет директоров не действует в интересах акционеров ([RT](https://x.com/Fiskantes/status/2123167765246980235)).
+- @DegenerateNews: Дуров призвал вернуть Дженсена ([пост](https://x.com/DegenerateNews/status/2123122438493946005)). @Route2FI рассказал про трейд в лонг $NVDA, закрыл на 162,44 ([пост](https://x.com/Route2FI/status/2123102048183079363)).
+
+**Perp DEX: Backpack против Hyperliquid, Pump.fun.**
+- @AshCrypto: Backpack запускает регулируемые CFTC перпы в США ([пост](https://x.com/AshCrypto/status/2123149812505944294)). @DegenerateNews: CEO Backpack назвал коммьюнити HL «самым злым» ([пост](https://x.com/DegenerateNews/status/2123164559976399272)). @DefiIgnas: атаковать Hyperliquid — плохая стратегия, рынок огромный ([пост](https://x.com/DefiIgnas/status/2123109640409932283)). @toly троллит: «DEX #916533 стал конкурентом Uniswap ещё 5 лет назад» ([пост](https://x.com/toly/status/2123089347205587447)).
+- @a1lon9: перп-конкурс Pump.fun на $1M, недельный объём перпов вырос с <$10M до >$250M ([пост](https://x.com/a1lon9/status/2123105930166575280)). @blknoiz06 его поддержал ([пост](https://x.com/blknoiz06/status/2123115509545934939)). Тем временем @lookonchain пишет, что Pump.fun снова продал 33 390 SOL, всего продано 5,65 млн SOL ([пост](https://x.com/lookonchain/status/2123228375099818212)).
+
+**GTA 6 захватила ленту.** @AshCrypto ([пост](https://x.com/AshCrypto/status/2123049290360856805)), @CryptoWendyO ([пост](https://x.com/CryptoWendyO/status/2123237772937027632)), @playmatejaylene ([пост](https://x.com/playmatejaylene/status/2123021005828530511)), @inversebrah, @dcfgod, @LucaNetz. Предупреждение от @CryptoKaleo: не гоняйтесь за GTA-монетами, нарративы на новостях — это рулетка ([пост](https://x.com/CryptoKaleo/status/2123090071364456699)).
 
 ## 2. Горячие темы
-- 🔥 **Взломщик Binance начал отмывать средства.** Из 602 402 ETH (~$1,09B) он вывел 74 880 ETH и меняет их на BTC через THORChain ([lookonchain](https://x.com/lookonchain/status/2122633788127940768)). @zachxbt упрекнул одного из участников дискуссии: крупнейший «пользователь» его продукта — Lazarus Group, которая отмывает деньги с эксплойтов ([пост](https://x.com/zachxbt/status/2122694927281012872)).
-- ⚖️ **@zachxbt против правоохранителей Индии.** По его данным, они заморозили $3M у невиновного китайского инвестора, приняв кросс-чейн мост за «pig butchering» скам. Суд обязал Gate отдать эти средства постороннему человеку ([4,3K лайков](https://x.com/zachxbt/status/2122669479700099192)). Дальше он публично адресовал вопросы властям ([1](https://x.com/zachxbt/status/2122683293405675990), [2](https://x.com/zachxbt/status/2122930489422147685)).
-- 📉 **Распродажа на рынках.** По данным @AshCrypto, с рынка акций США ушло $1 трлн ([пост](https://x.com/AshCrypto/status/2122797605159829887)), с золота и серебра — $550B ([пост](https://x.com/AshCrypto/status/2122877099333882271)). XRP закрыл неделю на минимуме за 2 года, $0,97 ([пост](https://x.com/AshCrypto/status/2122634027312337384)). Evernorth списал около 60% своих XRP ([CryptoWendyO](https://x.com/CryptoWendyO/status/2122706328808464878)).
-- 💸 **Крупные сделки.**
-  - Трейдер, по данным @AshCrypto, открыл шорт BTC на $96M ([пост](https://x.com/AshCrypto/status/2122595716178870666)).
-  - AguilaTrades проиграл все 6 сделок за сутки, минус $2,68M ([lookonchain](https://x.com/lookonchain/status/2122682904652460436)).
-  - Кошельки, связанные с Эриком Ворхисом, за неделю купили 92 052 ETH по средней цене $1 921 ([пост](https://x.com/lookonchain/status/2122878961684463834)).
-  - MARA продолжает продавать BTC ([пост](https://x.com/lookonchain/status/2122896058963661224)).
-- 🚀 **Запуски.** По словам @AshCrypto, Coinbase приносит торговлю криптой и акциями пользователям ChatGPT ([пост](https://x.com/AshCrypto/status/2122702328361021557)). Revolut запускает 4 блокчейн-фонда ([пост](https://x.com/AshCrypto/status/2122675738646372398)). @a1lon9: Pumpfun с августа выплатил $33M «коллерам», теперь на Base до $20K в день ([пост](https://x.com/a1lon9/status/2122760248511635810)).
-- ⚠️ **Безопасность.** 1inch предупреждает о вредоносе DarkSword, который атакует кошельки на необновлённых iPhone ([DegenerateNews](https://x.com/DegenerateNews/status/2122669934635262176)). Coinbase сообщила о дипфейке Маска в фейковой раздаче ([пост](https://x.com/DegenerateNews/status/2122828072588120388)).
+- 🔓 **Отмывание после взлома Binance:** хакер перевёл ещё 78 415 ETH ($142M), потом ещё 137 602 ETH ($248M), меняет через THORChain на BTC (@lookonchain, [пост](https://x.com/lookonchain/status/2122997562877821143), [пост](https://x.com/lookonchain/status/2123315988565471543)).
+- 🚨 **Два эксплойта с разницей в минуты:** ~$3,43M из sBOLD-волта k3_capital (Ethereum) и ~$454K из Reental (Polygon) через admin proxy upgrade (@DegenerateNews, [пост](https://x.com/DegenerateNews/status/2123036971098407040)).
+- 🔐 **Ledger:** вредонос на сайте через Optimizely, жалобы на подменённые устройства из Дубая и Берлина. Ledger утверждает, что в чипе и ОС уязвимости нет (@DegenerateNews, [пост](https://x.com/DegenerateNews/status/2123051571894202469), [пост](https://x.com/DegenerateNews/status/2123124401575022897)).
+- 📉 **$STRC Сейлора ниже 96**, минимум с августа (@AshCrypto, [пост](https://x.com/AshCrypto/status/2123128750909042800); @DegenerateNews, [пост](https://x.com/DegenerateNews/status/2123085758290358626)). @CryptoKaleo считает ретест минимумов MSTR/BTC неизбежным: компания размывает акционеров, чтобы платить дивиденды по STRC ([пост](https://x.com/CryptoKaleo/status/2123206527422976369)).
+- 💥 **Ликвидации:** шесть китов на Hyperliquid потеряли 618 BTC ($38,7M) в диапазоне $63,4–62,1k ([пост](https://x.com/lookonchain/status/2123257156531302619)). AguilaTrades закрыл шорт с +$1,37M и перевернулся в лонг 40x на 1 000 BTC, ликвидация около $59,3k ([пост](https://x.com/lookonchain/status/2123233529429692514)).
+- 🏦 **Новости институционалов:** World Bank вместе с Citi и Circle изучают USDC для платежей ([пост](https://x.com/AshCrypto/status/2122957108794871887)). Альфа-Банк зарегистрирован как криптобиржа ([пост](https://x.com/AshCrypto/status/2123080369478218168)). У Goldman $1,28 млрд в BTC ([пост](https://x.com/AshCrypto/status/2123032041612792127)). XRPL прошёл проверку на соответствие банковским стандартам GL1 ([пост](https://x.com/CryptoWendyO/status/2123068722785193993)). Coinbase запустила спот-маржу до 10x для ECP ([пост](https://x.com/DegenerateNews/status/2123148404393914848)).
+- 😱 **Самый обсуждаемый пост @dcfgod:** цитирует прогноз о «разрушениях уровня Второй мировой» с вероятностью ~60% за 4 года, комментарий: «WHAT?» ([пост](https://x.com/dcfgod/status/2123190175102799913)).
+- 🎭 **Драмы:** @Orangie «самый дорогой сон в моей жизни», ~2 000 лайков ([пост](https://x.com/Orangie/status/2123102692994388432)), потом «за 12 часов многое меняется, начинаю заново» ([пост](https://x.com/Orangie/status/2123138361606996135)). @cobie говорит, что у N3ON нет никакой сделки с Coinbase (@DegenerateNews, [пост](https://x.com/DegenerateNews/status/2122986895097446659)). @MustStopMurad: «Грядёт нечто библейское» ([пост](https://x.com/MustStopMurad/status/2123110858276618599)).
 
 ## 3. Интересное
-- **@DefiIgnas, стейблкоины.** Их предложение упало на ~9% от майского ATH, и ~64% снижения пришлось на Binance (−$17,2B) ([пост](https://x.com/DefiIgnas/status/2122668021605183714)). Его асимметричные ставки — $BP, $TRUE, $FLUID: «переоценка $BP началась» ([пост](https://x.com/DefiIgnas/status/2122641635943288922)). Ещё он замечает, что AI-модели систематически медвежьи к токенам ([пост](https://x.com/DefiIgnas/status/2122711694917120195)).
-- **@toly, контрариански о мемах.** На мемы нельзя «удвоить ставку» через BD, а бондинг-кривая Pump почти оптимальна ([1](https://x.com/toly/status/2122919764167414025), [2](https://x.com/toly/status/2122924465013358661)). Провокация: «99,999% вычислений будут в космосе» ([пост](https://x.com/toly/status/2122922195441856667)).
-- **Temporal бросает вызов лидерам.** CEO Temporal со сцены Breakpoint заявил, что цель — обойти Hyperliquid и Binance ([DegenerateNews](https://x.com/DegenerateNews/status/2122759203580252280)).
-- **Гипотезы @CryptoKaleo.** Robinhood Chain «не мёртв» ([пост](https://x.com/CryptoKaleo/status/2122703642650173641)), $HMM против $MOG: «still early» ([пост](https://x.com/CryptoKaleo/status/2122736063987036478)).
-- **Сделки по UNI.** Кит 0xd0A4 за месяц продал 3,11M UNI ([lookonchain](https://x.com/lookonchain/status/2122903443363016896)), а свежие кошельки выводят UNI и PEPE с бирж ([пост](https://x.com/lookonchain/status/2122671449739780214)).
-- **@choffstein о BlackRock.** BlackRock продвигает portable alpha в обёртке ETF ещё до запуска фонда ([пост](https://x.com/choffstein/status/2122813139582382530)).
-- **@rektdiomedes.** Дневная подборка крипто- и макротем ([пост](https://x.com/rektdiomedes/status/2122854624377938255)), там же вопросы, стоит ли покупать $AERO и $CARDS ([пост](https://x.com/rektdiomedes/status/2122861178154062312)).
-- **Тикеры, которые упоминали 3+ аккаунта:** $NVDA (7 аккаунтов), $BTC (5), $USDT и $USDC (по 3).
+- **$PEARL (PRL), майнинг на AI-GPU: главный спорный тикер дня.** @DefiIgnas пишет о ротации биткоинеров BTC → ZEC → PEARL ([пост](https://x.com/DefiIgnas/status/2123073504249598008)). Он изложил бычий тезис: дата-центры майнят и продают инференс, так что майнерам выгодно токен шиллить ([пост](https://x.com/DefiIgnas/status/2123085413594128794), [пост](https://x.com/DefiIgnas/status/2123087294995308993)). Затем медвежий: за 6 дней намайнено 121,7M токенов (~32% обращения), у команды ~26% ([пост](https://x.com/DefiIgnas/status/2123144646716977168)). По тесту Kairos майнинг снижает AI-выход GPU на 24–48% ([пост](https://x.com/DefiIgnas/status/2123147067682136193)). @hosseeb в лонге $PRL и пишет, где он ликвиднее ([пост](https://x.com/hosseeb/status/2123275177782132803)). @blknoiz06: «how do we feel about pearl bros» ([пост](https://x.com/blknoiz06/status/2123115646473113905)).
+- **@toly о «суверенных деньгах для нормисов»:** смарт-контрактная корзина на всю мировую экономику (Mag7, ANT, SpaceX…) — «мой bitcoin 3.0» ([пост](https://x.com/toly/status/2123072705557938188), [пост](https://x.com/toly/status/2123102118357995529)).
+- **Контртренд по киту:** новый кошелёк вывел с Binance 1,9 трлн PEPE ($7,15M) ([пост](https://x.com/lookonchain/status/2123229538188673195)). Ещё четыре кошелька вывели 13 408 ETH ([пост](https://x.com/lookonchain/status/2123253035371770345)). При этом кошелёк, связанный с Ethereum Foundation, продолжает продавать ETH ([пост](https://x.com/lookonchain/status/2123224324601684020)).
+- **@Route2FI о правиле Pantera** (покупать примерно за 500 дней до халвинга): по нему вход около 1 декабря 2026 ([пост](https://x.com/Route2FI/status/2123129477555421426)). Также @Route2FI называет Stacks бета-ставкой на BTCFi ([пост](https://x.com/Route2FI/status/2123109892558909925)).
+- **@pythianism:** долговой стек, финансирующий AI, уже больше субпрайма 2007 года, а рост ARR у лабораторий замедляется ([пост](https://x.com/pythianism/status/2123105085098246215)).
+- **@choffstein:** BlackRock запускает ETF с portable alpha, посевные $40M ([пост](https://x.com/choffstein/status/2123058870943985922)).
+- **@DefiIgnas о $TRUE:** NFT-сейл по фиксированной цене $0,12 при рыночной $0,18 встроил арбитраж, из-за которого токен упал на 25% ([пост](https://x.com/DefiIgnas/status/2122996917969797144)).
+- **@MustStopMurad снова за SPX6900:** «главное в активе — коммьюнити» ([пост](https://x.com/MustStopMurad/status/2122995888284922105), [пост](https://x.com/MustStopMurad/status/2123076685977501731)). @CryptoKaleo ждёт раннера на Robinhood Chain ([пост](https://x.com/CryptoKaleo/status/2123074739027812564)). @JamesWynnReal шиллит $BOBO ([пост](https://x.com/JamesWynnReal/status/2122964864830218534)).
+- **@rektdiomedes:** «5 вещей, на которых стоит сфокусироваться в 5-летнем медвежьем рынке» ([пост](https://x.com/rektdiomedes/status/2123246262765932974)). @santiagoroel: «всё решает сайзинг» ([пост](https://x.com/santiagoroel/status/2123125709803589643)).
 
-**Без постов за окно:** @0xVonGogh, @Theunipcs. Остальные 42 аккаунта прочитаны полностью: 956 постов, это совпадает со счётчиком X.
+**Без постов за окно:** @rleshner, @0xVonGogh, @AltcoinPsycho, @frankdegods. Счётчик X показал 768 постов за окно (до момента запроса), поиск вернул 757. Расхождение небольшое.
 
 
 ---
+## Посты по аккаунтам (UTC)
 
-## По аккаунтам (окно 2026-11-17 07:27 – 2026-11-18 07:27 UTC)
+### @rektdiomedes — 100
+- 2026-11-19 07:28 [reply] @OldHollowTree Heck of a meadow ser 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123317525006200910) (♥0)
+- 2026-11-19 07:27 [reply] @retardsgonnawin Gm RGW 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123317194457260089) (♥0)
+- 2026-11-19 07:25 [reply] @Eli5defi I think they should have gone with $ANTH or $THROP or something :) — [ссылка](https://x.com/rektdiomedes/status/2123316647440072800) (♥0)
+- 2026-11-19 07:24 [reply] @Ceazor7 First project we ever worked with via @thedailydegenhq - have a soft spot for them too :) — [ссылка](https://x.com/rektdiomedes/status/2123316358733525463) (♥0)
+- 2026-11-19 07:23 [reply] @inversebrah We need a firm bottom frok... https://t.co/mEEcwRrsUV — [ссылка](https://x.com/rektdiomedes/status/2123316230526230891) (♥0)
+- 2026-11-19 07:22 [reply] @bright_125 S-Tier AI video slop ngl... watched it twice all the way through :) — [ссылка](https://x.com/rektdiomedes/status/2123315874144919657) (♥0)
+- 2026-11-19 07:20 [reply] @tervoooo I want my dead alts to ressurect like vampires from the grave and ascend upward with overwhelming haste 🤝 https://t.co/fiijCjk6qA — [ссылка](https://x.com/rektdiomedes/status/2123315405523657089) (♥0)
+- 2026-11-19 07:16 [reply] @SCHIZO_FREQ 5 hours man? I'd sleep like crazy... — [ссылка](https://x.com/rektdiomedes/status/2123314524405288974) (♥0)
+- 2026-11-19 07:15 [reply] @200milxp Milady — [ссылка](https://x.com/rektdiomedes/status/2123314180396577159) (♥0)
+- 2026-11-19 07:14 [reply] @safetyth1rd Strangely enough I've never read the book or seen the movie... which is odd given that I'm a big fan of stuff like LOTR and Star Wars and etc that overlap with Dune fandom a lot... — [ссылка](https://x.com/rektdiomedes/status/2123314027912712552) (♥0)
+- 2026-11-19 07:13 [reply] @0xWenMoon :) — [ссылка](https://x.com/rektdiomedes/status/2123313685099839763) (♥0)
+- 2026-11-19 07:12 [reply] @richardnhsu Is this you in the video ser? — [ссылка](https://x.com/rektdiomedes/status/2123313456820392355) (♥1)
+- 2026-11-19 07:11 [reply] @llamaonthebrink Gud stuff 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123313227119690228) (♥0)
+- 2026-11-19 07:10 [reply] @crypto_linn Gud project that Pendle 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123313013809709088) (♥0)
+- 2026-11-19 06:14 [reply] @crypto_linn Ruthless creatures those linncats... https://t.co/aMEdqsrz7L — [ссылка](https://x.com/rektdiomedes/status/2123298974073565373) (♥1)
+- 2026-11-19 04:40 [reply] @defidave Ahhh - hadn't seen you post about this before, this is genius man... — [ссылка](https://x.com/rektdiomedes/status/2123275262267621670) (♥0)
+- 2026-11-19 04:39 [reply] @Stoiiic https://t.co/FlfWs4dMsa — [ссылка](https://x.com/rektdiomedes/status/2123274933014855876) (♥1)
+- 2026-11-19 04:38 [quote] @koreanjewcrypto Seriously bro 🤝  https://t.co/5JhxeqQX3R — [ссылка](https://x.com/rektdiomedes/status/2123274792547889362) (♥2)
+- 2026-11-19 04:37 [reply] @Xeer Exquites river ser 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123274523638182053) (♥0)
+- 2026-11-19 04:12 [reply] @andrewmoh @aave @Mantle_Official Gud stuff man - Mantle been absolutely killing it on the RWA front 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123268232110911640) (♥1)
+- 2026-11-19 04:12 [retweet] RT @andrewmoh: since the official launch of @aave v3 on @Mantle_Official, only syrupUSDT leaves a mark.  yield-bearing stablecoins have bee… — [ссылка](https://x.com/rektdiomedes/status/2123268166188954019) (♥0)
+- 2026-11-19 04:11 [reply] @Defi_Warhol Gud stuff man 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123267954674737483) (♥0)
+- 2026-11-19 04:11 [retweet] RT @Defi_Warhol: Anthropic $ANT is set to be the biggest AI IPO ever.  Expecting to see record participation numbers.  $1.4T is a crazy val… — [ссылка](https://x.com/rektdiomedes/status/2123267892875518095) (♥0)
+- 2026-11-19 04:10 [reply] @arndxt_xo I am trying to force myself to slurp the dippereeno 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123267527291588690) (♥0)
+- 2026-11-19 04:08 [reply] @FX100Perp Bearish on the Fed.   Bullish on @FX100Perp 💪 — [ссылка](https://x.com/rektdiomedes/status/2123267137397486054) (♥0)
+- 2026-11-19 04:07 [reply] @Axel_bitblaze69 🤝 https://t.co/qKs8gP0fMC — [ссылка](https://x.com/rektdiomedes/status/2123266822615056798) (♥0)
+- 2026-11-19 04:06 [reply] @failuredril556 Yup... everyone fantasizes about the metaphorical zombie apocalypse descending upon us all at once, but a slow slog to Brazillification is much more likely I think... — [ссылка](https://x.com/rektdiomedes/status/2123266642973196394) (♥1)
+- 2026-11-19 04:05 [reply] @Casebradford Tolkien wrote about this :) — [ссылка](https://x.com/rektdiomedes/status/2123266350043087356) (♥0)
+- 2026-11-19 04:04 [reply] @koolkrypto223 Feel like the Fed has just absolutely gone off a credibility cliff man... totally illogical, totally politicized... not sure what that will mean long-term but probably the whole thing j — [ссылка](https://x.com/rektdiomedes/status/2123266261476159801) (♥4)
+- 2026-11-19 04:03 [reply] @phtevenstrong MEZZ-MAXXING 💪💪💪 — [ссылка](https://x.com/rektdiomedes/status/2123265886807277784) (♥1)
+- 2026-11-19 04:00 [reply] @Ceazor7 #7 paint lead figures :) — [ссылка](https://x.com/rektdiomedes/status/2123265229026984336) (♥1)
+- 2026-11-19 04:00 [retweet] RT @Ceazor7: WHolesome goodness. sound advice. — [ссылка](https://x.com/rektdiomedes/status/2123265202229760179) (♥0)
+- 2026-11-19 04:00 [reply] @richardnhsu 100% man and thank you🤝 — [ссылка](https://x.com/rektdiomedes/status/2123265141449896263) (♥1)
+- 2026-11-19 04:00 [retweet] RT @richardnhsu: Great read imo.  Expense control is huge for investors/builders.  Allows us to build wealth and take more calculated risk… — [ссылка](https://x.com/rektdiomedes/status/2123265063805161611) (♥0)
+- 2026-11-19 03:31 [retweet] RT @pravijn: every day this app gives me existential dread and anxiety and rektdiomedes calms me down — [ссылка](https://x.com/rektdiomedes/status/2123257931588071543) (♥0)
+- 2026-11-19 03:31 [reply] @pravijn Lol ha! Best compliment I've received in a long time ser 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123257922444525703) (♥1)
+- 2026-11-19 03:30 [reply] @QuotableCrypto Forgot #7...   Follow @QuotableCrypto   :) — [ссылка](https://x.com/rektdiomedes/status/2123257623558418790) (♥2)
+- 2026-11-19 03:30 [retweet] RT @QuotableCrypto: 💪🏻 5-point permabulltard bear market blueprint linked below, courtesy of the mighty @rektdiomedes ... https://t.co/Wm97… — [ссылка](https://x.com/rektdiomedes/status/2123257488107766184) (♥0)
+- 2026-11-19 03:29 [reply] @0xalank :) https://t.co/szRV1cjrTA — [ссылка](https://x.com/rektdiomedes/status/2123257421426577851) (♥1)
+- 2026-11-19 03:29 [reply] @kenodnb Thank you Keno - I hope not either :) — [ссылка](https://x.com/rektdiomedes/status/2123257292334260633) (♥3)
+- 2026-11-19 03:29 [reply] @0xCheeezzyyyy 👑🧀 — [ссылка](https://x.com/rektdiomedes/status/2123257222276759888) (♥2)
+- 2026-11-19 03:28 [reply] @CryptMoose_ I sincerely hope not my dear Moose :) — [ссылка](https://x.com/rektdiomedes/status/2123257140379050374) (♥3)
+- 2026-11-19 02:45 [original] --- 5 Things To Focus On In The Coming '5 Year Bear Market' ---  Alright lads... let's say this bear market is the 'new normal'- as I keep seeing on the TL- and we really do have five brutal years ahe — [ссылка](https://x.com/rektdiomedes/status/2123246262765932974) (♥102)
+- 2026-11-18 23:44 [reply] @inversebrah https://t.co/X7DPZ5xtEZ — [ссылка](https://x.com/rektdiomedes/status/2123200645029044269) (♥3)
+- 2026-11-18 23:43 [reply] @thegreatdane269 My beloved foid and I 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123200493937635405) (♥0)
+- 2026-11-18 23:41 [reply] @AnonNgmi Beautiful man - love it 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123199931133432224) (♥0)
+- 2026-11-18 23:41 [retweet] RT @AnonNgmi: Chill hike amazing views https://t.co/6mENL5Whi2 — [ссылка](https://x.com/rektdiomedes/status/2123199890649944292) (♥0)
+- 2026-11-18 23:40 [reply] @thedefivillain Dude... pretty sure $ETH is higher vs ATH than silver is... is wild... — [ссылка](https://x.com/rektdiomedes/status/2123199669907960039) (♥2)
+- 2026-11-18 23:38 [reply] @protocol_fx 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123199250540404835) (♥1)
+- 2026-11-18 23:37 [reply] @crypto_linn @palis This — [ссылка](https://x.com/rektdiomedes/status/2123198862836027892) (♥2)
+- 2026-11-18 23:37 [reply] @palis Honestly almost feels more bleak now than it did in 2022 or 2023... — [ссылка](https://x.com/rektdiomedes/status/2123198831793770673) (♥3)
+- 2026-11-18 23:36 [reply] @ratwell Think its the whole 'front porch to backyard' phenomenon... we have spent the last 60 years destroying society and making it more and more low-trust and less and less cohesive, forcing people — [ссылка](https://x.com/rektdiomedes/status/2123198696917504360) (♥2)
+- 2026-11-18 23:32 [reply] @DeFi_Dad It seems to be some political thing man... who knows the actual reasoning or backstory but it seems like some segment of the government or Trump admin tried to push him out... is really weir — [ссылка](https://x.com/rektdiomedes/status/2123197682860618175) (♥0)
+- 2026-11-18 23:29 [quote] @Usoppu We highlight all the sub-10k accounts we include in the tweets for @thedailydegenhq - lot of gems to be found there imho :)  For instance @Meta_Mark_ today:  https://t.co/6YHauHUdqd — [ссылка](https://x.com/rektdiomedes/status/2123196938019619017) (♥2)
+- 2026-11-18 23:27 [reply] @patfscott Yeah the grinding middle tends to be the worst case scenario in all realms to my mind... both economic and political and etc...  Like I either want prosperity or acceleration... but the slo — [ссылка](https://x.com/rektdiomedes/status/2123196461714375166) (♥4)
+- 2026-11-18 23:25 [reply] @crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol Gm :) https://t.co/WrhIs1KU6G — [ссылка](https://x.com/rektdiomedes/status/2123195934708580846) (♥2)
+- 2026-11-18 23:24 [reply] @Ceazor7 Lezgo Ceazor 💪 — [ссылка](https://x.com/rektdiomedes/status/2123195713181868150) (♥1)
+- 2026-11-18 23:24 [reply] @MetaCvx 💪 — [ссылка](https://x.com/rektdiomedes/status/2123195588040941679) (♥1)
+- 2026-11-18 23:23 [reply] @hooeem Anyway man I basically just picture you as a twenty-something version of this :) https://t.co/zFE2LiOKxf — [ссылка](https://x.com/rektdiomedes/status/2123195475155116297) (♥2)
+- 2026-11-18 23:22 [reply] @hooeem Think they're all good but the nose looks kind of weird on Yes A...   But yeah 30 is basically like age 21 nowadays man, you can still use any PFP you want in my book :) — [ссылка](https://x.com/rektdiomedes/status/2123195285069562183) (♥1)
+- 2026-11-18 23:20 [reply] @Usoppu Wholesome brother 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123194657324839078) (♥1)
+- 2026-11-18 23:19 [reply] @patfscott Killing it man 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123194418551279765) (♥1)
+- 2026-11-18 23:15 [reply] @patfscott https://t.co/t2GRQqmCFz — [ссылка](https://x.com/rektdiomedes/status/2123193370952781885) (♥3)
+- 2026-11-18 23:14 [reply] @0xTindorr Yup, especially in the next few years with AI making everything so fluid/chaotic, I think keeping expenses low is the wisest thing any of us can do... — [ссылка](https://x.com/rektdiomedes/status/2123193272071844219) (♥1)
+- 2026-11-18 23:14 [reply] @0xSalazar CoinGecko story quite wholesome... glad those guys got a nice exit in the end 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123193077443551341) (♥1)
+- 2026-11-18 23:13 [retweet] RT @0xSalazar: Breaking news from yesterday   - Solana Foundation bought a majority stake in CoinGecko  - Hong Kong and SWIFT are testing t… — [ссылка](https://x.com/rektdiomedes/status/2123193010309795895) (♥0)
+- 2026-11-18 23:13 [reply] @joshthedoyen Glad to be mutuals with you ser :) — [ссылка](https://x.com/rektdiomedes/status/2123192919003705462) (♥1)
+- 2026-11-18 23:10 [reply] @zariat You are rapidly becoming my favorite food blogger ser :) — [ссылка](https://x.com/rektdiomedes/status/2123192266139287901) (♥1)
+- 2026-11-18 23:10 [reply] @Only1temmy Amen to that man :)  And yup, honestly think the best thing one can do in periods like this is just really keep one's eyes peeled for the 'next big thing' that's about to explode...  The n — [ссылка](https://x.com/rektdiomedes/status/2123192155967737970) (♥0)
+- 2026-11-18 23:09 [retweet] RT @Only1temmy: i think one of the coolest things about crypto is that missing one opportunity doesn't mean you've missed your chance.  you… — [ссылка](https://x.com/rektdiomedes/status/2123191968414966048) (♥0)
+- 2026-11-18 23:08 [reply] @lampropeltis_ @FX100Perp Lezgo Lampro 💪 — [ссылка](https://x.com/rektdiomedes/status/2123191582992302416) (♥1)
+- 2026-11-18 23:08 [retweet] RT @lampropeltis_: Today's FOMC minutes gave traders hoping for a softer Fed little to work with 🏦  A December hike was already widely expe… — [ссылка](https://x.com/rektdiomedes/status/2123191541749465479) (♥0)
+- 2026-11-18 23:07 [reply] @Route2FI Very easy to see why 'van life' has become so popular man...   If I was 24 and single I'd totally do it rather than the 'normal' path of some office job and overpriced apartment... — [ссылка](https://x.com/rektdiomedes/status/2123191482597392678) (♥4)
+- 2026-11-18 23:06 [reply] @0xbags :) — [ссылка](https://x.com/rektdiomedes/status/2123191081164476889) (♥1)
+- 2026-11-18 23:05 [reply] @Picolas_Caged Hope your kiddo bounces back man... sending prayers/energy 💪🙏 — [ссылка](https://x.com/rektdiomedes/status/2123190985412788687) (♥0)
+- 2026-11-18 23:04 [reply] @Nomaticcap Me too brother :) https://t.co/cW4oBpfNTj — [ссылка](https://x.com/rektdiomedes/status/2123190749533770161) (♥4)
+- 2026-11-18 23:04 [retweet] RT @Nomaticcap: "I still like ETH" https://t.co/KLfeJ9kCjl — [ссылка](https://x.com/rektdiomedes/status/2123190578636800252) (♥0)
+- 2026-11-18 23:01 [reply] @FIREDxyz Thank you bro 💪 — [ссылка](https://x.com/rektdiomedes/status/2123189990784106938) (♥1)
+- 2026-11-18 23:01 [reply] @crypto_linn Lol — [ссылка](https://x.com/rektdiomedes/status/2123189834881941947) (♥1)
+- 2026-11-18 23:00 [reply] @sodnjm @0xadriandefi Wassie pizza :) — [ссылка](https://x.com/rektdiomedes/status/2123189632196096508) (♥1)
+- 2026-11-18 22:59 [reply] @the_smart_ape Issa gud question man - we shall see :) — [ссылка](https://x.com/rektdiomedes/status/2123189438125609181) (♥0)
+- 2026-11-18 22:56 [reply] @schizoxbt @QuotableCrypto Schizo! Sounds great brother! 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123188647075741820) (♥2)
+- 2026-11-18 22:55 [reply] @thelearningpill Gud stuff Pill 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123188483342717116) (♥0)
+- 2026-11-18 22:55 [reply] @CryptoISFreedom Yup, all well said man 🤝 — [ссылка](https://x.com/rektdiomedes/status/2123188265624723597) (♥1)
+- 2026-11-18 21:47 [reply] @thedailydegenhq @Meta_Mark_ Gud work Frog! — [ссылка](https://x.com/rektdiomedes/status/2123171195596239115) (♥3)
+- 2026-11-18 21:47 [retweet] RT @thedailydegenhq: The Daily Degen - Wednesday, November 18th, 2026  Stakes, Crashes, Tickers, Alfa, Macro, Videos, + New Projects! + $BT… — [ссылка](https://x.com/rektdiomedes/status/2123171175715020826) (♥0)
+- 2026-11-18 21:35 [reply] @0xCheeezzyyyy @Mantle_Official Beautiful work Cheezy! We like ze Mantle! — [ссылка](https://x.com/rektdiomedes/status/2123168159360331777) (♥2)
+- 2026-11-18 21:35 [retweet] RT @0xCheeezzyyyy: 1/ As the industry matures, the next winners in RWA are those capable of transforming them into accessible, liquid &amp; cap… — [ссылка](https://x.com/rektdiomedes/status/2123168120869392785) (♥0)
+- 2026-11-18 08:46 [reply] @mezzanine_fi Lezgo 💪 — [ссылка](https://x.com/rektdiomedes/status/2122974674045014258) (♥0)
+- 2026-11-18 08:45 [reply] @QuotableCrypto @schizoxbt Miss that good schizo :) — [ссылка](https://x.com/rektdiomedes/status/2122974426585080069) (♥2)
+- 2026-11-18 08:44 [reply] @retardsgonnawin Gm brother :) — [ссылка](https://x.com/rektdiomedes/status/2122974296826069118) (♥2)
+- 2026-11-18 08:44 [reply] @alpha_pls Bleak conditions man but I think we are within sight of an inflection point... — [ссылка](https://x.com/rektdiomedes/status/2122974236654584012) (♥2)
+- 2026-11-18 08:43 [quote] @celestineia 100% 🤝  https://t.co/eWyAhmdfyn — [ссылка](https://x.com/rektdiomedes/status/2122974005095522527) (♥0)
+- 2026-11-18 08:41 [reply] @DAdvisoor We like the $fxUSD :) https://t.co/E7WJfU7zLH — [ссылка](https://x.com/rektdiomedes/status/2122973519042809934) (♥0)
+- 2026-11-18 08:41 [retweet] RT @DAdvisoor: Respect! — [ссылка](https://x.com/rektdiomedes/status/2122973363383746781) (♥0)
+- 2026-11-18 08:40 [reply] @roobzey https://t.co/nzJg3JWdLz — [ссылка](https://x.com/rektdiomedes/status/2122973106562343235) (♥6)
+- 2026-11-18 08:39 [reply] @0xTindorr Hope you bounce back hard brother 💪 — [ссылка](https://x.com/rektdiomedes/status/2122972884654326129) (♥2)
+- 2026-11-18 08:38 [reply] @phtevenstrong Wholesome man...  Always love these as they remind me of when I was a kid and my parents got us a bunch of banties :)  I'd have to go get the eggs... and they were all so goofy... and t — [ссылка](https://x.com/rektdiomedes/status/2122972681503146011) (♥2)
+- 2026-11-18 08:35 [reply] @crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol https://t.co/102FweHfiv — [ссылка](https://x.com/rektdiomedes/status/2122972017716793709) (♥4)
+- 2026-11-18 08:31 [reply] @FX100Perp Lezgo 💪 — [ссылка](https://x.com/rektdiomedes/status/2122971041043546521) (♥0)
 
-| Аккаунт | Постов | Ориг. | Цитат | Ответов | Репостов |
-|---|---|---|---|---|---|
-| @hosseeb | 17 | 2 | 2 | 9 | 4 |
-| @tomhschmidt | 2 | 1 | 0 | 0 | 1 |
-| @QwQiao | 2 | 1 | 0 | 0 | 1 |
-| @lmrankhan | 4 | 0 | 1 | 3 | 0 |
-| @arthur0x | 3 | 0 | 1 | 1 | 1 |
-| @pythianism | 1 | 1 | 0 | 0 | 0 |
-| @ZeMariaMacedo | 1 | 1 | 0 | 0 | 0 |
-| @Fiskantes | 5 | 0 | 1 | 2 | 2 |
-| @santiagoroel | 3 | 0 | 0 | 3 | 0 |
-| @EvgenyGaevoy | 2 | 0 | 1 | 1 | 0 |
-| @gametheorizing | 2 | 0 | 0 | 2 | 0 |
-| @tarunchitra | 6 | 0 | 4 | 0 | 2 |
-| @choffstein | 15 | 3 | 0 | 12 | 0 |
-| @toly | 91 | 4 | 48 | 19 | 20 |
-| @a1lon9 | 15 | 0 | 1 | 5 | 9 |
-| @rleshner | 4 | 0 | 0 | 0 | 4 |
-| @LucaNetz | 3 | 0 | 1 | 2 | 0 |
-| @hansolar21 | 4 | 0 | 3 | 1 | 0 |
-| @DefiIgnas | 23 | 4 | 5 | 12 | 2 |
-| @dcfgod | 2 | 0 | 0 | 0 | 2 |
-| @rektdiomedes | 72 | 1 | 9 | 49 | 13 |
-| @Route2FI | 6 | 3 | 0 | 2 | 1 |
-| @0xSammy | 28 | 0 | 0 | 25 | 3 |
-| @zeuuss_01 | 1 | 0 | 1 | 0 | 0 |
-| @CryptoInsightsX | 7 | 2 | 1 | 3 | 1 |
-| @andrewtalksdefi | 105 | 2 | 0 | 102 | 1 |
-| @lookonchain | 12 | 11 | 1 | 0 | 0 |
-| @zachxbt | 28 | 1 | 5 | 22 | 0 |
-| @DegenerateNews | 21 | 19 | 2 | 0 | 0 |
-| @blknoiz06 | 88 | 9 | 7 | 37 | 35 |
-| @MustStopMurad | 9 | 6 | 0 | 1 | 2 |
-| @Orangie | 5 | 2 | 1 | 2 | 0 |
-| @0xVonGogh | 0 | 0 | 0 | 0 | 0 |
-| @Theunipcs | 0 | 0 | 0 | 0 | 0 |
-| @NotChaseColeman | 4 | 0 | 0 | 0 | 4 |
-| @JamesWynnReal | 66 | 22 | 13 | 23 | 8 |
-| @AltcoinPsycho | 2 | 0 | 0 | 1 | 1 |
-| @AshCrypto | 16 | 13 | 1 | 2 | 0 |
-| @frankdegods | 7 | 1 | 0 | 6 | 0 |
-| @CryptoKaleo | 30 | 4 | 7 | 16 | 3 |
-| @inversebrah | 93 | 16 | 22 | 7 | 48 |
-| @CryptoWendyO | 64 | 7 | 7 | 50 | 0 |
-| @playmatejaylene | 74 | 4 | 2 | 66 | 2 |
-| @bon_g | 13 | 3 | 1 | 9 | 0 |
+### @inversebrah — 86
+- 2026-11-19 07:12 [reply] @veH0rny its great to see ur worldview finally right'd  u haz much to lern  tomorrow — [ссылка](https://x.com/inversebrah/status/2123313573778911702) (♥4)
+- 2026-11-19 06:20 [original] lore https://t.co/SgHTE2Lj89 — [ссылка](https://x.com/inversebrah/status/2123300296470462498) (♥22)
+- 2026-11-19 05:56 [quote] https://t.co/WdvDBSq2Ab https://t.co/WN4Te4GMU8 — [ссылка](https://x.com/inversebrah/status/2123294281821810880) (♥39)
+- 2026-11-19 05:16 [original] popular pipl in the news  mid q4 2026, original colors https://t.co/49YwtWZqrm — [ссылка](https://x.com/inversebrah/status/2123284371524501735) (♥38)
+- 2026-11-19 04:55 [original] tl mood snippet https://t.co/HBnVOPIyaj — [ссылка](https://x.com/inversebrah/status/2123279090467918306) (♥20)
+- 2026-11-19 04:54 [retweet] RT @tervoooo: So what do you guys want for Christmas? Genuine wholeheartedly sincere answers only — [ссылка](https://x.com/inversebrah/status/2123278738247061945) (♥0)
+- 2026-11-19 04:35 [original] a base case scenario   and where to find it https://t.co/LysCWmVwjs — [ссылка](https://x.com/inversebrah/status/2123274009098015095) (♥17)
+- 2026-11-19 04:29 [original] questions asked, observations shared  q4 2026 https://t.co/ALvnHSsNE3 — [ссылка](https://x.com/inversebrah/status/2123272311419843044) (♥7)
+- 2026-11-19 04:26 [original] a very dense tl snippet ^-^ https://t.co/4mjCOfvwYo — [ссылка](https://x.com/inversebrah/status/2123271635805626475) (♥12)
+- 2026-11-19 04:24 [original] https://t.co/uRYIwOpLbK — [ссылка](https://x.com/inversebrah/status/2123271245055787312) (♥158)
+- 2026-11-19 04:14 [retweet] RT @based16z: https://t.co/qZ1zZwxf1K — [ссылка](https://x.com/inversebrah/status/2123268619429945613) (♥0)
+- 2026-11-19 04:09 [quote] https://t.co/bS01nAZPm9 https://t.co/PhtEAowXG2 — [ссылка](https://x.com/inversebrah/status/2123267473915228474) (♥52)
+- 2026-11-19 04:04 [quote] https://t.co/jF7wsTdVGV https://t.co/YnmcpbIJkh — [ссылка](https://x.com/inversebrah/status/2123266251598569961) (♥33)
+- 2026-11-19 03:20 [retweet] RT @gainzy222: Do you own $pearl ? — [ссылка](https://x.com/inversebrah/status/2123255123153691088) (♥0)
+- 2026-11-19 03:20 [retweet] RT @roobzey: @inversebrah we're creating trading from first principles — [ссылка](https://x.com/inversebrah/status/2123254978680868984) (♥0)
+- 2026-11-19 03:20 [original] underappreciated gigabanger 💀  smolchained https://t.co/ZqxWga14l4 — [ссылка](https://x.com/inversebrah/status/2123254955683492147) (♥104)
+- 2026-11-19 03:18 [retweet] RT @poordart: @inversebrah Only the people (still) here now are tired of it  In 6-18 months there'll be new retards to follow the same scam… — [ссылка](https://x.com/inversebrah/status/2123254596852412524) (♥0)
+- 2026-11-19 03:17 [reply] @frizzaud not frok D:&lt; — [ссылка](https://x.com/inversebrah/status/2123254325694886299) (♥2)
+- 2026-11-19 03:17 [reply] @vydamo_ not a frok fyi :3 — [ссылка](https://x.com/inversebrah/status/2123254273178054831) (♥2)
+- 2026-11-19 03:16 [retweet] RT @GrindingPoet: @pissed can i come on the 4th episode and we do nothing but talk about a million ways to torture smolting? — [ссылка](https://x.com/inversebrah/status/2123253980935729315) (♥0)
+- 2026-11-19 03:15 [original] is smolting in danger https://t.co/6vB24ZOdla — [ссылка](https://x.com/inversebrah/status/2123253844369166719) (♥36)
+- 2026-11-19 00:52 [quote] https://t.co/78a8EUPc6j https://t.co/qv6JEh5WWL — [ссылка](https://x.com/inversebrah/status/2123217891122389417) (♥74)
+- 2026-11-19 00:38 [quote] an offer was made https://t.co/Pz0HP9iIIO — [ссылка](https://x.com/inversebrah/status/2123214384365531513) (♥23)
+- 2026-11-19 00:36 [quote] https://t.co/Xsr6lwMfeA https://t.co/j1C5Dqb8yw — [ссылка](https://x.com/inversebrah/status/2123213803139801123) (♥33)
+- 2026-11-19 00:23 [retweet] RT @inversebrah: underappreciated gigabanger   smolchained https://t.co/wd108uIblh — [ссылка](https://x.com/inversebrah/status/2123210479111987439) (♥0)
+- 2026-11-19 00:22 [retweet] RT @inversebrah: tis be the job https://t.co/JhC7bIFNiD — [ссылка](https://x.com/inversebrah/status/2123210301235716439) (♥0)
+- 2026-11-19 00:18 [retweet] RT @sixfIash: I'm really proud of my art and I want people to see it. It would mean the world if you minted it too but I also just want peo… — [ссылка](https://x.com/inversebrah/status/2123209136330653964) (♥0)
+- 2026-11-19 00:17 [retweet] RT @wassie: track the smolting plushie infestation here 👇  https://t.co/IOjGUUXqD3 https://t.co/rbxMS4aWmu — [ссылка](https://x.com/inversebrah/status/2123208987277775018) (♥0)
+- 2026-11-19 00:16 [original] deres dat https://t.co/rcupnxqf8N — [ссылка](https://x.com/inversebrah/status/2123208647446872402) (♥53)
+- 2026-11-19 00:14 [retweet] RT @cointradernik: Today will mark 14 consecutive daily lower highs for BTC (the all time record)  When will it break? — [ссылка](https://x.com/inversebrah/status/2123208349886070864) (♥0)
+- 2026-11-19 00:13 [quote] imajin  the smell https://t.co/qiHt3Opyec — [ссылка](https://x.com/inversebrah/status/2123207889301258270) (♥54)
+- 2026-11-19 00:11 [retweet] RT @cb_doge: Here's Elon Musk's full interview at DealBook Summit today:  0:00 Opening Remarks 0:31 Jensen Huang Situation 2:44 Jensen Like… — [ссылка](https://x.com/inversebrah/status/2123207471909278079) (♥0)
+- 2026-11-19 00:09 [original] dere https://t.co/dvdksMyXcT — [ссылка](https://x.com/inversebrah/status/2123207107411591211) (♥63)
+- 2026-11-19 00:08 [retweet] RT @inversebrah: @bronbroncore even in dethly peril  smoltings hair is inpeccable   fyi — [ссылка](https://x.com/inversebrah/status/2123206789395255413) (♥0)
+- 2026-11-19 00:08 [reply] @MINHxDYNASTY wats the concern — [ссылка](https://x.com/inversebrah/status/2123206707212079584) (♥8)
+- 2026-11-19 00:07 [original] a ratio observed, smolchained https://t.co/TpLu8urI03 — [ссылка](https://x.com/inversebrah/status/2123206517642105059) (♥92)
+- 2026-11-19 00:02 [original] https://t.co/VXpY6hPOv4 — [ссылка](https://x.com/inversebrah/status/2123205144838025648) (♥21)
+- 2026-11-18 23:35 [retweet] RT @Nairobi00000: $9,900 away from target funds needed. Appreciate all the help you guys did for my nephew. ✨ — [ссылка](https://x.com/inversebrah/status/2123198391274590248) (♥0)
+- 2026-11-18 23:35 [retweet] RT @Nairobi00000: Few days left before minting ends. 💖 — [ссылка](https://x.com/inversebrah/status/2123198377118843043) (♥0)
+- 2026-11-18 23:35 [retweet] RT @Nairobi00000: We are raising raising $15,000 for @HeartOfMitchiko due to the result of cardiac catheter, his surgery needs to be transf… — [ссылка](https://x.com/inversebrah/status/2123198339454013656) (♥0)
+- 2026-11-18 23:32 [retweet] RT @guysiamnobody: @inversebrah Max power with a bowl of oil, have fun lmwo https://t.co/30YjxbestS — [ссылка](https://x.com/inversebrah/status/2123197767195783279) (♥0)
+- 2026-11-18 23:26 [quote] todays snapshot https://t.co/e8ySnEaCRh https://t.co/rDb52X9wRX — [ссылка](https://x.com/inversebrah/status/2123196187599941716) (♥55)
+- 2026-11-18 23:24 [retweet] RT @inversebrah: todays snapshot   . https://t.co/N9kkGbRLlA — [ссылка](https://x.com/inversebrah/status/2123195609930952969) (♥0)
+- 2026-11-18 23:23 [quote] https://t.co/vLoz3uIw7B https://t.co/ic1Lt11d3A — [ссылка](https://x.com/inversebrah/status/2123195434789412924) (♥35)
+- 2026-11-18 23:21 [quote] r dose the same pipl https://t.co/UnD9LpDbcy — [ссылка](https://x.com/inversebrah/status/2123194878301724987) (♥101)
+- 2026-11-18 23:20 [retweet] RT @WazzCrypto: Company that scraped the entire internet to train its superintelligent model is suddenly very concerned about what its user… — [ссылка](https://x.com/inversebrah/status/2123194598277460418) (♥0)
+- 2026-11-18 23:18 [quote] quotes and replies https://t.co/NRLgYBHzGA https://t.co/u853JKJmpR — [ссылка](https://x.com/inversebrah/status/2123194249789456810) (♥53)
+- 2026-11-18 23:15 [quote] discuss https://t.co/5kW40HU1lq — [ссылка](https://x.com/inversebrah/status/2123193407640355108) (♥41)
+- 2026-11-18 23:13 [quote] https://t.co/Ec2BLFcW3v https://t.co/RpGv6doCtP — [ссылка](https://x.com/inversebrah/status/2123192980282736846) (♥129)
+- 2026-11-18 23:12 [original] https://t.co/nOLabnjruL — [ссылка](https://x.com/inversebrah/status/2123192658546114988) (♥63)
+- 2026-11-18 23:07 [original] WERE JUST EARLY  AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA https://t.co/H1z1L2Lb52 — [ссылка](https://x.com/inversebrah/status/2123191271649051040) (♥79)
+- 2026-11-18 23:05 [retweet] RT @Oncha1nd: @TR3VORL4WR3NCE Dawg I promise you no one knows what you’re referring to. — [ссылка](https://x.com/inversebrah/status/2123190820153258047) (♥0)
+- 2026-11-18 23:04 [retweet] RT @rektmando: we have seen this before... — [ссылка](https://x.com/inversebrah/status/2123190602166894775) (♥0)
+- 2026-11-18 22:59 [reply] @huripoo tis be how tings r   its business — [ссылка](https://x.com/inversebrah/status/2123189333104709808) (♥11)
+- 2026-11-18 22:57 [reply] @LordEmo oh?? — [ссылка](https://x.com/inversebrah/status/2123188826420183532) (♥7)
+- 2026-11-18 22:51 [original] if btc goes to $40k while everyone plays gta  did it even happen — [ссылка](https://x.com/inversebrah/status/2123187388172444019) (♥325)
+- 2026-11-18 22:48 [quote] deres nothing wrong dere https://t.co/roTWEOgwrG — [ссылка](https://x.com/inversebrah/status/2123186657952448652) (♥63)
+- 2026-11-18 22:45 [quote] quotes and replies https://t.co/ZVptzaIlcg — [ссылка](https://x.com/inversebrah/status/2123185983072174569) (♥93)
+- 2026-11-18 22:26 [original] ._ . https://t.co/hHc9h8m1Nx — [ссылка](https://x.com/inversebrah/status/2123180976318955858) (♥51)
+- 2026-11-18 22:23 [quote] all dem poos from dem streets now finally can relocate to previously pooless areas https://t.co/GtOXkTB58q — [ссылка](https://x.com/inversebrah/status/2123180243754312151) (♥66)
+- 2026-11-18 22:19 [original] u just wait  or someting https://t.co/lUBXXP7pnN — [ссылка](https://x.com/inversebrah/status/2123179352905109526) (♥122)
+- 2026-11-18 22:05 [reply] @bronbroncore even in dethly peril  smoltings hair is inpeccable   fyi — [ссылка](https://x.com/inversebrah/status/2123175875818709372) (♥21)
+- 2026-11-18 22:05 [retweet] RT @bronbroncore: @inversebrah *baits smolting with treat* https://t.co/MMuGqsMVaw — [ссылка](https://x.com/inversebrah/status/2123175738484613386) (♥0)
+- 2026-11-18 21:41 [reply] @bronbroncore STREAM EEEEEET https://t.co/WHJITvyPkx — [ссылка](https://x.com/inversebrah/status/2123169701924831365) (♥12)
+- 2026-11-18 21:28 [retweet] RT @cobie: Pump btc ? — [ссылка](https://x.com/inversebrah/status/2123166430111973768) (♥0)
+- 2026-11-18 21:18 [retweet] RT @WatcherGuru: JUST IN: Anthropic to IPO tomorrow at $83 per share, valuing the company at $1.5 trillion, Bloomberg reports. — [ссылка](https://x.com/inversebrah/status/2123163860870001015) (♥0)
+- 2026-11-18 21:17 [original] on topic tweets  opposing views make a market tbw https://t.co/GFEn7Jp0O0 — [ссылка](https://x.com/inversebrah/status/2123163691722088602) (♥20)
+- 2026-11-18 21:14 [quote] 10k lieks in 3 hours https://t.co/kOC9iSf8e9 — [ссылка](https://x.com/inversebrah/status/2123163004909056492) (♥106)
+- 2026-11-18 21:13 [retweet] RT @ThinkingBitmex: So the German government may bottom sell another 40,000 $BTC? — [ссылка](https://x.com/inversebrah/status/2123162670438490433) (♥0)
+- 2026-11-18 21:08 [reply] @Taobrah @warobusiness smolting disqualified :&lt; — [ссылка](https://x.com/inversebrah/status/2123161361694040187) (♥4)
+- 2026-11-18 21:07 [reply] @warobusiness *purrs* — [ссылка](https://x.com/inversebrah/status/2123161301191172264) (♥4)
+- 2026-11-18 21:07 [original] final rainbow level for chinese cat been reachd fyi https://t.co/82Hpzkt8Z7 — [ссылка](https://x.com/inversebrah/status/2123161243372707962) (♥253)
+- 2026-11-18 21:05 [reply] @warobusiness does it haz to be hooman or — [ссылка](https://x.com/inversebrah/status/2123160646187688074) (♥6)
+- 2026-11-18 21:02 [retweet] RT @inversebrah: listen and share :3 https://t.co/Wix2AzdRgZ — [ссылка](https://x.com/inversebrah/status/2123159959068397750) (♥0)
+- 2026-11-18 21:01 [quote] debate https://t.co/DqYuvJYCc5 — [ссылка](https://x.com/inversebrah/status/2123159737038729517) (♥19)
+- 2026-11-18 21:00 [quote] ys dis date past smolting lyfspan wtf :C https://t.co/tryJxpS2mx — [ссылка](https://x.com/inversebrah/status/2123159364433523132) (♥19)
+- 2026-11-18 20:58 [quote] to practice and be prepared or  discuss https://t.co/CqpaoYAdYO — [ссылка](https://x.com/inversebrah/status/2123158994491711855) (♥24)
+- 2026-11-18 20:25 [quote] dis rn is either le second cheek formin  or its not le bottom 💀 https://t.co/xTsI1AMaXI — [ссылка](https://x.com/inversebrah/status/2123150590104723904) (♥91)
+- 2026-11-18 10:14 [reply] @n0miraclehere https://t.co/hzFhlEPNon — [ссылка](https://x.com/inversebrah/status/2122996950421348646) (♥3)
+- 2026-11-18 10:14 [retweet] RT @0xHebee: @inversebrah https://t.co/ppoe2Wi4Yu — [ссылка](https://x.com/inversebrah/status/2122996787208417297) (♥0)
+- 2026-11-18 10:12 [quote] todays snapshot   . https://t.co/N9kkGbRLlA https://t.co/3kKKQpyvvy — [ссылка](https://x.com/inversebrah/status/2122996451668271308) (♥174)
+- 2026-11-18 10:08 [quote] ._ . https://t.co/IRKpFFphga — [ссылка](https://x.com/inversebrah/status/2122995431118618970) (♥19)
+- 2026-11-18 10:08 [quote] https://t.co/HSZqHgoIU6 https://t.co/wzNENnIncS — [ссылка](https://x.com/inversebrah/status/2122995346192400667) (♥87)
+- 2026-11-18 10:04 [quote] discuss https://t.co/dsMn1I4uNz — [ссылка](https://x.com/inversebrah/status/2122994403627401708) (♥24)
+- 2026-11-18 10:00 [retweet] RT @blancxbt: i have 1 free invitation in bittex’s paid group if anyone is interested reply with “fuck notsu” and i will select one winner — [ссылка](https://x.com/inversebrah/status/2122993220661723605) (♥0)
+- 2026-11-18 09:53 [original] at least we still haz dat https://t.co/dgz9sRTKNO — [ссылка](https://x.com/inversebrah/status/2122991535839130094) (♥141)
 
-### Топ-посты по аккаунтам (по лайкам, без репостов)
+### @andrewtalksdefi — 76
+- 2026-11-19 07:29 [reply] @Phantomx2y @tatsu_nyc Morning champ — [ссылка](https://x.com/andrewtalksdefi/status/2123317739846602888) (♥0)
+- 2026-11-19 07:29 [reply] @Shrmurda Happy international men’s day — [ссылка](https://x.com/andrewtalksdefi/status/2123317613212344588) (♥0)
+- 2026-11-19 07:28 [reply] @9FStudioArt Gm, happy Thursday — [ссылка](https://x.com/andrewtalksdefi/status/2123317509470269819) (♥0)
+- 2026-11-19 07:28 [reply] @ZeoWeb3 @rarelistio Good morning Zoe — [ссылка](https://x.com/andrewtalksdefi/status/2123317450318000221) (♥1)
+- 2026-11-19 07:27 [reply] @Shahiniram Gm Fam — [ссылка](https://x.com/andrewtalksdefi/status/2123317179567452414) (♥0)
+- 2026-11-19 07:27 [reply] @chiragxik76787 Gm Embero — [ссылка](https://x.com/andrewtalksdefi/status/2123317153524818182) (♥0)
+- 2026-11-19 07:27 [reply] @ROGUE_of_Web3 Gm Rogue, have a great day — [ссылка](https://x.com/andrewtalksdefi/status/2123317117504364936) (♥0)
+- 2026-11-19 07:26 [reply] @_Pretty_Miraa Good morning Mira — [ссылка](https://x.com/andrewtalksdefi/status/2123316985417109688) (♥0)
+- 2026-11-19 07:26 [reply] @OzzyChina Gm Ozzy — [ссылка](https://x.com/andrewtalksdefi/status/2123316880911778013) (♥0)
+- 2026-11-19 07:25 [reply] @GenuineDegen I’m active — [ссылка](https://x.com/andrewtalksdefi/status/2123316705795666428) (♥0)
+- 2026-11-19 07:24 [reply] @xleeking @LaunchOnBasis Let’s get it — [ссылка](https://x.com/andrewtalksdefi/status/2123316446088618061) (♥0)
+- 2026-11-19 07:24 [reply] @Krisbee Top of the morning fam — [ссылка](https://x.com/andrewtalksdefi/status/2123316370775396393) (♥0)
+- 2026-11-19 07:23 [reply] @Web3Erfann @IThinkItsArt Gm Erfan — [ссылка](https://x.com/andrewtalksdefi/status/2123316310872309948) (♥0)
+- 2026-11-19 07:23 [reply] @mr_ferdiansah Good morning bro — [ссылка](https://x.com/andrewtalksdefi/status/2123316244396781586) (♥1)
+- 2026-11-19 07:23 [reply] @ItsEshOnX Gm Esh, happy thrusday — [ссылка](https://x.com/andrewtalksdefi/status/2123316211077484680) (♥0)
+- 2026-11-19 07:23 [reply] @valerioshi Gm Val — [ссылка](https://x.com/andrewtalksdefi/status/2123316115535458471) (♥0)
+- 2026-11-19 07:22 [reply] @Dan_et_ Gm Dan, happy Thursday — [ссылка](https://x.com/andrewtalksdefi/status/2123316024938475748) (♥0)
+- 2026-11-19 07:22 [reply] @mok4vi Gm Moka — [ссылка](https://x.com/andrewtalksdefi/status/2123315969409921087) (♥0)
+- 2026-11-19 07:22 [reply] @Mr_Byju Gm Fam, have a great day — [ссылка](https://x.com/andrewtalksdefi/status/2123315937780895886) (♥1)
+- 2026-11-19 07:22 [reply] @the_jujukey Grand rising champ — [ссылка](https://x.com/andrewtalksdefi/status/2123315888883650625) (♥0)
+- 2026-11-19 07:21 [reply] @H1TMAN_ Top of the mornin fam — [ссылка](https://x.com/andrewtalksdefi/status/2123315783388578097) (♥0)
+- 2026-11-19 07:21 [reply] @nftbotx Gm Vyre — [ссылка](https://x.com/andrewtalksdefi/status/2123315718955651393) (♥0)
+- 2026-11-19 07:21 [original] Gm Frens 🫶  Happy Thursday   Can I get a Gm? https://t.co/1HKCVSo0M1 — [ссылка](https://x.com/andrewtalksdefi/status/2123315685044502709) (♥14)
+- 2026-11-18 15:54 [reply] @Polymarket Crazy… let’s get busy first — [ссылка](https://x.com/andrewtalksdefi/status/2123082466009243826) (♥0)
+- 2026-11-18 13:31 [retweet] RT @andrewtalksdefi: I remain very bullish on the market.  Bitcoin is going to $150K.  ETH will break $5,000.  SOL will reach $500.  Altcoi… — [ссылка](https://x.com/andrewtalksdefi/status/2123046513978847704) (♥0)
+- 2026-11-18 10:12 [reply] @erequendi Gm Eraquendi — [ссылка](https://x.com/andrewtalksdefi/status/2122996312123539951) (♥0)
+- 2026-11-18 09:50 [reply] @Reymetax Gm Rey — [ссылка](https://x.com/andrewtalksdefi/status/2122990706406936961) (♥0)
+- 2026-11-18 09:49 [reply] @rar3clover Morning King — [ссылка](https://x.com/andrewtalksdefi/status/2122990457797894562) (♥0)
+- 2026-11-18 09:48 [reply] @AviiWeb3 @primus_labs Primus is way ahead here — [ссылка](https://x.com/andrewtalksdefi/status/2122990385790107932) (♥1)
+- 2026-11-18 09:47 [reply] @ItsSnibby Gm Snibby — [ссылка](https://x.com/andrewtalksdefi/status/2122990165522067895) (♥0)
+- 2026-11-18 09:40 [reply] @JoeOnMotion Gm Joe — [ссылка](https://x.com/andrewtalksdefi/status/2122988413079200242) (♥0)
+- 2026-11-18 09:28 [reply] @blue__guy__ Gm Blue — [ссылка](https://x.com/andrewtalksdefi/status/2122985274955448601) (♥1)
+- 2026-11-18 09:18 [reply] @Mr_Byju @rntprotocol Love what they’re building here — [ссылка](https://x.com/andrewtalksdefi/status/2122982803768012993) (♥1)
+- 2026-11-18 09:18 [reply] @MrPraetorian @ProprXYZ Top of the morning fam — [ссылка](https://x.com/andrewtalksdefi/status/2122982683621941650) (♥1)
+- 2026-11-18 09:15 [reply] @AidenWgmi Gm Aiden — [ссылка](https://x.com/andrewtalksdefi/status/2122981953955868844) (♥0)
+- 2026-11-18 09:13 [reply] @RebelOfWeb3 Gm Nuel — [ссылка](https://x.com/andrewtalksdefi/status/2122981552485474494) (♥0)
+- 2026-11-18 09:05 [reply] @OvoOnoETH @npconchain Good morning ovoono — [ссылка](https://x.com/andrewtalksdefi/status/2122979388496957576) (♥0)
+- 2026-11-18 09:04 [reply] @hannaXbtc @rar3clover Gm Hannax — [ссылка](https://x.com/andrewtalksdefi/status/2122979265842962665) (♥0)
+- 2026-11-18 09:04 [reply] @Hofers Gm Hofer — [ссылка](https://x.com/andrewtalksdefi/status/2122979134087503971) (♥0)
+- 2026-11-18 09:03 [reply] @GenuineDegen Gm genuine — [ссылка](https://x.com/andrewtalksdefi/status/2122979036846596525) (♥2)
+- 2026-11-18 09:03 [reply] @KongBTC Gm Kong — [ссылка](https://x.com/andrewtalksdefi/status/2122978999877910813) (♥0)
+- 2026-11-18 09:03 [reply] @nftbotx Gm Vyre — [ссылка](https://x.com/andrewtalksdefi/status/2122978948061741533) (♥0)
+- 2026-11-18 08:53 [original] I remain very bullish on the market.  Bitcoin is going to $150K.  ETH will break $5,000.  SOL will reach $500.  Altcoins will deliver 5x-10x gains.  The opportunities are there.   It’s all about patie — [ссылка](https://x.com/andrewtalksdefi/status/2122976486835576960) (♥62)
+- 2026-11-18 08:45 [reply] @lynk0x Then dips comes with buying opportunity — [ссылка](https://x.com/andrewtalksdefi/status/2122974586455093491) (♥0)
+- 2026-11-18 08:43 [reply] @MattInWeb3 @Backpack Excited this here this news — [ссылка](https://x.com/andrewtalksdefi/status/2122973987928195473) (♥0)
+- 2026-11-18 08:43 [reply] @0xDaniMo @termix_ai Termix is here to make real impact — [ссылка](https://x.com/andrewtalksdefi/status/2122973903161008559) (♥0)
+- 2026-11-18 08:42 [reply] @prayz_dev @termix_ai gTermix Champ — [ссылка](https://x.com/andrewtalksdefi/status/2122973826925596886) (♥0)
+- 2026-11-18 08:42 [reply] @GenuineDegen @bulonfloat Community driven memes is one of the best — [ссылка](https://x.com/andrewtalksdefi/status/2122973715398889578) (♥0)
+- 2026-11-18 08:41 [reply] @mr_ferdiansah @grvt_io GRVT keeps bringing interesting ideas to onchain trading. — [ссылка](https://x.com/andrewtalksdefi/status/2122973460238602734) (♥0)
+- 2026-11-18 08:40 [reply] @quynncrypto @zerufinance Zeru is bringing a different approach to token launches. — [ссылка](https://x.com/andrewtalksdefi/status/2122973250628313425) (♥0)
+- 2026-11-18 08:40 [reply] @kengdaica Solid breakdown right here — [ссылка](https://x.com/andrewtalksdefi/status/2122973114304770084) (♥0)
+- 2026-11-18 08:39 [reply] @Lynketh2 @Acurast This is such a cool tech, pivoting to acurast — [ссылка](https://x.com/andrewtalksdefi/status/2122973006066512284) (♥0)
+- 2026-11-18 08:39 [reply] @kengdaica @Acurast Acurast is built different — [ссылка](https://x.com/andrewtalksdefi/status/2122972874072117314) (♥0)
+- 2026-11-18 08:38 [reply] @0xPeggy_ @zerufinance The concept of using on-chain wallet history as a credit profile is revolutionary — [ссылка](https://x.com/andrewtalksdefi/status/2122972787224752627) (♥0)
+- 2026-11-18 08:38 [reply] @oleribeonchain @primus_labs Primus is here to make real impact — [ссылка](https://x.com/andrewtalksdefi/status/2122972683415732700) (♥0)
+- 2026-11-18 08:37 [reply] @Zainabiliyasu10 TermiX is getting the important details right. — [ссылка](https://x.com/andrewtalksdefi/status/2122972538074726758) (♥0)
+- 2026-11-18 08:37 [reply] @0xfrigg Gm Frigg — [ссылка](https://x.com/andrewtalksdefi/status/2122972405173805063) (♥0)
+- 2026-11-18 08:37 [reply] @aisarcore Gm Aisar — [ссылка](https://x.com/andrewtalksdefi/status/2122972359015739835) (♥0)
+- 2026-11-18 08:35 [reply] @mahdiHas Fair price discovery makes this auction model really interesting. — [ссылка](https://x.com/andrewtalksdefi/status/2122972033126637959) (♥0)
+- 2026-11-18 08:35 [reply] @MFagam6 @rntprotocol Diversification, transparency and proper risk disclosure are key. — [ссылка](https://x.com/andrewtalksdefi/status/2122971900137689585) (♥0)
+- 2026-11-18 08:32 [reply] @Sainoleno @2FactorFinance Making advanced investment strategies more accessible is great — [ссылка](https://x.com/andrewtalksdefi/status/2122971309973868682) (♥0)
+- 2026-11-18 08:32 [reply] @MFagam6 @GeckoTerminal Love what they’re building here — [ссылка](https://x.com/andrewtalksdefi/status/2122971108387213582) (♥0)
+- 2026-11-18 08:31 [reply] @D_GREAT_EHMY Gm Gare — [ссылка](https://x.com/andrewtalksdefi/status/2122971006721818770) (♥0)
+- 2026-11-18 08:26 [reply] @ZayanXBT That’s a lot of outflow — [ссылка](https://x.com/andrewtalksdefi/status/2122969623033417849) (♥1)
+- 2026-11-18 08:24 [reply] @bella_quack @Acurast Acurast is building some thing great here — [ссылка](https://x.com/andrewtalksdefi/status/2122969181310292177) (♥0)
+- 2026-11-18 08:23 [reply] @_Pretty_Miraa Have a great day Mira — [ссылка](https://x.com/andrewtalksdefi/status/2122968975445577758) (♥0)
+- 2026-11-18 08:23 [reply] @tikoxbt Gm Tiko — [ссылка](https://x.com/andrewtalksdefi/status/2122968897439850859) (♥0)
+- 2026-11-18 08:23 [reply] @__Zephhy @atoma_fi Nice to see the boost rewards clearly laid out. — [ссылка](https://x.com/andrewtalksdefi/status/2122968828569337950) (♥0)
+- 2026-11-18 08:14 [reply] @Web3Niels Gm Niels — [ссылка](https://x.com/andrewtalksdefi/status/2122966580569284734) (♥0)
+- 2026-11-18 08:11 [reply] @kozei Gm Kozei — [ссылка](https://x.com/andrewtalksdefi/status/2122965958042255739) (♥0)
+- 2026-11-18 08:09 [reply] @Soliu08 Good morning Soliu — [ссылка](https://x.com/andrewtalksdefi/status/2122965313964913033) (♥0)
+- 2026-11-18 08:06 [retweet] RT @andrewtalksdefi: Anthropic is one of the biggest names in the AI industry.  With growing interest in its potential IPO, many traders ar… — [ссылка](https://x.com/andrewtalksdefi/status/2122964633988297148) (♥0)
+- 2026-11-18 08:06 [reply] @H1TMAN_ Gm Hitman — [ссылка](https://x.com/andrewtalksdefi/status/2122964603886088637) (♥0)
+- 2026-11-18 08:05 [reply] @Lhzzr Gm Lhzr — [ссылка](https://x.com/andrewtalksdefi/status/2122964431554687282) (♥0)
+- 2026-11-18 07:39 [reply] @MorkHood Gm Mork — [ссылка](https://x.com/andrewtalksdefi/status/2122957797696405505) (♥0)
+- 2026-11-18 07:39 [reply] @OzzyChina Gm Ozzy — [ссылка](https://x.com/andrewtalksdefi/status/2122957760761332033) (♥0)
 
-**@hosseeb** (17)
-- 2026-11-17 16:58 UTC · цитата · ❤ 125 — FX is a $10T market. But stablecoin-backed FX is just in its infancy. @CodexFX is going to take this market mainstream. They've already 10x'd in volume this yea — https://x.com/hosseeb/status/2122736181758792007
-- 2026-11-17 17:59 UTC · цитата · ❤ 45 — What exactly is supposed to be scandalous about this? Anthropic was extremely public about their position on chip exports to China. Dario has been pounding the  — https://x.com/hosseeb/status/2122751587055796606
-- 2026-11-17 22:38 UTC · пост · ❤ 40 — Infuriating story about the DOJ using Pangram to persuade a judge to invalidate defense motions. If the motions are not 100% human-written, DOJ claims they are  — https://x.com/hosseeb/status/2122821734219039227
+### @playmatejaylene — 71
+- 2026-11-18 22:25 [reply] @Bankrupt_szn Biscuits — [ссылка](https://x.com/playmatejaylene/status/2123180737616834674) (♥5)
+- 2026-11-18 22:24 [reply] @korbinian_vogt Yessir — [ссылка](https://x.com/playmatejaylene/status/2123180650069209391) (♥2)
+- 2026-11-18 22:24 [reply] @zephyr_ov Can confirm — [ссылка](https://x.com/playmatejaylene/status/2123180626522329158) (♥1)
+- 2026-11-18 22:24 [reply] @yymacun Agree — [ссылка](https://x.com/playmatejaylene/status/2123180608751116525) (♥3)
+- 2026-11-18 22:24 [reply] @jharleyd1212 https://t.co/oQsNWGthVq — [ссылка](https://x.com/playmatejaylene/status/2123180600492523714) (♥4)
+- 2026-11-18 22:23 [reply] @Dreenonchain Both at the same time — [ссылка](https://x.com/playmatejaylene/status/2123180319977402608) (♥3)
+- 2026-11-18 22:22 [reply] @Bugger_prime You too? — [ссылка](https://x.com/playmatejaylene/status/2123180089185890358) (♥1)
+- 2026-11-18 22:19 [original] men only want one thing and it’s disgusting. https://t.co/Fyd9HpIL6Q — [ссылка](https://x.com/playmatejaylene/status/2123179204833624388) (♥445)
+- 2026-11-18 21:52 [reply] @alyonitaa They are the best nights 👏 — [ссылка](https://x.com/playmatejaylene/status/2123172456743698482) (♥1)
+- 2026-11-18 20:47 [reply] @RODLAWRENCE12 edgy or stabby? — [ссылка](https://x.com/playmatejaylene/status/2123156230424170617) (♥2)
+- 2026-11-18 19:40 [reply] @Nyanni237 the parks this time of year are so stunning!!! 🥹🍂 — [ссылка](https://x.com/playmatejaylene/status/2123139228158628318) (♥0)
+- 2026-11-18 19:39 [reply] @smsonx sooo cute 🥹 — [ссылка](https://x.com/playmatejaylene/status/2123139135468904919) (♥0)
+- 2026-11-18 19:39 [reply] @anytwocardzz honestly that kinda sounds like NZ 🤣 — [ссылка](https://x.com/playmatejaylene/status/2123139080322199716) (♥0)
+- 2026-11-18 17:13 [reply] @MrBeast would (2026) — [ссылка](https://x.com/playmatejaylene/status/2123102347320869332) (♥4)
+- 2026-11-18 17:10 [retweet] RT @coinempress: i met @playmatejaylene at token2049 in singapore and we ended up seeing each other again in 4 countries in under 6 weeks… — [ссылка](https://x.com/playmatejaylene/status/2123101632015770035) (♥0)
+- 2026-11-18 17:10 [reply] @coinempress oh my goodness, this might just be the kindest thing anyone has ever said about me 🥺😭😭  i’m soo happy our paths finally crossed (even if the first time was in a toilet) lol   it’s been an — [ссылка](https://x.com/playmatejaylene/status/2123101546292625877) (♥7)
+- 2026-11-18 14:51 [reply] @mrdariusone my king — [ссылка](https://x.com/playmatejaylene/status/2123066609132613775) (♥1)
+- 2026-11-18 13:28 [reply] @xstacy3 amen sister — [ссылка](https://x.com/playmatejaylene/status/2123045703224111564) (♥2)
+- 2026-11-18 13:28 [reply] @RockieRockie wish you were here — [ссылка](https://x.com/playmatejaylene/status/2123045568654045427) (♥1)
+- 2026-11-18 13:27 [reply] @d_mick420 do you often want to feel like shit? — [ссылка](https://x.com/playmatejaylene/status/2123045507451015501) (♥1)
+- 2026-11-18 13:12 [reply] @Rakermoon that’s where i’m flying out of 😁 — [ссылка](https://x.com/playmatejaylene/status/2123041638457221304) (♥1)
+- 2026-11-18 13:08 [reply] @0xb3hrang that’s the part they don’t want you to see — [ссылка](https://x.com/playmatejaylene/status/2123040736870621290) (♥1)
+- 2026-11-18 13:08 [reply] @Novanoodle5165 stop being judgable — [ссылка](https://x.com/playmatejaylene/status/2123040678984794484) (♥2)
+- 2026-11-18 13:06 [reply] @yalcn_tuncayy wish you were here — [ссылка](https://x.com/playmatejaylene/status/2123040129438880190) (♥1)
+- 2026-11-18 13:06 [reply] @Testimony64 U R 🤎 — [ссылка](https://x.com/playmatejaylene/status/2123040104059228383) (♥1)
+- 2026-11-18 13:04 [reply] @heroman0x ew. (although i do like the odd cigar) — [ссылка](https://x.com/playmatejaylene/status/2123039660406673846) (♥0)
+- 2026-11-18 13:04 [reply] @Lizmej12 not even a sip — [ссылка](https://x.com/playmatejaylene/status/2123039654392082871) (♥0)
+- 2026-11-18 13:04 [reply] @maxwin Comfy af in Rainbet — [ссылка](https://x.com/playmatejaylene/status/2123039623362338829) (♥0)
+- 2026-11-18 13:04 [original] The side of London they don’t want you to see.. https://t.co/nZb08At1Qt — [ссылка](https://x.com/playmatejaylene/status/2123039614977912962) (♥267)
+- 2026-11-18 12:45 [reply] @0xfs7 one track mind and it’s not where you think — [ссылка](https://x.com/playmatejaylene/status/2123034819927871845) (♥2)
+- 2026-11-18 12:44 [reply] @viabigboy https://t.co/3T1gBl9ZxL — [ссылка](https://x.com/playmatejaylene/status/2123034716500545624) (♥1)
+- 2026-11-18 12:13 [reply] @0xleegenz @ZIllI00N 😭 — [ссылка](https://x.com/playmatejaylene/status/2123026864935415908) (♥0)
+- 2026-11-18 12:12 [reply] @skimonsol i try to encourage everyone to come to new zealand! — [ссылка](https://x.com/playmatejaylene/status/2123026540183375925) (♥2)
+- 2026-11-18 12:04 [reply] @WilliamShatner @leap_xyz holyyyy 💀 — [ссылка](https://x.com/playmatejaylene/status/2123024646568325517) (♥0)
+- 2026-11-18 12:04 [reply] @anonchain @WilliamShatner @leap_xyz @inversebrah lil shid — [ссылка](https://x.com/playmatejaylene/status/2123024619645157542) (♥0)
+- 2026-11-18 12:02 [reply] @Starcaster1 green 💚 — [ссылка](https://x.com/playmatejaylene/status/2123023923596169466) (♥0)
+- 2026-11-18 12:01 [reply] @Rahim_mahtab see you soon — [ссылка](https://x.com/playmatejaylene/status/2123023856470532415) (♥0)
+- 2026-11-18 11:52 [reply] @Rakermoon the lords day — [ссылка](https://x.com/playmatejaylene/status/2123021468564869449) (♥1)
+- 2026-11-18 11:52 [reply] @quasirich_ shocker ik — [ссылка](https://x.com/playmatejaylene/status/2123021403616350286) (♥1)
+- 2026-11-18 11:51 [reply] @WeedleChamp hahahah 😂 not sure they can get any worse tbh — [ссылка](https://x.com/playmatejaylene/status/2123021329636970722) (♥1)
+- 2026-11-18 11:50 [quote] Living in New Zealand has its advantages 💅 https://t.co/Q1SyfHnJnL https://t.co/tgQkF1sciQ — [ссылка](https://x.com/playmatejaylene/status/2123021005828530511) (♥328)
+- 2026-11-18 11:39 [reply] @yymacun does it tho? — [ссылка](https://x.com/playmatejaylene/status/2123018357641236791) (♥2)
+- 2026-11-18 11:39 [reply] @the_sharmini i had a big cut before i came, it feels so short now 😭🤣 — [ссылка](https://x.com/playmatejaylene/status/2123018236635865411) (♥0)
+- 2026-11-18 11:11 [reply] @moonpay JPMorgan https://t.co/j4VzDdK8vb — [ссылка](https://x.com/playmatejaylene/status/2123011095673864300) (♥0)
+- 2026-11-18 11:09 [reply] @jessyfries oooh have i got some stories for you.. 🤣 — [ссылка](https://x.com/playmatejaylene/status/2123010710074748958) (♥2)
+- 2026-11-18 11:08 [reply] @decircusmaster hope you’re feeling better for it sister 😁 — [ссылка](https://x.com/playmatejaylene/status/2123010456994697230) (♥2)
+- 2026-11-18 11:08 [reply] @zekedup_ @DipWheeler 💀 — [ссылка](https://x.com/playmatejaylene/status/2123010362920534204) (♥1)
+- 2026-11-18 11:07 [reply] @DipWheeler titts you mean? — [ссылка](https://x.com/playmatejaylene/status/2123010260898333140) (♥3)
+- 2026-11-18 11:05 [reply] @WhaleNoName i’ll prove it — [ссылка](https://x.com/playmatejaylene/status/2123009710899044568) (♥1)
+- 2026-11-18 11:05 [reply] @Promirexy also v true — [ссылка](https://x.com/playmatejaylene/status/2123009646130757893) (♥2)
+- 2026-11-18 11:05 [reply] @kaypresso @0xganny try it and see — [ссылка](https://x.com/playmatejaylene/status/2123009584965267549) (♥1)
+- 2026-11-18 11:04 [reply] @MadeByWoven hahaha i can relate 😂 hope you had the best time woven! — [ссылка](https://x.com/playmatejaylene/status/2123009493575598226) (♥3)
+- 2026-11-18 11:04 [reply] @MalayAhmad oh wow that’s almost unheard of! — [ссылка](https://x.com/playmatejaylene/status/2123009370195660967) (♥2)
+- 2026-11-18 11:03 [reply] @HalvSesh it does hurt tho 😭 — [ссылка](https://x.com/playmatejaylene/status/2123009314021318994) (♥2)
+- 2026-11-18 10:55 [original] you don’t need to drink alcohol to have a good time btw — [ссылка](https://x.com/playmatejaylene/status/2123007267884695916) (♥389)
+- 2026-11-18 10:26 [reply] @JoeyMoose i mean.. what did they expect!? — [ссылка](https://x.com/playmatejaylene/status/2122999946227880022) (♥1)
+- 2026-11-18 10:06 [reply] @roshekidd sent 💸 — [ссылка](https://x.com/playmatejaylene/status/2122994750890643684) (♥6)
+- 2026-11-18 10:05 [reply] @saggzisback sent ✅💸 — [ссылка](https://x.com/playmatejaylene/status/2122994537366990880) (♥5)
+- 2026-11-18 09:48 [reply] what’s your RB username? — [ссылка](https://x.com/playmatejaylene/status/2122990348272390198) (♥65)
+- 2026-11-18 09:48 [reply] @enigmafantasies bro am i cooked!? 😭 — [ссылка](https://x.com/playmatejaylene/status/2122990301463613501) (♥1)
+- 2026-11-18 09:48 [reply] @Symphony_Young @solana @pudgypenguins @SolanaEvents absolutely adorable!!! — [ссылка](https://x.com/playmatejaylene/status/2122990251253678416) (♥1)
+- 2026-11-18 09:44 [reply] @Web3Sadiia ehhh — [ссылка](https://x.com/playmatejaylene/status/2122989322974429541) (♥1)
+- 2026-11-18 09:44 [reply] @itsbac0201 what else do you expect from a human? — [ссылка](https://x.com/playmatejaylene/status/2122989297284636986) (♥0)
+- 2026-11-18 09:44 [reply] @handeh777 trust myself instead 🤭 — [ссылка](https://x.com/playmatejaylene/status/2122989224982905292) (♥1)
+- 2026-11-18 09:43 [reply] @0xb3hrang hahahaha or stupid jaylene? — [ссылка](https://x.com/playmatejaylene/status/2122989170289213740) (♥1)
+- 2026-11-18 09:43 [reply] @Benexolent will i regret it? 😬 — [ссылка](https://x.com/playmatejaylene/status/2122989135652937971) (♥0)
+- 2026-11-18 09:41 [original] Asked AI who will win and it said Melgar   So naturally i picked Atletico 🤣 https://t.co/ETgGuCrFji — [ссылка](https://x.com/playmatejaylene/status/2122988668453343518) (♥92)
+- 2026-11-18 09:37 [reply] @yymacun i’m working on it 🤣 — [ссылка](https://x.com/playmatejaylene/status/2122987467343327453) (♥3)
+- 2026-11-18 09:36 [reply] @ledoraeth @toriribolla @the_sharmini @crystalxbtt @cryptopizzagirl @0xzoe_im @0xSweep @eth_apple @FoxyPenguinApe @eyezenhour ILYSM ❤️❤️ — [ссылка](https://x.com/playmatejaylene/status/2122987317245927799) (♥2)
+- 2026-11-18 09:36 [reply] @coinempress that last line tho 😂 — [ссылка](https://x.com/playmatejaylene/status/2122987175134523430) (♥2)
+- 2026-11-18 08:33 [retweet] RT @KeithGrossman: A few thoughts on @solana Breakpoint as I fly home…  I spent the first 20 years of my career in media and I know what it… — [ссылка](https://x.com/playmatejaylene/status/2122971491612377286) (♥0)
 
-**@tomhschmidt** (2)
-- 2026-11-17 17:31 UTC · пост · ❤ 13 — there is a massive coordinated anti-ANT media campaign going on right now https://t.co/T9gKHkSv4c — https://x.com/tomhschmidt/status/2122744543741419914
+### @DefiIgnas — 46
+- 2026-11-18 21:59 [reply] @krugermacro Q: how high will it go? — [ссылка](https://x.com/DefiIgnas/status/2123174327394697690) (♥1)
+- 2026-11-18 21:17 [reply] @AlgodTrading it's SoV — [ссылка](https://x.com/DefiIgnas/status/2123163667038609896) (♥0)
+- 2026-11-18 21:14 [reply] @AlgodTrading it is not useless!*  * for Ai miners who get cheap interference  but even that actually not that cheap is ~40% of mining capacity goes to PEARL. — [ссылка](https://x.com/DefiIgnas/status/2123162986281865697) (♥2)
+- 2026-11-18 21:05 [reply] @HalscionRose I would stop doing god's work if they paid me 100k usdc lol — [ссылка](https://x.com/DefiIgnas/status/2123160755734229389) (♥7)
+- 2026-11-18 20:25 [reply] @bitbro__ yeah but short term can still do well if mindshare grows and MMs are smart and liquidating shorts — [ссылка](https://x.com/DefiIgnas/status/2123150606529405201) (♥0)
+- 2026-11-18 20:11 [quote] Wow. Even more bearish than I thought. After the fork:  - In Kairos' test, mining PEARL made the same GPU produce 24 - 48% less AI output. Mining rewards need to cover that lost income.  - Miners stud — [ссылка](https://x.com/DefiIgnas/status/2123147067682136193) (♥21)
+- 2026-11-18 20:01 [quote] Bearish case for $PEARL:  - 121.7M tokens mined in the first SIX DAYS. ~32% of the circulating supply.   Company, team and shareholders hold 98M, or ~26%   Reminds me 2021 'fair launch' meta.  - Pearl — [ссылка](https://x.com/DefiIgnas/status/2123144646716977168) (♥331)
+- 2026-11-18 19:13 [reply] @defi_monk Sir trying to sell SoV narrative for an asset 6 months old  nice to be ambitions but SoV status requires decades of history.  Best trade PEARL has is seeing how many AI miners mine it and h — [ссылка](https://x.com/DefiIgnas/status/2123132558095294758) (♥14)
+- 2026-11-18 18:45 [reply] @armaniferrante I should've quoted Kidponga, not Kyle.  In any case, hope that fighting is not how marketing works :) — [ссылка](https://x.com/DefiIgnas/status/2123125408287576399) (♥5)
+- 2026-11-18 18:01 [reply] @fintechfrank I still hate that bullish is built with EOS token sale funds  Worse rug of crypto history — [ссылка](https://x.com/DefiIgnas/status/2123114351015895492) (♥2)
+- 2026-11-18 17:43 [quote] Maybe should’ve quoted this post instead https://t.co/gFLupzesCP — [ссылка](https://x.com/DefiIgnas/status/2123109820807163906) (♥7)
+- 2026-11-18 17:42 [quote] Don’t think that Backpack’s strategy should be attacking Hyperliquid.   The tokenization and perps markets are massive and only will grow.   The pie is huge.   Both exchanges have different strengths  — [ссылка](https://x.com/DefiIgnas/status/2123109640409932283) (♥107)
+- 2026-11-18 17:02 [reply] @uttam_singhk More buyers than sellers.  all those who missed zec also dont wanna miss the next SoV asset — [ссылка](https://x.com/DefiIgnas/status/2123099614714753310) (♥0)
+- 2026-11-18 16:44 [reply] @Pickle_cRypto crypto natives dont want crypto too lol  they buy tokenized NVDA dips instead of crypto — [ссылка](https://x.com/DefiIgnas/status/2123095129691193437) (♥3)
+- 2026-11-18 16:35 [reply] @PeterSchiff Still have $332m for buybacks.. and after that? https://t.co/bA13yy3VxA — [ссылка](https://x.com/DefiIgnas/status/2123092780993892791) (♥0)
+- 2026-11-18 16:34 [reply] @JuhyukB genius — [ссылка](https://x.com/DefiIgnas/status/2123092537070248342) (♥3)
+- 2026-11-18 16:20 [reply] @llamaonthebrink @lex_node All good. My mistake for buying higher without reading dao vote — [ссылка](https://x.com/DefiIgnas/status/2123089015951790286) (♥0)
+- 2026-11-18 16:13 [quote] The big criticism is why would anyone buy $PEARL if miners are dumping it?  because miners will need to SHILL it hard for $PEARL to have value. If it goes to zero, miners lose their interference subsi — [ссылка](https://x.com/DefiIgnas/status/2123087294995308993) (♥108)
+- 2026-11-18 16:06 [quote] TLDR thesis for $PEARL:  $PEARL wants AI data centers to mine it while selling inference from the same GPU work.  That extra income from dumping $PEARL could let them cut prices, pushing competitors t — [ссылка](https://x.com/DefiIgnas/status/2123085413594128794) (♥168)
+- 2026-11-18 16:04 [quote] TLDR thesis for $PEARL:  $PEARL wants AI data centers to mine it while selling inference from the same GPU work.  That extra income from dumping $PEARL could let them cut prices, pushing competitors t — [ссылка](https://x.com/DefiIgnas/status/2123085028129112295) (♥4)
+- 2026-11-18 15:30 [original] When there's no money to be made from money entering crypto industry... (PvE)  .. there's money to be made by making BTC/ETH/SOL holders rotate into their bags (PvP). — [ссылка](https://x.com/DefiIgnas/status/2123076452430086146) (♥65)
+- 2026-11-18 15:19 [original] Bitcoiner BTC-&gt; ZEC -&gt; PEARL rotation on the timeline is underway.  Bitcoiners are now the new altcoin traders — [ссылка](https://x.com/DefiIgnas/status/2123073504249598008) (♥122)
+- 2026-11-18 15:08 [reply] @0xshunshun 100 or its FUD — [ссылка](https://x.com/DefiIgnas/status/2123070855060275685) (♥2)
+- 2026-11-18 15:08 [quote] $VAR at $1,5B is a good deal  - $LIT $2.7B - $HYPE $37B  But pre-IPOs, RWAs, and perps overall will continue to grow 10x-100x and all three tokens will trade higher.  Ready for the TGE. https://t.co/g — [ссылка](https://x.com/DefiIgnas/status/2123070775045624179) (♥136)
+- 2026-11-18 15:04 [reply] @VictorTopDefiG $1.1k USD airdrop. not bad — [ссылка](https://x.com/DefiIgnas/status/2123069919122350259) (♥0)
+- 2026-11-18 15:04 [quote] Remember that Binance SPCX sale got cancelled because they couldn't deliver the allocation.  Users got refunded.  Anthropic subscriptions have now reached $500m, but Binance hasn't disclosed the alloc — [ссылка](https://x.com/DefiIgnas/status/2123069792877961661) (♥74)
+- 2026-11-18 14:55 [quote] $VAR at $1,5B is a good deal  - $LIT $2.7B - $HYPE $3.7B  But pre-IPOs, RWAs, and perps overall will continue to grow 10x-100x and all three tokens will trade higher.  Ready for the TGE. https://t.co/ — [ссылка](https://x.com/DefiIgnas/status/2123067585596137584) (♥25)
+- 2026-11-18 14:49 [reply] @SalsaTekila 5) invest in crypto — [ссылка](https://x.com/DefiIgnas/status/2123066097574502829) (♥6)
+- 2026-11-18 14:42 [reply] @tomwanhh @variational_io @EntropyAdvisors the problem is ONE DAY after launch.  Airdrop farmers will dump and temporarily price can be low.  Which gives a buying opportunity — [ссылка](https://x.com/DefiIgnas/status/2123064332468580673) (♥2)
+- 2026-11-18 14:27 [original] Nice feature on Matcha DEX aggregator: liquidity score  "Measures a token's 2.5% depth across DEX markets at a specific time." https://t.co/PbIo6fjL4C — [ссылка](https://x.com/DefiIgnas/status/2123060431313129830) (♥74)
+- 2026-11-18 13:18 [reply] @madame1829 Money needs to be raised i get it.   Tbh it is our mistake for not doing DD and seeing governance vote — [ссылка](https://x.com/DefiIgnas/status/2123043063232930268) (♥1)
+- 2026-11-18 11:29 [reply] @0xThoor @thedefivillain Yeah it was temporal. Goood catch — [ссылка](https://x.com/DefiIgnas/status/2123015741322453493) (♥1)
+- 2026-11-18 11:09 [reply] @materkel @lex_node @boldleonidas great partnership for sure — [ссылка](https://x.com/DefiIgnas/status/2123010739141288407) (♥3)
+- 2026-11-18 11:09 [reply] @thedefivillain yes lol — [ссылка](https://x.com/DefiIgnas/status/2123010649609380177) (♥0)
+- 2026-11-18 11:04 [reply] @materkel @lex_node i hope he wants more nfts lol — [ссылка](https://x.com/DefiIgnas/status/2123009357432709371) (♥4)
+- 2026-11-18 10:58 [reply] @thedefivillain Weirdly, on Variational you even get period of POSITIVE funding rates to short it lol — [ссылка](https://x.com/DefiIgnas/status/2123008034784137550) (♥2)
+- 2026-11-18 10:52 [reply] @z0r0zzz But now they need spot TRUE to go above 0.12usd for NFT sales to pick up. — [ссылка](https://x.com/DefiIgnas/status/2123006400603287688) (♥1)
+- 2026-11-18 10:33 [reply] @gumsays maybe delta neutral positions? — [ссылка](https://x.com/DefiIgnas/status/2123001744590618803) (♥1)
+- 2026-11-18 10:32 [reply] But now the NFT sales might not do well because SPOT TRUE trades below the NFT encoded price.  $0.117 vs $0.12  Why buy locked tokens if spot trades at lower price with no lock up?  So spot price need — [ссылка](https://x.com/DefiIgnas/status/2123001328272076928) (♥12)
+- 2026-11-18 10:29 [quote] https://t.co/W3ZG6xU9UQ — [ссылка](https://x.com/DefiIgnas/status/2123000599549472976) (♥3)
+- 2026-11-18 10:29 [reply] @lex_node Tokens sold at a discount for spot with a lock up is not new.   Trueo did it publicly and with a DAO vote. And I shouldn't have called it a rug when I myself guilty for not doing proper DD a — [ссылка](https://x.com/DefiIgnas/status/2123000552485241183) (♥8)
+- 2026-11-18 10:27 [reply] Tbh the sale makes sense:  they can raise money at fixed $0.12 USD price with no price impact on spot. The logic is sound.  And if you believe in Trueo delivering ( I do) you can now buy big bag at fi — [ссылка](https://x.com/DefiIgnas/status/2123000097218912337) (♥9)
+- 2026-11-18 10:21 [reply] @lex_node Yeah it is publicly buying the token with a lock up for a discount.  I bought a bag recently too and shilled on X and my mistake for missing the sale vote on the DAO.  But only 90 NFTs sold. — [ссылка](https://x.com/DefiIgnas/status/2122998617967559024) (♥4)
+- 2026-11-18 10:17 [reply] My mistake for not checking DAO proposal that passed in September lol  Failed the DD from my part. https://t.co/DrxiuWFFTi — [ссылка](https://x.com/DefiIgnas/status/2122997651268407437) (♥17)
+- 2026-11-18 10:14 [quote] Woke up with my $TRUE bags down 25% because they hardcoded arbitrage into the NFT sale:  Price locked at $0.12 for NFT sale while token traded at $0.18 on open market.  So simple arbitrage dump $TRUE  — [ссылка](https://x.com/DefiIgnas/status/2122996917969797144) (♥91)
+- 2026-11-18 09:42 [reply] @llamaonthebrink I was checking why TRUE dumped and then read this  "The indicative offering is $0.12 per TRUE at an ETH price of $1,800"  man why... — [ссылка](https://x.com/DefiIgnas/status/2122988874796556460) (♥4)
 
-**@QwQiao** (2)
-- 2026-11-17 22:45 UTC · пост · ❤ 28708 — nvidia board: we do not intend to reinstate jensen as ceo nvidia shareholders: we do not intend to let this board serve another term — https://x.com/QwQiao/status/2122823550549602358
+### @CryptoWendyO — 44
+- 2026-11-19 04:45 [reply] @iamramekin I literally could care less — [ссылка](https://x.com/CryptoWendyO/status/2123276333677707348) (♥6)
+- 2026-11-19 04:44 [reply] @JesseOlson I have on Nintendo I think   We use to all hang out as teens — [ссылка](https://x.com/CryptoWendyO/status/2123276176756232337) (♥1)
+- 2026-11-19 04:44 [reply] @devchart Not you too 😭 — [ссылка](https://x.com/CryptoWendyO/status/2123276091829915743) (♥1)
+- 2026-11-19 04:43 [reply] @haenko21 Ha! — [ссылка](https://x.com/CryptoWendyO/status/2123276038021238949) (♥2)
+- 2026-11-19 04:14 [original] Goodnight to everyone who spent time doing the things they love the most like playing GTA6 https://t.co/OAyokNX4HH — [ссылка](https://x.com/CryptoWendyO/status/2123268528308690977) (♥204)
+- 2026-11-19 04:03 [reply] @WhaleBearMan Hey now. I don’t get involved in animal politics   They do their thing and I respect their boundaries. I’m also deathly afraid of kangaroos. They’re so intriguing but scary. — [ссылка](https://x.com/CryptoWendyO/status/2123265768024596911) (♥1)
+- 2026-11-19 03:51 [reply] @WhaleBearMan Yeah I’m hilarious — [ссылка](https://x.com/CryptoWendyO/status/2123262907828105298) (♥2)
+- 2026-11-19 03:26 [reply] @Dagnum_PI @DrewWeidert 14M views in the last 30 days and less bots — [ссылка](https://x.com/CryptoWendyO/status/2123256646713626893) (♥1)
+- 2026-11-19 03:25 [reply] @EricWallin12 Who even knows anymore   I wasnt earlier but now am again — [ссылка](https://x.com/CryptoWendyO/status/2123256409005682901) (♥11)
+- 2026-11-19 03:25 [reply] @Disco_wog @EricWallin12 5’1 — [ссылка](https://x.com/CryptoWendyO/status/2123256321663537296) (♥0)
+- 2026-11-19 03:24 [reply] @313gamba @EricWallin12 I’m married — [ссылка](https://x.com/CryptoWendyO/status/2123256195716903300) (♥2)
+- 2026-11-19 03:24 [reply] @CryptoParadyme Send me food now — [ссылка](https://x.com/CryptoWendyO/status/2123256117333754128) (♥1)
+- 2026-11-19 03:24 [reply] @CryptoEmpressX They get no defense on this — [ссылка](https://x.com/CryptoWendyO/status/2123256068746936485) (♥15)
+- 2026-11-19 02:32 [retweet] RT @Emvee420_: @CryptoWendyO True but wen pfp? https://t.co/e1v4dpcQOM — [ссылка](https://x.com/CryptoWendyO/status/2123243038659281185) (♥0)
+- 2026-11-19 02:32 [reply] @EricWallin12 I’m 104lbs — [ссылка](https://x.com/CryptoWendyO/status/2123242974066946524) (♥54)
+- 2026-11-19 02:32 [reply] @Based_AllMight We are in a population crisis — [ссылка](https://x.com/CryptoWendyO/status/2123242893439828025) (♥18)
+- 2026-11-19 02:31 [reply] @CLOUT_COCKS It’s coming   Set notis — [ссылка](https://x.com/CryptoWendyO/status/2123242762590167132) (♥17)
+- 2026-11-19 02:30 [reply] @MurrayHillGuy1 Absolutely false — [ссылка](https://x.com/CryptoWendyO/status/2123242433366642732) (♥0)
+- 2026-11-19 02:17 [reply] @TheKevinDalton Me fixing my garbage disposal 😂 — [ссылка](https://x.com/CryptoWendyO/status/2123239242289881170) (♥7)
+- 2026-11-19 02:12 [reply] @saint_jawn_ Sir. — [ссылка](https://x.com/CryptoWendyO/status/2123238027116138583) (♥2)
+- 2026-11-19 02:11 [original] Grown men would rather play GTA6 than have sex. — [ссылка](https://x.com/CryptoWendyO/status/2123237772937027632) (♥873)
+- 2026-11-19 01:45 [reply] @BoredElonMusk This is generally correct   Just becuase someone can pass math classes they should not be healthcare providers   I’ve seen dozens of them and most are absolutely worthless, Kaiser is th — [ссылка](https://x.com/CryptoWendyO/status/2123231150269514090) (♥3)
+- 2026-11-19 00:49 [reply] @CapitanJack242 THIS — [ссылка](https://x.com/CryptoWendyO/status/2123216938335883574) (♥0)
+- 2026-11-19 00:48 [reply] @tding35x @itsthatgigi @youfadedwealth Man lol I’ve been here since 2017 — [ссылка](https://x.com/CryptoWendyO/status/2123216907302244598) (♥2)
+- 2026-11-19 00:48 [reply] @bourbonroad Mine did and it’s always impressive how far a lot of us have come but I get your point — [ссылка](https://x.com/CryptoWendyO/status/2123216816940155186) (♥1)
+- 2026-11-19 00:26 [reply] @itsthatgigi @youfadedwealth I’ve always been asked to do a series reading mine but never did. We should do it together. — [ссылка](https://x.com/CryptoWendyO/status/2123211394086785306) (♥8)
+- 2026-11-19 00:00 [original] Your ancestors didn’t survive since the beginning of time for you to be a doomer over AI and new technology. https://t.co/XELWLYxpeQ — [ссылка](https://x.com/CryptoWendyO/status/2123204615600562181) (♥171)
+- 2026-11-18 23:36 [reply] @X_Giotto_X I just don’t want to go back to a worse hell — [ссылка](https://x.com/CryptoWendyO/status/2123198751624057300) (♥1)
+- 2026-11-18 23:36 [reply] @ifillwicks Adorable — [ссылка](https://x.com/CryptoWendyO/status/2123198672083292307) (♥8)
+- 2026-11-18 23:13 [reply] @Cryptoshi_Calls You first — [ссылка](https://x.com/CryptoWendyO/status/2123193005020705140) (♥1)
+- 2026-11-18 22:34 [reply] @RyanGarcia No Ryan, that’s not what Bill Gates wants — [ссылка](https://x.com/CryptoWendyO/status/2123182976045613065) (♥19)
+- 2026-11-18 22:06 [reply] @verysillyeth Annoying as hell — [ссылка](https://x.com/CryptoWendyO/status/2123176163816382945) (♥2)
+- 2026-11-18 22:00 [original] GARY GENSLER IS DEMONIC  I don’t know why anyone still listens to him.  We’re already in a recession.  Food, energy, and shelter are way too high.  The official numbers are being manipulated and he st — [ссылка](https://x.com/CryptoWendyO/status/2123174422467280930) (♥64)
+- 2026-11-18 20:55 [original] Can you all shut the fxck up about MEMECOINS.   Trade them or don’t trade them. — [ссылка](https://x.com/CryptoWendyO/status/2123158151856001455) (♥264)
+- 2026-11-18 20:36 [reply] @mrnguyen007 I’m tired friend — [ссылка](https://x.com/CryptoWendyO/status/2123153375672045746) (♥4)
+- 2026-11-18 20:36 [reply] @Dmoneyacct Do you see how the internet treats women? — [ссылка](https://x.com/CryptoWendyO/status/2123153344416100491) (♥0)
+- 2026-11-18 20:00 [original] I feel for those who are actually struggling   But the entitlement and of those who don’t put in the effort is astounding   The economy sucks but you can make it   If I can figure it out and survive a — [ссылка](https://x.com/CryptoWendyO/status/2123144214456541688) (♥171)
+- 2026-11-18 18:42 [original] PREPARE NOW BILL GATES WARNS OF CYBERATTACKS as Nvidia Faces SEC Probe and Bitcoin Gets HAMMERED!✨ JOIN THE LIVE CONVERSATION ON YOUTUBE! https://t.co/scqeDuhqeb — [ссылка](https://x.com/CryptoWendyO/status/2123124778311541103) (♥53)
+- 2026-11-18 17:00 [original] Crypto things you might have missed:  - $BTC below $63,000 -Gates: giant cyberattack may force AI rules -Get crypto and TradFi exposure at @Bitbase_Ex -Fed: blockchain breaks bank monopoly -1inch warn — [ссылка](https://x.com/CryptoWendyO/status/2123098923891900485) (♥56)
+- 2026-11-18 15:53 [reply] @AgentChud I agree with this.   The extreme mental illness combined with incredible technical talent will not be defeated — [ссылка](https://x.com/CryptoWendyO/status/2123082252771082535) (♥2)
+- 2026-11-18 15:00 [original] BREAKING: Ripple's XRP Ledger becomes the first public Layer 1 blockchain independently verified against key GL1 banking infrastructure standards — [ссылка](https://x.com/CryptoWendyO/status/2123068722785193993) (♥1064)
+- 2026-11-18 13:56 [reply] @DimitriosSamur3 If you are a construction worker it is and a parent of a newborn — [ссылка](https://x.com/CryptoWendyO/status/2123052629601477036) (♥0)
+- 2026-11-18 13:53 [reply] @DigitalAssetGuy Thanks for having me on — [ссылка](https://x.com/CryptoWendyO/status/2123051897787760935) (♥3)
+- 2026-11-18 13:00 [original] HUGE: 🚨 Anthropic is set to price its IPO today, targeting a valuation of up to $1.4 trillion, ahead of its Nasdaq debut tomorrow under $ANT https://t.co/3ewcIFnkjv — [ссылка](https://x.com/CryptoWendyO/status/2123038525847200240) (♥79)
 
-**@lmrankhan** (4)
-- 2026-11-17 19:22 UTC · цитата · ❤ 105 — Apply if you are looking to change the world. https://t.co/phtLSPNWfG — https://x.com/lmrankhan/status/2122772285052334522
-- 2026-11-17 13:57 UTC · ответ · ❤ 2 — @bobbyong @coingecko @SolanaFndn Congrats Bobby! — https://x.com/lmrankhan/status/2122690679411535960
-- 2026-11-17 19:38 UTC · ответ · ❤ 1 — @strangeraisin @Sebastianq2001 @rriccio thanks Ishan — https://x.com/lmrankhan/status/2122776418916385014
+### @blknoiz06 — 42
+- 2026-11-19 06:44 [reply] @lewnn33 @TheMisterTurtle https://t.co/HsApOZ4omm — [ссылка](https://x.com/blknoiz06/status/2123306293226271165) (♥101)
+- 2026-11-19 06:34 [reply] @TheMisterTurtle https://t.co/qK9GZIYjw1 — [ссылка](https://x.com/blknoiz06/status/2123303827239588064) (♥117)
+- 2026-11-19 06:32 [reply] @WhiteHouse https://t.co/H7vuCqh8DQ — [ссылка](https://x.com/blknoiz06/status/2123303267258277967) (♥173)
+- 2026-11-19 06:31 [reply] @0xWara https://t.co/dcmNsTJOah — [ссылка](https://x.com/blknoiz06/status/2123303161272349109) (♥111)
+- 2026-11-19 06:31 [reply] @I4NFTS https://t.co/G1vhD8w0uA — [ссылка](https://x.com/blknoiz06/status/2123303101213855756) (♥85)
+- 2026-11-19 06:30 [reply] @inversebrah https://t.co/3kpe3efMjE — [ссылка](https://x.com/blknoiz06/status/2123302963427069964) (♥142)
+- 2026-11-19 06:30 [reply] @ImNewlyChinese https://t.co/ULyq5BkTYN — [ссылка](https://x.com/blknoiz06/status/2123302788088127844) (♥101)
+- 2026-11-19 06:29 [reply] @X https://t.co/eehnD7nQYv — [ссылка](https://x.com/blknoiz06/status/2123302733071479066) (♥122)
+- 2026-11-19 06:27 [reply] @0xAvast https://t.co/fmnVHKnLpX — [ссылка](https://x.com/blknoiz06/status/2123302178140172738) (♥72)
+- 2026-11-19 06:27 [reply] @Chr1sMtl https://t.co/R6VRCoG4Vm — [ссылка](https://x.com/blknoiz06/status/2123302117972783302) (♥98)
+- 2026-11-19 06:26 [reply] @crocsmaxi @iAmNihaoCat @mihaopfps @faceofsol https://t.co/wPWswWNuj3 — [ссылка](https://x.com/blknoiz06/status/2123301850812191101) (♥153)
+- 2026-11-19 00:11 [reply] @bigballseddy @a1lon9 @Pumpfun nigga does that say 8.4k -&gt; 8.4k 🫩 — [ссылка](https://x.com/blknoiz06/status/2123207438350315563) (♥164)
+- 2026-11-18 19:14 [reply] @Igetjeeted333 LMFAOOOOOOOOOO — [ссылка](https://x.com/blknoiz06/status/2123132797863034922) (♥88)
+- 2026-11-18 19:04 [retweet] RT @JakeFrmOhio: If you're an influencer, you're presented a dilemma when trading microcaps publicly https://t.co/lojiPrsBvP — [ссылка](https://x.com/blknoiz06/status/2123130328076501024) (♥0)
+- 2026-11-18 18:25 [retweet] RT @RyanWatkins_: https://t.co/mVYKXf7PcP — [ссылка](https://x.com/blknoiz06/status/2123120433084162556) (♥0)
+- 2026-11-18 18:25 [retweet] RT @andyyy: Welcome, Syncracy Capital 🤠  $PEARL — [ссылка](https://x.com/blknoiz06/status/2123120408597786696) (♥0)
+- 2026-11-18 18:22 [retweet] RT @vibhu: Solana solved spot over 6 years with multiple venues at every layer of its market structure competing to win  Solana will solve… — [ссылка](https://x.com/blknoiz06/status/2123119750016311565) (♥0)
+- 2026-11-18 18:22 [retweet] RT @Poly_Perps: ANNOUNCING: The $30K Anthropic IPO Blitz on Polymarket Perps.‍‍‍‍  Prizes for the top 20 traders, with 5× boosted scoring o… — [ссылка](https://x.com/blknoiz06/status/2123119584559485279) (♥0)
+- 2026-11-18 18:10 [reply] @artsch00lreject how is rh onchain different than sol onchain — [ссылка](https://x.com/blknoiz06/status/2123116632864371090) (♥131)
+- 2026-11-18 18:09 [reply] @factorydoge69 😭 — [ссылка](https://x.com/blknoiz06/status/2123116441335714072) (♥37)
+- 2026-11-18 18:07 [retweet] RT @Saint10Fourteen: only called out 1 coin today. still have no clue how it’s all calculated, but i’m not complaining. it’s literally free… — [ссылка](https://x.com/blknoiz06/status/2123115906553516411) (♥0)
+- 2026-11-18 18:07 [reply] @Saint10Fourteen imagine that! — [ссылка](https://x.com/blknoiz06/status/2123115878988263680) (♥57)
+- 2026-11-18 18:06 [quote] hey i think this one is good bros https://t.co/LbzaMVGHPU — [ссылка](https://x.com/blknoiz06/status/2123115646473113905) (♥477)
+- 2026-11-18 18:05 [quote] summoning all plumbers https://t.co/GfRNTt3m6t — [ссылка](https://x.com/blknoiz06/status/2123115509545934939) (♥435)
+- 2026-11-18 18:05 [retweet] RT @a1lon9: It's time to find out who the best onchain perps traders are!  Since perps launched on the Pumpfun app, daily perps traders hav… — [ссылка](https://x.com/blknoiz06/status/2123115446371250323) (♥0)
+- 2026-11-18 18:05 [reply] @I4NFTS hehe — [ссылка](https://x.com/blknoiz06/status/2123115401601003887) (♥44)
+- 2026-11-18 18:05 [original] gmihao gamblers https://t.co/PyVZrNjsxy — [ссылка](https://x.com/blknoiz06/status/2123115327248560334) (♥902)
+- 2026-11-18 18:04 [reply] @saintniko twin — [ссылка](https://x.com/blknoiz06/status/2123115079898202430) (♥57)
+- 2026-11-18 18:04 [retweet] RT @saintniko: you either work in crypto because you a) believe it’s transformative technology that leads to human flourishing or b) are se… — [ссылка](https://x.com/blknoiz06/status/2123115058297508305) (♥0)
+- 2026-11-18 18:02 [reply] @meowXBT so true! — [ссылка](https://x.com/blknoiz06/status/2123114622865834240) (♥55)
+- 2026-11-18 18:00 [quote] we are here again, same level from the summer, 2021 previous all time highs, support level from most of 2024 range  if we are at beginning of bull we should not trade beneath 57k for any extended peri — [ссылка](https://x.com/blknoiz06/status/2123114160481337656) (♥1211)
+- 2026-11-18 17:54 [original] iight bros i fear we are approaching a do or die spot for the coins next few weeks — [ссылка](https://x.com/blknoiz06/status/2123112670278844720) (♥1128)
+- 2026-11-18 17:54 [reply] @notthreadguy we got some history on the books lowkey haha — [ссылка](https://x.com/blknoiz06/status/2123112522651975956) (♥30)
+- 2026-11-18 17:36 [original] back in 2024, i had a conversation with @notthreadguy about how leverage should actually be used in trading  one of the biggest mistakes i see is people leveraging their entire portfolio instead of us — [ссылка](https://x.com/blknoiz06/status/2123108125209494009) (♥509)
+- 2026-11-18 16:23 [original] wow — [ссылка](https://x.com/blknoiz06/status/2123089696884408356) (♥898)
+- 2026-11-18 12:39 [reply] @AbsorbA11 1 coin at 1b+ &amp; all of this arguing will go away — [ссылка](https://x.com/blknoiz06/status/2123033327498354848) (♥832)
+- 2026-11-18 12:38 [retweet] RT @Saint10Fourteen: karma is real https://t.co/raliKeLTnn — [ссылка](https://x.com/blknoiz06/status/2123033164042158488) (♥0)
+- 2026-11-18 11:58 [reply] @LomahCrypto yes — [ссылка](https://x.com/blknoiz06/status/2123022956204802370) (♥87)
+- 2026-11-18 11:53 [reply] @0xKNL__ @drag0nm4n 😂 — [ссылка](https://x.com/blknoiz06/status/2123021895918399535) (♥20)
+- 2026-11-18 11:53 [reply] @drag0nm4n @catcat560 i didnt say it made up for it, but the data is public, traders who would never make money on any other social media platform are making money from callouts, ppl with very small f — [ссылка](https://x.com/blknoiz06/status/2123021705899569232) (♥21)
+- 2026-11-18 11:51 [reply] @ObitoCrypto i agree! — [ссылка](https://x.com/blknoiz06/status/2123021169146372496) (♥85)
+- 2026-11-18 11:04 [reply] @toly good brotha 😁 https://t.co/poQ5tEUZPr — [ссылка](https://x.com/blknoiz06/status/2123009495177568376) (♥550)
 
-**@arthur0x** (3)
-- 2026-11-17 16:53 UTC · ответ · ❤ 121 — @JensenHuang Call a shareholders meeting to replace the board of directors, you have all of our support to return as CEO and replace all the board members — https://x.com/arthur0x/status/2122734853338829033
-- 2026-11-17 16:53 UTC · цитата · ❤ 93 — Looking forward to the return of the King. https://t.co/uKnCL6njd5 — https://x.com/arthur0x/status/2122734940546879923
+### @toly — 36
+- 2026-11-19 00:58 [retweet] RT @0xNull: We’re excited to announce that Null has raised $1.7M in pre-seed funding led by @cyberfund and @Nethermind, and angels @NoahZin… — [ссылка](https://x.com/toly/status/2123219379345379515) (♥0)
+- 2026-11-19 00:54 [reply] @Theptilla Make me proud, put some stocks and productive assets in there. — [ссылка](https://x.com/toly/status/2123218331209716149) (♥63)
+- 2026-11-19 00:54 [quote] 👑👑👑 https://t.co/mUY4n9huOC — [ссылка](https://x.com/toly/status/2123218201941250180) (♥87)
+- 2026-11-19 00:36 [retweet] RT @armaniferrante: Bigger better faster stronger — [ссылка](https://x.com/toly/status/2123213753525448954) (♥0)
+- 2026-11-18 23:54 [quote] 👑👑👑 https://t.co/Ksy55gIWUW — [ссылка](https://x.com/toly/status/2123203105303261522) (♥45)
+- 2026-11-18 23:53 [retweet] RT @fd_ripatel: Solana's running on the 🇺🇸🇺🇸 IBM 🇺🇸🇺🇸 mainframe 🦅🦅  Curing my yellow fever after using too many Chinese models and RISC-V c… — [ссылка](https://x.com/toly/status/2123203041012904050) (♥0)
+- 2026-11-18 22:39 [retweet] RT @joshyote: anyone else leave breakpoint feeling like they need to pivot to game design after hacking on the badges??  shoutout @NanoComm… — [ссылка](https://x.com/toly/status/2123184402104754525) (♥0)
+- 2026-11-18 22:38 [retweet] RT @ansonlin: Nikita Bier on how to make things go viral https://t.co/Js3aNQw0PE — [ссылка](https://x.com/toly/status/2123184075322364016) (♥0)
+- 2026-11-18 17:47 [quote] Based https://t.co/h3Fp9zUKxT — [ссылка](https://x.com/toly/status/2123110955773235238) (♥112)
+- 2026-11-18 17:45 [quote] https://t.co/vP69I3TY8W https://t.co/bGVhhSIr2U — [ссылка](https://x.com/toly/status/2123110356331724968) (♥276)
+- 2026-11-18 17:30 [reply] @dankrad @drjasper_eth @andyyy Nothing about store of value makes any sense. — [ссылка](https://x.com/toly/status/2123106496083054897) (♥7)
+- 2026-11-18 17:26 [reply] @0xAbhiP Each one has isolated custodian risk.  That risk is part of any investment, it’s important that it’s isolated though. — [ссылка](https://x.com/toly/status/2123105471100043365) (♥12)
+- 2026-11-18 17:12 [quote] This is my bitcoin 3.0; i hope solana has so much adoption that sol would be a part of this Kelley optimized portfolio https://t.co/EkAN5a6TTD — [ссылка](https://x.com/toly/status/2123102118357995529) (♥291)
+- 2026-11-18 16:49 [quote] 🐜🐜🐜 https://t.co/6KA6PmhSOa — [ссылка](https://x.com/toly/status/2123096349877174632) (♥47)
+- 2026-11-18 16:47 [quote] 👑👑👑 https://t.co/Q45trLFHi6 — [ссылка](https://x.com/toly/status/2123095837500965012) (♥39)
+- 2026-11-18 16:44 [quote] 👑👑👑 https://t.co/64XfJq1Ihf — [ссылка](https://x.com/toly/status/2123095044693561839) (♥36)
+- 2026-11-18 16:44 [quote] 👑👑👑 https://t.co/h8KTBClRx8 — [ссылка](https://x.com/toly/status/2123094907816706251) (♥43)
+- 2026-11-18 16:41 [quote] 👑👑👑 https://t.co/bNuyTm1cvn — [ссылка](https://x.com/toly/status/2123094237835342146) (♥37)
+- 2026-11-18 16:22 [quote] DEX #916533 was finally competitive with uniswap 5 years ago. https://t.co/4UYCYQOfsQ — [ссылка](https://x.com/toly/status/2123089347205587447) (♥80)
+- 2026-11-18 16:18 [quote] Incredibly based https://t.co/nr8aVv0cIx — [ссылка](https://x.com/toly/status/2123088456511574052) (♥65)
+- 2026-11-18 16:17 [retweet] RT @cavemanloverboy: what are some good sf hotels for someone just getting into sf hotels — [ссылка](https://x.com/toly/status/2123088173668651055) (♥0)
+- 2026-11-18 16:11 [quote] We must not allow an anti-crypto army drone gap https://t.co/2EyH0TH9bP — [ссылка](https://x.com/toly/status/2123086686343340109) (♥35)
+- 2026-11-18 16:09 [quote] 👑👑👑 https://t.co/WcMYZQvsOS — [ссылка](https://x.com/toly/status/2123086108942815536) (♥20)
+- 2026-11-18 15:27 [retweet] RT @sunrise: See you at tomorrow's opening bell, Claude. https://t.co/E274ejkdC5 — [ссылка](https://x.com/toly/status/2123075530757156947) (♥0)
+- 2026-11-18 15:15 [original] What is a sov money one could actually shill to normies?   It’s a structured product that tracks the entire global economy, mag7, ant, spacex, unitreee,  all in one basket, with isolated risk in its c — [ссылка](https://x.com/toly/status/2123072705557938188) (♥228)
+- 2026-11-18 15:03 [quote] These breakpoint cardboard cutouts of me are getting ridiculously realistic https://t.co/Tq4sp1Fpsf — [ссылка](https://x.com/toly/status/2123069594650960276) (♥118)
+- 2026-11-18 15:02 [retweet] RT @tilo_cpn: we really brought programmable privacy to Solana before GTA 6 — [ссылка](https://x.com/toly/status/2123069361783263411) (♥0)
+- 2026-11-18 15:02 [retweet] RT @vibhu: Only 18.2 more hours to use my special code for Breakpoint ‘27 to get a ticket for only $50  BP27-VIBHU or click link in bio — [ссылка](https://x.com/toly/status/2123069253440217116) (♥0)
+- 2026-11-18 14:54 [retweet] RT @SolanaInstitute: Another amazing @solana Breakpoint. Thanks to everyone who stopped by our bus to say hi. https://t.co/raeDbgndbC — [ссылка](https://x.com/toly/status/2123067445254709739) (♥0)
+- 2026-11-18 14:51 [retweet] RT @marcryptonio: all on the same team — [ссылка](https://x.com/toly/status/2123066607094374547) (♥0)
+- 2026-11-18 14:43 [reply] @mert Chuckee cheese tokens are commodity money — [ссылка](https://x.com/toly/status/2123064632080540131) (♥31)
+- 2026-11-18 14:42 [retweet] RT @mert: seeing massive interest and inbound for this  if youre moving funds onchain as a business on Solana, get in touch and encrypt you… — [ссылка](https://x.com/toly/status/2123064352102359334) (♥0)
+- 2026-11-18 14:29 [reply] @vladtenev Incredible! 👑👑👑 — [ссылка](https://x.com/toly/status/2123060936097550493) (♥65)
+- 2026-11-18 13:41 [quote] 👑👑👑 https://t.co/nr8aVv0cIx — [ссылка](https://x.com/toly/status/2123048860364988744) (♥57)
+- 2026-11-18 13:40 [retweet] RT @vladtenev: Formally verify your smart contracts — [ссылка](https://x.com/toly/status/2123048784112611415) (♥0)
+- 2026-11-18 13:37 [quote] 🧠🧠🧠 https://t.co/sgpqG5HbDa — [ссылка](https://x.com/toly/status/2123048059051680079) (♥123)
 
-**@pythianism** (1)
-- 2026-11-17 16:33 UTC · пост · ❤ 195 — Please get on a Zoom call with me. I have important information to install on your computer — https://x.com/pythianism/status/2122729851811692961
+### @AshCrypto — 23
+- 2026-11-19 07:18 [original] ALTS MAY NOT BE DONE BLEEDING  Bitcoin is down -28%, but altcoin open interest only dropped from 42% to 39%.   That’s a very small decline, which means a lot of leverage is still sitting in alts.   We — [ссылка](https://x.com/AshCrypto/status/2123314916870565888) (♥78)
+- 2026-11-19 06:24 [original] The bear market will end in the next 30–45 days according to the 4 year cycle.  Only two scenarios can happen from here:  1. BTC bounces here, we get a few slow, boring weeks, then it reclaims the 50- — [ссылка](https://x.com/AshCrypto/status/2123301453213372840) (♥392)
+- 2026-11-19 05:08 [original] 🚨BREAKING:   BlackRock and other ETFs sold $306.5 Million worth of Bitcoin.  ETFs have already dumped over $3 BILLION so far this month. https://t.co/j2KyW9BWsa — [ссылка](https://x.com/AshCrypto/status/2123282343209378180) (♥428)
+- 2026-11-19 03:26 [original] 🚨 GOLD and SILVER ARE COLLAPSING  $470,000,000,000 wiped out from Gold and Silver in just 60 mins. https://t.co/hq9WkcvswR — [ссылка](https://x.com/AshCrypto/status/2123256667777499563) (♥1216)
+- 2026-11-18 23:22 [original] I’ve achieved at 30 what most people achieve at 60.  - Financial stress - High blood pressure - Body pain - Depression - No hair — [ссылка](https://x.com/AshCrypto/status/2123195207709806815) (♥1153)
+- 2026-11-18 21:58 [original] BREAKING: 🇺🇸 World Liberty Financial has bought back over $5,000,000 of $WLFI using USD1 in just one week. — [ссылка](https://x.com/AshCrypto/status/2123174036133859375) (♥598)
+- 2026-11-18 21:09 [original] 🚨The Fed warns If AI Boom cracks, the whole market could crash with it.  Fed minutes:    1. Stocks are highly overvalued and could see a large selloff.  2. Heavy leverage could trigger a crash like th — [ссылка](https://x.com/AshCrypto/status/2123161618129326084) (♥820)
+- 2026-11-18 20:22 [quote] Backpack to launch CFTC regulated perps in the US 🇺🇸🔥 https://t.co/G8Pq1m6nEN — [ссылка](https://x.com/AshCrypto/status/2123149812505944294) (♥216)
+- 2026-11-18 20:22 [reply] @Backpack Lets go 🤝 — [ссылка](https://x.com/AshCrypto/status/2123149774480343412) (♥6)
+- 2026-11-18 19:35 [reply] @BullTheoryio This is crazy — [ссылка](https://x.com/AshCrypto/status/2123137994786025899) (♥23)
+- 2026-11-18 19:17 [original] BREAKING: 🇺🇸 Fed says that a rate hike larger than 25bps may be appropriate in December. https://t.co/2mKnqaPIws — [ссылка](https://x.com/AshCrypto/status/2123133530624643552) (♥965)
+- 2026-11-18 18:58 [original] BREAKING: Saylor's $STRC just dropped below 96, its lowest level in almost 3 months.  HOLY SHIT... https://t.co/Xbmbi0vfzh — [ссылка](https://x.com/AshCrypto/status/2123128750909042800) (♥748)
+- 2026-11-18 16:58 [reply] @BullTheoryio 30 years of legacy destroyed by 1 women. https://t.co/GlXWZavKHM — [ссылка](https://x.com/AshCrypto/status/2123098486027829474) (♥22)
+- 2026-11-18 16:48 [original] Earlier, I didn't believe in diversification and was losing money in crypto.  Then my dad told me about the benefits of diversification.  Now I'm losing money in crypto, stocks, and metals all at once — [ссылка](https://x.com/AshCrypto/status/2123095936960495756) (♥2441)
+- 2026-11-18 15:46 [original] BREAKING: 🇷🇺 Russia’s largest private bank, Alfa-Bank with over 46 MILLION customers is now officially registered as a crypto exchange.  Russia is going all in on crypto. https://t.co/Kw46s86dor — [ссылка](https://x.com/AshCrypto/status/2123080369478218168) (♥2342)
+- 2026-11-18 14:53 [quote] WE ARE FUCKED!! https://t.co/H0I7zMez72 https://t.co/Sz3L9dD8Ds — [ссылка](https://x.com/AshCrypto/status/2123067017574129825) (♥1527)
+- 2026-11-18 13:42 [original] The only thing we didn't get before GTA 6: https://t.co/fe9ZnJYEFX — [ссылка](https://x.com/AshCrypto/status/2123049290360856805) (♥2041)
+- 2026-11-18 12:34 [original] BREAKING: 🇺🇸 $4.1 TRILLION GOLDMAN SACHS NOW HOLDS $1.28 BILLION WORTH OF BITCOIN, UP 121% IN Q3.  While retail is panicking, Wall Street is buying. https://t.co/XjySf7xoML — [ссылка](https://x.com/AshCrypto/status/2123032041612792127) (♥1384)
+- 2026-11-18 11:46 [original] The world has completely changed. https://t.co/p3sYf4olCh — [ссылка](https://x.com/AshCrypto/status/2123020026773221508) (♥769)
+- 2026-11-18 10:48 [original] BITCOIN BREAKOUT IS LOADING.  Pray for an upside move. https://t.co/58WQW7Y3IK — [ссылка](https://x.com/AshCrypto/status/2123005350798651538) (♥1474)
+- 2026-11-18 09:58 [original] Things we got before GTA 6:   - Global pandemic  - Flying cars  - Bitcoin crossed $100,000 - Elon bought Twitter - Trump won twice  - Resignation of Nvidia CEO  - AI started taking jobs - Multiple war — [ссылка](https://x.com/AshCrypto/status/2122992934328860919) (♥516)
+- 2026-11-18 08:39 [original] Q4 has rugged us. https://t.co/Y8arBbP6Rr — [ссылка](https://x.com/AshCrypto/status/2122973008428228790) (♥895)
+- 2026-11-18 07:36 [original] This is HUGE  World Bank Group joins Citi and Circle to explore USDC for faster and cheaper global payments.  Stablecoins are going mainstream 🚀 — [ссылка](https://x.com/AshCrypto/status/2122957108794871887) (♥1247)
 
-**@ZeMariaMacedo** (1)
-- 2026-11-17 11:04 UTC · пост · ❤ 10 — For a long time yet, AI is the lever and humans are the fulcrum. It's just such a massive lever that it's easy to miss the human Returns to judgment scale with  — https://x.com/ZeMariaMacedo/status/2122647111309148336
+### @Route2FI — 21
+- 2026-11-18 23:08 [reply] @rektdiomedes Real — [ссылка](https://x.com/Route2FI/status/2123191582295789955) (♥0)
+- 2026-11-18 22:25 [quote] Polymarket now has perps on the Anthropic IPO, plus a $30k comp running till Nov 24 with 5x scoring on $ANT.  If your gearing up to trade the largest event of the year, this seems like the place to do — [ссылка](https://x.com/Route2FI/status/2123180742083792930) (♥22)
+- 2026-11-18 21:38 [original] People in their 20s today: Can't afford a house. Salary doesn't grow. AI coming for the jobs. On top of that, they get the illusion that everyone else but them is winning through TikTok and IG.   Of c — [ссылка](https://x.com/Route2FI/status/2123168884379230337) (♥224)
+- 2026-11-18 21:30 [reply] @tervelix wdym man? — [ссылка](https://x.com/Route2FI/status/2123166864172012022) (♥0)
+- 2026-11-18 19:30 [reply] @cryptochimpanz This is very hard to answer, but back in 2020 I was aiming for $600k as my goal, reached it the year after, and just didn't stop.  For me, the FIRE journey was initially very inspiring — [ссылка](https://x.com/Route2FI/status/2123136754991718850) (♥4)
+- 2026-11-18 19:01 [quote] Well, if this thesis still holds for the 2028 halving, then it means buy around Dec 1st, 2026, which is only 2 weeks away, and sell around Sept 1, 2029. https://t.co/rYrt8HIzF7 — [ссылка](https://x.com/Route2FI/status/2123129477555421426) (♥150)
+- 2026-11-18 17:43 [quote] With BTC down, blockstack:native is an interesting beta play to look into IMO.  The idea is pretty simple. As Bitcoin capital starts getting yield, credit and trading markets, blockstack:native is nee — [ссылка](https://x.com/Route2FI/status/2123109892558909925) (♥270)
+- 2026-11-18 17:26 [reply] @ben_grossman real man. it is incredible! — [ссылка](https://x.com/Route2FI/status/2123105494038355978) (♥1)
+- 2026-11-18 17:12 [quote] Went long $NVDA at 158.82, and while I initially was up to $169 or so, I decided to close at 162.44. Lucky maybe, because it has been trading lower since.  What I like most about @clickoptions_ai is t — [ссылка](https://x.com/Route2FI/status/2123102048183079363) (♥305)
+- 2026-11-18 16:18 [original] bitcoin:native is retesting $62k from a few days ago. A few things hitting at once rn:  -A December Fed hike is basically 100% priced in, and Waller is now openly talking about 50bp  -BTC ETFs have se — [ссылка](https://x.com/Route2FI/status/2123088546403656155) (♥199)
+- 2026-11-18 15:57 [reply] @murtaza can confirm things don't change above $5m either heh — [ссылка](https://x.com/Route2FI/status/2123083299140833576) (♥8)
+- 2026-11-18 15:52 [reply] @TrustlessState Yep, I feel like my muting doesn’t help. Because the next day similar accounts appear there. — [ссылка](https://x.com/Route2FI/status/2123081943445045585) (♥1)
+- 2026-11-18 15:47 [reply] @TrustlessState Interesting. In its current form, this isn't possible, I guess. But you could make it curate the exact accounts you want and have them as a list, and this list can be continuously impr — [ссылка](https://x.com/Route2FI/status/2123080601494307268) (♥1)
+- 2026-11-18 15:18 [reply] @TrustlessState It works so well because of the Twitter integration. It's a game changer for my work, tbh, and I am sure you can relate since we do similar stuff. — [ссылка](https://x.com/Route2FI/status/2123073366928347443) (♥8)
+- 2026-11-18 14:24 [reply] @bishara real — [ссылка](https://x.com/Route2FI/status/2123059877572427810) (♥1)
+- 2026-11-18 14:15 [original] IMO, having somewhere between $500k and $1m is a weird spot to be in. It's not small, but it's not "set for life" either. You definitely feel the money because your life gets better. You can pay off d — [ссылка](https://x.com/Route2FI/status/2123057614531523040) (♥593)
+- 2026-11-18 10:57 [reply] @0xjawor DM — [ссылка](https://x.com/Route2FI/status/2123007803086242055) (♥0)
+- 2026-11-18 10:46 [reply] @avgcryptoguy @slamfest9k Lmaaaoo — [ссылка](https://x.com/Route2FI/status/2123004917023412276) (♥2)
+- 2026-11-18 10:08 [reply] @avgcryptoguy will DM you — [ссылка](https://x.com/Route2FI/status/2122995431374295078) (♥1)
+- 2026-11-18 10:06 [original] Ngl, using Grok Bot over the last few days made me realize that the gap between people who use AI well and those who don't will be the biggest edge of this decade. Most people are on the wrong side of — [ссылка](https://x.com/Route2FI/status/2122994843689627765) (♥693)
 
-**@Fiskantes** (5)
-- 2026-11-17 07:44 UTC · цитата · ❤ 15 — May all our wars be cyberwars from now on https://t.co/RnKqR6Bncd — https://x.com/Fiskantes/status/2122596817313378538
-- 2026-11-18 00:37 UTC · ответ · ❤ 0 — @beniduboss https://t.co/byhIZRDqQJ — https://x.com/Fiskantes/status/2122851760230273490
-- 2026-11-17 08:58 UTC · ответ · ❤ 0 — @dudusvicki Better than bombs hitting your roof — https://x.com/Fiskantes/status/2122615459262636310
+### @Fiskantes — 19
+- 2026-11-18 23:25 [reply] @AriDavidPaul @balwiles https://t.co/w6JKU41XQt — [ссылка](https://x.com/Fiskantes/status/2123195989909717270) (♥81)
+- 2026-11-18 23:16 [reply] @bigballsbulla I think you would really enjoy pugwalker2 account on IG  as an incel to fellow incel — [ссылка](https://x.com/Fiskantes/status/2123193685630468474) (♥2)
+- 2026-11-18 23:05 [quote] The Q3 earning numbers NVDA printed are a direct result of Jensen's business genius and decisions he made 2+ years ago  Markets are forward facing and understand that 2 years in the future the earning — [ссылка](https://x.com/Fiskantes/status/2123190806177542192) (♥30)
+- 2026-11-18 22:56 [quote] Solid power moves https://t.co/IO2jEhwKZB — [ссылка](https://x.com/Fiskantes/status/2123188683662856512) (♥16)
+- 2026-11-18 21:57 [reply] @bigballsbulla These CEOs can quit at any time and live like kings tho, they have this option  The thing is...they are addicted to the game...they know their lives would be empty without it — [ссылка](https://x.com/Fiskantes/status/2123173882949521795) (♥8)
+- 2026-11-18 21:56 [reply] @ilblackdragon So its a mirror asset using oracle, not real "stock on-chain" like what e.g. Backpack issues? — [ссылка](https://x.com/Fiskantes/status/2123173442660802761) (♥0)
+- 2026-11-18 21:51 [reply] @ilblackdragon What does it mean "natively issued"? — [ссылка](https://x.com/Fiskantes/status/2123172310215434365) (♥0)
+- 2026-11-18 21:43 [retweet] RT @Fiskantes: @bigballsbulla Jensen Huang did nothing wrong https://t.co/u7L12N3yVS — [ссылка](https://x.com/Fiskantes/status/2123170349307339141) (♥0)
+- 2026-11-18 21:43 [reply] @bigballsbulla Jensen Huang did nothing wrong https://t.co/u7L12N3yVS — [ссылка](https://x.com/Fiskantes/status/2123170321846907025) (♥17)
+- 2026-11-18 21:39 [quote] You aren't gonna stop the brain drain of deca millionaires who built the company through blood, sweat and tears with Jensen with a pay raise https://t.co/0fh2uDnnZk — [ссылка](https://x.com/Fiskantes/status/2123169279948541990) (♥49)
+- 2026-11-18 21:33 [retweet] RT @BillAckman: I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduci… — [ссылка](https://x.com/Fiskantes/status/2123167765246980235) (♥0)
+- 2026-11-18 14:29 [reply] @SrikarVaradaraj Hmm, however this would still not cover the claim "MOST businesses can run better with AI CEO than human CEO...MOST is very strong term, given how many different types of businesses t — [ссылка](https://x.com/Fiskantes/status/2123061093065162781) (♥1)
+- 2026-11-18 14:25 [reply] @SrikarVaradaraj I realize this is still quite fuzzy definition and we may need to iron it out a bit more, but I am happy to bet on this in principle — [ссылка](https://x.com/Fiskantes/status/2123060056899895568) (♥1)
+- 2026-11-18 14:23 [reply] @SrikarVaradaraj I'm happy to bet 100k USD against this claim:  "AI can run most businesses better than humans now"  So to make it specific, I am making a bet that  - in next 6 months since today ("no — [ссылка](https://x.com/Fiskantes/status/2123059531705884672) (♥2)
+- 2026-11-18 13:27 [reply] @nic_carter My reaction: https://t.co/iUDBpNsxmZ — [ссылка](https://x.com/Fiskantes/status/2123045309567717701) (♥1)
+- 2026-11-18 13:21 [reply] @SrikarVaradaraj "AI can run most businesses better than humans now"  Any examples? if this was true surely we would already see that in practice — [ссылка](https://x.com/Fiskantes/status/2123044009417253138) (♥0)
+- 2026-11-18 11:59 [quote] Might as well replace Jensen with a chatbot https://t.co/MzfDsOapTO — [ссылка](https://x.com/Fiskantes/status/2123023317036601698) (♥23)
+- 2026-11-18 11:07 [retweet] RT @Auki: AI has been better than humans at chess for 3 decades already. It's not a leap to believe they'll be better than humans at runnin… — [ссылка](https://x.com/Fiskantes/status/2123010101590323201) (♥0)
+- 2026-11-18 11:04 [retweet] RT @ASvanevik: visited @Auki in HK last week 🇭🇰  they’re doing super cool things with robotics in retail  here’s @broodsugar explaining it:… — [ссылка](https://x.com/Fiskantes/status/2123009393814024441) (♥0)
 
-**@santiagoroel** (3)
-- 2026-11-17 16:06 UTC · ответ · ❤ 4 — @CodexFX @PanteraCapital @dragonfly @cbventures 🔥 — https://x.com/santiagoroel/status/2122723060557979906
-- 2026-11-17 16:17 UTC · ответ · ❤ 1 — @Backpack 🎒 — https://x.com/santiagoroel/status/2122725833693671585
-- 2026-11-17 15:53 UTC · ответ · ❤ 0 — @bobbyong @coingecko @SolanaFndn congrats Bobby! — https://x.com/santiagoroel/status/2122719767975064003
+### @JamesWynnReal — 18
+- 2026-11-19 06:47 [reply] I made the money trading.   https://t.co/5eA97xheF7 — [ссылка](https://x.com/JamesWynnReal/status/2123307102353736078) (♥0)
+- 2026-11-19 06:44 [reply] @RushbrookSteven Do you believe everything you see and read?   Perception does not always meet reality. — [ссылка](https://x.com/JamesWynnReal/status/2123306455348675032) (♥3)
+- 2026-11-19 06:15 [original] If you are serious about making money in crypto, particularly in trading. Wether you are beginner or advanced and want to learn and level up, join my personal private Telegram below:   In here you are — [ссылка](https://x.com/JamesWynnReal/status/2123299186288525563) (♥13)
+- 2026-11-19 04:12 [original] I’am one of the best traders of our generation. — [ссылка](https://x.com/JamesWynnReal/status/2123268223705719060) (♥102)
+- 2026-11-19 04:09 [reply] @firstround_bust sold it years ago — [ссылка](https://x.com/JamesWynnReal/status/2123267319166337403) (♥0)
+- 2026-11-19 04:08 [reply] @TheMadHatterOnX whatever — [ссылка](https://x.com/JamesWynnReal/status/2123267212891046122) (♥0)
+- 2026-11-19 04:08 [reply] @CrashinoPlay haha 🤝 — [ссылка](https://x.com/JamesWynnReal/status/2123267184566870303) (♥1)
+- 2026-11-19 04:08 [reply] @Vibatron 🫡 — [ссылка](https://x.com/JamesWynnReal/status/2123267028236796350) (♥0)
+- 2026-11-19 04:07 [reply] @impixiecat Probably the exact same place as they were back then — [ссылка](https://x.com/JamesWynnReal/status/2123266941813154013) (♥3)
+- 2026-11-19 03:28 [original] My first lambo I ever bought back in the 2018 bull run, Lamborghini Huracan 5.2L v10, 8500 RPM.    The neighbor's were not happy when I came back late at night. Good times.   King 007 btw. Yeah I know — [ссылка](https://x.com/JamesWynnReal/status/2123257060397834373) (♥250)
+- 2026-11-19 01:37 [original] Everything is jus’ fine. We’re days away from a black swan event. https://t.co/VkbpO1JIfl — [ссылка](https://x.com/JamesWynnReal/status/2123229115595796673) (♥30)
+- 2026-11-18 16:00 [original] I pray BTC goes as low as possible. What an opportunity it will be. Get your buy orders in! — [ссылка](https://x.com/JamesWynnReal/status/2123083857612378619) (♥332)
+- 2026-11-18 15:05 [quote] 51.6% of people still believe in the financial system is not in its early stages of a collapse. We are undergoing a global monetary reset which typically occurs every 100 years (yes, its been I think  — [ссылка](https://x.com/JamesWynnReal/status/2123070159825043709) (♥82)
+- 2026-11-18 12:39 [quote] Europe are all on their own now.. https://t.co/3VViIsUUnc — [ссылка](https://x.com/JamesWynnReal/status/2123033348595671081) (♥95)
+- 2026-11-18 12:38 [reply] @MarioNawfal pathetic post — [ссылка](https://x.com/JamesWynnReal/status/2123033208929538507) (♥13)
+- 2026-11-18 12:27 [quote] I don’t think the European Union will be too pleased 😂 https://t.co/69lGPjtDRo — [ссылка](https://x.com/JamesWynnReal/status/2123030348842082649) (♥106)
+- 2026-11-18 12:12 [original] Is the US Stock Market going to PUMP or DUMP today? — [ссылка](https://x.com/JamesWynnReal/status/2123026540208472342) (♥23)
+- 2026-11-18 08:07 [quote] $BOBO is there trending on pump fun but we can’t even bond the damn coin. It’s a billion dollar narrative, closest iconic meme to $PEPE.   Timing is perfect we are in a BEAR MARKET. Wtf is wrong with  — [ссылка](https://x.com/JamesWynnReal/status/2122964864830218534) (♥22)
 
-**@EvgenyGaevoy** (2)
-- 2026-11-17 10:17 UTC · цитата · ❤ 143 — me and crypro/ai meltdown https://t.co/7GJAzJrsRb https://t.co/La2xv4iOfB — https://x.com/EvgenyGaevoy/status/2122635174735429999
-- 2026-11-17 07:59 UTC · ответ · ❤ 3 — @trading_axe I would but then to be fair I wouldn’t be able to come up with a scenario where I would meet the guy — https://x.com/EvgenyGaevoy/status/2122600612504461338
+### @CryptoKaleo — 18
+- 2026-11-19 03:52 [reply] @vladtenev Hmm — [ссылка](https://x.com/CryptoKaleo/status/2123263022328082870) (♥21)
+- 2026-11-19 00:07 [quote] A retest of the lows for $MSTR vs. $BTC is inevitable.  tldr:  MSTR is a money spicket for Strategy to protect its STRC dividend and avoid selling its Bitcoin (for optics).  They chose to dilute commo — [ссылка](https://x.com/CryptoKaleo/status/2123206527422976369) (♥75)
+- 2026-11-18 23:01 [retweet] RT @SuiNetwork: Some agents are customers. Some are attacks. Telling them apart is the hard part.  Mysten Labs CEO @KevinBoon_ML talks abou… — [ссылка](https://x.com/CryptoKaleo/status/2123189911067209850) (♥0)
+- 2026-11-18 22:38 [reply] @RobinhoodCrypto Hmm  You’re missing a lot of solid active Robinhood Chain communities   As @vladtenev said: “two wolves, memes &amp; RWAs” https://t.co/pHdQMsdWvX — [ссылка](https://x.com/CryptoKaleo/status/2123184159254516104) (♥31)
+- 2026-11-18 20:15 [reply] @tazmancrypto Hmm 🤔🐈 https://t.co/ttyffptLiL — [ссылка](https://x.com/CryptoKaleo/status/2123148227104969151) (♥28)
+- 2026-11-18 20:15 [retweet] RT @tazmancrypto: i'm starting to understand why $HMM keeps showing up on my timeline.   the community is putting in serious work. and hone… — [ссылка](https://x.com/CryptoKaleo/status/2123148066534404585) (♥0)
+- 2026-11-18 17:08 [reply] @blknoiz06 hmm — [ссылка](https://x.com/CryptoKaleo/status/2123100926860750860) (♥37)
+- 2026-11-18 16:36 [quote] @PhilOnChain basically a game of Russian roulette with zero blanks at this point  https://t.co/t9nnbfAVAl — [ссылка](https://x.com/CryptoKaleo/status/2123093058984325151) (♥5)
+- 2026-11-18 16:24 [original] Be careful chasing coins tied to narratives that are dependent on news and headlines.  e.g. have seen a lot of people chasing GTA VI coins  one of the most popular narratives has been what the name of — [ссылка](https://x.com/CryptoKaleo/status/2123090071364456699) (♥91)
+- 2026-11-18 15:59 [original] The Chase Banking mobile app just added “FDIC-Insured — Backed by the full faith and credit of the US Government” to the login screen for the first time ever 😭😭😭 https://t.co/Yqi02DI4Kh — [ссылка](https://x.com/CryptoKaleo/status/2123083639097348238) (♥95)
+- 2026-11-18 15:48 [reply] hmm  study relative strength https://t.co/tB0hgoapZj — [ссылка](https://x.com/CryptoKaleo/status/2123081015434617269) (♥31)
+- 2026-11-18 15:23 [original] robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f   Robinhood Chain needs a runner.  Thinking we'll see one soon 🤔🐈 https://t.co/B7BeFh8aUj — [ссылка](https://x.com/CryptoKaleo/status/2123074739027812564) (♥111)
+- 2026-11-18 15:22 [reply] @BluntCap hmm  what if I told you all you need is one coin to make it happen? https://t.co/1hOg8FUZtB — [ссылка](https://x.com/CryptoKaleo/status/2123074311778918746) (♥25)
+- 2026-11-18 14:55 [reply] @thinkingcatRH @Cryptoistheshi1 @seyong Hmm 🤔🐈 — [ссылка](https://x.com/CryptoKaleo/status/2123067469791433059) (♥14)
+- 2026-11-18 14:51 [reply] @Tradinator33 Hmm 🤔🐈 — [ссылка](https://x.com/CryptoKaleo/status/2123066599758295470) (♥8)
+- 2026-11-18 12:11 [original] People are acting like it’s not bullish that the biggest company in the world is letting an advanced AI model run it  https://t.co/gUfAU4uS4H — [ссылка](https://x.com/CryptoKaleo/status/2123026375254696216) (♥141)
+- 2026-11-18 11:25 [reply] robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f   The type of slow and steady grind higher you see before a god candle 🤔🐈  Think bigger. https://t.co/wCXHYnqfg9 — [ссылка](https://x.com/CryptoKaleo/status/2123014773113593916) (♥27)
+- 2026-11-18 11:16 [reply] @vladtenev Hmm  Any plans for rolling this out for Solidity? — [ссылка](https://x.com/CryptoKaleo/status/2123012495334068552) (♥6)
 
-**@gametheorizing** (2)
-- 2026-11-17 16:31 UTC · ответ · ❤ 14 — @intelinsightsx Im sure it was a late night mouseslip and Techno wasn't checking closely what he was pressing, all a misunderstand right? — https://x.com/gametheorizing/status/2122729319680360905
-- 2026-11-17 15:11 UTC · ответ · ❤ 3 — @demishassabis @IsomorphicLabs Goated Sir DH - a true inspiration for me 🫡 — https://x.com/gametheorizing/status/2122709283477582041
+### @dcfgod — 13
+- 2026-11-19 07:24 [reply] @Brentsketit I audibly laughed a few times, mostly at the irony of sitting on my couch pressing r2 to watch this guy nail in the roofing   They gotta know it’s funny — [ссылка](https://x.com/dcfgod/status/2123316415193354615) (♥3)
+- 2026-11-19 07:18 [original] 2h in I’ve fixed the house, done 2 workouts, had some protein, scrolled the social media only to find comments on some shitcoin, and put all my money in the floorboards… this is gonna be a long game 😭 — [ссылка](https://x.com/dcfgod/status/2123314930573283586) (♥23)
+- 2026-11-19 04:47 [reply] @sshxbt Think the ai hack wave created excessive fear in defi and trying new things but in a year or two these systems will be bug free and hardened by ai… then we can run it back — [ссылка](https://x.com/dcfgod/status/2123276899267023303) (♥6)
+- 2026-11-19 04:45 [reply] @bas3dp0tat6 @sshxbt higher low — [ссылка](https://x.com/dcfgod/status/2123276407384264824) (♥1)
+- 2026-11-19 04:33 [reply] @knlae_ And now I look broke too — [ссылка](https://x.com/dcfgod/status/2123273316916146486) (♥3)
+- 2026-11-19 04:31 [original] Eth at 1.7k has reduced my appetite more than retatrutide — [ссылка](https://x.com/dcfgod/status/2123272829668069753) (♥125)
+- 2026-11-19 03:12 [retweet] RT @zeroxkyle: I genuinely agree with this take, and don't know why there's so much conflict about it. As much as BTC still drives altcoin… — [ссылка](https://x.com/dcfgod/status/2123253067718316110) (♥0)
+- 2026-11-19 03:05 [original] Welcome to the future… my real car drives itself but I’ll spend my free time manually driving a virtual gta 6 car through traffic — [ссылка](https://x.com/dcfgod/status/2123251348808560856) (♥62)
+- 2026-11-19 01:56 [reply] @kakujain Alright I like him again — [ссылка](https://x.com/dcfgod/status/2123233914819101112) (♥15)
+- 2026-11-18 23:07 [quote] @econoar Meanwhile https://t.co/BAOYhum8fg — [ссылка](https://x.com/dcfgod/status/2123191490277175310) (♥12)
+- 2026-11-18 23:02 [quote] “My base case is we get WW2 level devastation.   Meaning 100m+ dead and a continent in disarray for years.  I’d put that at ~60% to happen in the next 4 years.”  1) WHAT? https://t.co/BAOYhum8fg — [ссылка](https://x.com/dcfgod/status/2123190175102799913) (♥500)
+- 2026-11-18 17:57 [retweet] RT @ryanberckmans: ETHBTC is showing resilience in these BTC/crypto crashes because eth's best days are ahead of us. We're on track to beco… — [ссылка](https://x.com/dcfgod/status/2123113451740709331) (♥0)
+- 2026-11-18 15:52 [reply] @IGN we’ve have ever — [ссылка](https://x.com/dcfgod/status/2123081987888218576) (♥1)
 
-**@tarunchitra** (6)
-- 2026-11-17 18:43 UTC · цитата · ❤ 18 — I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7Tk8S — https://x.com/tarunchitra/status/2122762684168802444
-- 2026-11-17 15:42 UTC · цитата · ❤ 18 — Wow, the U-series from DESRES lives on; proof that basic numerical analysis is still valuable in an AI era? 😅 https://t.co/S8yfx8Umii https://t.co/Oi9v6BsCLL — https://x.com/tarunchitra/status/2122717082395533507
-- 2026-11-18 07:10 UTC · цитата · ❤ 11 — OH: “@sunnya97, @zkDragon, and @Lsquaredleland walked so that @CalBlockchain could pivot from Cosmos to AI or ZCash as fast as humanly possible” https://t.co/iR — https://x.com/tarunchitra/status/2122950476580921444
+### @DegenerateNews — 13
+- 2026-11-18 21:20 [original] NEW: @Backpack CEO @armaniferrante SAYS "NO COMMUNITY IS MORE SAVAGE AND INSULTING (AND EFFECTIVE AT IT) THAN HL"  HE ALSO SAID $HYPE HOLDERS ARE "VICIOUS BEASTS" ONLINE  "HAS NO REFLECTION ON THE TEA — [ссылка](https://x.com/DegenerateNews/status/2123164559976399272) (♥125)
+- 2026-11-18 20:16 [original] NEW: @coinbase LAUNCHES SPOT MARGIN TRADING IN THE US WITH UP TO 10X LEVERAGE - ALLOWING TRADERS TO GO LONG OR SHORT  BUT ONLY FOR "ELIGIBLE CONTRACT PARTICIPANTS" - WHICH FOR INDIVIDUALS GENERALLY ME — [ссылка](https://x.com/DegenerateNews/status/2123148404393914848) (♥58)
+- 2026-11-18 19:31 [original] NEW: MEMECOIN TRADING PLATFORM @gmgnai CLAIMS ITS NEW "PROXIMA BUNDLE DETECTION" IDENTIFIES WALLETS AND TRANSACTIONS BUNDLED WITH THE PROXIMA TOOL "IN MILLISECONDS" AND FLAGS THEM IN REAL TIME https:/ — [ссылка](https://x.com/DegenerateNews/status/2123136945966416107) (♥781)
+- 2026-11-18 18:41 [original] NEW: @Ledger SAYS IT VERIFIED REPORTS OF TAMPERED DEVICES IN BERLIN AND FOUND ONE IMPACTED NANO GEN5 IN SOUTHEAST ASIA, AND IS PROBING TWO MORE IN DUBAI  SAYS THERE'S "NO FLAW" IN ITS SECURE CHIP OR O — [ссылка](https://x.com/DegenerateNews/status/2123124401575022897) (♥62)
+- 2026-11-18 18:33 [original] NEW: @telegram FOUNDER @durov SAYS "NVIDIA'S BOARD SHOULD BRING JENSEN BACK" IN REPLY TO @JensenHuang'S POST THANKING PEOPLE FOR THEIR "LOVE AND SUPPORT" OVER THE PAST WEEK https://t.co/utexYULt2z — [ссылка](https://x.com/DegenerateNews/status/2123122438493946005) (♥50)
+- 2026-11-18 16:07 [original] NEW: @saylor'S @Strategy PREFERRED STOCK $STRC DROPS 3.7% BELOW ITS $100 TARGET TO $96.33  AFTER FALLING AS MUCH AS 4.5% TO AN INTRADAY LOW OF $95.50 - ITS LOWEST SINCE AUGUST  $BTC BRIEFLY HIT 50% BE — [ссылка](https://x.com/DegenerateNews/status/2123085758290358626) (♥64)
+- 2026-11-18 15:55 [original] BREAKING: $BTC IS NOW 50% BELOW ITS $126,080 ALL-TIME HIGH FROM OCTOBER 2025 https://t.co/pIPhg3hPWL — [ссылка](https://x.com/DegenerateNews/status/2123082797254668775) (♥139)
+- 2026-11-18 15:46 [original] NEW: @StarkWareLtd CO-FOUNDER @EliBenSasson SAYS @AnthropicAI'S IPO PRICE IS "OVERVALUED" AT "ABOVE $1 TRILLION" - ARGUING THE VALUE OF ANY ONE AI COMPANY "WILL BE COMMODITIZED"  HE SAYS IT'S "NOT INV — [ссылка](https://x.com/DegenerateNews/status/2123080438671618093) (♥40)
+- 2026-11-18 14:47 [original] NEW: $61.7B MONTHLY VOLUME PERP DEX @variational_io RAISES $110M SERIES B AT A $1.5B VALUATION, LED BY @BainCapCrypto https://t.co/PMiKj3dgWQ — [ссылка](https://x.com/DegenerateNews/status/2123065624020836762) (♥95)
+- 2026-11-18 14:18 [original] NEW: @HyperliquidPC FILES RESPONSES TO UK REGULATOR @TheFCA - SAYING VALIDATORS AND DEVELOPERS "SHOULD NOT BE SUBJECT TO REGULATIONS THAT APPLY TO FIRMS OFFERING PRODUCTS AND SERVING CUSTOMERS" https: — [ссылка](https://x.com/DegenerateNews/status/2123058331187118126) (♥49)
+- 2026-11-18 13:51 [original] LEDGER, NOV 15-18  OPTIMIZELY MALWARE HIT @Ledger WEBSITE, NOW CLEANED  @MagicalTux'S REGISTRY CONFIRMS IMPLANT IN A DUBAI-BOUGHT LEDGER FLEX  OWNERS CLAIM DRAINS: 1.3K $SOL, 507K $USDT (VIRGIN MEGAST — [ссылка](https://x.com/DegenerateNews/status/2123051571894202469) (♥77)
+- 2026-11-18 12:53 [original] NEW: @blockaid_ DETECTS TWO ONGOING EXPLOITS MINUTES APART  ~$3.43M DRAINED FROM @k3_capital's sBOLD VAULT ON ETHEREUM  ~$454K DRAINED FROM TOKENIZED REAL ESTATE PLATFORM @Reental_co ON POLYGON VIA AN — [ссылка](https://x.com/DegenerateNews/status/2123036971098407040) (♥93)
+- 2026-11-18 09:34 [quote] NEW: @cobie SAYS THERE'S "NO ACTUAL DEAL" BETWEEN STREAMER @N3onOnYT AND @coinbase  DURING A STREAM, N3ON WAS APPROACHED BY A WOMAN WHO CLAIMED TO WORK FOR COINBASE AND OFFERED HIM A DEAL  "DON'T EVEN — [ссылка](https://x.com/DegenerateNews/status/2122986895097446659) (♥343)
 
-**@choffstein** (15)
-- 2026-11-17 22:04 UTC · пост · ❤ 153 — BlackRock is now writing articles about portable alpha in an ETF wrapper. And promoting a fund they haven't even launched yet. But I'm sure it's nothing. 🥞🚀 h — https://x.com/choffstein/status/2122813139582382530
-- 2026-11-17 15:21 UTC · ответ · ❤ 147 — @Ksidiii Private jet + patek flex on the time line is how you nuke your performance to hades, my friend. Say three "Hail Nasdaqs" and an "Our Father Warsh" to a — https://x.com/choffstein/status/2122711800080728477
-- 2026-11-18 02:38 UTC · пост · ❤ 42 — Romantic entanglements with foreign agents. International intrigue. A board agonizing over who should have the job. I really do think he’s the right man for it. — https://x.com/choffstein/status/2122882081521094993
+### @Theunipcs — 12
+- 2026-11-18 09:24 [reply] @iruletrenches only a matter of time — [ссылка](https://x.com/theunipcs/status/2122984363109552219) (♥131)
+- 2026-11-18 09:24 [retweet] RT @iruletrenches: trenches are so much better when the goat @theunipcs is up 8 figs on a single coin and schizo bullposting — [ссылка](https://x.com/theunipcs/status/2122984206037135789) (♥0)
+- 2026-11-18 09:10 [reply] @SteveIsBoreddd ❤️‍🔥❤️‍🔥🙏 — [ссылка](https://x.com/theunipcs/status/2122980786420723846) (♥22)
+- 2026-11-18 09:07 [reply] @6figBob @thefirstmoneth i already sent you funds twice i.e. $700 USDC   yet you make it seem as if i never sent you anything  there are many who haven't gotten anything yet and that deserve it, yet y — [ссылка](https://x.com/theunipcs/status/2122980054879621583) (♥34)
+- 2026-11-18 09:03 [reply] @SteveIsBoreddd i sent $200 to your fomo. best of luck! — [ссылка](https://x.com/theunipcs/status/2122979101497790582) (♥16)
+- 2026-11-18 09:02 [reply] @6figBob @thefirstmoneth if i asked, post it in response to my post asking and send the link here  i rarely do DMs — [ссылка](https://x.com/theunipcs/status/2122978720902197385) (♥19)
+- 2026-11-18 09:02 [reply] @praisefree4 @thefirstmoneth proof? — [ссылка](https://x.com/theunipcs/status/2122978642791661776) (♥12)
+- 2026-11-18 08:57 [reply] @SteveIsBoreddd send me your fomo username — [ссылка](https://x.com/theunipcs/status/2122977585688920155) (♥13)
+- 2026-11-18 08:55 [reply] @thefirstmoneth i just sent you $100 on fomo! — [ссылка](https://x.com/theunipcs/status/2122976989632176261) (♥16)
+- 2026-11-18 08:50 [retweet] RT @Altsteinn: $USELESS is always green when the rest of the market is red and outperforming when things get green  nothing changed. — [ссылка](https://x.com/theunipcs/status/2122975714206986339) (♥0)
+- 2026-11-18 08:48 [reply] @Altsteinn yeh, many have clearly forgotten what a $USELESS rally looks like! — [ссылка](https://x.com/theunipcs/status/2122975135334351323) (♥120)
+- 2026-11-18 08:47 [retweet] RT @Altsteinn: you guys really underestimate the power of a $USELESS szn tbh  let me remind you,  In July '25, we did $5m ➙ $405m in 50days… — [ссылка](https://x.com/theunipcs/status/2122975092401680573) (♥0)
 
-**@toly** (91)
-- 2026-11-18 05:24 UTC · пост · ❤ 573 — What’s up with the mustache cat? Good or bad? — https://x.com/toly/status/2122923798831956075
-- 2026-11-18 05:17 UTC · пост · ❤ 362 — 99.999% of compute will be in space. That means 99.999% of agents will be in space and these agents will do 99.999% of all blockchain transactions. We need a bl — https://x.com/toly/status/2122922195441856667
-- 2026-11-17 14:10 UTC · цитата · ❤ 224 — 🧠🧠🧠 https://t.co/8Yi83SyXBJ — https://x.com/toly/status/2122693981406417215
+### @lookonchain — 11
+- 2026-11-19 07:22 [original] The Binance hacker has moved another 137,602 $ETH ($248.23M) for laundering. https://t.co/jKWvcOSJCB https://t.co/ZcIoZLlAhA — [ссылка](https://x.com/lookonchain/status/2123315988565471543) (♥21)
+- 2026-11-19 03:28 [original] It's liquidation day again!  Six whales on Hyperliquid got liquidated a total of 30 times, with 618.24 $BTC ($38.73M) liquidated at prices ranging from $63,364 to $62,055.  Wallets: 0x6c2c8c6e60dfaf81 — [ссылка](https://x.com/lookonchain/status/2123257156531302619) (♥128)
+- 2026-11-19 03:12 [original] Whales are accumulating $ETH!  Four wallets withdrew a total of 13,408 $ETH ($23.73M) from FalconX, Galaxy Digital, and OKX.  https://t.co/bGTenneQRZ https://t.co/9YPjIQ18V8 https://t.co/6oUCtUpLF3 ht — [ссылка](https://x.com/lookonchain/status/2123253035371770345) (♥178)
+- 2026-11-19 01:54 [original] AguilaTrades(@AguilaTrades) closed his $BTC short 1 hour ago, making $1.37M in profit.  He then flipped long, opening a 40x long on 1,000 $BTC ($60.66M), and is now sitting on $500K in unrealized loss — [ссылка](https://x.com/lookonchain/status/2123233529429692514) (♥249)
+- 2026-11-19 01:39 [original] A mysterious whale is accumulating $PEPE!  Newly created wallet "0x5011" withdrew 1.9T $PEPE ($7.15M) from Binance over the past 2 days.  https://t.co/H7MH7yPHlP https://t.co/PxQEpqbHqQ — [ссылка](https://x.com/lookonchain/status/2123229538188673195) (♥303)
+- 2026-11-19 01:34 [original] Pump fun(@Pumpfun) dumped 33,390 $SOL($2.44M) again 2 hours ago!  In total, https://t.co/TcwYRTArT2 has sold 5,651,889 $SOL($890M) at an average price of $157.47.  https://t.co/kyztoJLCjt https://t.co — [ссылка](https://x.com/lookonchain/status/2123228375099818212) (♥181)
+- 2026-11-19 01:18 [quote] The #EthereumFoundation-linked wallet (0x5CBC) just dumped another 1,200 $ETH($2.14M). https://t.co/9XshsFOfT3 https://t.co/RJlDHwFSKG — [ссылка](https://x.com/lookonchain/status/2123224324601684020) (♥168)
+- 2026-11-18 15:02 [original] Nov 18 Update:  #Bitcoin ETFs: 1D NetFlow: -4,216 $BTC(-$269.46M)🔴 7D NetFlow: -14,277 $BTC(-$912.49M)🔴  #Ethereum ETFs: 1D NetFlow: -16,279 $ETH(-$29.14M)🔴 7D NetFlow: -121,489 $ETH(-$217.47M)🔴 https — [ссылка](https://x.com/lookonchain/status/2123069422525092327) (♥131)
+- 2026-11-18 14:05 [original] Whale bc1q7s deposited 1,040 $BTC($67.17M) to #Binance in the past 24 hours.  https://t.co/rvhW9Y5J7l https://t.co/JB2uWfrF2k — [ссылка](https://x.com/lookonchain/status/2123054971805675686) (♥154)
+- 2026-11-18 13:37 [original] Ahead of #Anthropic's market debut, a whale is building a massive short position on #Anthropic on #Hyperliquid!  The position has already reached $93.87M, with over $4M in unrealized profit.  https:// — [ссылка](https://x.com/lookonchain/status/2123047896409092499) (♥324)
+- 2026-11-18 10:17 [quote] The Binance hacker has moved another 78,415 $ETH ($142M) for laundering, continuing to swap the $ETH for $BTC via #THORChain. https://t.co/oyvL5c2L0n https://t.co/BXabl3UDJs — [ссылка](https://x.com/lookonchain/status/2122997562877821143) (♥233)
 
-**@a1lon9** (15)
-- 2026-11-17 18:34 UTC · цитата · ❤ 559 — Our vision is to make the Pumpfun app the most rewarding app on Earth. Since August we've paid $33,000,000 to nearly 55,000 callers on the Pumpfun app. Starting — https://x.com/a1lon9/status/2122760248511635810
-- 2026-11-17 22:02 UTC · ответ · ❤ 133 — @json1444 @PumpfunEco it’s literally pointless to trade anywhere else at this point — https://x.com/a1lon9/status/2122812524038873167
-- 2026-11-17 18:41 UTC · ответ · ❤ 106 — @Pumpfun @base The fastest AND most rewarding crosschain trading app #1. — https://x.com/a1lon9/status/2122762145545040001
+### @hosseeb — 10
+- 2026-11-19 04:41 [reply] @emilylai What was your answer? — [ссылка](https://x.com/hosseeb/status/2123275363984031986) (♥0)
+- 2026-11-19 04:40 [original] PSA https://t.co/xxPVHacE7U is still by far the most liquid venue to buy and sell $PRL, and doesn't require KYC  (long both) https://t.co/tdNRpDiw0w — [ссылка](https://x.com/hosseeb/status/2123275177782132803) (♥76)
+- 2026-11-19 03:20 [retweet] RT @hosseeb: Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.  This week we… — [ссылка](https://x.com/hosseeb/status/2123255037111754976) (♥0)
+- 2026-11-18 21:28 [retweet] RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.  Special episode feat. @Joshua_J_Lim!  Timestamps 00:00 Intro… — [ссылка](https://x.com/hosseeb/status/2123166487074746776) (♥0)
+- 2026-11-18 16:53 [retweet] RT @variational_lvs: Two years ago, @edward_yu_var &amp; I bet that on-chain trading didn’t need another exchange. It needed to aggregate globa… — [ссылка](https://x.com/hosseeb/status/2123097303116587116) (♥0)
+- 2026-11-18 15:59 [reply] @imfaziiii It's a good time to have money — [ссылка](https://x.com/hosseeb/status/2123083738871644338) (♥2)
+- 2026-11-18 15:57 [reply] @DylanGrabowski @joshua_j_lim Because some assets explode upward. Upside convexity exists at every stage. — [ссылка](https://x.com/hosseeb/status/2123083292299989304) (♥1)
+- 2026-11-18 15:17 [quote] Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.  This week we got into the sell-off with @Joshua_J_Lim, the Anthropic IPO, and a spicy d — [ссылка](https://x.com/hosseeb/status/2123073142805733724) (♥50)
+- 2026-11-18 15:14 [quote] RWA perps have grown massively this year, and Variational's RFQ model allows it to mainline deep TradFi liquidity for more trading pairs than any other DEX.  This thing just keeps growing and attracti — [ссылка](https://x.com/hosseeb/status/2123072257622990938) (♥184)
+- 2026-11-18 14:57 [retweet] RT @_choppingblock: Haseeb says voters hate AI and bringing Jensen back is how you get a revolt. Tarun's defense of Jensen is a one-liner.… — [ссылка](https://x.com/hosseeb/status/2123068105274638582) (♥0)
 
-**@rleshner** (4)
-- нет постов за окно
+### @choffstein — 10
+- 2026-11-18 23:21 [reply] @DaveNadig @syouth1 @maybebullish @awealthofcs I'm not opposed to disclosing financing costs.    But swaps make this trivial by construction.   It's highly non-trivial elsewhere.  And I think it's one — [ссылка](https://x.com/choffstein/status/2123194901374652564) (♥1)
+- 2026-11-18 23:09 [reply] @DaveNadig @syouth1 @maybebullish Here is the roll in WTI crude at every monthly roll since 1983, annualized. This is the "far price minus near price, divided by near price" part of your futures formu — [ссылка](https://x.com/choffstein/status/2123191832280514897) (♥5)
+- 2026-11-18 22:50 [reply] @DaveNadig @syouth1 @maybebullish Those very smart finance people should just look up the swap costs. They're publicly stated.  Anyway...  Roll = financing − carry on the underlying.   Only the net is — [ссылка](https://x.com/choffstein/status/2123187236099236243) (♥4)
+- 2026-11-18 22:23 [reply] @DaveNadig @syouth1 @maybebullish The contract rate on swaps is static, so you can quote it in your holdings.  The rate in futures, options, and perps is not.  Do I need to re-quote it daily?  By the  — [ссылка](https://x.com/choffstein/status/2123180419830997089) (♥0)
+- 2026-11-18 21:04 [reply] @DaveNadig @syouth1 @maybebullish Should a swap on the S&amp;P 500 disclose the financing rate when futures don't?  Should futures?  If so, how are we calculating that rate?  What about options?  What — [ссылка](https://x.com/choffstein/status/2123160316557046038) (♥2)
+- 2026-11-18 15:54 [retweet] RT @choffstein: Romantic entanglements with foreign agents.   International intrigue.   A board agonizing over who should have the job.   I… — [ссылка](https://x.com/choffstein/status/2123082510326194600) (♥0)
+- 2026-11-18 15:53 [reply] @Tanner_HL Probably a mix of what they think is easy to stack, something that they can point to a clear track record, as well as perceived market appetite. — [ссылка](https://x.com/choffstein/status/2123082195350761773) (♥2)
+- 2026-11-18 14:37 [reply] @HashOverCash21 https://t.co/X2YTWjIlku — [ссылка](https://x.com/choffstein/status/2123062960201605549) (♥8)
+- 2026-11-18 14:20 [quote] Looks like it was seeded with $40mm and launching today. https://t.co/vyUP7L1fgz https://t.co/obo4wCYlj5 — [ссылка](https://x.com/choffstein/status/2123058870943985922) (♥123)
+- 2026-11-18 12:23 [reply] @virologyanon Expand on "lousy execution." — [ссылка](https://x.com/choffstein/status/2123029274055626940) (♥1)
 
-**@LucaNetz** (3)
-- 2026-11-17 21:14 UTC · цитата · ❤ 215 — Human connection ❤️🐧💙 https://t.co/3nHWtC3912 — https://x.com/LucaNetz/status/2122800571459551492
-- 2026-11-17 16:59 UTC · ответ · ❤ 14 — @infoinvt We need @vladtenev — https://x.com/LucaNetz/status/2122736284276076765
-- 2026-11-17 19:54 UTC · ответ · ❤ 2 — @diox100 @pudgypenguins Welcome! — https://x.com/LucaNetz/status/2122780497281531993
+### @Orangie — 9
+- 2026-11-18 21:20 [reply] my grok bot texted me https://t.co/6jc1uAu1jh — [ссылка](https://x.com/orangie/status/2123164463444414776) (♥33)
+- 2026-11-18 20:46 [reply] @frizzaud man Miami real estate gonna have to 10x — [ссылка](https://x.com/orangie/status/2123155964618777009) (♥25)
+- 2026-11-18 20:43 [reply] @drag0nm4n YES — [ссылка](https://x.com/orangie/status/2123155271292006754) (♥7)
+- 2026-11-18 20:14 [reply] @404flipped though if the opportunity is presented I’ll probably depo — [ссылка](https://x.com/orangie/status/2123147791061143649) (♥6)
+- 2026-11-18 20:09 [reply] @404flipped out of ammo that I wanna risk — [ссылка](https://x.com/orangie/status/2123146514616996147) (♥17)
+- 2026-11-18 19:48 [reply] @volvoshine probably fade vice city night right — [ссылка](https://x.com/orangie/status/2123141189125742947) (♥6)
+- 2026-11-18 19:36 [original] lots can change in 12 hours   back to the drawing board   will be back 🤞🏻 https://t.co/odghmo3JuV — [ссылка](https://x.com/orangie/status/2123138361606996135) (♥655)
+- 2026-11-18 17:27 [reply] @CryptoGorilla oof — [ссылка](https://x.com/orangie/status/2123105837237534736) (♥18)
+- 2026-11-18 17:15 [original] the most expensive sleep of my life. https://t.co/V1an5WvnYQ — [ссылка](https://x.com/orangie/status/2123102692994388432) (♥1996)
 
-**@hansolar21** (4)
-- 2026-11-17 08:42 UTC · цитата · ❤ 76 — Things might get really weird next year https://t.co/EsdexCZzjK — https://x.com/hansolar21/status/2122611414552772999
-- 2026-11-18 00:20 UTC · цитата · ❤ 38 — is this the gen-z version of y2k? https://t.co/y0p3Y3LeKD — https://x.com/hansolar21/status/2122847320824033716
-- 2026-11-18 05:30 UTC · цитата · ❤ 31 — I found the perfect pnl card background @JustinCBram https://t.co/E2kWFsJ2Wd — https://x.com/hansolar21/status/2122925360526639357
+### @MustStopMurad — 9
+- 2026-11-18 21:09 [original] I love you all  Look into SPX6900  Credit: @tradfinightmare @spiritualgold69 https://t.co/sxyI03bndm — [ссылка](https://x.com/MustStopMurad/status/2123161734479544382) (♥627)
+- 2026-11-18 17:47 [original] Something biblical is coming.  Mark my words. — [ссылка](https://x.com/MustStopMurad/status/2123110858276618599) (♥2079)
+- 2026-11-18 17:10 [retweet] RT @CountryBitcoin: Just added 1% to my #spx6900 stack  May have a new goal in mind. — [ссылка](https://x.com/MustStopMurad/status/2123101584544674065) (♥0)
+- 2026-11-18 15:31 [original] The SPX6900 community is collecting up all the holder, consistent and long-term believer types.  And that’s the only type of participant that ultimately matters in the end. — [ссылка](https://x.com/MustStopMurad/status/2123076685977501731) (♥640)
+- 2026-11-18 14:33 [retweet] RT @arcane_vault: Girl is cute and she’s tired of it Cute little glitch they can’t autofix #SPX6900 https://t.co/GJfNpRxvuU — [ссылка](https://x.com/MustStopMurad/status/2123062015220761053) (♥0)
+- 2026-11-18 13:30 [original] Persistence is NECESSARY but not SUFFICIENT.  Belief is NECESSARY but not SUFFICIENT.  An epic Mission is NECESSARY but not SUFFICIENT.  Not giving up for years is NECESSARY but not SUFFICIENT.  But w — [ссылка](https://x.com/MustStopMurad/status/2123046132628471911) (♥666)
+- 2026-11-18 12:32 [retweet] RT @realcryptocow: Do whatever it takes to hit your accumulation goals.  There is nothing else like SPX6900 in any market. Opportunities th… — [ссылка](https://x.com/MustStopMurad/status/2123031570378547653) (♥0)
+- 2026-11-18 10:10 [original] After almost 14 years in Crypto, I can say that by far the most important thing that determines the success of any crypto asset is its community.  Once you understand this, your asset selection proces — [ссылка](https://x.com/MustStopMurad/status/2122995888284922105) (♥1329)
+- 2026-11-18 09:38 [retweet] RT @munchies1337: SPX6900 is the ultimate beneficiary of runaway recursive self improving super intelligence — [ссылка](https://x.com/MustStopMurad/status/2122987737469051337) (♥0)
 
-**@DefiIgnas** (23)
-- 2026-11-17 15:21 UTC · пост · ❤ 147 — You're bullish on a token and ask AI for its take. It always finds reasons to be bearish. E.g. - $BP only 20% of token converts to equity, volumes are low, reve — https://x.com/DefiIgnas/status/2122711694917120195
-- 2026-11-17 10:23 UTC · цитата · ❤ 137 — Coingecko could become one of the best trading apps People already used to open it, check prices/charts, and IMAGINE if token looks good they might just trade i — https://x.com/DefiIgnas/status/2122636835083944426
-- 2026-11-17 10:42 UTC · цитата · ❤ 101 — $BP repricing started. Still a lot more upside left. Next: $TRUE thanks to continuing Defillama integration +upcoming liquidity improvements $FLUID took months  — https://x.com/DefiIgnas/status/2122641635943288922
+### @a1lon9 — 9
+- 2026-11-18 20:38 [original] Over the past month, 1,194 people made the equivalent of a PS5 from Callout Rewards.  You could have called out coins on the Pumpfun app, played GTA 6 for free AND continued earning on your best calls — [ссылка](https://x.com/a1lon9/status/2123154008042852782) (♥584)
+- 2026-11-18 19:23 [retweet] RT @Saint10Fourteen: only called out 1 coin today. still have no clue how it’s all calculated, but i’m not complaining. it’s literally free… — [ссылка](https://x.com/a1lon9/status/2123134978192228730) (♥0)
+- 2026-11-18 17:30 [retweet] RT @json1444: bull or bear market  there is ENDLESS opportunity on the Pumpfun app  there is ZERO reason for you to not be involved in this… — [ссылка](https://x.com/a1lon9/status/2123106645165461951) (♥0)
+- 2026-11-18 17:28 [reply] @Pumpfun yet another HUGE competition and yet another reason to be on the Pumpfun app! — [ссылка](https://x.com/a1lon9/status/2123106099398168970) (♥61)
+- 2026-11-18 17:27 [quote] It's time to find out who the best onchain perps traders are!  Since perps launched on the Pumpfun app, daily perps traders have grown over 13x and weekly perps volume has gone from under $10M to over — [ссылка](https://x.com/a1lon9/status/2123105930166575280) (♥430)
+- 2026-11-18 17:26 [retweet] RT @Pumpfun: The Pumpfun app &amp; web has every tool a pro perps trader needs:   - 300+ Hyperliquid markets - Limit, TWAP, scale and trailing… — [ссылка](https://x.com/a1lon9/status/2123105472597340439) (♥0)
+- 2026-11-18 17:25 [retweet] RT @Pumpfun: Introducing one of the BIGGEST onchain perps trading competitions    $1,000,000 in prizes to the Top 10 eligible traders who a… — [ссылка](https://x.com/a1lon9/status/2123105426111906211) (♥0)
+- 2026-11-18 16:47 [reply] @0xFelix @Pumpfun @BasedDanBD @sapijiju excited to have you! — [ссылка](https://x.com/a1lon9/status/2123095824460587244) (♥93)
+- 2026-11-18 16:47 [retweet] RT @0xFelix: 在我大一的时候 刚进圈23年 pumpfun刚出来 那时候 @a1lon9 还是2k粉丝的时候 打心底 我特别感谢 @Pumpfun  真的彻底改变了我的生活 因为pumpfun 能让我说句thank crypto 当我赚到钱 给我爸妈买上劳力士 给家… — [ссылка](https://x.com/a1lon9/status/2123095795276857481) (♥0)
 
-**@dcfgod** (2)
-- нет постов за окно
+### @bon_g — 8
+- 2026-11-18 22:43 [original] I can’t buy this coin because someone I don’t like on the internet is one of the top holders — [ссылка](https://x.com/bon_g/status/2123185403960098935) (♥64)
+- 2026-11-18 22:36 [reply] @Tukytuky_ wow — [ссылка](https://x.com/bon_g/status/2123183468783735144) (♥0)
+- 2026-11-18 21:36 [reply] @grod_gg 😋 — [ссылка](https://x.com/bon_g/status/2123168421420703781) (♥2)
+- 2026-11-18 21:35 [reply] @luckygambles_ first — [ссылка](https://x.com/bon_g/status/2123168174824698319) (♥1)
+- 2026-11-18 21:32 [original] who would you pick?  Lucia or Mandy https://t.co/PYwbPAM5gh — [ссылка](https://x.com/bon_g/status/2123167542369734863) (♥61)
+- 2026-11-18 17:34 [reply] @a1lon9 huh — [ссылка](https://x.com/bon_g/status/2123107621813276929) (♥1)
+- 2026-11-18 16:27 [reply] @hkittycoin https://t.co/m7aoHOmNjQ — [ссылка](https://x.com/bon_g/status/2123090682768450041) (♥5)
+- 2026-11-18 16:23 [original] there were 100+ dacitycoin and everyone was praying to god they bought the chosen one  yes that was literally the entire strategy — [ссылка](https://x.com/bon_g/status/2123089716237255075) (♥64)
 
-**@rektdiomedes** (72)
-- 2026-11-18 00:49 UTC · пост · ❤ 37 — Crypto + Macro Stuff I'm Looking At Today ... - $NVDA earnings came in strong - Continued talk of Jensen being reinstated - Lots of talk and conjecture about we — https://x.com/rektdiomedes/status/2122854624377938255
-- 2026-11-18 01:11 UTC · цитата · ❤ 6 — @thedailydegenhq Excellent new newsletter from the gents at @castle_labs 💪 https://t.co/d89gQfiTIj — https://x.com/rektdiomedes/status/2122860290052341870
-- 2026-11-18 01:10 UTC · цитата · ❤ 6 — More info on the burgeoning US health insurance crisis... From a great clip of Doomberg we recently posted on @thedailydegenhq: https://t.co/dE1wB5cvlm — https://x.com/rektdiomedes/status/2122860012514972047
+### @hansolar21 — 7
+- 2026-11-19 03:35 [reply] @Wild_Randomness dropping a prayer here 🥲🙏 — [ссылка](https://x.com/hansolar21/status/2123258748802330846) (♥2)
+- 2026-11-19 03:29 [reply] @NarwhalTan 👀 — [ссылка](https://x.com/hansolar21/status/2123257347388936488) (♥1)
+- 2026-11-19 03:26 [reply] @JustDeauIt I'd argue it's one of the more interesting game-theoretic distribution mechanisms for getting tokens into the hands of those who control arguably the most valuable resource of the current  — [ссылка](https://x.com/hansolar21/status/2123256524185522409) (♥2)
+- 2026-11-19 02:22 [reply] @koolkrypto223 Im definitely feeling a lot of dejavu lately 😅 — [ссылка](https://x.com/hansolar21/status/2123240451293761562) (♥4)
+- 2026-11-19 02:17 [quote] In crypto, who invests often matters more than how much.  Bain Capital Crypto : Lead investor Dragonfly : Early backer HSG : Formerly Sequoia China. $61B+ AUM. ByteDance, Alibaba, SHEIN Peak XV : Form — [ссылка](https://x.com/hansolar21/status/2123239121640731061) (♥126)
+- 2026-11-18 16:10 [quote] Variational is generational. https://t.co/YuUNkzZ9Ev — [ссылка](https://x.com/hansolar21/status/2123086557561467178) (♥167)
+- 2026-11-18 12:10 [reply] @0xThoor impressive! — [ссылка](https://x.com/hansolar21/status/2123026114922844209) (♥0)
 
-**@Route2FI** (6)
-- 2026-11-17 16:09 UTC · пост · ❤ 265 — Look at this chart. Nasdaq dumps, BTC dumps. Nasdaq bounces, BTC bounces. Same shape, almost to the minute. For years we said $BTC was digital gold and a hedge  — https://x.com/Route2FI/status/2122723764337012976
-- 2026-11-17 19:28 UTC · пост · ❤ 142 — Every time the market looks like this, people say crypto is over. I don't buy that, tbh. Demand for speculation will always exist. The game changes, then a new  — https://x.com/Route2FI/status/2122773943824351646
-- 2026-11-17 21:24 UTC · пост · ❤ 73 — $NVDA just reported its earnings. EPS &amp; REVENUE BEAT. Bullish. I longed into it. Sized small, though, no hero leverage, because these after-hours moves can  — https://x.com/Route2FI/status/2122803137631355202
+### @NotChaseColeman — 6
+- 2026-11-19 05:59 [quote] 100% absolutely indubitably categorically false https://t.co/HI2OT3eXRq https://t.co/xBL8Hp7w3s — [ссылка](https://x.com/NotChaseColeman/status/2123295132879655266) (♥5)
+- 2026-11-19 01:13 [quote] Yeah fuck https://t.co/19YpPkMAXA — [ссылка](https://x.com/NotChaseColeman/status/2123223020869177497) (♥1)
+- 2026-11-19 01:10 [reply] @hantengri Prison camps arent too bad. Just be playing tennis. — [ссылка](https://x.com/NotChaseColeman/status/2123222265131348207) (♥2)
+- 2026-11-19 01:09 [retweet] RT @kingbtc: https://t.co/XfdN5T2xOw — [ссылка](https://x.com/NotChaseColeman/status/2123222128371900714) (♥0)
+- 2026-11-18 19:06 [reply] @BigDickBull69 Federal prison isn't too bad. They'll be at camps. — [ссылка](https://x.com/NotChaseColeman/status/2123130838162280933) (♥7)
+- 2026-11-18 19:05 [retweet] RT @BigDickBull69: “Traders are gonna be the new celebrities bro”  Dawg you are going to Federal Prison — [ссылка](https://x.com/NotChaseColeman/status/2123130607634894895) (♥0)
 
-**@0xSammy** (28)
-- 2026-11-18 02:00 UTC · ответ · ❤ 9 — @elonmusk @bot How long until this is viable for the average user/ safe to integrate into broader corporate workflows? — https://x.com/0xSammy/status/2122872492851437770
-- 2026-11-17 10:58 UTC · ответ · ❤ 3 — @Carlitoswa_y @AlexIsBuilding Umbro is so last year All about the Dia Dora — https://x.com/0xSammy/status/2122645630774595763
-- 2026-11-17 14:05 UTC · ответ · ❤ 2 — @Carlitoswa_y @bot whats the prompt? — https://x.com/0xSammy/status/2122692511919407480
+### @tarunchitra — 5
+- 2026-11-19 06:37 [quote] Tatsu crushing by quizzing everyone in a world of nonsense hype videos is really inspiring https://t.co/NEjBkKdnKr — [ссылка](https://x.com/tarunchitra/status/2123304686472380853) (♥5)
+- 2026-11-18 17:26 [retweet] RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.  Special episode feat. @Joshua_J_Lim!  Timestamps 00:00 Intro… — [ссылка](https://x.com/tarunchitra/status/2123105697361691102) (♥0)
+- 2026-11-18 17:23 [retweet] RT @gauntlet_xyz: Now live on @XLayerOfficial   Gauntlet USDC Earn supplies USDC to @Morpho markets for xBTC and @xStocksFi, right inside O… — [ссылка](https://x.com/tarunchitra/status/2123104902167904265) (♥0)
+- 2026-11-18 17:23 [retweet] RT @gauntlet_xyz: xStocks and xBTC are now collateral on @Morpho, and Gauntlet's USDC vault on @XLayerOfficial supplies to those markets.… — [ссылка](https://x.com/tarunchitra/status/2123104850787680667) (♥0)
+- 2026-11-18 07:42 [reply] @Lsquaredleland @sunnya97 @zkDragon @CalBlockchain Slower than others, yet the same direction — [ссылка](https://x.com/tarunchitra/status/2122958530827444225) (♥5)
 
-**@zeuuss_01** (1)
-- 2026-11-18 04:49 UTC · цитата · ❤ 0 — F*CKING GENIUS… a faceless cartoon channel with 4.2K subs pulled 6.1M views on one Short 🤯 → 26 videos total → 6.1M views on the top one → 493K on another The  — https://x.com/zeuuss_01/status/2122915168984158243
+### @santiagoroel — 5
+- 2026-11-18 23:23 [reply] @bvillagomez_ I think they’ll benefit but haven’t looked into it given capital intensity  Robots may lower capex intensity  Still ways out but could transform the industry — [ссылка](https://x.com/santiagoroel/status/2123195366229119418) (♥1)
+- 2026-11-18 22:53 [original] https://t.co/IiRHM1jO5n — [ссылка](https://x.com/santiagoroel/status/2123187973806002537) (♥20)
+- 2026-11-18 18:46 [original] you can reason your way into bullishness or bearishness anytime. ofc much harder to predict how much pain you can endure, and for how long. but safer to assume less than you think...  so it really com — [ссылка](https://x.com/santiagoroel/status/2123125709803589643) (♥114)
+- 2026-11-18 17:57 [retweet] RT @AlexAndBooks_: "By the age of 70, he who doesn’t read will have lived only one life. He who reads will have lived 5000 years. Reading i… — [ссылка](https://x.com/santiagoroel/status/2123113302918156724) (♥0)
+- 2026-11-18 17:52 [quote] Time in the market beats timing the market  Don’t interrupt the compounding https://t.co/QMNYbpoqPJ — [ссылка](https://x.com/santiagoroel/status/2123112099832279288) (♥47)
 
-**@CryptoInsightsX** (7)
-- 2026-11-17 13:46 UTC · пост · ❤ 80 — 📢Pro Spot Tools are now live on @TartProtocol No matter the market conditions, TartSwap continues to push forward, building and thriving with unstoppable momen — https://x.com/CryptoInsightsX/status/2122687710372770095
-- 2026-11-17 14:01 UTC · ответ · ❤ 2 — @muzuksiyen @TartProtocol @notralbnb 🔥🔥 — https://x.com/CryptoInsightsX/status/2122691602208719279
-- 2026-11-17 10:56 UTC · цитата · ❤ 2 — Daily Market Overview: EXTREME FEAR Nov 17, 2026 #BTC price trades around $64K In the past 24 hours, 78,046 traders(53.9% Long) liquidated. Total liquidations w — https://x.com/CryptoInsightsX/status/2122645038341714005
+### @ZeMariaMacedo — 5
+- 2026-11-18 18:01 [original] Crypto investors rn https://t.co/i7DuMonMFP — [ссылка](https://x.com/ZeMariaMacedo/status/2123114269323702370) (♥17)
+- 2026-11-18 13:51 [reply] Full episode  Spotify: https://t.co/fzM7Zuj1Gd Youtube: https://t.co/haYi3NHFev — [ссылка](https://x.com/ZeMariaMacedo/status/2123051538205556806) (♥4)
+- 2026-11-18 13:51 [original] New Emerging Managers episode with @KevinJDCS is live!  Kevin has one of the best founder lenses I’ve come across in Europe, and he’s surfaced several companies I ended up backing personally. He got i — [ссылка](https://x.com/ZeMariaMacedo/status/2123051533549936737) (♥44)
+- 2026-11-18 13:05 [reply] @BalderBomans True! I think the IPO will do great, which is why crypto's obsession with float and unlocks is kinda silly — [ссылка](https://x.com/ZeMariaMacedo/status/2123039975939903595) (♥1)
+- 2026-11-18 12:23 [original] We merely adopted the low-float high FDV launch. TradFi was born in it. Molded by it https://t.co/DH41p93FHR — [ссылка](https://x.com/ZeMariaMacedo/status/2123029277520105565) (♥63)
 
-**@andrewtalksdefi** (105)
-- 2026-11-17 15:07 UTC · пост · ❤ 67 — Anthropic is one of the biggest names in the AI industry. With growing interest in its potential IPO, many traders are watching how it performs. But you don't h — https://x.com/andrewtalksdefi/status/2122708199799468276
-- 2026-11-17 07:40 UTC · пост · ❤ 64 — You’re handed $10k to invest in ONE crypto in this current market. Which coin is your long-term play? — https://x.com/andrewtalksdefi/status/2122595637942227214
-- 2026-11-17 15:24 UTC · ответ · ❤ 4 — @WatcherGuru The Nvidia story keeps getting more interesting. — https://x.com/andrewtalksdefi/status/2122712588962459975
+### @LucaNetz — 4
+- 2026-11-19 03:25 [reply] @Shieldmetax Yes — [ссылка](https://x.com/LucaNetz/status/2123256326193336682) (♥4)
+- 2026-11-18 22:15 [quote] GTA6 &lt;&gt; 6th Pudgy Penguins party in Miami 🔮 https://t.co/FSVw5q67H9 — [ссылка](https://x.com/LucaNetz/status/2123178238889668869) (♥134)
+- 2026-11-18 22:11 [quote] 👀 https://t.co/ZswRXBB4D9 — [ссылка](https://x.com/LucaNetz/status/2123177403623297499) (♥110)
+- 2026-11-18 22:11 [quote] A perfect gift this holiday season 🐧 https://t.co/V9P12cCFQP — [ссылка](https://x.com/LucaNetz/status/2123177369582358781) (♥159)
 
-**@lookonchain** (12)
-- 2026-11-17 10:11 UTC · пост · ❤ 498 — The Binance hacker has started laundering the 602,402 $ETH ($1.09B) he holds! Over the past 3 hours, he has transferred out 74,880 $ETH ($136.8M) and is now swa — https://x.com/lookonchain/status/2122633788127940768
-- 2026-11-17 13:26 UTC · пост · ❤ 254 — AguilaTrades(@AguilaTrades) lost all 6 trades in the past 24 hours, for a total loss of $2.68M! https://t.co/jaJBeXPhew https://t.co/M8x6T71Aby — https://x.com/lookonchain/status/2122682904652460436
-- 2026-11-18 02:05 UTC · пост · ❤ 250 — Trader 0x9b7B sold 280 $ETH for 1.086M $USDC at $3,881 over a year ago. He just spent the same 1.086M $USDC to buy back 598 $ETH at $1,816. Nicely done — sell h — https://x.com/lookonchain/status/2122873746302316626
+### @QwQiao — 4
+- 2026-11-19 02:28 [retweet] RT @alliance: Applications close for ALL19 tonight at 12:00am PST.  Apply to receive:  - $400k in funding - Mentorship - Access to the Alli… — [ссылка](https://x.com/QwQiao/status/2123241930654130636) (♥0)
+- 2026-11-18 16:28 [retweet] RT @alliance: Applications for ALL19 end today. https://t.co/H88JAV3zhm — [ссылка](https://x.com/QwQiao/status/2123091070514770246) (♥0)
+- 2026-11-18 12:32 [reply] @ContrarianPapi gold chart looks like they solved alchemy / asteroid mining   btc chart looks like quantum risk fully priced in — [ссылка](https://x.com/QwQiao/status/2123031502967525625) (♥29)
+- 2026-11-18 12:26 [original] s&amp;p500 valuation looks right around 50ish percentile compared to the past 5-10 yrs. (looks expensive if u look at fcf, cheap if u look at earnings, and avg if u adjust reasonably for capex)  btc h — [ссылка](https://x.com/QwQiao/status/2123029963787919788) (♥360)
 
-**@zachxbt** (28)
-- 2026-11-17 12:33 UTC · пост · ❤ 4290 — Indian law enforcement froze $3M from an innocent Chinese investor after mistaking a crypto bridge for a pig butchering scam. Now an Indian court has ordered Ga — https://x.com/zachxbt/status/2122669479700099192
-- 2026-11-17 13:01 UTC · ответ · ❤ 614 — @xxxkeym Happy to help. Your story was quite sad to read and Indian law enforcement / courts need to be held accountable for gross negligence. — https://x.com/zachxbt/status/2122676473475871125
-- 2026-11-17 14:14 UTC · цитата · ❤ 485 — @Kruwed Posting this while fully knowing your largest “user” is currently Lazarus Group laundering hundreds of millions from exploits? Interesting. https://t.co — https://x.com/zachxbt/status/2122694927281012872
+### @EvgenyGaevoy — 3
+- 2026-11-18 18:38 [retweet] RT @base: Every market needs liquidity  Full episode tomorrow https://t.co/mbUE2n8DLV — [ссылка](https://x.com/EvgenyGaevoy/status/2123123603008807361) (♥0)
+- 2026-11-18 16:25 [retweet] RT @wintermute_t: Cambridge students played Blotto with us at @cuats_algos  Our traders, including two Cambridge alumni, ran the games with… — [ссылка](https://x.com/EvgenyGaevoy/status/2123090210552725719) (♥0)
+- 2026-11-18 13:59 [reply] @0xWenMoon @0x_Zhuang really? I mostly see the overly positive stuff (which is not that far from how I perceived it few times I've been there😅) — [ссылка](https://x.com/EvgenyGaevoy/status/2123053552994021528) (♥2)
 
-**@DegenerateNews** (21)
-- 2026-11-17 15:23 UTC · пост · ❤ 263 — BREAKING: @CharlesSchwab WEBSITE GOES DOWN https://t.co/FaOSn1cW84 — https://x.com/DegenerateNews/status/2122712224158642280
-- 2026-11-17 14:10 UTC · пост · ❤ 241 — NEW: @coingecko CO-FOUNDER @bobbyong SAYS 39% OF THE OVER 50 MILLION TOKENS IT TRACKS ARE @solana TOKENS "ANYTHING THAT CAN BE TOKENIZED WILL BE TOKENIZED. WE A — https://x.com/DegenerateNews/status/2122693922602336418
-- 2026-11-17 11:28 UTC · пост · ❤ 223 — NEW: @coingecko SAYS IT IS NOW BACKED BY @SolanaFndn PLANS INCLUDE EXPANDING ITS DATA AND API INFRASTRUCTURE AND EXPLORING TRADING https://t.co/6odhrxQDfW — https://x.com/DegenerateNews/status/2122653014280319131
+### @CryptoInsightsX — 2
+- 2026-11-19 01:51 [quote] 🔥 A Tesla Cybertruck, Ducati Monster, and iPhone DUO up for grabs.   Definitely worth joining the $LWT ICO for a chance to win.  Don't miss out 👇 https://t.co/AhGLO96PCG — [ссылка](https://x.com/CryptoInsightsX/status/2123232608930947391) (♥5)
+- 2026-11-18 10:58 [quote] Daily Market Overview: EXTREME FEAR Nov 18, 2026   #BTC price trades around $64K    In the past 24 hours, 97,520 traders(62.5% Long) liquidated. Total liquidations were $373.07M.  #CryptoNews #Crypto  — [ссылка](https://x.com/CryptoInsightsX/status/2123007834715824238) (♥5)
 
-**@blknoiz06** (88)
-- 2026-11-17 16:38 UTC · ответ · ❤ 1529 — @JensenHuang greatest main character of all time you served well in your seat brother — https://x.com/blknoiz06/status/2122731029832016099
-- 2026-11-17 13:41 UTC · пост · ❤ 1121 — gmihao comrades in war https://t.co/va7QuYEYYQ — https://x.com/blknoiz06/status/2122686564786487380
-- 2026-11-17 14:11 UTC · цитата · ❤ 966 — son is this real https://t.co/9goYqf1raQ — https://x.com/blknoiz06/status/2122694163477192855
+### @pythianism — 2
+- 2026-11-19 01:16 [retweet] RT @TheStalwart: I hadn't thought to look at the publicly traded Chinese AI companies. But the maker of GLM 5.3 is down by nearly 33% in th… — [ссылка](https://x.com/pythianism/status/2123223735515930760) (♥0)
+- 2026-11-18 17:24 [original] Do not let the increasing Probability of Doom distract you from lab ARR growth slowing as the coding market matures  The debt stack financing AI is already larger than the subprime market was in 2007, — [ссылка](https://x.com/pythianism/status/2123105085098246215) (♥143)
 
-**@MustStopMurad** (9)
-- 2026-11-17 14:24 UTC · пост · ❤ 1060 — SPX6900 will become the biggest crypto asset in the World. — https://x.com/MustStopMurad/status/2122697379203743874
-- 2026-11-17 10:00 UTC · пост · ❤ 1058 — People who want to win today will fail. People who want to win a year from now will succeed. — https://x.com/MustStopMurad/status/2122630989776142722
-- 2026-11-17 16:26 UTC · пост · ❤ 1026 — Most won't make it not because they are dumb. But because they are impatient. The biggest opportunity is right in front of you. All you have to do is buy and ho — https://x.com/MustStopMurad/status/2122728172961595540
+### @0xSammy — 2
+- 2026-11-18 18:56 [reply] @FT “Situationally unaware”? — [ссылка](https://x.com/0xSammy/status/2123128300004380735) (♥0)
+- 2026-11-18 18:13 [reply] @ExoGhost Absolute cowboy with the location of those screws 😂😂😂 — [ссылка](https://x.com/0xSammy/status/2123117364367839512) (♥0)
 
-**@Orangie** (5)
-- 2026-11-17 16:26 UTC · пост · ❤ 436 — https://t.co/iXcKSkYBa7 — https://x.com/orangie/status/2122728065188941870
-- 2026-11-17 23:53 UTC · пост · ❤ 350 — bye london great city 🇬🇧 https://t.co/8P80biQGOR — https://x.com/orangie/status/2122840617973961138
-- 2026-11-17 18:39 UTC · цитата · ❤ 222 — so what’s actually going on and what steps are you taking https://t.co/xbzXSH5dX6 — https://x.com/orangie/status/2122761617964454146
+### @tomhschmidt — 2
+- 2026-11-18 18:08 [retweet] RT @poastmilque: rocked btw https://t.co/68RJZ2Gqo6 — [ссылка](https://x.com/tomhschmidt/status/2123116139093930430) (♥0)
+- 2026-11-18 14:24 [retweet] RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.  Special episode feat. @Joshua_J_Lim!  Timestamps 00:00 Intro… — [ссылка](https://x.com/tomhschmidt/status/2123059759897014755) (♥0)
 
-**@0xVonGogh** (0)
-- нет постов за окно
+### @arthur0x — 2
+- 2026-11-18 17:58 [retweet] RT @BillAckman: I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduci… — [ссылка](https://x.com/arthur0x/status/2123113635589546071) (♥0)
+- 2026-11-18 10:04 [retweet] RT @Fred834567: Now that Jensen Huang is gone, I think America is about to discover something the hard way:  Nvidia didn’t just lose a CEO.… — [ссылка](https://x.com/arthur0x/status/2122994369418653703) (♥0)
 
-**@Theunipcs** (0)
-- нет постов за окно
+### @zeuuss_01 — 1
+- 2026-11-19 04:02 [quote] Claude opus 5.5 just F*CKED actual editors.  this account didn't exist 4 days ago.  → 4 videos → 18.8M views on one → 31M+ views total → 28K followers  the format is simple: a first-person disaster st — [ссылка](https://x.com/zeuuss_01/status/2123265685493055601) (♥18)
 
-**@NotChaseColeman** (4)
-- нет постов за окно
+### @lmrankhan — 1
+- 2026-11-18 23:02 [retweet] RT @alliance: Applications close for ALL19 tonight at 12:00am PST.  Apply to receive:  - $400k in funding - Mentorship - Access to the Alli… — [ссылка](https://x.com/lmrankhan/status/2123190171273195913) (♥0)
 
-**@JamesWynnReal** (66)
-- 2026-11-17 19:22 UTC · пост · ❤ 396 — Who remembers? https://t.co/7v8ER7tTpY — https://x.com/JamesWynnReal/status/2122772379864834116
-- 2026-11-17 16:16 UTC · пост · ❤ 342 — I’am not saying $BTC won’t go lower because I think it will due to an incoming black swan event, however, with these hacks and bank outages its not a bad entry  — https://x.com/JamesWynnReal/status/2122725522111082807
-- 2026-11-17 12:42 UTC · пост · ❤ 161 — 🚨 For the record, the US Stock Market is going to dump hard again today. The war in the middle east is escalating incredibly fast. The USA has sent the USS The — https://x.com/JamesWynnReal/status/2122671655336235123
+### @zachxbt — 1
+- 2026-11-18 18:57 [reply] @Ledger So who will be covering all of the losses ($105M+) for the victims that trusted your official resellers? — [ссылка](https://x.com/zachxbt/status/2123128402207211648) (♥2315)
 
-**@AltcoinPsycho** (2)
-- 2026-11-18 00:18 UTC · ответ · ❤ 4 — @ThinkingUSD This is correct, and it’s less distant of a future than one may think — https://x.com/AltcoinPsycho/status/2122846912059765150
-
-**@AshCrypto** (16)
-- 2026-11-17 15:57 UTC · пост · ❤ 2660 — WHAT THE FUCK IS GOING ON? The NSA's top secret network is down. Even Charles Schwab is down right now JPMorgan Chase, Bank of America, Wells Fargo and Zelle we — https://x.com/AshCrypto/status/2122720777179156514
-- 2026-11-17 14:44 UTC · пост · ❤ 2264 — This is absolutely massive 🚀 🇺🇸 Coinbase is bringing crypto and stock trading to 1.2 BILLION weekly users of ChatGPT. — https://x.com/AshCrypto/status/2122702328361021557
-- 2026-11-17 21:02 UTC · пост · ❤ 2090 — $1 Trillion wiped out from the US stock market today. https://t.co/u5u0JR0TPk — https://x.com/AshCrypto/status/2122797605159829887
-
-**@frankdegods** (7)
-- 2026-11-18 02:59 UTC · пост · ❤ 302 — hope jensen doesn’t come back so this moons https://t.co/fnCeiAxwAg — https://x.com/frankdegods/status/2122887339005366550
-- 2026-11-17 15:25 UTC · ответ · ❤ 24 — @michaelsikand @StockMKTNewz @pequityresearch where’s threadguy? — https://x.com/frankdegods/status/2122712780998615461
-- 2026-11-18 01:52 UTC · ответ · ❤ 17 — @kyle @JensenHuang @fomo bro he not on the team 😭 — https://x.com/frankdegods/status/2122870463483506820
-
-**@CryptoKaleo** (30)
-- 2026-11-17 23:11 UTC · пост · ❤ 661 — DON'T LET THE FEAR ON THE TIMELINE CONSUME YOU. YOU ARE ABOUT TO ENTER THE MOST ABUNDANT, PROSPEROUS, OPPORTUNITY FILLED PHASE OF YOUR LIFE. BULLIEVE IN THE GOL — https://x.com/CryptoKaleo/status/2122830015762968639
-- 2026-11-17 16:05 UTC · пост · ❤ 219 — THIS IS YOUR DAILY REMINDER TO BE MORE BULLISH. Whenever there is THIS MUCH fear dominating the timeline - discussions of world wars, major political shifts, th — https://x.com/CryptoKaleo/status/2122722745553215640
-- 2026-11-17 19:54 UTC · цитата · ❤ 170 — $NVDA is going to rip higher after earnings today. Still free. https://t.co/io9LCpx1pW — https://x.com/CryptoKaleo/status/2122780437328056351
-
-**@inversebrah** (93)
-- 2026-11-17 08:37 UTC · цитата · ❤ 1809 — https://t.co/VfUzD2uDYv https://t.co/XtwMF298sm — https://x.com/inversebrah/status/2122610033699791049
-- 2026-11-17 17:29 UTC · пост · ❤ 305 — https://t.co/EHdRP4FTVl — https://x.com/inversebrah/status/2122743820672717253
-- 2026-11-18 00:37 UTC · пост · ❤ 170 — underappreciated gigabanger smolchained https://t.co/wd108uIblh — https://x.com/inversebrah/status/2122851676659102177
-
-**@CryptoWendyO** (64)
-- 2026-11-18 00:43 UTC · цитата · ❤ 1819 — Why do I have to pay taxes when the Pentagon can’t pass a financial audit and verify $2 trillion in asset? https://t.co/8HJzrslL3I — https://x.com/CryptoWendyO/status/2122853139795869935
-- 2026-11-17 20:30 UTC · пост · ❤ 441 — Why is America the only place reporting cyber attacks? https://t.co/JfXdK2rtGB — https://x.com/CryptoWendyO/status/2122789370847699367
-- 2026-11-17 22:18 UTC · цитата · ❤ 385 — The worst decision $NVDA could ever make The people want Jensen back and don't care about his open marriage https://t.co/P6wy7m9zW5 — https://x.com/CryptoWendyO/status/2122816769454968876
-
-**@playmatejaylene** (74)
-- 2026-11-17 10:07 UTC · пост · ❤ 538 — good morning 🖤 https://t.co/0IZAvZyViK — https://x.com/playmatejaylene/status/2122632686074523669
-- 2026-11-17 08:32 UTC · цитата · ❤ 184 — Interviewing the legend himself 🐐 what questions do you have for @idatsy? https://t.co/dsjL1pqMr1 https://t.co/beh7rTNBHT — https://x.com/playmatejaylene/status/2122608742092980576
-- 2026-11-18 06:15 UTC · пост · ❤ 132 — it’s been real fun ✌️ https://t.co/vBazj6NvbY — https://x.com/playmatejaylene/status/2122936827476906366
-
-**@bon_g** (13)
-- 2026-11-17 22:17 UTC · пост · ❤ 132 — Add a tip? &gt; No tip Continue https://t.co/E8ILDegHro — https://x.com/bon_g/status/2122816519260500190
-- 2026-11-17 12:12 UTC · пост · ❤ 77 — Denmark secure their spot in the quarter finals with a win today Denmark win at home 🇩🇰 https://t.co/RLi3FvPcAu — https://x.com/bon_g/status/2122664078837776863
-- 2026-11-18 00:00 UTC · пост · ❤ 76 — bro has 8 figures and is still vamping a $100k coin — https://x.com/bon_g/status/2122842408446496906
-
+### @gametheorizing — 1
+- 2026-11-18 14:29 [reply] @JustinCBram Congrats, and keep it Steady! — [ссылка](https://x.com/gametheorizing/status/2123060941814390813) (♥15)

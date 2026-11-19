@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2123117364367839512",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-18T18:13:19.000Z",
+  "text": "@ExoGhost Absolute cowboy with the location of those screws 😂😂😂",
+  "url": "https://x.com/0xSammy/status/2123117364367839512",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 665,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123057388060045644",
+   "text": "\"GTA 6 is the greatest game ever made\"\n\nThe gameplay: https://t.co/EquOA1Gr99"
+  }
+ },
+ {
+  "id": "2123128300004380735",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-18T18:56:47.000Z",
+  "text": "@FT “Situationally unaware”?",
+  "url": "https://x.com/0xSammy/status/2123128300004380735",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 631,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123125852468555919",
+   "text": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback https://t.co/pgnEAjGcGx"
+  }
+ }
+]

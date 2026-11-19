@@ -1,300 +1,166 @@
-# @CryptoKaleo — посты за 2026-11-18
+# @CryptoKaleo — посты за 2026-11-19
 
-Всего: 30
+Всего: 18
 
-## 2026-11-17 12:43 UTC · ответ
+## 2026-11-18 11:16 UTC · ответ
 
-@koreanjewcrypto Best thing I’ve read on here in a long time.
+@vladtenev Hmm
 
-Love to hear it brother!
+Any plans for rolling this out for Solidity?
 
-God is good.
+❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1105  
+https://x.com/CryptoKaleo/status/2123012495334068552
 
-❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 812  
-https://x.com/CryptoKaleo/status/2122671932579500361
-
-## 2026-11-17 12:51 UTC · цитата
-
-Make serial rugging crime again.
-
-Quit celebrating this type of behavior.
-
-We’ve let these pos get way too bold. https://t.co/psZjB4EVMh
-
-❤ 105 · 🔁 7 · 💬 22 · цитат 1 · просмотров 23454  
-https://x.com/CryptoKaleo/status/2122673989688684805
-
-## 2026-11-17 13:28 UTC · пост
-
-GOOD MORNING BULLS https://t.co/SccnTOk5ag
-
-❤ 115 · 🔁 12 · 💬 46 · цитат 0 · просмотров 16051  
-https://x.com/CryptoKaleo/status/2122683194613096883
-
-## 2026-11-17 14:17 UTC · репост
-
-RT @Tradinator33: Every new RH wave needs a leader
-
-$CASHCAT led the first wave on robinhood and gave us big runners
-
-$HMM will lead the se…
-
-❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 10775  
-https://x.com/CryptoKaleo/status/2122695551032692999
-
-## 2026-11-17 14:17 UTC · ответ
-
-@Tradinator33 Hmm
-
-Agreed 🤝
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 455  
-https://x.com/CryptoKaleo/status/2122695635757322537
-
-## 2026-11-17 14:18 UTC · ответ
-
-@Cryptowonderful @CryptoAJ_eth 🤝
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 385  
-https://x.com/CryptoKaleo/status/2122695778833498195
-
-## 2026-11-17 14:20 UTC · ответ
+## 2026-11-18 11:25 UTC · ответ
 
 robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
 
-FILL THE WICK https://t.co/og0SoxAQP7
+The type of slow and steady grind higher you see before a god candle 🤔🐈
 
-❤ 34 · 🔁 5 · 💬 2 · цитат 0 · просмотров 6279  
-https://x.com/CryptoKaleo/status/2122696330552508669
+Think bigger. https://t.co/wCXHYnqfg9
 
-## 2026-11-17 14:39 UTC · цитата
+❤ 27 · 🔁 8 · 💬 6 · цитат 0 · просмотров 3372  
+https://x.com/CryptoKaleo/status/2123014773113593916
 
-Last night I interviewed the new CEO of Mysten Labs, @KevinBoon_ML , to discuss all things $SUI.
+## 2026-11-18 12:11 UTC · пост
 
-It was one of my favorite stream conversations I've had in a long time.
+People are acting like it’s not bullish that the biggest company in the world is letting an advanced AI model run it  https://t.co/gUfAU4uS4H
 
-If you missed it, you can catch up and watch the replay below. https://t.co/Fq1fA3wF5r
+❤ 141 · 🔁 6 · 💬 50 · цитат 2 · просмотров 28044  
+https://x.com/CryptoKaleo/status/2123026375254696216
 
-❤ 94 · 🔁 14 · 💬 22 · цитат 0 · просмотров 19314  
-https://x.com/CryptoKaleo/status/2122701289045794868
+## 2026-11-18 14:51 UTC · ответ
 
-## 2026-11-17 14:49 UTC · цитата
+@Tradinator33 Hmm 🤔🐈
 
-Daily check in on the Robinhood Chain top 20:
+❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 504  
+https://x.com/CryptoKaleo/status/2123066599758295470
 
-Little bit of a cool off from yesterday's bounce.
+## 2026-11-18 14:55 UTC · ответ
 
-Biggest mover is $HOOKR trying to erase some of its recent violent move lower followed by $HMM continuing to grind higher.
+@thinkingcatRH @Cryptoistheshi1 @seyong Hmm 🤔🐈
 
-The current top names like $CASHCAT, $AI, and $PONS are still holding strong above their lows which is encouraging.
+❤ 14 · 🔁 1 · 💬 1 · цитат 0 · просмотров 485  
+https://x.com/CryptoKaleo/status/2123067469791433059
 
-Think it's only a matter of time before we see the trenches truly wake up again.
+## 2026-11-18 15:22 UTC · ответ
 
-❤ 137 · 🔁 16 · 💬 51 · цитат 3 · просмотров 22922  
-https://x.com/CryptoKaleo/status/2122703642650173641
+@BluntCap hmm
 
-## 2026-11-17 14:53 UTC · ответ
+what if I told you all you need is one coin to make it happen? https://t.co/1hOg8FUZtB
 
-@Fyntdev just ape hmm and chill
+❤ 25 · 🔁 3 · 💬 2 · цитат 0 · просмотров 708  
+https://x.com/CryptoKaleo/status/2123074311778918746
 
-❤ 7 · 🔁 0 · 💬 7 · цитат 0 · просмотров 495  
-https://x.com/CryptoKaleo/status/2122704793462591762
+## 2026-11-18 15:23 UTC · пост
 
-## 2026-11-17 15:49 UTC · ответ
-
-@BluntCap just stack more hmm and chill
-
-❤ 9 · 🔁 2 · 💬 2 · цитат 0 · просмотров 612  
-https://x.com/CryptoKaleo/status/2122718761216323665
-
-## 2026-11-17 15:59 UTC · ответ
-
-@thebryanjun Lmfao
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 655  
-https://x.com/CryptoKaleo/status/2122721224044192030
-
-## 2026-11-17 16:05 UTC · пост
-
-THIS IS YOUR DAILY REMINDER TO BE MORE BULLISH.
-
-Whenever there is THIS MUCH fear dominating the timeline -
-
-discussions of world wars, major political shifts, the AI industry both somehow simultaneously collapsing and destroying everything else.... 
-
-there's always opportunity that comes along with it.
-
-It's difficult to see in the moment, but it becomes obvious in hindsight.
-
-This too shall pass.
-
-❤ 219 · 🔁 9 · 💬 41 · цитат 1 · просмотров 21590  
-https://x.com/CryptoKaleo/status/2122722745553215640
-
-## 2026-11-17 16:23 UTC · ответ
-
-@bludex check the market caps sir
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 415  
-https://x.com/CryptoKaleo/status/2122727424362451049
-
-## 2026-11-17 16:58 UTC · пост
-
-$HMM vs. $MOG 
-
-Do you see it yet?
-
-Still early. 🤔🐈 https://t.co/GoBP4Wfzm3
-
-❤ 86 · 🔁 11 · 💬 27 · цитат 0 · просмотров 17631  
-https://x.com/CryptoKaleo/status/2122736063987036478
-
-## 2026-11-17 18:58 UTC · ответ
-
-@Alt_Coin_Degen "at what cost to my followers"
-
-brother if we're near the base of the bear market like I believe we are, and we do run it to new all time highs like I expect us to next year... could I be wrong?
-
-sure! the crypto industry could die and go away forever and we all have our ports go
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 365  
-https://x.com/CryptoKaleo/status/2122766273134432572
-
-## 2026-11-17 19:28 UTC · ответ
-
-@j0hnwang dang I missed the grayed out text and thought it was live haha
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 596  
-https://x.com/CryptoKaleo/status/2122773973557494045
-
-## 2026-11-17 19:42 UTC · цитата
-
-Bottom is in for $NVDA -
-
-Which means it's also in for other tech &amp; AI plays.
-
-Still holding my long open on Kalshi for the monthly challenge.
-
-Run it back turbo.
-
-long it with me here ➡️ https://t.co/8O9rYuaiGf https://t.co/2gWkZBFQPZ https://t.co/pHUy8Ktwxh
-
-❤ 81 · 🔁 6 · 💬 16 · цитат 3 · просмотров 45690  
-https://x.com/CryptoKaleo/status/2122777470638207012
-
-## 2026-11-17 19:51 UTC · репост
-
-RT @meme_ancient: Cat Thinking (2019) https://t.co/JXwKKvn6ng
-
-❤ 0 · 🔁 159 · 💬 0 · цитат 0 · просмотров 9186  
-https://x.com/CryptoKaleo/status/2122779675646697848
-
-## 2026-11-17 19:52 UTC · цитата
-
-hmm
-
-lore https://t.co/2BapZNx3zG
-
-❤ 68 · 🔁 9 · 💬 16 · цитат 0 · просмотров 15424  
-https://x.com/CryptoKaleo/status/2122779983013892352
-
-## 2026-11-17 19:54 UTC · цитата
-
-$NVDA is going to rip higher after earnings today.
-
-Still free. https://t.co/io9LCpx1pW
-
-❤ 170 · 🔁 7 · 💬 24 · цитат 2 · просмотров 27970  
-https://x.com/CryptoKaleo/status/2122780437328056351
-
-## 2026-11-17 21:37 UTC · ответ
-
-$NVDA crushed earnings.
-
-BULLISH. https://t.co/Ll9zdX2VCu
-
-❤ 21 · 🔁 2 · 💬 1 · цитат 0 · просмотров 7549  
-https://x.com/CryptoKaleo/status/2122806476318327193
-
-## 2026-11-17 21:46 UTC · цитата
-
-tldr:
-
-mixed reviews, but the benchmarks show Fable 5.2 level performance for a fraction of the cost
-
-insane https://t.co/Ys8tJMYmys
-
-❤ 41 · 🔁 0 · 💬 13 · цитат 0 · просмотров 19477  
-https://x.com/CryptoKaleo/status/2122808635831062930
-
-## 2026-11-17 21:49 UTC · ответ
-
-$HMM
-
-Looks ready for the next leg up.
-
-The wick will be filled.
+robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
 
 Robinhood Chain needs a runner.
 
-Thinking the cat will do it 🤔🐈 https://t.co/H5I7VI7aZu
+Thinking we'll see one soon 🤔🐈 https://t.co/B7BeFh8aUj
 
-❤ 40 · 🔁 4 · 💬 4 · цитат 0 · просмотров 3494  
-https://x.com/CryptoKaleo/status/2122809273432346723
+❤ 111 · 🔁 18 · 💬 30 · цитат 0 · просмотров 18681  
+https://x.com/CryptoKaleo/status/2123074739027812564
 
-## 2026-11-17 21:57 UTC · ответ
+## 2026-11-18 15:48 UTC · ответ
 
-@RobinhoodApp Hmm 🤔🐈
+hmm
 
-On chain? https://t.co/NQVrdrrryu
+study relative strength https://t.co/tB0hgoapZj
 
-❤ 21 · 🔁 4 · 💬 3 · цитат 0 · просмотров 923  
-https://x.com/CryptoKaleo/status/2122811279379214345
+❤ 31 · 🔁 6 · 💬 3 · цитат 1 · просмотров 5573  
+https://x.com/CryptoKaleo/status/2123081015434617269
 
-## 2026-11-17 23:10 UTC · ответ
+## 2026-11-18 15:59 UTC · пост
 
-$NVDA 
+The Chase Banking mobile app just added “FDIC-Insured — Backed by the full faith and credit of the US Government” to the login screen for the first time ever 😭😭😭 https://t.co/Yqi02DI4Kh
 
-SEND IT https://t.co/NSIX3HX1XY
+❤ 95 · 🔁 1 · 💬 27 · цитат 1 · просмотров 22515  
+https://x.com/CryptoKaleo/status/2123083639097348238
 
-❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3262  
-https://x.com/CryptoKaleo/status/2122829736590086648
+## 2026-11-18 16:24 UTC · пост
 
-## 2026-11-17 23:11 UTC · пост
+Be careful chasing coins tied to narratives that are dependent on news and headlines.
 
-DON'T LET THE FEAR ON THE TIMELINE CONSUME YOU.
+e.g. have seen a lot of people chasing GTA VI coins
 
-YOU ARE ABOUT TO ENTER THE MOST ABUNDANT, PROSPEROUS, OPPORTUNITY FILLED PHASE OF YOUR LIFE.
+one of the most popular narratives has been what the name of the in game currency will be
 
-BULLIEVE IN THE GOLDEN BULL RUN.
+the issue with this type of narrative is - the in
 
-❤ 661 · 🔁 29 · 💬 86 · цитат 2 · просмотров 25256  
-https://x.com/CryptoKaleo/status/2122830015762968639
+❤ 91 · 🔁 8 · 💬 50 · цитат 4 · просмотров 23484  
+https://x.com/CryptoKaleo/status/2123090071364456699
 
-## 2026-11-17 23:13 UTC · репост
+## 2026-11-18 16:36 UTC · цитата
 
-RT @SuiNetworkCN: 🎬 Mysten Labs CEO @KevinBoon_ML 做客 @CryptoKaleo 访谈：Sui 下一步怎么走？
+@PhilOnChain basically a game of Russian roulette with zero blanks at this point 
+https://t.co/t9nnbfAVAl
 
-稳定币支付、SUI 回购、Hashi、AI Agent，以及建立亚太办公室计划。
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 738  
+https://x.com/CryptoKaleo/status/2123093058984325151
 
-我们剪了一支 4 分钟预告，先…
+## 2026-11-18 17:08 UTC · ответ
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 8891  
-https://x.com/CryptoKaleo/status/2122830440411050096
+@blknoiz06 hmm
 
-## 2026-11-17 23:13 UTC · ответ
+❤ 37 · 🔁 5 · 💬 9 · цитат 0 · просмотров 2210  
+https://x.com/CryptoKaleo/status/2123100926860750860
 
-@SuiNetworkCN @KevinBoon_ML this is awesome!
+## 2026-11-18 20:15 UTC · репост
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 415  
-https://x.com/CryptoKaleo/status/2122830484300574870
+RT @tazmancrypto: i'm starting to understand why $HMM keeps showing up on my timeline. 
 
-## 2026-11-18 00:13 UTC · ответ
+the community is putting in serious work. and hone…
 
-@RealAlexBob @thinkingcatRH bullish on both
+❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 10008  
+https://x.com/CryptoKaleo/status/2123148066534404585
 
-CASHCAT = BONK
-HMM = WIF
+## 2026-11-18 20:15 UTC · ответ
 
-❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 512  
-https://x.com/CryptoKaleo/status/2122845492199543164
+@tazmancrypto Hmm 🤔🐈 https://t.co/ttyffptLiL
+
+❤ 28 · 🔁 2 · 💬 4 · цитат 0 · просмотров 597  
+https://x.com/CryptoKaleo/status/2123148227104969151
+
+## 2026-11-18 22:38 UTC · ответ
+
+@RobinhoodCrypto Hmm
+
+You’re missing a lot of solid active Robinhood Chain communities 
+
+As @vladtenev said: “two wolves, memes &amp; RWAs” https://t.co/pHdQMsdWvX
+
+❤ 31 · 🔁 5 · 💬 5 · цитат 0 · просмотров 1103  
+https://x.com/CryptoKaleo/status/2123184159254516104
+
+## 2026-11-18 23:01 UTC · репост
+
+RT @SuiNetwork: Some agents are customers. Some are attacks. Telling them apart is the hard part.
+
+Mysten Labs CEO @KevinBoon_ML talks abou…
+
+❤ 0 · 🔁 27 · 💬 0 · цитат 0 · просмотров 8454  
+https://x.com/CryptoKaleo/status/2123189911067209850
+
+## 2026-11-19 00:07 UTC · цитата
+
+A retest of the lows for $MSTR vs. $BTC is inevitable.
+
+tldr:
+
+MSTR is a money spicket for Strategy to protect its STRC dividend and avoid selling its Bitcoin (for optics).
+
+They chose to dilute common shareholders vs. pursue other options.
+
+Bullish for Bitcoin (because they most https://t.co/O6ykag0nUF https://t.co/VlSeY6xpxs
+
+❤ 75 · 🔁 6 · 💬 48 · цитат 1 · просмотров 23727  
+https://x.com/CryptoKaleo/status/2123206527422976369
+
+## 2026-11-19 03:52 UTC · ответ
+
+@vladtenev Hmm
+
+❤ 21 · 🔁 3 · 💬 4 · цитат 0 · просмотров 1744  
+https://x.com/CryptoKaleo/status/2123263022328082870

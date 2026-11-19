@@ -1,47 +1,45 @@
-# @tarunchitra — посты за 2026-11-18
+# @tarunchitra — посты за 2026-11-19
 
-Всего: 6
+Всего: 5
 
-## 2026-11-17 15:42 UTC · цитата
+## 2026-11-18 07:42 UTC · ответ
 
-Wow, the U-series from DESRES lives on; proof that basic numerical analysis is still valuable in an AI era? 😅
+@Lsquaredleland @sunnya97 @zkDragon @CalBlockchain Slower than others, yet the same direction
 
-https://t.co/S8yfx8Umii https://t.co/Oi9v6BsCLL
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 190  
+https://x.com/tarunchitra/status/2122958530827444225
 
-❤ 18 · 🔁 0 · 💬 9 · цитат 0 · просмотров 1754  
-https://x.com/tarunchitra/status/2122717082395533507
+## 2026-11-18 17:23 UTC · репост
 
-## 2026-11-17 18:27 UTC · репост
+RT @gauntlet_xyz: xStocks and xBTC are now collateral on @Morpho, and Gauntlet's USDC vault on @XLayerOfficial supplies to those markets.…
 
-RT @MTSlive: Lyber AI founder @ConejoCapital reveals that his four-person team uncovered vulnerabilities that could drain the entire treasu…
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 327  
+https://x.com/tarunchitra/status/2123104850787680667
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 358  
-https://x.com/tarunchitra/status/2122758602821865668
+## 2026-11-18 17:23 UTC · репост
 
-## 2026-11-17 18:43 UTC · цитата
+RT @gauntlet_xyz: Now live on @XLayerOfficial 
 
-I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7TRYq
+Gauntlet USDC Earn supplies USDC to @Morpho markets for xBTC and @xStocksFi, right inside O…
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 468  
-https://x.com/tarunchitra/status/2122762499061874802
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 348  
+https://x.com/tarunchitra/status/2123104902167904265
 
-## 2026-11-17 18:43 UTC · цитата
+## 2026-11-18 17:26 UTC · репост
 
-I am old enough to remember the last time people had $NVDA watch parties at bars https://t.co/AsohS7Tk8S
+RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.
 
-❤ 18 · 🔁 1 · 💬 8 · цитат 0 · просмотров 2805  
-https://x.com/tarunchitra/status/2122762684168802444
+Special episode feat. @Joshua_J_Lim!
 
-## 2026-11-18 00:33 UTC · репост
+Timestamps
+00:00 Intro…
 
-RT @Teknium: Gotta say, Jensen's been an awesome supporter of Nous Research, our efforts in open source, and Hermes Agent since we first me…
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 387  
+https://x.com/tarunchitra/status/2123105697361691102
 
-❤ 0 · 🔁 111 · 💬 0 · цитат 0 · просмотров 329  
-https://x.com/tarunchitra/status/2122850629597135272
+## 2026-11-19 06:37 UTC · цитата
 
-## 2026-11-18 07:10 UTC · цитата
+Tatsu crushing by quizzing everyone in a world of nonsense hype videos is really inspiring https://t.co/NEjBkKdnKr
 
-OH: “@sunnya97, @zkDragon, and @Lsquaredleland walked so that @CalBlockchain could pivot from Cosmos to AI or ZCash as fast as humanly possible” https://t.co/iR9tupCaLh
-
-❤ 11 · 🔁 0 · 💬 8 · цитат 0 · просмотров 614  
-https://x.com/tarunchitra/status/2122950476580921444
+❤ 5 · 🔁 0 · 💬 5 · цитат 0 · просмотров 855  
+https://x.com/tarunchitra/status/2123304686472380853

@@ -1,24 +1,19 @@
-# @arthur0x — посты за 2026-11-18
+# @arthur0x — посты за 2026-11-19
 
-Всего: 3
+Всего: 2
 
-## 2026-11-17 14:54 UTC · репост
+## 2026-11-18 10:04 UTC · репост
 
-RT @BusinessInsider: Jensen Huang was building an open AI ecosystem that threatened Anthropic's business model. His ouster changes the stak…
+RT @Fred834567: Now that Jensen Huang is gone, I think America is about to discover something the hard way:
 
-❤ 0 · 🔁 3880 · 💬 0 · цитат 0 · просмотров 1948  
-https://x.com/arthur0x/status/2122704963977834706
+Nvidia didn’t just lose a CEO.…
 
-## 2026-11-17 16:53 UTC · ответ
+❤ 0 · 🔁 1055 · 💬 0 · цитат 0 · просмотров 2134  
+https://x.com/arthur0x/status/2122994369418653703
 
-@JensenHuang Call a shareholders meeting to replace the board of directors, you have all of our support to return as CEO and replace all the board members
+## 2026-11-18 17:58 UTC · репост
 
-❤ 121 · 🔁 5 · 💬 0 · цитат 0 · просмотров 10322  
-https://x.com/arthur0x/status/2122734853338829033
+RT @BillAckman: I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduci…
 
-## 2026-11-17 16:53 UTC · цитата
-
-Looking forward to the return of the King. https://t.co/uKnCL6njd5
-
-❤ 93 · 🔁 4 · 💬 8 · цитат 0 · просмотров 8062  
-https://x.com/arthur0x/status/2122734940546879923
+❤ 0 · 🔁 8201 · 💬 0 · цитат 0 · просмотров 1724  
+https://x.com/arthur0x/status/2123113635589546071

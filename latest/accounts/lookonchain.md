@@ -1,127 +1,125 @@
-# @lookonchain — посты за 2026-11-18
+# @lookonchain — посты за 2026-11-19
 
-Всего: 12
+Всего: 11
 
-## 2026-11-17 10:11 UTC · пост
+## 2026-11-18 10:17 UTC · цитата
 
-The Binance hacker has started laundering the 602,402 $ETH ($1.09B) he holds!
+The Binance hacker has moved another 78,415 $ETH ($142M) for laundering, continuing to swap the $ETH for $BTC via #THORChain.
+https://t.co/oyvL5c2L0n https://t.co/BXabl3UDJs
 
-Over the past 3 hours, he has transferred out 74,880 $ETH ($136.8M) and is now swapping it for $BTC via #THORChain.
+❤ 233 · 🔁 14 · 💬 49 · цитат 11 · просмотров 58727  
+https://x.com/lookonchain/status/2122997562877821143
 
-https://t.co/jKWvcOSJCB https://t.co/0LFGTFRknc
+## 2026-11-18 13:37 UTC · пост
 
-❤ 498 · 🔁 45 · 💬 93 · цитат 31 · просмотров 99436  
-https://x.com/lookonchain/status/2122633788127940768
+Ahead of #Anthropic's market debut, a whale is building a massive short position on #Anthropic on #Hyperliquid!
 
-## 2026-11-17 12:41 UTC · пост
+The position has already reached $93.87M, with over $4M in unrealized profit.
 
-Two newly created wallets withdrew 299,045 $UNI ($1.58M) and 355B $PEPE ($1.38M) from #OKX and #Binance 5 hours ago.
+https://t.co/rXtGUZVPtl
+https://t.co/8bjSmB7Bb7 https://t.co/rWJATV22we
 
-https://t.co/H7MH7yPHlP
-https://t.co/qcu1l6XcjM https://t.co/Bkqf7ijamP
+❤ 324 · 🔁 21 · 💬 60 · цитат 8 · просмотров 69235  
+https://x.com/lookonchain/status/2123047896409092499
 
-❤ 153 · 🔁 13 · 💬 24 · цитат 1 · просмотров 52913  
-https://x.com/lookonchain/status/2122671449739780214
+## 2026-11-18 14:05 UTC · пост
 
-## 2026-11-17 13:26 UTC · пост
+Whale bc1q7s deposited 1,040 $BTC($67.17M) to #Binance in the past 24 hours.
 
-AguilaTrades(@AguilaTrades) lost all 6 trades in the past 24 hours, for a total loss of $2.68M!
+https://t.co/rvhW9Y5J7l https://t.co/JB2uWfrF2k
 
-https://t.co/jaJBeXPhew https://t.co/M8x6T71Aby
+❤ 154 · 🔁 7 · 💬 40 · цитат 2 · просмотров 49445  
+https://x.com/lookonchain/status/2123054971805675686
 
-❤ 254 · 🔁 8 · 💬 48 · цитат 7 · просмотров 56348  
-https://x.com/lookonchain/status/2122682904652460436
+## 2026-11-18 15:02 UTC · пост
 
-## 2026-11-17 13:36 UTC · пост
-
-Nov 17 Update:
+Nov 18 Update:
 
 #Bitcoin ETFs:
-1D NetFlow: +801 $BTC(+$52.01M)🟢
-7D NetFlow: -11,710 $BTC(-$760.61M)🔴
+1D NetFlow: -4,216 $BTC(-$269.46M)🔴
+7D NetFlow: -14,277 $BTC(-$912.49M)🔴
 
 #Ethereum ETFs:
-1D NetFlow: -7,509 $ETH(-$13.67M)🔴
-7D NetFlow: -116,722 $ETH(-$212.44M)🔴 https://t.co/gCSs1Kgjip
+1D NetFlow: -16,279 $ETH(-$29.14M)🔴
+7D NetFlow: -121,489 $ETH(-$217.47M)🔴 https://t.co/1ckl4kxSpN
 
-❤ 147 · 🔁 14 · 💬 44 · цитат 8 · просмотров 48750  
-https://x.com/lookonchain/status/2122685233153904760
+❤ 131 · 🔁 7 · 💬 59 · цитат 4 · просмотров 46591  
+https://x.com/lookonchain/status/2123069422525092327
 
-## 2026-11-18 02:05 UTC · пост
+## 2026-11-19 01:18 UTC · цитата
 
-Trader 0x9b7B sold 280 $ETH for 1.086M $USDC at $3,881 over a year ago.
+The #EthereumFoundation-linked wallet (0x5CBC) just dumped another 1,200 $ETH($2.14M).
+https://t.co/9XshsFOfT3 https://t.co/RJlDHwFSKG
 
-He just spent the same 1.086M $USDC to buy back 598 $ETH at $1,816.
+❤ 168 · 🔁 11 · 💬 43 · цитат 6 · просмотров 38358  
+https://x.com/lookonchain/status/2123224324601684020
 
-Nicely done — sell high, buy low!
+## 2026-11-19 01:34 UTC · пост
 
-https://t.co/zoErTrwldE https://t.co/JFYOcNnUmO
+Pump fun(@Pumpfun) dumped 33,390 $SOL($2.44M) again 2 hours ago!
 
-❤ 250 · 🔁 17 · 💬 50 · цитат 0 · просмотров 37930  
-https://x.com/lookonchain/status/2122873746302316626
+In total, https://t.co/TcwYRTArT2 has sold 5,651,889 $SOL($890M) at an average price of $157.47.
 
-## 2026-11-18 02:26 UTC · цитата
+https://t.co/kyztoJLCjt https://t.co/WbMZWDvDCB
 
-The Erik Voorhees-linked wallets have bought a total of 92,052 $ETH ($165.55M) at an average price of $1,921 over the past week and is now sitting on $11M in unrealized losses.
-https://t.co/t4ovf9puVE https://t.co/5XO1VHKRTJ
+❤ 181 · 🔁 11 · 💬 38 · цитат 8 · просмотров 38018  
+https://x.com/lookonchain/status/2123228375099818212
 
-❤ 159 · 🔁 7 · 💬 31 · цитат 1 · просмотров 38369  
-https://x.com/lookonchain/status/2122878961684463834
+## 2026-11-19 01:39 UTC · пост
 
-## 2026-11-18 03:33 UTC · пост
+A mysterious whale is accumulating $PEPE!
 
-Bitcoin miner MARA Holdings (@MARA) continues to dump $BTC, transferring out another 366 $BTC ($23.33M) 8 hours ago.
+Newly created wallet "0x5011" withdrew 1.9T $PEPE ($7.15M) from Binance over the past 2 days.
 
-According to official disclosures, #MARA sold 40,581 $BTC ($3.03B) in 2026 at an average price of $74,446.
+https://t.co/H7MH7yPHlP https://t.co/PxQEpqbHqQ
 
-https://t.co/fTOd8FQMxR https://t.co/SQgTLUdrve
+❤ 303 · 🔁 39 · 💬 35 · цитат 10 · просмотров 42825  
+https://x.com/lookonchain/status/2123229538188673195
 
-❤ 177 · 🔁 15 · 💬 67 · цитат 8 · просмотров 39267  
-https://x.com/lookonchain/status/2122896058963661224
+## 2026-11-19 01:54 UTC · пост
 
-## 2026-11-18 04:03 UTC · пост
+AguilaTrades(@AguilaTrades) closed his $BTC short 1 hour ago, making $1.37M in profit.
 
-Whale 0xd0A4 dumped another 500,000 $UNI ($2.63M) 6 hours ago.
+He then flipped long, opening a 40x long on 1,000 $BTC ($60.66M), and is now sitting on $500K in unrealized losses.
 
-Over the past month, the whale has sold a total of 3.11M $UNI ($21.48M) and still holds 1.89M $UNI ($9.85M).
+Liquidation price: $59,324.4
 
-https://t.co/hKjJx21jbd https://t.co/Z8HTJdfz8X
+https://t.co/jaJBeXPhew https://t.co/yFlQQjPa2L
 
-❤ 81 · 🔁 9 · 💬 25 · цитат 3 · просмотров 33672  
-https://x.com/lookonchain/status/2122903443363016896
+❤ 249 · 🔁 13 · 💬 59 · цитат 4 · просмотров 48611  
+https://x.com/lookonchain/status/2123233529429692514
 
-## 2026-11-18 06:11 UTC · пост
+## 2026-11-19 03:12 UTC · пост
 
-The total supply of $USDT on #TRON has grown year after year, reaching $94.21B and accounting for 54% of the total $USDT supply. https://t.co/NivW87wheB
+Whales are accumulating $ETH!
 
-❤ 59 · 🔁 2 · 💬 30 · цитат 1 · просмотров 29313  
-https://x.com/lookonchain/status/2122935713016721445
+Four wallets withdrew a total of 13,408 $ETH ($23.73M) from FalconX, Galaxy Digital, and OKX.
 
-## 2026-11-18 06:48 UTC · пост
+https://t.co/bGTenneQRZ
+https://t.co/9YPjIQ18V8
+https://t.co/6oUCtUpLF3
+https://t.co/FYJfoR7ePv https://t.co/yBnyhKJ6rx
 
-This guy turned $3.19M into just $258K in 1.5 years.
+❤ 178 · 🔁 10 · 💬 44 · цитат 5 · просмотров 35377  
+https://x.com/lookonchain/status/2123253035371770345
 
-He bought 267,272 $TRUMP 1.5 years ago, worth $3.19M at the time but only $258K today — a loss of $2.93M (-92%).
+## 2026-11-19 03:28 UTC · пост
 
-https://t.co/ADa9L1chlP https://t.co/SlGuwj70Xy
+It's liquidation day again!
 
-❤ 77 · 🔁 5 · 💬 27 · цитат 1 · просмотров 26729  
-https://x.com/lookonchain/status/2122945077756772620
+Six whales on Hyperliquid got liquidated a total of 30 times, with 618.24 $BTC ($38.73M) liquidated at prices ranging from $63,364 to $62,055.
 
-## 2026-11-18 06:56 UTC · пост
+Wallets:
+0x6c2c8c6e60dfaf81145ffad13736a4847ad4a201
+0x448a4f64f5dc17817f23f5d1bf488db19359e050 https://t.co/ThQkMEeZ3d
 
-After some "hard work," Machi (@machibigbrother) has finally topped the loss leaderboard on @papertrade_xyz with $2.69M in realized losses.
+❤ 128 · 🔁 7 · 💬 61 · цитат 9 · просмотров 39959  
+https://x.com/lookonchain/status/2123257156531302619
 
-https://t.co/uTIgj9Rh3i https://t.co/yLeeiEBJDE
+## 2026-11-19 07:22 UTC · пост
 
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 18587  
-https://x.com/lookonchain/status/2122946935179055398
+The Binance hacker has moved another 137,602 $ETH ($248.23M) for laundering.
+https://t.co/jKWvcOSJCB https://t.co/ZcIoZLlAhA
 
-## 2026-11-18 06:56 UTC · пост
-
-After some "hard work," Machi (@machibigbrother) has finally topped the loss leaderboard on @papertrade_xyz with $2.61M in realized losses.
-
-https://t.co/uTIgj9Rh3i https://t.co/d3yJnelLhB
-
-❤ 44 · 🔁 0 · 💬 25 · цитат 2 · просмотров 21554  
-https://x.com/lookonchain/status/2122947154360852753
+❤ 21 · 🔁 4 · 💬 7 · цитат 0 · просмотров 17228  
+https://x.com/lookonchain/status/2123315988565471543

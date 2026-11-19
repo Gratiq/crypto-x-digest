@@ -1,138 +1,115 @@
-# @choffstein — посты за 2026-11-18
+# @choffstein — посты за 2026-11-19
 
-Всего: 15
+Всего: 10
 
-## 2026-11-17 12:58 UTC · ответ
+## 2026-11-18 12:23 UTC · ответ
 
-@JungleRockRes No, I mean 2023.  But your assumption proves my point.
+@virologyanon Expand on "lousy execution."
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 476  
-https://x.com/choffstein/status/2122675828236411024
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 568  
+https://x.com/choffstein/status/2123029274055626940
 
-## 2026-11-17 13:00 UTC · ответ
+## 2026-11-18 14:20 UTC · цитата
 
-@BenWiesenfeld I'm very aware.  
+Looks like it was seeded with $40mm and launching today. https://t.co/vyUP7L1fgz https://t.co/obo4wCYlj5
 
-And, is we're fair, it doesn't even capture AUM, since he could be sitting in cash or cash + total return swaps. 
+❤ 123 · 🔁 6 · 💬 11 · цитат 0 · просмотров 33762  
+https://x.com/choffstein/status/2123058870943985922
 
-But given the return of his basket, that's very unlikely.
+## 2026-11-18 14:37 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 59  
-https://x.com/choffstein/status/2122676360804016545
+@HashOverCash21 https://t.co/X2YTWjIlku
 
-## 2026-11-17 13:34 UTC · пост
+❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 760  
+https://x.com/choffstein/status/2123062960201605549
 
-"The small arrow or triangle next to the fuel pump icon on your dashboard points directly to the side of the vehicle where your gas tank is located."
+## 2026-11-18 15:53 UTC · ответ
 
-Someone at Bavarian Motor Works chose violence with this design. 
+@Tanner_HL Probably a mix of what they think is easy to stack, something that they can point to a clear track record, as well as perceived market appetite.
 
-(Yes, I know it's on the right.) https://t.co/MSteBlLh6a
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 393  
+https://x.com/choffstein/status/2123082195350761773
 
-❤ 38 · 🔁 0 · 💬 13 · цитат 0 · просмотров 7535  
-https://x.com/choffstein/status/2122684755812499584
+## 2026-11-18 15:54 UTC · репост
 
-## 2026-11-17 13:45 UTC · ответ
-
-@JungleRockRes By November 2023, the S&amp;P 500 was already up 25% from its 2022 lows.
-
-And it's up another 70% from there in the last 3 years.
-
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 237  
-https://x.com/choffstein/status/2122687522585141417
-
-## 2026-11-17 14:45 UTC · ответ
-
-@moritzheiden There hasn't been a single day that sensor hasn't gone off.
-
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 293  
-https://x.com/choffstein/status/2122702690668974582
-
-## 2026-11-17 15:21 UTC · ответ
-
-@Ksidiii Private jet + patek flex on the time line is how you nuke your performance to hades, my friend.
-
-Say three "Hail Nasdaqs" and an "Our Father Warsh" to atone for your sins.
-
-❤ 147 · 🔁 0 · 💬 2 · цитат 1 · просмотров 4303  
-https://x.com/choffstein/status/2122711800080728477
-
-## 2026-11-17 16:44 UTC · ответ
-
-@bennpeifert simple as eat clean, tren hard
-
-❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 763  
-https://x.com/choffstein/status/2122732556344820147
-
-## 2026-11-17 19:54 UTC · ответ
-
-@MebFaber @InvestAmerica24 First, congrats.
-
-Second, love this.
-
-❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 724  
-https://x.com/choffstein/status/2122780355044225162
-
-## 2026-11-17 19:55 UTC · ответ
-
-@DeepDishEnjoyer No holiday drinks until after we consume the ritual dry turkey
-
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1132  
-https://x.com/choffstein/status/2122780590080495788
-
-## 2026-11-17 19:59 UTC · ответ
-
-@DeepDishEnjoyer as long as your seafood turducken is dry, you get a pass
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 228  
-https://x.com/choffstein/status/2122781628733026569
-
-## 2026-11-17 22:04 UTC · пост
-
-BlackRock is now writing articles about portable alpha in an ETF wrapper.
-
-And promoting a fund they haven't even launched yet.
-
-But I'm sure it's nothing.
-
-🥞🚀
-
-https://t.co/tEdycyrVpa
-
-❤ 153 · 🔁 5 · 💬 6 · цитат 0 · просмотров 11750  
-https://x.com/choffstein/status/2122813139582382530
-
-## 2026-11-18 00:53 UTC · ответ
-
-@ScottPh77711570 Or I'm about to lose a land war against BlackRock
-
-❤ 11 · 🔁 0 · 💬 1 · цитат 0 · просмотров 708  
-https://x.com/choffstein/status/2122855793879822641
-
-## 2026-11-18 02:38 UTC · пост
-
-Romantic entanglements with foreign agents. 
+RT @choffstein: Romantic entanglements with foreign agents. 
 
 International intrigue. 
 
 A board agonizing over who should have the job. 
 
-I really do think he’s the right man for it.
+I…
 
-Anyway, congrats Robert Pattinson.
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/choffstein/status/2123082510326194600
 
-❤ 42 · 🔁 0 · 💬 3 · цитат 0 · просмотров 4239  
-https://x.com/choffstein/status/2122882081521094993
+## 2026-11-18 21:04 UTC · ответ
 
-## 2026-11-18 03:00 UTC · ответ
+@DaveNadig @syouth1 @maybebullish Should a swap on the S&amp;P 500 disclose the financing rate when futures don't?
 
-@EconomPic I mean, at what point is it willful ignorance when you can run anything you write through AI and say, "provide a critique of my arguments"?
+Should futures?  If so, how are we calculating that rate?
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 625  
-https://x.com/choffstein/status/2122887630106865729
+What about options?
 
-## 2026-11-18 04:07 UTC · ответ
+What about perps?
 
-@DeepDishEnjoyer @AdsoOfBelk good tweet https://t.co/dBx91gPK3a
+I'd love better disclosures here, but I don't know how to make it uniform across derivatives.
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 194  
-https://x.com/choffstein/status/2122904608926240958
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 250  
+https://x.com/choffstein/status/2123160316557046038
+
+## 2026-11-18 22:23 UTC · ответ
+
+@DaveNadig @syouth1 @maybebullish The contract rate on swaps is static, so you can quote it in your holdings.
+
+The rate in futures, options, and perps is not.  Do I need to re-quote it daily?
+
+By the way, that "dividends" part of futures and options requires estimating what the dividends are.
+
+How are we backing
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 202  
+https://x.com/choffstein/status/2123180419830997089
+
+## 2026-11-18 22:50 UTC · ответ
+
+@DaveNadig @syouth1 @maybebullish Those very smart finance people should just look up the swap costs. They're publicly stated.
+
+Anyway...
+
+Roll = financing − carry on the underlying. 
+
+Only the net is observable. "Financing" is whatever's left after you estimate carry.  
+
+And you do have to estimate carry.
+
+This
+
+❤ 4 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1339  
+https://x.com/choffstein/status/2123187236099236243
+
+## 2026-11-18 23:09 UTC · ответ
+
+@DaveNadig @syouth1 @maybebullish Here is the roll in WTI crude at every monthly roll since 1983, annualized. This is the "far price minus near price, divided by near price" part of your futures formula.
+
+With crude you need to account for convenience yield, and it isn't paid or published anywhere. 
+
+The only way https://t.co/9UPHUjwCB9
+
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1205  
+https://x.com/choffstein/status/2123191832280514897
+
+## 2026-11-18 23:21 UTC · ответ
+
+@DaveNadig @syouth1 @maybebullish @awealthofcs I'm not opposed to disclosing financing costs.  
+
+But swaps make this trivial by construction. 
+
+It's highly non-trivial elsewhere.
+
+And I think it's one thing to disclose the multi-hundred-to-thousand-plus spread above SOFR that's getting paid in a 2x single-name equity ETF. 
+
+I
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 204  
+https://x.com/choffstein/status/2123194901374652564

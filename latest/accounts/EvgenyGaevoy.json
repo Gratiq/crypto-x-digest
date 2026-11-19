@@ -1,42 +1,62 @@
 [
  {
-  "id": "2122600612504461338",
+  "id": "2123053552994021528",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "reply",
-  "created_at": "2026-11-17T07:59:56.000Z",
-  "text": "@trading_axe I would but then to be fair I wouldn’t be able to come up with a scenario where I would meet the guy",
-  "url": "https://x.com/EvgenyGaevoy/status/2122600612504461338",
-  "likes": 3,
+  "created_at": "2026-11-18T13:59:46.000Z",
+  "text": "@0xWenMoon @0x_Zhuang really? I mostly see the overly positive stuff (which is not that far from how I perceived it few times I've been there😅)",
+  "url": "https://x.com/EvgenyGaevoy/status/2123053552994021528",
+  "likes": 2,
   "retweets": 0,
   "replies": 1,
   "quotes": 0,
-  "impressions": 615,
+  "impressions": 532,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2122389419332092301",
-   "text": "@EvgenyGaevoy You wouldn’t say that to his face.\n\n~ Dr. Axius."
+   "id": "2123050872682803380",
+   "text": "@0x_Zhuang Actually this is how i felt about china. Western media makes china look like shit"
   }
  },
  {
-  "id": "2122635174735429999",
+  "id": "2123090210552725719",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
-  "type": "quote",
-  "created_at": "2026-11-17T10:17:16.000Z",
-  "text": "me and crypro/ai meltdown https://t.co/7GJAzJrsRb https://t.co/La2xv4iOfB",
-  "url": "https://x.com/EvgenyGaevoy/status/2122635174735429999",
-  "likes": 143,
-  "retweets": 4,
-  "replies": 12,
-  "quotes": 2,
-  "impressions": 13539,
-  "bookmarks": 10,
+  "type": "retweet",
+  "created_at": "2026-11-18T16:25:25.000Z",
+  "text": "RT @wintermute_t: Cambridge students played Blotto with us at @cuats_algos\n\nOur traders, including two Cambridge alumni, ran the games with…",
+  "url": "https://x.com/EvgenyGaevoy/status/2123090210552725719",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 996,
+  "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2122468609079558298",
-   "text": "金正恩视察滑雪场，女儿金主爱一身白衣滑雪，金正恩和李雪主戴墨镜观看。\n\n朝鲜今日公布一系列照片，显示金正恩一行视察了北胞胎山地区的滑雪旅游休养地建设工地。\n\n不得不说，金主爱滑雪水平确实不错，而且也不戴墨镜。 https://t.co/z5AgZbddJx"
+   "type": "retweeted",
+   "id": "2123081691267039273",
+   "text": "Cambridge students played Blotto with us at @cuats_algos\n\nOur traders, including two Cambridge alumni, ran the games with our Talent Acquisition team and talked with students about life at Wintermute\n\n→ See our upcoming campus events: https://t.co/w5g6rxsy3f https://t.co/Bg64o0iHqw"
+  }
+ },
+ {
+  "id": "2123123603008807361",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "retweet",
+  "created_at": "2026-11-18T18:38:07.000Z",
+  "text": "RT @base: Every market needs liquidity\n\nFull episode tomorrow https://t.co/mbUE2n8DLV",
+  "url": "https://x.com/EvgenyGaevoy/status/2123123603008807361",
+  "likes": 0,
+  "retweets": 24,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1061,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123114165556654426",
+   "text": "Every market needs liquidity\n\nFull episode tomorrow https://t.co/mbUE2n8DLV"
   }
  }
 ]

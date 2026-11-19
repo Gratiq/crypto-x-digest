@@ -1,0 +1,382 @@
+[
+ {
+  "id": "2123009393814024441",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-18T11:04:17.000Z",
+  "text": "RT @ASvanevik: visited @Auki in HK last week 🇭🇰\n\nthey’re doing super cool things with robotics in retail\n\nhere’s @broodsugar explaining it:…",
+  "url": "https://x.com/Fiskantes/status/2123009393814024441",
+  "likes": 0,
+  "retweets": 13,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 569,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122931489625260338",
+   "text": "visited @Auki in HK last week 🇭🇰\n\nthey’re doing super cool things with robotics in retail\n\nhere’s @broodsugar explaining it: https://t.co/sk0DHYqVlt"
+  }
+ },
+ {
+  "id": "2123010101590323201",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-18T11:07:06.000Z",
+  "text": "RT @Auki: AI has been better than humans at chess for 3 decades already. It's not a leap to believe they'll be better than humans at runnin…",
+  "url": "https://x.com/Fiskantes/status/2123010101590323201",
+  "likes": 0,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 685,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122942723116437931",
+   "text": "AI has been better than humans at chess for 3 decades already. It's not a leap to believe they'll be better than humans at running stores this decade. https://t.co/FyfDXVS2JU"
+  }
+ },
+ {
+  "id": "2123023317036601698",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-18T11:59:37.000Z",
+  "text": "Might as well replace Jensen with a chatbot https://t.co/MzfDsOapTO",
+  "url": "https://x.com/Fiskantes/status/2123023317036601698",
+  "likes": 23,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "impressions": 3439,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122838739282166189",
+   "text": "If you’re an $NVDA investor, this is a must watch interview of your NEW CEO who replaced Jensen Huang addressing the future of the company including employees and financing and competition\n\n.@jimcramer https://t.co/PdvLE2hpyZ https://t.co/SsAbMHc8FU"
+  }
+ },
+ {
+  "id": "2123044009417253138",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T13:21:50.000Z",
+  "text": "@SrikarVaradaraj \"AI can run most businesses better than humans now\"\n\nAny examples? if this was true surely we would already see that in practice",
+  "url": "https://x.com/Fiskantes/status/2123044009417253138",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 85,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123043696174080243",
+   "text": "@Fiskantes AI can run most businesses better than humans now, this is not the dig you think it is."
+  }
+ },
+ {
+  "id": "2123045309567717701",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T13:27:00.000Z",
+  "text": "@nic_carter My reaction: https://t.co/iUDBpNsxmZ",
+  "url": "https://x.com/Fiskantes/status/2123045309567717701",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 440,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122809364889391500",
+   "text": "James Bond is incoherent in 2026 because the UK has neither the desire nor the ability to project power abroad or influence global affairs, they are busy shedding the last of their colonial possessions. Their main law enforcement priority is criminalizing dissent domestically"
+  }
+ },
+ {
+  "id": "2123059531705884672",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T14:23:31.000Z",
+  "text": "@SrikarVaradaraj I'm happy to bet 100k USD against this claim:\n\n\"AI can run most businesses better than humans now\"\n\nSo to make it specific, I am making a bet that\n\n- in next 6 months since today (\"now\")\n- there is and will not be a single company\n- that is fully managed by AI without human",
+  "url": "https://x.com/Fiskantes/status/2123059531705884672",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 202,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123053116366934382",
+   "text": "@Fiskantes By run I mean the CEO executive function given context. \nWhat’s missing:\n- capturing context\n- putting it in memory in a self evolving way \n\nWe can make a bet on this (with timing) - first evidence will be the first autonomously run company (am not talking about static smart"
+  }
+ },
+ {
+  "id": "2123060056899895568",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T14:25:36.000Z",
+  "text": "@SrikarVaradaraj I realize this is still quite fuzzy definition and we may need to iron it out a bit more, but I am happy to bet on this in principle",
+  "url": "https://x.com/Fiskantes/status/2123060056899895568",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 485,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123059531705884672",
+   "text": "@SrikarVaradaraj I'm happy to bet 100k USD against this claim:\n\n\"AI can run most businesses better than humans now\"\n\nSo to make it specific, I am making a bet that\n\n- in next 6 months since today (\"now\")\n- there is and will not be a single company\n- that is fully managed by AI without human"
+  }
+ },
+ {
+  "id": "2123061093065162781",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T14:29:43.000Z",
+  "text": "@SrikarVaradaraj Hmm, however this would still not cover the claim \"MOST businesses can run better with AI CEO than human CEO...MOST is very strong term, given how many different types of businesses there is\"",
+  "url": "https://x.com/Fiskantes/status/2123061093065162781",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 415,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123060056899895568",
+   "text": "@SrikarVaradaraj I realize this is still quite fuzzy definition and we may need to iron it out a bit more, but I am happy to bet on this in principle"
+  }
+ },
+ {
+  "id": "2123167765246980235",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-18T21:33:36.000Z",
+  "text": "RT @BillAckman: I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduci…",
+  "url": "https://x.com/Fiskantes/status/2123167765246980235",
+  "likes": 0,
+  "retweets": 8203,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 538,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123101979375235386",
+   "text": "I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduciary duties. \n\nWhat we know is that the board fired Jensen or forced his resignation for violating company policy and/or in response to the accusation of an"
+  }
+ },
+ {
+  "id": "2123169279948541990",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-18T21:39:37.000Z",
+  "text": "You aren't gonna stop the brain drain of deca millionaires who built the company through blood, sweat and tears with Jensen with a pay raise https://t.co/0fh2uDnnZk",
+  "url": "https://x.com/Fiskantes/status/2123169279948541990",
+  "likes": 49,
+  "retweets": 2,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 4974,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123109141652644219",
+   "text": "JUST IN: Nvidia ($NVDA) interim CEO Colette Kress promises company-wide pay raises and additional equity grants months ahead of schedule as the chipmaker scrambles to retain employees following Jensen Huang’s departure, according to WIRED."
+  }
+ },
+ {
+  "id": "2123170321846907025",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T21:43:45.000Z",
+  "text": "@bigballsbulla Jensen Huang did nothing wrong https://t.co/u7L12N3yVS",
+  "url": "https://x.com/Fiskantes/status/2123170321846907025",
+  "likes": 17,
+  "retweets": 5,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1296,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123169965410750837",
+   "text": "@Fiskantes Give it a year and he will be smashing mids as CEO again\n\nThey just gotta feel his absence first"
+  }
+ },
+ {
+  "id": "2123170349307339141",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-18T21:43:52.000Z",
+  "text": "RT @Fiskantes: @bigballsbulla Jensen Huang did nothing wrong https://t.co/u7L12N3yVS",
+  "url": "https://x.com/Fiskantes/status/2123170349307339141",
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 0,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123170321846907025",
+   "text": "@bigballsbulla Jensen Huang did nothing wrong https://t.co/u7L12N3yVS"
+  }
+ },
+ {
+  "id": "2123172310215434365",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T21:51:40.000Z",
+  "text": "@ilblackdragon What does it mean \"natively issued\"?",
+  "url": "https://x.com/Fiskantes/status/2123172310215434365",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 506,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123156377631699067",
+   "text": "The first stock natively issued on NEAR and right away traded on https://t.co/qUgcAgUVSp is $TTWO to get you trading right before GTA V release.\n\nNEAR Intents offers universal platform for all asset issuers while tapping into liquidity of underlying markets so it is not feeling https://t.co/khlkwkxu8b"
+  }
+ },
+ {
+  "id": "2123173442660802761",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T21:56:10.000Z",
+  "text": "@ilblackdragon So its a mirror asset using oracle, not real \"stock on-chain\" like what e.g. Backpack issues?",
+  "url": "https://x.com/Fiskantes/status/2123173442660802761",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 147,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123172930293240180",
+   "text": "@Fiskantes Mint/redeem are smart contract calls on NEAR blockchain. Ondo assets for example need to flow through Ondo network before coming to intents. \n\nThis approach gives tighter latency for solvers and easier integration."
+  }
+ },
+ {
+  "id": "2123173882949521795",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T21:57:55.000Z",
+  "text": "@bigballsbulla These CEOs can quit at any time and live like kings tho, they have this option\n\nThe thing is...they are addicted to the game...they know their lives would be empty without it",
+  "url": "https://x.com/Fiskantes/status/2123173882949521795",
+  "likes": 8,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 385,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123173421609869811",
+   "text": "Ive been that guy\n\nPoor as shit, but with big dreams, free time, and plenty of drive for adventure\n\nOn that eggs and 100 lb bag of white rice diet\n\nLiving in a roach infested cube\n\nSome of the best times of my life\n\nMost CEOs have to weigh everything they do a hundred ways https://t.co/PqMZ73Lhvl"
+  }
+ },
+ {
+  "id": "2123188683662856512",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-18T22:56:43.000Z",
+  "text": "Solid power moves https://t.co/IO2jEhwKZB",
+  "url": "https://x.com/Fiskantes/status/2123188683662856512",
+  "likes": 16,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 10178,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123129388032016576",
+   "text": "putin not at the big boy table. \n\nWhile Xi Jinping rolled out the absolute red carpet for Trump, giving him the ultimate seat of honor right next to him at the head table, where was master-strategist putin? \n\nBanished to a separate table, sandwiched awkwardly between Xi’s wife, https://t.co/xNAcPDQzrb"
+  }
+ },
+ {
+  "id": "2123190806177542192",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "quote",
+  "created_at": "2026-11-18T23:05:09.000Z",
+  "text": "The Q3 earning numbers NVDA printed are a direct result of Jensen's business genius and decisions he made 2+ years ago\n\nMarkets are forward facing and understand that 2 years in the future the earnings aren't going to be anything like they are today https://t.co/OeiejqibNe",
+  "url": "https://x.com/Fiskantes/status/2123190806177542192",
+  "likes": 30,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 1,
+  "impressions": 2832,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123150643426713939",
+   "text": "$NVDA down -3%\n\n\"We’ve got this!\" https://t.co/wulCk09D3u"
+  }
+ },
+ {
+  "id": "2123193685630468474",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T23:16:36.000Z",
+  "text": "@bigballsbulla I think you would really enjoy pugwalker2 account on IG\n\nas an incel to fellow incel",
+  "url": "https://x.com/Fiskantes/status/2123193685630468474",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 131,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123181510509334687",
+   "text": "What most people don't understand about us incels\n\nIs that it isn't the same thing as being a volcel\n\nVolcels could, if they lowered their standards, get with a slimy slug at a dive bar TONIGHT if they wanted\n\nThey don't understand the raw, visceral struggle of a true incel"
+  }
+ },
+ {
+  "id": "2123195989909717270",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-18T23:25:45.000Z",
+  "text": "@AriDavidPaul @balwiles https://t.co/w6JKU41XQt",
+  "url": "https://x.com/Fiskantes/status/2123195989909717270",
+  "likes": 81,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1910,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122827626922541131",
+   "text": "@balwiles Well, we’ve already seen sporadic outtages in parts of the globe.  Japanese banking systems, individual cities going dark in Europe, refrigeration failures across Europe, etc.  So the question is really how bad it gets and if it’s like to hit your specific area.  \n\nIMO, I’m very"
+  }
+ }
+]

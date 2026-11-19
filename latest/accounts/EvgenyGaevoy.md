@@ -1,17 +1,28 @@
-# @EvgenyGaevoy — посты за 2026-11-18
+# @EvgenyGaevoy — посты за 2026-11-19
 
-Всего: 2
+Всего: 3
 
-## 2026-11-17 07:59 UTC · ответ
+## 2026-11-18 13:59 UTC · ответ
 
-@trading_axe I would but then to be fair I wouldn’t be able to come up with a scenario where I would meet the guy
+@0xWenMoon @0x_Zhuang really? I mostly see the overly positive stuff (which is not that far from how I perceived it few times I've been there😅)
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 615  
-https://x.com/EvgenyGaevoy/status/2122600612504461338
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 532  
+https://x.com/EvgenyGaevoy/status/2123053552994021528
 
-## 2026-11-17 10:17 UTC · цитата
+## 2026-11-18 16:25 UTC · репост
 
-me and crypro/ai meltdown https://t.co/7GJAzJrsRb https://t.co/La2xv4iOfB
+RT @wintermute_t: Cambridge students played Blotto with us at @cuats_algos
 
-❤ 143 · 🔁 4 · 💬 12 · цитат 2 · просмотров 13539  
-https://x.com/EvgenyGaevoy/status/2122635174735429999
+Our traders, including two Cambridge alumni, ran the games with…
+
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 996  
+https://x.com/EvgenyGaevoy/status/2123090210552725719
+
+## 2026-11-18 18:38 UTC · репост
+
+RT @base: Every market needs liquidity
+
+Full episode tomorrow https://t.co/mbUE2n8DLV
+
+❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 1061  
+https://x.com/EvgenyGaevoy/status/2123123603008807361

@@ -1,18 +1,37 @@
 [
  {
-  "id": "2122729851811692961",
+  "id": "2123105085098246215",
   "username": "pythianism",
   "username_canon": "pythianism",
   "type": "original",
-  "created_at": "2026-11-17T16:33:29.000Z",
-  "text": "Please get on a Zoom call with me. I have important information to install on your computer",
-  "url": "https://x.com/pythianism/status/2122729851811692961",
-  "likes": 195,
-  "retweets": 6,
-  "replies": 19,
+  "created_at": "2026-11-18T17:24:32.000Z",
+  "text": "Do not let the increasing Probability of Doom distract you from lab ARR growth slowing as the coding market matures\n\nThe debt stack financing AI is already larger than the subprime market was in 2007, more opaque, and funded by lenders with less regulation than banks",
+  "url": "https://x.com/pythianism/status/2123105085098246215",
+  "likes": 143,
+  "retweets": 9,
+  "replies": 11,
   "quotes": 0,
-  "impressions": 9813,
-  "bookmarks": 6,
-  "referenced": null
+  "impressions": 11473,
+  "bookmarks": 36
+ },
+ {
+  "id": "2123223735515930760",
+  "username": "pythianism",
+  "username_canon": "pythianism",
+  "type": "retweet",
+  "created_at": "2026-11-19T01:16:00.000Z",
+  "text": "RT @TheStalwart: I hadn't thought to look at the publicly traded Chinese AI companies. But the maker of GLM 5.3 is down by nearly 33% in th…",
+  "url": "https://x.com/pythianism/status/2123223735515930760",
+  "likes": 0,
+  "retweets": 61,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 704,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122694748666528168",
+   "text": "I hadn't thought to look at the publicly traded Chinese AI companies. But the maker of GLM 5.3 is down by nearly 33% in the last 4 trading days. https://t.co/oWji20kIQK https://t.co/jfOEJikQCN"
+  }
  }
 ]

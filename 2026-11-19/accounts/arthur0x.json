@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2122994369418653703",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "retweet",
+  "created_at": "2026-11-18T10:04:35.000Z",
+  "text": "RT @Fred834567: Now that Jensen Huang is gone, I think America is about to discover something the hard way:\n\nNvidia didn’t just lose a CEO.…",
+  "url": "https://x.com/arthur0x/status/2122994369418653703",
+  "likes": 0,
+  "retweets": 1055,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2134,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122625740642656565",
+   "text": "Now that Jensen Huang is gone, I think America is about to discover something the hard way:\n\nNvidia didn’t just lose a CEO. It lost the one guy who knew how to run an Asian supply chain like an old-school merchant.\n\nYou can replace him with a brilliant American executive, an"
+  }
+ },
+ {
+  "id": "2123113635589546071",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "retweet",
+  "created_at": "2026-11-18T17:58:30.000Z",
+  "text": "RT @BillAckman: I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduci…",
+  "url": "https://x.com/arthur0x/status/2123113635589546071",
+  "likes": 0,
+  "retweets": 8201,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1724,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123101979375235386",
+   "text": "I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduciary duties. \n\nWhat we know is that the board fired Jensen or forced his resignation for violating company policy and/or in response to the accusation of an"
+  }
+ }
+]

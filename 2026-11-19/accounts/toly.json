@@ -1,0 +1,717 @@
+[
+ {
+  "id": "2123048059051680079",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T13:37:56.000Z",
+  "text": "🧠🧠🧠 https://t.co/sgpqG5HbDa",
+  "url": "https://x.com/toly/status/2123048059051680079",
+  "likes": 123,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 22911,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122946784624292056",
+   "text": "NEW: @solana CO-FOUNDER @toly SAYS \"99.999% OF COMPUTE WILL BE IN SPACE\"\n\n\"WE NEED A BLOCKCHAIN THAT CAN WITHSTAND THE HARSH VACUUM OF SPACE. SOLANA\" https://t.co/2i0XlCmUb4"
+  }
+ },
+ {
+  "id": "2123048784112611415",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T13:40:49.000Z",
+  "text": "RT @vladtenev: Formally verify your smart contracts",
+  "url": "https://x.com/toly/status/2123048784112611415",
+  "likes": 0,
+  "retweets": 52,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10881,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2122980316381905355",
+   "text": "Formally verify your smart contracts https://t.co/H1uJj0EsBM"
+  }
+ },
+ {
+  "id": "2123048860364988744",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T13:41:07.000Z",
+  "text": "👑👑👑 https://t.co/nr8aVv0cIx",
+  "url": "https://x.com/toly/status/2123048860364988744",
+  "likes": 57,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 2,
+  "impressions": 22235,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122975947167064352",
+   "text": "🧵 Formal verification on @solana\n\nAbsolutely thrilled by this 1st release.\n\n@HarmonicMath, founded by @vladtenev and @tachim,  just added support for Rust to their product Aristotle, with Solana programs being a FIRST-CLASS citizen.\n\nThey worked closely with 15 teams from"
+  }
+ },
+ {
+  "id": "2123060936097550493",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-18T14:29:06.000Z",
+  "text": "@vladtenev Incredible! 👑👑👑",
+  "url": "https://x.com/toly/status/2123060936097550493",
+  "likes": 65,
+  "retweets": 1,
+  "replies": 29,
+  "quotes": 0,
+  "impressions": 3876,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122980316381905355",
+   "text": "Formally verify your smart contracts https://t.co/H1uJj0EsBM"
+  }
+ },
+ {
+  "id": "2123064352102359334",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T14:42:40.000Z",
+  "text": "RT @mert: seeing massive interest and inbound for this\n\nif youre moving funds onchain as a business on Solana, get in touch and encrypt you…",
+  "url": "https://x.com/toly/status/2123064352102359334",
+  "likes": 0,
+  "retweets": 48,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11579,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123038349510193318",
+   "text": "seeing massive interest and inbound for this\n\nif youre moving funds onchain as a business on Solana, get in touch and encrypt your money \n\nit is extremely quick and easy to work with and we will help with both integrations and marketing\n\nlet's win https://t.co/jOmiwTdiJL"
+  }
+ },
+ {
+  "id": "2123064632080540131",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-18T14:43:47.000Z",
+  "text": "@mert Chuckee cheese tokens are commodity money",
+  "url": "https://x.com/toly/status/2123064632080540131",
+  "likes": 31,
+  "retweets": 3,
+  "replies": 1,
+  "quotes": 7,
+  "impressions": 6482,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123006579159048503",
+   "text": "@toly see: commodity money"
+  }
+ },
+ {
+  "id": "2123066607094374547",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T14:51:38.000Z",
+  "text": "RT @marcryptonio: all on the same team",
+  "url": "https://x.com/toly/status/2123066607094374547",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14108,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123065718207893982",
+   "text": "all on the same team https://t.co/c6M2OuRwX1"
+  }
+ },
+ {
+  "id": "2123067445254709739",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T14:54:58.000Z",
+  "text": "RT @SolanaInstitute: Another amazing @solana Breakpoint. Thanks to everyone who stopped by our bus to say hi. https://t.co/raeDbgndbC",
+  "url": "https://x.com/toly/status/2123067445254709739",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13717,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123033052746055976",
+   "text": "Another amazing @solana Breakpoint. Thanks to everyone who stopped by our bus to say hi. https://t.co/raeDbgndbC"
+  }
+ },
+ {
+  "id": "2123069253440217116",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T15:02:09.000Z",
+  "text": "RT @vibhu: Only 18.2 more hours to use my special code for Breakpoint ‘27 to get a ticket for only $50\n\nBP27-VIBHU or click link in bio",
+  "url": "https://x.com/toly/status/2123069253440217116",
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12336,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123030169401340103",
+   "text": "Only 18.2 more hours to use my special code for Breakpoint ‘27 to get a ticket for only $50\n\nBP27-VIBHU or click link in bio https://t.co/WpyeGdggXR"
+  }
+ },
+ {
+  "id": "2123069361783263411",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T15:02:35.000Z",
+  "text": "RT @tilo_cpn: we really brought programmable privacy to Solana before GTA 6",
+  "url": "https://x.com/toly/status/2123069361783263411",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13237,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123008896511906248",
+   "text": "we really brought programmable privacy to Solana before GTA 6 https://t.co/KbXeWeMU16"
+  }
+ },
+ {
+  "id": "2123069594650960276",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T15:03:30.000Z",
+  "text": "These breakpoint cardboard cutouts of me are getting ridiculously realistic https://t.co/Tq4sp1Fpsf",
+  "url": "https://x.com/toly/status/2123069594650960276",
+  "likes": 118,
+  "retweets": 3,
+  "replies": 4,
+  "quotes": 1,
+  "impressions": 25906,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123064764364472465",
+   "text": "omg it's @toly the phone salesman https://t.co/9uGcaEw0SQ https://t.co/p57xUSc214"
+  }
+ },
+ {
+  "id": "2123072705557938188",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-18T15:15:52.000Z",
+  "text": "What is a sov money one could actually shill to normies? \n\nIt’s a structured product that tracks the entire global economy, mag7, ant, spacex, unitreee,  all in one basket, with isolated risk in its components, all fully smart contract automated, globally available, with a fee https://t.co/lT3902q8w2",
+  "url": "https://x.com/toly/status/2123072705557938188",
+  "likes": 228,
+  "retweets": 15,
+  "replies": 12,
+  "quotes": 17,
+  "impressions": 50051,
+  "bookmarks": 50
+ },
+ {
+  "id": "2123075530757156947",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T15:27:06.000Z",
+  "text": "RT @sunrise: See you at tomorrow's opening bell, Claude. https://t.co/E274ejkdC5",
+  "url": "https://x.com/toly/status/2123075530757156947",
+  "likes": 0,
+  "retweets": 27,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13632,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123068763201290310",
+   "text": "See you at tomorrow's opening bell, Claude. https://t.co/E274ejkdC5 https://t.co/CptJYcTh6G"
+  }
+ },
+ {
+  "id": "2123086108942815536",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:09:08.000Z",
+  "text": "👑👑👑 https://t.co/WcMYZQvsOS",
+  "url": "https://x.com/toly/status/2123086108942815536",
+  "likes": 20,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 20354,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123084352703893669",
+   "text": "@toly This is Multiswap. It can support literally every asset onchain or off in a single pool. I've been demoing 500+ stocks in an S&amp;P500 pool since 2022. Coming to Solana soon™️"
+  }
+ },
+ {
+  "id": "2123086686343340109",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:11:25.000Z",
+  "text": "We must not allow an anti-crypto army drone gap https://t.co/2EyH0TH9bP",
+  "url": "https://x.com/toly/status/2123086686343340109",
+  "likes": 35,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 4,
+  "impressions": 23176,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123080246052139281",
+   "text": "This is the test seed bomb for our BB-1 drone. I actually asked our engineer why the bomb had to look like a missile, but he said it had to be this way. I didn't really understand why.\n\nIt's completely empty inside, just for testing the release system. https://t.co/nzgnDWUMI5"
+  }
+ },
+ {
+  "id": "2123088173668651055",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T16:17:20.000Z",
+  "text": "RT @cavemanloverboy: what are some good sf hotels for someone just getting into sf hotels",
+  "url": "https://x.com/toly/status/2123088173668651055",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13006,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123073405549466105",
+   "text": "what are some good sf hotels for someone just getting into sf hotels https://t.co/PrHLzR0ajE"
+  }
+ },
+ {
+  "id": "2123088456511574052",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:18:27.000Z",
+  "text": "Incredibly based https://t.co/nr8aVv0cIx",
+  "url": "https://x.com/toly/status/2123088456511574052",
+  "likes": 65,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 19172,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122975947167064352",
+   "text": "🧵 Formal verification on @solana\n\nAbsolutely thrilled by this 1st release.\n\n@HarmonicMath, founded by @vladtenev and @tachim,  just added support for Rust to their product Aristotle, with Solana programs being a FIRST-CLASS citizen.\n\nThey worked closely with 15 teams from"
+  }
+ },
+ {
+  "id": "2123089347205587447",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:22:00.000Z",
+  "text": "DEX #916533 was finally competitive with uniswap 5 years ago. https://t.co/4UYCYQOfsQ",
+  "url": "https://x.com/toly/status/2123089347205587447",
+  "likes": 80,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 27750,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122871815437484163",
+   "text": "BREAKING: SOLANA DEX *looks at notes* #916532 IS GONNA BEAT HYPERLIQUID https://t.co/acnLWp9CQX"
+  }
+ },
+ {
+  "id": "2123094237835342146",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:41:26.000Z",
+  "text": "👑👑👑 https://t.co/bNuyTm1cvn",
+  "url": "https://x.com/toly/status/2123094237835342146",
+  "likes": 37,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 7000,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123092489968222215",
+   "text": "FREE CREDIT to trade on @PhoenixTrade (up to $1,000!)\n\nonly a handful of codes left. If you've been waiting to start trading, this is a great chance imo\n\nuse them to trade and you keep the profits\n\nQT with the trade you'd open and why\n\nI'll pick a few 🔥 https://t.co/xxOtr3hhDS"
+  }
+ },
+ {
+  "id": "2123094907816706251",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:44:05.000Z",
+  "text": "👑👑👑 https://t.co/h8KTBClRx8",
+  "url": "https://x.com/toly/status/2123094907816706251",
+  "likes": 43,
+  "retweets": 4,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 9493,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122457061711601969",
+   "text": "It all started in Chicago almost four years ago when we embarked on this journey to build @Backpack Exchange. \n\nAt the time we didn’t know what would happen to our industry. We were forced offshore, but we did know we wanted to build a new exchange from the ground up with the https://t.co/0dLG20p2T1"
+  }
+ },
+ {
+  "id": "2123095044693561839",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:44:38.000Z",
+  "text": "👑👑👑 https://t.co/64XfJq1Ihf",
+  "url": "https://x.com/toly/status/2123095044693561839",
+  "likes": 36,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 6721,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123094767294894107",
+   "text": "officially kindmade 💪👑 https://t.co/TAlySaaPHE https://t.co/VR51RFiUQT"
+  }
+ },
+ {
+  "id": "2123095837500965012",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:47:47.000Z",
+  "text": "👑👑👑 https://t.co/Q45trLFHi6",
+  "url": "https://x.com/toly/status/2123095837500965012",
+  "likes": 39,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 5651,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123079301905940836",
+   "text": "Breakpoint kept the pace on Day 2. Here’s everything that happened:\n\n- @SolanaFndn became a majority investor in @coingecko\n\n- @anza_xyz CEO @bw_solana revealed that data storage costs on @Solana will drop by 7x within the next two weeks\n\n- @MoonPay’s @PayBox added AI plugins for https://t.co/gSDWS34Ji8"
+  }
+ },
+ {
+  "id": "2123096349877174632",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T16:49:49.000Z",
+  "text": "🐜🐜🐜 https://t.co/6KA6PmhSOa",
+  "url": "https://x.com/toly/status/2123096349877174632",
+  "likes": 47,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 3,
+  "impressions": 24705,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123069120312648187",
+   "text": "$ANT on @Solana tomorrow. \n\nvia @Sunrise and issued by @Backpack Securities. https://t.co/Zf8GHBdVi8"
+  }
+ },
+ {
+  "id": "2123102118357995529",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T17:12:45.000Z",
+  "text": "This is my bitcoin 3.0; i hope solana has so much adoption that sol would be a part of this Kelley optimized portfolio https://t.co/EkAN5a6TTD",
+  "url": "https://x.com/toly/status/2123102118357995529",
+  "likes": 291,
+  "retweets": 19,
+  "replies": 62,
+  "quotes": 7,
+  "impressions": 31560,
+  "bookmarks": 28,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123072705557938188",
+   "text": "What is a sov money one could actually shill to normies? \n\nIt’s a structured product that tracks the entire global economy, mag7, ant, spacex, unitreee,  all in one basket, with isolated risk in its components, all fully smart contract automated, globally available, with a fee https://t.co/lT3902q8w2"
+  }
+ },
+ {
+  "id": "2123105471100043365",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-18T17:26:04.000Z",
+  "text": "@0xAbhiP Each one has isolated custodian risk.  That risk is part of any investment, it’s important that it’s isolated though.",
+  "url": "https://x.com/toly/status/2123105471100043365",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2735,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123083740155125945",
+   "text": "@toly Who custodies the real SpaceX and Unitree shares inside an onchain global economy basket?"
+  }
+ },
+ {
+  "id": "2123106496083054897",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-18T17:30:08.000Z",
+  "text": "@dankrad @drjasper_eth @andyyy Nothing about store of value makes any sense.",
+  "url": "https://x.com/toly/status/2123106496083054897",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 2191,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123084680786317755",
+   "text": "@andyyy This doesn't make sense. If anything, PoS makes a better store of value on technical properties:\n - Every Bitcoin holder currently has to pay ~0.8% per year to miners\n - Ethereum issuance is currently around 0.9% but holders can simply participate by staking. Popular staking"
+  }
+ },
+ {
+  "id": "2123110356331724968",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T17:45:29.000Z",
+  "text": "https://t.co/vP69I3TY8W https://t.co/bGVhhSIr2U",
+  "url": "https://x.com/toly/status/2123110356331724968",
+  "likes": 276,
+  "retweets": 15,
+  "replies": 1,
+  "quotes": 6,
+  "impressions": 27472,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123096787766612158",
+   "text": "Every bear the final boss gets bigger.\n\nLast bear Uncle Sam threatened to take us down, this bear it’s the Silicon Gods that people say will send us to zero. \n\nFear is most deranged at the bottom. And in times like this, everyone is leveled to one question: do you believe?"
+  }
+ },
+ {
+  "id": "2123110955773235238",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T17:47:52.000Z",
+  "text": "Based https://t.co/h3Fp9zUKxT",
+  "url": "https://x.com/toly/status/2123110955773235238",
+  "likes": 112,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 31432,
+  "bookmarks": 11,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123029518113808807",
+   "text": "🚨 WATCH: Kemi Badenoch tells Andy Burnham that \"growth is created by businesses\", not Government \n\nBurnham: \"She can take a patronising tone if she wants to\" \n\n#PMQs https://t.co/F7FxuRNGjG"
+  }
+ },
+ {
+  "id": "2123184075322364016",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T22:38:25.000Z",
+  "text": "RT @ansonlin: Nikita Bier on how to make things go viral https://t.co/Js3aNQw0PE",
+  "url": "https://x.com/toly/status/2123184075322364016",
+  "likes": 0,
+  "retweets": 186,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11701,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123117574904820101",
+   "text": "Nikita Bier on how to make things go viral https://t.co/Js3aNQw0PE https://t.co/XZ0vy8CWSA"
+  }
+ },
+ {
+  "id": "2123184402104754525",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T22:39:42.000Z",
+  "text": "RT @joshyote: anyone else leave breakpoint feeling like they need to pivot to game design after hacking on the badges??\n\nshoutout @NanoComm…",
+  "url": "https://x.com/toly/status/2123184402104754525",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12036,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123182377924976803",
+   "text": "anyone else leave breakpoint feeling like they need to pivot to game design after hacking on the badges??\n\nshoutout @NanoCommando https://t.co/cKPQ6iphHB"
+  }
+ },
+ {
+  "id": "2123203041012904050",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-18T23:53:46.000Z",
+  "text": "RT @fd_ripatel: Solana's running on the 🇺🇸🇺🇸 IBM 🇺🇸🇺🇸 mainframe 🦅🦅\n\nCuring my yellow fever after using too many Chinese models and RISC-V c…",
+  "url": "https://x.com/toly/status/2123203041012904050",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10432,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123200248688353493",
+   "text": "Solana's running on the 🇺🇸🇺🇸 IBM 🇺🇸🇺🇸 mainframe 🦅🦅\n\nCuring my yellow fever after using too many Chinese models and RISC-V chips, AMERICA!! https://t.co/mT8uBgWtUL"
+  }
+ },
+ {
+  "id": "2123203105303261522",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-18T23:54:02.000Z",
+  "text": "👑👑👑 https://t.co/Ksy55gIWUW",
+  "url": "https://x.com/toly/status/2123203105303261522",
+  "likes": 45,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 17189,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123199828314161574",
+   "text": "Anthropic prices its IPO at $83 per share, per CNBC.\n\nANT lists on Phoenix tomorrow. https://t.co/POpKGVENmt"
+  }
+ },
+ {
+  "id": "2123213753525448954",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T00:36:20.000Z",
+  "text": "RT @armaniferrante: Bigger better faster stronger",
+  "url": "https://x.com/toly/status/2123213753525448954",
+  "likes": 0,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10516,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123209829393080505",
+   "text": "Bigger better faster stronger https://t.co/LSww94Cp4s"
+  }
+ },
+ {
+  "id": "2123218201941250180",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T00:54:01.000Z",
+  "text": "👑👑👑 https://t.co/mUY4n9huOC",
+  "url": "https://x.com/toly/status/2123218201941250180",
+  "likes": 87,
+  "retweets": 12,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 11458,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123218108722622730",
+   "text": "@toly ORE Reserves is a starting point for this idea. Over time the assets backing it will be determined through futarchy allowing the market to decide which assets should back the SoV. Here you go, sir: https://t.co/cE0WfTqiZ5"
+  }
+ },
+ {
+  "id": "2123218331209716149",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T00:54:32.000Z",
+  "text": "@Theptilla Make me proud, put some stocks and productive assets in there.",
+  "url": "https://x.com/toly/status/2123218331209716149",
+  "likes": 63,
+  "retweets": 12,
+  "replies": 1,
+  "quotes": 4,
+  "impressions": 3114,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123218108722622730",
+   "text": "@toly ORE Reserves is a starting point for this idea. Over time the assets backing it will be determined through futarchy allowing the market to decide which assets should back the SoV. Here you go, sir: https://t.co/cE0WfTqiZ5"
+  }
+ },
+ {
+  "id": "2123219379345379515",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T00:58:42.000Z",
+  "text": "RT @0xNull: We’re excited to announce that Null has raised $1.7M in pre-seed funding led by @cyberfund and @Nethermind, and angels @NoahZin…",
+  "url": "https://x.com/toly/status/2123219379345379515",
+  "likes": 0,
+  "retweets": 33,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10571,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123103706660938138",
+   "text": "We’re excited to announce that Null has raised $1.7M in pre-seed funding led by @cyberfund and @Nethermind, and angels @NoahZinsmeister, @sendmoodz and @oel4all.\n\nNull is coming out of stealth soon! https://t.co/e74HqlwxiK"
+  }
+ }
+]

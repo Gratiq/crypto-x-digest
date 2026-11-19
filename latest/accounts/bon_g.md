@@ -1,100 +1,63 @@
-# @bon_g — посты за 2026-11-18
+# @bon_g — посты за 2026-11-19
 
-Всего: 13
+Всего: 8
 
-## 2026-11-17 12:12 UTC · пост
+## 2026-11-18 16:23 UTC · пост
 
-Denmark secure their spot in the quarter finals with a win today
+there were 100+ dacitycoin and everyone was praying to god they bought the chosen one
 
-Denmark win at home 🇩🇰 https://t.co/RLi3FvPcAu
+yes that was literally the entire strategy
 
-❤ 77 · 🔁 22 · 💬 44 · цитат 0 · просмотров 4507  
-https://x.com/bon_g/status/2122664078837776863
+❤ 64 · 🔁 5 · 💬 24 · цитат 0 · просмотров 1661  
+https://x.com/bon_g/status/2123089716237255075
 
-## 2026-11-17 12:16 UTC · ответ
+## 2026-11-18 16:27 UTC · ответ
 
-@CapitalistOG sorry but haaland is going home today
+@hkittycoin https://t.co/m7aoHOmNjQ
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 164  
-https://x.com/bon_g/status/2122665099143856603
+❤ 5 · 🔁 1 · 💬 2 · цитат 1 · просмотров 287  
+https://x.com/bon_g/status/2123090682768450041
 
-## 2026-11-17 17:31 UTC · цитата
+## 2026-11-18 17:34 UTC · ответ
 
-Welcome to the cyberpandemic https://t.co/dFgJn9vpRd
+@a1lon9 huh
 
-❤ 56 · 🔁 2 · 💬 23 · цитат 0 · просмотров 4458  
-https://x.com/bon_g/status/2122744400698540489
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 121  
+https://x.com/bon_g/status/2123107621813276929
 
-## 2026-11-17 17:39 UTC · ответ
+## 2026-11-18 21:32 UTC · пост
 
-@NugsGold elen or elon
+who would you pick?
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 102  
-https://x.com/bon_g/status/2122746381592879220
+Lucia or Mandy https://t.co/PYwbPAM5gh
 
-## 2026-11-17 17:43 UTC · ответ
+❤ 61 · 🔁 10 · 💬 25 · цитат 0 · просмотров 2684  
+https://x.com/bon_g/status/2123167542369734863
 
-@jorge_okkk lool
+## 2026-11-18 21:35 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 102  
-https://x.com/bon_g/status/2122747560280707168
+@luckygambles_ first
 
-## 2026-11-17 18:35 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 113  
+https://x.com/bon_g/status/2123168174824698319
 
-@Pumpfun @base i just checked the $basecat chart
+## 2026-11-18 21:36 UTC · ответ
 
-❤ 11 · 🔁 0 · 💬 2 · цитат 0 · просмотров 644  
-https://x.com/bon_g/status/2122760527839399980
+@grod_gg 😋
 
-## 2026-11-17 22:17 UTC · пост
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 119  
+https://x.com/bon_g/status/2123168421420703781
 
-Add a tip? 
+## 2026-11-18 22:36 UTC · ответ
 
-&gt; No tip
+@Tukytuky_ wow
 
-              Continue https://t.co/E8ILDegHro
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 65  
+https://x.com/bon_g/status/2123183468783735144
 
-❤ 132 · 🔁 9 · 💬 26 · цитат 0 · просмотров 2191  
-https://x.com/bon_g/status/2122816519260500190
+## 2026-11-18 22:43 UTC · пост
 
-## 2026-11-17 22:26 UTC · ответ
+I can’t buy this coin because someone I don’t like on the internet is one of the top holders
 
-@dfw_kafee theres no tip ily
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 84  
-https://x.com/bon_g/status/2122818752525852863
-
-## 2026-11-17 22:52 UTC · ответ
-
-@Tech_command0 shabbat shalom
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 69  
-https://x.com/bon_g/status/2122825245836882256
-
-## 2026-11-17 23:16 UTC · ответ
-
-@stephenjohnii music nfts
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 93  
-https://x.com/bon_g/status/2122831385283158074
-
-## 2026-11-18 00:00 UTC · пост
-
-bro has 8 figures and is still vamping a $100k coin
-
-❤ 76 · 🔁 9 · 💬 32 · цитат 0 · просмотров 2164  
-https://x.com/bon_g/status/2122842408446496906
-
-## 2026-11-18 00:02 UTC · ответ
-
-@grod_gg someone with 8 figs
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 170  
-https://x.com/bon_g/status/2122842810906825058
-
-## 2026-11-18 00:03 UTC · ответ
-
-@metajobhunter shit show
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 165  
-https://x.com/bon_g/status/2122843006739112195
+❤ 64 · 🔁 2 · 💬 24 · цитат 0 · просмотров 1452  
+https://x.com/bon_g/status/2123185403960098935

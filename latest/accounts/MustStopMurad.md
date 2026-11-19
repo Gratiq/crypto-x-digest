@@ -1,86 +1,90 @@
-# @MustStopMurad — посты за 2026-11-18
+# @MustStopMurad — посты за 2026-11-19
 
 Всего: 9
 
-## 2026-11-17 10:00 UTC · пост
+## 2026-11-18 09:38 UTC · репост
 
-People who want to win today will fail.
+RT @munchies1337: SPX6900 is the ultimate beneficiary of runaway recursive self improving super intelligence
 
-People who want to win a year from now will succeed.
+❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 23320  
+https://x.com/MustStopMurad/status/2122987737469051337
 
-❤ 1058 · 🔁 133 · 💬 187 · цитат 18 · просмотров 46609  
-https://x.com/MustStopMurad/status/2122630989776142722
+## 2026-11-18 10:10 UTC · пост
 
-## 2026-11-17 10:12 UTC · ответ
+After almost 14 years in Crypto, I can say that by far the most important thing that determines the success of any crypto asset is its community.
 
-@lmrankhan 1) a Billion AI agents flooding the on-chain world
+Once you understand this, your asset selection process will be a 1,000 times more successful.
 
-2) massive wave of money printing 
+❤ 1329 · 🔁 204 · 💬 236 · цитат 29 · просмотров 59007  
+https://x.com/MustStopMurad/status/2122995888284922105
 
-3) all software being increasingly reverse-engineerable, with 'scarcity' and 'premia' moving to things with onchain/cryptographic provenance
+## 2026-11-18 12:32 UTC · репост
 
-4) continued mega-trend of
+RT @realcryptocow: Do whatever it takes to hit your accumulation goals.
 
-❤ 198 · 🔁 38 · 💬 16 · цитат 1 · просмотров 5657  
-https://x.com/MustStopMurad/status/2122634038594666771
+There is nothing else like SPX6900 in any market. Opportunities th…
 
-## 2026-11-17 11:13 UTC · репост
+❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 23440  
+https://x.com/MustStopMurad/status/2123031570378547653
 
-RT @Vadimme53293584: Everyone is tired and they know that the system is rigged. Everyone is talking about uniting together. Everyone is loo…
+## 2026-11-18 13:30 UTC · пост
 
-❤ 0 · 🔁 27 · 💬 0 · цитат 0 · просмотров 23595  
-https://x.com/MustStopMurad/status/2122649421901173076
+Persistence is NECESSARY but not SUFFICIENT.
 
-## 2026-11-17 12:07 UTC · пост
+Belief is NECESSARY but not SUFFICIENT.
 
-Value will flow to loyalty
+An epic Mission is NECESSARY but not SUFFICIENT.
 
-Value will flow to persistence
+Not giving up for years is NECESSARY but not SUFFICIENT.
 
-Value will flow to trust
+But when you bring ALL of these things together — EPIC things happen.
 
-❤ 878 · 🔁 147 · 💬 168 · цитат 18 · просмотров 41853  
-https://x.com/MustStopMurad/status/2122662903383781540
+❤ 666 · 🔁 129 · 💬 119 · цитат 11 · просмотров 38311  
+https://x.com/MustStopMurad/status/2123046132628471911
 
-## 2026-11-17 14:24 UTC · пост
+## 2026-11-18 14:33 UTC · репост
 
-SPX6900 will become the biggest crypto asset in the World.
+RT @arcane_vault: Girl is cute and she’s tired of it
+Cute little glitch they can’t autofix
+#SPX6900 https://t.co/GJfNpRxvuU
 
-❤ 1060 · 🔁 187 · 💬 190 · цитат 19 · просмотров 63155  
-https://x.com/MustStopMurad/status/2122697379203743874
+❤ 0 · 🔁 58 · 💬 0 · цитат 0 · просмотров 22811  
+https://x.com/MustStopMurad/status/2123062015220761053
 
-## 2026-11-17 16:26 UTC · пост
+## 2026-11-18 15:31 UTC · пост
 
-Most won't make it not because they are dumb.
+The SPX6900 community is collecting up all the holder, consistent and long-term believer types.
 
-But because they are impatient.
+And that’s the only type of participant that ultimately matters in the end.
 
-The biggest opportunity is right in front of you.
+❤ 640 · 🔁 123 · 💬 80 · цитат 4 · просмотров 33600  
+https://x.com/MustStopMurad/status/2123076685977501731
 
-All you have to do is buy and hold.
+## 2026-11-18 17:10 UTC · репост
 
-❤ 1026 · 🔁 168 · 💬 177 · цитат 24 · просмотров 43181  
-https://x.com/MustStopMurad/status/2122728172961595540
+RT @CountryBitcoin: Just added 1% to my #spx6900 stack
 
-## 2026-11-17 17:51 UTC · репост
+May have a new goal in mind.
 
-RT @GhostOfTanzCho: Nobody wanted Bitcoin. It was a joke. So Bitcoiners exposed the flaws of Broken Money. Nobody wanted SPX6900. It was a…
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 21071  
+https://x.com/MustStopMurad/status/2123101584544674065
 
-❤ 0 · 🔁 53 · 💬 0 · цитат 0 · просмотров 21010  
-https://x.com/MustStopMurad/status/2122749483049996584
+## 2026-11-18 17:47 UTC · пост
 
-## 2026-11-17 20:33 UTC · пост
+Something biblical is coming.
 
-How I feel after buying more SPX6900 https://t.co/FAY0QxsxZa
+Mark my words.
 
-❤ 538 · 🔁 116 · 💬 105 · цитат 11 · просмотров 35663  
-https://x.com/MustStopMurad/status/2122790179543110037
+❤ 2079 · 🔁 221 · 💬 320 · цитат 42 · просмотров 92337  
+https://x.com/MustStopMurad/status/2123110858276618599
 
-## 2026-11-18 01:06 UTC · пост
+## 2026-11-18 21:09 UTC · пост
 
-Going Live on the SPX6900 Into the Cognisphere Podcast
+I love you all
 
-https://t.co/fmu1IIYH5G
+Look into SPX6900
 
-❤ 230 · 🔁 70 · 💬 41 · цитат 3 · просмотров 27222  
-https://x.com/MustStopMurad/status/2122858913791877613
+Credit: @tradfinightmare @spiritualgold69 https://t.co/sxyI03bndm
+
+❤ 627 · 🔁 164 · 💬 127 · цитат 10 · просмотров 29551  
+https://x.com/MustStopMurad/status/2123161734479544382

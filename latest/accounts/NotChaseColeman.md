@@ -1,39 +1,47 @@
-# @NotChaseColeman — посты за 2026-11-18
+# @NotChaseColeman — посты за 2026-11-19
 
-Всего: 4
+Всего: 6
 
-## 2026-11-17 13:54 UTC · репост
+## 2026-11-18 19:05 UTC · репост
 
-RT @AlaskanTom: “We’re sorry to hear of her experience!” https://t.co/mMmOQOOiyj
+RT @BigDickBull69: “Traders are gonna be the new celebrities bro”
 
-❤ 0 · 🔁 818 · 💬 0 · цитат 0 · просмотров 706  
-https://x.com/NotChaseColeman/status/2122689738209386653
+Dawg you are going to Federal Prison
 
-## 2026-11-17 19:38 UTC · репост
+❤ 0 · 🔁 182 · 💬 0 · цитат 0 · просмотров 629  
+https://x.com/NotChaseColeman/status/2123130607634894895
 
-RT @JensenHuang: Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never m…
+## 2026-11-18 19:06 UTC · ответ
 
-❤ 0 · 🔁 111619 · 💬 0 · цитат 0 · просмотров 574  
-https://x.com/NotChaseColeman/status/2122776428890431504
+@BigDickBull69 Federal prison isn't too bad. They'll be at camps.
 
-## 2026-11-18 05:52 UTC · репост
+❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 959  
+https://x.com/NotChaseColeman/status/2123130838162280933
 
-RT @ThinkingUSD: Long Delaware Trusts
+## 2026-11-19 01:09 UTC · репост
 
-Long Off Shore Bank accounts
+RT @kingbtc: https://t.co/XfdN5T2xOw
 
-Long Second Nationality Passport
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 493  
+https://x.com/NotChaseColeman/status/2123222128371900714
 
-Long Asset Protection mechanisms
+## 2026-11-19 01:10 UTC · ответ
 
-Lo…
+@hantengri Prison camps arent too bad. Just be playing tennis.
 
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 406  
-https://x.com/NotChaseColeman/status/2122930951718425033
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 205  
+https://x.com/NotChaseColeman/status/2123222265131348207
 
-## 2026-11-18 06:14 UTC · репост
+## 2026-11-19 01:13 UTC · цитата
 
-RT @investujem: i've met this dude https://t.co/FSoQKhxUf7
+Yeah fuck https://t.co/19YpPkMAXA
 
-❤ 0 · 🔁 82 · 💬 0 · цитат 0 · просмотров 435  
-https://x.com/NotChaseColeman/status/2122936351150801397
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1442  
+https://x.com/NotChaseColeman/status/2123223020869177497
+
+## 2026-11-19 05:59 UTC · цитата
+
+100% absolutely indubitably categorically false https://t.co/HI2OT3eXRq https://t.co/xBL8Hp7w3s
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 686  
+https://x.com/NotChaseColeman/status/2123295132879655266

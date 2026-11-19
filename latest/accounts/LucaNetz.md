@@ -1,24 +1,31 @@
-# @LucaNetz — посты за 2026-11-18
+# @LucaNetz — посты за 2026-11-19
 
-Всего: 3
+Всего: 4
 
-## 2026-11-17 16:59 UTC · ответ
+## 2026-11-18 22:11 UTC · цитата
 
-@infoinvt We need @vladtenev
+A perfect gift this holiday season 🐧 https://t.co/V9P12cCFQP
 
-❤ 14 · 🔁 1 · 💬 8 · цитат 0 · просмотров 1187  
-https://x.com/LucaNetz/status/2122736284276076765
+❤ 159 · 🔁 16 · 💬 21 · цитат 0 · просмотров 6539  
+https://x.com/LucaNetz/status/2123177369582358781
 
-## 2026-11-17 19:54 UTC · ответ
+## 2026-11-18 22:11 UTC · цитата
 
-@diox100 @pudgypenguins Welcome!
+👀 https://t.co/ZswRXBB4D9
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 501  
-https://x.com/LucaNetz/status/2122780497281531993
+❤ 110 · 🔁 7 · 💬 20 · цитат 0 · просмотров 5762  
+https://x.com/LucaNetz/status/2123177403623297499
 
-## 2026-11-17 21:14 UTC · цитата
+## 2026-11-18 22:15 UTC · цитата
 
-Human connection ❤️🐧💙 https://t.co/3nHWtC3912
+GTA6 &lt;&gt; 6th Pudgy Penguins party in Miami 🔮 https://t.co/FSVw5q67H9
 
-❤ 215 · 🔁 17 · 💬 32 · цитат 3 · просмотров 10491  
-https://x.com/LucaNetz/status/2122800571459551492
+❤ 134 · 🔁 11 · 💬 17 · цитат 1 · просмотров 7287  
+https://x.com/LucaNetz/status/2123178238889668869
+
+## 2026-11-19 03:25 UTC · ответ
+
+@Shieldmetax Yes
+
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 415  
+https://x.com/LucaNetz/status/2123256326193336682
