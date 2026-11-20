@@ -1,657 +1,584 @@
-# @inversebrah — посты за 2026-11-19
+# @inversebrah — посты за 2026-11-20
 
-Всего: 86
+Всего: 79
 
-## 2026-11-18 09:53 UTC · пост
+## 2026-11-19 08:12 UTC · репост
 
-at least we still haz dat https://t.co/dgz9sRTKNO
+RT @sixfIash: I'm so proud of this one and it took multiple trys, scounting out the best lighting, the west weather, the right time of day.…
 
-❤ 141 · 🔁 0 · 💬 10 · цитат 0 · просмотров 9967  
-https://x.com/inversebrah/status/2122991535839130094
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 2668  
+https://x.com/inversebrah/status/2123328433157742843
 
-## 2026-11-18 10:00 UTC · репост
+## 2026-11-19 08:36 UTC · цитата
 
-RT @blancxbt: i have 1 free invitation in bittex’s paid group if anyone is interested reply with “fuck notsu” and i will select one winner
+banger? https://t.co/D3hxch3Kzz
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 2343  
-https://x.com/inversebrah/status/2122993220661723605
+❤ 45 · 🔁 0 · 💬 6 · цитат 0 · просмотров 13126  
+https://x.com/inversebrah/status/2123334706582475009
 
-## 2026-11-18 10:04 UTC · цитата
+## 2026-11-19 08:56 UTC · репост
 
-discuss https://t.co/dsMn1I4uNz
+RT @growing_daniel: We’ll never have a president this real again
 
-❤ 24 · 🔁 1 · 💬 12 · цитат 0 · просмотров 8310  
-https://x.com/inversebrah/status/2122994403627401708
+❤ 0 · 🔁 1365 · 💬 0 · цитат 0 · просмотров 2483  
+https://x.com/inversebrah/status/2123339534083768364
 
-## 2026-11-18 10:08 UTC · цитата
+## 2026-11-19 09:00 UTC · цитата
 
-https://t.co/HSZqHgoIU6 https://t.co/wzNENnIncS
+discuss https://t.co/lNvJcOIy47
 
-❤ 87 · 🔁 2 · 💬 7 · цитат 0 · просмотров 5957  
-https://x.com/inversebrah/status/2122995346192400667
+❤ 17 · 🔁 0 · 💬 9 · цитат 0 · просмотров 6151  
+https://x.com/inversebrah/status/2123340729502097487
 
-## 2026-11-18 10:08 UTC · цитата
+## 2026-11-19 09:38 UTC · цитата
 
-._ . https://t.co/IRKpFFphga
+https://t.co/evRwtNHtiG https://t.co/z1cyCB2mSO
 
-❤ 19 · 🔁 1 · 💬 2 · цитат 0 · просмотров 5750  
-https://x.com/inversebrah/status/2122995431118618970
+❤ 132 · 🔁 10 · 💬 18 · цитат 1 · просмотров 8066  
+https://x.com/inversebrah/status/2123350212660105510
 
-## 2026-11-18 10:12 UTC · цитата
+## 2026-11-19 09:45 UTC · пост
 
-todays snapshot 
+tl snippet https://t.co/SIPqsMRJqA
 
-. https://t.co/N9kkGbRLlA https://t.co/3kKKQpyvvy
+❤ 28 · 🔁 1 · 💬 9 · цитат 1 · просмотров 7524  
+https://x.com/inversebrah/status/2123351854390317119
 
-❤ 174 · 🔁 7 · 💬 25 · цитат 3 · просмотров 23713  
-https://x.com/inversebrah/status/2122996451668271308
+## 2026-11-19 09:45 UTC · цитата
 
-## 2026-11-18 10:14 UTC · репост
+https://t.co/k6HMhMpvJ8 https://t.co/IjiZ1cgd3L
 
-RT @0xHebee: @inversebrah https://t.co/ppoe2Wi4Yu
+❤ 16 · 🔁 0 · 💬 8 · цитат 1 · просмотров 2988  
+https://x.com/inversebrah/status/2123351963995906097
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 2575  
-https://x.com/inversebrah/status/2122996787208417297
+## 2026-11-19 09:47 UTC · репост
 
-## 2026-11-18 10:14 UTC · ответ
+RT @AJamesMcCarthy: After traveling for 50 years at ~38,000mph, Voyager 1 is now officially one light-day away from Earth. 
 
-@n0miraclehere https://t.co/hzFhlEPNon
+That’s .064% o…
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 117  
-https://x.com/inversebrah/status/2122996950421348646
+❤ 0 · 🔁 2059 · 💬 0 · цитат 0 · просмотров 2628  
+https://x.com/inversebrah/status/2123352339532898358
 
-## 2026-11-18 20:25 UTC · цитата
+## 2026-11-19 09:58 UTC · репост
 
-dis rn is either le second cheek formin
+RT @WClemente: Time is a flat circle?
 
-or its not le bottom 💀 https://t.co/xTsI1AMaXI
+❤ 0 · 🔁 29 · 💬 0 · цитат 0 · просмотров 2196  
+https://x.com/inversebrah/status/2123355262245593331
 
-❤ 91 · 🔁 7 · 💬 20 · цитат 0 · просмотров 8218  
-https://x.com/inversebrah/status/2123150590104723904
+## 2026-11-19 10:00 UTC · цитата
 
-## 2026-11-18 20:58 UTC · цитата
+discuss https://t.co/Uo1XiKml0c
 
-to practice and be prepared or
+❤ 31 · 🔁 0 · 💬 14 · цитат 0 · просмотров 6573  
+https://x.com/inversebrah/status/2123355767562760514
 
-discuss https://t.co/CqpaoYAdYO
+## 2026-11-19 10:18 UTC · цитата
 
-❤ 24 · 🔁 0 · 💬 7 · цитат 0 · просмотров 5398  
-https://x.com/inversebrah/status/2123158994491711855
+makeitaquote https://t.co/xoBHDKIkC3
 
-## 2026-11-18 21:00 UTC · цитата
+❤ 26 · 🔁 0 · 💬 7 · цитат 0 · просмотров 6861  
+https://x.com/inversebrah/status/2123360137788477696
 
-ys dis date past smolting lyfspan wtf :C https://t.co/tryJxpS2mx
+## 2026-11-19 10:21 UTC · цитата
 
-❤ 19 · 🔁 0 · 💬 6 · цитат 0 · просмотров 5942  
-https://x.com/inversebrah/status/2123159364433523132
+debate https://t.co/kb3DsNgY7V
 
-## 2026-11-18 21:01 UTC · цитата
+❤ 12 · 🔁 0 · 💬 4 · цитат 0 · просмотров 5574  
+https://x.com/inversebrah/status/2123360994785382779
 
-debate https://t.co/DqYuvJYCc5
+## 2026-11-19 10:21 UTC · репост
 
-❤ 19 · 🔁 0 · 💬 4 · цитат 0 · просмотров 6151  
-https://x.com/inversebrah/status/2123159737038729517
+RT @AgentChud: Just showed him the watch
 
-## 2026-11-18 21:02 UTC · репост
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 2272  
+https://x.com/inversebrah/status/2123361100322553931
 
-RT @inversebrah: listen and share :3 https://t.co/Wix2AzdRgZ
+## 2026-11-19 10:23 UTC · репост
 
-❤ 0 · 🔁 71 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/inversebrah/status/2123159959068397750
+RT @AltcoinSherpa: Are lindy memes ever coming back? I'm taking pepe, fartcoin, wif, pengu, bonk, 4, all of these others that had big runs.…
 
-## 2026-11-18 21:05 UTC · ответ
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 2164  
+https://x.com/inversebrah/status/2123361598890967247
 
-@warobusiness does it haz to be hooman or
+## 2026-11-19 10:25 UTC · цитата
 
-❤ 6 · 🔁 0 · 💬 3 · цитат 0 · просмотров 444  
-https://x.com/inversebrah/status/2123160646187688074
+quotes and replies https://t.co/F3Up6N0BOW https://t.co/qzIOkjuLUM
 
-## 2026-11-18 21:07 UTC · пост
+❤ 56 · 🔁 2 · 💬 13 · цитат 0 · просмотров 7125  
+https://x.com/inversebrah/status/2123361986142433725
 
-final rainbow level for chinese cat been reachd fyi https://t.co/82Hpzkt8Z7
+## 2026-11-19 10:32 UTC · репост
 
-❤ 253 · 🔁 19 · 💬 79 · цитат 11 · просмотров 24191  
-https://x.com/inversebrah/status/2123161243372707962
+RT @abetrade: @Sokio8D you still can use your children as exit liquidity
 
-## 2026-11-18 21:07 UTC · ответ
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 2268  
+https://x.com/inversebrah/status/2123363701785051302
 
-@warobusiness *purrs*
+## 2026-11-19 10:33 UTC · репост
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 197  
-https://x.com/inversebrah/status/2123161301191172264
+RT @blancxbt: https://t.co/wXuKcfNrG1
 
-## 2026-11-18 21:08 UTC · ответ
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 2470  
+https://x.com/inversebrah/status/2123364131873120386
 
-@Taobrah @warobusiness smolting disqualified :&lt;
+## 2026-11-19 10:36 UTC · пост
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 192  
-https://x.com/inversebrah/status/2123161361694040187
+https://t.co/Z7JtQGeRyL
 
-## 2026-11-18 21:13 UTC · репост
+❤ 82 · 🔁 1 · 💬 18 · цитат 0 · просмотров 6636  
+https://x.com/inversebrah/status/2123364881252458860
 
-RT @ThinkingBitmex: So the German government may bottom sell another 40,000 $BTC?
+## 2026-11-19 11:05 UTC · репост
 
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 1811  
-https://x.com/inversebrah/status/2123162670438490433
+RT @inversebrah: https://t.co/Ec2BLFcW3v
 
-## 2026-11-18 21:14 UTC · цитата
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/inversebrah/status/2123372127567196225
 
-10k lieks in 3 hours https://t.co/kOC9iSf8e9
+## 2026-11-19 11:15 UTC · пост
 
-❤ 106 · 🔁 1 · 💬 7 · цитат 0 · просмотров 17054  
-https://x.com/inversebrah/status/2123163004909056492
+tl cleanse https://t.co/o2kF9UAYQ8
 
-## 2026-11-18 21:17 UTC · пост
+❤ 133 · 🔁 4 · 💬 24 · цитат 0 · просмотров 8291  
+https://x.com/inversebrah/status/2123374530659836034
 
-on topic tweets
+## 2026-11-19 14:13 UTC · пост
 
-opposing views make a market tbw https://t.co/GFEn7Jp0O0
+. https://t.co/XFqHK2DHCU
 
-❤ 20 · 🔁 1 · 💬 5 · цитат 0 · просмотров 4968  
-https://x.com/inversebrah/status/2123163691722088602
+❤ 92 · 🔁 6 · 💬 12 · цитат 2 · просмотров 10916  
+https://x.com/inversebrah/status/2123419271963304047
 
-## 2026-11-18 21:18 UTC · репост
+## 2026-11-19 16:10 UTC · цитата
 
-RT @WatcherGuru: JUST IN: Anthropic to IPO tomorrow at $83 per share, valuing the company at $1.5 trillion, Bloomberg reports.
+https://t.co/DrtYSKCLVo https://t.co/9CkFVpK5TJ
 
-❤ 0 · 🔁 487 · 💬 0 · цитат 0 · просмотров 1337  
-https://x.com/inversebrah/status/2123163860870001015
+❤ 32 · 🔁 1 · 💬 6 · цитат 0 · просмотров 4597  
+https://x.com/inversebrah/status/2123448848467239131
 
-## 2026-11-18 21:28 UTC · репост
+## 2026-11-19 17:35 UTC · репост
 
-RT @cobie: Pump btc ?
+RT @inversebrah: tl cleanse https://t.co/o2kF9UAYQ8
 
-❤ 0 · 🔁 33 · 💬 0 · цитат 0 · просмотров 1041  
-https://x.com/inversebrah/status/2123166430111973768
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/inversebrah/status/2123470107989160322
 
-## 2026-11-18 21:41 UTC · ответ
+## 2026-11-19 20:48 UTC · пост
 
-@bronbroncore STREAM EEEEEET https://t.co/WHJITvyPkx
+q4 2026 https://t.co/XyZy8HFLXt
 
-❤ 12 · 🔁 0 · 💬 2 · цитат 0 · просмотров 916  
-https://x.com/inversebrah/status/2123169701924831365
+❤ 81 · 🔁 3 · 💬 8 · цитат 0 · просмотров 9345  
+https://x.com/inversebrah/status/2123518918187008017
 
-## 2026-11-18 22:05 UTC · репост
+## 2026-11-19 20:49 UTC · репост
 
-RT @bronbroncore: @inversebrah *baits smolting with treat* https://t.co/MMuGqsMVaw
+RT @inversebrah: https://t.co/78a8EUPc6j
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 2082  
-https://x.com/inversebrah/status/2123175738484613386
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/inversebrah/status/2123518936205672678
 
-## 2026-11-18 22:05 UTC · ответ
+## 2026-11-19 21:09 UTC · репост
 
-@bronbroncore even in dethly peril
+RT @notsocoollime: @inversebrah https://t.co/cS2rAsl1g0
 
-smoltings hair is inpeccable 
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 2141  
+https://x.com/inversebrah/status/2123524090560651297
 
-fyi
+## 2026-11-19 21:24 UTC · цитата
 
-❤ 21 · 🔁 1 · 💬 2 · цитат 0 · просмотров 1612  
-https://x.com/inversebrah/status/2123175875818709372
+here agane :|
 
-## 2026-11-18 22:19 UTC · пост
+WINTERMUTE?? https://t.co/WczkmTvuCa https://t.co/XJ7zQxaCyG
 
-u just wait
+❤ 56 · 🔁 2 · 💬 14 · цитат 0 · просмотров 7000  
+https://x.com/inversebrah/status/2123527797394333904
 
-or someting https://t.co/lUBXXP7pnN
+## 2026-11-19 21:29 UTC · цитата
 
-❤ 122 · 🔁 0 · 💬 23 · цитат 0 · просмотров 11034  
-https://x.com/inversebrah/status/2123179352905109526
+https://t.co/jw9QgT7YOG https://t.co/PgPWiXdOJg
 
-## 2026-11-18 22:23 UTC · цитата
+❤ 48 · 🔁 1 · 💬 5 · цитат 0 · просмотров 5967  
+https://x.com/inversebrah/status/2123529073590985108
 
-all dem poos from dem streets now finally can relocate to previously pooless areas https://t.co/GtOXkTB58q
+## 2026-11-19 21:32 UTC · пост
 
-❤ 66 · 🔁 1 · 💬 15 · цитат 0 · просмотров 7530  
-https://x.com/inversebrah/status/2123180243754312151
+rock is coming home, schiffy boi https://t.co/FnkW0TDTy0
 
-## 2026-11-18 22:26 UTC · пост
+❤ 414 · 🔁 13 · 💬 31 · цитат 0 · просмотров 20509  
+https://x.com/inversebrah/status/2123529874816270730
 
-._ . https://t.co/hHc9h8m1Nx
+## 2026-11-19 21:33 UTC · пост
 
-❤ 51 · 🔁 4 · 💬 12 · цитат 0 · просмотров 5303  
-https://x.com/inversebrah/status/2123180976318955858
+dis mf https://t.co/rMcWWeXWAO
 
-## 2026-11-18 22:45 UTC · цитата
+❤ 84 · 🔁 7 · 💬 16 · цитат 0 · просмотров 5433  
+https://x.com/inversebrah/status/2123530227804762537
 
-quotes and replies https://t.co/ZVptzaIlcg
+## 2026-11-20 00:11 UTC · ответ
 
-❤ 93 · 🔁 0 · 💬 7 · цитат 0 · просмотров 34463  
-https://x.com/inversebrah/status/2123185983072174569
+@goodalexander must be nice v_v
 
-## 2026-11-18 22:48 UTC · цитата
+❤ 7 · 🔁 1 · 💬 0 · цитат 0 · просмотров 490  
+https://x.com/inversebrah/status/2123570001227784377
 
-deres nothing wrong dere https://t.co/roTWEOgwrG
+## 2026-11-20 00:18 UTC · цитата
 
-❤ 63 · 🔁 0 · 💬 20 · цитат 0 · просмотров 11007  
-https://x.com/inversebrah/status/2123186657952448652
+coincidence iwo https://t.co/6IYoGKnKNA
 
-## 2026-11-18 22:51 UTC · пост
+❤ 12 · 🔁 2 · 💬 1 · цитат 0 · просмотров 5954  
+https://x.com/inversebrah/status/2123571651380236675
 
-if btc goes to $40k while everyone plays gta
+## 2026-11-20 00:19 UTC · репост
 
-did it even happen
+RT @knveth: The most surreal moment of my life https://t.co/7ajDg3hsZY
 
-❤ 325 · 🔁 21 · 💬 38 · цитат 1 · просмотров 12065  
-https://x.com/inversebrah/status/2123187388172444019
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 1743  
+https://x.com/inversebrah/status/2123571795580354832
 
-## 2026-11-18 22:57 UTC · ответ
+## 2026-11-20 00:26 UTC · репост
 
-@LordEmo oh??
+RT @mk4_lul: https://t.co/T0PR7pHQ96
 
-❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 421  
-https://x.com/inversebrah/status/2123188826420183532
+❤ 0 · 🔁 25 · 💬 0 · цитат 0 · просмотров 1749  
+https://x.com/inversebrah/status/2123573591228973268
 
-## 2026-11-18 22:59 UTC · ответ
+## 2026-11-20 00:27 UTC · пост
 
-@huripoo tis be how tings r 
+smol tl snippet https://t.co/KqCVhX4Kmz
 
-its business
+❤ 96 · 🔁 3 · 💬 7 · цитат 0 · просмотров 5860  
+https://x.com/inversebrah/status/2123573968401834380
 
-❤ 11 · 🔁 1 · 💬 1 · цитат 0 · просмотров 326  
-https://x.com/inversebrah/status/2123189333104709808
+## 2026-11-20 00:33 UTC · цитата
 
-## 2026-11-18 23:04 UTC · репост
+a discussion concluded https://t.co/oC2QXmkfm5
 
-RT @rektmando: we have seen this before...
+❤ 21 · 🔁 0 · 💬 0 · цитат 0 · просмотров 4604  
+https://x.com/inversebrah/status/2123575492330786933
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1736  
-https://x.com/inversebrah/status/2123190602166894775
+## 2026-11-20 00:50 UTC · репост
 
-## 2026-11-18 23:05 UTC · репост
+RT @0x_zKfbg: @inversebrah just a smol killshot :3
 
-RT @Oncha1nd: @TR3VORL4WR3NCE Dawg I promise you no one knows what you’re referring to.
+https://t.co/oUOKBvW91b https://t.co/1ADGvGOAGN
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1933  
-https://x.com/inversebrah/status/2123190820153258047
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1778  
+https://x.com/inversebrah/status/2123579674580431112
 
-## 2026-11-18 23:07 UTC · пост
+## 2026-11-20 00:51 UTC · пост
 
-WERE JUST EARLY
+spanish pipl beefin https://t.co/KibZnn42tK
 
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA https://t.co/H1z1L2Lb52
+❤ 62 · 🔁 2 · 💬 2 · цитат 0 · просмотров 5238  
+https://x.com/inversebrah/status/2123579897750958134
 
-❤ 79 · 🔁 2 · 💬 21 · цитат 1 · просмотров 5850  
-https://x.com/inversebrah/status/2123191271649051040
+## 2026-11-20 01:30 UTC · репост
 
-## 2026-11-18 23:12 UTC · пост
+RT @inversebrah: . https://t.co/XFqHK2DHCU
 
-https://t.co/nOLabnjruL
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/inversebrah/status/2123589883310833757
 
-❤ 63 · 🔁 0 · 💬 9 · цитат 0 · просмотров 6350  
-https://x.com/inversebrah/status/2123192658546114988
-
-## 2026-11-18 23:13 UTC · цитата
-
-https://t.co/Ec2BLFcW3v https://t.co/RpGv6doCtP
-
-❤ 129 · 🔁 0 · 💬 12 · цитат 0 · просмотров 3528  
-https://x.com/inversebrah/status/2123192980282736846
-
-## 2026-11-18 23:15 UTC · цитата
-
-discuss https://t.co/5kW40HU1lq
-
-❤ 41 · 🔁 4 · 💬 14 · цитат 0 · просмотров 4816  
-https://x.com/inversebrah/status/2123193407640355108
-
-## 2026-11-18 23:18 UTC · цитата
-
-quotes and replies https://t.co/NRLgYBHzGA https://t.co/u853JKJmpR
-
-❤ 53 · 🔁 1 · 💬 17 · цитат 0 · просмотров 5784  
-https://x.com/inversebrah/status/2123194249789456810
-
-## 2026-11-18 23:20 UTC · репост
-
-RT @WazzCrypto: Company that scraped the entire internet to train its superintelligent model is suddenly very concerned about what its user…
-
-❤ 0 · 🔁 163 · 💬 0 · цитат 0 · просмотров 1714  
-https://x.com/inversebrah/status/2123194598277460418
-
-## 2026-11-18 23:21 UTC · цитата
-
-r dose the same pipl https://t.co/UnD9LpDbcy
-
-❤ 101 · 🔁 2 · 💬 14 · цитат 0 · просмотров 11571  
-https://x.com/inversebrah/status/2123194878301724987
-
-## 2026-11-18 23:23 UTC · цитата
-
-https://t.co/vLoz3uIw7B https://t.co/ic1Lt11d3A
-
-❤ 35 · 🔁 0 · 💬 9 · цитат 0 · просмотров 2583  
-https://x.com/inversebrah/status/2123195434789412924
-
-## 2026-11-18 23:24 UTC · репост
-
-RT @inversebrah: todays snapshot 
-
-. https://t.co/N9kkGbRLlA
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/inversebrah/status/2123195609930952969
-
-## 2026-11-18 23:26 UTC · цитата
-
-todays snapshot https://t.co/e8ySnEaCRh https://t.co/rDb52X9wRX
-
-❤ 55 · 🔁 1 · 💬 14 · цитат 0 · просмотров 6971  
-https://x.com/inversebrah/status/2123196187599941716
-
-## 2026-11-18 23:32 UTC · репост
-
-RT @guysiamnobody: @inversebrah Max power with a bowl of oil, have fun lmwo https://t.co/30YjxbestS
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1949  
-https://x.com/inversebrah/status/2123197767195783279
-
-## 2026-11-18 23:35 UTC · репост
+## 2026-11-20 01:31 UTC · репост
 
 RT @Nairobi00000: We are raising raising $15,000 for @HeartOfMitchiko due to the result of cardiac catheter, his surgery needs to be transf…
 
-❤ 0 · 🔁 39 · 💬 0 · цитат 0 · просмотров 1762  
-https://x.com/inversebrah/status/2123198339454013656
+❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 1704  
+https://x.com/inversebrah/status/2123590083391696911
 
-## 2026-11-18 23:35 UTC · репост
-
-RT @Nairobi00000: Few days left before minting ends. 💖
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1710  
-https://x.com/inversebrah/status/2123198377118843043
-
-## 2026-11-18 23:35 UTC · репост
+## 2026-11-20 01:32 UTC · репост
 
 RT @Nairobi00000: $9,900 away from target funds needed. Appreciate all the help you guys did for my nephew. ✨
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 1924  
-https://x.com/inversebrah/status/2123198391274590248
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 1745  
+https://x.com/inversebrah/status/2123590175918002496
 
-## 2026-11-19 00:02 UTC · пост
+## 2026-11-20 01:34 UTC · пост
 
-https://t.co/VXpY6hPOv4
+in other news https://t.co/AIu7BsVBRS
 
-❤ 21 · 🔁 1 · 💬 8 · цитат 0 · просмотров 2307  
-https://x.com/inversebrah/status/2123205144838025648
+❤ 78 · 🔁 5 · 💬 11 · цитат 0 · просмотров 8892  
+https://x.com/inversebrah/status/2123590877184696404
 
-## 2026-11-19 00:07 UTC · пост
+## 2026-11-20 01:36 UTC · пост
 
-a ratio observed, smolchained https://t.co/TpLu8urI03
+a timing observed https://t.co/8bYKXdhx8V
 
-❤ 92 · 🔁 4 · 💬 11 · цитат 0 · просмотров 5932  
-https://x.com/inversebrah/status/2123206517642105059
+❤ 116 · 🔁 9 · 💬 11 · цитат 0 · просмотров 7628  
+https://x.com/inversebrah/status/2123591315707633765
 
-## 2026-11-19 00:08 UTC · ответ
+## 2026-11-20 01:43 UTC · цитата
 
-@MINHxDYNASTY wats the concern
+todays snapshot https://t.co/Gll0Ly6vrd https://t.co/n7VYOXCYRE
 
-❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 556  
-https://x.com/inversebrah/status/2123206707212079584
+❤ 26 · 🔁 9 · 💬 3 · цитат 1 · просмотров 6347  
+https://x.com/inversebrah/status/2123593045539262755
 
-## 2026-11-19 00:08 UTC · репост
+## 2026-11-20 01:54 UTC · цитата
 
-RT @inversebrah: @bronbroncore even in dethly peril
+we call dis a thursday https://t.co/7LhmnLYbs3
 
-smoltings hair is inpeccable 
+❤ 65 · 🔁 0 · 💬 9 · цитат 0 · просмотров 7374  
+https://x.com/inversebrah/status/2123595713129164963
 
-fyi
+## 2026-11-20 02:43 UTC · репост
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/inversebrah/status/2123206789395255413
+RT @knveth: Cartoonishly villainous
 
-## 2026-11-19 00:09 UTC · пост
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1664  
+https://x.com/inversebrah/status/2123608189153460313
 
-dere https://t.co/dvdksMyXcT
+## 2026-11-20 02:51 UTC · цитата
 
-❤ 63 · 🔁 2 · 💬 10 · цитат 0 · просмотров 5207  
-https://x.com/inversebrah/status/2123207107411591211
+https://t.co/r0tFvwKDpx https://t.co/uUOoEvouAl
 
-## 2026-11-19 00:11 UTC · репост
+❤ 42 · 🔁 3 · 💬 4 · цитат 0 · просмотров 4821  
+https://x.com/inversebrah/status/2123610222925435091
 
-RT @cb_doge: Here's Elon Musk's full interview at DealBook Summit today:
+## 2026-11-20 03:12 UTC · репост
 
-0:00 Opening Remarks
-0:31 Jensen Huang Situation
-2:44 Jensen Like…
+RT @wassie: SMOLTING PLUSH PREORDERS ARE LIVE
 
-❤ 0 · 🔁 928 · 💬 0 · цитат 0 · просмотров 1631  
-https://x.com/inversebrah/status/2123207471909278079
+Get yours while they last 👇
 
-## 2026-11-19 00:13 UTC · цитата
+https://t.co/fxm48xUsJy https://t.co/QydfZnB54F
 
-imajin
+❤ 0 · 🔁 61 · 💬 0 · цитат 0 · просмотров 1557  
+https://x.com/inversebrah/status/2123615344141222097
 
-the smell https://t.co/qiHt3Opyec
-
-❤ 54 · 🔁 3 · 💬 18 · цитат 0 · просмотров 6643  
-https://x.com/inversebrah/status/2123207889301258270
-
-## 2026-11-19 00:14 UTC · репост
-
-RT @cointradernik: Today will mark 14 consecutive daily lower highs for BTC (the all time record)
-
-When will it break?
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 1672  
-https://x.com/inversebrah/status/2123208349886070864
-
-## 2026-11-19 00:16 UTC · пост
-
-deres dat https://t.co/rcupnxqf8N
-
-❤ 53 · 🔁 0 · 💬 13 · цитат 0 · просмотров 6659  
-https://x.com/inversebrah/status/2123208647446872402
-
-## 2026-11-19 00:17 UTC · репост
+## 2026-11-20 03:12 UTC · репост
 
 RT @wassie: track the smolting plushie infestation here 👇
 
 https://t.co/IOjGUUXqD3 https://t.co/rbxMS4aWmu
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 1708  
-https://x.com/inversebrah/status/2123208987277775018
+❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 1644  
+https://x.com/inversebrah/status/2123615371437711657
 
-## 2026-11-19 00:18 UTC · репост
+## 2026-11-20 03:13 UTC · репост
 
-RT @sixfIash: I'm really proud of my art and I want people to see it. It would mean the world if you minted it too but I also just want peo…
+RT @iamgub: @CryptoParadyme @inversebrah https://t.co/qgtyljZUbG
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 1899  
-https://x.com/inversebrah/status/2123209136330653964
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1703  
+https://x.com/inversebrah/status/2123615704582963550
 
-## 2026-11-19 00:22 UTC · репост
+## 2026-11-20 03:17 UTC · репост
 
-RT @inversebrah: tis be the job https://t.co/JhC7bIFNiD
+RT @CaramelCoffee: @inversebrah https://t.co/PTlBZ58u0q
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/inversebrah/status/2123210301235716439
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1656  
+https://x.com/inversebrah/status/2123616650431988191
 
-## 2026-11-19 00:23 UTC · репост
+## 2026-11-20 03:27 UTC · пост
 
-RT @inversebrah: underappreciated gigabanger 
+q4 2026 https://t.co/GdNCXbj65r
 
-smolchained https://t.co/wd108uIblh
+❤ 43 · 🔁 1 · 💬 7 · цитат 0 · просмотров 4677  
+https://x.com/inversebrah/status/2123619213155987478
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/inversebrah/status/2123210479111987439
+## 2026-11-20 03:32 UTC · пост
 
-## 2026-11-19 00:36 UTC · цитата
+todays snippet https://t.co/MnRUmFbY2f
 
-https://t.co/Xsr6lwMfeA https://t.co/j1C5Dqb8yw
+❤ 156 · 🔁 7 · 💬 13 · цитат 0 · просмотров 6253  
+https://x.com/inversebrah/status/2123620460256772271
 
-❤ 33 · 🔁 0 · 💬 8 · цитат 0 · просмотров 2372  
-https://x.com/inversebrah/status/2123213803139801123
+## 2026-11-20 03:35 UTC · ответ
 
-## 2026-11-19 00:38 UTC · цитата
+@roobzey LIL SHID D:&lt;
 
-an offer was made https://t.co/Pz0HP9iIIO
+❤ 14 · 🔁 0 · 💬 1 · цитат 0 · просмотров 266  
+https://x.com/inversebrah/status/2123621273003847884
 
-❤ 23 · 🔁 0 · 💬 9 · цитат 0 · просмотров 6197  
-https://x.com/inversebrah/status/2123214384365531513
+## 2026-11-20 03:44 UTC · репост
 
-## 2026-11-19 00:52 UTC · цитата
+RT @SalsaTekila: Steady lads https://t.co/vayMeT2u6Q
 
-https://t.co/78a8EUPc6j https://t.co/qv6JEh5WWL
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1495  
+https://x.com/inversebrah/status/2123623580038828185
 
-❤ 74 · 🔁 1 · 💬 11 · цитат 0 · просмотров 5714  
-https://x.com/inversebrah/status/2123217891122389417
+## 2026-11-20 03:50 UTC · репост
 
-## 2026-11-19 03:15 UTC · пост
+RT @schizohustler: many of you are fake sensitive young men. no insecurity. no loneliness. not me though i am straight up suffering.
 
-is smolting in danger https://t.co/6vB24ZOdla
+❤ 0 · 🔁 296 · 💬 0 · цитат 0 · просмотров 1783  
+https://x.com/inversebrah/status/2123625125761458679
 
-❤ 36 · 🔁 1 · 💬 16 · цитат 0 · просмотров 4550  
-https://x.com/inversebrah/status/2123253844369166719
+## 2026-11-20 04:12 UTC · репост
 
-## 2026-11-19 03:16 UTC · репост
+RT @deltaxbt: Following the release of GTA V, $BTC went up 90,626%, and I expect it to do the same now that GTA VI is out, giving it a pric…
 
-RT @GrindingPoet: @pissed can i come on the 4th episode and we do nothing but talk about a million ways to torture smolting?
+❤ 0 · 🔁 28 · 💬 0 · цитат 0 · просмотров 1528  
+https://x.com/inversebrah/status/2123630430532567347
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1679  
-https://x.com/inversebrah/status/2123253980935729315
+## 2026-11-20 04:12 UTC · репост
 
-## 2026-11-19 03:17 UTC · ответ
+RT @AgentChud: Have been thinking... What if the world does end and somehow hundreds of years from now they discover @TheoVon repeatedly wa…
 
-@vydamo_ not a frok fyi :3
+❤ 0 · 🔁 30 · 💬 0 · цитат 0 · просмотров 1501  
+https://x.com/inversebrah/status/2123630584534900945
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 246  
-https://x.com/inversebrah/status/2123254273178054831
+## 2026-11-20 04:13 UTC · цитата
 
-## 2026-11-19 03:17 UTC · ответ
+banger tbw https://t.co/5N82vwZGuy
 
-@frizzaud not frok D:&lt;
+❤ 31 · 🔁 0 · 💬 3 · цитат 0 · просмотров 4406  
+https://x.com/inversebrah/status/2123630867394515203
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 186  
-https://x.com/inversebrah/status/2123254325694886299
+## 2026-11-20 04:14 UTC · ответ
 
-## 2026-11-19 03:18 UTC · репост
+@AgentChud @TheoVon wouldnt rly stand out even today
 
-RT @poordart: @inversebrah Only the people (still) here now are tired of it
+fits rite in
 
-In 6-18 months there'll be new retards to follow the same scam…
+❤ 5 · 🔁 1 · 💬 0 · цитат 0 · просмотров 558  
+https://x.com/inversebrah/status/2123631130054410532
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1537  
-https://x.com/inversebrah/status/2123254596852412524
+## 2026-11-20 04:21 UTC · репост
 
-## 2026-11-19 03:20 UTC · пост
+RT @cryptoklotz: NVDA chart looks like a pump shitter that people collectively realized isn't gonna bond
 
-underappreciated gigabanger 💀
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1522  
+https://x.com/inversebrah/status/2123632879397998730
 
-smolchained https://t.co/ZqxWga14l4
+## 2026-11-20 04:22 UTC · пост
 
-❤ 104 · 🔁 2 · 💬 9 · цитат 0 · просмотров 4690  
-https://x.com/inversebrah/status/2123254955683492147
+tl mood snippet https://t.co/GJVDs2U5j6
 
-## 2026-11-19 03:20 UTC · репост
+❤ 30 · 🔁 1 · 💬 7 · цитат 0 · просмотров 4275  
+https://x.com/inversebrah/status/2123632975707562264
 
-RT @roobzey: @inversebrah we're creating trading from first principles
+## 2026-11-20 04:32 UTC · цитата
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1529  
-https://x.com/inversebrah/status/2123254978680868984
+quotes and replies https://t.co/5qdF8lSJ9m
 
-## 2026-11-19 03:20 UTC · репост
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4357  
+https://x.com/inversebrah/status/2123635447327060402
 
-RT @gainzy222: Do you own $pearl ?
+## 2026-11-20 04:43 UTC · пост
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1403  
-https://x.com/inversebrah/status/2123255123153691088
+now we here https://t.co/lfxJsaZeP9
 
-## 2026-11-19 04:04 UTC · цитата
+❤ 32 · 🔁 3 · 💬 5 · цитат 0 · просмотров 4141  
+https://x.com/inversebrah/status/2123638319833886948
 
-https://t.co/jF7wsTdVGV https://t.co/YnmcpbIJkh
+## 2026-11-20 04:45 UTC · ответ
 
-❤ 33 · 🔁 1 · 💬 10 · цитат 1 · просмотров 3733  
-https://x.com/inversebrah/status/2123266251598569961
+@bright_125 its a gud store of smolting
 
-## 2026-11-19 04:09 UTC · цитата
+which haz not much value :|
 
-https://t.co/bS01nAZPm9 https://t.co/PhtEAowXG2
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 190  
+https://x.com/inversebrah/status/2123638796164231499
 
-❤ 52 · 🔁 2 · 💬 15 · цитат 0 · просмотров 3623  
-https://x.com/inversebrah/status/2123267473915228474
+## 2026-11-20 04:47 UTC · ответ
 
-## 2026-11-19 04:14 UTC · репост
+@bright_125 https://t.co/3K4KQsDPTQ
 
-RT @based16z: https://t.co/qZ1zZwxf1K
+❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 56  
+https://x.com/inversebrah/status/2123639286721638749
 
-❤ 0 · 🔁 192 · 💬 0 · цитат 0 · просмотров 1389  
-https://x.com/inversebrah/status/2123268619429945613
+## 2026-11-20 04:53 UTC · репост
 
-## 2026-11-19 04:24 UTC · пост
+RT @Taobrah: @inversebrah https://t.co/ewCIaZkq2i
 
-https://t.co/uRYIwOpLbK
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1734  
+https://x.com/inversebrah/status/2123640865055031772
 
-❤ 158 · 🔁 6 · 💬 11 · цитат 1 · просмотров 4831  
-https://x.com/inversebrah/status/2123271245055787312
+## 2026-11-20 05:03 UTC · пост
 
-## 2026-11-19 04:26 UTC · пост
+. https://t.co/iZ5QgisLfD
 
-a very dense tl snippet ^-^ https://t.co/4mjCOfvwYo
+❤ 13 · 🔁 1 · 💬 1 · цитат 0 · просмотров 3480  
+https://x.com/inversebrah/status/2123643445776662760
 
-❤ 12 · 🔁 0 · 💬 8 · цитат 0 · просмотров 3874  
-https://x.com/inversebrah/status/2123271635805626475
+## 2026-11-20 05:05 UTC · пост
 
-## 2026-11-19 04:29 UTC · пост
+gold down so bad dat btc is uptrendin' against it for liek a week now 💀 https://t.co/kF7hIs1kiU
 
-questions asked, observations shared
+❤ 116 · 🔁 5 · 💬 20 · цитат 0 · просмотров 5392  
+https://x.com/inversebrah/status/2123643957695619435
 
-q4 2026 https://t.co/ALvnHSsNE3
+## 2026-11-20 05:08 UTC · пост
 
-❤ 7 · 🔁 0 · 💬 8 · цитат 0 · просмотров 3364  
-https://x.com/inversebrah/status/2123272311419843044
+btc down so bad dat its dominance been downtrendin' for over a week now 💀 https://t.co/8oX8JDY5XK
 
-## 2026-11-19 04:35 UTC · пост
+❤ 58 · 🔁 1 · 💬 16 · цитат 0 · просмотров 4513  
+https://x.com/inversebrah/status/2123644561151164912
 
-a base case scenario 
+## 2026-11-20 05:09 UTC · ответ
 
-and where to find it https://t.co/LysCWmVwjs
+@rektdiomedes awww watafak 🥹
 
-❤ 17 · 🔁 0 · 💬 9 · цитат 0 · просмотров 3994  
-https://x.com/inversebrah/status/2123274009098015095
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 254  
+https://x.com/inversebrah/status/2123644866131533841
 
-## 2026-11-19 04:54 UTC · репост
+## 2026-11-20 05:14 UTC · пост
 
-RT @tervoooo: So what do you guys want for Christmas? Genuine wholeheartedly sincere answers only
+charts will bottom one day
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1617  
-https://x.com/inversebrah/status/2123278738247061945
+and so will u
 
-## 2026-11-19 04:55 UTC · пост
+probably
 
-tl mood snippet https://t.co/HBnVOPIyaj
+❤ 158 · 🔁 8 · 💬 38 · цитат 1 · просмотров 5609  
+https://x.com/inversebrah/status/2123646194048209187
 
-❤ 20 · 🔁 0 · 💬 7 · цитат 0 · просмотров 4054  
-https://x.com/inversebrah/status/2123279090467918306
+## 2026-11-20 05:20 UTC · цитата
 
-## 2026-11-19 05:16 UTC · пост
+debate https://t.co/ptIM9QJn8L
 
-popular pipl in the news
+❤ 11 · 🔁 1 · 💬 5 · цитат 0 · просмотров 3550  
+https://x.com/inversebrah/status/2123647747312234861
 
-mid q4 2026, original colors https://t.co/49YwtWZqrm
+## 2026-11-20 05:22 UTC · цитата
 
-❤ 38 · 🔁 0 · 💬 15 · цитат 1 · просмотров 6225  
-https://x.com/inversebrah/status/2123284371524501735
+shhh is oke
 
-## 2026-11-19 05:56 UTC · цитата
+dont look, shh
 
-https://t.co/WdvDBSq2Ab https://t.co/WN4Te4GMU8
+shh shh is oke https://t.co/qkk95luNUN
 
-❤ 39 · 🔁 2 · 💬 7 · цитат 0 · просмотров 2282  
-https://x.com/inversebrah/status/2123294281821810880
+❤ 43 · 🔁 1 · 💬 8 · цитат 0 · просмотров 4015  
+https://x.com/inversebrah/status/2123648146752639422
 
-## 2026-11-19 06:20 UTC · пост
+## 2026-11-20 05:30 UTC · пост
 
-lore https://t.co/SgHTE2Lj89
+https://t.co/s10hl47fng
 
-❤ 22 · 🔁 0 · 💬 11 · цитат 0 · просмотров 3194  
-https://x.com/inversebrah/status/2123300296470462498
+❤ 20 · 🔁 0 · 💬 1 · цитат 1 · просмотров 3317  
+https://x.com/inversebrah/status/2123650077575270611
 
-## 2026-11-19 07:12 UTC · ответ
+## 2026-11-20 05:35 UTC · цитата
 
-@veH0rny its great to see ur worldview finally right'd
+discuss https://t.co/KDsCcR3izo
 
-u haz much to lern
+❤ 73 · 🔁 3 · 💬 41 · цитат 0 · просмотров 7693  
+https://x.com/inversebrah/status/2123651527126749356
 
-tomorrow
+## 2026-11-20 05:39 UTC · цитата
 
-❤ 4 · 🔁 0 · 💬 3 · цитат 0 · просмотров 210  
-https://x.com/inversebrah/status/2123313573778911702
+todays snapshot 
+
+. https://t.co/XUxFgKu1ol https://t.co/MWLDhxb01K
+
+❤ 15 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3759  
+https://x.com/inversebrah/status/2123652488570237119
+
+## 2026-11-20 06:01 UTC · репост
+
+RT @CryptoParadyme: @inversebrah welp
+
+now i know what to do with my plushielight
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1479  
+https://x.com/inversebrah/status/2123658049072308664
+
+## 2026-11-20 06:02 UTC · ответ
+
+@Cryptoshi_Calls https://t.co/gTAcYZjQkM
+
+❤ 4 · 🔁 0 · 💬 1 · цитат 1 · просмотров 267  
+https://x.com/inversebrah/status/2123658167380754661

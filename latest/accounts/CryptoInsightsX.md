@@ -1,28 +1,17 @@
-# @CryptoInsightsX — посты за 2026-11-19
+# @CryptoInsightsX — посты за 2026-11-20
 
-Всего: 2
+Всего: 1
 
-## 2026-11-18 10:58 UTC · цитата
+## 2026-11-19 11:18 UTC · цитата
 
 Daily Market Overview: EXTREME FEAR
-Nov 18, 2026
+Nov 19, 2026
 
- #BTC price trades around $64K 
+ #BTC price trades around $63K 
  
-In the past 24 hours, 97,520 traders(62.5% Long) liquidated. Total liquidations were $373.07M.
+In the past 24 hours, 88,916 traders(75.5% Long) liquidated. Total liquidations were $411.91M.
 
-#CryptoNews #Crypto bitcoin:native https://t.co/rwcFRSW36j https://t.co/JxE9sXL732
+#CryptoNews #Crypto bitcoin:native https://t.co/SsnUAdal80
 
-❤ 5 · 🔁 3 · 💬 3 · цитат 0 · просмотров 233  
-https://x.com/CryptoInsightsX/status/2123007834715824238
-
-## 2026-11-19 01:51 UTC · цитата
-
-🔥 A Tesla Cybertruck, Ducati Monster, and iPhone DUO up for grabs. 
-
-Definitely worth joining the $LWT ICO for a chance to win.
-
-Don't miss out 👇 https://t.co/AhGLO96PCG
-
-❤ 5 · 🔁 2 · 💬 5 · цитат 0 · просмотров 3206  
-https://x.com/CryptoInsightsX/status/2123232608930947391
+❤ 2 · 🔁 0 · 💬 3 · цитат 0 · просмотров 255  
+https://x.com/CryptoInsightsX/status/2123375284493942798

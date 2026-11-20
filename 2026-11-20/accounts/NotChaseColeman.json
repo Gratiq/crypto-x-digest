@@ -1,0 +1,77 @@
+[
+ {
+  "id": "2123474165642789135",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-19T17:51:07.000Z",
+  "text": "RT @Pool2Paulie: Believe me now?",
+  "url": "https://x.com/NotChaseColeman/status/2123474165642789135",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 575,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123462662864662833",
+   "text": "Believe me now? https://t.co/UjInzvaAku"
+  }
+ },
+ {
+  "id": "2123500734712779218",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-19T19:36:42.000Z",
+  "text": "RT @EvgenyGaevoy: https://t.co/ceIJkK08zO",
+  "url": "https://x.com/NotChaseColeman/status/2123500734712779218",
+  "likes": 0,
+  "retweets": 36,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 610,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123478657117159544",
+   "text": "https://t.co/ceIJkK08zO"
+  }
+ },
+ {
+  "id": "2123592851963482317",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-20T01:42:45.000Z",
+  "text": "There wasn’t as much private capital available when those companies IPO’d. \n\nThe big private co’s today have plenty of access to private capital and they’d rather put off the disclosures till later. https://t.co/DndYFR5smu",
+  "url": "https://x.com/NotChaseColeman/status/2123592851963482317",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1058,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123450380885360959",
+   "text": "not a fan of companies today IPO’ing in the trillion dollar range. \n\n$NVDA IPO’d at $600m\n$AMZN IPO’d at $440m\n$MSFT IPO’d at $780m\n\nthey made retail rich rich. \n\ntrillion dollar IPOs only makes insiders rich."
+  }
+ },
+ {
+  "id": "2123595912102715707",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "original",
+  "created_at": "2026-11-20T01:54:54.000Z",
+  "text": "Fuck this shit pardon SBF and fire up FTX again",
+  "url": "https://x.com/NotChaseColeman/status/2123595912102715707",
+  "likes": 15,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1647,
+  "bookmarks": 0
+ }
+]

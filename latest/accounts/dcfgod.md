@@ -1,98 +1,67 @@
-# @dcfgod — посты за 2026-11-19
+# @dcfgod — посты за 2026-11-20
 
-Всего: 13
+Всего: 8
 
-## 2026-11-18 15:52 UTC · ответ
+## 2026-11-19 14:50 UTC · репост
 
-@IGN we’ve have ever
+RT @josefabregab: I'm often asked why so much conviction on @ether_fi.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1888  
-https://x.com/dcfgod/status/2123081987888218576
+It's quite simple: card revenue is driven by actual card usage, whi…
 
-## 2026-11-18 17:57 UTC · репост
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1402  
+https://x.com/dcfgod/status/2123428607402094984
 
-RT @ryanberckmans: ETHBTC is showing resilience in these BTC/crypto crashes because eth's best days are ahead of us. We're on track to beco…
+## 2026-11-19 15:28 UTC · репост
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 1360  
-https://x.com/dcfgod/status/2123113451740709331
+RT @AnthropicAI: https://t.co/Xa0ucYLnMN
 
-## 2026-11-18 23:02 UTC · цитата
+❤ 0 · 🔁 8387 · 💬 0 · цитат 0 · просмотров 1352  
+https://x.com/dcfgod/status/2123438343652589904
 
-“My base case is we get WW2 level devastation.   Meaning 100m+ dead and a continent in disarray for years.  I’d put that at ~60% to happen in the next 4 years.”
+## 2026-11-19 16:25 UTC · репост
 
-1) WHAT? https://t.co/BAOYhum8fg
+RT @Nomaticcap: I thought I was an @ether_fi power user, but @keegan_selby runs five business lines from a 7-figure crypto treasury.
 
-❤ 500 · 🔁 9 · 💬 49 · цитат 5 · просмотров 89774  
-https://x.com/dcfgod/status/2123190175102799913
+His g…
 
-## 2026-11-18 23:07 UTC · цитата
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 1374  
+https://x.com/dcfgod/status/2123452651014963359
 
-@econoar Meanwhile https://t.co/BAOYhum8fg
+## 2026-11-19 19:20 UTC · пост
 
-❤ 12 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1375  
-https://x.com/dcfgod/status/2123191490277175310
+After finishing like 12% of the game - it’s gotten fun
 
-## 2026-11-19 01:56 UTC · ответ
+These Twitter npcs have latched onto the slow start but it’s mostly all cap and none of it mandatory
 
-@kakujain Alright I like him again
+House repair optional, Lucia romance missions optional, protein and lifting optional… doing some of these has been fun
 
-❤ 15 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3124  
-https://x.com/dcfgod/status/2123233914819101112
+❤ 1780 · 🔁 78 · 💬 85 · цитат 5 · просмотров 89393  
+https://x.com/dcfgod/status/2123496714732720334
 
-## 2026-11-19 03:05 UTC · пост
+## 2026-11-19 20:01 UTC · ответ
 
-Welcome to the future… my real car drives itself but I’ll spend my free time manually driving a virtual gta 6 car through traffic
+@Houseofyogi Pro
 
-❤ 62 · 🔁 2 · 💬 12 · цитат 0 · просмотров 3941  
-https://x.com/dcfgod/status/2123251348808560856
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3777  
+https://x.com/dcfgod/status/2123506865829245190
 
-## 2026-11-19 03:12 UTC · репост
+## 2026-11-19 21:47 UTC · ответ
 
-RT @zeroxkyle: I genuinely agree with this take, and don't know why there's so much conflict about it. As much as BTC still drives altcoin…
+@ii_analyze This
 
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 902  
-https://x.com/dcfgod/status/2123253067718316110
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3913  
+https://x.com/dcfgod/status/2123533642316263431
 
-## 2026-11-19 04:31 UTC · пост
+## 2026-11-19 21:48 UTC · ответ
 
-Eth at 1.7k has reduced my appetite more than retatrutide
+@seahawksahoy Made me smile and didn’t overstay its welcome
 
-❤ 125 · 🔁 4 · 💬 13 · цитат 0 · просмотров 5889  
-https://x.com/dcfgod/status/2123272829668069753
+❤ 10 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2783  
+https://x.com/dcfgod/status/2123533811959078931
 
-## 2026-11-19 04:33 UTC · ответ
+## 2026-11-20 04:47 UTC · репост
 
-@knlae_ And now I look broke too
+RT @domdosu: Despite challenging market conditions, @dreaming has climbed to #2 in weekly notional trading volume among tracked crypto opti…
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 184  
-https://x.com/dcfgod/status/2123273316916146486
-
-## 2026-11-19 04:45 UTC · ответ
-
-@bas3dp0tat6 @sshxbt higher low
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 106  
-https://x.com/dcfgod/status/2123276407384264824
-
-## 2026-11-19 04:47 UTC · ответ
-
-@sshxbt Think the ai hack wave created excessive fear in defi and trying new things but in a year or two these systems will be bug free and hardened by ai… then we can run it back
-
-❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 377  
-https://x.com/dcfgod/status/2123276899267023303
-
-## 2026-11-19 07:18 UTC · пост
-
-2h in I’ve fixed the house, done 2 workouts, had some protein, scrolled the social media only to find comments on some shitcoin, and put all my money in the floorboards… this is gonna be a long game 😭
-
-❤ 23 · 🔁 1 · 💬 16 · цитат 1 · просмотров 1360  
-https://x.com/dcfgod/status/2123314930573283586
-
-## 2026-11-19 07:24 UTC · ответ
-
-@Brentsketit I audibly laughed a few times, mostly at the irony of sitting on my couch pressing r2 to watch this guy nail in the roofing 
-
-They gotta know it’s funny
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 63  
-https://x.com/dcfgod/status/2123316415193354615
+❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 989  
+https://x.com/dcfgod/status/2123639230757044535

@@ -1,0 +1,62 @@
+[
+ {
+  "id": "2123438159266525590",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "retweet",
+  "created_at": "2026-11-19T15:28:03.000Z",
+  "text": "RT @alliance: Imagine taking out a loan at 4.7% and watching your rate climb to 14%.\n\nThat’s what happened to USDC borrowers on Aave in Apr…",
+  "url": "https://x.com/lmrankhan/status/2123438159266525590",
+  "likes": 0,
+  "retweets": 16,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 606,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123435204643602873",
+   "text": "Imagine taking out a loan at 4.7% and watching your rate climb to 14%.\n\nThat’s what happened to USDC borrowers on Aave in April.\n\nIntroducing @KairosSwap (ALL15), an onchain market for interest rate swaps. Borrowers can lock in the rate they pay and lenders can lock in the yield https://t.co/UaxPWWzGJV"
+  }
+ },
+ {
+  "id": "2123438703037296666",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "reply",
+  "created_at": "2026-11-19T15:30:13.000Z",
+  "text": "@KairosSwap @alliance lfg",
+  "url": "https://x.com/lmrankhan/status/2123438703037296666",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 132,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123436371805098384",
+   "text": "@alliance Thanks @alliance you guys played a huge role in getting us here. Appreciate all the support\n\nTime for DeFi to LOCK IN rates"
+  }
+ },
+ {
+  "id": "2123487826415350247",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "retweet",
+  "created_at": "2026-11-19T18:45:24.000Z",
+  "text": "RT @numoforex: https://t.co/Ox6AoU4e1w",
+  "url": "https://x.com/lmrankhan/status/2123487826415350247",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 712,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123477370225213468",
+   "text": "https://t.co/Ox6AoU4e1w"
+  }
+ }
+]

@@ -1,761 +1,511 @@
-# @rektdiomedes — посты за 2026-11-19
+# @rektdiomedes — посты за 2026-11-20
 
-Всего: 100
+Всего: 66
 
-## 2026-11-18 08:31 UTC · ответ
+## 2026-11-19 07:30 UTC · ответ
 
-@FX100Perp Lezgo 💪
+@binji_x People want third places but they want them gated behind an entry fee and strict membership criteria (for many obvious reasons nowadays).
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 52  
-https://x.com/rektdiomedes/status/2122971041043546521
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 251  
+https://x.com/rektdiomedes/status/2123318074551984495
 
-## 2026-11-18 08:35 UTC · ответ
+## 2026-11-19 07:31 UTC · ответ
 
-@crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol https://t.co/102FweHfiv
+@bright_125 https://t.co/UuR4mKBAWC
 
-❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 236  
-https://x.com/rektdiomedes/status/2122972017716793709
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 97  
+https://x.com/rektdiomedes/status/2123318204265074718
 
-## 2026-11-18 08:38 UTC · ответ
+## 2026-11-19 07:33 UTC · ответ
 
-@phtevenstrong Wholesome man...
+@CryptoJonesRC @metricxyz Gud stuff Jonesy 💪
 
-Always love these as they remind me of when I was a kid and my parents got us a bunch of banties :)
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 138  
+https://x.com/rektdiomedes/status/2123318781816520870
 
-I'd have to go get the eggs... and they were all so goofy... and the coyotes were always trying to get eat them... good times :)
+## 2026-11-19 21:09 UTC · репост
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 162  
-https://x.com/rektdiomedes/status/2122972681503146011
+RT @thedailydegenhq: Is the US government in 'Zugzwang'?
 
-## 2026-11-18 08:39 UTC · ответ
+"You have a situation where there is no fiscal consolidation that is possible.…
 
-@0xTindorr Hope you bounce back hard brother 💪
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 751  
+https://x.com/rektdiomedes/status/2123523968409727168
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 149  
-https://x.com/rektdiomedes/status/2122972884654326129
+## 2026-11-19 21:10 UTC · ответ
 
-## 2026-11-18 08:40 UTC · ответ
+@thedailydegenhq @LukeGromen @1MarkMoss We like the chess metaphors 💪 https://t.co/BncqPH6xhG
 
-@roobzey https://t.co/nzJg3JWdLz
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 96  
+https://x.com/rektdiomedes/status/2123524387156738082
 
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 44  
-https://x.com/rektdiomedes/status/2122973106562343235
+## 2026-11-19 21:20 UTC · ответ
 
-## 2026-11-18 08:41 UTC · репост
+@Octop3s Thanks Octopus :)
 
-RT @DAdvisoor: Respect!
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 33  
+https://x.com/rektdiomedes/status/2123526962501103984
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1122  
-https://x.com/rektdiomedes/status/2122973363383746781
+## 2026-11-19 21:21 UTC · репост
 
-## 2026-11-18 08:41 UTC · ответ
+RT @belizardd: I'm rarely disagreeing with @rektdiomedes, but today's the time... I believe the next 5 years are going to be delusionally b…
 
-@DAdvisoor We like the $fxUSD :) https://t.co/E7WJfU7zLH
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 799  
+https://x.com/rektdiomedes/status/2123527113710141804
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 79  
-https://x.com/rektdiomedes/status/2122973519042809934
+## 2026-11-19 21:22 UTC · ответ
 
-## 2026-11-18 08:43 UTC · цитата
+@belizardd Lol ha - gud stuff ser :)
 
-@celestineia 100% 🤝
+Also I'm certainly not 'predicting' a five year bear market... I tend to fall more in line with your optimistic view tbh 🤝
 
-https://t.co/eWyAhmdfyn
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 86  
+https://x.com/rektdiomedes/status/2123527242416611687
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 50  
-https://x.com/rektdiomedes/status/2122974005095522527
+## 2026-11-19 21:22 UTC · ответ
 
-## 2026-11-18 08:44 UTC · ответ
+@Route2FI Not my base case Route I promise :)
 
-@alpha_pls Bleak conditions man but I think we are within sight of an inflection point...
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 121  
+https://x.com/rektdiomedes/status/2123527451292979675
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 206  
-https://x.com/rektdiomedes/status/2122974236654584012
+## 2026-11-19 21:23 UTC · ответ
 
-## 2026-11-18 08:44 UTC · ответ
+@settingthetempo I know... cute little fella innit?
 
-@retardsgonnawin Gm brother :)
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 43  
+https://x.com/rektdiomedes/status/2123527528157704561
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 59  
-https://x.com/rektdiomedes/status/2122974296826069118
+## 2026-11-19 21:23 UTC · ответ
 
-## 2026-11-18 08:45 UTC · ответ
-
-@QuotableCrypto @schizoxbt Miss that good schizo :)
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 101  
-https://x.com/rektdiomedes/status/2122974426585080069
-
-## 2026-11-18 08:46 UTC · ответ
-
-@mezzanine_fi Lezgo 💪
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 73  
-https://x.com/rektdiomedes/status/2122974674045014258
-
-## 2026-11-18 21:35 UTC · репост
-
-RT @0xCheeezzyyyy: 1/ As the industry matures, the next winners in RWA are those capable of transforming them into accessible, liquid &amp; cap…
-
-❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 968  
-https://x.com/rektdiomedes/status/2123168120869392785
-
-## 2026-11-18 21:35 UTC · ответ
-
-@0xCheeezzyyyy @Mantle_Official Beautiful work Cheezy! We like ze Mantle!
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 51  
-https://x.com/rektdiomedes/status/2123168159360331777
-
-## 2026-11-18 21:47 UTC · репост
-
-RT @thedailydegenhq: The Daily Degen - Wednesday, November 18th, 2026
-
-Stakes, Crashes, Tickers, Alfa, Macro, Videos, + New Projects! + $BT…
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 786  
-https://x.com/rektdiomedes/status/2123171175715020826
-
-## 2026-11-18 21:47 UTC · ответ
-
-@thedailydegenhq @Meta_Mark_ Gud work Frog!
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 53  
-https://x.com/rektdiomedes/status/2123171195596239115
-
-## 2026-11-18 22:55 UTC · ответ
-
-@CryptoISFreedom Yup, all well said man 🤝
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 37  
-https://x.com/rektdiomedes/status/2123188265624723597
-
-## 2026-11-18 22:55 UTC · ответ
-
-@thelearningpill Gud stuff Pill 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 51  
-https://x.com/rektdiomedes/status/2123188483342717116
-
-## 2026-11-18 22:56 UTC · ответ
-
-@schizoxbt @QuotableCrypto Schizo! Sounds great brother! 🤝
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 49  
-https://x.com/rektdiomedes/status/2123188647075741820
-
-## 2026-11-18 22:59 UTC · ответ
-
-@the_smart_ape Issa gud question man - we shall see :)
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 45  
-https://x.com/rektdiomedes/status/2123189438125609181
-
-## 2026-11-18 23:00 UTC · ответ
-
-@sodnjm @0xadriandefi Wassie pizza :)
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 32  
-https://x.com/rektdiomedes/status/2123189632196096508
-
-## 2026-11-18 23:01 UTC · ответ
-
-@crypto_linn Lol
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 92  
-https://x.com/rektdiomedes/status/2123189834881941947
-
-## 2026-11-18 23:01 UTC · ответ
-
-@FIREDxyz Thank you bro 💪
+@samoa_joes Nice... absolutely love it brother 🤝
 
 ❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 31  
-https://x.com/rektdiomedes/status/2123189990784106938
+https://x.com/rektdiomedes/status/2123527630314221723
 
-## 2026-11-18 23:04 UTC · репост
+## 2026-11-19 21:23 UTC · репост
 
-RT @Nomaticcap: "I still like ETH" https://t.co/KLfeJ9kCjl
+RT @rampton_: Wise words from one of the OG threadooors who has never left this space.
 
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 846  
-https://x.com/rektdiomedes/status/2123190578636800252
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 909  
+https://x.com/rektdiomedes/status/2123527686282719717
 
-## 2026-11-18 23:04 UTC · ответ
+## 2026-11-19 21:23 UTC · ответ
 
-@Nomaticcap Me too brother :) https://t.co/cW4oBpfNTj
+@rampton_ 💪🤝
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 106  
-https://x.com/rektdiomedes/status/2123190749533770161
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 50  
+https://x.com/rektdiomedes/status/2123527724367053044
 
-## 2026-11-18 23:05 UTC · ответ
+## 2026-11-19 21:24 UTC · репост
 
-@Picolas_Caged Hope your kiddo bounces back man... sending prayers/energy 💪🙏
+RT @jonny_defi: Retweeting bcos I enjoyed - and agree with (all) of this.. not often that happens :) but it does :)
+(Still unsure of 5 year…
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 46  
-https://x.com/rektdiomedes/status/2123190985412788687
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 952  
+https://x.com/rektdiomedes/status/2123527958329434444
 
-## 2026-11-18 23:06 UTC · ответ
+## 2026-11-19 21:24 UTC · ответ
 
-@0xbags :)
+@jonny_defi 🤝
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 61  
-https://x.com/rektdiomedes/status/2123191081164476889
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 50  
+https://x.com/rektdiomedes/status/2123527983172551056
 
-## 2026-11-18 23:07 UTC · ответ
+## 2026-11-19 21:25 UTC · ответ
 
-@Route2FI Very easy to see why 'van life' has become so popular man... 
+@retardsgonnawin Epic frog art ser :)
 
-If I was 24 and single I'd totally do it rather than the 'normal' path of some office job and overpriced apartment...
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 30  
+https://x.com/rektdiomedes/status/2123528071802442055
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 507  
-https://x.com/rektdiomedes/status/2123191482597392678
+## 2026-11-19 21:26 UTC · ответ
 
-## 2026-11-18 23:08 UTC · репост
+@safetyth1rd Nice... if I read it I'll hit you up with my thoughts :)
 
-RT @lampropeltis_: Today's FOMC minutes gave traders hoping for a softer Fed little to work with 🏦
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 68  
+https://x.com/rektdiomedes/status/2123528324236575023
 
-A December hike was already widely expe…
+## 2026-11-19 21:27 UTC · ответ
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 859  
-https://x.com/rektdiomedes/status/2123191541749465479
-
-## 2026-11-18 23:08 UTC · ответ
-
-@lampropeltis_ @FX100Perp Lezgo Lampro 💪
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 41  
-https://x.com/rektdiomedes/status/2123191582992302416
-
-## 2026-11-18 23:09 UTC · репост
-
-RT @Only1temmy: i think one of the coolest things about crypto is that missing one opportunity doesn't mean you've missed your chance.
-
-you…
-
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 738  
-https://x.com/rektdiomedes/status/2123191968414966048
-
-## 2026-11-18 23:10 UTC · ответ
-
-@Only1temmy Amen to that man :)
-
-And yup, honestly think the best thing one can do in periods like this is just really keep one's eyes peeled for the 'next big thing' that's about to explode...
-
-The next $HYPE, the next friendtech, the next DFK, the next $OHM, etc...
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 68  
-https://x.com/rektdiomedes/status/2123192155967737970
-
-## 2026-11-18 23:10 UTC · ответ
-
-@zariat You are rapidly becoming my favorite food blogger ser :)
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 51  
-https://x.com/rektdiomedes/status/2123192266139287901
-
-## 2026-11-18 23:13 UTC · ответ
-
-@joshthedoyen Glad to be mutuals with you ser :)
+@richardnhsu Based - love it man 🤝
 
 ❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 33  
-https://x.com/rektdiomedes/status/2123192919003705462
+https://x.com/rektdiomedes/status/2123528495837892675
 
-## 2026-11-18 23:13 UTC · репост
+## 2026-11-19 21:27 UTC · ответ
 
-RT @0xSalazar: Breaking news from yesterday 
-
-- Solana Foundation bought a majority stake in CoinGecko
-
-- Hong Kong and SWIFT are testing t…
-
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 718  
-https://x.com/rektdiomedes/status/2123193010309795895
-
-## 2026-11-18 23:14 UTC · ответ
-
-@0xSalazar CoinGecko story quite wholesome... glad those guys got a nice exit in the end 🤝
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 84  
-https://x.com/rektdiomedes/status/2123193077443551341
-
-## 2026-11-18 23:14 UTC · ответ
-
-@0xTindorr Yup, especially in the next few years with AI making everything so fluid/chaotic, I think keeping expenses low is the wisest thing any of us can do...
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 118  
-https://x.com/rektdiomedes/status/2123193272071844219
-
-## 2026-11-18 23:15 UTC · ответ
-
-@patfscott https://t.co/t2GRQqmCFz
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 163  
-https://x.com/rektdiomedes/status/2123193370952781885
-
-## 2026-11-18 23:19 UTC · ответ
-
-@patfscott Killing it man 🤝
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 127  
-https://x.com/rektdiomedes/status/2123194418551279765
-
-## 2026-11-18 23:20 UTC · ответ
-
-@Usoppu Wholesome brother 🤝
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 69  
-https://x.com/rektdiomedes/status/2123194657324839078
-
-## 2026-11-18 23:22 UTC · ответ
-
-@hooeem Think they're all good but the nose looks kind of weird on Yes A... 
-
-But yeah 30 is basically like age 21 nowadays man, you can still use any PFP you want in my book :)
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 72  
-https://x.com/rektdiomedes/status/2123195285069562183
-
-## 2026-11-18 23:23 UTC · ответ
-
-@hooeem Anyway man I basically just picture you as a twenty-something version of this :) https://t.co/zFE2LiOKxf
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 123  
-https://x.com/rektdiomedes/status/2123195475155116297
-
-## 2026-11-18 23:24 UTC · ответ
-
-@MetaCvx 💪
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 46  
-https://x.com/rektdiomedes/status/2123195588040941679
-
-## 2026-11-18 23:24 UTC · ответ
-
-@Ceazor7 Lezgo Ceazor 💪
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 58  
-https://x.com/rektdiomedes/status/2123195713181868150
-
-## 2026-11-18 23:25 UTC · ответ
-
-@crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol Gm :) https://t.co/WrhIs1KU6G
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 162  
-https://x.com/rektdiomedes/status/2123195934708580846
-
-## 2026-11-18 23:27 UTC · ответ
-
-@patfscott Yeah the grinding middle tends to be the worst case scenario in all realms to my mind... both economic and political and etc...
-
-Like I either want prosperity or acceleration... but the slow boiling of the frog is what we most want to avoid...
-
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 343  
-https://x.com/rektdiomedes/status/2123196461714375166
-
-## 2026-11-18 23:29 UTC · цитата
-
-@Usoppu We highlight all the sub-10k accounts we include in the tweets for @thedailydegenhq - lot of gems to be found there imho :)
-
-For instance @Meta_Mark_ today:
-
-https://t.co/6YHauHUdqd
-
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 74  
-https://x.com/rektdiomedes/status/2123196938019619017
-
-## 2026-11-18 23:32 UTC · ответ
-
-@DeFi_Dad It seems to be some political thing man... who knows the actual reasoning or backstory but it seems like some segment of the government or Trump admin tried to push him out... is really weird...
-
-Lot of weird political/economic stuff going on right now actually... Federal Reserve
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 115  
-https://x.com/rektdiomedes/status/2123197682860618175
-
-## 2026-11-18 23:36 UTC · ответ
-
-@ratwell Think its the whole 'front porch to backyard' phenomenon... we have spent the last 60 years destroying society and making it more and more low-trust and less and less cohesive, forcing people to turn inward, and destroyed third places in the process... 
-
-They still exist today
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 176  
-https://x.com/rektdiomedes/status/2123198696917504360
-
-## 2026-11-18 23:37 UTC · ответ
-
-@palis Honestly almost feels more bleak now than it did in 2022 or 2023...
-
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 172  
-https://x.com/rektdiomedes/status/2123198831793770673
-
-## 2026-11-18 23:37 UTC · ответ
-
-@crypto_linn @palis This
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 108  
-https://x.com/rektdiomedes/status/2123198862836027892
-
-## 2026-11-18 23:38 UTC · ответ
-
-@protocol_fx 🤝
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 73  
-https://x.com/rektdiomedes/status/2123199250540404835
-
-## 2026-11-18 23:40 UTC · ответ
-
-@thedefivillain Dude... pretty sure $ETH is higher vs ATH than silver is... is wild...
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 150  
-https://x.com/rektdiomedes/status/2123199669907960039
-
-## 2026-11-18 23:41 UTC · репост
-
-RT @AnonNgmi: Chill hike amazing views https://t.co/6mENL5Whi2
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 885  
-https://x.com/rektdiomedes/status/2123199890649944292
-
-## 2026-11-18 23:41 UTC · ответ
-
-@AnonNgmi Beautiful man - love it 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 51  
-https://x.com/rektdiomedes/status/2123199931133432224
-
-## 2026-11-18 23:43 UTC · ответ
-
-@thegreatdane269 My beloved foid and I 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 57  
-https://x.com/rektdiomedes/status/2123200493937635405
-
-## 2026-11-18 23:44 UTC · ответ
-
-@inversebrah https://t.co/X7DPZ5xtEZ
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 175  
-https://x.com/rektdiomedes/status/2123200645029044269
-
-## 2026-11-19 02:45 UTC · пост
-
---- 5 Things To Focus On In The Coming '5 Year Bear Market' ---
-
-Alright lads... let's say this bear market is the 'new normal'- as I keep seeing on the TL- and we really do have five brutal years ahead of us...
-
-Here's five things I'd do as a result:
-
-1) Get your expenses as low https://t.co/duwBOEGufm
-
-❤ 102 · 🔁 22 · 💬 36 · цитат 4 · просмотров 5157  
-https://x.com/rektdiomedes/status/2123246262765932974
-
-## 2026-11-19 03:28 UTC · ответ
-
-@CryptMoose_ I sincerely hope not my dear Moose :)
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 67  
-https://x.com/rektdiomedes/status/2123257140379050374
-
-## 2026-11-19 03:29 UTC · ответ
-
-@0xCheeezzyyyy 👑🧀
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 74  
-https://x.com/rektdiomedes/status/2123257222276759888
-
-## 2026-11-19 03:29 UTC · ответ
-
-@kenodnb Thank you Keno - I hope not either :)
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 73  
-https://x.com/rektdiomedes/status/2123257292334260633
-
-## 2026-11-19 03:29 UTC · ответ
-
-@0xalank :) https://t.co/szRV1cjrTA
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 50  
-https://x.com/rektdiomedes/status/2123257421426577851
-
-## 2026-11-19 03:30 UTC · репост
-
-RT @QuotableCrypto: 💪🏻 5-point permabulltard bear market blueprint linked below, courtesy of the mighty @rektdiomedes ... https://t.co/Wm97…
-
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 680  
-https://x.com/rektdiomedes/status/2123257488107766184
-
-## 2026-11-19 03:30 UTC · ответ
-
-@QuotableCrypto Forgot #7... 
-
-Follow @QuotableCrypto 
-
-:)
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 48  
-https://x.com/rektdiomedes/status/2123257623558418790
-
-## 2026-11-19 03:31 UTC · ответ
-
-@pravijn Lol ha! Best compliment I've received in a long time ser 🤝
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 40  
-https://x.com/rektdiomedes/status/2123257922444525703
-
-## 2026-11-19 03:31 UTC · репост
-
-RT @pravijn: every day this app gives me existential dread and anxiety and rektdiomedes calms me down
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 785  
-https://x.com/rektdiomedes/status/2123257931588071543
-
-## 2026-11-19 04:00 UTC · репост
-
-RT @richardnhsu: Great read imo.
-
-Expense control is huge for investors/builders.
-
-Allows us to build wealth and take more calculated risk…
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 674  
-https://x.com/rektdiomedes/status/2123265063805161611
-
-## 2026-11-19 04:00 UTC · ответ
-
-@richardnhsu 100% man and thank you🤝
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 39  
-https://x.com/rektdiomedes/status/2123265141449896263
-
-## 2026-11-19 04:00 UTC · репост
-
-RT @Ceazor7: WHolesome goodness. sound advice.
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 696  
-https://x.com/rektdiomedes/status/2123265202229760179
-
-## 2026-11-19 04:00 UTC · ответ
-
-@Ceazor7 #7 paint lead figures :)
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 69  
-https://x.com/rektdiomedes/status/2123265229026984336
-
-## 2026-11-19 04:03 UTC · ответ
-
-@phtevenstrong MEZZ-MAXXING 💪💪💪
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 110  
-https://x.com/rektdiomedes/status/2123265886807277784
-
-## 2026-11-19 04:04 UTC · ответ
-
-@koolkrypto223 Feel like the Fed has just absolutely gone off a credibility cliff man... totally illogical, totally politicized... not sure what that will mean long-term but probably the whole thing just gets more and more banana republic-ish...
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 121  
-https://x.com/rektdiomedes/status/2123266261476159801
-
-## 2026-11-19 04:05 UTC · ответ
-
-@Casebradford Tolkien wrote about this :)
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 96  
-https://x.com/rektdiomedes/status/2123266350043087356
-
-## 2026-11-19 04:06 UTC · ответ
-
-@failuredril556 Yup... everyone fantasizes about the metaphorical zombie apocalypse descending upon us all at once, but a slow slog to Brazillification is much more likely I think...
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 69  
-https://x.com/rektdiomedes/status/2123266642973196394
-
-## 2026-11-19 04:07 UTC · ответ
-
-@Axel_bitblaze69 🤝 https://t.co/qKs8gP0fMC
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 52  
-https://x.com/rektdiomedes/status/2123266822615056798
-
-## 2026-11-19 04:08 UTC · ответ
-
-@FX100Perp Bearish on the Fed. 
-
-Bullish on @FX100Perp 💪
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 45  
-https://x.com/rektdiomedes/status/2123267137397486054
-
-## 2026-11-19 04:10 UTC · ответ
-
-@arndxt_xo I am trying to force myself to slurp the dippereeno 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 48  
-https://x.com/rektdiomedes/status/2123267527291588690
-
-## 2026-11-19 04:11 UTC · репост
-
-RT @Defi_Warhol: Anthropic $ANT is set to be the biggest AI IPO ever.
-
-Expecting to see record participation numbers.
-
-$1.4T is a crazy val…
-
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 650  
-https://x.com/rektdiomedes/status/2123267892875518095
-
-## 2026-11-19 04:11 UTC · ответ
-
-@Defi_Warhol Gud stuff man 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 45  
-https://x.com/rektdiomedes/status/2123267954674737483
-
-## 2026-11-19 04:12 UTC · репост
-
-RT @andrewmoh: since the official launch of @aave v3 on @Mantle_Official, only syrupUSDT leaves a mark.
-
-yield-bearing stablecoins have bee…
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 667  
-https://x.com/rektdiomedes/status/2123268166188954019
-
-## 2026-11-19 04:12 UTC · ответ
-
-@andrewmoh @aave @Mantle_Official Gud stuff man - Mantle been absolutely killing it on the RWA front 🤝
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 71  
-https://x.com/rektdiomedes/status/2123268232110911640
-
-## 2026-11-19 04:37 UTC · ответ
-
-@Xeer Exquites river ser 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 39  
-https://x.com/rektdiomedes/status/2123274523638182053
-
-## 2026-11-19 04:38 UTC · цитата
-
-@koreanjewcrypto Seriously bro 🤝
-
-https://t.co/5JhxeqQX3R
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 360  
-https://x.com/rektdiomedes/status/2123274792547889362
-
-## 2026-11-19 04:39 UTC · ответ
-
-@Stoiiic https://t.co/FlfWs4dMsa
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 174  
-https://x.com/rektdiomedes/status/2123274933014855876
-
-## 2026-11-19 04:40 UTC · ответ
-
-@defidave Ahhh - hadn't seen you post about this before, this is genius man...
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 46  
-https://x.com/rektdiomedes/status/2123275262267621670
-
-## 2026-11-19 06:14 UTC · ответ
-
-@crypto_linn Ruthless creatures those linncats... https://t.co/aMEdqsrz7L
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 108  
-https://x.com/rektdiomedes/status/2123298974073565373
-
-## 2026-11-19 07:10 UTC · ответ
-
-@crypto_linn Gud project that Pendle 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 64  
-https://x.com/rektdiomedes/status/2123313013809709088
-
-## 2026-11-19 07:11 UTC · ответ
-
-@llamaonthebrink Gud stuff 🤝
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 32  
-https://x.com/rektdiomedes/status/2123313227119690228
-
-## 2026-11-19 07:12 UTC · ответ
-
-@richardnhsu Is this you in the video ser?
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 35  
-https://x.com/rektdiomedes/status/2123313456820392355
-
-## 2026-11-19 07:13 UTC · ответ
-
-@0xWenMoon :)
+@heysnberg 🤝
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 27  
-https://x.com/rektdiomedes/status/2123313685099839763
+https://x.com/rektdiomedes/status/2123528606114623984
 
-## 2026-11-19 07:14 UTC · ответ
+## 2026-11-19 21:28 UTC · ответ
 
-@safetyth1rd Strangely enough I've never read the book or seen the movie... which is odd given that I'm a big fan of stuff like LOTR and Star Wars and etc that overlap with Dune fandom a lot...
+@0xadriandefi Idk man... great question... its easy to find new stuff to geek out on but figuring out when to really double down and invest time/money into it is the tricky part...
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 47  
-https://x.com/rektdiomedes/status/2123314027912712552
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 42  
+https://x.com/rektdiomedes/status/2123528888861241725
 
-## 2026-11-19 07:15 UTC · ответ
+## 2026-11-19 21:30 UTC · ответ
 
-@200milxp Milady
+@Stoiiic I would postulate that we need the coins to go up in price 🤝
+
+Also lots of good power images and quotes from @Stoiiic :)
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 96  
+https://x.com/rektdiomedes/status/2123529477074407870
+
+## 2026-11-19 21:31 UTC · ответ
+
+@Ceazor7 Love it :)
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 48  
+https://x.com/rektdiomedes/status/2123529583114760221
+
+## 2026-11-19 21:32 UTC · ответ
+
+@Ceazor7 @ratwell What is that?
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 59  
+https://x.com/rektdiomedes/status/2123529887432708105
+
+## 2026-11-19 21:33 UTC · ответ
+
+@palis Yeah that period was easier to reconcile I think because the whole world was against us and we were still in the midst of the storm...
+
+Now the price action is the same despite the fundamentals improving so much, which is what makes it harder to deal with I think...
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 49  
+https://x.com/rektdiomedes/status/2123530228295241961
+
+## 2026-11-19 21:34 UTC · ответ
+
+@hooeem 🫂
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 103  
+https://x.com/rektdiomedes/status/2123530375096041538
+
+## 2026-11-20 04:05 UTC · пост
+
+'Rekt, what are your thoughts on video games?'
+
+Its an interesting question...
+
+I used to be one of those self-improvement nuts that would hate on gaming...
+
+HOWEVER... I started to geek out on chess again and began playing on chess(dot)com, and realized that that is basically https://t.co/1knLP3tQiV
+
+❤ 53 · 🔁 2 · 💬 16 · цитат 1 · просмотров 2327  
+https://x.com/rektdiomedes/status/2123628663014834265
+
+## 2026-11-20 04:40 UTC · ответ
+
+@Taobrah Let's get it brother 🤝 https://t.co/Vf4HlrKP5H
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 29  
+https://x.com/rektdiomedes/status/2123637524530917750
+
+## 2026-11-20 04:40 UTC · ответ
+
+@FIREDxyz Fascinating... am aware of it but have never played it 🤝
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 37  
+https://x.com/rektdiomedes/status/2123637696983969949
+
+## 2026-11-20 04:42 UTC · ответ
+
+@AllThingsETH Idk honestly... I only play the bots not real people, but I typically play the 1600 level one, usually about 50/50 with her, better if I concentrate hard... highest I've ever beat (once) was 2000... but that'd be like a less than 1% of time outcome at 2000 for sure...
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 27  
+https://x.com/rektdiomedes/status/2123638060680151101
+
+## 2026-11-20 04:42 UTC · ответ
+
+@0xAvseenko I like it ngl :)
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 26  
+https://x.com/rektdiomedes/status/2123638146826993810
+
+## 2026-11-20 04:47 UTC · ответ
+
+@paulsaladinomd I have a waterfront house for the first time in my life and I would not trade it for a non-waterfront one 4x more expensive... 
+
+Its the highest quality of life upgrade I've ever had... I love it...
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 51  
+https://x.com/rektdiomedes/status/2123639379294027905
+
+## 2026-11-20 04:49 UTC · цитата
+
+@paulsaladinomd Tis an interesting and nuanced question my dear Sally D...
+
+Here's my thoughts on it: 
+
+https://t.co/XPKyg3PJbC
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 36  
+https://x.com/rektdiomedes/status/2123639942932996173
+
+## 2026-11-20 04:50 UTC · ответ
+
+@crypto_linn @boros_fi @pendle_fi @Chainflip @mezzanine_fi @Mantle_Official @StaticsProtocol Gm gm Linn 💪
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 122  
+https://x.com/rektdiomedes/status/2123640034683134229
+
+## 2026-11-20 04:52 UTC · ответ
+
+@0xadriandefi Gud stuff as always my bro 💪
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 33  
+https://x.com/rektdiomedes/status/2123640485117825522
+
+## 2026-11-20 04:53 UTC · репост
+
+RT @WovenDissent: Frens encourage frens to lift 💪
+
+Doesn’t matter what your portfolio is doing if you’re fat https://t.co/zddi5wXXqd
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 684  
+https://x.com/rektdiomedes/status/2123640775250419987
+
+## 2026-11-20 04:53 UTC · ответ
+
+@WovenDissent Beastly fuqn arms gud lord man 🤝
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 20  
-https://x.com/rektdiomedes/status/2123314180396577159
+https://x.com/rektdiomedes/status/2123640844762653132
 
-## 2026-11-19 07:16 UTC · ответ
+## 2026-11-20 04:53 UTC · репост
 
-@SCHIZO_FREQ 5 hours man? I'd sleep like crazy...
+RT @QuotableCrypto: 🔘 This.
+🔘 All. 
+🔘 Day.
+🔘 @Usoppu https://t.co/XOIH7HtoeB
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 34  
-https://x.com/rektdiomedes/status/2123314524405288974
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 747  
+https://x.com/rektdiomedes/status/2123640882884993507
 
-## 2026-11-19 07:20 UTC · ответ
+## 2026-11-20 04:53 UTC · ответ
 
-@tervoooo I want my dead alts to ressurect like vampires from the grave and ascend upward with overwhelming haste 🤝 https://t.co/fiijCjk6qA
+@QuotableCrypto @Usoppu NICE. We like the Usoppu 🤝
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
-https://x.com/rektdiomedes/status/2123315405523657089
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 36  
+https://x.com/rektdiomedes/status/2123640943572385847
 
-## 2026-11-19 07:22 UTC · ответ
+## 2026-11-20 04:54 UTC · ответ
 
-@bright_125 S-Tier AI video slop ngl... watched it twice all the way through :)
+@0xSalazar Fascerdating man... feel like we have a bit of a BSC comeback/renaissance going on :)
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/rektdiomedes/status/2123315874144919657
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 66  
+https://x.com/rektdiomedes/status/2123641152742277259
 
-## 2026-11-19 07:23 UTC · ответ
+## 2026-11-20 04:55 UTC · ответ
 
-@inversebrah We need a firm bottom frok... https://t.co/mEEcwRrsUV
+@hooeem Imagine not rabbit hole maxxing...
+
+Imagine not lifting... 
+
+Imagine not steps-maxxing... 
+
+Smh...
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 104  
+https://x.com/rektdiomedes/status/2123641308325855372
+
+## 2026-11-20 04:55 UTC · ответ
+
+@richardnhsu Interesting... very gud stuff bro 🤝
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 43  
+https://x.com/rektdiomedes/status/2123641422364745919
+
+## 2026-11-20 04:57 UTC · ответ
+
+@GuigsLuke My man @noahseidman got a treadmill desk and started hitting 20-30k+ steps per day... 
+
+Is an incredible invention...
+
+I don't have one myself (standing desk though) but is probably a great investment...
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 74  
+https://x.com/rektdiomedes/status/2123641842411659277
+
+## 2026-11-20 04:58 UTC · ответ
+
+@Ceazor7 Bruh you already got snow? Are you in the dagnam Arctic circle? Wild...
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 64  
+https://x.com/rektdiomedes/status/2123642019931213940
+
+## 2026-11-20 05:00 UTC · ответ
+
+@failuredril556 'Nation of Deseret' https://t.co/yX4kUCZdLu
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 24  
+https://x.com/rektdiomedes/status/2123642651421618605
+
+## 2026-11-20 05:02 UTC · репост
+
+RT @MetaCvx: 👀 https://t.co/ERNXg1JtDN
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 730  
+https://x.com/rektdiomedes/status/2123643168419893320
+
+## 2026-11-20 05:03 UTC · ответ
+
+@MetaCvx We like the @FX100Perp 🤝
+
+We like the 90's film references 🤝
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 20  
+https://x.com/rektdiomedes/status/2123643284426035660
+
+## 2026-11-20 05:03 UTC · ответ
+
+@knveth Based... were you spearfishing or just free diving or?
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 117  
+https://x.com/rektdiomedes/status/2123643472804815195
+
+## 2026-11-20 05:04 UTC · ответ
+
+@DeFi_Dad @edge_pod Great work gents! Excited to listen to this 🤝
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 95  
+https://x.com/rektdiomedes/status/2123643591176405019
+
+## 2026-11-20 05:05 UTC · ответ
+
+@AnonNgmi Just imagine being some cat burglar or spy or something running across those rooftops 200 years ago :)
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 93  
+https://x.com/rektdiomedes/status/2123643810093862999
+
+## 2026-11-20 05:07 UTC · ответ
+
+@inversebrah When I was a kid (like 7-8) years old, I remember I was having a horrible time at school... and I would just cry and cry and cry and ball my eyes out sometimes... like uncontrollable crying that only a little kid can do... and my cat Gray would run into the room and just nuzzle
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 212  
+https://x.com/rektdiomedes/status/2123644484248391766
+
+## 2026-11-20 05:14 UTC · ответ
+
+@Nuel_fxt @protocol_fx Side effects can include insanely exquisite yield generation, excessive basedness, uncontrollable libido, and general gigachadism 🤝 https://t.co/DFcKAPvPG7
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 26  
+https://x.com/rektdiomedes/status/2123646128352837895
+
+## 2026-11-20 05:15 UTC · ответ
+
+@molesy39 Love it man - gud for ya'll 🤝
+
+My parents took me with them travelling all over the world when I was a little kid and I'm incredibly grateful for it in retrospect... I'm sure your son will be too :)
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 40  
+https://x.com/rektdiomedes/status/2123646467479052305
+
+## 2026-11-20 05:19 UTC · репост
+
+RT @Ceazor7: Thinking deeper about Crypto https://t.co/SYjrv0iGDZ
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 650  
+https://x.com/rektdiomedes/status/2123647464443945003
+
+## 2026-11-20 05:20 UTC · ответ
+
+@Ceazor7 Great stuff man - enjoyed your Epicurus one especially 🤝
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 48  
+https://x.com/rektdiomedes/status/2123647565027586474
+
+## 2026-11-20 05:20 UTC · ответ
+
+@zariat Lol seriously
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 44  
+https://x.com/rektdiomedes/status/2123647654936682794
+
+## 2026-11-20 05:20 UTC · репост
+
+RT @zariat: and they told us the metaverse was a failed concept.
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 709  
+https://x.com/rektdiomedes/status/2123647670640357829
+
+## 2026-11-20 05:22 UTC · ответ
+
+@celestineia It definitely feels momentous I agree... though that's not quite the right word... 'portentious' maybe? Idk...
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 28  
-https://x.com/rektdiomedes/status/2123316230526230891
+https://x.com/rektdiomedes/status/2123648091953709175
 
-## 2026-11-19 07:24 UTC · ответ
+## 2026-11-20 05:23 UTC · ответ
 
-@Ceazor7 First project we ever worked with via @thedailydegenhq - have a soft spot for them too :)
+@Oleg0x9 Glad to be on here ser 🤝
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 23  
-https://x.com/rektdiomedes/status/2123316358733525463
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
+https://x.com/rektdiomedes/status/2123648324385354062
 
-## 2026-11-19 07:25 UTC · ответ
+## 2026-11-20 05:23 UTC · репост
 
-@Eli5defi I think they should have gone with $ANTH or $THROP or something :)
+RT @crypto_linn: Once again Crypto has shown how much of a utility tokenized stocks are
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/rektdiomedes/status/2123316647440072800
+No broker needed, anyone, worldwide has access to…
 
-## 2026-11-19 07:27 UTC · ответ
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 516  
+https://x.com/rektdiomedes/status/2123648467037790587
 
-@retardsgonnawin Gm RGW 🤝
+## 2026-11-20 05:23 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
-https://x.com/rektdiomedes/status/2123317194457260089
+@crypto_linn @Mantle_Official @xStocksFi We like ze Mantle 💪
 
-## 2026-11-19 07:28 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 102  
+https://x.com/rektdiomedes/status/2123648520632901730
 
-@OldHollowTree Heck of a meadow ser 🤝
+## 2026-11-20 05:25 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/rektdiomedes/status/2123317525006200910
+@Route2FI Yup. Is interesting too in that I have friends in their 20's where I can see them debating this in their head in real time. 
+
+Like there's some internal battle going on between the rabbit hole(s) they want to go down vs their current job and their fear of society judging them.
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 170  
+https://x.com/rektdiomedes/status/2123648943464784205
+
+## 2026-11-20 05:27 UTC · ответ
+
+@Zeneca 'Tell me something that AI wouldn't...'
+
+The ultimate NPC test :)
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 74  
+https://x.com/rektdiomedes/status/2123649449616396377
+
+## 2026-11-20 05:28 UTC · ответ
+
+@heart_ Would
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 50  
+https://x.com/rektdiomedes/status/2123649597562408992
+
+## 2026-11-20 05:30 UTC · ответ
+
+@200milxp https://t.co/ViNECTIV0A
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 29  
+https://x.com/rektdiomedes/status/2123650075461357775
+
+## 2026-11-20 05:30 UTC · ответ
+
+@patfscott Straight mogging on us man... I gotta up my AI game!
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 117  
+https://x.com/rektdiomedes/status/2123650232147747193
+
+## 2026-11-20 05:31 UTC · ответ
+
+@FX100Perp Exquisite gents 🤝
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 29  
+https://x.com/rektdiomedes/status/2123650306764685764

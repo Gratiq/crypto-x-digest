@@ -1,63 +1,102 @@
-# @bon_g — посты за 2026-11-19
+# @bon_g — посты за 2026-11-20
 
-Всего: 8
+Всего: 13
 
-## 2026-11-18 16:23 UTC · пост
+## 2026-11-19 11:04 UTC · пост
 
-there were 100+ dacitycoin and everyone was praying to god they bought the chosen one
+Lyon win in the women’s champions league today
 
-yes that was literally the entire strategy
+20 goals in 3 games and they’re unbeatable https://t.co/8gCRdyBxR9
 
-❤ 64 · 🔁 5 · 💬 24 · цитат 0 · просмотров 1661  
-https://x.com/bon_g/status/2123089716237255075
+❤ 80 · 🔁 13 · 💬 50 · цитат 0 · просмотров 3931  
+https://x.com/bon_g/status/2123371928203448741
 
-## 2026-11-18 16:27 UTC · ответ
+## 2026-11-19 18:05 UTC · цитата
 
-@hkittycoin https://t.co/m7aoHOmNjQ
+kim minus the chi https://t.co/DnPTwxwB8p https://t.co/oLHQj3gsdy
 
-❤ 5 · 🔁 1 · 💬 2 · цитат 1 · просмотров 287  
-https://x.com/bon_g/status/2123090682768450041
+❤ 58 · 🔁 6 · 💬 23 · цитат 0 · просмотров 1520  
+https://x.com/bon_g/status/2123477773230514220
 
-## 2026-11-18 17:34 UTC · ответ
+## 2026-11-19 20:31 UTC · ответ
 
-@a1lon9 huh
+@TomTummetott aura final boss
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 121  
-https://x.com/bon_g/status/2123107621813276929
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 57  
+https://x.com/bon_g/status/2123514521037963411
 
-## 2026-11-18 21:32 UTC · пост
+## 2026-11-19 21:26 UTC · пост
 
-who would you pick?
+next moodeng just spawned
 
-Lucia or Mandy https://t.co/PYwbPAM5gh
+❤ 63 · 🔁 6 · 💬 30 · цитат 0 · просмотров 1817  
+https://x.com/bon_g/status/2123528400501354733
 
-❤ 61 · 🔁 10 · 💬 25 · цитат 0 · просмотров 2684  
-https://x.com/bon_g/status/2123167542369734863
+## 2026-11-19 21:32 UTC · ответ
 
-## 2026-11-18 21:35 UTC · ответ
+@Sol_dium RIP
 
-@luckygambles_ first
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 197  
+https://x.com/bon_g/status/2123529813399093592
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 113  
-https://x.com/bon_g/status/2123168174824698319
+## 2026-11-19 21:33 UTC · ответ
 
-## 2026-11-18 21:36 UTC · ответ
+@DeluluCalls fiona the hippo launched 2d ago
 
-@grod_gg 😋
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 253  
+https://x.com/bon_g/status/2123530147802366345
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 119  
-https://x.com/bon_g/status/2123168421420703781
+## 2026-11-19 22:04 UTC · ответ
 
-## 2026-11-18 22:36 UTC · ответ
+@Trent0n513 @ReedyRancher @CincinnatiZoo hahahaha ok bro now you’re gonna turn this into a memecoin and we’ll all act like it’s something special
 
-@Tukytuky_ wow
+❤ 0 · 🔁 0 · 💬 2 · цитат 0 · просмотров 441  
+https://x.com/bon_g/status/2123537841762292127
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 65  
-https://x.com/bon_g/status/2123183468783735144
+## 2026-11-19 22:05 UTC · ответ
 
-## 2026-11-18 22:43 UTC · пост
+@JDefi21_ solana:B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump
 
-I can’t buy this coin because someone I don’t like on the internet is one of the top holders
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 104  
+https://x.com/bon_g/status/2123538107626582179
 
-❤ 64 · 🔁 2 · 💬 24 · цитат 0 · просмотров 1452  
-https://x.com/bon_g/status/2123185403960098935
+## 2026-11-19 22:10 UTC · ответ
+
+@CincinnatiZoo RIP 🤍
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 409  
+https://x.com/bon_g/status/2123539372981026870
+
+## 2026-11-19 22:19 UTC · ответ
+
+@PumpfunEco 9figs
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 233  
+https://x.com/bon_g/status/2123541739172442464
+
+## 2026-11-19 23:13 UTC · пост
+
+been trading on pump fun for the past 3-4 days
+
+wasn’t very active there before but figured i’d give it a shot for a while
+
+had a few decent Xs so far market isn’t great but feel free to follow along
+
+https://t.co/UT06BvPYrj https://t.co/NYVCCQDi1u
+
+❤ 81 · 🔁 10 · 💬 58 · цитат 0 · просмотров 4725  
+https://x.com/bon_g/status/2123555323252212046
+
+## 2026-11-19 23:24 UTC · ответ
+
+@Cryptoshi_Calls mihao
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 154  
+https://x.com/bon_g/status/2123558065106555180
+
+## 2026-11-20 00:15 UTC · ответ
+
+@VinnetteP someone made a profit $500+
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 82  
+https://x.com/bon_g/status/2123570880940789844

@@ -1,45 +1,51 @@
-# @tarunchitra — посты за 2026-11-19
+# @tarunchitra — посты за 2026-11-20
 
-Всего: 5
+Всего: 6
 
-## 2026-11-18 07:42 UTC · ответ
+## 2026-11-19 19:18 UTC · пост
 
-@Lsquaredleland @sunnya97 @zkDragon @CalBlockchain Slower than others, yet the same direction
+Well, @NousResearch didn’t tweet about this but this is big! https://t.co/wSeIlQka32
 
-❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 190  
-https://x.com/tarunchitra/status/2122958530827444225
+❤ 161 · 🔁 15 · 💬 17 · цитат 1 · просмотров 11992  
+https://x.com/tarunchitra/status/2123496112401346942
 
-## 2026-11-18 17:23 UTC · репост
+## 2026-11-19 21:01 UTC · репост
 
-RT @gauntlet_xyz: xStocks and xBTC are now collateral on @Morpho, and Gauntlet's USDC vault on @XLayerOfficial supplies to those markets.…
+RT @Shaughnessy119: Today @NousResearch partnered with @Microsoft to bring Hermes agent to all enterprise users
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 327  
-https://x.com/tarunchitra/status/2123104850787680667
+Own your intelligence and…
 
-## 2026-11-18 17:23 UTC · репост
+❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 330  
+https://x.com/tarunchitra/status/2123522010571747691
 
-RT @gauntlet_xyz: Now live on @XLayerOfficial 
+## 2026-11-19 22:00 UTC · репост
 
-Gauntlet USDC Earn supplies USDC to @Morpho markets for xBTC and @xStocksFi, right inside O…
+RT @NousResearch: We've partnered with @Microsoft to bring Hermes Agent to the enterprise.
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 348  
-https://x.com/tarunchitra/status/2123104902167904265
+Hermes Enterprise now works inside Microsoft Te…
 
-## 2026-11-18 17:26 UTC · репост
+❤ 0 · 🔁 586 · 💬 0 · цитат 0 · просмотров 321  
+https://x.com/tarunchitra/status/2123536910924841011
 
-RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.
+## 2026-11-19 22:19 UTC · репост
 
-Special episode feat. @Joshua_J_Lim!
+RT @Alibaba_Qwen: Try Qwen4-Max on Nous Portal and show us your creations. 🔥 @NousResearch @inferact 🫶
 
-Timestamps
-00:00 Intro…
+❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 348  
+https://x.com/tarunchitra/status/2123541818151440645
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 387  
-https://x.com/tarunchitra/status/2123105697361691102
+## 2026-11-19 22:44 UTC · репост
 
-## 2026-11-19 06:37 UTC · цитата
+RT @HermesWatcher: 🚨 BREAKING: HERMES IS GETTING HOSTED ARTIFACTS.
 
-Tatsu crushing by quizzing everyone in a world of nonsense hype videos is really inspiring https://t.co/NEjBkKdnKr
+Ask Hermes for a page, a diagram or a document, and it should come back…
 
-❤ 5 · 🔁 0 · 💬 5 · цитат 0 · просмотров 855  
-https://x.com/tarunchitra/status/2123304686472380853
+❤ 0 · 🔁 25 · 💬 0 · цитат 0 · просмотров 356  
+https://x.com/tarunchitra/status/2123547922193424891
+
+## 2026-11-20 00:44 UTC · репост
+
+RT @sreeramkannan: TLDR Darkbloom is building the airbnb for compute with the goal to become a protocol: the largest data center that owns…
+
+❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 322  
+https://x.com/tarunchitra/status/2123578298592813167

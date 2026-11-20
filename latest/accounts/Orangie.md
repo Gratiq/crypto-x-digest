@@ -1,70 +1,31 @@
-# @Orangie — посты за 2026-11-19
+# @Orangie — посты за 2026-11-20
 
-Всего: 9
+Всего: 4
 
-## 2026-11-18 17:15 UTC · пост
+## 2026-11-19 17:21 UTC · пост
 
-the most expensive sleep of my life. https://t.co/V1an5WvnYQ
+everyone i know is work from home today 🧐 https://t.co/G9fArKk0Mx
 
-❤ 1996 · 🔁 64 · 💬 466 · цитат 46 · просмотров 233294  
-https://x.com/orangie/status/2123102692994388432
+❤ 215 · 🔁 3 · 💬 71 · цитат 3 · просмотров 18337  
+https://x.com/orangie/status/2123466819885559954
 
-## 2026-11-18 17:27 UTC · ответ
+## 2026-11-19 17:30 UTC · ответ
 
-@CryptoGorilla oof
+@drag0nm4n bro LMFAO this narrative might actually be cursed
 
-❤ 18 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2661  
-https://x.com/orangie/status/2123105837237534736
+❤ 8 · 🔁 0 · 💬 6 · цитат 0 · просмотров 1055  
+https://x.com/orangie/status/2123468886129435087
 
-## 2026-11-18 19:36 UTC · пост
+## 2026-11-19 22:12 UTC · ответ
 
-lots can change in 12 hours 
+@btravisNYC 💯
 
-back to the drawing board 
+❤ 11 · 🔁 0 · 💬 7 · цитат 0 · просмотров 1509  
+https://x.com/orangie/status/2123539919570391549
 
-will be back 🤞🏻 https://t.co/odghmo3JuV
+## 2026-11-20 02:49 UTC · ответ
 
-❤ 655 · 🔁 19 · 💬 145 · цитат 8 · просмотров 62382  
-https://x.com/orangie/status/2123138361606996135
+@soby0x 🤞🏻😢
 
-## 2026-11-18 19:48 UTC · ответ
-
-@volvoshine probably fade vice city night right
-
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1719  
-https://x.com/orangie/status/2123141189125742947
-
-## 2026-11-18 20:09 UTC · ответ
-
-@404flipped out of ammo that I wanna risk
-
-❤ 17 · 🔁 0 · 💬 3 · цитат 0 · просмотров 3617  
-https://x.com/orangie/status/2123146514616996147
-
-## 2026-11-18 20:14 UTC · ответ
-
-@404flipped though if the opportunity is presented I’ll probably depo
-
-❤ 6 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1796  
-https://x.com/orangie/status/2123147791061143649
-
-## 2026-11-18 20:43 UTC · ответ
-
-@drag0nm4n YES
-
-❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1527  
-https://x.com/orangie/status/2123155271292006754
-
-## 2026-11-18 20:46 UTC · ответ
-
-@frizzaud man Miami real estate gonna have to 10x
-
-❤ 25 · 🔁 0 · 💬 6 · цитат 0 · просмотров 2438  
-https://x.com/orangie/status/2123155964618777009
-
-## 2026-11-18 21:20 UTC · ответ
-
-my grok bot texted me https://t.co/6jc1uAu1jh
-
-❤ 33 · 🔁 0 · 💬 18 · цитат 0 · просмотров 5375  
-https://x.com/orangie/status/2123164463444414776
+❤ 12 · 🔁 0 · 💬 6 · цитат 0 · просмотров 1560  
+https://x.com/orangie/status/2123609757521178739

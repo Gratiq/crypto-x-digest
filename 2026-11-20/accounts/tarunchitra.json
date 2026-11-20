@@ -1,0 +1,117 @@
+[
+ {
+  "id": "2123496112401346942",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "original",
+  "created_at": "2026-11-19T19:18:20.000Z",
+  "text": "Well, @NousResearch didn’t tweet about this but this is big! https://t.co/wSeIlQka32",
+  "url": "https://x.com/tarunchitra/status/2123496112401346942",
+  "likes": 161,
+  "retweets": 15,
+  "replies": 17,
+  "quotes": 1,
+  "impressions": 11992,
+  "bookmarks": 47
+ },
+ {
+  "id": "2123522010571747691",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-19T21:01:15.000Z",
+  "text": "RT @Shaughnessy119: Today @NousResearch partnered with @Microsoft to bring Hermes agent to all enterprise users\n\nOwn your intelligence and…",
+  "url": "https://x.com/tarunchitra/status/2123522010571747691",
+  "likes": 0,
+  "retweets": 23,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 330,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123507580068848099",
+   "text": "Today @NousResearch partnered with @Microsoft to bring Hermes agent to all enterprise users\n\nOwn your intelligence and your future \n\nhttps://t.co/0wxASaELYG"
+  }
+ },
+ {
+  "id": "2123536910924841011",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-19T22:00:27.000Z",
+  "text": "RT @NousResearch: We've partnered with @Microsoft to bring Hermes Agent to the enterprise.\n\nHermes Enterprise now works inside Microsoft Te…",
+  "url": "https://x.com/tarunchitra/status/2123536910924841011",
+  "likes": 0,
+  "retweets": 586,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 321,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123535954946257096",
+   "text": "We've partnered with @Microsoft to bring Hermes Agent to the enterprise.\n\nHermes Enterprise now works inside Microsoft Teams, the Microsoft Store and Azure. In Teams, employees hand Hermes work like financial analysis, document drafts or inbox triage, and review the result in the https://t.co/GmO30EcVqN"
+  }
+ },
+ {
+  "id": "2123541818151440645",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-19T22:19:57.000Z",
+  "text": "RT @Alibaba_Qwen: Try Qwen4-Max on Nous Portal and show us your creations. 🔥 @NousResearch @inferact 🫶",
+  "url": "https://x.com/tarunchitra/status/2123541818151440645",
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 348,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123328957022081036",
+   "text": "Try Qwen4-Max on Nous Portal and show us your creations. 🔥 @NousResearch @inferact 🫶 https://t.co/yzYev3Dsru"
+  }
+ },
+ {
+  "id": "2123547922193424891",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-19T22:44:12.000Z",
+  "text": "RT @HermesWatcher: 🚨 BREAKING: HERMES IS GETTING HOSTED ARTIFACTS.\n\nAsk Hermes for a page, a diagram or a document, and it should come back…",
+  "url": "https://x.com/tarunchitra/status/2123547922193424891",
+  "likes": 0,
+  "retweets": 25,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 356,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123189550197694973",
+   "text": "🚨 BREAKING: HERMES IS GETTING HOSTED ARTIFACTS.\n\nAsk Hermes for a page, a diagram or a document, and it should come back as a real link you can share.\n\nHere's what's coming for Nous subscribers:\n\n▸ Hosted by Nous, with a link you can send your team\n▸ Versioned, so Hermes can https://t.co/WUQOZXC2mn"
+  }
+ },
+ {
+  "id": "2123578298592813167",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-20T00:44:55.000Z",
+  "text": "RT @sreeramkannan: TLDR Darkbloom is building the airbnb for compute with the goal to become a protocol: the largest data center that owns…",
+  "url": "https://x.com/tarunchitra/status/2123578298592813167",
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 322,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123547475302912195",
+   "text": "TLDR Darkbloom is building the airbnb for compute with the goal to become a protocol: the largest data center that owns no computers. Once it is protocolized, the revenue will flow back to EIGEN. \n\nYukon is a centralized product for open frontier research built by Eigen Labs. https://t.co/E2fES06u5f"
+  }
+ }
+]

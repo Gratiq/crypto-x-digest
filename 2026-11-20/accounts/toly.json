@@ -1,0 +1,2002 @@
+[
+ {
+  "id": "2123417323830980883",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T14:05:15.000Z",
+  "text": "👑👑👑 https://t.co/lkrKU8tBRu",
+  "url": "https://x.com/toly/status/2123417323830980883",
+  "likes": 90,
+  "retweets": 11,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 23493,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123395700566511948",
+   "text": "Day one $ANT \n\n- stock \n- spot \n- collateral \n- perp \n- token \n\nComing to @Backpack https://t.co/51i0wbzI4Q"
+  }
+ },
+ {
+  "id": "2123417947934957821",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T14:07:44.000Z",
+  "text": "@PiccoGabriele Deleting things was a terrible idea",
+  "url": "https://x.com/toly/status/2123417947934957821",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 2863,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123404242584997968",
+   "text": "Someone guessed it correctly: if you assign an account with 0 lamports to a program, the account will be owned by that program for the duration of the transaction, but the ownership change is silently reverted after execution.\n\nMeaning, if you only check that the program owns the https://t.co/YC8ev1vYrK https://t.co/lWPJ6qMqq0"
+  }
+ },
+ {
+  "id": "2123423015891612066",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T14:27:52.000Z",
+  "text": "RT @SolanaLegend: 90% of derivatives quoting will be via OPAMMs in the near future\n\nThis is simply a 10x better way of quoting vs TradFi",
+  "url": "https://x.com/toly/status/2123423015891612066",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13905,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123394716104552784",
+   "text": "90% of derivatives quoting will be via OPAMMs in the near future\n\nThis is simply a 10x better way of quoting vs TradFi https://t.co/aL0CMHJlX0"
+  }
+ },
+ {
+  "id": "2123424307724562717",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T14:33:00.000Z",
+  "text": "&gt; How about a much worse outcome?  My base case is we get WW2 level devastation.   Meaning 100m+ dead and a continent in disarray for years.  I’d put that at ~60% to happen in the next 4 years.  \n\nHave you people lost your minds? 60% odds of a 100m+ loss of life event in the next https://t.co/PsRYa6X5uV",
+  "url": "https://x.com/toly/status/2123424307724562717",
+  "likes": 287,
+  "retweets": 5,
+  "replies": 5,
+  "quotes": 1,
+  "impressions": 55187,
+  "bookmarks": 50,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122827626922541131",
+   "text": "@balwiles Well, we’ve already seen sporadic outtages in parts of the globe.  Japanese banking systems, individual cities going dark in Europe, refrigeration failures across Europe, etc.  So the question is really how bad it gets and if it’s like to hit your specific area.  \n\nIMO, I’m very"
+  }
+ },
+ {
+  "id": "2123424419536404788",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T14:33:27.000Z",
+  "text": "@AriDavidPaul @balwiles Lox and loaded?",
+  "url": "https://x.com/toly/status/2123424419536404788",
+  "likes": 8,
+  "retweets": 1,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 3342,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2122827626922541131",
+   "text": "@balwiles Well, we’ve already seen sporadic outtages in parts of the globe.  Japanese banking systems, individual cities going dark in Europe, refrigeration failures across Europe, etc.  So the question is really how bad it gets and if it’s like to hit your specific area.  \n\nIMO, I’m very"
+  }
+ },
+ {
+  "id": "2123429222131929174",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T14:52:32.000Z",
+  "text": "Society is 10-100x less brittle than in ww2.  By every measurement things suck less, and in one off crisis there are fewer deaths than in decades prior.  \n\nHis own preper resources include:\n\n* shelf stable calories that can last for years and cost negligible % of income to obtain https://t.co/PsRYa6X5uV",
+  "url": "https://x.com/toly/status/2123429222131929174",
+  "likes": 77,
+  "retweets": 2,
+  "replies": 2,
+  "quotes": 1,
+  "impressions": 28547,
+  "bookmarks": 26,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122827626922541131",
+   "text": "@balwiles Well, we’ve already seen sporadic outtages in parts of the globe.  Japanese banking systems, individual cities going dark in Europe, refrigeration failures across Europe, etc.  So the question is really how bad it gets and if it’s like to hit your specific area.  \n\nIMO, I’m very"
+  }
+ },
+ {
+  "id": "2123431178288161207",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T15:00:19.000Z",
+  "text": "RT @mmdhrumil: You either die a market maker or live long enough to see yourself become an exchange",
+  "url": "https://x.com/toly/status/2123431178288161207",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13326,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123340927423205809",
+   "text": "You either die a market maker or live long enough to see yourself become an exchange"
+  }
+ },
+ {
+  "id": "2123433966829252629",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T15:11:23.000Z",
+  "text": "IBRL https://t.co/QS5YZOubIp",
+  "url": "https://x.com/toly/status/2123433966829252629",
+  "likes": 104,
+  "retweets": 11,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 19313,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123370703865131119",
+   "text": "After Alpenglow, @bw_solana laid out @anza_xyz roadmap for Solana in 2027\n\nPerformance: network compute capacity doubles, transactions cut 80% CU units for token accounts\n\nExpressivity: vector processing for models running fully onchain, 64 → 96 accounts per transaction, read"
+  }
+ },
+ {
+  "id": "2123435628021137759",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T15:17:59.000Z",
+  "text": "👑👑👑 https://t.co/Lc2MegQtMr",
+  "url": "https://x.com/toly/status/2123435628021137759",
+  "likes": 138,
+  "retweets": 24,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 14738,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123366674980298906",
+   "text": "If your device can reach Solana, it can:\n\nHold an encrypted balance of a native SoV. https://t.co/vtmZczlZMB"
+  }
+ },
+ {
+  "id": "2123435977733763146",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T15:19:23.000Z",
+  "text": "@PiccoGabriele @realbuffalojoe It’s not reverted.  Program assigned lamports to zero on an account it owns.",
+  "url": "https://x.com/toly/status/2123435977733763146",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1857,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123426001757831607",
+   "text": "@realbuffalojoe Yes it’s mostly harmless and can be easily guarded against on the smart contract side, but it’s still an interesting case of a state transition that gets silently reverted by the runtime without failing the transaction."
+  }
+ },
+ {
+  "id": "2123436766044864704",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T15:22:31.000Z",
+  "text": "@dquiec A zero loss lottery can be used to generate savings, aka prize linked savings account.",
+  "url": "https://x.com/toly/status/2123436766044864704",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1781,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123236115394019675",
+   "text": "@toly But they can’t gamble with it…"
+  }
+ },
+ {
+  "id": "2123437442296619334",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T15:25:12.000Z",
+  "text": "@danrobinson What is the actual loss of life attack surface from ai?",
+  "url": "https://x.com/toly/status/2123437442296619334",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 2979,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123261529235865889",
+   "text": "Because alignment is a really difficult and tempting research problem, I think too many “Manhattan project for safe AI” concepts focus on it \n\nASI is extremely dangerous and disruptive even if it is fully aligned"
+  }
+ },
+ {
+  "id": "2123438917517258876",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-19T15:31:04.000Z",
+  "text": "60% odds 100m+ dead in 4 years \n\n80% odds 2% yearly global gdp growth for the next 4 years.  \n\n🧠🪱",
+  "url": "https://x.com/toly/status/2123438917517258876",
+  "likes": 207,
+  "retweets": 8,
+  "replies": 2,
+  "quotes": 6,
+  "impressions": 52062,
+  "bookmarks": 14
+ },
+ {
+  "id": "2123440388497359310",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T15:36:54.000Z",
+  "text": "@PiccoGabriele @realbuffalojoe The program has control of it during the tx.  The final state is what the system cares about, not the delta.  So the program decided to have that account deleted by the end of the tx.  If it wanted to retain it it would transfer lamports to it.",
+  "url": "https://x.com/toly/status/2123440388497359310",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1802,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123439936229589195",
+   "text": "@toly @realbuffalojoe In this scenario the account starts with 0 lamports and the balance never changes. The System Program only changes its owner. That ownership holds during the tx but doesn’t persist afterward. Agreed though, “not persisted” would be more precise."
+  }
+ },
+ {
+  "id": "2123440816123506954",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T15:38:36.000Z",
+  "text": "100m+ dead can only be burnie coded.  Gulags for everyone else. https://t.co/PsRYa6X5uV",
+  "url": "https://x.com/toly/status/2123440816123506954",
+  "likes": 92,
+  "retweets": 27,
+  "replies": 2,
+  "quotes": 12,
+  "impressions": 27556,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122827626922541131",
+   "text": "@balwiles Well, we’ve already seen sporadic outtages in parts of the globe.  Japanese banking systems, individual cities going dark in Europe, refrigeration failures across Europe, etc.  So the question is really how bad it gets and if it’s like to hit your specific area.  \n\nIMO, I’m very"
+  }
+ },
+ {
+  "id": "2123441762387796047",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-19T15:42:22.000Z",
+  "text": "Bad stuff happens every decade.  Access to AI makes it possible to respond to bad stuff faster and to harness resources to save people more effectively. https://t.co/aSbP4PHZ3C",
+  "url": "https://x.com/toly/status/2123441762387796047",
+  "likes": 59,
+  "retweets": 3,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 21599,
+  "bookmarks": 4
+ },
+ {
+  "id": "2123446098773872844",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T15:59:36.000Z",
+  "text": "@danrobinson That’s not an attack surface.  Worst case scenario is that I am just a Boltzmann brain and you’ve got one plank second of existence.",
+  "url": "https://x.com/toly/status/2123446098773872844",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 3239,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123445318209667116",
+   "text": "@toly Worst case scenario it’s everyone, isn’t it?"
+  }
+ },
+ {
+  "id": "2123447362240848310",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:04:37.000Z",
+  "text": "@danrobinson If you actually believed that ai can help someone come up with a deadly virus and trick an L4 lab to ship it, your fiduciary duty would be to fund an ai product for L4 labs that defends that attack surface.",
+  "url": "https://x.com/toly/status/2123447362240848310",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 3169,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123446098773872844",
+   "text": "@danrobinson That’s not an attack surface.  Worst case scenario is that I am just a Boltzmann brain and you’ve got one plank second of existence."
+  }
+ },
+ {
+  "id": "2123449044026700004",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:11:18.000Z",
+  "text": "@danrobinson The attack surface is the lab. I think highest risk of that was in the 90s when all the ussr built stuff ran out of funding.  \n\nTracking all the equipment and who is using it is has to be done with or without ai because there are plenty of known pathogens already.  AI can",
+  "url": "https://x.com/toly/status/2123449044026700004",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 3159,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123448184710320399",
+   "text": "@toly You don’t think that is possible?"
+  }
+ },
+ {
+  "id": "2123453484184011140",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:28:57.000Z",
+  "text": "@danrobinson There is $1b arr in all the things that keep you up at night @danrobinson; its likely people just as smart as you have the same psychosis. https://t.co/bTB44G86Sr",
+  "url": "https://x.com/toly/status/2123453484184011140",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 3067,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123449044026700004",
+   "text": "@danrobinson The attack surface is the lab. I think highest risk of that was in the 90s when all the ussr built stuff ran out of funding.  \n\nTracking all the equipment and who is using it is has to be done with or without ai because there are plenty of known pathogens already.  AI can"
+  }
+ },
+ {
+  "id": "2123454684904177711",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:33:43.000Z",
+  "text": "@danrobinson You are selling fear to politicians",
+  "url": "https://x.com/toly/status/2123454684904177711",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 3335,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123454437113184660",
+   "text": "@toly I hope so but one challenge is that biosecurity is a tragedy of the commons"
+  }
+ },
+ {
+  "id": "2123458557681242290",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:49:06.000Z",
+  "text": "@danrobinson Seriously, fund a startup to lock down pathogen creation.  either the critical components are already sufficiently tracked by the gov and the labs are secure, or there is a gap and they will hit $1b arr of taxpayer money.",
+  "url": "https://x.com/toly/status/2123458557681242290",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "impressions": 3222,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123454684904177711",
+   "text": "@danrobinson You are selling fear to politicians"
+  }
+ },
+ {
+  "id": "2123459027992707532",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:50:58.000Z",
+  "text": "@danrobinson I thought agents make everyone good",
+  "url": "https://x.com/toly/status/2123459027992707532",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1742,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123458706763649267",
+   "text": "@toly If there’s a good one I probably would!"
+  }
+ },
+ {
+  "id": "2123459542793302333",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T16:53:01.000Z",
+  "text": "👑👑👑 https://t.co/E91su34nsw",
+  "url": "https://x.com/toly/status/2123459542793302333",
+  "likes": 157,
+  "retweets": 7,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 23214,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123386572527833579",
+   "text": "This is the best piece of merch @solana has ever made https://t.co/LLqb7qCTFC"
+  }
+ },
+ {
+  "id": "2123459647285924004",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:53:26.000Z",
+  "text": "@mmdhrumil You either die a trader or live long enough to become a fed watcher.",
+  "url": "https://x.com/toly/status/2123459647285924004",
+  "likes": 78,
+  "retweets": 2,
+  "replies": 57,
+  "quotes": 0,
+  "impressions": 3538,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123340927423205809",
+   "text": "You either die a market maker or live long enough to see yourself become an exchange"
+  }
+ },
+ {
+  "id": "2123460216473932034",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T16:55:42.000Z",
+  "text": "RT @alranpe: Really cool new proposal. Definitely a cleaner design than Legacy Constellation, since it drops the extra attester hop and syn…",
+  "url": "https://x.com/toly/status/2123460216473932034",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13022,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123413005761118421",
+   "text": "Really cool new proposal. Definitely a cleaner design than Legacy Constellation, since it drops the extra attester hop and synchronized clocks while keeping execution before voting on top of Alpenglow and Rotor. I like the simplicity especially as it is more viable path wrt the https://t.co/pZShLMLXYv"
+  }
+ },
+ {
+  "id": "2123460544426618960",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T16:57:00.000Z",
+  "text": "@alranpe You need quadratic stake to get scheduled at the same slot to get the advantage.  So basically think of it as lowering the adversarial % of mev stake from 10% to sqrt(10); or whatever you assume the % of bad blocks are.",
+  "url": "https://x.com/toly/status/2123460544426618960",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1879,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123413005761118421",
+   "text": "Really cool new proposal. Definitely a cleaner design than Legacy Constellation, since it drops the extra attester hop and synchronized clocks while keeping execution before voting on top of Alpenglow and Rotor. I like the simplicity especially as it is more viable path wrt the https://t.co/pZShLMLXYv"
+  }
+ },
+ {
+  "id": "2123461074951581758",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T16:59:06.000Z",
+  "text": "🐜🐜🐜 https://t.co/2H0hMYv9q3",
+  "url": "https://x.com/toly/status/2123461074951581758",
+  "likes": 147,
+  "retweets": 12,
+  "replies": 29,
+  "quotes": 1,
+  "impressions": 21109,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123460630657339524",
+   "text": "6 bps price impact on a $10k buy of $ANT on @solana via @Backpack Securities on IPO day\n\nThis is Internet Capital Markets https://t.co/rA535crv4C"
+  }
+ },
+ {
+  "id": "2123461550954680544",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:01:00.000Z",
+  "text": "@TheWattenhofer @alranpe This is the least worst shortcut we have ever taken to ship something",
+  "url": "https://x.com/toly/status/2123461550954680544",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1715,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123452579661463932",
+   "text": "@alranpe Thanks for your analysis, @alranpe. We thought we go with a deliberately simple design first to get off the ground quickly. But yes, the simple design comes with some tradeoffs."
+  }
+ },
+ {
+  "id": "2123462330197627186",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T17:04:06.000Z",
+  "text": "🐜🐜🐜 https://t.co/nABdktUdgi",
+  "url": "https://x.com/toly/status/2123462330197627186",
+  "likes": 165,
+  "retweets": 13,
+  "replies": 38,
+  "quotes": 2,
+  "impressions": 10776,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123461107880964546",
+   "text": "Anthropic ($ANT) is live on Solana. The largest IPO in history.\n\nHere's where to get access 🧵 https://t.co/AJbfP96q4w"
+  }
+ },
+ {
+  "id": "2123465896111050836",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:18:16.000Z",
+  "text": "@WhiteWhaleLabs Optimal for the users, ironically.  The goal of the bonding curve is a spam filter.  As the cost to launch a token approaches zero, the number of tokens to evaluate approaches infinity.  The only way to deal with this is by prioritizing the eval by something that costs the",
+  "url": "https://x.com/toly/status/2123465896111050836",
+  "likes": 158,
+  "retweets": 8,
+  "replies": 21,
+  "quotes": 7,
+  "impressions": 23315,
+  "bookmarks": 32,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123464456684405009",
+   "text": "Not to poop where I eat, but I was scrolling the timeline yesterday and saw a comment @toly made about the Pump Fun bonding curve being \"nearly optimal\"\n\nAs we have done with mutual respect in the past, I challenge Toly on this as I believe his perspective is incomplete. I"
+  }
+ },
+ {
+  "id": "2123469983665820128",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:34:30.000Z",
+  "text": "@WhiteWhaleLabs Everyone is complaining about pump, so there is an infinite line of founders trying to disrupt them. Every time I’ve talked to a launchpad founder i’ve told them the same thing.  Pump is sticky because:\n\n1) the bonding curve is basically as good as you are gonna get filtering",
+  "url": "https://x.com/toly/status/2123469983665820128",
+  "likes": 301,
+  "retweets": 17,
+  "replies": 101,
+  "quotes": 29,
+  "impressions": 38294,
+  "bookmarks": 53,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123465896111050836",
+   "text": "@WhiteWhaleLabs Optimal for the users, ironically.  The goal of the bonding curve is a spam filter.  As the cost to launch a token approaches zero, the number of tokens to evaluate approaches infinity.  The only way to deal with this is by prioritizing the eval by something that costs the"
+  }
+ },
+ {
+  "id": "2123470778146628016",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:37:40.000Z",
+  "text": "@AriDavidPaul @adanthar We aren’t going to see a 100m loss of life event in the next 4 years.  God willing",
+  "url": "https://x.com/toly/status/2123470778146628016",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1877,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123464847723581933",
+   "text": "@adanthar Will happily take the other side if we define “AI attack” as including for example, an accidental leak from a bio lab, or a power plant meltdown from software “bug.”  \n\nMy claim wasn’t that AI would become self-aware and attack us…"
+  }
+ },
+ {
+  "id": "2123472049893224637",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:42:43.000Z",
+  "text": "@WhiteWhaleLabs &gt; who gets the supply, at what price, and what holders can actually collect.\n\nThis isn’t solvable because it’s Sybil.  So whatever screening mechanism you try to use to determine this will be faked and then someone will setup a service to fake it for $X.  Might as well just",
+  "url": "https://x.com/toly/status/2123472049893224637",
+  "likes": 28,
+  "retweets": 3,
+  "replies": 3,
+  "quotes": 1,
+  "impressions": 3543,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123471422781612265",
+   "text": "@toly Fair points, and I'll concede that as a spam filter the gate works. Graduated coins survive far more often than the rest, and even buying your way through costs real money.\n\nBut I think we're answering two different questions. You're defending the gate. My post was about what's"
+  }
+ },
+ {
+  "id": "2123472253182751112",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:43:32.000Z",
+  "text": "@moonsunaligned @WhiteWhaleLabs @floatdotxyz Real Kings don’t need to be kingmade",
+  "url": "https://x.com/toly/status/2123472253182751112",
+  "likes": 30,
+  "retweets": 4,
+  "replies": 10,
+  "quotes": 2,
+  "impressions": 2805,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123470543655407999",
+   "text": "@toly @WhiteWhaleLabs @floatdotxyz did returned a lot for the traders, but solana foundation ignored their efforts. Now we have to stick with these extractors"
+  }
+ },
+ {
+  "id": "2123475502728159696",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T17:56:26.000Z",
+  "text": "RT @calilyliu: A N T",
+  "url": "https://x.com/toly/status/2123475502728159696",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11907,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123466957546807488",
+   "text": "A N T https://t.co/SV0WwVR4g2"
+  }
+ },
+ {
+  "id": "2123476371276169409",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T17:59:53.000Z",
+  "text": "@Ay0h_Sol Outside of a buisness cycle downturn and leverage blowout, we will get 2% yoy global growth and more people will get lifted out of $2 per day poverty.  \n\nThe number of complainers will increase as people have excess consumer surplus and therefor more leisure time to spend",
+  "url": "https://x.com/toly/status/2123476371276169409",
+  "likes": 8,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2277,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123475755405648068",
+   "text": "@toly the gap between doing \"fine\" and struggling to survive is immense. 100m is totally realistic."
+  }
+ },
+ {
+  "id": "2123476663665348995",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:01:03.000Z",
+  "text": "👑👑👑 https://t.co/qKWo3N1eav",
+  "url": "https://x.com/toly/status/2123476663665348995",
+  "likes": 96,
+  "retweets": 5,
+  "replies": 22,
+  "quotes": 3,
+  "impressions": 11834,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123471115225899075",
+   "text": "Anthropic fell 17% in 30 minutes after its Nasdaq debut.\n\n$ANT hit $114.59 on Phoenix at the open, then dropped to $95.53.\n\nTrade it on Phoenix 24/7.\nhttps://t.co/flfNNCL13m https://t.co/KtPnJttSDG"
+  }
+ },
+ {
+  "id": "2123477186837672406",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:03:08.000Z",
+  "text": "None of these words are in the bible. https://t.co/QRQBJvlUhM",
+  "url": "https://x.com/toly/status/2123477186837672406",
+  "likes": 156,
+  "retweets": 7,
+  "replies": 26,
+  "quotes": 1,
+  "impressions": 34122,
+  "bookmarks": 14,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123465702606840066",
+   "text": "- Buy ANT spot on JTX\n- Short ANT perps on Phoenix\n- Collect 350% funding arb https://t.co/EhDPVsUSES"
+  }
+ },
+ {
+  "id": "2123478268045382081",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:07:26.000Z",
+  "text": "🐜🐜🐜 https://t.co/VruordbOCA",
+  "url": "https://x.com/toly/status/2123478268045382081",
+  "likes": 53,
+  "retweets": 5,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 7737,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123463449237704936",
+   "text": "Anthropic ($ANT), the largest IPO in history, is live on Raydium.\n\nAnthropic is the AI company behind Claude, building frontier models and products for consumers and businesses.\n\nNow trading 24/7 on Solana via @sunrise and @Backpack Securities. https://t.co/5sbP5ldnqF"
+  }
+ },
+ {
+  "id": "2123479062261985620",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-19T18:10:35.000Z",
+  "text": "Capitalism creates consumer surplus. \n\nThe number of complainers increases as people have excess consumer surplus and therefor more leisure time to spend complaining.\n\nComplainers create socialism.  \n\nSocialism destroys consumer surplus.  \n\nLack of consumer surplus kills all the",
+  "url": "https://x.com/toly/status/2123479062261985620",
+  "likes": 248,
+  "retweets": 20,
+  "replies": 2,
+  "quotes": 23,
+  "impressions": 34323,
+  "bookmarks": 35
+ },
+ {
+  "id": "2123479680389161329",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T18:13:02.000Z",
+  "text": "RT @cavemanloverboy: home sweet home\n\nhome is where the 5gbps internet is\n\n(and double ultrawide and comfy steelcase and split dygma raise…",
+  "url": "https://x.com/toly/status/2123479680389161329",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12010,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123478703078514939",
+   "text": "home sweet home\n\nhome is where the 5gbps internet is\n\n(and double ultrawide and comfy steelcase and split dygma raise and xl mousepad with the deathadder and the cherry walnut chevron standing desk is)"
+  }
+ },
+ {
+  "id": "2123482230064595241",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T18:23:10.000Z",
+  "text": "RT @r_riskit: https://t.co/XuTSVN2mO0",
+  "url": "https://x.com/toly/status/2123482230064595241",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12618,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123482127349993802",
+   "text": "https://t.co/XuTSVN2mO0 https://t.co/z8Byo4iOSd"
+  }
+ },
+ {
+  "id": "2123483572736840062",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T18:28:30.000Z",
+  "text": "@AriDavidPaul If you actually truly believe this in your heart of hearts, your fiduciary duty to your LPs is to fund startups that can analyze all he labs and all the core components and build a tracking system and sell it to the gov.  Easy $1b/arr selling fear to politicians. \n\nIf they fail,",
+  "url": "https://x.com/toly/status/2123483572736840062",
+  "likes": 21,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 5524,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123482714191929810",
+   "text": "@toly I think people don’t realize how little disruption is necessary to cause that.  Even an accidental lab leak."
+  }
+ },
+ {
+  "id": "2123484129039945794",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:30:43.000Z",
+  "text": "👑👑👑 https://t.co/VSLEYCH2jK",
+  "url": "https://x.com/toly/status/2123484129039945794",
+  "likes": 39,
+  "retweets": 3,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 5771,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123481030837326180",
+   "text": "$ANT has traded over $22.6M+ in its first hour on @Solana.\n\nThe largest IPO in history had a market onchain within minutes of its Nasdaq debut via Sunrise.\n\nIssued by @Backpack Securities. https://t.co/QYT9FVOd7k https://t.co/7odI9jgVia"
+  }
+ },
+ {
+  "id": "2123484194458525990",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:30:59.000Z",
+  "text": "👑👑👑 https://t.co/0LmhZTiqvz",
+  "url": "https://x.com/toly/status/2123484194458525990",
+  "likes": 42,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 6132,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123482303817200035",
+   "text": "NEW: @moonpay APPLIES FOR A US NATIONAL BANK CHARTER WITH THE @USOCC\n\nTHE PROPOSED MOONPAY NATIONAL TRUST BANK WOULD BE BASED IN MIAMI BEACH AND HELP GROW ITS CUSTODY AND STABLECOIN SERVICES https://t.co/SHiATEMe7g"
+  }
+ },
+ {
+  "id": "2123485275079008334",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:35:16.000Z",
+  "text": "👑👑👑 https://t.co/LiDuVgsNB2",
+  "url": "https://x.com/toly/status/2123485275079008334",
+  "likes": 32,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 5334,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123468131649888321",
+   "text": "Really seeing the power of @Titan_Exchange optimized routing here handling the huge volatility on $ANT. \n\nA result of the widest array of integrations, close coordination with prop amms, and a finely tuned algorithm all working in parallel. \n\nThe place to trade $ANT is on Titan https://t.co/Tq40Ldc20k https://t.co/0itFW8l0Ka"
+  }
+ },
+ {
+  "id": "2123486807123964217",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T18:41:21.000Z",
+  "text": "Complete 🧠🪱.  \n\nSenders would prolong extreme childhood poverty. This idea is effectively removing capital from things invested into the future, which is how we get any gdp growth, which is how we get more stuff, and how anyone is actually lifted out of poverty. Instead https://t.co/KRI2XS8uf2",
+  "url": "https://x.com/toly/status/2123486807123964217",
+  "likes": 175,
+  "retweets": 21,
+  "replies": 2,
+  "quotes": 6,
+  "impressions": 26525,
+  "bookmarks": 11,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123379117466759369",
+   "text": "Bernie Sanders wants to TAX America's BILLIONAIRES 5% of their total wealth EVERY YEAR.\n\n\"About 2,000 individuals.\"\n\n\"That would raise approximately $400 billion a year, $4 trillion for 10 years.\"\n\n\"We could wipe out childhood poverty.\"\n\n\"We could have universal and free https://t.co/ttth2YxU2U"
+  }
+ },
+ {
+  "id": "2123489281541030122",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-19T18:51:11.000Z",
+  "text": "$ANT 🐜🐜🐜",
+  "url": "https://x.com/toly/status/2123489281541030122",
+  "likes": 169,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 17,
+  "impressions": 41298,
+  "bookmarks": 5
+ },
+ {
+  "id": "2123490353726812546",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T18:55:27.000Z",
+  "text": "@AriDavidPaul You and @danrobinson should start fear capital.  I’ll gladly LP",
+  "url": "https://x.com/toly/status/2123490353726812546",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 1,
+  "impressions": 4519,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123483572736840062",
+   "text": "@AriDavidPaul If you actually truly believe this in your heart of hearts, your fiduciary duty to your LPs is to fund startups that can analyze all he labs and all the core components and build a tracking system and sell it to the gov.  Easy $1b/arr selling fear to politicians. \n\nIf they fail,"
+  }
+ },
+ {
+  "id": "2123493635371208722",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T19:08:29.000Z",
+  "text": "@PiccoGabriele @realbuffalojoe The result of the account at the end of the tx is lamports == 0; which means delete the account.   \n\nLamport == 1 means retain the account, which fails if it’s not enough to retain it.  \n\nThe program decides that value by the programs own logic.",
+  "url": "https://x.com/toly/status/2123493635371208722",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1761,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123443743579685155",
+   "text": "@toly @realbuffalojoe But isn’t the assignment a state transition and the owner part of the state?\n\nBefore testing, I would have guessed this would behave the same as the case where the account holds 1 lamport and the tx fails because the account isn’t rent-exempt."
+  }
+ },
+ {
+  "id": "2123494476970893568",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T19:11:50.000Z",
+  "text": "@0xOvertrade @WhiteWhaleLabs Platform A locks tickers, and attacker pre creates the expected popular tickers, aka spam.  \n\nPlatform B doesn’t.  \n\nEither it gets spammed or it’s effectively auctioned off and might as well increase the bonding curve by the ticker auction.  \n\nMaybe the ux gets slightly better",
+  "url": "https://x.com/toly/status/2123494476970893568",
+  "likes": 8,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2679,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123473870246367730",
+   "text": "@toly @WhiteWhaleLabs Brother they could lock tickers to prevent PVP and do so much good for the trenches. But they refuse to bc that’s how they make money. The amount of PVP during these GTA narratives has been unreal"
+  }
+ },
+ {
+  "id": "2123516112113741901",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T20:37:48.000Z",
+  "text": "@collema @WhiteWhaleLabs https://t.co/1sH0LdZo87 https://t.co/Z2T2mLnU5R",
+  "url": "https://x.com/toly/status/2123516112113741901",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 135,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123472049893224637",
+   "text": "@WhiteWhaleLabs &gt; who gets the supply, at what price, and what holders can actually collect.\n\nThis isn’t solvable because it’s Sybil.  So whatever screening mechanism you try to use to determine this will be faked and then someone will setup a service to fake it for $X.  Might as well just"
+  }
+ },
+ {
+  "id": "2123516115402031272",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T20:37:49.000Z",
+  "text": "@Konjurator @WhiteWhaleLabs https://t.co/1sH0LdZo87 https://t.co/Z2T2mLnU5R",
+  "url": "https://x.com/toly/status/2123516115402031272",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1799,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123472049893224637",
+   "text": "@WhiteWhaleLabs &gt; who gets the supply, at what price, and what holders can actually collect.\n\nThis isn’t solvable because it’s Sybil.  So whatever screening mechanism you try to use to determine this will be faked and then someone will setup a service to fake it for $X.  Might as well just"
+  }
+ },
+ {
+  "id": "2123516764114084125",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T20:40:24.000Z",
+  "text": "🐜🐜🐜 https://t.co/RAb8DFkooW",
+  "url": "https://x.com/toly/status/2123516764114084125",
+  "likes": 52,
+  "retweets": 5,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 17350,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123496883830276592",
+   "text": "The biggest IPO on record hit @Solana 7 minutes after its Nasdaq debut.\n\n11:48 AM ET · Anthropic debuts on Nasdaq\n11:55 AM ET · $ANT goes live on Solana via Sunrise\n\nMost investors miss IPO allocations. Now they can trade on day one.\n\nIssued by @Backpack Securities. https://t.co/NXuIAv6eJL https://t.co/7odI9jht7I"
+  }
+ },
+ {
+  "id": "2123517089231376574",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T20:41:41.000Z",
+  "text": "RT @vladtenev: Formal verification is rapidly becoming a necessity in safety-critical domains.\n\nSoon you’ll see it everywhere.",
+  "url": "https://x.com/toly/status/2123517089231376574",
+  "likes": 0,
+  "retweets": 26,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10098,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123515953442893946",
+   "text": "Formal verification is rapidly becoming a necessity in safety-critical domains.\n\nSoon you’ll see it everywhere. https://t.co/PjlzH0ST72"
+  }
+ },
+ {
+  "id": "2123518415797448853",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T20:46:58.000Z",
+  "text": "@0xcyp The optimal approach is a flat consumption tax and a subsidy to the bottom 20%.  Then the most is invested into growth.",
+  "url": "https://x.com/toly/status/2123518415797448853",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1743,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123493979270631479",
+   "text": "@toly one actual proposal would be that the government taxes on equity not cash, so that all citizens have a by default share of value that is created, with very long vesting"
+  }
+ },
+ {
+  "id": "2123518731691413714",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T20:48:13.000Z",
+  "text": "Onchain to be the nbbo 🔜 https://t.co/dVOn8zhqNz",
+  "url": "https://x.com/toly/status/2123518731691413714",
+  "likes": 24,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 19149,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123501801685283234",
+   "text": "the most liquid place to trade $ANT on chain https://t.co/GVVqCzwa33"
+  }
+ },
+ {
+  "id": "2123519337676038516",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T20:50:37.000Z",
+  "text": "@0xOvertrade @WhiteWhaleLabs That’s the ticker auction approach. It becomes marginal additional $ deterrent vs just a higher bonding curve.  It’s not enough to win in the market vs what already exists.",
+  "url": "https://x.com/toly/status/2123519337676038516",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 13,
+  "quotes": 4,
+  "impressions": 7807,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123495636041363842",
+   "text": "@toly @WhiteWhaleLabs There’s a way to do it effectively. For example the Float launchpad charged 1 SOL to create a ticker that had already been launched on the LP. \n\nPumpfun has complete market share. If they introduced SOME type of mechanism to even attempt to stop PVP, it helps the trenches rally"
+  }
+ },
+ {
+  "id": "2123519518396010616",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T20:51:20.000Z",
+  "text": "🐜🐜🐜 https://t.co/jH8vv85Ec5",
+  "url": "https://x.com/toly/status/2123519518396010616",
+  "likes": 21,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 5026,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123509609118028258",
+   "text": "Get the best $ANT price onchain with JTX Equities.\n\nThree routes with direct provider quotes to fill size. https://t.co/NXBoeTzPke"
+  }
+ },
+ {
+  "id": "2123520187421098074",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T20:54:00.000Z",
+  "text": "@TheShepherdLied @0xcyp Small percentage owns capital == large percentage benefits from the wealth.  \n\nWealth can only be created by the workers calloused hands setting the means of production in motion.  It’s the food, cars, poems, etc… not the shares of ant or spacex.  \n\nYou and senders are",
+  "url": "https://x.com/toly/status/2123520187421098074",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1629,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123519725015531618",
+   "text": "@toly @0xcyp I actually agree with the idea of maximizing productive investment rather than simply redistributing wealth.\n\nBut there's a fundamental question here:\n\nWhat's the point of maximizing economic growth if an increasingly small percentage of the population ends up capturing most of"
+  }
+ },
+ {
+  "id": "2123520708743688603",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T20:56:04.000Z",
+  "text": "@PiccoGabriele @realbuffalojoe 0 lamports at the end state is valid regardless of the starting state because the program through a chain of internal logic could have increased and then decreased the count back to 0 with additional side effects in other accounts.   \n\nLess than rent exempt at the end is",
+  "url": "https://x.com/toly/status/2123520708743688603",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1643,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123519948559708670",
+   "text": "@toly @realbuffalojoe Thanks @toly for sticking with me down this nerd-sniping rabbit hole. Awesome to discuss it with you.\n\nMy point is that the same program logic can behave in three different ways depending on the account’s starting lamport balance:\n\n1. 0 lamports: the ownership change silently"
+  }
+ },
+ {
+  "id": "2123522105526632799",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T21:01:37.000Z",
+  "text": "RT @uriklarman: I give @temporal_xyz a lot of flack\n\nbut this is VERY VERY COOL 👀\nkudos",
+  "url": "https://x.com/toly/status/2123522105526632799",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11289,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123492021436379356",
+   "text": "I give @temporal_xyz a lot of flack\n\nbut this is VERY VERY COOL 👀\nkudos https://t.co/9UunOpqlqm"
+  }
+ },
+ {
+  "id": "2123522218902933591",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:02:04.000Z",
+  "text": "🐐🐐🐐 https://t.co/3HWVkrhv6U",
+  "url": "https://x.com/toly/status/2123522218902933591",
+  "likes": 84,
+  "retweets": 7,
+  "replies": 1,
+  "quotes": 4,
+  "impressions": 21493,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123510964926730272",
+   "text": "$50M in @Backpack Securities trading volume on @solana 3 hours after IPO 🤯 https://t.co/SHaACBA9zr"
+  }
+ },
+ {
+  "id": "2123524185045766235",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:09:53.000Z",
+  "text": "🐜🐜🐜 https://t.co/htrBwSblWN",
+  "url": "https://x.com/toly/status/2123524185045766235",
+  "likes": 57,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 3,
+  "impressions": 16952,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123524078648823885",
+   "text": "@toly What is this, an IPO for ants?"
+  }
+ },
+ {
+  "id": "2123525799672475906",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:16:18.000Z",
+  "text": "👑👑👑 https://t.co/Gy0hdH7yvp",
+  "url": "https://x.com/toly/status/2123525799672475906",
+  "likes": 22,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 17174,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123497615832539238",
+   "text": "Bought some $ANT on Solana via Securitize Stocks today https://t.co/2OcBFOpvmo https://t.co/8ZY3SFZctR"
+  }
+ },
+ {
+  "id": "2123526904095592539",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T21:20:41.000Z",
+  "text": "@factorydoge69 Organized sand is easier then perfectly cast steel",
+  "url": "https://x.com/toly/status/2123526904095592539",
+  "likes": 11,
+  "retweets": 1,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 2431,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123520998896980396",
+   "text": "they did this to turbines, why can't they do this to compute 🤔 https://t.co/QZFzF6hjrY"
+  }
+ },
+ {
+  "id": "2123527116667138530",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:21:32.000Z",
+  "text": "Split the crypto mcap by rev share https://t.co/ILkI9HqkMU",
+  "url": "https://x.com/toly/status/2123527116667138530",
+  "likes": 49,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 1,
+  "impressions": 21279,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123522017555009685",
+   "text": "Blockchain revenue over the years. \n\nEthereum quarterly market share down from 87% to 9% over the past four years. https://t.co/L3unpGSjFf"
+  }
+ },
+ {
+  "id": "2123528653581803804",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T21:27:38.000Z",
+  "text": "@danrobinson @AriDavidPaul That’s because ethereum has achieved ww3 level of economic security",
+  "url": "https://x.com/toly/status/2123528653581803804",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2037,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123490916589777230",
+   "text": "@AriDavidPaul @toly I don't think there is a 60% chance of a WWII outcome fwiw"
+  }
+ },
+ {
+  "id": "2123529544892322005",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:31:11.000Z",
+  "text": "I was always a supporter of Lucius Cornelius Sulla https://t.co/GBqgNE39GU",
+  "url": "https://x.com/toly/status/2123529544892322005",
+  "likes": 44,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12143,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123510035409989867",
+   "text": "JUST IN: Hakeem Jeffries warns that anyone who took part in the “MAGA extremism movement” should prepare to be investigated."
+  }
+ },
+ {
+  "id": "2123536278193057887",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T21:57:56.000Z",
+  "text": "Anthropic is a solana L2 https://t.co/CcrqmOIr7v",
+  "url": "https://x.com/toly/status/2123536278193057887",
+  "likes": 284,
+  "retweets": 18,
+  "replies": 3,
+  "quotes": 4,
+  "impressions": 28525,
+  "bookmarks": 10,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123507411856351593",
+   "text": "solana software &gt; anthrophic software\n\n43B vs 1.3T\n\ntrillions https://t.co/AgsZNiqyrQ"
+  }
+ },
+ {
+  "id": "2123536850828824838",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:00:13.000Z",
+  "text": "@lessin The counter to this is that the number of fuck ups is roughly the same per person, and the effects simply are more expensive for wealthier people and the news prioritizes roughly by $",
+  "url": "https://x.com/toly/status/2123536850828824838",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2206,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123529952436060260",
+   "text": "“the reason powerful people do strange things is because when you get a certain level of power, you just wanna feel something.”\n\nhttps://t.co/bb7K7NG1jr"
+  }
+ },
+ {
+  "id": "2123537074779501035",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:01:06.000Z",
+  "text": "@rexstjohn They have excess consumer surplus",
+  "url": "https://x.com/toly/status/2123537074779501035",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 379,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123491476693037168",
+   "text": "@toly Every billionaire on here complains all day.\n\nElon, Palmer Lucky, Trump, entire all in podcast\n\nThey be complaining super a lot"
+  }
+ },
+ {
+  "id": "2123537374923878598",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T22:02:18.000Z",
+  "text": "RT @lessin: Anthropic IPO is a sunning success... no two ways on that one -- but the idea that a series A only gets a 322x on a 1.5T outcom…",
+  "url": "https://x.com/toly/status/2123537374923878598",
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11273,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123530430578393243",
+   "text": "Anthropic IPO is a sunning success... no two ways on that one -- but the idea that a series A only gets a 322x on a 1.5T outcome is banannas. https://t.co/FjGSRk6gxZ"
+  }
+ },
+ {
+  "id": "2123538818255183919",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-19T22:08:02.000Z",
+  "text": "RT @web4O: I don’t know how Solana does it.",
+  "url": "https://x.com/toly/status/2123538818255183919",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11846,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123427065072603560",
+   "text": "I don’t know how Solana does it. https://t.co/kgITDNriAk"
+  }
+ },
+ {
+  "id": "2123538940779180503",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:08:31.000Z",
+  "text": "@web4O They are gonna clean it up for us like for a Xi visit",
+  "url": "https://x.com/toly/status/2123538940779180503",
+  "likes": 18,
+  "retweets": 0,
+  "replies": 16,
+  "quotes": 0,
+  "impressions": 2393,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123427065072603560",
+   "text": "I don’t know how Solana does it. https://t.co/kgITDNriAk"
+  }
+ },
+ {
+  "id": "2123539285823693162",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T22:09:53.000Z",
+  "text": "👑👑👑 https://t.co/DIX4cbQy8S",
+  "url": "https://x.com/toly/status/2123539285823693162",
+  "likes": 27,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 4990,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123530225023848633",
+   "text": "Anthropic $ANTx tokenized on day one.\n\nAlready live across your favorite apps and wallets. https://t.co/urHJqUxdp9"
+  }
+ },
+ {
+  "id": "2123543006569787506",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T22:24:40.000Z",
+  "text": "🫳🎤 https://t.co/n7Sz1eK8tR",
+  "url": "https://x.com/toly/status/2123543006569787506",
+  "likes": 32,
+  "retweets": 4,
+  "replies": 3,
+  "quotes": 2,
+  "impressions": 16680,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123533493917364270",
+   "text": "$ANT’s launch on @Solana with Sunrise liquidity saw onchain prices within cents of Nasdaq.\n\n@Titan_Exchange quoted this example $100K buy at 3.3bps lower than Nasdaq.\n\nIssued by @Backpack Securities. https://t.co/XT7LFSFVtd"
+  }
+ },
+ {
+  "id": "2123546017308217664",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T22:36:38.000Z",
+  "text": "London is an s-tier city, and I got to meet the man who had the 4th largest nuclear arsenal in his hands. https://t.co/GQoHDwSdsA",
+  "url": "https://x.com/toly/status/2123546017308217664",
+  "likes": 99,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 26850,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123518362516930754",
+   "text": "when breakpoint was announced that it would be in london this year, people actually boo'd in the crowd\n\nmy team &amp; i watched the timeline berate that decision post after post (we kept receipts for motivation). they said it was the worst city to hold a solana conference in &amp; that https://t.co/pYR137G1PH"
+  }
+ },
+ {
+  "id": "2123547847908003946",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:43:55.000Z",
+  "text": "@Mamba248x Wdym, everyone knows hl is crushing it on oi and real volume, that’s why there are so many shots on goal to come after it.",
+  "url": "https://x.com/toly/status/2123547847908003946",
+  "likes": 26,
+  "retweets": 0,
+  "replies": 14,
+  "quotes": 0,
+  "impressions": 3966,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123543422233362891",
+   "text": "All Backpack bros did this week were bring up Hyperliquid, its almost like a solana cultural thing now when talking about perp dexes\n\nBut anytime volume gets brought up it sure gets quiet https://t.co/2lKNwVqHfu"
+  }
+ },
+ {
+  "id": "2123549180518158437",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:49:12.000Z",
+  "text": "@0xcyp The $ are capital,  not wealth.  They don’t represent physical grain and mri machines.  \n\nProgressive taxes don’t reduce the consumption of the wealthy as you said, so they come out of investments.  \n\nLess capital flows into s&amp;p, fewer mri machines get built next year.",
+  "url": "https://x.com/toly/status/2123549180518158437",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1555,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123546261395775789",
+   "text": "@toly i don't agree: consumption doesn't scale linearly with wealth (you can't buy a $10b yacht, and not on a regular basis) so above a certain level of wealth, consumption tax becomes irrelevant, and the middle class ends up paying the highest effective tax rate wrt their wealth"
+  }
+ },
+ {
+  "id": "2123550634276540589",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:54:59.000Z",
+  "text": "@cafreiman Bernie Senders is as wealthy as a billionaire.  He has raised nearly $1b through political donations and because he is so effective at raising capital to fight the oligarchy he flies private.  He consumes  the same amount of consumer surplus as Elon when he flies private.\n\nUssr",
+  "url": "https://x.com/toly/status/2123550634276540589",
+  "likes": 82,
+  "retweets": 7,
+  "replies": 10,
+  "quotes": 1,
+  "impressions": 10077,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123545114580578702",
+   "text": "Bernie Sanders owns more wealth than the bottom 24% of households. https://t.co/t4PtC0Tc6S"
+  }
+ },
+ {
+  "id": "2123551522671985144",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T22:58:31.000Z",
+  "text": "@0xcyp Broadest tax is optimal, with progressive benefits.  Help the truly poor at the bottom of the 20% of incomes and let the rest hustle",
+  "url": "https://x.com/toly/status/2123551522671985144",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1543,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123551070144155869",
+   "text": "@toly so why the consumption tax ultimately? it disproportionately reduce the capital available for most of the population for investments\n\nmaybe a progressive consumption tax would be interesting (0% on groceries, 70% on high end luxury stuff)"
+  }
+ },
+ {
+  "id": "2123561424387768521",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T23:37:52.000Z",
+  "text": "👑👑👑 https://t.co/unjACmeIoJ",
+  "url": "https://x.com/toly/status/2123561424387768521",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 19482,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123560617684660352",
+   "text": "@toly time for $ANT options"
+  }
+ },
+ {
+  "id": "2123562934207230001",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T23:43:52.000Z",
+  "text": "👑👑👑 https://t.co/TwRguhIWrB",
+  "url": "https://x.com/toly/status/2123562934207230001",
+  "likes": 55,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 5269,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123561474278691239",
+   "text": "soon https://t.co/72OoYWeeQX"
+  }
+ },
+ {
+  "id": "2123563964068163853",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-19T23:47:57.000Z",
+  "text": "I think the opposition to the Netflix slop has united more crypto factions than even gensler. https://t.co/Az8TU8TLxg",
+  "url": "https://x.com/toly/status/2123563964068163853",
+  "likes": 44,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 22533,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123550289957658970",
+   "text": "Forbes: \"Apparently, the most pressing unanswered question about the $8 billion FTX fraud is whether SBF ever really loved Caroline Ellison. At least, that's the impression you might get from watching Netflix's new series\n...\nOne of the most colorful of those creative imaginings https://t.co/V7H04W11oE https://t.co/KcsyMsh7Dk"
+  }
+ },
+ {
+  "id": "2123564233090904471",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T23:49:01.000Z",
+  "text": "@uriklarman @temporal_xyz Wen paladin perp DEX",
+  "url": "https://x.com/toly/status/2123564233090904471",
+  "likes": 13,
+  "retweets": 3,
+  "replies": 8,
+  "quotes": 1,
+  "impressions": 2679,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123492021436379356",
+   "text": "I give @temporal_xyz a lot of flack\n\nbut this is VERY VERY COOL 👀\nkudos https://t.co/9UunOpqlqm"
+  }
+ },
+ {
+  "id": "2123566491748741508",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-19T23:58:00.000Z",
+  "text": "@AriDavidPaul Knocking out shipping between India and USA is much harder today than in ww2.  Commercial shipping today is orders of magnitude bigger. \n\nThere is even more redundancy because of a much larger fleet of commercial planes that didn’t exist in the 50s and road throughput to move",
+  "url": "https://x.com/toly/status/2123566491748741508",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 4276,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123564898529542278",
+   "text": "@toly Society is far more fragile than in WW2.  All those amazing new inventions that have made quality of life so great…all depend on an incredibly complex and convoluted supply chain web globally.  Knock out shipping between say, India and the US, and there goes most of our modern"
+  }
+ },
+ {
+  "id": "2123569305044611210",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:09:10.000Z",
+  "text": "@AriDavidPaul There is infinite oil at $200 per barrel and infinite calories at 2x the price.  \n\nHarmuz closes =&gt; oil goes up =&gt; more fracking wells become profitable \n\nSame process with crops, just longer cycle to switch what is grown.",
+  "url": "https://x.com/toly/status/2123569305044611210",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 3882,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123566491748741508",
+   "text": "@AriDavidPaul Knocking out shipping between India and USA is much harder today than in ww2.  Commercial shipping today is orders of magnitude bigger. \n\nThere is even more redundancy because of a much larger fleet of commercial planes that didn’t exist in the 50s and road throughput to move"
+  }
+ },
+ {
+  "id": "2123575798489825742",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-20T00:34:59.000Z",
+  "text": "I think tradfi is not quoting nbbo if it’s not quoting solana https://t.co/e6hSokT2g4",
+  "url": "https://x.com/toly/status/2123575798489825742",
+  "likes": 33,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 3,
+  "impressions": 17688,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123468932044517442",
+   "text": "Super tight fills with Titan routing on tokenized ANT for IPO day\n\nMagical market structure on @solana for day 1 of the biggest IPO in history https://t.co/G4nmjeBJVI https://t.co/jGeW18STIH"
+  }
+ },
+ {
+  "id": "2123576266599370998",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:36:50.000Z",
+  "text": "@Branche_SC Fed to 4.5 and we all lose our minds",
+  "url": "https://x.com/toly/status/2123576266599370998",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 2721,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123496465511371111",
+   "text": "How bad will we all lose our minds if SPX goes down to like 6800"
+  }
+ },
+ {
+  "id": "2123577261425332627",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:40:47.000Z",
+  "text": "@Genia_XBT Year over year our overhangs are getting order of magnitude better.  Ftx collapse to president launching a memecoin",
+  "url": "https://x.com/toly/status/2123577261425332627",
+  "likes": 75,
+  "retweets": 1,
+  "replies": 17,
+  "quotes": 0,
+  "impressions": 3661,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123571164702531782",
+   "text": "I say this is a large solana:So11111111111111111111111111111111111111112 bag holder:\n\nThe reality is that the absolute mindshare peak truly was when the Trump meme coin launched.\n\nDespite the incredible growth and strides made in every vertical, Solana still has a major narrative https://t.co/wyFNIdBA3F"
+  }
+ },
+ {
+  "id": "2123577781686878326",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:42:51.000Z",
+  "text": "@Branche_SC No one is having kids.  No one actually wants to loosen zoning laws outside of Bay Area.",
+  "url": "https://x.com/toly/status/2123577781686878326",
+  "likes": 12,
+  "retweets": 1,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 1485,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123576814614491503",
+   "text": "@toly I wonder how much you’d have to loosen zoning laws and such to offset how that would impact the current rate of housing construction"
+  }
+ },
+ {
+  "id": "2123579209029386635",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:48:32.000Z",
+  "text": "@ViktorBunin The modest goal of staying healthy into your 80s or 90s 🤌🤌🤌",
+  "url": "https://x.com/toly/status/2123579209029386635",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1639,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123563106945188091",
+   "text": "The NYT is such a rag it's pathetic. If you think of them as journalists I just don't know what to tell you. They hate everything that is good and virtuous. They would rather see a good man drown than a bad man be punished. https://t.co/1L2DSF7ID2"
+  }
+ },
+ {
+  "id": "2123579809016225883",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:50:55.000Z",
+  "text": "@Branche_SC https://t.co/MnoFMlj9zt",
+  "url": "https://x.com/toly/status/2123579809016225883",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "impressions": 1397,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123579169519047048",
+   "text": "@toly We’re getting BAAJA and we’re going to like it"
+  }
+ },
+ {
+  "id": "2123579927924797632",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-20T00:51:23.000Z",
+  "text": "RT @qtmoses: Memory mapping -&gt; CPI stack depth increase -&gt; Make Smart Contract Wallets Great Again\n\nI'll be able to route transactions via…",
+  "url": "https://x.com/toly/status/2123579927924797632",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10816,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123571269358547233",
+   "text": "Memory mapping -&gt; CPI stack depth increase -&gt; Make Smart Contract Wallets Great Again\n\nI'll be able to route transactions via programmatic signer/vector -&gt; squads -&gt; router -&gt; dex.\n\nCan't wait to try this on mainnet (and this time without conference internet holding me back)\n\nLFG https://t.co/oszs0xJKDg"
+  }
+ },
+ {
+  "id": "2123581825415299378",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T00:58:56.000Z",
+  "text": "@gakonst I have never seen a more bearish signal then the best dev on the team working on build infra",
+  "url": "https://x.com/toly/status/2123581825415299378",
+  "likes": 11,
+  "retweets": 0,
+  "replies": 11,
+  "quotes": 0,
+  "impressions": 2316,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123569565523386504",
+   "text": "i recall people raving about google's build infrastructure back in the day - anyone know how it's going now? i am thinking a lot about shared build / release infrastructure for high volume given our high agent output, but keen if ppl have it working well these days"
+  }
+ },
+ {
+  "id": "2123593639406563562",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-20T01:45:52.000Z",
+  "text": "@gizmothegizzer IBRL",
+  "url": "https://x.com/toly/status/2123593639406563562",
+  "likes": 18,
+  "retweets": 1,
+  "replies": 14,
+  "quotes": 0,
+  "impressions": 2531,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123561715212116148",
+   "text": "sol maxis are starting to sound like eth maxis\n\nremember when we laughed at eth maxis for saying \"most users are on eth, so eth stays king\"\n\nnow im hearing people say \"if not solana, then who next cycle?\"\n\nhyperliquid. robinhood. jupiter/fomo/phantom could all launch their own"
+  }
+ },
+ {
+  "id": "2123602919568379989",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-20T02:22:45.000Z",
+  "text": "👑👑👑 https://t.co/lbnDOaI8oM",
+  "url": "https://x.com/toly/status/2123602919568379989",
+  "likes": 18,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 18697,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123596295730323954",
+   "text": "in case y'all didn't notice the supermassive logo is ◎"
+  }
+ },
+ {
+  "id": "2123606785768771692",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-20T02:38:07.000Z",
+  "text": "What can Bakunin learn from Marx? https://t.co/Nkh1tPedD9",
+  "url": "https://x.com/toly/status/2123606785768771692",
+  "likes": 10,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 16465,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123447205596196887",
+   "text": "Over the course of about a decade, the Democratic Socialists of America went from being an organization that almost nobody had heard of to one with a mayor in New York City and representation in contrast. Libertarians, by contrast, have been at it for more than fifty years and https://t.co/99iadFwKh5"
+  }
+ },
+ {
+  "id": "2123618949023904055",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-20T03:26:27.000Z",
+  "text": "👑👑👑 https://t.co/4hxhulHKjp",
+  "url": "https://x.com/toly/status/2123618949023904055",
+  "likes": 26,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 8368,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123617606754336987",
+   "text": "$80M+ in $ANT volume on Solana since its Nasdaq debut. https://t.co/LNNkS8S70I"
+  }
+ }
+]

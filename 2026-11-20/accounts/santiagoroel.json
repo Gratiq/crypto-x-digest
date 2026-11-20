@@ -1,0 +1,37 @@
+[
+ {
+  "id": "2123488518458757439",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "original",
+  "created_at": "2026-11-19T18:48:09.000Z",
+  "text": "what looks smart today, may look incredibly stupid tomorrow, and vice versa. Be prepared to look stupid and investing becomes easier",
+  "url": "https://x.com/santiagoroel/status/2123488518458757439",
+  "likes": 96,
+  "retweets": 3,
+  "replies": 11,
+  "quotes": 1,
+  "impressions": 6004,
+  "bookmarks": 8
+ },
+ {
+  "id": "2123505964712403149",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "reply",
+  "created_at": "2026-11-19T19:57:29.000Z",
+  "text": "@NAUT_so DeFi 2019 after 2017 ICO crash",
+  "url": "https://x.com/santiagoroel/status/2123505964712403149",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 118,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123490123035930730",
+   "text": "@santiagoroel which call of yours looked the dumbest before it paid off?"
+  }
+ }
+]

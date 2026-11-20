@@ -1,125 +1,149 @@
-# @lookonchain — посты за 2026-11-19
+# @lookonchain — посты за 2026-11-20
 
-Всего: 11
+Всего: 12
 
-## 2026-11-18 10:17 UTC · цитата
+## 2026-11-19 09:16 UTC · пост
 
-The Binance hacker has moved another 78,415 $ETH ($142M) for laundering, continuing to swap the $ETH for $BTC via #THORChain.
-https://t.co/oyvL5c2L0n https://t.co/BXabl3UDJs
+Whale DNLo13 sold all 1.69M $TRUMP ($1.96M) that he bought at $1.9 a month ago, taking a ~$1.25M loss.
 
-❤ 233 · 🔁 14 · 💬 49 · цитат 11 · просмотров 58727  
-https://x.com/lookonchain/status/2122997562877821143
+https://t.co/i6LruuG6Km https://t.co/i21Vlit5zO
 
-## 2026-11-18 13:37 UTC · пост
+❤ 97 · 🔁 3 · 💬 47 · цитат 1 · просмотров 50422  
+https://x.com/lookonchain/status/2123344729463194082
 
-Ahead of #Anthropic's market debut, a whale is building a massive short position on #Anthropic on #Hyperliquid!
+## 2026-11-19 10:02 UTC · пост
 
-The position has already reached $93.87M, with over $4M in unrealized profit.
+Two whales unstaked a total of 2.31M $SOL ($169.4M) and deposited it into #CoinbasePrime today.
 
-https://t.co/rXtGUZVPtl
-https://t.co/8bjSmB7Bb7 https://t.co/rWJATV22we
+https://t.co/0tjnCQNkR3
+https://t.co/MduCgDaeNH https://t.co/MTxJKWm6q9
 
-❤ 324 · 🔁 21 · 💬 60 · цитат 8 · просмотров 69235  
-https://x.com/lookonchain/status/2123047896409092499
+❤ 225 · 🔁 15 · 💬 58 · цитат 2 · просмотров 51678  
+https://x.com/lookonchain/status/2123356320250343486
 
-## 2026-11-18 14:05 UTC · пост
+## 2026-11-19 10:10 UTC · пост
 
-Whale bc1q7s deposited 1,040 $BTC($67.17M) to #Binance in the past 24 hours.
+After predicting that $ETH, $ZEC, $NEAR, and $VVV would pump, Arthur Hayes(@CryptoHayes) transferred out 5.04M $USDC.
 
-https://t.co/rvhW9Y5J7l https://t.co/JB2uWfrF2k
+Is he planning to buy the dip on these tokens?
 
-❤ 154 · 🔁 7 · 💬 40 · цитат 2 · просмотров 49445  
-https://x.com/lookonchain/status/2123054971805675686
+https://t.co/gau6egd7Vm https://t.co/pS7tzsPVGZ
 
-## 2026-11-18 15:02 UTC · пост
+❤ 219 · 🔁 15 · 💬 64 · цитат 4 · просмотров 61007  
+https://x.com/lookonchain/status/2123358123239043541
 
-Nov 18 Update:
+## 2026-11-19 13:28 UTC · цитата
+
+In just one day, the whale shorting nearly $94M worth of Anthropic went from being up over $4M to being down over $2M!
+https://t.co/faKa7fPte6 https://t.co/w0RMHipgUM
+
+❤ 170 · 🔁 10 · 💬 35 · цитат 1 · просмотров 54487  
+https://x.com/lookonchain/status/2123407957761331464
+
+## 2026-11-19 13:45 UTC · пост
+
+Nov 19 Update:
 
 #Bitcoin ETFs:
-1D NetFlow: -4,216 $BTC(-$269.46M)🔴
-7D NetFlow: -14,277 $BTC(-$912.49M)🔴
+1D NetFlow: -4,658 $BTC(-$296.7M)🔴
+7D NetFlow: -15,314 $BTC(-$975.49M)🔴
 
 #Ethereum ETFs:
-1D NetFlow: -16,279 $ETH(-$29.14M)🔴
-7D NetFlow: -121,489 $ETH(-$217.47M)🔴 https://t.co/1ckl4kxSpN
+1D NetFlow: -9,904 $ETH(-$17.85M)🔴
+7D NetFlow: -65,373 $ETH(-$117.82M)🔴 https://t.co/rbMJlxphrQ
 
-❤ 131 · 🔁 7 · 💬 59 · цитат 4 · просмотров 46591  
-https://x.com/lookonchain/status/2123069422525092327
+❤ 103 · 🔁 6 · 💬 57 · цитат 6 · просмотров 47733  
+https://x.com/lookonchain/status/2123412407016186334
 
-## 2026-11-19 01:18 UTC · цитата
+## 2026-11-19 14:08 UTC · пост
 
-The #EthereumFoundation-linked wallet (0x5CBC) just dumped another 1,200 $ETH($2.14M).
-https://t.co/9XshsFOfT3 https://t.co/RJlDHwFSKG
+A hacker is looking to long $21.51M worth of $ETH at $1,551–$1,568. Will he get his wish?
 
-❤ 168 · 🔁 11 · 💬 43 · цитат 6 · просмотров 38358  
-https://x.com/lookonchain/status/2123224324601684020
+Someone (likely a hacker) received 5,270 $ETH from #TornadoCash and sold it for 9.51M $USDC at $1,805.
 
-## 2026-11-19 01:34 UTC · пост
+He then deposited the 9.51M $USDC into Hyperliquid and placed limit orders to long https://t.co/zJFi1TvAcW
 
-Pump fun(@Pumpfun) dumped 33,390 $SOL($2.44M) again 2 hours ago!
+❤ 211 · 🔁 10 · 💬 56 · цитат 4 · просмотров 67702  
+https://x.com/lookonchain/status/2123418176046379203
 
-In total, https://t.co/TcwYRTArT2 has sold 5,651,889 $SOL($890M) at an average price of $157.47.
+## 2026-11-20 01:46 UTC · пост
 
-https://t.co/kyztoJLCjt https://t.co/WbMZWDvDCB
+James Wynn(@JamesWynnReal) got liquidated 5 times during the market drop!
 
-❤ 181 · 🔁 11 · 💬 38 · цитат 8 · просмотров 38018  
-https://x.com/lookonchain/status/2123228375099818212
+He still holds ~$3.14M in $BTC and $SP500 longs.
 
-## 2026-11-19 01:39 UTC · пост
+Liquidation prices:
+$BTC: $60,177.61
+$SP500: $7,047.46
 
-A mysterious whale is accumulating $PEPE!
+https://t.co/qTBuTjPzWn https://t.co/i4x9EIgELB
 
-Newly created wallet "0x5011" withdrew 1.9T $PEPE ($7.15M) from Binance over the past 2 days.
+❤ 187 · 🔁 11 · 💬 63 · цитат 6 · просмотров 47778  
+https://x.com/lookonchain/status/2123593770893762994
 
-https://t.co/H7MH7yPHlP https://t.co/PxQEpqbHqQ
+## 2026-11-20 02:22 UTC · пост
 
-❤ 303 · 🔁 39 · 💬 35 · цитат 10 · просмотров 42825  
-https://x.com/lookonchain/status/2123229538188673195
+This guy is getting wrecked!
 
-## 2026-11-19 01:54 UTC · пост
+5 days ago, he got fully liquidated on his 51,707 $MSTR ($5M) long, losing $1.9M.
 
-AguilaTrades(@AguilaTrades) closed his $BTC short 1 hour ago, making $1.37M in profit.
+Just 4 hours ago, he got fully liquidated again on his 33,246 $CRCL ($1.69M) long, losing another $1.54M!
 
-He then flipped long, opening a 40x long on 1,000 $BTC ($60.66M), and is now sitting on $500K in unrealized losses.
+https://t.co/DC2GmIJswZ https://t.co/4GBWVFSuEU
 
-Liquidation price: $59,324.4
+❤ 133 · 🔁 9 · 💬 30 · цитат 3 · просмотров 40980  
+https://x.com/lookonchain/status/2123602747908141079
 
-https://t.co/jaJBeXPhew https://t.co/yFlQQjPa2L
+## 2026-11-20 03:20 UTC · пост
 
-❤ 249 · 🔁 13 · 💬 59 · цитат 4 · просмотров 48611  
-https://x.com/lookonchain/status/2123233529429692514
+Whale 0x4AB7 sold another 5,000 $ETH ($8.65M) to cut his losses.
 
-## 2026-11-19 03:12 UTC · пост
+He still holds 11,000 $ETH ($19.12M) and is down over $8.5M in total!
 
-Whales are accumulating $ETH!
+https://t.co/i2u8W7fqO4 https://t.co/63zDDUim4c
 
-Four wallets withdrew a total of 13,408 $ETH ($23.73M) from FalconX, Galaxy Digital, and OKX.
+❤ 122 · 🔁 6 · 💬 46 · цитат 3 · просмотров 37337  
+https://x.com/lookonchain/status/2123617451539832978
 
-https://t.co/bGTenneQRZ
-https://t.co/9YPjIQ18V8
-https://t.co/6oUCtUpLF3
-https://t.co/FYJfoR7ePv https://t.co/yBnyhKJ6rx
+## 2026-11-20 05:54 UTC · пост
 
-❤ 178 · 🔁 10 · 💬 44 · цитат 5 · просмотров 35377  
-https://x.com/lookonchain/status/2123253035371770345
+Has $XMR1 been hacked?
 
-## 2026-11-19 03:28 UTC · пост
+Attacker 0x1464 received 5.2M $XMR1 and dumped on Hyperliquid, then used the proceeds to buy $ETH.
 
-It's liquidation day again!
+So far, the attacker has spent 13.22M $USDC to buy 7,467 $ETH.
 
-Six whales on Hyperliquid got liquidated a total of 30 times, with 618.24 $BTC ($38.73M) liquidated at prices ranging from $63,364 to $62,055.
+https://t.co/NXCMzh31oO
+https://t.co/iC0ZoPsuOP https://t.co/d3ec15kqrr
+
+❤ 147 · 🔁 17 · 💬 44 · цитат 17 · просмотров 43894  
+https://x.com/lookonchain/status/2123656301561667859
+
+## 2026-11-20 07:08 UTC · пост
+
+Meet smart trader 0x7F49, who knows how to buy low and sell high!
+
+Mar 16: Sold 3,676 $ETH ($8.44M) at $2,296.3.
+
+Jun 5: Bought 4,851 $ETH ($8.1M) at $1,670.
+
+Aug 20 &amp; Oct 26: Sold 7,693 $ETH ($17.81M) at $2,315.6.
+
+Today: Bought 2,879 $ETH ($5M) at $1,736.5. https://t.co/B1EWZsPogg
+
+❤ 83 · 🔁 10 · 💬 21 · цитат 0 · просмотров 23965  
+https://x.com/lookonchain/status/2123674877383389489
+
+## 2026-11-20 07:29 UTC · пост
+
+10 tokens traded, 10 losses. Not a single winning trade!
+
+This guy has lost $192.5K in total!
+
+He spent $214.7K to buy $DCTY and sold it all just 20 minutes ago for only $49.2K, taking a $162.8K loss (-75.69%)!
 
 Wallets:
-0x6c2c8c6e60dfaf81145ffad13736a4847ad4a201
-0x448a4f64f5dc17817f23f5d1bf488db19359e050 https://t.co/ThQkMEeZ3d
+EMeWnq5NMc5c5TZVqmdghSBGc7x8rMMzMss5rP8i1hgj https://t.co/6AXCPdjh17
 
-❤ 128 · 🔁 7 · 💬 61 · цитат 9 · просмотров 39959  
-https://x.com/lookonchain/status/2123257156531302619
-
-## 2026-11-19 07:22 UTC · пост
-
-The Binance hacker has moved another 137,602 $ETH ($248.23M) for laundering.
-https://t.co/jKWvcOSJCB https://t.co/ZcIoZLlAhA
-
-❤ 21 · 🔁 4 · 💬 7 · цитат 0 · просмотров 17228  
-https://x.com/lookonchain/status/2123315988565471543
+❤ 11 · 🔁 1 · 💬 5 · цитат 1 · просмотров 13916  
+https://x.com/lookonchain/status/2123680131260813330

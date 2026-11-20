@@ -9,4 +9,4 @@
 - Посты аккаунта: https://github.com/Gratiq/crypto-x-digest/raw/main/latest/accounts/<handle>.md (или .json)
 - Дата выпуска: https://github.com/Gratiq/crypto-x-digest/raw/main/latest/DATE.txt
 
-Архив по датам: папки `YYYY-MM-DD/` с той же структурой, например https://github.com/Gratiq/crypto-x-digest/raw/main/2026-11-19/digest.zip
+Архив по датам: папки `YYYY-MM-DD/` с той же структурой, например https://github.com/Gratiq/crypto-x-digest/raw/main/2026-11-20/digest.zip

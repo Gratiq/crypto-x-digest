@@ -1,142 +1,82 @@
 [
  {
-  "id": "2123026114922844209",
+  "id": "2123406743455863155",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "retweet",
+  "created_at": "2026-11-19T13:23:13.000Z",
+  "text": "RT @rachit: New Episode with @hansolar21 from @variational_io \n\nWe Discuss:\n\n- Upcoming TGE\n- Variational's Broker Model, Options and Pro\n-…",
+  "url": "https://x.com/hansolar21/status/2123406743455863155",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1217,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123389076984443121",
+   "text": "New Episode with @hansolar21 from @variational_io \n\nWe Discuss:\n\n- Upcoming TGE\n- Variational's Broker Model, Options and Pro\n- Midterms, Anthropic IPO and shorting $TRUMP\n\n1:16 Korean AI and the memory trade\n3:07 From the Lighter team to the Variational team\n4:43 RWAs and long https://t.co/H1eZMXoSxT"
+  }
+ },
+ {
+  "id": "2123579755719213215",
   "username": "hansolar21",
   "username_canon": "hansolar21",
   "type": "reply",
-  "created_at": "2026-11-18T12:10:44.000Z",
-  "text": "@0xThoor impressive!",
-  "url": "https://x.com/hansolar21/status/2123026114922844209",
+  "created_at": "2026-11-20T00:50:42.000Z",
+  "text": "@mattbcapital @arcus_xyz Congrats Matt!",
+  "url": "https://x.com/hansolar21/status/2123579755719213215",
+  "likes": 10,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 560,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123569674000773463",
+   "text": "Excited to share I've joined @arcus_xyz as product marketing lead, working on comms, GTM, and BD.\n\nI believe perps will have many winners. Lighter and Hyperliquid remain the gold standard, and the Lighter community shaped where I am today.\n\nForever grateful. Let's keep building!"
+  }
+ },
+ {
+  "id": "2123658165858553964",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-20T06:02:17.000Z",
+  "text": "@Wild_Randomness how about data centers under water?",
+  "url": "https://x.com/hansolar21/status/2123658165858553964",
   "likes": 0,
   "retweets": 0,
-  "replies": 1,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 194,
+  "impressions": 271,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2123017444537377198",
-   "text": "Started out as mostly just farming the funding 1.5 months ago. \n\nThe past ~3 weeks nearly all the return has come from capturing the price spread on wicks like this however.\n\nQuite basic signal and vibe coded spread order algo. https://t.co/3wbUBWCwQI"
+   "id": "2123644485448225207",
+   "text": "No more Data Centers in Space?\n\nWould Gavin Baker Lie? https://t.co/X0ThCSQUQX https://t.co/OkFCtoBbYx"
   }
  },
  {
-  "id": "2123086557561467178",
+  "id": "2123677228529787231",
   "username": "hansolar21",
   "username_canon": "hansolar21",
   "type": "quote",
-  "created_at": "2026-11-18T16:10:55.000Z",
-  "text": "Variational is generational. https://t.co/YuUNkzZ9Ev",
-  "url": "https://x.com/hansolar21/status/2123086557561467178",
-  "likes": 167,
-  "retweets": 4,
-  "replies": 18,
+  "created_at": "2026-11-20T07:18:01.000Z",
+  "text": "see you next summer guys 😭 https://t.co/v64YW727Lm",
+  "url": "https://x.com/hansolar21/status/2123677228529787231",
+  "likes": 24,
+  "retweets": 3,
+  "replies": 4,
   "quotes": 0,
-  "impressions": 4169,
-  "bookmarks": 2,
-  "referenced": {
-   "type": "quoted",
-   "id": "2123059725097177228",
-   "text": "Variational has raised a $110M Series B at a $1.5B valuation, led by Bain Capital Crypto with support from Dragonfly, HSG, Peak XV, 50T Funds, and others.\n\nThe capital will lift open interest caps on Omni and unlock hundreds of new stock, index, commodity, and FX listings. https://t.co/Wg748qcpNM"
-  }
- },
- {
-  "id": "2123239121640731061",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "quote",
-  "created_at": "2026-11-19T02:17:09.000Z",
-  "text": "In crypto, who invests often matters more than how much.\n\nBain Capital Crypto : Lead investor\nDragonfly : Early backer\nHSG : Formerly Sequoia China. $61B+ AUM. ByteDance, Alibaba, SHEIN\nPeak XV : Formerly Sequoia India. $10B+ AUM. Zomato, Razorpay, Groww\n50T Funds : Dan Tapiero. https://t.co/YuUNkzZ9Ev",
-  "url": "https://x.com/hansolar21/status/2123239121640731061",
-  "likes": 126,
-  "retweets": 7,
-  "replies": 19,
-  "quotes": 0,
-  "impressions": 6648,
-  "bookmarks": 8,
-  "referenced": {
-   "type": "quoted",
-   "id": "2123059725097177228",
-   "text": "Variational has raised a $110M Series B at a $1.5B valuation, led by Bain Capital Crypto with support from Dragonfly, HSG, Peak XV, 50T Funds, and others.\n\nThe capital will lift open interest caps on Omni and unlock hundreds of new stock, index, commodity, and FX listings. https://t.co/Wg748qcpNM"
-  }
- },
- {
-  "id": "2123240451293761562",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "reply",
-  "created_at": "2026-11-19T02:22:26.000Z",
-  "text": "@koolkrypto223 Im definitely feeling a lot of dejavu lately 😅",
-  "url": "https://x.com/hansolar21/status/2123240451293761562",
-  "likes": 4,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 601,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123240220938129598",
-   "text": "@hansolar21 This increasingly feels like it's $LIT TGE 2.0 if we're talking about the cap table 🥲"
-  }
- },
- {
-  "id": "2123256524185522409",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "reply",
-  "created_at": "2026-11-19T03:26:18.000Z",
-  "text": "@JustDeauIt I'd argue it's one of the more interesting game-theoretic distribution mechanisms for getting tokens into the hands of those who control arguably the most valuable resource of the current zeitgeist: compute.\n\nThe reflexive loop is something like:\n\n1. AI firms mine PRL to",
-  "url": "https://x.com/hansolar21/status/2123256524185522409",
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 333,
+  "impressions": 1108,
   "bookmarks": 1,
   "referenced": {
-   "type": "replied_to",
-   "id": "2123112788629618798",
-   "text": "Haven't done a deep dive on PRL, so maybe I'm ignorant on this. \n\nBut it seems the whole thesis for PRL investors is that Pearl will somehow capture BTC investors' mindshare and grow as a Proof-of-Work network through AI firm adoption. \n\nOk. I think I get that piece. \n\nNaturally, https://t.co/UIppcH3KZA"
-  }
- },
- {
-  "id": "2123257347388936488",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "reply",
-  "created_at": "2026-11-19T03:29:34.000Z",
-  "text": "@NarwhalTan 👀",
-  "url": "https://x.com/hansolar21/status/2123257347388936488",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 140,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123143209106985031",
-   "text": "Pearl Research is live on OpenRouter.\n\nIt serves DeepSeek V4.1 Flash. Once FP8 hits mainnet, GPUs serving models like this can mine $PEARL at almost no extra cost.\n\nhttps://t.co/lAuD7PxY3Z"
-  }
- },
- {
-  "id": "2123258748802330846",
-  "username": "hansolar21",
-  "username_canon": "hansolar21",
-  "type": "reply",
-  "created_at": "2026-11-19T03:35:08.000Z",
-  "text": "@Wild_Randomness dropping a prayer here 🥲🙏",
-  "url": "https://x.com/hansolar21/status/2123258748802330846",
-  "likes": 2,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 263,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123255570102903217",
-   "text": "Battleground State https://t.co/SIQVCtKYdl https://t.co/VGVcoJAbPu"
+   "type": "quoted",
+   "id": "2123611250806698330",
+   "text": "Basically in every bubble in history that has burst, you didn't want to reallocate to it until at least 12 months after the top\n\nGLHF https://t.co/h100xiXRTq"
   }
  }
 ]

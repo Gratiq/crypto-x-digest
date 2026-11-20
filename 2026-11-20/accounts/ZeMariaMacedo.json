@@ -1,0 +1,92 @@
+[
+ {
+  "id": "2123414466725662841",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-19T13:53:54.000Z",
+  "text": "This seems pretty bad \n\nCoinbase holds all the USDC backing USDS. If this stuff is true, it means a US publicly listed company is currently custodying commingled Lazarus funds https://t.co/BY9ZRqps0p",
+  "url": "https://x.com/ZeMariaMacedo/status/2123414466725662841",
+  "likes": 152,
+  "retweets": 6,
+  "replies": 11,
+  "quotes": 3,
+  "impressions": 22416,
+  "bookmarks": 58,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123387157381255452",
+   "text": "EXCLUSIVE: North Korean hackers and other illicit actors routed $518M through Sky’s Peg Stability Module, converting freezable $USDC into unfreezable $DAI and $USDS, with $101.9M directly linked to wallets including those behind the Bybit hack, per Inca Digital.\n\n@sndr_krisztian https://t.co/H4V9pR3Azu"
+  }
+ },
+ {
+  "id": "2123433306880655489",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-19T15:08:46.000Z",
+  "text": "Despite all the chatter, $ANT unlock schedule seems pretty standard compared to other IPOs https://t.co/RBu49Kldhq https://t.co/whNYjbk3v1",
+  "url": "https://x.com/ZeMariaMacedo/status/2123433306880655489",
+  "likes": 12,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 1,
+  "impressions": 3630,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123029277520105565",
+   "text": "We merely adopted the low-float high FDV launch. TradFi was born in it. Molded by it https://t.co/DH41p93FHR"
+  }
+ },
+ {
+  "id": "2123451198800117856",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "original",
+  "created_at": "2026-11-19T16:19:52.000Z",
+  "text": "Anthropic is the most valuable company ever per employee at IPO, and it's not rly close https://t.co/dI63eo5iMB",
+  "url": "https://x.com/ZeMariaMacedo/status/2123451198800117856",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 890,
+  "bookmarks": 0
+ },
+ {
+  "id": "2123452575546851827",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "original",
+  "created_at": "2026-11-19T16:25:20.000Z",
+  "text": "Anthropic is the most valuable company ever per employee at IPO, and it's not rly close\n\n3x SpaceX, 6x Facebook, and 14x Google 🤯 https://t.co/MccWBgOXHZ",
+  "url": "https://x.com/ZeMariaMacedo/status/2123452575546851827",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "impressions": 2222,
+  "bookmarks": 2
+ },
+ {
+  "id": "2123526935984955469",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-19T21:20:49.000Z",
+  "text": "Having read more about it, I don’t think it’s as bad as I initially thought https://t.co/9vQ6q5EhgM",
+  "url": "https://x.com/ZeMariaMacedo/status/2123526935984955469",
+  "likes": 15,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 2524,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123414466725662841",
+   "text": "This seems pretty bad \n\nCoinbase holds all the USDC backing USDS. If this stuff is true, it means a US publicly listed company is currently custodying commingled Lazarus funds https://t.co/BY9ZRqps0p"
+  }
+ }
+]

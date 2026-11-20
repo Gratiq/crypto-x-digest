@@ -1,42 +1,282 @@
 [
  {
-  "id": "2123117364367839512",
+  "id": "2123353937088557348",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "reply",
-  "created_at": "2026-11-18T18:13:19.000Z",
-  "text": "@ExoGhost Absolute cowboy with the location of those screws 😂😂😂",
-  "url": "https://x.com/0xSammy/status/2123117364367839512",
-  "likes": 0,
+  "created_at": "2026-11-19T09:53:23.000Z",
+  "text": "@rektmando Get the popcorn",
+  "url": "https://x.com/0xSammy/status/2123353937088557348",
+  "likes": 1,
   "retweets": 0,
   "replies": 0,
-  "quotes": 1,
-  "impressions": 665,
+  "quotes": 0,
+  "impressions": 309,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2123057388060045644",
-   "text": "\"GTA 6 is the greatest game ever made\"\n\nThe gameplay: https://t.co/EquOA1Gr99"
+   "id": "2123190365633352075",
+   "text": "we have seen this before... https://t.co/Oysb9SZ7DX"
   }
  },
  {
-  "id": "2123128300004380735",
+  "id": "2123354247408619901",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "reply",
-  "created_at": "2026-11-18T18:56:47.000Z",
-  "text": "@FT “Situationally unaware”?",
-  "url": "https://x.com/0xSammy/status/2123128300004380735",
+  "created_at": "2026-11-19T09:54:37.000Z",
+  "text": "@GrindingPoet I feel you \n\nStrange situation currently",
+  "url": "https://x.com/0xSammy/status/2123354247408619901",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 342,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123097122463691069",
+   "text": "honestly speaking, i’m in such a terrible place mentally, that GTA VI or the markets don’t even register to me anymore. \n\npossibly the worst i have ever been."
+  }
+ },
+ {
+  "id": "2123355690920198400",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-19T10:00:21.000Z",
+  "text": "RT @CChiemelie92195: Yes. political ignorance plus rising crypto rules has made the UK a hard place to build, so talent keeps leaving for f…",
+  "url": "https://x.com/0xSammy/status/2123355690920198400",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 3287,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123355283946918318",
+   "text": "Yes. political ignorance plus rising crypto rules has made the UK a hard place to build, so talent keeps leaving for friendlier jurisdictions https://t.co/v47qyBvXza"
+  }
+ },
+ {
+  "id": "2123355811283968114",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T10:00:50.000Z",
+  "text": "@X Rogue",
+  "url": "https://x.com/0xSammy/status/2123355811283968114",
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 631,
+  "impressions": 363,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2123125852468555919",
-   "text": "‘Situational Awareness 2.0’: Leopold Aschenbrenner plots comeback https://t.co/pgnEAjGcGx"
+   "id": "2123280290281910544",
+   "text": "everything is officially after gta 6 now"
+  }
+ },
+ {
+  "id": "2123447825367191626",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "quote",
+  "created_at": "2026-11-19T16:06:27.000Z",
+  "text": "TradFi running the same low float, high FDV playbook crypto bros spent the last cycle doing\n\n~5% of $ANT shares in the IPO, with unlocked supply set to grow over 12x in the next year according to DefiLlama https://t.co/VLz8NDvQ3v",
+  "url": "https://x.com/0xSammy/status/2123447825367191626",
+  "likes": 33,
+  "retweets": 4,
+  "replies": 8,
+  "quotes": 0,
+  "impressions": 6236,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123437976906879351",
+   "text": "Only about 5% of Anthropic shares are in the IPO.\n\nOver the next year, the number of unlocked shares will grow by over 12X.\n\nWe're tracking all ANT unlocks on our Pre-IPO dashboard.\nhttps://t.co/gC3IrRzj2h https://t.co/e8QD3hzoxU"
+  }
+ },
+ {
+  "id": "2123448147267420471",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "quote",
+  "created_at": "2026-11-19T16:07:44.000Z",
+  "text": "I produced a benchmark against recent IPOs in last week’s newsletter: https://t.co/GMkmT3wo9s https://t.co/fgjqOX9AHs",
+  "url": "https://x.com/0xSammy/status/2123448147267420471",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 614,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2120489012922098156",
+   "text": "Direct link to newsletter number 201:\n\nhttps://t.co/Go7JtKIBvT"
+  }
+ },
+ {
+  "id": "2123466566914453956",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T17:20:56.000Z",
+  "text": "@bull_boiy Ikr",
+  "url": "https://x.com/0xSammy/status/2123466566914453956",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 138,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123452584786526348",
+   "text": "@0xSammy i hope a lot of ppl investing in it have factored this in"
+  }
+ },
+ {
+  "id": "2123466788146958477",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-19T17:21:49.000Z",
+  "text": "RT @TheRoaringKitty: https://t.co/ecmmzywnsA",
+  "url": "https://x.com/0xSammy/status/2123466788146958477",
+  "likes": 0,
+  "retweets": 7269,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2337,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123453877211246666",
+   "text": "https://t.co/ecmmzywnsA"
+  }
+ },
+ {
+  "id": "2123466934390051074",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T17:22:23.000Z",
+  "text": "@TheRoaringKitty Anthropic allocation? \n\nWhat we pamping",
+  "url": "https://x.com/0xSammy/status/2123466934390051074",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 769,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123453877211246666",
+   "text": "https://t.co/ecmmzywnsA"
+  }
+ },
+ {
+  "id": "2123467166276018336",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T17:23:19.000Z",
+  "text": "@binji_x Nah it’s just bear market things",
+  "url": "https://x.com/0xSammy/status/2123467166276018336",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 230,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123447352157725149",
+   "text": "unfollowing people really mutes your engagement lol\n\nill refollow my favs once the cleanse is done!"
+  }
+ },
+ {
+  "id": "2123489684592488559",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T18:52:47.000Z",
+  "text": "@proofofnathan XPL trillions?",
+  "url": "https://x.com/0xSammy/status/2123489684592488559",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 238,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123481403073732790",
+   "text": "It’s real.\n\nPlasma UAE takeover begins. https://t.co/4pGgO8WHW0 https://t.co/elY91lkDeZ"
+  }
+ },
+ {
+  "id": "2123490138613260798",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "quote",
+  "created_at": "2026-11-19T18:54:36.000Z",
+  "text": "@TheRoaringKitty 👀\n\nDid you cut a deal with the devil? https://t.co/CGPbZXIVav",
+  "url": "https://x.com/0xSammy/status/2123490138613260798",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 460,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123479355368300723",
+   "text": "JUST IN: President Trump discloses a $1,001 to $15,000 purchase of GameStop stock in his latest financial filing."
+  }
+ },
+ {
+  "id": "2123490333673619497",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T18:55:22.000Z",
+  "text": "@zacxbt They’re scurred",
+  "url": "https://x.com/0xSammy/status/2123490333673619497",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 207,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123455439371485646",
+   "text": ""
+  }
+ },
+ {
+  "id": "2123501266768699752",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-19T19:38:49.000Z",
+  "text": "@lucy_guo Does your ex know?",
+  "url": "https://x.com/0xSammy/status/2123501266768699752",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1829,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123465527402340663",
+   "text": "If you ever feel stupid, just know that I didn’t invest in Anthropic at $183B because I wanted to continue supporting my ex’s lifestyle \n\n(Luckily my seed investment did well and I landed 9 figures of Anthropic stock though)"
   }
  }
 ]

@@ -1,62 +1,37 @@
-# @hansolar21 — посты за 2026-11-19
+# @hansolar21 — посты за 2026-11-20
 
-Всего: 7
+Всего: 4
 
-## 2026-11-18 12:10 UTC · ответ
+## 2026-11-19 13:23 UTC · репост
 
-@0xThoor impressive!
+RT @rachit: New Episode with @hansolar21 from @variational_io 
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 194  
-https://x.com/hansolar21/status/2123026114922844209
+We Discuss:
 
-## 2026-11-18 16:10 UTC · цитата
+- Upcoming TGE
+- Variational's Broker Model, Options and Pro
+-…
 
-Variational is generational. https://t.co/YuUNkzZ9Ev
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1217  
+https://x.com/hansolar21/status/2123406743455863155
 
-❤ 167 · 🔁 4 · 💬 18 · цитат 0 · просмотров 4169  
-https://x.com/hansolar21/status/2123086557561467178
+## 2026-11-20 00:50 UTC · ответ
 
-## 2026-11-19 02:17 UTC · цитата
+@mattbcapital @arcus_xyz Congrats Matt!
 
-In crypto, who invests often matters more than how much.
+❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 560  
+https://x.com/hansolar21/status/2123579755719213215
 
-Bain Capital Crypto : Lead investor
-Dragonfly : Early backer
-HSG : Formerly Sequoia China. $61B+ AUM. ByteDance, Alibaba, SHEIN
-Peak XV : Formerly Sequoia India. $10B+ AUM. Zomato, Razorpay, Groww
-50T Funds : Dan Tapiero. https://t.co/YuUNkzZ9Ev
+## 2026-11-20 06:02 UTC · ответ
 
-❤ 126 · 🔁 7 · 💬 19 · цитат 0 · просмотров 6648  
-https://x.com/hansolar21/status/2123239121640731061
+@Wild_Randomness how about data centers under water?
 
-## 2026-11-19 02:22 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 271  
+https://x.com/hansolar21/status/2123658165858553964
 
-@koolkrypto223 Im definitely feeling a lot of dejavu lately 😅
+## 2026-11-20 07:18 UTC · цитата
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 601  
-https://x.com/hansolar21/status/2123240451293761562
+see you next summer guys 😭 https://t.co/v64YW727Lm
 
-## 2026-11-19 03:26 UTC · ответ
-
-@JustDeauIt I'd argue it's one of the more interesting game-theoretic distribution mechanisms for getting tokens into the hands of those who control arguably the most valuable resource of the current zeitgeist: compute.
-
-The reflexive loop is something like:
-
-1. AI firms mine PRL to
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 333  
-https://x.com/hansolar21/status/2123256524185522409
-
-## 2026-11-19 03:29 UTC · ответ
-
-@NarwhalTan 👀
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 140  
-https://x.com/hansolar21/status/2123257347388936488
-
-## 2026-11-19 03:35 UTC · ответ
-
-@Wild_Randomness dropping a prayer here 🥲🙏
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 263  
-https://x.com/hansolar21/status/2123258748802330846
+❤ 24 · 🔁 3 · 💬 4 · цитат 0 · просмотров 1108  
+https://x.com/hansolar21/status/2123677228529787231

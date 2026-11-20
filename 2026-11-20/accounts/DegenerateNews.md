@@ -1,0 +1,135 @@
+# @DegenerateNews — посты за 2026-11-20
+
+Всего: 16
+
+## 2026-11-19 12:00 UTC · пост
+
+NEW: NORTH KOREA-LINKED WALLETS ROUTED $101.9M THROUGH DEFI PROTOCOL @SkyEcosystem'S PSM FOR $USDS AND $DAI - INCLUDING $91.5M FROM @Bybit_Official-HACK WALLETS IN 10 DAYS
+
+INCA DIGITAL TRACED $518M IN ILLICIT-LINKED SWAPS OVERALL https://t.co/g63PF3SEHz
+
+❤ 65 · 🔁 6 · 💬 17 · цитат 2 · просмотров 19802  
+https://x.com/DegenerateNews/status/2123385881000333429
+
+## 2026-11-19 13:31 UTC · пост
+
+NEW: @binance-OWNED @CoinMarketCap APP SENDS PUSH ALERT SAYING $BTC REACHED $57K https://t.co/pfLDL7WXHJ
+
+❤ 1849 · 🔁 112 · 💬 302 · цитат 128 · просмотров 299217  
+https://x.com/DegenerateNews/status/2123408763562631315
+
+## 2026-11-19 14:39 UTC · пост
+
+NEW: US BANK @Chase SAYS THIRD-PARTY VENDORS WERE HIT BY A CYBER ATTACK, WITH ATTACKERS LIKELY ACCESSING "CERTAIN MARKETING DATA" THAT "MAY INCLUDE SOME CUSTOMER NAMES AND EMAIL ADDRESSES" https://t.co/sDRQSVBR9l
+
+❤ 74 · 🔁 7 · 💬 21 · цитат 3 · просмотров 20756  
+https://x.com/DegenerateNews/status/2123425940583956633
+
+## 2026-11-19 14:42 UTC · пост
+
+NEW: @coinbase LAUNCHES CRYPTO OPTIONS TRADING - POWERED BY THE LIQUIDITY OF OPTIONS EXCHANGE @DeribitOfficial
+
+AVAILABLE ONLY TO ELIGIBLE USERS IN SELECT JURISDICTIONS OUTSIDE THE US https://t.co/bLP4eKPccH
+
+❤ 105 · 🔁 8 · 💬 32 · цитат 1 · просмотров 20381  
+https://x.com/DegenerateNews/status/2123426763330212203
+
+## 2026-11-19 14:58 UTC · пост
+
+NEW: @NEARProtocol SAYS ITS "SHIELD" SCREENING LAYER BLOCKED 99.7% (OVER $50M) OF @bitget-HACK LAUNDERING FLOWS ON @near_intents 
+
+IT ALSO BLOCKED ~96% OF @binance EXPLOIT-LINKED FLOWS THAT REACHED IT - AS OF NOV 3 https://t.co/I7sYXgOO0z
+
+❤ 55 · 🔁 1 · 💬 9 · цитат 0 · просмотров 17724  
+https://x.com/DegenerateNews/status/2123430663919681886
+
+## 2026-11-19 15:49 UTC · пост
+
+BREAKING: HARDWARE WALLET MAKER @Ledger CTO @P3b7_ SAYS HE'LL LEAVE THE COMPANY AT THE END OF 2026 AFTER NINE YEARS
+
+HE'S "BUILDING SOMETHING NEW" TO SOLVE "THIS SECURITY MESS" WITH "MORE VERY SOON" https://t.co/3ceigfoGMH
+
+❤ 74 · 🔁 5 · 💬 27 · цитат 2 · просмотров 21311  
+https://x.com/DegenerateNews/status/2123443527950446842
+
+## 2026-11-19 16:08 UTC · пост
+
+NEW: @SBF_FTX’S $500M ALAMEDA BET ON @AnthropicAI WOULD BE WORTH ABOUT $46.8B AT $ANT'S ~$105 INDICATED OPENING PRICE
+
+THE FTX ESTATE SOLD THOSE SHARES IN 2024 FOR $1.34B https://t.co/UPsdLugZqx
+
+❤ 190 · 🔁 12 · 💬 42 · цитат 11 · просмотров 37492  
+https://x.com/DegenerateNews/status/2123448450889244896
+
+## 2026-11-19 17:00 UTC · пост
+
+NEW: $ANT OPENS AT $111.50 AND TRADES AROUND $107 - UP ~29% FROM ITS $83 IPO PRICE ON DAY ONE https://t.co/vTW7pOWUXM
+
+❤ 69 · 🔁 1 · 💬 16 · цитат 1 · просмотров 17313  
+https://x.com/DegenerateNews/status/2123461537645957407
+
+## 2026-11-19 17:37 UTC · цитата
+
+NEW: @Ondo'S TOKENIZED ANTHROPIC STOCK ANTon GOES LIVE ON IPO DAY WITH 24/7 MINTING &amp; REDEMPTION
+
+LIVE ON ETHEREUM, SOLANA, AND BNB CHAIN VIA METAMASK, TRUST WALLET, LEDGER, UNISWAP, 1INCH, PANCAKESWAP &amp; MORE
+
+FOR ELIGIBLE INVESTORS OUTSIDE THE U.S., IN PERMITTED JURISDICTIONS https://t.co/GMTMQrSgjL
+
+❤ 39 · 🔁 0 · 💬 9 · цитат 0 · просмотров 15905  
+https://x.com/DegenerateNews/status/2123470741362414040
+
+## 2026-11-19 18:08 UTC · пост
+
+NEW: @binance SAYS ITS ANTHROPIC $ANT IPO @xStocksFi CAMPAIGN ON BINANCE WALLET GOT AN ALLOCATION "NOT IDEAL RELATIVE TO TOTAL USER COMMITMENTS"
+
+IT WILL HAND OUT THE ALLOCATION "AT NO COST", RETURN ALL COMMITTED USDC "IN FULL" AND ADD AN AIRDROP https://t.co/cFeGL7vP03
+
+❤ 95 · 🔁 8 · 💬 14 · цитат 2 · просмотров 22772  
+https://x.com/DegenerateNews/status/2123478563718349232
+
+## 2026-11-19 18:23 UTC · пост
+
+NEW: @moonpay APPLIES FOR A US NATIONAL BANK CHARTER WITH THE @USOCC
+
+THE PROPOSED MOONPAY NATIONAL TRUST BANK WOULD BE BASED IN MIAMI BEACH AND HELP GROW ITS CUSTODY AND STABLECOIN SERVICES https://t.co/SHiATEMe7g
+
+❤ 77 · 🔁 6 · 💬 21 · цитат 1 · просмотров 23141  
+https://x.com/DegenerateNews/status/2123482303817200035
+
+## 2026-11-19 19:52 UTC · пост
+
+NEW: @Backpack SECURITIES-ISSUED $ANT HAS NOW TRADED OVER $45M ON @solana VIA ASSET LISTING PLATFORM @sunrise https://t.co/i4M8KnEXU9
+
+❤ 124 · 🔁 13 · 💬 17 · цитат 5 · просмотров 20586  
+https://x.com/DegenerateNews/status/2123504686783189200
+
+## 2026-11-19 20:32 UTC · пост
+
+NEW: @tradexyz'S ANTHROPIC $ANT PERP HAS DONE $1.58B IN 24H VOLUME ON @HyperliquidX - MORE THAN DOUBLE $ETH'S $749M https://t.co/O6kCVH8McQ
+
+❤ 97 · 🔁 9 · 💬 24 · цитат 3 · просмотров 17427  
+https://x.com/DegenerateNews/status/2123514705033470062
+
+## 2026-11-19 22:23 UTC · пост
+
+NEW: @cz_binance UNFOLLOWS @blknoiz06 https://t.co/nvdMznLIyO
+
+❤ 672 · 🔁 29 · 💬 81 · цитат 20 · просмотров 55183  
+https://x.com/DegenerateNews/status/2123542692626137144
+
+## 2026-11-19 23:06 UTC · пост
+
+NEW: @Backpack SECURITIES-ISSUED $ANT LISTED ON @solana VIA @sunrise HAS NOW DONE OVER $70M IN VOLUME https://t.co/EMO2dNAHSR
+
+❤ 113 · 🔁 15 · 💬 25 · цитат 4 · просмотров 23570  
+https://x.com/DegenerateNews/status/2123553479704871388
+
+## 2026-11-20 03:53 UTC · пост
+
+NEW: @solana SAW OVER 10X AS MANY $ANT TRADES AS @RobinhoodCrypto CHAIN ON ANTHROPIC'S IPO DAY, 815K+ VS 79K - PER @sunrise
+
+SOLANA ALSO LED ON VOLUME ($75M+ VS $28M) AND HOLDERS (13,100+ VS 1,474) https://t.co/Q743VPYHKv
+
+❤ 123 · 🔁 16 · 💬 20 · цитат 0 · просмотров 13790  
+https://x.com/DegenerateNews/status/2123625815485379046

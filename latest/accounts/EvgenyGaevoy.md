@@ -1,28 +1,42 @@
-# @EvgenyGaevoy — посты за 2026-11-19
+# @EvgenyGaevoy — посты за 2026-11-20
 
-Всего: 3
+Всего: 5
 
-## 2026-11-18 13:59 UTC · ответ
+## 2026-11-19 11:02 UTC · репост
 
-@0xWenMoon @0x_Zhuang really? I mostly see the overly positive stuff (which is not that far from how I perceived it few times I've been there😅)
+RT @JeffLadish: This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 532  
-https://x.com/EvgenyGaevoy/status/2123053552994021528
+❤ 0 · 🔁 558 · 💬 0 · цитат 0 · просмотров 1451  
+https://x.com/EvgenyGaevoy/status/2123371243978084374
 
-## 2026-11-18 16:25 UTC · репост
+## 2026-11-19 15:13 UTC · цитата
 
-RT @wintermute_t: Cambridge students played Blotto with us at @cuats_algos
+😭😭😭😭😭 https://t.co/S2oS1elQq7
 
-Our traders, including two Cambridge alumni, ran the games with…
+❤ 65 · 🔁 0 · 💬 2 · цитат 0 · просмотров 10738  
+https://x.com/EvgenyGaevoy/status/2123434394463387993
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 996  
-https://x.com/EvgenyGaevoy/status/2123090210552725719
+## 2026-11-19 17:32 UTC · репост
 
-## 2026-11-18 18:38 UTC · репост
+RT @bebop_dex: Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.
 
-RT @base: Every market needs liquidity
+$ANTx is now live for trading on https://t.co/maC2…
 
-Full episode tomorrow https://t.co/mbUE2n8DLV
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1143  
+https://x.com/EvgenyGaevoy/status/2123469442919096646
 
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 1061  
-https://x.com/EvgenyGaevoy/status/2123123603008807361
+## 2026-11-19 18:08 UTC · пост
+
+https://t.co/ceIJkK08zO
+
+❤ 1033 · 🔁 36 · 💬 60 · цитат 15 · просмотров 35041  
+https://x.com/EvgenyGaevoy/status/2123478657117159544
+
+## 2026-11-19 19:12 UTC · репост
+
+RT @base: Every trade needs someone on the other side
+
+We sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wi…
+
+❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 1085  
+https://x.com/EvgenyGaevoy/status/2123494726414356925

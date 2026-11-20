@@ -1,22 +1,18 @@
-# @zeuuss_01 — посты за 2026-11-19
+# @zeuuss_01 — посты за 2026-11-20
 
 Всего: 1
 
-## 2026-11-19 04:02 UTC · цитата
+## 2026-11-20 00:45 UTC · цитата
 
-Claude opus 5.5 just F*CKED actual editors.
+This AI page hit 175K followers with just 88 posts, and one reel did 88.9M views 🤯
 
-this account didn't exist 4 days ago.
+The numbers:
 
-→ 4 videos
-→ 18.8M views on one
-→ 31M+ views total
-→ 28K followers
+→ 175K followers from 88 posts
+→ 88.9M views on the top reel
+→ 20.8M and 17.9M on the next two
 
-the format is simple:
-a first-person disaster story that ends on a choice.
-"boat or helicopter?"
-everyone comments their https://t.co/kK0wdYiuAv https://t.co/5NYFFsboJa
+The main character is Baby Hazel, a little girl who copies everything grown-ups https://t.co/BGqqMxpWnr https://t.co/5NYFFsboJa
 
-❤ 18 · 🔁 1 · 💬 1 · цитат 0 · просмотров 1805  
-https://x.com/zeuuss_01/status/2123265685493055601
+❤ 18 · 🔁 1 · 💬 3 · цитат 0 · просмотров 1722  
+https://x.com/zeuuss_01/status/2123578545792340192

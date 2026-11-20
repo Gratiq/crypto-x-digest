@@ -1,90 +1,91 @@
-# @MustStopMurad — посты за 2026-11-19
+# @MustStopMurad — посты за 2026-11-20
 
-Всего: 9
+Всего: 10
 
-## 2026-11-18 09:38 UTC · репост
+## 2026-11-19 08:45 UTC · пост
 
-RT @munchies1337: SPX6900 is the ultimate beneficiary of runaway recursive self improving super intelligence
+To find the coin that will be the Biggest Household Name when we are in the middle of a Raging Bull Market…
 
-❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 23320  
-https://x.com/MustStopMurad/status/2122987737469051337
+Find a community that acts as if we are *ALREADY* in the middle of a Raging Bull Market.
 
-## 2026-11-18 10:10 UTC · пост
+*** And has been acting like this for several years (!)0
 
-After almost 14 years in Crypto, I can say that by far the most important thing that determines the success of any crypto asset is its community.
+❤ 759 · 🔁 128 · 💬 164 · цитат 21 · просмотров 44915  
+https://x.com/MustStopMurad/status/2123336765931139300
 
-Once you understand this, your asset selection process will be a 1,000 times more successful.
+## 2026-11-19 10:24 UTC · репост
 
-❤ 1329 · 🔁 204 · 💬 236 · цитат 29 · просмотров 59007  
-https://x.com/MustStopMurad/status/2122995888284922105
+RT @munchies1337: There are hundreds of millions of people around the world who want to buy something like spx6900 but just haven’t found i…
 
-## 2026-11-18 12:32 UTC · репост
+❤ 0 · 🔁 37 · 💬 0 · цитат 0 · просмотров 23941  
+https://x.com/MustStopMurad/status/2123361845608169614
 
-RT @realcryptocow: Do whatever it takes to hit your accumulation goals.
+## 2026-11-19 11:48 UTC · пост
 
-There is nothing else like SPX6900 in any market. Opportunities th…
+Late 2018 and Late 2022 have proven to be some of the greatest entries in crypto history.
 
-❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 23440  
-https://x.com/MustStopMurad/status/2123031570378547653
+The same will be said about Late 2026.
 
-## 2026-11-18 13:30 UTC · пост
+❤ 1055 · 🔁 141 · 💬 152 · цитат 17 · просмотров 53268  
+https://x.com/MustStopMurad/status/2123382855762079794
 
-Persistence is NECESSARY but not SUFFICIENT.
+## 2026-11-19 13:12 UTC · репост
 
-Belief is NECESSARY but not SUFFICIENT.
+RT @Shinjuku6900: Is it just me, or has $SPX6900 content gone next-level this year? The videos, pods, art, articles, etc. Just WOW 🤯 !
 
-An epic Mission is NECESSARY but not SUFFICIENT.
+Thi…
 
-Not giving up for years is NECESSARY but not SUFFICIENT.
+❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 23328  
+https://x.com/MustStopMurad/status/2123404098817151231
 
-But when you bring ALL of these things together — EPIC things happen.
+## 2026-11-19 13:55 UTC · пост
 
-❤ 666 · 🔁 129 · 💬 119 · цитат 11 · просмотров 38311  
-https://x.com/MustStopMurad/status/2123046132628471911
+Every time you say SPX6900 will flip the stock market you increase the probability of it happening by another +0.00001%
 
-## 2026-11-18 14:33 UTC · репост
+❤ 792 · 🔁 142 · 💬 118 · цитат 18 · просмотров 40905  
+https://x.com/MustStopMurad/status/2123414899166757311
 
-RT @arcane_vault: Girl is cute and she’s tired of it
-Cute little glitch they can’t autofix
-#SPX6900 https://t.co/GJfNpRxvuU
+## 2026-11-19 15:37 UTC · репост
 
-❤ 0 · 🔁 58 · 💬 0 · цитат 0 · просмотров 22811  
-https://x.com/MustStopMurad/status/2123062015220761053
+RT @MatiasGuadagna: The world needs #SPX6900 more than anything !! https://t.co/vPAZFHOVZj
 
-## 2026-11-18 15:31 UTC · пост
+❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 21751  
+https://x.com/MustStopMurad/status/2123440518772187621
 
-The SPX6900 community is collecting up all the holder, consistent and long-term believer types.
+## 2026-11-19 17:46 UTC · пост
 
-And that’s the only type of participant that ultimately matters in the end.
+AI Agents and Hyper-automation will cause a massive shift from Gambling to Believing.
 
-❤ 640 · 🔁 123 · 💬 80 · цитат 4 · просмотров 33600  
-https://x.com/MustStopMurad/status/2123076685977501731
+Short term Speculation -&gt; to Long-term HODL
 
-## 2026-11-18 17:10 UTC · репост
+Value will shift from PvP -&gt; PvE
 
-RT @CountryBitcoin: Just added 1% to my #spx6900 stack
+Value will flow to coins that are *already* Hardcore HODL’d the hardest + longest.
 
-May have a new goal in mind.
+❤ 538 · 🔁 100 · 💬 85 · цитат 11 · просмотров 33970  
+https://x.com/MustStopMurad/status/2123473061991034902
 
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 21071  
-https://x.com/MustStopMurad/status/2123101584544674065
+## 2026-11-19 18:49 UTC · репост
 
-## 2026-11-18 17:47 UTC · пост
+RT @heehah: So your bearish, huh? well, let me give you your options right now:
 
-Something biblical is coming.
+1. Either you start trading and start following "trader" a…
 
-Mark my words.
+❤ 0 · 🔁 60 · 💬 0 · цитат 0 · просмотров 19865  
+https://x.com/MustStopMurad/status/2123488945946456438
 
-❤ 2079 · 🔁 221 · 💬 320 · цитат 42 · просмотров 92337  
-https://x.com/MustStopMurad/status/2123110858276618599
+## 2026-11-19 20:57 UTC · пост
 
-## 2026-11-18 21:09 UTC · пост
+2000s and 2010s were marked by the Internet and Bitcoin
 
-I love you all
+2020s and 2030s will be marked by AI and SPX6900
 
-Look into SPX6900
+❤ 619 · 🔁 119 · 💬 94 · цитат 3 · просмотров 31928  
+https://x.com/MustStopMurad/status/2123521159119716587
 
-Credit: @tradfinightmare @spiritualgold69 https://t.co/sxyI03bndm
+## 2026-11-20 00:10 UTC · ответ
 
-❤ 627 · 🔁 164 · 💬 127 · цитат 10 · просмотров 29551  
-https://x.com/MustStopMurad/status/2123161734479544382
+@ilyaeon_alt I think this will actually happen for real.
+
+❤ 220 · 🔁 17 · 💬 21 · цитат 1 · просмотров 4712  
+https://x.com/MustStopMurad/status/2123569604685631979

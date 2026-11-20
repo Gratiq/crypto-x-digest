@@ -1,31 +1,31 @@
-# @LucaNetz — посты за 2026-11-19
+# @LucaNetz — посты за 2026-11-20
 
 Всего: 4
 
-## 2026-11-18 22:11 UTC · цитата
+## 2026-11-19 18:00 UTC · цитата
 
-A perfect gift this holiday season 🐧 https://t.co/V9P12cCFQP
+Mystery box burners 👇 https://t.co/XgO33Po74K
 
-❤ 159 · 🔁 16 · 💬 21 · цитат 0 · просмотров 6539  
-https://x.com/LucaNetz/status/2123177369582358781
+❤ 229 · 🔁 16 · 💬 32 · цитат 2 · просмотров 10259  
+https://x.com/LucaNetz/status/2123476588092326310
 
-## 2026-11-18 22:11 UTC · цитата
+## 2026-11-19 18:02 UTC · ответ
 
-👀 https://t.co/ZswRXBB4D9
+@drewxeth @pudgypenguins 🙏
 
-❤ 110 · 🔁 7 · 💬 20 · цитат 0 · просмотров 5762  
-https://x.com/LucaNetz/status/2123177403623297499
+❤ 20 · 🔁 1 · 💬 1 · цитат 0 · просмотров 914  
+https://x.com/LucaNetz/status/2123477111956476117
 
-## 2026-11-18 22:15 UTC · цитата
+## 2026-11-19 18:30 UTC · цитата
 
-GTA6 &lt;&gt; 6th Pudgy Penguins party in Miami 🔮 https://t.co/FSVw5q67H9
+🐧 https://t.co/UzFikkD7ec
 
-❤ 134 · 🔁 11 · 💬 17 · цитат 1 · просмотров 7287  
-https://x.com/LucaNetz/status/2123178238889668869
+❤ 186 · 🔁 14 · 💬 32 · цитат 1 · просмотров 6767  
+https://x.com/LucaNetz/status/2123484003160514748
 
-## 2026-11-19 03:25 UTC · ответ
+## 2026-11-19 18:30 UTC · ответ
 
-@Shieldmetax Yes
+@becca_nfts @pudgypenguins @vibes_tcg 🙏
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 415  
-https://x.com/LucaNetz/status/2123256326193336682
+❤ 11 · 🔁 0 · 💬 3 · цитат 0 · просмотров 532  
+https://x.com/LucaNetz/status/2123484017639252002

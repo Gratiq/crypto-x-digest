@@ -1,62 +1,97 @@
 [
  {
-  "id": "2123053552994021528",
+  "id": "2123371243978084374",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
-  "type": "reply",
-  "created_at": "2026-11-18T13:59:46.000Z",
-  "text": "@0xWenMoon @0x_Zhuang really? I mostly see the overly positive stuff (which is not that far from how I perceived it few times I've been there😅)",
-  "url": "https://x.com/EvgenyGaevoy/status/2123053552994021528",
-  "likes": 2,
+  "type": "retweet",
+  "created_at": "2026-11-19T11:02:09.000Z",
+  "text": "RT @JeffLadish: This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi",
+  "url": "https://x.com/EvgenyGaevoy/status/2123371243978084374",
+  "likes": 0,
+  "retweets": 558,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1451,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123161031241539949",
+   "text": "This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi"
+  }
+ },
+ {
+  "id": "2123434394463387993",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "quote",
+  "created_at": "2026-11-19T15:13:05.000Z",
+  "text": "😭😭😭😭😭 https://t.co/S2oS1elQq7",
+  "url": "https://x.com/EvgenyGaevoy/status/2123434394463387993",
+  "likes": 65,
   "retweets": 0,
-  "replies": 1,
+  "replies": 2,
   "quotes": 0,
-  "impressions": 532,
-  "bookmarks": 0,
+  "impressions": 10738,
+  "bookmarks": 12,
   "referenced": {
-   "type": "replied_to",
-   "id": "2123050872682803380",
-   "text": "@0x_Zhuang Actually this is how i felt about china. Western media makes china look like shit"
+   "type": "quoted",
+   "id": "2123421912571301942",
+   "text": "&gt;jane street \n&gt;traders are jock types\n&gt;sbf's manager admonishes him for not wearing a shirt and tie\n\n?????????????? https://t.co/zFvrLIZ8sK"
   }
  },
  {
-  "id": "2123090210552725719",
+  "id": "2123469442919096646",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "retweet",
-  "created_at": "2026-11-18T16:25:25.000Z",
-  "text": "RT @wintermute_t: Cambridge students played Blotto with us at @cuats_algos\n\nOur traders, including two Cambridge alumni, ran the games with…",
-  "url": "https://x.com/EvgenyGaevoy/status/2123090210552725719",
+  "created_at": "2026-11-19T17:32:22.000Z",
+  "text": "RT @bebop_dex: Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.\n\n$ANTx is now live for trading on https://t.co/maC2…",
+  "url": "https://x.com/EvgenyGaevoy/status/2123469442919096646",
   "likes": 0,
-  "retweets": 2,
+  "retweets": 3,
   "replies": 0,
   "quotes": 0,
-  "impressions": 996,
+  "impressions": 1143,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123081691267039273",
-   "text": "Cambridge students played Blotto with us at @cuats_algos\n\nOur traders, including two Cambridge alumni, ran the games with our Talent Acquisition team and talked with students about life at Wintermute\n\n→ See our upcoming campus events: https://t.co/w5g6rxsy3f https://t.co/Bg64o0iHqw"
+   "id": "2123469182100492575",
+   "text": "Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.\n\n$ANTx is now live for trading on https://t.co/maC2i1uaPS and via the API https://t.co/6OAuEr8grd"
   }
  },
  {
-  "id": "2123123603008807361",
+  "id": "2123478657117159544",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "original",
+  "created_at": "2026-11-19T18:08:58.000Z",
+  "text": "https://t.co/ceIJkK08zO",
+  "url": "https://x.com/EvgenyGaevoy/status/2123478657117159544",
+  "likes": 1033,
+  "retweets": 36,
+  "replies": 60,
+  "quotes": 15,
+  "impressions": 35041,
+  "bookmarks": 43
+ },
+ {
+  "id": "2123494726414356925",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "retweet",
-  "created_at": "2026-11-18T18:38:07.000Z",
-  "text": "RT @base: Every market needs liquidity\n\nFull episode tomorrow https://t.co/mbUE2n8DLV",
-  "url": "https://x.com/EvgenyGaevoy/status/2123123603008807361",
+  "created_at": "2026-11-19T19:12:50.000Z",
+  "text": "RT @base: Every trade needs someone on the other side\n\nWe sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wi…",
+  "url": "https://x.com/EvgenyGaevoy/status/2123494726414356925",
   "likes": 0,
-  "retweets": 24,
+  "retweets": 16,
   "replies": 0,
   "quotes": 0,
-  "impressions": 1061,
+  "impressions": 1085,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123114165556654426",
-   "text": "Every market needs liquidity\n\nFull episode tomorrow https://t.co/mbUE2n8DLV"
+   "id": "2123490396747563253",
+   "text": "Every trade needs someone on the other side\n\nWe sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wintermute keeps markets liquid on Base https://t.co/C6cXJVKfn6"
   }
  }
 ]

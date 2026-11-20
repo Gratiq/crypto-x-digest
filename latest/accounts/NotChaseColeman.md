@@ -1,47 +1,33 @@
-# @NotChaseColeman — посты за 2026-11-19
+# @NotChaseColeman — посты за 2026-11-20
 
-Всего: 6
+Всего: 4
 
-## 2026-11-18 19:05 UTC · репост
+## 2026-11-19 17:51 UTC · репост
 
-RT @BigDickBull69: “Traders are gonna be the new celebrities bro”
+RT @Pool2Paulie: Believe me now?
 
-Dawg you are going to Federal Prison
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 575  
+https://x.com/NotChaseColeman/status/2123474165642789135
 
-❤ 0 · 🔁 182 · 💬 0 · цитат 0 · просмотров 629  
-https://x.com/NotChaseColeman/status/2123130607634894895
+## 2026-11-19 19:36 UTC · репост
 
-## 2026-11-18 19:06 UTC · ответ
+RT @EvgenyGaevoy: https://t.co/ceIJkK08zO
 
-@BigDickBull69 Federal prison isn't too bad. They'll be at camps.
+❤ 0 · 🔁 36 · 💬 0 · цитат 0 · просмотров 610  
+https://x.com/NotChaseColeman/status/2123500734712779218
 
-❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 959  
-https://x.com/NotChaseColeman/status/2123130838162280933
+## 2026-11-20 01:42 UTC · цитата
 
-## 2026-11-19 01:09 UTC · репост
+There wasn’t as much private capital available when those companies IPO’d. 
 
-RT @kingbtc: https://t.co/XfdN5T2xOw
+The big private co’s today have plenty of access to private capital and they’d rather put off the disclosures till later. https://t.co/DndYFR5smu
 
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 493  
-https://x.com/NotChaseColeman/status/2123222128371900714
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1058  
+https://x.com/NotChaseColeman/status/2123592851963482317
 
-## 2026-11-19 01:10 UTC · ответ
+## 2026-11-20 01:54 UTC · пост
 
-@hantengri Prison camps arent too bad. Just be playing tennis.
+Fuck this shit pardon SBF and fire up FTX again
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 205  
-https://x.com/NotChaseColeman/status/2123222265131348207
-
-## 2026-11-19 01:13 UTC · цитата
-
-Yeah fuck https://t.co/19YpPkMAXA
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1442  
-https://x.com/NotChaseColeman/status/2123223020869177497
-
-## 2026-11-19 05:59 UTC · цитата
-
-100% absolutely indubitably categorically false https://t.co/HI2OT3eXRq https://t.co/xBL8Hp7w3s
-
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 686  
-https://x.com/NotChaseColeman/status/2123295132879655266
+❤ 15 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1647  
+https://x.com/NotChaseColeman/status/2123595912102715707

@@ -1,43 +1,42 @@
-# @ZeMariaMacedo — посты за 2026-11-19
+# @ZeMariaMacedo — посты за 2026-11-20
 
 Всего: 5
 
-## 2026-11-18 12:23 UTC · пост
+## 2026-11-19 13:53 UTC · цитата
 
-We merely adopted the low-float high FDV launch. TradFi was born in it. Molded by it https://t.co/DH41p93FHR
+This seems pretty bad 
 
-❤ 63 · 🔁 2 · 💬 8 · цитат 3 · просмотров 6757  
-https://x.com/ZeMariaMacedo/status/2123029277520105565
+Coinbase holds all the USDC backing USDS. If this stuff is true, it means a US publicly listed company is currently custodying commingled Lazarus funds https://t.co/BY9ZRqps0p
 
-## 2026-11-18 13:05 UTC · ответ
+❤ 152 · 🔁 6 · 💬 11 · цитат 3 · просмотров 22416  
+https://x.com/ZeMariaMacedo/status/2123414466725662841
 
-@BalderBomans True! I think the IPO will do great, which is why crypto's obsession with float and unlocks is kinda silly
+## 2026-11-19 15:08 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 280  
-https://x.com/ZeMariaMacedo/status/2123039975939903595
+Despite all the chatter, $ANT unlock schedule seems pretty standard compared to other IPOs https://t.co/RBu49Kldhq https://t.co/whNYjbk3v1
 
-## 2026-11-18 13:51 UTC · пост
+❤ 12 · 🔁 1 · 💬 2 · цитат 1 · просмотров 3630  
+https://x.com/ZeMariaMacedo/status/2123433306880655489
 
-New Emerging Managers episode with @KevinJDCS is live!
+## 2026-11-19 16:19 UTC · пост
 
-Kevin has one of the best founder lenses I’ve come across in Europe, and he’s surfaced several companies I ended up backing personally. He got into tech at 17 at Forto, invested in Deel and Stoke Space at seed while at La https://t.co/FsPWfHsDmJ
+Anthropic is the most valuable company ever per employee at IPO, and it's not rly close https://t.co/dI63eo5iMB
 
-❤ 44 · 🔁 8 · 💬 16 · цитат 2 · просмотров 8124  
-https://x.com/ZeMariaMacedo/status/2123051533549936737
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 890  
+https://x.com/ZeMariaMacedo/status/2123451198800117856
 
-## 2026-11-18 13:51 UTC · ответ
+## 2026-11-19 16:25 UTC · пост
 
-Full episode
+Anthropic is the most valuable company ever per employee at IPO, and it's not rly close
 
-Spotify: https://t.co/fzM7Zuj1Gd
-Youtube: https://t.co/haYi3NHFev
+3x SpaceX, 6x Facebook, and 14x Google 🤯 https://t.co/MccWBgOXHZ
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 400  
-https://x.com/ZeMariaMacedo/status/2123051538205556806
+❤ 9 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2222  
+https://x.com/ZeMariaMacedo/status/2123452575546851827
 
-## 2026-11-18 18:01 UTC · пост
+## 2026-11-19 21:20 UTC · цитата
 
-Crypto investors rn https://t.co/i7DuMonMFP
+Having read more about it, I don’t think it’s as bad as I initially thought https://t.co/9vQ6q5EhgM
 
-❤ 17 · 🔁 1 · 💬 5 · цитат 0 · просмотров 1575  
-https://x.com/ZeMariaMacedo/status/2123114269323702370
+❤ 15 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2524  
+https://x.com/ZeMariaMacedo/status/2123526935984955469

@@ -1,224 +1,204 @@
-# @AshCrypto — посты за 2026-11-19
+# @AshCrypto — посты за 2026-11-20
 
-Всего: 23
+Всего: 18
 
-## 2026-11-18 07:36 UTC · пост
+## 2026-11-19 08:24 UTC · пост
 
-This is HUGE
+BREAKING: 🇺🇸 Fed to inject $1,756,000,000 into the economy today.
 
-World Bank Group joins Citi and Circle to explore USDC for faster and cheaper global payments.
+Looking at the market condition, we need a full-blown QE now. https://t.co/hhM1Hj5T8c
 
-Stablecoins are going mainstream 🚀
+❤ 1745 · 🔁 162 · 💬 147 · цитат 21 · просмотров 109473  
+https://x.com/AshCrypto/status/2123331685572034809
 
-❤ 1247 · 🔁 100 · 💬 89 · цитат 9 · просмотров 86877  
-https://x.com/AshCrypto/status/2122957108794871887
+## 2026-11-19 10:19 UTC · пост
 
-## 2026-11-18 08:39 UTC · пост
+Bitcoin is repeating the exact dip it made before the biggest IPO in history.
 
-Q4 has rugged us. https://t.co/Y8arBbP6Rr
+If history repeats, we could see another leg up after a few weeks of sideways price action. https://t.co/vQpjUAxhyn
 
-❤ 895 · 🔁 48 · 💬 107 · цитат 8 · просмотров 85517  
-https://x.com/AshCrypto/status/2122973008428228790
+❤ 1968 · 🔁 221 · 💬 180 · цитат 30 · просмотров 140251  
+https://x.com/AshCrypto/status/2123360566819582289
 
-## 2026-11-18 09:58 UTC · пост
+## 2026-11-19 12:29 UTC · пост
 
-Things we got before GTA 6: 
+What I wanted at 30:
 
-- Global pandemic 
-- Flying cars 
-- Bitcoin crossed $100,000
-- Elon bought Twitter
-- Trump won twice 
-- Resignation of Nvidia CEO 
-- AI started taking jobs
-- Multiple wars 
-- Foldable iPhones
-- Messi finally won FIFA
-- Foldable iPhones
-- First-ever
+- $10M in bank account
+- House
+- Nice car
+- Mental peace
+- A beautiful wife and kids
 
-❤ 516 · 🔁 28 · 💬 70 · цитат 5 · просмотров 75163  
-https://x.com/AshCrypto/status/2122992934328860919
+What I have at 30:
 
-## 2026-11-18 10:48 UTC · пост
+- $1M in loans and losses
+- Mom's basement
+- A bicycle
+- Mental breakdowns
+- Divorce papers
 
-BITCOIN BREAKOUT IS LOADING.
+Thank you crypto.
 
-Pray for an upside move. https://t.co/58WQW7Y3IK
+❤ 994 · 🔁 56 · 💬 168 · цитат 5 · просмотров 88650  
+https://x.com/AshCrypto/status/2123393196969603223
 
-❤ 1474 · 🔁 153 · 💬 242 · цитат 13 · просмотров 174387  
-https://x.com/AshCrypto/status/2123005350798651538
+## 2026-11-19 13:47 UTC · пост
 
-## 2026-11-18 11:46 UTC · пост
+If you feel bad about selling early..
 
-The world has completely changed. https://t.co/p3sYf4olCh
+🇺🇸 US government sold 4.45M seized Anthropic shares for $627 Million last year.
 
-❤ 769 · 🔁 53 · 💬 44 · цитат 5 · просмотров 128904  
-https://x.com/AshCrypto/status/2123020026773221508
+Today, it's worth $3.7 BILLION. https://t.co/RnHlQG3F3x
 
-## 2026-11-18 12:34 UTC · пост
+❤ 1354 · 🔁 74 · 💬 103 · цитат 8 · просмотров 88640  
+https://x.com/AshCrypto/status/2123412870017040813
 
-BREAKING: 🇺🇸 $4.1 TRILLION GOLDMAN SACHS NOW HOLDS $1.28 BILLION WORTH OF BITCOIN, UP 121% IN Q3.
+## 2026-11-19 14:35 UTC · пост
 
-While retail is panicking, Wall Street is buying. https://t.co/XjySf7xoML
+$920 Billion added to the US stock at market open. https://t.co/aVhvipzPLE
 
-❤ 1384 · 🔁 155 · 💬 116 · цитат 12 · просмотров 79517  
-https://x.com/AshCrypto/status/2123032041612792127
+❤ 1490 · 🔁 140 · 💬 113 · цитат 14 · просмотров 168179  
+https://x.com/AshCrypto/status/2123424895283462407
 
-## 2026-11-18 13:42 UTC · пост
+## 2026-11-19 15:34 UTC · пост
 
-The only thing we didn't get before GTA 6: https://t.co/fe9ZnJYEFX
+IS JANE STREET BACK?
 
-❤ 2041 · 🔁 103 · 💬 123 · цитат 10 · просмотров 115092  
-https://x.com/AshCrypto/status/2123049290360856805
+$BTC has now dumped 7 times in a row right after the US market opens.
 
-## 2026-11-18 14:53 UTC · цитата
+This manipulation needs to stop. https://t.co/z6pdcGKhYT
 
-WE ARE FUCKED!! https://t.co/H0I7zMez72 https://t.co/Sz3L9dD8Ds
+❤ 1117 · 🔁 105 · 💬 109 · цитат 8 · просмотров 89524  
+https://x.com/AshCrypto/status/2123439903610396887
 
-❤ 1527 · 🔁 108 · 💬 290 · цитат 9 · просмотров 141359  
-https://x.com/AshCrypto/status/2123067017574129825
+## 2026-11-19 15:40 UTC · цитата
 
-## 2026-11-18 15:46 UTC · пост
+🚨 MASSIVE CRASH IN US STOCK MARKET  
 
-BREAKING: 🇷🇺 Russia’s largest private bank, Alfa-Bank with over 46 MILLION customers is now officially registered as a crypto exchange.
+$1.16 TRILLION wiped out in just 60 minutes. https://t.co/gj1hjzgSo1 https://t.co/b7wvi6jJUg
 
-Russia is going all in on crypto. https://t.co/Kw46s86dor
+❤ 2445 · 🔁 277 · 💬 190 · цитат 46 · просмотров 158071  
+https://x.com/AshCrypto/status/2123441250674340307
 
-❤ 2342 · 🔁 265 · 💬 110 · цитат 16 · просмотров 105331  
-https://x.com/AshCrypto/status/2123080369478218168
+## 2026-11-19 16:34 UTC · пост
 
-## 2026-11-18 16:48 UTC · пост
+ARE WE ACTUALLY IN A CYBER WAR? 
 
-Earlier, I didn't believe in diversification and was losing money in crypto.
+Major cyberattacks are now happening every single week.
 
-Then my dad told me about the benefits of diversification.
+1. Hackers leaked data on 16,000 of JPMorgan's richest clients
 
-Now I'm losing money in crypto, stocks, and metals all at once.
+2. Visa confirmed a cyberattack through a third-party provider, Mastercard was reportedly hit too. 
 
-❤ 2441 · 🔁 145 · 💬 220 · цитат 11 · просмотров 101212  
-https://x.com/AshCrypto/status/2123095936960495756
+3. Binance lost $6.34
 
-## 2026-11-18 16:58 UTC · ответ
+❤ 449 · 🔁 46 · 💬 73 · цитат 4 · просмотров 74251  
+https://x.com/AshCrypto/status/2123454829570015690
 
-@BullTheoryio 30 years of legacy destroyed by 1 women. https://t.co/GlXWZavKHM
+## 2026-11-19 17:27 UTC · ответ
 
-❤ 22 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3920  
-https://x.com/AshCrypto/status/2123098486027829474
+@BullTheoryio Absolutely fcking wild
 
-## 2026-11-18 18:58 UTC · пост
+❤ 19 · 🔁 0 · 💬 1 · цитат 0 · просмотров 5131  
+https://x.com/AshCrypto/status/2123468310453047582
 
-BREAKING: Saylor's $STRC just dropped below 96, its lowest level in almost 3 months.
+## 2026-11-19 17:41 UTC · пост
 
-HOLY SHIT... https://t.co/Xbmbi0vfzh
+$2.3 Trillion erased from US stocks today.
 
-❤ 748 · 🔁 44 · 💬 68 · цитат 5 · просмотров 76217  
-https://x.com/AshCrypto/status/2123128750909042800
+Crypto is dumping hard.
 
-## 2026-11-18 19:17 UTC · пост
+Gold and Silver crashed to 1 year low.
 
-BREAKING: 🇺🇸 Fed says that a rate hike larger than 25bps may be appropriate in December. https://t.co/2mKnqaPIws
+where the fuck money is going ? https://t.co/RRApE26ET2
 
-❤ 965 · 🔁 72 · 💬 101 · цитат 10 · просмотров 95238  
-https://x.com/AshCrypto/status/2123133530624643552
+❤ 1216 · 🔁 145 · 💬 205 · цитат 14 · просмотров 103867  
+https://x.com/AshCrypto/status/2123471712188875023
 
-## 2026-11-18 19:35 UTC · ответ
+## 2026-11-19 19:07 UTC · пост
 
-@BullTheoryio This is crazy
+BREAKING: 🇺🇸 US Treasury just bought back $254 Million of its own debt, making a total of $12 Billion this month. https://t.co/osg6ts8mtm
 
-❤ 23 · 🔁 0 · 💬 1 · цитат 0 · просмотров 7143  
-https://x.com/AshCrypto/status/2123137994786025899
+❤ 883 · 🔁 78 · 💬 87 · цитат 3 · просмотров 68421  
+https://x.com/AshCrypto/status/2123493306592305438
 
-## 2026-11-18 20:22 UTC · ответ
+## 2026-11-19 20:07 UTC · пост
 
-@Backpack Lets go 🤝
+Bitcoin dominance just dropped to a 50-day low after rejection from the crucial 61% level.
 
-❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2236  
-https://x.com/AshCrypto/status/2123149774480343412
+Good for altcoins. https://t.co/rNkXOyuNjL
 
-## 2026-11-18 20:22 UTC · цитата
+❤ 1214 · 🔁 123 · 💬 136 · цитат 3 · просмотров 83706  
+https://x.com/AshCrypto/status/2123508521836953854
 
-Backpack to launch CFTC regulated perps in the US 🇺🇸🔥 https://t.co/G8Pq1m6nEN
+## 2026-11-19 20:30 UTC · пост
 
-❤ 216 · 🔁 15 · 💬 29 · цитат 1 · просмотров 54856  
-https://x.com/AshCrypto/status/2123149812505944294
+🚨 BITCOIN JUST DROPPED BELOW $62,000 FOR THE FIRST TIME IN 4 MONTHS. https://t.co/aDHCXT0aRW
 
-## 2026-11-18 21:09 UTC · пост
+❤ 1564 · 🔁 124 · 💬 180 · цитат 13 · просмотров 82285  
+https://x.com/AshCrypto/status/2123514379748720651
 
-🚨The Fed warns If AI Boom cracks, the whole market could crash with it.
+## 2026-11-19 21:30 UTC · пост
 
-Fed minutes:  
+I AM NOT GIVING UP
 
-1. Stocks are highly overvalued and could see a large selloff.
+I CANT GIVE UP
 
-2. Heavy leverage could trigger a crash like the one in South Korea.
+COZ IM ALREADY ALL IN
 
-3. AI companies using complex debt financing deals could https://t.co/wUzVgEB3V6
+❤ 1318 · 🔁 65 · 💬 163 · цитат 9 · просмотров 70046  
+https://x.com/AshCrypto/status/2123529447748063379
 
-❤ 820 · 🔁 107 · 💬 94 · цитат 11 · просмотров 94481  
-https://x.com/AshCrypto/status/2123161618129326084
+## 2026-11-20 01:23 UTC · пост
 
-## 2026-11-18 21:58 UTC · пост
+🚨 WTF IS HAPPENING IN JAPAN?
 
-BREAKING: 🇺🇸 World Liberty Financial has bought back over $5,000,000 of $WLFI using USD1 in just one week.
+¥53,000,000,000,000 wiped out from Japanese stocks as the NIKKEI hits a seven months low.
 
-❤ 598 · 🔁 33 · 💬 50 · цитат 0 · просмотров 107311  
-https://x.com/AshCrypto/status/2123174036133859375
+AI bubble is bursting everywhere. https://t.co/83XfqCJu4R
 
-## 2026-11-18 23:22 UTC · пост
+❤ 1162 · 🔁 169 · 💬 96 · цитат 23 · просмотров 73279  
+https://x.com/AshCrypto/status/2123587989297398108
 
-I’ve achieved at 30 what most people achieve at 60.
+## 2026-11-20 02:04 UTC · пост
 
-- Financial stress
-- High blood pressure
-- Body pain
-- Depression
-- No hair
+🚨 BLOODBATH IN GOLD AND SILVER
 
-❤ 1153 · 🔁 64 · 💬 93 · цитат 4 · просмотров 61706  
-https://x.com/AshCrypto/status/2123195207709806815
+$1,000,000,000,000 wiped out in the past 6 hours https://t.co/eSFMu9MrCc
 
-## 2026-11-19 03:26 UTC · пост
+❤ 1564 · 🔁 146 · 💬 100 · цитат 6 · просмотров 75147  
+https://x.com/AshCrypto/status/2123598243624104053
 
-🚨 GOLD and SILVER ARE COLLAPSING
-
-$470,000,000,000 wiped out from Gold and Silver in just 60 mins. https://t.co/hq9WkcvswR
-
-❤ 1216 · 🔁 123 · 💬 90 · цитат 21 · просмотров 73819  
-https://x.com/AshCrypto/status/2123256667777499563
-
-## 2026-11-19 05:08 UTC · пост
+## 2026-11-20 05:10 UTC · пост
 
 🚨BREAKING: 
 
-BlackRock and other ETFs sold $306.5 Million worth of Bitcoin.
+🇺🇸 BlackRock has sold $541.08 million worth of Bitcoin.
 
-ETFs have already dumped over $3 BILLION so far this month. https://t.co/j2KyW9BWsa
+Largest daily outflow in history. https://t.co/IExnuPOtOl
 
-❤ 428 · 🔁 27 · 💬 89 · цитат 5 · просмотров 45541  
-https://x.com/AshCrypto/status/2123282343209378180
+❤ 1601 · 🔁 176 · 💬 172 · цитат 35 · просмотров 89946  
+https://x.com/AshCrypto/status/2123645042225213895
 
-## 2026-11-19 06:24 UTC · пост
+## 2026-11-20 07:17 UTC · пост
 
-The bear market will end in the next 30–45 days according to the 4 year cycle.
+How the fuck is this possible ? 
 
-Only two scenarios can happen from here:
+In 2021 $ETH hit $1,400 with:
 
-1. BTC bounces here, we get a few slow, boring weeks, then it reclaims the 50-week MA and the real bull run to $150k+ starts.
-2. BTC sweeps below $57,800 into
+- $0 in TVL
+- $30M in stablecoins
+- no institution adoption
+- no DeFi apps and no ETFs
 
-❤ 392 · 🔁 29 · 💬 96 · цитат 3 · просмотров 43054  
-https://x.com/AshCrypto/status/2123301453213372840
+In 2026, ETH has: 
 
-## 2026-11-19 07:18 UTC · пост
+- $40 Billion  in TVL
+- $131 Billion in stablecoins
+-  Massive institutional adoption
+- 1000s of dApps, 
+-
 
-ALTS MAY NOT BE DONE BLEEDING
-
-Bitcoin is down -28%, but altcoin open interest only dropped from 42% to 39%. 
-
-That’s a very small decline, which means a lot of leverage is still sitting in alts. 
-
-We’ve seen this before in March 2024, November 2024, and October 2025. Every time https://t.co/R9BEQ0TuW3
-
-❤ 78 · 🔁 6 · 💬 20 · цитат 0 · просмотров 23682  
-https://x.com/AshCrypto/status/2123314916870565888
+❤ 99 · 🔁 5 · 💬 54 · цитат 0 · просмотров 27155  
+https://x.com/AshCrypto/status/2123677030311141751

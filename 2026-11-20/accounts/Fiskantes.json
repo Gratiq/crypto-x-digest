@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2123352616310616155",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-19T09:48:08.000Z",
+  "text": "@bock_orphan2 freedom, peace, #bitcoin",
+  "url": "https://x.com/Fiskantes/status/2123352616310616155",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 56,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123200477823418466",
+   "text": "@Fiskantes Is Jensen a technological genius? Yes. Is he a traitor selling weapons to the enemy? Also yes. 🤷‍♂️"
+  }
+ },
+ {
+  "id": "2123355583440977987",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "retweet",
+  "created_at": "2026-11-19T09:59:55.000Z",
+  "text": "RT @SchmittNYC: She waltzes into a 5 trillion dollar company he built and says this…",
+  "url": "https://x.com/Fiskantes/status/2123355583440977987",
+  "likes": 0,
+  "retweets": 7867,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 690,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123180017517814263",
+   "text": "She waltzes into a 5 trillion dollar company he built and says this… https://t.co/9OjeqDzoao"
+  }
+ },
+ {
+  "id": "2123522402424373700",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-19T21:02:48.000Z",
+  "text": "@bibisister0508 (UK) https://t.co/OqiiArnw7g",
+  "url": "https://x.com/Fiskantes/status/2123522402424373700",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 169,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123460249885782483",
+   "text": "$ANT 已开放交易！\n\nBackpack 证券 ，0手续费！ https://t.co/DVj2ATPO3X https://t.co/uTCbPxlbRv"
+  }
+ },
+ {
+  "id": "2123539313916862641",
+  "username": "Fiskantes",
+  "username_canon": "Fiskantes",
+  "type": "reply",
+  "created_at": "2026-11-19T22:10:00.000Z",
+  "text": "@goodalexander RSI trade = short risk assets no?",
+  "url": "https://x.com/Fiskantes/status/2123539313916862641",
+  "likes": 24,
+  "retweets": 1,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 8670,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123539033280106786",
+   "text": "Smartest Silicon Valley guy I know is RSI pilled and thinks Leopold was right but 6 months early \n\nSmarted hedge fund guy I know is full scale short all risk assets and long dollars / receiving rates"
+  }
+ }
+]

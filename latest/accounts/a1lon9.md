@@ -1,87 +1,91 @@
-# @a1lon9 — посты за 2026-11-19
+# @a1lon9 — посты за 2026-11-20
 
-Всего: 9
+Всего: 10
 
-## 2026-11-18 16:47 UTC · репост
+## 2026-11-19 16:13 UTC · ответ
 
-RT @0xFelix: 在我大一的时候 刚进圈23年 pumpfun刚出来
-那时候 @a1lon9 还是2k粉丝的时候 打心底 我特别感谢 @Pumpfun  真的彻底改变了我的生活
-因为pumpfun 能让我说句thank crypto 当我赚到钱 给我爸妈买上劳力士 给家…
+@kfc https://t.co/x6Nue0kQ6Z
 
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 19990  
-https://x.com/a1lon9/status/2123095795276857481
+❤ 634 · 🔁 105 · 💬 116 · цитат 19 · просмотров 21423  
+https://x.com/a1lon9/status/2123449498181726593
 
-## 2026-11-18 16:47 UTC · ответ
+## 2026-11-19 17:43 UTC · пост
 
-@0xFelix @Pumpfun @BasedDanBD @sapijiju excited to have you!
+I firmly believe the best callers of the next cycle will be the ones who call the most runners with the highest accuracy - so I want to be VERY clear about what Callout Rewards is built to reward.
 
-❤ 93 · 🔁 3 · 💬 58 · цитат 1 · просмотров 7398  
-https://x.com/a1lon9/status/2123095824460587244
+It isn't about calling one high multiple and hitting the jackpot. It's about
 
-## 2026-11-18 17:25 UTC · репост
+❤ 794 · 🔁 58 · 💬 529 · цитат 45 · просмотров 83546  
+https://x.com/a1lon9/status/2123472157720109194
 
-RT @Pumpfun: Introducing one of the BIGGEST onchain perps trading competitions 
- 
-$1,000,000 in prizes to the Top 10 eligible traders who a…
+## 2026-11-19 18:06 UTC · репост
 
-❤ 0 · 🔁 59 · 💬 0 · цитат 0 · просмотров 11225  
-https://x.com/a1lon9/status/2123105426111906211
+RT @Pumpfun: Perps partial closes are live on Pumpfun: take profit on part of a position and let the rest run
 
-## 2026-11-18 17:26 UTC · репост
+Powered by Hyperliquid https…
 
-RT @Pumpfun: The Pumpfun app &amp; web has every tool a pro perps trader needs:
- 
-- 300+ Hyperliquid markets
-- Limit, TWAP, scale and trailing…
+❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 11297  
+https://x.com/a1lon9/status/2123478108007547335
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 11545  
-https://x.com/a1lon9/status/2123105472597340439
+## 2026-11-19 18:07 UTC · ответ
 
-## 2026-11-18 17:27 UTC · цитата
+@Pumpfun new features and iterations every day!
 
-It's time to find out who the best onchain perps traders are!
+❤ 63 · 🔁 1 · 💬 47 · цитат 0 · просмотров 5023  
+https://x.com/a1lon9/status/2123478175778808139
 
-Since perps launched on the Pumpfun app, daily perps traders have grown over 13x and weekly perps volume has gone from under $10M to over $250m . 
+## 2026-11-19 18:39 UTC · ответ
 
-Two weeks ago, we ran a $100,000 perps competition as a test. 
+@fozzycapone this is exactly why the Diamond algo exists, you shouldn't feel inclined to call more tokens to earn more
 
-Now, https://t.co/bcDw3NSTlO
+your goal should only be to bring exceptional callouts &amp; trade ideas to your followers
 
-❤ 430 · 🔁 32 · 💬 185 · цитат 14 · просмотров 90527  
-https://x.com/a1lon9/status/2123105930166575280
+❤ 79 · 🔁 8 · 💬 50 · цитат 1 · просмотров 6341  
+https://x.com/a1lon9/status/2123486351211602142
 
-## 2026-11-18 17:28 UTC · ответ
+## 2026-11-19 20:40 UTC · репост
 
-@Pumpfun yet another HUGE competition and yet another reason to be on the Pumpfun app!
+RT @Pumpfun: Trading Anthropic tokenized stock on Solana or Base?
 
-❤ 61 · 🔁 0 · 💬 48 · цитат 2 · просмотров 6873  
-https://x.com/a1lon9/status/2123106099398168970
+Callout your trades via the Pumpfun app to be eligible for BOOSTED Callo…
 
-## 2026-11-18 17:30 UTC · репост
+❤ 0 · 🔁 30 · 💬 0 · цитат 0 · просмотров 11144  
+https://x.com/a1lon9/status/2123516776264733147
 
-RT @json1444: bull or bear market
+## 2026-11-19 22:04 UTC · репост
 
-there is ENDLESS opportunity on the Pumpfun app
+RT @Pumpfun: Plasma is live on the Pumpfun app! 
 
-there is ZERO reason for you to not be involved in this…
+Callout tokens on Plasma to be eligible for Callout Rewards &amp; trade seamlessly with no br…
 
-❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 18822  
-https://x.com/a1lon9/status/2123106645165461951
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 10549  
+https://x.com/a1lon9/status/2123537842370744538
 
-## 2026-11-18 19:23 UTC · репост
+## 2026-11-19 22:04 UTC · ответ
 
-RT @Saint10Fourteen: only called out 1 coin today. still have no clue how it’s all calculated, but i’m not complaining. it’s literally free…
+@Pumpfun @Plasma another one
 
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 19546  
-https://x.com/a1lon9/status/2123134978192228730
+❤ 75 · 🔁 1 · 💬 65 · цитат 1 · просмотров 6173  
+https://x.com/a1lon9/status/2123537862343733608
 
-## 2026-11-18 20:38 UTC · пост
+## 2026-11-19 23:11 UTC · пост
 
-Over the past month, 1,194 people made the equivalent of a PS5 from Callout Rewards.
+We’re hiring two new roles for our marketing team at Baton Corporation, the development company behind Pumpfun: a Video Editor/Videographer &amp; a Social Media Manager
 
-You could have called out coins on the Pumpfun app, played GTA 6 for free AND continued earning on your best calls.
+Our marketing team is expanding and we need elite contributors to ensure that Pumpfun pushes the best content
 
-Just start calling.
+❤ 576 · 🔁 38 · 💬 275 · цитат 37 · просмотров 73155  
+https://x.com/a1lon9/status/2123554677924958318
 
-❤ 584 · 🔁 27 · 💬 375 · цитат 21 · просмотров 55590  
-https://x.com/a1lon9/status/2123154008042852782
+## 2026-11-19 23:11 UTC · ответ
+
+Apply for the Videographer/Editor Role:
+
+https://t.co/JfIwpI9aZV
+
+Apply for the Social Media Manager role:
+
+https://t.co/YBIXvtfUZt
+
+❤ 38 · 🔁 2 · 💬 21 · цитат 3 · просмотров 6119  
+https://x.com/a1lon9/status/2123554681297437042

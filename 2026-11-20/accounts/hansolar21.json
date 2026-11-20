@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2123406743455863155",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "retweet",
+  "created_at": "2026-11-19T13:23:13.000Z",
+  "text": "RT @rachit: New Episode with @hansolar21 from @variational_io \n\nWe Discuss:\n\n- Upcoming TGE\n- Variational's Broker Model, Options and Pro\n-…",
+  "url": "https://x.com/hansolar21/status/2123406743455863155",
+  "likes": 0,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1217,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123389076984443121",
+   "text": "New Episode with @hansolar21 from @variational_io \n\nWe Discuss:\n\n- Upcoming TGE\n- Variational's Broker Model, Options and Pro\n- Midterms, Anthropic IPO and shorting $TRUMP\n\n1:16 Korean AI and the memory trade\n3:07 From the Lighter team to the Variational team\n4:43 RWAs and long https://t.co/H1eZMXoSxT"
+  }
+ },
+ {
+  "id": "2123579755719213215",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-20T00:50:42.000Z",
+  "text": "@mattbcapital @arcus_xyz Congrats Matt!",
+  "url": "https://x.com/hansolar21/status/2123579755719213215",
+  "likes": 10,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 560,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123569674000773463",
+   "text": "Excited to share I've joined @arcus_xyz as product marketing lead, working on comms, GTM, and BD.\n\nI believe perps will have many winners. Lighter and Hyperliquid remain the gold standard, and the Lighter community shaped where I am today.\n\nForever grateful. Let's keep building!"
+  }
+ },
+ {
+  "id": "2123658165858553964",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-20T06:02:17.000Z",
+  "text": "@Wild_Randomness how about data centers under water?",
+  "url": "https://x.com/hansolar21/status/2123658165858553964",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 271,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123644485448225207",
+   "text": "No more Data Centers in Space?\n\nWould Gavin Baker Lie? https://t.co/X0ThCSQUQX https://t.co/OkFCtoBbYx"
+  }
+ },
+ {
+  "id": "2123677228529787231",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-20T07:18:01.000Z",
+  "text": "see you next summer guys 😭 https://t.co/v64YW727Lm",
+  "url": "https://x.com/hansolar21/status/2123677228529787231",
+  "likes": 24,
+  "retweets": 3,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 1108,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123611250806698330",
+   "text": "Basically in every bubble in history that has burst, you didn't want to reallocate to it until at least 12 months after the top\n\nGLHF https://t.co/h100xiXRTq"
+  }
+ }
+]

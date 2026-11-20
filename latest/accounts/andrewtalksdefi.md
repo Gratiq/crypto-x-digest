@@ -1,563 +1,450 @@
-# @andrewtalksdefi — посты за 2026-11-19
+# @andrewtalksdefi — посты за 2026-11-20
 
-Всего: 76
+Всего: 63
 
-## 2026-11-18 07:39 UTC · ответ
+## 2026-11-19 07:30 UTC · ответ
 
-@OzzyChina Gm Ozzy
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
-https://x.com/andrewtalksdefi/status/2122957760761332033
-
-## 2026-11-18 07:39 UTC · ответ
-
-@MorkHood Gm Mork
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
-https://x.com/andrewtalksdefi/status/2122957797696405505
-
-## 2026-11-18 08:05 UTC · ответ
-
-@Lhzzr Gm Lhzr
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/andrewtalksdefi/status/2122964431554687282
-
-## 2026-11-18 08:06 UTC · ответ
-
-@H1TMAN_ Gm Hitman
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122964603886088637
-
-## 2026-11-18 08:06 UTC · репост
-
-RT @andrewtalksdefi: Anthropic is one of the biggest names in the AI industry.
-
-With growing interest in its potential IPO, many traders ar…
-
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/andrewtalksdefi/status/2122964633988297148
-
-## 2026-11-18 08:09 UTC · ответ
-
-@Soliu08 Good morning Soliu
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122965313964913033
-
-## 2026-11-18 08:11 UTC · ответ
-
-@kozei Gm Kozei
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2122965958042255739
-
-## 2026-11-18 08:14 UTC · ответ
-
-@Web3Niels Gm Niels
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/andrewtalksdefi/status/2122966580569284734
-
-## 2026-11-18 08:23 UTC · ответ
-
-@__Zephhy @atoma_fi Nice to see the boost rewards clearly laid out.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122968828569337950
-
-## 2026-11-18 08:23 UTC · ответ
-
-@tikoxbt Gm Tiko
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2122968897439850859
-
-## 2026-11-18 08:23 UTC · ответ
-
-@_Pretty_Miraa Have a great day Mira
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 20  
-https://x.com/andrewtalksdefi/status/2122968975445577758
-
-## 2026-11-18 08:24 UTC · ответ
-
-@bella_quack @Acurast Acurast is building some thing great here
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
-https://x.com/andrewtalksdefi/status/2122969181310292177
-
-## 2026-11-18 08:26 UTC · ответ
-
-@ZayanXBT That’s a lot of outflow
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
-https://x.com/andrewtalksdefi/status/2122969623033417849
-
-## 2026-11-18 08:31 UTC · ответ
-
-@D_GREAT_EHMY Gm Gare
+@Lhzzr Gm Lhzr, have a great day
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2122971006721818770
+https://x.com/andrewtalksdefi/status/2123317924341350465
 
-## 2026-11-18 08:32 UTC · ответ
+## 2026-11-19 07:30 UTC · ответ
 
-@MFagam6 @GeckoTerminal Love what they’re building here
+@resmaliks Gm Malik
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/andrewtalksdefi/status/2122971108387213582
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 48  
+https://x.com/andrewtalksdefi/status/2123317992674984197
 
-## 2026-11-18 08:32 UTC · ответ
+## 2026-11-19 07:31 UTC · ответ
 
-@Sainoleno @2FactorFinance Making advanced investment strategies more accessible is great
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122971309973868682
-
-## 2026-11-18 08:35 UTC · ответ
-
-@MFagam6 @rntprotocol Diversification, transparency and proper risk disclosure are key.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2122971900137689585
-
-## 2026-11-18 08:35 UTC · ответ
-
-@mahdiHas Fair price discovery makes this auction model really interesting.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2122972033126637959
-
-## 2026-11-18 08:37 UTC · ответ
-
-@aisarcore Gm Aisar
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
-https://x.com/andrewtalksdefi/status/2122972359015739835
-
-## 2026-11-18 08:37 UTC · ответ
-
-@0xfrigg Gm Frigg
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2122972405173805063
-
-## 2026-11-18 08:37 UTC · ответ
-
-@Zainabiliyasu10 TermiX is getting the important details right.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2122972538074726758
-
-## 2026-11-18 08:38 UTC · ответ
-
-@oleribeonchain @primus_labs Primus is here to make real impact
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
-https://x.com/andrewtalksdefi/status/2122972683415732700
-
-## 2026-11-18 08:38 UTC · ответ
-
-@0xPeggy_ @zerufinance The concept of using on-chain wallet history as a credit profile is revolutionary
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122972787224752627
-
-## 2026-11-18 08:39 UTC · ответ
-
-@kengdaica @Acurast Acurast is built different
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122972874072117314
-
-## 2026-11-18 08:39 UTC · ответ
-
-@Lynketh2 @Acurast This is such a cool tech, pivoting to acurast
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122973006066512284
-
-## 2026-11-18 08:40 UTC · ответ
-
-@kengdaica Solid breakdown right here
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122973114304770084
-
-## 2026-11-18 08:40 UTC · ответ
-
-@quynncrypto @zerufinance Zeru is bringing a different approach to token launches.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 34  
-https://x.com/andrewtalksdefi/status/2122973250628313425
-
-## 2026-11-18 08:41 UTC · ответ
-
-@mr_ferdiansah @grvt_io GRVT keeps bringing interesting ideas to onchain trading.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2122973460238602734
-
-## 2026-11-18 08:42 UTC · ответ
-
-@GenuineDegen @bulonfloat Community driven memes is one of the best
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
-https://x.com/andrewtalksdefi/status/2122973715398889578
-
-## 2026-11-18 08:42 UTC · ответ
-
-@prayz_dev @termix_ai gTermix Champ
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
-https://x.com/andrewtalksdefi/status/2122973826925596886
-
-## 2026-11-18 08:43 UTC · ответ
-
-@0xDaniMo @termix_ai Termix is here to make real impact
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122973903161008559
-
-## 2026-11-18 08:43 UTC · ответ
-
-@MattInWeb3 @Backpack Excited this here this news
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
-https://x.com/andrewtalksdefi/status/2122973987928195473
-
-## 2026-11-18 08:45 UTC · ответ
-
-@lynk0x Then dips comes with buying opportunity
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 27  
-https://x.com/andrewtalksdefi/status/2122974586455093491
-
-## 2026-11-18 08:53 UTC · пост
-
-I remain very bullish on the market.
-
-Bitcoin is going to $150K.
-
-ETH will break $5,000.
-
-SOL will reach $500.
-
-Altcoins will deliver 5x-10x gains.
-
-The opportunities are there. 
-
-It’s all about patience, positioning, and letting the market play out.
-
-The bigger moves may still https://t.co/gvsbSiFQwx
-
-❤ 62 · 🔁 2 · 💬 35 · цитат 0 · просмотров 2510  
-https://x.com/andrewtalksdefi/status/2122976486835576960
-
-## 2026-11-18 09:03 UTC · ответ
-
-@nftbotx Gm Vyre
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/andrewtalksdefi/status/2122978948061741533
-
-## 2026-11-18 09:03 UTC · ответ
-
-@KongBTC Gm Kong
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122978999877910813
-
-## 2026-11-18 09:03 UTC · ответ
-
-@GenuineDegen Gm genuine
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2122979036846596525
-
-## 2026-11-18 09:04 UTC · ответ
-
-@Hofers Gm Hofer
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
-https://x.com/andrewtalksdefi/status/2122979134087503971
-
-## 2026-11-18 09:04 UTC · ответ
-
-@hannaXbtc @rar3clover Gm Hannax
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
-https://x.com/andrewtalksdefi/status/2122979265842962665
-
-## 2026-11-18 09:05 UTC · ответ
-
-@OvoOnoETH @npconchain Good morning ovoono
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2122979388496957576
-
-## 2026-11-18 09:13 UTC · ответ
-
-@RebelOfWeb3 Gm Nuel
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2122981552485474494
-
-## 2026-11-18 09:15 UTC · ответ
-
-@AidenWgmi Gm Aiden
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
-https://x.com/andrewtalksdefi/status/2122981953955868844
-
-## 2026-11-18 09:18 UTC · ответ
-
-@MrPraetorian @ProprXYZ Top of the morning fam
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 23  
-https://x.com/andrewtalksdefi/status/2122982683621941650
-
-## 2026-11-18 09:18 UTC · ответ
-
-@Mr_Byju @rntprotocol Love what they’re building here
+@0xDaisypto Gm champ, enjoy ✌️
 
 ❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 25  
-https://x.com/andrewtalksdefi/status/2122982803768012993
+https://x.com/andrewtalksdefi/status/2123318253984665977
 
-## 2026-11-18 09:28 UTC · ответ
+## 2026-11-19 07:31 UTC · ответ
 
-@blue__guy__ Gm Blue
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2122985274955448601
-
-## 2026-11-18 09:40 UTC · ответ
-
-@JoeOnMotion Gm Joe
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2122988413079200242
-
-## 2026-11-18 09:47 UTC · ответ
-
-@ItsSnibby Gm Snibby
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2122990165522067895
-
-## 2026-11-18 09:48 UTC · ответ
-
-@AviiWeb3 @primus_labs Primus is way ahead here
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2122990385790107932
-
-## 2026-11-18 09:49 UTC · ответ
-
-@rar3clover Morning King
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/andrewtalksdefi/status/2122990457797894562
-
-## 2026-11-18 09:50 UTC · ответ
-
-@Reymetax Gm Rey
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
-https://x.com/andrewtalksdefi/status/2122990706406936961
-
-## 2026-11-18 10:12 UTC · ответ
-
-@erequendi Gm Eraquendi
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 20  
-https://x.com/andrewtalksdefi/status/2122996312123539951
-
-## 2026-11-18 13:31 UTC · репост
-
-RT @andrewtalksdefi: I remain very bullish on the market.
-
-Bitcoin is going to $150K.
-
-ETH will break $5,000.
-
-SOL will reach $500.
-
-Altcoi…
-
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/andrewtalksdefi/status/2123046513978847704
-
-## 2026-11-18 15:54 UTC · ответ
-
-@Polymarket Crazy… let’s get busy first
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 274  
-https://x.com/andrewtalksdefi/status/2123082466009243826
-
-## 2026-11-19 07:21 UTC · пост
-
-Gm Frens 🫶
-
-Happy Thursday 
-
-Can I get a Gm? https://t.co/1HKCVSo0M1
-
-❤ 14 · 🔁 0 · 💬 14 · цитат 0 · просмотров 673  
-https://x.com/andrewtalksdefi/status/2123315685044502709
-
-## 2026-11-19 07:21 UTC · ответ
-
-@nftbotx Gm Vyre
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2123315718955651393
-
-## 2026-11-19 07:21 UTC · ответ
-
-@H1TMAN_ Top of the mornin fam
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/andrewtalksdefi/status/2123315783388578097
-
-## 2026-11-19 07:22 UTC · ответ
-
-@the_jujukey Grand rising champ
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5  
-https://x.com/andrewtalksdefi/status/2123315888883650625
-
-## 2026-11-19 07:22 UTC · ответ
-
-@Mr_Byju Gm Fam, have a great day
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2123315937780895886
-
-## 2026-11-19 07:22 UTC · ответ
-
-@mok4vi Gm Moka
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123315969409921087
-
-## 2026-11-19 07:22 UTC · ответ
-
-@Dan_et_ Gm Dan, happy Thursday
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5  
-https://x.com/andrewtalksdefi/status/2123316024938475748
-
-## 2026-11-19 07:23 UTC · ответ
-
-@valerioshi Gm Val
+@KingmilesCe Gm Mighty
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2123316115535458471
+https://x.com/andrewtalksdefi/status/2123318317729320982
 
-## 2026-11-19 07:23 UTC · ответ
+## 2026-11-19 07:32 UTC · ответ
 
-@ItsEshOnX Gm Esh, happy thrusday
+@PentOnChain Gm Pent
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5  
-https://x.com/andrewtalksdefi/status/2123316211077484680
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 17  
+https://x.com/andrewtalksdefi/status/2123318457504834005
 
-## 2026-11-19 07:23 UTC · ответ
+## 2026-11-19 07:32 UTC · ответ
 
-@mr_ferdiansah Good morning bro
+@Wealthqueen Gm Queen
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2123316244396781586
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
+https://x.com/andrewtalksdefi/status/2123318531685077135
 
-## 2026-11-19 07:23 UTC · ответ
+## 2026-11-19 07:32 UTC · ответ
 
-@Web3Erfann @IThinkItsArt Gm Erfan
+@DoskyArt Gm Dosky
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123316310872309948
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
+https://x.com/andrewtalksdefi/status/2123318571145351216
 
-## 2026-11-19 07:24 UTC · ответ
+## 2026-11-19 07:33 UTC · ответ
 
-@Krisbee Top of the morning fam
+@0xAltKing Gm Fam
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123316370775396393
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
+https://x.com/andrewtalksdefi/status/2123318673934815593
 
-## 2026-11-19 07:24 UTC · ответ
+## 2026-11-19 07:34 UTC · ответ
 
-@xleeking @LaunchOnBasis Let’s get it
+@0xAltKing @RaxFinance RAX is building around a growing need.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
-https://x.com/andrewtalksdefi/status/2123316446088618061
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
+https://x.com/andrewtalksdefi/status/2123318973575860660
 
-## 2026-11-19 07:25 UTC · ответ
+## 2026-11-19 07:34 UTC · ответ
 
-@GenuineDegen I’m active
+@BallerDeGreat Gm Gm
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123316705795666428
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 18  
+https://x.com/andrewtalksdefi/status/2123319055016681937
 
-## 2026-11-19 07:26 UTC · ответ
+## 2026-11-19 07:35 UTC · ответ
 
-@OzzyChina Gm Ozzy
+@Derick_Connect Gm Derick
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
-https://x.com/andrewtalksdefi/status/2123316880911778013
+https://x.com/andrewtalksdefi/status/2123319263608135805
 
-## 2026-11-19 07:26 UTC · ответ
+## 2026-11-19 07:36 UTC · ответ
 
-@_Pretty_Miraa Good morning Mira
+@0xSofiya Good morning Sofiya
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3  
-https://x.com/andrewtalksdefi/status/2123316985417109688
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
+https://x.com/andrewtalksdefi/status/2123319481392943297
 
-## 2026-11-19 07:27 UTC · ответ
+## 2026-11-19 07:36 UTC · ответ
 
-@ROGUE_of_Web3 Gm Rogue, have a great day
+@0xdavid55 Happy thrusday fam
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123317117504364936
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
+https://x.com/andrewtalksdefi/status/2123319536980259160
 
-## 2026-11-19 07:27 UTC · ответ
+## 2026-11-19 07:36 UTC · ответ
 
-@chiragxik76787 Gm Embero
+@dezydank Good morning brother
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5  
-https://x.com/andrewtalksdefi/status/2123317153524818182
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
+https://x.com/andrewtalksdefi/status/2123319596950102333
 
-## 2026-11-19 07:27 UTC · ответ
+## 2026-11-19 07:37 UTC · ответ
 
-@Shahiniram Gm Fam
+@H1TMAN_ Morning fam
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
+https://x.com/andrewtalksdefi/status/2123319748595208308
+
+## 2026-11-19 07:37 UTC · ответ
+
+@calc_guy Have a great day fam
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
+https://x.com/andrewtalksdefi/status/2123319817432387887
+
+## 2026-11-19 07:38 UTC · ответ
+
+@mr_ferdiansah Happy Thursday brother
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/andrewtalksdefi/status/2123317179567452414
+https://x.com/andrewtalksdefi/status/2123319873635782962
 
-## 2026-11-19 07:28 UTC · ответ
+## 2026-11-19 07:38 UTC · ответ
 
-@ZeoWeb3 @rarelistio Good morning Zoe
+@0xLouz Gm Lou
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
-https://x.com/andrewtalksdefi/status/2123317450318000221
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 17  
+https://x.com/andrewtalksdefi/status/2123319909463490640
 
-## 2026-11-19 07:28 UTC · ответ
+## 2026-11-19 07:38 UTC · ответ
 
-@9FStudioArt Gm, happy Thursday
+@cloudoffchain Gm fam
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3  
-https://x.com/andrewtalksdefi/status/2123317509470269819
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
+https://x.com/andrewtalksdefi/status/2123319946306265457
 
-## 2026-11-19 07:29 UTC · ответ
+## 2026-11-19 07:38 UTC · ответ
 
-@Shrmurda Happy international men’s day
+@0xDaisypto Gm Gm
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
+https://x.com/andrewtalksdefi/status/2123319965709463918
+
+## 2026-11-19 07:38 UTC · ответ
+
+@resmaliks Gm Malik, have a nice day
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
+https://x.com/andrewtalksdefi/status/2123320011938771261
+
+## 2026-11-19 07:41 UTC · ответ
+
+@MrPraetorian @BitunixOfficial Top of the morning fam
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
+https://x.com/andrewtalksdefi/status/2123320867681685861
+
+## 2026-11-19 07:42 UTC · ответ
+
+@RealJackPoor Gm Jack
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
+https://x.com/andrewtalksdefi/status/2123320997290148067
+
+## 2026-11-19 07:43 UTC · ответ
+
+@0xmj_ Gm Fren
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 16  
+https://x.com/andrewtalksdefi/status/2123321350982975781
+
+## 2026-11-19 07:46 UTC · ответ
+
+@MorkHood Good morning Mork
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 15  
+https://x.com/andrewtalksdefi/status/2123321936872665136
+
+## 2026-11-19 07:46 UTC · ответ
+
+@LePro_1 Gm fam
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 7  
+https://x.com/andrewtalksdefi/status/2123322075335004378
+
+## 2026-11-19 07:48 UTC · ответ
+
+@BroosterWeb3 @IThinkItsArt Good morning Brooster
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 8  
+https://x.com/andrewtalksdefi/status/2123322519281078656
+
+## 2026-11-19 07:48 UTC · ответ
+
+@0xtega_ Morning Tega
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
+https://x.com/andrewtalksdefi/status/2123322631352893860
+
+## 2026-11-19 07:49 UTC · ответ
+
+@renksieth Gm Renski
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 29  
+https://x.com/andrewtalksdefi/status/2123322786697351177
+
+## 2026-11-19 07:49 UTC · ответ
+
+@mythdyor Gm Myth, have a great day
+
+❤ 22 · 🔁 0 · 💬 0 · цитат 0 · просмотров 83  
+https://x.com/andrewtalksdefi/status/2123322862505193581
+
+## 2026-11-19 07:50 UTC · ответ
+
+@Bency1749379 I'm active
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
+https://x.com/andrewtalksdefi/status/2123322902363701259
+
+## 2026-11-19 07:50 UTC · ответ
+
+@wallstreetship Gmmm
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 29  
+https://x.com/andrewtalksdefi/status/2123323076968415315
+
+## 2026-11-19 07:59 UTC · ответ
+
+@AstaWeb3 Gm Asta
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
+https://x.com/andrewtalksdefi/status/2123325354823561371
+
+## 2026-11-19 08:00 UTC · ответ
+
+@Kalshi Make sense that way
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 137  
+https://x.com/andrewtalksdefi/status/2123325488626024643
+
+## 2026-11-19 08:00 UTC · ответ
+
+@selor Gm Selor
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
+https://x.com/andrewtalksdefi/status/2123325533714829770
+
+## 2026-11-19 08:00 UTC · ответ
+
+@0xAkzi Gm Akzi
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 16  
+https://x.com/andrewtalksdefi/status/2123325579478917576
+
+## 2026-11-19 08:00 UTC · ответ
+
+@Kamali_Fx Morning Kamali
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
+https://x.com/andrewtalksdefi/status/2123325627189084450
+
+## 2026-11-19 08:01 UTC · ответ
+
+@blinks4real_ Gm, keep pushing
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
+https://x.com/andrewtalksdefi/status/2123325680348000366
+
+## 2026-11-19 08:01 UTC · ответ
+
+@PipAura01 Morning fren
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 6  
-https://x.com/andrewtalksdefi/status/2123317613212344588
+https://x.com/andrewtalksdefi/status/2123325729190666418
 
-## 2026-11-19 07:29 UTC · ответ
+## 2026-11-19 08:01 UTC · ответ
 
-@Phantomx2y @tatsu_nyc Morning champ
+@AlienBiatch Gm, happy thrusday
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3  
-https://x.com/andrewtalksdefi/status/2123317739846602888
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 16  
+https://x.com/andrewtalksdefi/status/2123325784907714961
+
+## 2026-11-19 08:01 UTC · ответ
+
+@exola_g Gm Tobex
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
+https://x.com/andrewtalksdefi/status/2123325873038463426
+
+## 2026-11-19 08:02 UTC · ответ
+
+@450bxi Happy Thursday Sarkar
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
+https://x.com/andrewtalksdefi/status/2123325943871942790
+
+## 2026-11-19 08:02 UTC · ответ
+
+@daeonchainn Gm dae
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 10  
+https://x.com/andrewtalksdefi/status/2123326102877646958
+
+## 2026-11-19 08:02 UTC · ответ
+
+@0xBonke Gm Bonke
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
+https://x.com/andrewtalksdefi/status/2123326156468371959
+
+## 2026-11-19 08:03 UTC · ответ
+
+@RegulusUpdog Gm Regulus
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 9  
+https://x.com/andrewtalksdefi/status/2123326228728016921
+
+## 2026-11-19 08:03 UTC · ответ
+
+@El_Ezer_001 Morning fam
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 17  
+https://x.com/andrewtalksdefi/status/2123326276199227692
+
+## 2026-11-19 08:16 UTC · ответ
+
+@0xLarissa_ Gm Larissa
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 26  
+https://x.com/andrewtalksdefi/status/2123329451576426961
+
+## 2026-11-19 08:16 UTC · ответ
+
+@TheBitLeroy Gm, happy thrusday
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
+https://x.com/andrewtalksdefi/status/2123329535298961408
+
+## 2026-11-19 08:34 UTC · ответ
+
+@theee_roman Good morning Roman
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 25  
+https://x.com/andrewtalksdefi/status/2123334102732415225
+
+## 2026-11-19 08:35 UTC · ответ
+
+@sageofsomething Gm Sage
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 24  
+https://x.com/andrewtalksdefi/status/2123334220651065631
+
+## 2026-11-19 08:35 UTC · ответ
+
+@Kreig_DK Gm KreigDK
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
+https://x.com/andrewtalksdefi/status/2123334281049063770
+
+## 2026-11-19 08:35 UTC · ответ
+
+@LullabyWeb3 Gm Champ
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
+https://x.com/andrewtalksdefi/status/2123334314490319116
+
+## 2026-11-19 09:27 UTC · ответ
+
+@mtaher_NFT Gm Mtaher
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 20  
+https://x.com/andrewtalksdefi/status/2123347427184755066
+
+## 2026-11-19 09:40 UTC · репост
+
+RT @andrewtalksdefi: Stop holding all your tokens inside an exchange.
+
+The recent $6.3B Binance hack reminds us why controlling our assets…
+
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/andrewtalksdefi/status/2123350744032006459
+
+## 2026-11-19 11:18 UTC · ответ
+
+@phantom Let's get it
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 41  
+https://x.com/andrewtalksdefi/status/2123375271180976289
+
+## 2026-11-19 11:21 UTC · пост
+
+Most privacy solutions force you to choose between hiding everything and revealing everything.
+
+But when real capital and important decisions are involved, neither approach is enough.
+
+What we really need is a way to prove facts without exposing sensitive data, and perform https://t.co/l5h7Ybpm9u
+
+❤ 69 · 🔁 2 · 💬 35 · цитат 0 · просмотров 1305  
+https://x.com/andrewtalksdefi/status/2123376195089690673
+
+## 2026-11-19 11:32 UTC · ответ
+
+@KongBTC For real
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 25  
+https://x.com/andrewtalksdefi/status/2123378887132340334
+
+## 2026-11-19 11:34 UTC · ответ
+
+@H1TMAN_ @get_handle Definitely worth securing an OG spot.
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
+https://x.com/andrewtalksdefi/status/2123379364842844404
+
+## 2026-11-19 11:34 UTC · ответ
+
+@JamesLabiaga Gm Jayms
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
+https://x.com/andrewtalksdefi/status/2123379437832220762
+
+## 2026-11-19 11:36 UTC · ответ
+
+@SherhanEth Grinding on GTA 😎
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 30  
+https://x.com/andrewtalksdefi/status/2123379826228679096
+
+## 2026-11-19 11:37 UTC · ответ
+
+@MtroX207 Keep winning
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
+https://x.com/andrewtalksdefi/status/2123380066377752768
+
+## 2026-11-19 11:42 UTC · ответ
+
+@Fabulousdefii Gm Fab
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 23  
+https://x.com/andrewtalksdefi/status/2123381399595979026
+
+## 2026-11-19 11:53 UTC · ответ
+
+@Pha_ruq1 Gm Gm
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 27  
+https://x.com/andrewtalksdefi/status/2123384190565806342

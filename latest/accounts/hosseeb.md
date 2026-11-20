@@ -1,92 +1,78 @@
-# @hosseeb — посты за 2026-11-19
+# @hosseeb — посты за 2026-11-20
 
-Всего: 10
+Всего: 9
 
-## 2026-11-18 14:57 UTC · репост
+## 2026-11-19 08:35 UTC · цитата
 
-RT @_choppingblock: Haseeb says voters hate AI and bringing Jensen back is how you get a revolt. Tarun's defense of Jensen is a one-liner.…
+I definitely have a Buzz Lightyear neuron, I just know it https://t.co/B4cJQhdWB2
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1638  
-https://x.com/hosseeb/status/2123068105274638582
+❤ 18 · 🔁 1 · 💬 13 · цитат 0 · просмотров 6057  
+https://x.com/hosseeb/status/2123334430072914259
 
-## 2026-11-18 15:14 UTC · цитата
+## 2026-11-19 17:04 UTC · репост
 
-RWA perps have grown massively this year, and Variational's RFQ model allows it to mainline deep TradFi liquidity for more trading pairs than any other DEX.
+RT @NEARProtocol: $PEARL just crossed $10M in swap volume through NEAR Intents.
 
-This thing just keeps growing and attracting more and more traders.
+Swap it confidentially on https://t.co/sryybkS1b8. https:/…
 
-Proud to be a backer. 
+❤ 0 · 🔁 44 · 💬 0 · цитат 0 · просмотров 1390  
+https://x.com/hosseeb/status/2123462532786745381
 
-But job's not done. https://t.co/rFHYS1pRWJ
+## 2026-11-19 17:50 UTC · цитата
 
-❤ 184 · 🔁 12 · 💬 29 · цитат 0 · просмотров 7804  
-https://x.com/hosseeb/status/2123072257622990938
+The crypto utopianism of 2021 was wrong.
 
-## 2026-11-18 15:17 UTC · цитата
+So what did crypto actually accomplish? Why is it still exciting today? And what's the case for continuing to invest in it?
 
-Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.
+A great podcast with @suffiyanmalikk, where I address the skeptics in the back of the room 👇 https://t.co/qRwHLAAwDl
 
-This week we got into the sell-off with @Joshua_J_Lim, the Anthropic IPO, and a spicy debate about whether Jensen should come back (I say no)
+❤ 39 · 🔁 5 · 💬 14 · цитат 1 · просмотров 7868  
+https://x.com/hosseeb/status/2123474002664669560
 
-Believe in something ⤵️ https://t.co/q7lHjhzb3A
+## 2026-11-19 18:14 UTC · репост
 
-❤ 50 · 🔁 4 · 💬 12 · цитат 0 · просмотров 8781  
-https://x.com/hosseeb/status/2123073142805733724
+RT @suffiyanmalikk: My friends know I have been probably the biggest skeptic of the crypto industry for a while now 
 
-## 2026-11-18 15:57 UTC · ответ
+In this wide-ranging…
 
-@DylanGrabowski @joshua_j_lim Because some assets explode upward. Upside convexity exists at every stage.
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1526  
+https://x.com/hosseeb/status/2123479985013010829
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 103  
-https://x.com/hosseeb/status/2123083292299989304
+## 2026-11-19 18:35 UTC · репост
 
-## 2026-11-18 15:59 UTC · ответ
+RT @chronear: Might sound like flattery but @hosseeb has been an incredibly thoughtful critic of NEAR, challenging our assumptions. We've c…
 
-@imfaziiii It's a good time to have money
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 1518  
+https://x.com/hosseeb/status/2123485292862828687
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 193  
-https://x.com/hosseeb/status/2123083738871644338
+## 2026-11-19 18:40 UTC · репост
 
-## 2026-11-18 16:53 UTC · репост
+RT @NEARProtocol: https://t.co/HbTJGkVb1a
 
-RT @variational_lvs: Two years ago, @edward_yu_var &amp; I bet that on-chain trading didn’t need another exchange. It needed to aggregate globa…
+❤ 0 · 🔁 58 · 💬 0 · цитат 0 · просмотров 1372  
+https://x.com/hosseeb/status/2123486572427522329
 
-❤ 0 · 🔁 53 · 💬 0 · цитат 0 · просмотров 1659  
-https://x.com/hosseeb/status/2123097303116587116
+## 2026-11-19 22:26 UTC · репост
 
-## 2026-11-18 21:28 UTC · репост
+RT @WeThe_Builders: “A lot of people perceive negotiation as intrinsically adversarial, which is the wrong mindset to take into negotiation…
 
-RT @_choppingblock: We're having a nice little funeral for crypto and Nvidia.
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1450  
+https://x.com/hosseeb/status/2123543574721802376
 
-Special episode feat. @Joshua_J_Lim!
+## 2026-11-20 00:32 UTC · репост
 
-Timestamps
-00:00 Intro…
+RT @KevinWSHPod: . @hosseeb explains why Dragonfly still holds $NEAR through all the ups and downs
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1438  
-https://x.com/hosseeb/status/2123166487074746776
+“If you look at the price chart of near…
 
-## 2026-11-19 03:20 UTC · репост
+❤ 0 · 🔁 61 · 💬 0 · цитат 0 · просмотров 1293  
+https://x.com/hosseeb/status/2123575202659680425
 
-RT @hosseeb: Every bear market feels like it's over forever. I argue this time is no different, and crypto will bounce back.
+## 2026-11-20 02:47 UTC · репост
 
-This week we…
+RT @suffiyanmalikk: “They will wait as long as you give them to do anything.”
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/hosseeb/status/2123255037111754976
+@hosseeb of @dragonfly says the lead is the most important i…
 
-## 2026-11-19 04:40 UTC · пост
-
-PSA https://t.co/xxPVHacE7U is still by far the most liquid venue to buy and sell $PRL, and doesn't require KYC
-
-(long both) https://t.co/tdNRpDiw0w
-
-❤ 76 · 🔁 7 · 💬 8 · цитат 1 · просмотров 6946  
-https://x.com/hosseeb/status/2123275177782132803
-
-## 2026-11-19 04:41 UTC · ответ
-
-@emilylai What was your answer?
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 844  
-https://x.com/hosseeb/status/2123275363984031986
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1316  
+https://x.com/hosseeb/status/2123609228149666072
