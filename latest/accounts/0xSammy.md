@@ -1,109 +1,219 @@
-# @0xSammy — посты за 2026-11-20
+# @0xSammy — посты за 2026-11-21
 
-Всего: 14
+Всего: 28
 
-## 2026-11-19 09:53 UTC · ответ
+## 2026-11-20 09:09 UTC · ответ
 
-@rektmando Get the popcorn
+@goon_crypto Yeah lmao
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 309  
-https://x.com/0xSammy/status/2123353937088557348
+Also tracking similar to $SPCX
 
-## 2026-11-19 09:54 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 253  
+https://x.com/0xSammy/status/2123705333419778245
 
-@GrindingPoet I feel you 
+## 2026-11-20 09:52 UTC · ответ
 
-Strange situation currently
+@haitzu Banger lads
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 342  
-https://x.com/0xSammy/status/2123354247408619901
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 234  
+https://x.com/0xSammy/status/2123716108997849266
 
-## 2026-11-19 10:00 UTC · репост
+## 2026-11-20 09:53 UTC · ответ
 
-RT @CChiemelie92195: Yes. political ignorance plus rising crypto rules has made the UK a hard place to build, so talent keeps leaving for f…
+@zacxbt @claudeai @DarioAmodei @bcherny Ikr!
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 3287  
-https://x.com/0xSammy/status/2123355690920198400
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 349  
+https://x.com/0xSammy/status/2123716281769533575
 
-## 2026-11-19 10:00 UTC · ответ
+## 2026-11-20 09:55 UTC · ответ
 
-@X Rogue
+@gmoneyNFT When I’m checking the more liquid graded base set charizards, they’re up another 10-15% on sales over past few months 
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 363  
-https://x.com/0xSammy/status/2123355811283968114
+High quality Vintage defying gravity
 
-## 2026-11-19 16:06 UTC · цитата
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 550  
+https://x.com/0xSammy/status/2123716866745249813
 
-TradFi running the same low float, high FDV playbook crypto bros spent the last cycle doing
+## 2026-11-20 09:56 UTC · ответ
 
-~5% of $ANT shares in the IPO, with unlocked supply set to grow over 12x in the next year according to DefiLlama https://t.co/VLz8NDvQ3v
+@BillyM2k I can’t unsee this now 
 
-❤ 33 · 🔁 4 · 💬 8 · цитат 0 · просмотров 6236  
-https://x.com/0xSammy/status/2123447825367191626
+Sell everything
 
-## 2026-11-19 16:07 UTC · цитата
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 648  
+https://x.com/0xSammy/status/2123717128452989412
 
-I produced a benchmark against recent IPOs in last week’s newsletter: https://t.co/GMkmT3wo9s https://t.co/fgjqOX9AHs
+## 2026-11-20 09:58 UTC · ответ
 
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 614  
-https://x.com/0xSammy/status/2123448147267420471
+@0xdetweiler @ForecastFDN Wise choice
 
-## 2026-11-19 17:20 UTC · ответ
+Sitting on hands until market shows a shift in direction is probs the safest bet right now 
 
-@bull_boiy Ikr
+Builder mode
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 138  
-https://x.com/0xSammy/status/2123466566914453956
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 415  
+https://x.com/0xSammy/status/2123717627381944335
 
-## 2026-11-19 17:21 UTC · репост
+## 2026-11-20 10:09 UTC · ответ
 
-RT @TheRoaringKitty: https://t.co/ecmmzywnsA
+@Zeneca Think we forget how locked in to the tech world we are here on X
 
-❤ 0 · 🔁 7269 · 💬 0 · цитат 0 · просмотров 2337  
-https://x.com/0xSammy/status/2123466788146958477
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 368  
+https://x.com/0xSammy/status/2123720275099595180
 
-## 2026-11-19 17:22 UTC · ответ
+## 2026-11-20 15:00 UTC · ответ
 
-@TheRoaringKitty Anthropic allocation? 
+@TaikiMaeda2 😂😭
 
-What we pamping
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 587  
+https://x.com/0xSammy/status/2123793628912820496
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 769  
-https://x.com/0xSammy/status/2123466934390051074
+## 2026-11-20 15:45 UTC · цитата
 
-## 2026-11-19 17:23 UTC · ответ
+They’re catching on: https://t.co/LNKz4u0c7B
 
-@binji_x Nah it’s just bear market things
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 682  
+https://x.com/0xSammy/status/2123805022882250985
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 230  
-https://x.com/0xSammy/status/2123467166276018336
+## 2026-11-20 15:54 UTC · ответ
 
-## 2026-11-19 18:52 UTC · ответ
+@AgentChud No Chud! Dont scare the people
 
-@proofofnathan XPL trillions?
+❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2930  
+https://x.com/0xSammy/status/2123807168193503352
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 238  
-https://x.com/0xSammy/status/2123489684592488559
+## 2026-11-20 16:06 UTC · пост
 
-## 2026-11-19 18:54 UTC · цитата
+Is the “Santa rally” in the room with us now?
 
-@TheRoaringKitty 👀
+❤ 37 · 🔁 2 · 💬 6 · цитат 0 · просмотров 5046  
+https://x.com/0xSammy/status/2123810143053693309
 
-Did you cut a deal with the devil? https://t.co/CGPbZXIVav
+## 2026-11-20 17:43 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 460  
-https://x.com/0xSammy/status/2123490138613260798
+@HenryElderBTC I’ll bide my time
 
-## 2026-11-19 18:55 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 123  
+https://x.com/0xSammy/status/2123834587227075071
 
-@zacxbt They’re scurred
+## 2026-11-20 17:43 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 207  
-https://x.com/0xSammy/status/2123490333673619497
+@bckfv_eth Pls no
 
-## 2026-11-19 19:38 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 135  
+https://x.com/0xSammy/status/2123834612409569284
 
-@lucy_guo Does your ex know?
+## 2026-11-20 17:43 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1829  
-https://x.com/0xSammy/status/2123501266768699752
+@CCribz 😬
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 153  
+https://x.com/0xSammy/status/2123834638695108858
+
+## 2026-11-20 22:00 UTC · цитата
+
+As a former ‘Big Four’ auditor, I’d be concerned enough to want the evidence behind PwC’s Nvidia sign-off examined closely
+
+PwC signed clean opinions on the accounts and financial reporting controls on 25 February 2026. Its only critical audit matter was “inventory valuation and https://t.co/gZ9sIuytFB
+
+❤ 64 · 🔁 8 · 💬 12 · цитат 1 · просмотров 20851  
+https://x.com/0xSammy/status/2123899409037451561
+
+## 2026-11-20 22:02 UTC · ответ
+
+@goodalexander Banger
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 387  
+https://x.com/0xSammy/status/2123899912244826328
+
+## 2026-11-20 22:04 UTC · ответ
+
+@R2D2zen @WatcherGuru @PeterSchiff Au-ful
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 227  
+https://x.com/0xSammy/status/2123900268047737282
+
+## 2026-11-21 00:46 UTC · ответ
+
+@CryptoKaleo This is nuts
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1128  
+https://x.com/0xSammy/status/2123941015342236038
+
+## 2026-11-21 00:47 UTC · ответ
+
+@HFTD3G3N Lmfao
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 316  
+https://x.com/0xSammy/status/2123941218182983782
+
+## 2026-11-21 00:50 UTC · ответ
+
+@0xDith All c-suite on the chopping block
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 218  
+https://x.com/0xSammy/status/2123942155072806924
+
+## 2026-11-21 01:00 UTC · ответ
+
+@MattAHay You mean… NVIDIA’s Q3 FY2026 10-Q, Note 13: “Segment Information”, page 22?
+
+“We believe changing to revenue based upon the location of our customers’ headquarters provides a better representation of the geographic profile of our revenue”
+
+The methodology change was disclosed.
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 367  
+https://x.com/0xSammy/status/2123944489228423266
+
+## 2026-11-21 01:01 UTC · ответ
+
+@DJL06824 If anyone could bring down the largest accounting firm, it’s the largest multi trillion dollar AI lab
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 283  
+https://x.com/0xSammy/status/2123944872172294265
+
+## 2026-11-21 01:06 UTC · ответ
+
+@BuzaliFacu Agreed the geography change was disclosed. That alone isn’t evidence of improper reporting, although customer HQ doesn’t establish the ultimate destination or end user
+
+On guarantees, the full backstop isn’t an immediate P&amp;L charge. But where ASC 460’s recognition rules apply, a
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 200  
+https://x.com/0xSammy/status/2123946019872268315
+
+## 2026-11-21 01:07 UTC · ответ
+
+@farokh 🎯
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 244  
+https://x.com/0xSammy/status/2123946341097443550
+
+## 2026-11-21 01:08 UTC · ответ
+
+@KobeissiLetter Only 6 trilly?
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1760  
+https://x.com/0xSammy/status/2123946526112354572
+
+## 2026-11-21 01:16 UTC · ответ
+
+@jimcramer Yo @inversebrah Murad may have been onto smth after all
+
+❤ 9 · 🔁 0 · 💬 0 · цитат 0 · просмотров 424  
+https://x.com/0xSammy/status/2123948645577822611
+
+## 2026-11-21 01:20 UTC · ответ
+
+@MattAHay What if the customer HQ isn’t the right decision? Hindsight is 2020 but there’s clear concerns with this methodology emerging
+
+❤ 0 · 🔁 0 · 💬 2 · цитат 0 · просмотров 235  
+https://x.com/0xSammy/status/2123949529972253096
+
+## 2026-11-21 01:21 UTC · ответ
+
+@DJL06824 Dayam, got the stripes from the front line
+
+A lot of AA came to EY once it collapsed
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 225  
+https://x.com/0xSammy/status/2123949823145464162

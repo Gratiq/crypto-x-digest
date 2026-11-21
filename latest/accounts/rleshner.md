@@ -1,33 +1,17 @@
-# @rleshner — посты за 2026-11-20
+# @rleshner — посты за 2026-11-21
 
-Всего: 4
+Всего: 2
 
-## 2026-11-19 16:11 UTC · ответ
+## 2026-11-20 18:08 UTC · репост
 
-@LucaProsperi Ser, a 31 RHR is absurd do you hibernate in the winter
+RT @paraficapital: “A stablecoin is not two times as good as a dollar. It’s a hundred times as good of a dollar, for its intended use case.…
 
-❤ 4 · 🔁 1 · 💬 3 · цитат 0 · просмотров 461  
-https://x.com/rleshner/status/2123449079204339921
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 599  
+https://x.com/rleshner/status/2123840830322721003
 
-## 2026-11-19 16:11 UTC · ответ
+## 2026-11-21 00:46 UTC · пост
 
-@danheld $104
+What happens when the rate at which AI can discover provably true mathematical results substantially exceeds humanity's capacity to understand them?
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1224  
-https://x.com/rleshner/status/2123449203460288573
-
-## 2026-11-19 22:03 UTC · ответ
-
-@robbieklages Check out IROXX which just launched, this is exactly your thesis https://t.co/T9OfQYTZW4
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 162  
-https://x.com/rleshner/status/2123537775458959370
-
-## 2026-11-19 22:26 UTC · репост
-
-RT @NousResearch: We've partnered with @Microsoft to bring Hermes Agent to the enterprise.
-
-Hermes Enterprise now works inside Microsoft Te…
-
-❤ 0 · 🔁 587 · 💬 0 · цитат 0 · просмотров 545  
-https://x.com/rleshner/status/2123543443435561154
+❤ 53 · 🔁 2 · 💬 23 · цитат 0 · просмотров 11402  
+https://x.com/rleshner/status/2123941140885823967

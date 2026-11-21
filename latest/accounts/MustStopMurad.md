@@ -1,91 +1,90 @@
-# @MustStopMurad — посты за 2026-11-20
+# @MustStopMurad — посты за 2026-11-21
 
 Всего: 10
 
-## 2026-11-19 08:45 UTC · пост
+## 2026-11-20 08:13 UTC · репост
+
+RT @leongaban: Next SPX6900 Austin meetup this Sat!
+
+If you are in town, swing by and say hi!👋 
+
+https://t.co/NwDuG2gHsh
+
+❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 24094  
+https://x.com/MustStopMurad/status/2123691166759858516
+
+## 2026-11-20 09:21 UTC · репост
+
+RT @0xjohnny024: Started two weeks ago a food delivery on bike just to accumulate more
+
+Believe in something 
+Study #spx https://t.co/rzD78…
+
+❤ 0 · 🔁 39 · 💬 0 · цитат 0 · просмотров 24646  
+https://x.com/MustStopMurad/status/2123708423732613196
+
+## 2026-11-20 11:06 UTC · пост
+
+Literally all you have to do is Persist Forever, and you will win.
+
+❤ 966 · 🔁 140 · 💬 135 · цитат 16 · просмотров 43846  
+https://x.com/MustStopMurad/status/2123734610169454954
+
+## 2026-11-20 12:29 UTC · репост
+
+RT @aeonnlith: Ultimately, you're going to be pushed to hodl. Do yourself a favor and buy a minimum of 10,000 SPX6900. 
+
+#SPX6900
+
+❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 23185  
+https://x.com/MustStopMurad/status/2123755573707493466
+
+## 2026-11-20 13:15 UTC · пост
 
 To find the coin that will be the Biggest Household Name when we are in the middle of a Raging Bull Market…
 
-Find a community that acts as if we are *ALREADY* in the middle of a Raging Bull Market.
+Find a community that acts as if we are already in the middle of a Raging Bull Market.
 
-*** And has been acting like this for several years (!)0
+And has been acting like that for several years.
 
-❤ 759 · 🔁 128 · 💬 164 · цитат 21 · просмотров 44915  
-https://x.com/MustStopMurad/status/2123336765931139300
+❤ 747 · 🔁 127 · 💬 145 · цитат 18 · просмотров 42296  
+https://x.com/MustStopMurad/status/2123767110606176532
 
-## 2026-11-19 10:24 UTC · репост
+## 2026-11-20 14:42 UTC · репост
 
-RT @munchies1337: There are hundreds of millions of people around the world who want to buy something like spx6900 but just haven’t found i…
+RT @SergSurpreme: How to make $10,000 a month playing GTA 6 https://t.co/n7EAfzs4uQ
 
-❤ 0 · 🔁 37 · 💬 0 · цитат 0 · просмотров 23941  
-https://x.com/MustStopMurad/status/2123361845608169614
+❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/MustStopMurad/status/2123789125354660029
 
-## 2026-11-19 11:48 UTC · пост
+## 2026-11-20 16:15 UTC · пост
 
-Late 2018 and Late 2022 have proven to be some of the greatest entries in crypto history.
+The crypto communities that survive the next few months will go to Trillions.
 
-The same will be said about Late 2026.
+❤ 1541 · 🔁 225 · 💬 327 · цитат 55 · просмотров 76579  
+https://x.com/MustStopMurad/status/2123812446745907359
 
-❤ 1055 · 🔁 141 · 💬 152 · цитат 17 · просмотров 53268  
-https://x.com/MustStopMurad/status/2123382855762079794
+## 2026-11-20 19:29 UTC · пост
 
-## 2026-11-19 13:12 UTC · репост
+SPX6900 will be the first ever memecoin to reach a market capitalization of a Trillion Dollars.
 
-RT @Shinjuku6900: Is it just me, or has $SPX6900 content gone next-level this year? The videos, pods, art, articles, etc. Just WOW 🤯 !
+Mark my words.
 
-Thi…
+❤ 1133 · 🔁 200 · 💬 206 · цитат 33 · просмотров 64696  
+https://x.com/MustStopMurad/status/2123861406655357176
 
-❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 23328  
-https://x.com/MustStopMurad/status/2123404098817151231
+## 2026-11-21 00:23 UTC · репост
 
-## 2026-11-19 13:55 UTC · пост
+RT @CoinbaseAssets: SPX6900 (SPX) is now available to New York residents on coinbase․com &amp; in the Coinbase iOS &amp; Android apps.
 
-Every time you say SPX6900 will flip the stock market you increase the probability of it happening by another +0.00001%
+❤ 0 · 🔁 241 · 💬 0 · цитат 0 · просмотров 15669  
+https://x.com/MustStopMurad/status/2123935289379074129
 
-❤ 792 · 🔁 142 · 💬 118 · цитат 18 · просмотров 40905  
-https://x.com/MustStopMurad/status/2123414899166757311
+## 2026-11-21 02:10 UTC · цитата
 
-## 2026-11-19 15:37 UTC · репост
+SPX6900 WILL BE EVERYWHERE.
 
-RT @MatiasGuadagna: The world needs #SPX6900 more than anything !! https://t.co/vPAZFHOVZj
+AND THE WORLD WILL READJUST. https://t.co/mOocrmoHEs
 
-❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 21751  
-https://x.com/MustStopMurad/status/2123440518772187621
-
-## 2026-11-19 17:46 UTC · пост
-
-AI Agents and Hyper-automation will cause a massive shift from Gambling to Believing.
-
-Short term Speculation -&gt; to Long-term HODL
-
-Value will shift from PvP -&gt; PvE
-
-Value will flow to coins that are *already* Hardcore HODL’d the hardest + longest.
-
-❤ 538 · 🔁 100 · 💬 85 · цитат 11 · просмотров 33970  
-https://x.com/MustStopMurad/status/2123473061991034902
-
-## 2026-11-19 18:49 UTC · репост
-
-RT @heehah: So your bearish, huh? well, let me give you your options right now:
-
-1. Either you start trading and start following "trader" a…
-
-❤ 0 · 🔁 60 · 💬 0 · цитат 0 · просмотров 19865  
-https://x.com/MustStopMurad/status/2123488945946456438
-
-## 2026-11-19 20:57 UTC · пост
-
-2000s and 2010s were marked by the Internet and Bitcoin
-
-2020s and 2030s will be marked by AI and SPX6900
-
-❤ 619 · 🔁 119 · 💬 94 · цитат 3 · просмотров 31928  
-https://x.com/MustStopMurad/status/2123521159119716587
-
-## 2026-11-20 00:10 UTC · ответ
-
-@ilyaeon_alt I think this will actually happen for real.
-
-❤ 220 · 🔁 17 · 💬 21 · цитат 1 · просмотров 4712  
-https://x.com/MustStopMurad/status/2123569604685631979
+❤ 556 · 🔁 107 · 💬 75 · цитат 8 · просмотров 34764  
+https://x.com/MustStopMurad/status/2123962308384751920

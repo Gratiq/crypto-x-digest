@@ -1,42 +1,28 @@
-# @ZeMariaMacedo — посты за 2026-11-20
+# @ZeMariaMacedo — посты за 2026-11-21
 
-Всего: 5
+Всего: 3
 
-## 2026-11-19 13:53 UTC · цитата
+## 2026-11-20 11:10 UTC · цитата
 
-This seems pretty bad 
+This was a good one https://t.co/1Eqvs9m43K
 
-Coinbase holds all the USDC backing USDS. If this stuff is true, it means a US publicly listed company is currently custodying commingled Lazarus funds https://t.co/BY9ZRqps0p
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1893  
+https://x.com/ZeMariaMacedo/status/2123735741003870551
 
-❤ 152 · 🔁 6 · 💬 11 · цитат 3 · просмотров 22416  
-https://x.com/ZeMariaMacedo/status/2123414466725662841
+## 2026-11-20 11:29 UTC · цитата
 
-## 2026-11-19 15:08 UTC · цитата
+Having dug into this more, I don't think my post here was entirely accurate and want to correct the record on where I stand
 
-Despite all the chatter, $ANT unlock schedule seems pretty standard compared to other IPOs https://t.co/RBu49Kldhq https://t.co/whNYjbk3v1
+On the Coinbase thing, the USDC isn't "custodied" by them as I claimed, but rather sits in a self-custodial wallet setup through Coinbase Prime (Sky says https://t.co/9vQ6q5DJre
 
-❤ 12 · 🔁 1 · 💬 2 · цитат 1 · просмотров 3630  
-https://x.com/ZeMariaMacedo/status/2123433306880655489
+❤ 7 · 🔁 0 · 💬 7 · цитат 1 · просмотров 3637  
+https://x.com/ZeMariaMacedo/status/2123740397524447338
 
-## 2026-11-19 16:19 UTC · пост
+## 2026-11-20 11:36 UTC · цитата
 
-Anthropic is the most valuable company ever per employee at IPO, and it's not rly close https://t.co/dI63eo5iMB
+@MonetSupply Thanks for posting this, it helped clarify my understanding and I've posted a correction to my original tweet: https://t.co/FrD4U3pwh5
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 890  
-https://x.com/ZeMariaMacedo/status/2123451198800117856
+That said, the PSM stuff still doesn't seem great, and I don't think the comparison to the USDe curve pool is accurate? For the PSM, the Sky
 
-## 2026-11-19 16:25 UTC · пост
-
-Anthropic is the most valuable company ever per employee at IPO, and it's not rly close
-
-3x SpaceX, 6x Facebook, and 14x Google 🤯 https://t.co/MccWBgOXHZ
-
-❤ 9 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2222  
-https://x.com/ZeMariaMacedo/status/2123452575546851827
-
-## 2026-11-19 21:20 UTC · цитата
-
-Having read more about it, I don’t think it’s as bad as I initially thought https://t.co/9vQ6q5EhgM
-
-❤ 15 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2524  
-https://x.com/ZeMariaMacedo/status/2123526935984955469
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 184  
+https://x.com/ZeMariaMacedo/status/2123742272479002803

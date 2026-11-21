@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2123960314601373849",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-21T02:02:54.000Z",
+  "text": "RT @SBF_FTX: This guy wants to play me in season 2, what do we think https://t.co/KQhhUAONoG",
+  "url": "https://x.com/NotChaseColeman/status/2123960314601373849",
+  "likes": 0,
+  "retweets": 98,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 438,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123955799252984270",
+   "text": "This guy wants to play me in season 2, what do we think https://t.co/KQhhUAONoG https://t.co/6mUF3SeUCt"
+  }
+ },
+ {
+  "id": "2123960534022410591",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-21T02:03:47.000Z",
+  "text": "@SBF_FTX PARDON SAM",
+  "url": "https://x.com/NotChaseColeman/status/2123960534022410591",
+  "likes": 20,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2767,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123955799252984270",
+   "text": "This guy wants to play me in season 2, what do we think https://t.co/KQhhUAONoG https://t.co/6mUF3SeUCt"
+  }
+ }
+]

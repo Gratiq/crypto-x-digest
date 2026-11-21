@@ -1,82 +1,37 @@
 [
  {
-  "id": "2123449079204339921",
-  "username": "rleshner",
-  "username_canon": "rleshner",
-  "type": "reply",
-  "created_at": "2026-11-19T16:11:26.000Z",
-  "text": "@LucaProsperi Ser, a 31 RHR is absurd do you hibernate in the winter",
-  "url": "https://x.com/rleshner/status/2123449079204339921",
-  "likes": 4,
-  "retweets": 1,
-  "replies": 3,
-  "quotes": 0,
-  "impressions": 461,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123421585902035156",
-   "text": "Rookie https://t.co/DZViZgVCPM https://t.co/rukd8jPAzZ"
-  }
- },
- {
-  "id": "2123449203460288573",
-  "username": "rleshner",
-  "username_canon": "rleshner",
-  "type": "reply",
-  "created_at": "2026-11-19T16:11:56.000Z",
-  "text": "@danheld $104",
-  "url": "https://x.com/rleshner/status/2123449203460288573",
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 1224,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123433369195462689",
-   "text": "Anthropic is priced at $83.\n\nWhere does it close on day one?\n\nYour guess👇"
-  }
- },
- {
-  "id": "2123537775458959370",
-  "username": "rleshner",
-  "username_canon": "rleshner",
-  "type": "reply",
-  "created_at": "2026-11-19T22:03:53.000Z",
-  "text": "@robbieklages Check out IROXX which just launched, this is exactly your thesis https://t.co/T9OfQYTZW4",
-  "url": "https://x.com/rleshner/status/2123537775458959370",
-  "likes": 4,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 162,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123451987228295422",
-   "text": "Ever since my breakfast with DTCC, I keep coming back to the idea that tokenized money market funds could be used as collateral.\n\nWith Waller floating a half point hike, collateral that earns yield while it sits there gets hard to ignore.\n\nEvery dollar posted could be working"
-  }
- },
- {
-  "id": "2123543443435561154",
+  "id": "2123840830322721003",
   "username": "rleshner",
   "username_canon": "rleshner",
   "type": "retweet",
-  "created_at": "2026-11-19T22:26:25.000Z",
-  "text": "RT @NousResearch: We've partnered with @Microsoft to bring Hermes Agent to the enterprise.\n\nHermes Enterprise now works inside Microsoft Te…",
-  "url": "https://x.com/rleshner/status/2123543443435561154",
+  "created_at": "2026-11-20T18:08:07.000Z",
+  "text": "RT @paraficapital: “A stablecoin is not two times as good as a dollar. It’s a hundred times as good of a dollar, for its intended use case.…",
+  "url": "https://x.com/rleshner/status/2123840830322721003",
   "likes": 0,
-  "retweets": 587,
+  "retweets": 3,
   "replies": 0,
   "quotes": 0,
-  "impressions": 545,
+  "impressions": 599,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123535954946257096",
-   "text": "We've partnered with @Microsoft to bring Hermes Agent to the enterprise.\n\nHermes Enterprise now works inside Microsoft Teams, the Microsoft Store and Azure. In Teams, employees hand Hermes work like financial analysis, document drafts or inbox triage, and review the result in the https://t.co/GmO30EcVqN"
+   "id": "2123838677625278780",
+   "text": "“A stablecoin is not two times as good as a dollar. It’s a hundred times as good of a dollar, for its intended use case.”\n@rleshner from @superstate on why stablecoins are only the first inning of tokenization, at ParaFi Investor Day 2026.\n\nFull conversation: https://t.co/zgPGxRuSIO"
   }
+ },
+ {
+  "id": "2123941140885823967",
+  "username": "rleshner",
+  "username_canon": "rleshner",
+  "type": "original",
+  "created_at": "2026-11-21T00:46:43.000Z",
+  "text": "What happens when the rate at which AI can discover provably true mathematical results substantially exceeds humanity's capacity to understand them?",
+  "url": "https://x.com/rleshner/status/2123941140885823967",
+  "likes": 53,
+  "retweets": 2,
+  "replies": 23,
+  "quotes": 0,
+  "impressions": 11402,
+  "bookmarks": 4
  }
 ]

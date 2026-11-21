@@ -1,0 +1,62 @@
+[
+ {
+  "id": "2123735741003870551",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-20T11:10:32.000Z",
+  "text": "This was a good one https://t.co/1Eqvs9m43K",
+  "url": "https://x.com/ZeMariaMacedo/status/2123735741003870551",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1893,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123494983411884310",
+   "text": "A new episode of Hivemind is out now!\n\nThis week the team discusses whether markets are near a bottom, what Jensen's exit means for Nvidia, how Anthropic's IPO could move the market and more. \n\nTimestamps\n00:00 Intro\n00:43 Are We Near a Market Bottom?\n04:23 Why the Risk Model https://t.co/Il0scf6Lr2"
+  }
+ },
+ {
+  "id": "2123740397524447338",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-20T11:29:02.000Z",
+  "text": "Having dug into this more, I don't think my post here was entirely accurate and want to correct the record on where I stand\n\nOn the Coinbase thing, the USDC isn't \"custodied\" by them as I claimed, but rather sits in a self-custodial wallet setup through Coinbase Prime (Sky says https://t.co/9vQ6q5DJre",
+  "url": "https://x.com/ZeMariaMacedo/status/2123740397524447338",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 1,
+  "impressions": 3637,
+  "bookmarks": 5,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123414466725662841",
+   "text": "This seems pretty bad \n\nCoinbase holds all the USDC backing USDS. If this stuff is true, it means a US publicly listed company is currently custodying commingled Lazarus funds https://t.co/BY9ZRqps0p"
+  }
+ },
+ {
+  "id": "2123742272479002803",
+  "username": "ZeMariaMacedo",
+  "username_canon": "ZeMariaMacedo",
+  "type": "quote",
+  "created_at": "2026-11-20T11:36:29.000Z",
+  "text": "@MonetSupply Thanks for posting this, it helped clarify my understanding and I've posted a correction to my original tweet: https://t.co/FrD4U3pwh5\n\nThat said, the PSM stuff still doesn't seem great, and I don't think the comparison to the USDe curve pool is accurate? For the PSM, the Sky",
+  "url": "https://x.com/ZeMariaMacedo/status/2123742272479002803",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 184,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123740397524447338",
+   "text": "Having dug into this more, I don't think my post here was entirely accurate and want to correct the record on where I stand\n\nOn the Coinbase thing, the USDC isn't \"custodied\" by them as I claimed, but rather sits in a self-custodial wallet setup through Coinbase Prime (Sky says https://t.co/9vQ6q5DJre"
+  }
+ }
+]

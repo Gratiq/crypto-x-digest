@@ -1,31 +1,31 @@
-# @Orangie — посты за 2026-11-20
+# @Orangie — посты за 2026-11-21
 
 Всего: 4
 
-## 2026-11-19 17:21 UTC · пост
+## 2026-11-20 15:32 UTC · ответ
 
-everyone i know is work from home today 🧐 https://t.co/G9fArKk0Mx
+@jussy_world part of the game
 
-❤ 215 · 🔁 3 · 💬 71 · цитат 3 · просмотров 18337  
-https://x.com/orangie/status/2123466819885559954
+❤ 22 · 🔁 1 · 💬 12 · цитат 0 · просмотров 3237  
+https://x.com/orangie/status/2123801760489754924
 
-## 2026-11-19 17:30 UTC · ответ
+## 2026-11-20 16:27 UTC · пост
 
-@drag0nm4n bro LMFAO this narrative might actually be cursed
+$59k bitcoin https://t.co/Veaw9m0Idu
 
-❤ 8 · 🔁 0 · 💬 6 · цитат 0 · просмотров 1055  
-https://x.com/orangie/status/2123468886129435087
+❤ 348 · 🔁 4 · 💬 73 · цитат 0 · просмотров 38722  
+https://x.com/orangie/status/2123815423938593102
 
-## 2026-11-19 22:12 UTC · ответ
+## 2026-11-20 17:26 UTC · ответ
 
-@btravisNYC 💯
+@tradfi what
 
-❤ 11 · 🔁 0 · 💬 7 · цитат 0 · просмотров 1509  
-https://x.com/orangie/status/2123539919570391549
+❤ 12 · 🔁 0 · 💬 7 · цитат 0 · просмотров 2352  
+https://x.com/orangie/status/2123830379136057443
 
-## 2026-11-20 02:49 UTC · ответ
+## 2026-11-21 00:50 UTC · ответ
 
-@soby0x 🤞🏻😢
+@xMikeForReal 🤣🤣🤣
 
-❤ 12 · 🔁 0 · 💬 6 · цитат 0 · просмотров 1560  
-https://x.com/orangie/status/2123609757521178739
+❤ 13 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1564  
+https://x.com/orangie/status/2123942110856368465

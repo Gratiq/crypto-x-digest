@@ -1,10 +1,10 @@
-# @AltcoinPsycho — посты за 2026-11-20
+# @AltcoinPsycho — посты за 2026-11-21
 
 Всего: 1
 
-## 2026-11-19 18:46 UTC · ответ
+## 2026-11-20 21:26 UTC · ответ
 
-@0xfoobar hell yea
+@BuildwithPublic @public would love to chat, sent ya a DM a bit ago
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 911  
-https://x.com/AltcoinPsycho/status/2123488050668023861
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 920  
+https://x.com/AltcoinPsycho/status/2123890657236574444

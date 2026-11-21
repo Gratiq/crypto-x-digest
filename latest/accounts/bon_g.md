@@ -1,102 +1,45 @@
-# @bon_g — посты за 2026-11-20
+# @bon_g — посты за 2026-11-21
 
-Всего: 13
+Всего: 6
 
-## 2026-11-19 11:04 UTC · пост
+## 2026-11-20 14:25 UTC · ответ
 
-Lyon win in the women’s champions league today
+@TimOnSol_ 🫡
 
-20 goals in 3 games and they’re unbeatable https://t.co/8gCRdyBxR9
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 56  
+https://x.com/bon_g/status/2123784762376794439
 
-❤ 80 · 🔁 13 · 💬 50 · цитат 0 · просмотров 3931  
-https://x.com/bon_g/status/2123371928203448741
+## 2026-11-20 16:05 UTC · пост
 
-## 2026-11-19 18:05 UTC · цитата
+stop selling you fucks i have a family to feed
 
-kim minus the chi https://t.co/DnPTwxwB8p https://t.co/oLHQj3gsdy
+❤ 75 · 🔁 6 · 💬 29 · цитат 0 · просмотров 1722  
+https://x.com/bon_g/status/2123809971985154546
 
-❤ 58 · 🔁 6 · 💬 23 · цитат 0 · просмотров 1520  
-https://x.com/bon_g/status/2123477773230514220
+## 2026-11-20 16:08 UTC · цитата
 
-## 2026-11-19 20:31 UTC · ответ
+@Pumpfun there is no money left ily https://t.co/nsCFCHNb4A
 
-@TomTummetott aura final boss
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 140  
+https://x.com/bon_g/status/2123810737235935519
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 57  
-https://x.com/bon_g/status/2123514521037963411
+## 2026-11-20 18:18 UTC · ответ
 
-## 2026-11-19 21:26 UTC · пост
+@ipaincharts gta6, short and chill
 
-next moodeng just spawned
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 63  
+https://x.com/bon_g/status/2123843510877175944
 
-❤ 63 · 🔁 6 · 💬 30 · цитат 0 · просмотров 1817  
-https://x.com/bon_g/status/2123528400501354733
+## 2026-11-20 20:38 UTC · пост
 
-## 2026-11-19 21:32 UTC · ответ
+https://t.co/T1uNG43lt4
 
-@Sol_dium RIP
+❤ 54 · 🔁 3 · 💬 27 · цитат 0 · просмотров 1146  
+https://x.com/bon_g/status/2123878776144597036
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 197  
-https://x.com/bon_g/status/2123529813399093592
+## 2026-11-20 22:02 UTC · пост
 
-## 2026-11-19 21:33 UTC · ответ
+100k is the new 10m
 
-@DeluluCalls fiona the hippo launched 2d ago
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 253  
-https://x.com/bon_g/status/2123530147802366345
-
-## 2026-11-19 22:04 UTC · ответ
-
-@Trent0n513 @ReedyRancher @CincinnatiZoo hahahaha ok bro now you’re gonna turn this into a memecoin and we’ll all act like it’s something special
-
-❤ 0 · 🔁 0 · 💬 2 · цитат 0 · просмотров 441  
-https://x.com/bon_g/status/2123537841762292127
-
-## 2026-11-19 22:05 UTC · ответ
-
-@JDefi21_ solana:B34nXKzCgsJb9ChLuSHPRpXLE3WFSWyeT8Cqkzzmpump
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 104  
-https://x.com/bon_g/status/2123538107626582179
-
-## 2026-11-19 22:10 UTC · ответ
-
-@CincinnatiZoo RIP 🤍
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 409  
-https://x.com/bon_g/status/2123539372981026870
-
-## 2026-11-19 22:19 UTC · ответ
-
-@PumpfunEco 9figs
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 233  
-https://x.com/bon_g/status/2123541739172442464
-
-## 2026-11-19 23:13 UTC · пост
-
-been trading on pump fun for the past 3-4 days
-
-wasn’t very active there before but figured i’d give it a shot for a while
-
-had a few decent Xs so far market isn’t great but feel free to follow along
-
-https://t.co/UT06BvPYrj https://t.co/NYVCCQDi1u
-
-❤ 81 · 🔁 10 · 💬 58 · цитат 0 · просмотров 4725  
-https://x.com/bon_g/status/2123555323252212046
-
-## 2026-11-19 23:24 UTC · ответ
-
-@Cryptoshi_Calls mihao
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 154  
-https://x.com/bon_g/status/2123558065106555180
-
-## 2026-11-20 00:15 UTC · ответ
-
-@VinnetteP someone made a profit $500+
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 82  
-https://x.com/bon_g/status/2123570880940789844
+❤ 78 · 🔁 10 · 💬 32 · цитат 0 · просмотров 1515  
+https://x.com/bon_g/status/2123899888027197890

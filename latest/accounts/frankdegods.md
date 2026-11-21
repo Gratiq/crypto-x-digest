@@ -1,114 +1,84 @@
-# @frankdegods — посты за 2026-11-20
+# @frankdegods — посты за 2026-11-21
 
-Всего: 15
+Всего: 11
 
-## 2026-11-19 16:23 UTC · репост
+## 2026-11-20 16:16 UTC · ответ
 
-RT @jhaay1x: Recorded a video explaining exactly how i caught this trade using @frankdegods 's https://t.co/o1CLjMwkoG and other tips in th…
+@Xtrelevated1 ❤️❤️❤️
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 11682  
-https://x.com/frankdegods/status/2123451989409358204
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1221  
+https://x.com/frankdegods/status/2123812731048628657
 
-## 2026-11-19 17:55 UTC · пост
+## 2026-11-20 16:19 UTC · репост
 
-price action so aids a job starting to sound fun
+RT @hexiecs: whoever defend 60k just let it go
 
-❤ 532 · 🔁 15 · 💬 112 · цитат 8 · просмотров 32216  
-https://x.com/frankdegods/status/2123475270631829548
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 10445  
+https://x.com/frankdegods/status/2123813414254543051
 
-## 2026-11-19 19:23 UTC · цитата
+## 2026-11-20 16:53 UTC · пост
 
-it’s funny because ai was originally supposed to replace these guys
+relative strength, colorized c. 2026 https://t.co/H7poy0lZE2
 
-now they’re spending an extra $750k - $7.5M per engineer https://t.co/lZWNJAHtIL
+❤ 164 · 🔁 7 · 💬 51 · цитат 0 · просмотров 25297  
+https://x.com/frankdegods/status/2123821940511310045
 
-❤ 272 · 🔁 6 · 💬 46 · цитат 0 · просмотров 36642  
-https://x.com/frankdegods/status/2123497417748492721
+## 2026-11-20 17:19 UTC · ответ
 
-## 2026-11-19 23:24 UTC · пост
+@gajria you def binked this with clarity
 
-what’s crazy is circle freezes funds when big exchanges get hacked but like if homie gets drained they definitely not freezing that shit
+❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3586  
+https://x.com/frankdegods/status/2123828537518170520
 
-kinda fucked if u think about it
+## 2026-11-20 23:14 UTC · пост
 
-❤ 430 · 🔁 14 · 💬 64 · цитат 2 · просмотров 31370  
-https://x.com/frankdegods/status/2123558004566159388
+you could make the argument the non-consensus trade is shorting HERE 
 
-## 2026-11-19 23:34 UTC · пост
+obviously joking unless 🫣 https://t.co/HkYHhdJCYu
 
-curing cancer lowkey already priced in
+❤ 122 · 🔁 1 · 💬 43 · цитат 0 · просмотров 23072  
+https://x.com/frankdegods/status/2123917862288966060
 
-❤ 261 · 🔁 10 · 💬 49 · цитат 0 · просмотров 23230  
-https://x.com/frankdegods/status/2123560536369508633
+## 2026-11-20 23:30 UTC · пост
 
-## 2026-11-19 23:35 UTC · ответ
+makes you think https://t.co/wbWQ06Oi1C
 
-@based16z https://t.co/p4DNf9q0oz
+❤ 293 · 🔁 6 · 💬 100 · цитат 5 · просмотров 44610  
+https://x.com/frankdegods/status/2123921892734095625
 
-❤ 52 · 🔁 4 · 💬 14 · цитат 1 · просмотров 2954  
-https://x.com/frankdegods/status/2123560951865811039
+## 2026-11-20 23:46 UTC · ответ
 
-## 2026-11-19 23:41 UTC · ответ
+@goodalexander i’d hope so if they’re actually serving bjs
 
-@jiggacapital @based16z u made this? nice work
+❤ 30 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3067  
+https://x.com/frankdegods/status/2123925874596843806
 
-❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1073  
-https://x.com/frankdegods/status/2123562344488042768
+## 2026-11-21 00:13 UTC · пост
 
-## 2026-11-19 23:48 UTC · пост
+the nail in the coffin will be if trump just forgets about ai and starts shilling costco and walmart at ath’s
 
-bulls love buyin the dips when its -0.4% from ath
+there won’t be enough words in the dictionary to describe how over it would be
 
-where yall at now 😭
+❤ 314 · 🔁 10 · 💬 72 · цитат 4 · просмотров 26683  
+https://x.com/frankdegods/status/2123932848046694753
 
-❤ 371 · 🔁 4 · 💬 96 · цитат 0 · просмотров 25833  
-https://x.com/frankdegods/status/2123564059555664186
+## 2026-11-21 00:30 UTC · ответ
 
-## 2026-11-20 00:08 UTC · ответ
+@cryptunez is this what you meant? https://t.co/6mtKc8oKBA
 
-@JoyceanNoia no clue man just know dollars the best asset in the world rn
+❤ 68 · 🔁 2 · 💬 7 · цитат 1 · просмотров 5840  
+https://x.com/frankdegods/status/2123936955390202105
 
-❤ 9 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1495  
-https://x.com/frankdegods/status/2123569032502919208
+## 2026-11-21 04:06 UTC · ответ
 
-## 2026-11-20 00:08 UTC · пост
+@SOLsesame ??
 
-s/o everyone who bullposted cash
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1045  
+https://x.com/frankdegods/status/2123991505555836957
 
-❤ 217 · 🔁 6 · 💬 69 · цитат 10 · просмотров 28739  
-https://x.com/frankdegods/status/2123569185888624906
+## 2026-11-21 04:07 UTC · ответ
 
-## 2026-11-20 00:29 UTC · цитата
+@404flipped long pizza
 
-this just cruel bro https://t.co/LFORHh2HxX https://t.co/CMrCWyOAQN
-
-❤ 254 · 🔁 9 · 💬 52 · цитат 3 · просмотров 57353  
-https://x.com/frankdegods/status/2123574314373169177
-
-## 2026-11-20 00:30 UTC · ответ
-
-@EdizEffect means ai curing diseases is lowk in the price
-
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1193  
-https://x.com/frankdegods/status/2123574544984060134
-
-## 2026-11-20 04:10 UTC · ответ
-
-@based16z its over
-
-❤ 68 · 🔁 3 · 💬 20 · цитат 0 · просмотров 3028  
-https://x.com/frankdegods/status/2123629946862223745
-
-## 2026-11-20 04:43 UTC · репост
-
-RT @based16z: Frank Degods Edits Account https://t.co/0ybPyR5jkL
-
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 6977  
-https://x.com/frankdegods/status/2123638401203134824
-
-## 2026-11-20 05:22 UTC · пост
-
-just dont open the market tomorrow, please
-
-❤ 299 · 🔁 9 · 💬 96 · цитат 1 · просмотров 19236  
-https://x.com/frankdegods/status/2123648076846117341
+❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1306  
+https://x.com/frankdegods/status/2123991622635688008

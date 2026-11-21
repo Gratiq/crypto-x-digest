@@ -1,78 +1,120 @@
-# @hosseeb — посты за 2026-11-20
+# @hosseeb — посты за 2026-11-21
 
-Всего: 9
+Всего: 13
 
-## 2026-11-19 08:35 UTC · цитата
+## 2026-11-20 15:24 UTC · репост
 
-I definitely have a Buzz Lightyear neuron, I just know it https://t.co/B4cJQhdWB2
+RT @DeltaV_xyz: Every VC already has an agent today.
 
-❤ 18 · 🔁 1 · 💬 13 · цитат 0 · просмотров 6057  
-https://x.com/hosseeb/status/2123334430072914259
+Companymd files are replacing decks.
 
-## 2026-11-19 17:04 UTC · репост
+Problem: Haseeb will receive 1k companymd files…
 
-RT @NEARProtocol: $PEARL just crossed $10M in swap volume through NEAR Intents.
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1589  
+https://x.com/hosseeb/status/2123799599014195217
 
-Swap it confidentially on https://t.co/sryybkS1b8. https:/…
+## 2026-11-20 15:29 UTC · цитата
 
-❤ 0 · 🔁 44 · 💬 0 · цитат 0 · просмотров 1390  
-https://x.com/hosseeb/status/2123462532786745381
+Claude + Levent Alpoge just solved the Generalized Riemann Hypothesis, the holy grail of number theory. Right now we only have a Lean certificate, awaiting a human-readable proof.
 
-## 2026-11-19 17:50 UTC · цитата
+Remember when GPT-5.2 started to crack random Erdos problems?
 
-The crypto utopianism of 2021 was wrong.
+That was... in January.
 
-So what did crypto actually accomplish? Why is it still exciting today? And what's the case for continuing to invest in it?
+Strap in. https://t.co/MrBGSkFkoK
 
-A great podcast with @suffiyanmalikk, where I address the skeptics in the back of the room 👇 https://t.co/qRwHLAAwDl
+❤ 60 · 🔁 2 · 💬 9 · цитат 0 · просмотров 8837  
+https://x.com/hosseeb/status/2123800980668268982
 
-❤ 39 · 🔁 5 · 💬 14 · цитат 1 · просмотров 7868  
-https://x.com/hosseeb/status/2123474002664669560
+## 2026-11-20 16:29 UTC · пост
 
-## 2026-11-19 18:14 UTC · репост
+How does Wintermute even have this many coins to sell
 
-RT @suffiyanmalikk: My friends know I have been probably the biggest skeptic of the crypto industry for a while now 
+❤ 720 · 🔁 18 · 💬 57 · цитат 7 · просмотров 54425  
+https://x.com/hosseeb/status/2123815974927524155
 
-In this wide-ranging…
+## 2026-11-20 16:52 UTC · ответ
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1526  
-https://x.com/hosseeb/status/2123479985013010829
+@frontiersgal bastards
 
-## 2026-11-19 18:35 UTC · репост
+❤ 11 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2732  
+https://x.com/hosseeb/status/2123821710571090293
 
-RT @chronear: Might sound like flattery but @hosseeb has been an incredibly thoughtful critic of NEAR, challenging our assumptions. We've c…
+## 2026-11-20 18:00 UTC · цитата
 
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 1518  
-https://x.com/hosseeb/status/2123485292862828687
+Wow. Could not be worse timing for such a stupid policy.
 
-## 2026-11-19 18:40 UTC · репост
+(Good thing taxes can only be levied by Congress.) https://t.co/x5xEbMkY1l
 
-RT @NEARProtocol: https://t.co/HbTJGkVb1a
+❤ 57 · 🔁 5 · 💬 5 · цитат 0 · просмотров 14731  
+https://x.com/hosseeb/status/2123838861432508697
 
-❤ 0 · 🔁 58 · 💬 0 · цитат 0 · просмотров 1372  
-https://x.com/hosseeb/status/2123486572427522329
+## 2026-11-20 18:02 UTC · ответ
 
-## 2026-11-19 22:26 UTC · репост
+Love how he openly pre-announces that it's a tax, just in case this ever gets challenged in court.
 
-RT @WeThe_Builders: “A lot of people perceive negotiation as intrinsically adversarial, which is the wrong mindset to take into negotiation…
+Man knows ball.
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1450  
-https://x.com/hosseeb/status/2123543574721802376
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2159  
+https://x.com/hosseeb/status/2123839361846554810
 
-## 2026-11-20 00:32 UTC · репост
+## 2026-11-20 18:49 UTC · цитата
 
-RT @KevinWSHPod: . @hosseeb explains why Dragonfly still holds $NEAR through all the ups and downs
+we are truly in the end times https://t.co/Z8geYioi42 https://t.co/EuVhme9Iyu
 
-“If you look at the price chart of near…
+❤ 3826 · 🔁 192 · 💬 160 · цитат 86 · просмотров 393717  
+https://x.com/hosseeb/status/2123851164135653883
 
-❤ 0 · 🔁 61 · 💬 0 · цитат 0 · просмотров 1293  
-https://x.com/hosseeb/status/2123575202659680425
+## 2026-11-20 18:51 UTC · ответ
 
-## 2026-11-20 02:47 UTC · репост
+@AlokVasudev they used the riemann hypothesis to build a quantum computer to go back in time to 2020 prices
 
-RT @suffiyanmalikk: “They will wait as long as you give them to do anything.”
+❤ 6 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1952  
+https://x.com/hosseeb/status/2123851659961045318
 
-@hosseeb of @dragonfly says the lead is the most important i…
+## 2026-11-20 18:57 UTC · ответ
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1316  
-https://x.com/hosseeb/status/2123609228149666072
+I'm not even mad at this point, just impressed
+
+❤ 24 · 🔁 1 · 💬 0 · цитат 0 · просмотров 3100  
+https://x.com/hosseeb/status/2123853154014118368
+
+## 2026-11-20 19:19 UTC · ответ
+
+@DROOdotFOO Declarations of war, yes. But wars can be started without Congress and most wars through American history have.
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 184  
+https://x.com/hosseeb/status/2123858744840949928
+
+## 2026-11-21 00:16 UTC · ответ
+
+@zkToha Apparently takes like a day just to compile the proof
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 116  
+https://x.com/hosseeb/status/2123933533542690889
+
+## 2026-11-21 03:53 UTC · цитата
+
+Had a brief DM w/ Eli. He was disappointed that my clip went more viral than his interview. 
+
+But he was ultimately a gentleman about it. He took a lick but he intends to keep at it.
+
+Give him a follow =&gt; @realTomBayes
+
+I default respect any young person entering the arena. https://t.co/3VegMSbDBx https://t.co/EuVhme9Iyu
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2146  
+https://x.com/hosseeb/status/2123988165560356973
+
+## 2026-11-21 03:57 UTC · цитата
+
+Had a brief DM w/ Eli. He was disappointed that my clip went more viral than his interview. 
+
+But he was ultimately a gentleman about it. He took a lick but he intends to keep at it.
+
+Give him a follow =&gt; @realTomBayes
+
+I default respect any young person entering the arena. https://t.co/RHmfzzrl92 https://t.co/EuVhme9Iyu
+
+❤ 52 · 🔁 0 · 💬 12 · цитат 0 · просмотров 9893  
+https://x.com/hosseeb/status/2123989175926194233

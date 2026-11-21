@@ -1,62 +1,22 @@
 [
  {
-  "id": "2123438159266525590",
+  "id": "2123805844362178814",
   "username": "lmrankhan",
   "username_canon": "lmrankhan",
   "type": "retweet",
-  "created_at": "2026-11-19T15:28:03.000Z",
-  "text": "RT @alliance: Imagine taking out a loan at 4.7% and watching your rate climb to 14%.\n\nThat’s what happened to USDC borrowers on Aave in Apr…",
-  "url": "https://x.com/lmrankhan/status/2123438159266525590",
+  "created_at": "2026-11-20T15:49:06.000Z",
+  "text": "RT @alliance: @WallibApp  (ALL18) lets Latino immigrants get paid in dollars and send pesos home in seconds.\n\nCustomers get their own U.S.…",
+  "url": "https://x.com/lmrankhan/status/2123805844362178814",
   "likes": 0,
-  "retweets": 16,
+  "retweets": 5,
   "replies": 0,
   "quotes": 0,
-  "impressions": 606,
+  "impressions": 578,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123435204643602873",
-   "text": "Imagine taking out a loan at 4.7% and watching your rate climb to 14%.\n\nThat’s what happened to USDC borrowers on Aave in April.\n\nIntroducing @KairosSwap (ALL15), an onchain market for interest rate swaps. Borrowers can lock in the rate they pay and lenders can lock in the yield https://t.co/UaxPWWzGJV"
-  }
- },
- {
-  "id": "2123438703037296666",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "reply",
-  "created_at": "2026-11-19T15:30:13.000Z",
-  "text": "@KairosSwap @alliance lfg",
-  "url": "https://x.com/lmrankhan/status/2123438703037296666",
-  "likes": 3,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 132,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2123436371805098384",
-   "text": "@alliance Thanks @alliance you guys played a huge role in getting us here. Appreciate all the support\n\nTime for DeFi to LOCK IN rates"
-  }
- },
- {
-  "id": "2123487826415350247",
-  "username": "lmrankhan",
-  "username_canon": "lmrankhan",
-  "type": "retweet",
-  "created_at": "2026-11-19T18:45:24.000Z",
-  "text": "RT @numoforex: https://t.co/Ox6AoU4e1w",
-  "url": "https://x.com/lmrankhan/status/2123487826415350247",
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 712,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2123477370225213468",
-   "text": "https://t.co/Ox6AoU4e1w"
+   "id": "2123805603659169892",
+   "text": "@WallibApp  (ALL18) lets Latino immigrants get paid in dollars and send pesos home in seconds.\n\nCustomers get their own U.S. account details for their paycheck. They can keep their balance in dollars, spend it with a Visa card, and convert just what they want to send to family in https://t.co/pzsZsHHt3m"
   }
  }
 ]

@@ -1,153 +1,152 @@
-# @DefiIgnas — посты за 2026-11-20
+# @DefiIgnas — посты за 2026-11-21
 
-Всего: 15
+Всего: 17
 
-## 2026-11-19 08:12 UTC · ответ
+## 2026-11-20 10:58 UTC · ответ
 
-@inversebrah I’m serious
+Still 40 invites left
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 552  
-https://x.com/DefiIgnas/status/2123328558689071496
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1019  
+https://x.com/DefiIgnas/status/2123732774120984655
 
-## 2026-11-19 09:45 UTC · пост
+## 2026-11-20 14:11 UTC · цитата
 
-Gold is failing at 'haven asset' is saving Bitcoin's face.
+Crypto cards have great PMF and will grow because:
 
-Despite inflation, Iran war, sovereign debt risks etc. gold down 13.5% YTD.
+1) Banks require source of funds documents for even 5 figure withdrawals now. And Crypto is still a dirty word for many banks
 
-In truth, increasing retail participation changed the market. Everything trades on vibes and sentiment.
+2) tax evasion
 
-Gold like BTC are boring when so much https://t.co/GdtpIk80aL
+These cards adding stocks &amp; yield products so we don't need to leave the 'gray https://t.co/1e5DfEfLWm
 
-❤ 75 · 🔁 0 · 💬 46 · цитат 0 · просмотров 8300  
-https://x.com/DefiIgnas/status/2123351955913236652
+❤ 79 · 🔁 6 · 💬 27 · цитат 0 · просмотров 8958  
+https://x.com/DefiIgnas/status/2123781185943769466
 
-## 2026-11-19 10:21 UTC · пост
+## 2026-11-20 14:41 UTC · цитата
 
-Ethena Pay finally has referral links. No more DMing me for a code :)
+I asked ChatGPT the best asset to benefit from growth of tokenization:
 
-Use mine and we both get $30 once you qualify as an active user.
+It recommended me Deutsche Boerse stocks. https://t.co/nJPL3znR6S
 
-https://t.co/jq0yccmVUP
+❤ 56 · 🔁 0 · 💬 19 · цитат 0 · просмотров 7629  
+https://x.com/DefiIgnas/status/2123788935868617088
 
-As reminder you get
-- Up to 5% cashback in AVAX
-- Earn+  up to 12% APY
-- Good for non-usd spends: ~1% fx fee, no
+## 2026-11-20 14:46 UTC · ответ
 
-❤ 80 · 🔁 4 · 💬 32 · цитат 0 · просмотров 10258  
-https://x.com/DefiIgnas/status/2123361030332109127
+@TrustlessState Demand comes from retail degens who believe the SoV story 
 
-## 2026-11-19 14:22 UTC · пост
+If story is good they buy. Playing on missing ZEC trade and collapse of BTC gives sexiness to the story
 
-Hyperliquid is turning crypto natives into stock traders.
+Also, don't underestimate MMs from Israel
 
-I bet CT excitement for SPCX or $ANT would be much lower without HL's tradfi perps.
+❤ 16 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1204  
+https://x.com/DefiIgnas/status/2123789998822449545
 
-It's a nice way to grow up as a crypto degen. We marry, get children and diversify into 'safer' assets lol
+## 2026-11-20 15:44 UTC · пост
 
-We built all this infra for
+Welcome back $5*k USD bitcoin.
 
-❤ 102 · 🔁 1 · 💬 37 · цитат 0 · просмотров 8785  
-https://x.com/DefiIgnas/status/2123421547511640570
+Didn't expect to see it again. And so soon.
 
-## 2026-11-19 14:25 UTC · цитата
+❤ 143 · 🔁 0 · 💬 37 · цитат 1 · просмотров 9273  
+https://x.com/DefiIgnas/status/2123804659798175941
 
-My portfolio from 2019...
+## 2026-11-20 15:46 UTC · ответ
 
-Blockfolio to this date is (was) best portfolio app.
+@moo9000 I asked what about ETH?
 
-Shame FTX brought it down together. https://t.co/uTEw2RrLaF https://t.co/sMpt63l0rr
+It sent me suicide prevention phone number
 
-❤ 148 · 🔁 2 · 💬 38 · цитат 0 · просмотров 14857  
-https://x.com/DefiIgnas/status/2123422366185177510
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 223  
+https://x.com/DefiIgnas/status/2123805202062999774
 
-## 2026-11-19 14:27 UTC · ответ
+## 2026-11-20 16:32 UTC · ответ
 
-@ufukdogancrypto doesnt matter. they cant fight innovation
+@fintechfrank Don't forget about the yield and dividends on btc we earned while holding
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 175  
-https://x.com/DefiIgnas/status/2123422975458500996
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 914  
+https://x.com/DefiIgnas/status/2123816657894212050
 
-## 2026-11-19 14:31 UTC · ответ
+## 2026-11-20 17:07 UTC · ответ
 
-@TrustlessState @zerion well, there are many assets you won't be able to track: native btc, zec, and many more.
+@Pickle_cRypto Somehow? it is the base case to lose.
 
-I use Delta but i dont love it. many newly launched tokens not available anymore
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 433  
+https://x.com/DefiIgnas/status/2123825450845691987
 
-❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 429  
-https://x.com/DefiIgnas/status/2123423926512701669
+## 2026-11-20 19:14 UTC · ответ
 
-## 2026-11-19 14:33 UTC · ответ
+@coinmamba and Trump cartel
 
-@TrustlessState @zerion @infinex @near_intents Near intents are amazing but i just love holding native assets.
+❤ 39 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1556  
+https://x.com/DefiIgnas/status/2123857635292127299
 
-how they originally were designed to be used
+## 2026-11-20 20:16 UTC · пост
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 245  
-https://x.com/DefiIgnas/status/2123424384572678530
+weirdly I feel excited on the dump even when i lose money
 
-## 2026-11-19 14:35 UTC · ответ
+Sad for crypto, but seeing stocks and gold FINALLY dropping together makes me want to look for bargains trades.
 
-@0xNairolf on the roadmap actually
+Checking how REKT alts are down and working on a shopping list.
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 312  
-https://x.com/DefiIgnas/status/2123425008626082202
+❤ 129 · 🔁 3 · 💬 27 · цитат 0 · просмотров 10015  
+https://x.com/DefiIgnas/status/2123873233535737989
 
-## 2026-11-19 19:34 UTC · ответ
+## 2026-11-20 20:22 UTC · ответ
 
-@fluidkey @bjnpck Rekt :(
+@Lexioryn Only got $HYPE for now.
 
-❤ 2 · 🔁 1 · 💬 0 · цитат 0 · просмотров 954  
-https://x.com/DefiIgnas/status/2123500079101161912
+Looking at $DRV and actually even $SKY coz they are doing emergency buybacks
 
-## 2026-11-19 21:39 UTC · пост
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 344  
+https://x.com/DefiIgnas/status/2123874595958911019
 
-Can Sky ecosystem go to zero?
+## 2026-11-20 20:30 UTC · цитата
 
-Noticing that a lot of FUD mixes up USDS, sUSDS and stUSDS.
+common sentiment, it seems https://t.co/gD5UKlCl2J
 
-And Sky is complex.
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1117  
+https://x.com/DefiIgnas/status/2123876610139210063
 
-First, remember that MakerDAO rebranded to Sky. DAI still exists, while USDS is the new shiny stable.
+## 2026-11-20 20:38 UTC · ответ
 
-The system is now backed by a mix of crypto collateral, other https://t.co/ETnhXHsg0i
+@toly Made me lol, banger
 
-❤ 101 · 🔁 5 · 💬 29 · цитат 2 · просмотров 12557  
-https://x.com/DefiIgnas/status/2123531576923586803
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 617  
+https://x.com/DefiIgnas/status/2123878661531082936
 
-## 2026-11-19 21:39 UTC · ответ
+## 2026-11-20 20:58 UTC · пост
 
-USDS circulating supply is down by 36% over the 30 days. https://t.co/riqv8WfdbH
+Don't be angry at BTC for dumping 6% today when $QQQ is -5.8%, $SPX -4%, and $NVDA -14%!
 
-❤ 11 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1686  
-https://x.com/DefiIgnas/status/2123531591700083097
+Actually, I'm kinda impressed.
 
-## 2026-11-19 21:39 UTC · цитата
+Gives hope that crypto bottoms before equities do.
 
-Even the big FUDooor Marc is comfy in Sky https://t.co/el73nzqxTv
+❤ 188 · 🔁 2 · 💬 23 · цитат 1 · просмотров 9654  
+https://x.com/DefiIgnas/status/2123883823469363233
 
-❤ 9 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1466  
-https://x.com/DefiIgnas/status/2123531603553235427
+## 2026-11-20 21:05 UTC · ответ
 
-## 2026-11-19 22:30 UTC · репост
+@edzitron did you short it?
 
-RT @DefiIgnas: Ethena Pay finally has referral links. No more DMing me for a code :)
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 334  
+https://x.com/DefiIgnas/status/2123885448225292368
 
-Use mine and we both get $30 once you qualify as an a…
+## 2026-11-20 21:31 UTC · ответ
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2123544359207641272
+@LynAldenContact Being flat is the new up
 
-## 2026-11-20 06:59 UTC · репост
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 719  
+https://x.com/DefiIgnas/status/2123892008045437096
 
-RT @DefiIgnas: Can Sky ecosystem go to zero?
+## 2026-11-20 22:55 UTC · пост
 
-Noticing that a lot of FUD mixes up USDS, sUSDS and stUSDS.
+There's no bear market for $HYPE holder revenue.
 
-And Sky is complex.
+Stable since 2025. Market volatility is even bullish.
 
-First, reme…
+The general apathy and traders abandoning markets is a bear case though. https://t.co/DUheQplQHx
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2123672627395063938
+❤ 115 · 🔁 1 · 💬 19 · цитат 2 · просмотров 8753  
+https://x.com/DefiIgnas/status/2123913027183374382

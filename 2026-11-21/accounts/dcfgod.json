@@ -1,0 +1,107 @@
+[
+ {
+  "id": "2123801872599506944",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "original",
+  "created_at": "2026-11-20T15:33:19.000Z",
+  "text": ":(",
+  "url": "https://x.com/dcfgod/status/2123801872599506944",
+  "likes": 75,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 6215,
+  "bookmarks": 1
+ },
+ {
+  "id": "2123935331154358486",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "original",
+  "created_at": "2026-11-21T00:23:38.000Z",
+  "text": "GTA sounding a little to real today https://t.co/ttng5naVQd",
+  "url": "https://x.com/dcfgod/status/2123935331154358486",
+  "likes": 23,
+  "retweets": 0,
+  "replies": 8,
+  "quotes": 0,
+  "impressions": 2785,
+  "bookmarks": 1
+ },
+ {
+  "id": "2123948429189824649",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "quote",
+  "created_at": "2026-11-21T01:15:41.000Z",
+  "text": "Another day where the price went down but the metrics crushed \n\nIt’s like the traders forgot what happened last week \n\nNote: dcf cap holds base:0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083 https://t.co/J1UdghhjgZ",
+  "url": "https://x.com/dcfgod/status/2123948429189824649",
+  "likes": 58,
+  "retweets": 2,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 3960,
+  "bookmarks": 5,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123914754821599408",
+   "text": "Welcome to all the new traders finding their home onchain at @DeriveXYZ 🤝\n\n$252M volume in 24h on the largest onchain options exchange, with the deepest liquidity onchain.\n\n🔥 Top markets: BTC options · ETH options · BTC perps\n\n• 90% of onchain options OI\n• $46B+ all-time https://t.co/IFojo8vJaA"
+  }
+ },
+ {
+  "id": "2123959519311245397",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "original",
+  "created_at": "2026-11-21T01:59:45.000Z",
+  "text": "Still got a few days left in the week and @DeriveXYZ is looking like it's about to have back to back all time high fee generating weeks \n\nnote: dcf cap holds base:0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083 https://t.co/w9NR5UcwBM",
+  "url": "https://x.com/dcfgod/status/2123959519311245397",
+  "likes": 65,
+  "retweets": 0,
+  "replies": 16,
+  "quotes": 0,
+  "impressions": 3453,
+  "bookmarks": 3
+ },
+ {
+  "id": "2123972801187205595",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-21T02:52:31.000Z",
+  "text": "RT @0x_Atreyu: Size is no issue for @DeriveXYZ's RFQ for onchain options.\n\nDerive has 30+ market makers connected to its RFQ, including som…",
+  "url": "https://x.com/dcfgod/status/2123972801187205595",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1080,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123968450334953608",
+   "text": "Size is no issue for @DeriveXYZ's RFQ for onchain options.\n\nDerive has 30+ market makers connected to its RFQ, including some of the biggest names in the space, with serious balance sheets that can handle massive size - beyond $BTC $ETH we offer competitive prices on $HYPE, $SOL, https://t.co/7O1IJgT5MC"
+  }
+ },
+ {
+  "id": "2124019594671329668",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-21T05:58:28.000Z",
+  "text": "RT @Paymentscan: .@ether_fi is holding its next investor call on Nov 24 at 3pm UTC.\n\nIts card spend has grown faster than the market. It pr…",
+  "url": "https://x.com/dcfgod/status/2124019594671329668",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 866,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123913281882776012",
+   "text": ".@ether_fi is holding its next investor call on Nov 24 at 3pm UTC.\n\nIts card spend has grown faster than the market. It processed $141.9M in October, 4.2X its October 2025 volume, while the tracked market grew 3.0X to $1.37B. Its share increased from 7.2% to 10.3%.\n\nThat made https://t.co/QVTL2XMaAM https://t.co/BX0jjCjgw8"
+  }
+ }
+]

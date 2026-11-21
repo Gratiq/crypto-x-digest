@@ -1,22 +1,42 @@
 [
  {
-  "id": "2123532599679455367",
+  "id": "2123837532878369111",
   "username": "pythianism",
   "username_canon": "pythianism",
   "type": "retweet",
-  "created_at": "2026-11-19T21:43:19.000Z",
-  "text": "RT @OfficialLoganK: Introducing Gemini 4 Neon! Pushing the frontier across domains and punching above its model class in a meaningful way.…",
-  "url": "https://x.com/pythianism/status/2123532599679455367",
+  "created_at": "2026-11-20T17:55:01.000Z",
+  "text": "RT @0x_Osprey: Uninstall and stop using Telegram immediately across all of your devices.\n\nToday.\n\nDo not wait.",
+  "url": "https://x.com/pythianism/status/2123837532878369111",
   "likes": 0,
-  "retweets": 865,
+  "retweets": 41,
   "replies": 0,
   "quotes": 0,
-  "impressions": 763,
+  "impressions": 805,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123167791922741362",
-   "text": "Introducing Gemini 4 Neon! Pushing the frontier across domains and punching above its model class in a meaningful way. To me, Neon feels like the right balance of intelligence, speed, and usability. Available now across @GoogleAIStudio, the API, and more! https://t.co/ANqCSTEWcS"
+   "id": "2121048101696008452",
+   "text": "Uninstall and stop using Telegram immediately across all of your devices.\n\nToday.\n\nDo not wait. https://t.co/ORAO43UGzR"
+  }
+ },
+ {
+  "id": "2123876140582625715",
+  "username": "pythianism",
+  "username_canon": "pythianism",
+  "type": "reply",
+  "created_at": "2026-11-20T20:28:26.000Z",
+  "text": "@ChrisGPT I would assume the quants shorting the stock understand math",
+  "url": "https://x.com/pythianism/status/2123876140582625715",
+  "likes": 21,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 966,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123869609082106287",
+   "text": "Down 11% on the day of the Riemann hypothesis proof, we’re so blessed the market is stupid https://t.co/uroV5UFBYO"
   }
  }
 ]

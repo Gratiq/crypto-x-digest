@@ -1,97 +1,57 @@
 [
  {
-  "id": "2123371243978084374",
-  "username": "EvgenyGaevoy",
-  "username_canon": "EvgenyGaevoy",
-  "type": "retweet",
-  "created_at": "2026-11-19T11:02:09.000Z",
-  "text": "RT @JeffLadish: This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi",
-  "url": "https://x.com/EvgenyGaevoy/status/2123371243978084374",
-  "likes": 0,
-  "retweets": 558,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 1451,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2123161031241539949",
-   "text": "This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi"
-  }
- },
- {
-  "id": "2123434394463387993",
-  "username": "EvgenyGaevoy",
-  "username_canon": "EvgenyGaevoy",
-  "type": "quote",
-  "created_at": "2026-11-19T15:13:05.000Z",
-  "text": "😭😭😭😭😭 https://t.co/S2oS1elQq7",
-  "url": "https://x.com/EvgenyGaevoy/status/2123434394463387993",
-  "likes": 65,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "impressions": 10738,
-  "bookmarks": 12,
-  "referenced": {
-   "type": "quoted",
-   "id": "2123421912571301942",
-   "text": "&gt;jane street \n&gt;traders are jock types\n&gt;sbf's manager admonishes him for not wearing a shirt and tie\n\n?????????????? https://t.co/zFvrLIZ8sK"
-  }
- },
- {
-  "id": "2123469442919096646",
-  "username": "EvgenyGaevoy",
-  "username_canon": "EvgenyGaevoy",
-  "type": "retweet",
-  "created_at": "2026-11-19T17:32:22.000Z",
-  "text": "RT @bebop_dex: Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.\n\n$ANTx is now live for trading on https://t.co/maC2…",
-  "url": "https://x.com/EvgenyGaevoy/status/2123469442919096646",
-  "likes": 0,
-  "retweets": 3,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 1143,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2123469182100492575",
-   "text": "Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.\n\n$ANTx is now live for trading on https://t.co/maC2i1uaPS and via the API https://t.co/6OAuEr8grd"
-  }
- },
- {
-  "id": "2123478657117159544",
+  "id": "2123728985334935634",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "original",
-  "created_at": "2026-11-19T18:08:58.000Z",
-  "text": "https://t.co/ceIJkK08zO",
-  "url": "https://x.com/EvgenyGaevoy/status/2123478657117159544",
-  "likes": 1033,
-  "retweets": 36,
-  "replies": 60,
-  "quotes": 15,
-  "impressions": 35041,
-  "bookmarks": 43
+  "created_at": "2026-11-20T10:43:41.000Z",
+  "text": "was not planning on touching gta6 either way, but it's not on PC until \"Q1 27\" lmao what?",
+  "url": "https://x.com/EvgenyGaevoy/status/2123728985334935634",
+  "likes": 121,
+  "retweets": 0,
+  "replies": 17,
+  "quotes": 0,
+  "impressions": 16656,
+  "bookmarks": 3
  },
  {
-  "id": "2123494726414356925",
+  "id": "2123732142475866149",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "reply",
+  "created_at": "2026-11-20T10:56:14.000Z",
+  "text": "@ass_gcr as if people cant run emulators, esp with claude help \n\npiracy scares are super outdated imho, its just them wanting to double dip",
+  "url": "https://x.com/EvgenyGaevoy/status/2123732142475866149",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1153,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123731101382586548",
+   "text": "@EvgenyGaevoy they probably assume a lot of people will pirate on pc and they lose out on revenue maybe"
+  }
+ },
+ {
+  "id": "2123782614784057701",
   "username": "EvgenyGaevoy",
   "username_canon": "EvgenyGaevoy",
   "type": "retweet",
-  "created_at": "2026-11-19T19:12:50.000Z",
-  "text": "RT @base: Every trade needs someone on the other side\n\nWe sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wi…",
-  "url": "https://x.com/EvgenyGaevoy/status/2123494726414356925",
+  "created_at": "2026-11-20T14:16:47.000Z",
+  "text": "RT @base: Onchain markets need liquidity\n\nBetween January and September 2026, @wintermute_t traded more than $70B on Base\n\nFind out how ↓ h…",
+  "url": "https://x.com/EvgenyGaevoy/status/2123782614784057701",
   "likes": 0,
-  "retweets": 16,
+  "retweets": 31,
   "replies": 0,
   "quotes": 0,
-  "impressions": 1085,
+  "impressions": 1173,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123490396747563253",
-   "text": "Every trade needs someone on the other side\n\nWe sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wintermute keeps markets liquid on Base https://t.co/C6cXJVKfn6"
+   "id": "2123767963153264797",
+   "text": "Onchain markets need liquidity\n\nBetween January and September 2026, @wintermute_t traded more than $70B on Base\n\nFind out how ↓ https://t.co/MeahDuDRR4"
   }
  }
 ]

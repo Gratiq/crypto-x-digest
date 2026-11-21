@@ -1,111 +1,82 @@
-# @Route2FI — посты за 2026-11-20
+# @Route2FI — посты за 2026-11-21
 
-Всего: 14
+Всего: 9
 
-## 2026-11-19 14:28 UTC · цитата
+## 2026-11-20 09:28 UTC · пост
 
-Phantom is running a $40k Anthropic perps comp until Nov 25, and ANT volume counts 5x toward your score rn.
+We're now 407 days past the $126k top. That makes this the longest $BTC bear market on record, even though the drawdown, around 55% at the June low, is the mildest one yet.
 
-Your score is your PnL multiplied by the square root of your volume, so the more you trade ANT, the bigger your multiplier. 
+One thing that could challenge the 4-year cycle, IMO: $BTC has only ever existed in easy mode. It was born
 
-Cool to see wallets getting more into trading https://t.co/yzCNKsJJtK
+❤ 379 · 🔁 21 · 💬 48 · цитат 4 · просмотров 47330  
+https://x.com/Route2FI/status/2123709945522663788
 
-❤ 194 · 🔁 7 · 💬 9 · цитат 0 · просмотров 8079  
-https://x.com/Route2FI/status/2123423226856374293
+## 2026-11-20 09:56 UTC · ответ
 
-## 2026-11-19 15:01 UTC · цитата
+@goodalexander We need a new goodalexander AI video to save the market
 
-Pretty much agree that the VC money has moved to AI. You see it everywhere rn. Anthropic's IPO is sucking up attention, miners are pivoting to AI data centers, and the funds that used to write big crypto checks are now pitching AI deals.
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 949  
+https://x.com/Route2FI/status/2123717078071009642
 
-But I'm not sure fewer 10B+ TGEs is all https://t.co/RULTDtxrD4
+## 2026-11-20 12:17 UTC · цитата
 
-❤ 188 · 🔁 8 · 💬 14 · цитат 0 · просмотров 13808  
-https://x.com/Route2FI/status/2123431356101251542
+While I agree that it is really hard to grow here, I think we all need a purpose beyond money to stay on Twitter.
 
-## 2026-11-19 15:08 UTC · ответ
+I joined Twitter at the start of 2019 with no intention to earn money from it. Actually, I didn't earn anything in the first 2 years. I saw it as a platform where https://t.co/878LC1mRmy
 
-@hooeem 🏆
+❤ 63 · 🔁 3 · 💬 17 · цитат 0 · просмотров 21430  
+https://x.com/Route2FI/status/2123752503162372443
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 290  
-https://x.com/Route2FI/status/2123433203734286509
+## 2026-11-20 12:40 UTC · ответ
 
-## 2026-11-19 16:11 UTC · ответ
+@oxtochi gg man
 
-@grebby real
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 178  
+https://x.com/Route2FI/status/2123758434185076896
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 201  
-https://x.com/Route2FI/status/2123449180203204972
+## 2026-11-20 15:43 UTC · пост
 
-## 2026-11-19 16:12 UTC · ответ
+We're actually going for new lows, aren't we...been a while since we saw $59k for bitcoin:native. https://t.co/oTYM2ibXcK
 
-https://t.co/wGQtoAXkHg
+❤ 81 · 🔁 7 · 💬 11 · цитат 1 · просмотров 9770  
+https://x.com/Route2FI/status/2123804511282041243
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 887  
-https://x.com/Route2FI/status/2123449229892886746
+## 2026-11-20 16:11 UTC · пост
 
-## 2026-11-19 16:37 UTC · пост
+Most people still dismiss prediction markets as glorified sports betting or degenerate gambling.
 
-Out of all the interesting people I know, there seems to be a common denominator that they have spent a lot of time alone at some point in their lives, just figuring out exactly what they want to focus on. And then they just went 100% for it, even if society told them it wouldn't
+In reality, they act as real-time probability engines that price in geopolitical escalations and macro shifts faster than traditional newsrooms can even draft a headline.
 
-❤ 266 · 🔁 12 · 💬 15 · цитат 1 · просмотров 11963  
-https://x.com/Route2FI/status/2123455519281094749
+When https://t.co/ojOSAjVAQR
 
-## 2026-11-19 16:56 UTC · ответ
+❤ 169 · 🔁 10 · 💬 8 · цитат 0 · просмотров 18716  
+https://x.com/Route2FI/status/2123811356340113877
 
-@sibeleth Is this a spy?
+## 2026-11-20 16:12 UTC · репост
 
-❤ 16 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1586  
-https://x.com/Route2FI/status/2123460419142471720
+RT @Route2FI: Most people still dismiss prediction markets as glorified sports betting or degenerate gambling.
 
-## 2026-11-19 17:12 UTC · ответ
+In reality, they act as rea…
 
-@xbt2027 Hell yes
+❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/Route2FI/status/2123811654148473212
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 326  
-https://x.com/Route2FI/status/2123464444235952500
+## 2026-11-20 17:22 UTC · пост
 
-## 2026-11-19 17:12 UTC · цитата
+Epoch 5 points are out for @TxFlow_L1. 1.25M points went to 5,800 accounts.
 
-I never got anywhere near Anthropic's private rounds. Those went to VCs and sovereign funds.
+The app caught up with the web version too: MFA, vaults, leaderboard, mark price charts, and slippage protection are all on mobile now.
 
-Today it lists on Nasdaq, and @Ondo just listed it onchain as ANTon. That's exposure to Anthropic's stock from day one for eligible investors outside the US, and you can hold it in a https://t.co/qg04lAHHUG
+You can also close a prediction market position before the event
 
-❤ 317 · 🔁 3 · 💬 7 · цитат 0 · просмотров 17852  
-https://x.com/Route2FI/status/2123464512535970084
+❤ 136 · 🔁 7 · 💬 6 · цитат 0 · просмотров 21096  
+https://x.com/Route2FI/status/2123829246275539029
 
-## 2026-11-19 17:18 UTC · ответ
+## 2026-11-20 17:46 UTC · пост
 
-@rektdiomedes 5 year bear market?? :( :(
+Even the best assets are struggling in this market. 
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 379  
-https://x.com/Route2FI/status/2123466018748322216
+$HYPE down almost 40% in the last 3 weeks. https://t.co/rN8cAcEsQV
 
-## 2026-11-19 23:18 UTC · пост
-
-Bitcoin has been gaslighting sensible people for over a decade now. In what feels like a sick game, supposedly intelligent people told us that it was wise to pay $100,000 for... well, nothing.
-
-Bitcoin valued at $1 is too much. Maybe we'll get there eventually. I suspect we'll
-
-❤ 237 · 🔁 11 · 💬 65 · цитат 6 · просмотров 46100  
-https://x.com/Route2FI/status/2123556652989259784
-
-## 2026-11-19 23:33 UTC · ответ
-
-@XennialTrader It is the best shitpost I have read in a while, had to make a pasta
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2583  
-https://x.com/Route2FI/status/2123560418253975907
-
-## 2026-11-19 23:34 UTC · цитата
-
-Best pasta I have seen in a while: https://t.co/XI0KtqU0aE
-
-❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 4449  
-https://x.com/Route2FI/status/2123560530677805499
-
-## 2026-11-19 23:36 UTC · ответ
-
-@altmooncoin Don’t do it man! Life is more than this, and you know it.
-
-❤ 29 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2667  
-https://x.com/Route2FI/status/2123561171722870999
+❤ 110 · 🔁 4 · 💬 16 · цитат 0 · просмотров 9212  
+https://x.com/Route2FI/status/2123835409553613042

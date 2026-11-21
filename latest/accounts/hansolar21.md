@@ -1,37 +1,17 @@
-# @hansolar21 — посты за 2026-11-20
+# @hansolar21 — посты за 2026-11-21
 
-Всего: 4
+Всего: 2
 
-## 2026-11-19 13:23 UTC · репост
+## 2026-11-20 08:58 UTC · ответ
 
-RT @rachit: New Episode with @hansolar21 from @variational_io 
+@zeroxkyle Hynix? 😭
 
-We Discuss:
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 508  
+https://x.com/hansolar21/status/2123702557818474795
 
-- Upcoming TGE
-- Variational's Broker Model, Options and Pro
--…
+## 2026-11-21 00:38 UTC · репост
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1217  
-https://x.com/hansolar21/status/2123406743455863155
+RT @charliebilello: The current drawdown of -12% is a run-of-the-mill correction for the US equity market. The S&amp;P 500 has returned an aver…
 
-## 2026-11-20 00:50 UTC · ответ
-
-@mattbcapital @arcus_xyz Congrats Matt!
-
-❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 560  
-https://x.com/hansolar21/status/2123579755719213215
-
-## 2026-11-20 06:02 UTC · ответ
-
-@Wild_Randomness how about data centers under water?
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 271  
-https://x.com/hansolar21/status/2123658165858553964
-
-## 2026-11-20 07:18 UTC · цитата
-
-see you next summer guys 😭 https://t.co/v64YW727Lm
-
-❤ 24 · 🔁 3 · 💬 4 · цитат 0 · просмотров 1108  
-https://x.com/hansolar21/status/2123677228529787231
+❤ 0 · 🔁 141 · 💬 0 · цитат 0 · просмотров 970  
+https://x.com/hansolar21/status/2123939109643460775

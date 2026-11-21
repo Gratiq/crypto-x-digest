@@ -1,10 +1,21 @@
-# @pythianism — посты за 2026-11-20
+# @pythianism — посты за 2026-11-21
 
-Всего: 1
+Всего: 2
 
-## 2026-11-19 21:43 UTC · репост
+## 2026-11-20 17:55 UTC · репост
 
-RT @OfficialLoganK: Introducing Gemini 4 Neon! Pushing the frontier across domains and punching above its model class in a meaningful way.…
+RT @0x_Osprey: Uninstall and stop using Telegram immediately across all of your devices.
 
-❤ 0 · 🔁 865 · 💬 0 · цитат 0 · просмотров 763  
-https://x.com/pythianism/status/2123532599679455367
+Today.
+
+Do not wait.
+
+❤ 0 · 🔁 41 · 💬 0 · цитат 0 · просмотров 805  
+https://x.com/pythianism/status/2123837532878369111
+
+## 2026-11-20 20:28 UTC · ответ
+
+@ChrisGPT I would assume the quants shorting the stock understand math
+
+❤ 21 · 🔁 0 · 💬 0 · цитат 0 · просмотров 966  
+https://x.com/pythianism/status/2123876140582625715

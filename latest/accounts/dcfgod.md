@@ -1,67 +1,55 @@
-# @dcfgod — посты за 2026-11-20
+# @dcfgod — посты за 2026-11-21
 
-Всего: 8
+Всего: 6
 
-## 2026-11-19 14:50 UTC · репост
+## 2026-11-20 15:33 UTC · пост
 
-RT @josefabregab: I'm often asked why so much conviction on @ether_fi.
+:(
 
-It's quite simple: card revenue is driven by actual card usage, whi…
+❤ 75 · 🔁 0 · 💬 3 · цитат 0 · просмотров 6215  
+https://x.com/dcfgod/status/2123801872599506944
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1402  
-https://x.com/dcfgod/status/2123428607402094984
+## 2026-11-21 00:23 UTC · пост
 
-## 2026-11-19 15:28 UTC · репост
+GTA sounding a little to real today https://t.co/ttng5naVQd
 
-RT @AnthropicAI: https://t.co/Xa0ucYLnMN
+❤ 23 · 🔁 0 · 💬 8 · цитат 0 · просмотров 2785  
+https://x.com/dcfgod/status/2123935331154358486
 
-❤ 0 · 🔁 8387 · 💬 0 · цитат 0 · просмотров 1352  
-https://x.com/dcfgod/status/2123438343652589904
+## 2026-11-21 01:15 UTC · цитата
 
-## 2026-11-19 16:25 UTC · репост
+Another day where the price went down but the metrics crushed 
 
-RT @Nomaticcap: I thought I was an @ether_fi power user, but @keegan_selby runs five business lines from a 7-figure crypto treasury.
+It’s like the traders forgot what happened last week 
 
-His g…
+Note: dcf cap holds base:0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083 https://t.co/J1UdghhjgZ
 
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 1374  
-https://x.com/dcfgod/status/2123452651014963359
+❤ 58 · 🔁 2 · 💬 9 · цитат 0 · просмотров 3960  
+https://x.com/dcfgod/status/2123948429189824649
 
-## 2026-11-19 19:20 UTC · пост
+## 2026-11-21 01:59 UTC · пост
 
-After finishing like 12% of the game - it’s gotten fun
+Still got a few days left in the week and @DeriveXYZ is looking like it's about to have back to back all time high fee generating weeks 
 
-These Twitter npcs have latched onto the slow start but it’s mostly all cap and none of it mandatory
+note: dcf cap holds base:0x9d0e8f5b25384c7310cb8c6ae32c8fbeb645d083 https://t.co/w9NR5UcwBM
 
-House repair optional, Lucia romance missions optional, protein and lifting optional… doing some of these has been fun
+❤ 65 · 🔁 0 · 💬 16 · цитат 0 · просмотров 3453  
+https://x.com/dcfgod/status/2123959519311245397
 
-❤ 1780 · 🔁 78 · 💬 85 · цитат 5 · просмотров 89393  
-https://x.com/dcfgod/status/2123496714732720334
+## 2026-11-21 02:52 UTC · репост
 
-## 2026-11-19 20:01 UTC · ответ
+RT @0x_Atreyu: Size is no issue for @DeriveXYZ's RFQ for onchain options.
 
-@Houseofyogi Pro
+Derive has 30+ market makers connected to its RFQ, including som…
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3777  
-https://x.com/dcfgod/status/2123506865829245190
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 1080  
+https://x.com/dcfgod/status/2123972801187205595
 
-## 2026-11-19 21:47 UTC · ответ
+## 2026-11-21 05:58 UTC · репост
 
-@ii_analyze This
+RT @Paymentscan: .@ether_fi is holding its next investor call on Nov 24 at 3pm UTC.
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3913  
-https://x.com/dcfgod/status/2123533642316263431
+Its card spend has grown faster than the market. It pr…
 
-## 2026-11-19 21:48 UTC · ответ
-
-@seahawksahoy Made me smile and didn’t overstay its welcome
-
-❤ 10 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2783  
-https://x.com/dcfgod/status/2123533811959078931
-
-## 2026-11-20 04:47 UTC · репост
-
-RT @domdosu: Despite challenging market conditions, @dreaming has climbed to #2 in weekly notional trading volume among tracked crypto opti…
-
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 989  
-https://x.com/dcfgod/status/2123639230757044535
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 866  
+https://x.com/dcfgod/status/2124019594671329668

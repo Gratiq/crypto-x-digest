@@ -1,42 +1,30 @@
-# @EvgenyGaevoy — посты за 2026-11-20
+# @EvgenyGaevoy — посты за 2026-11-21
 
-Всего: 5
+Всего: 3
 
-## 2026-11-19 11:02 UTC · репост
+## 2026-11-20 10:43 UTC · пост
 
-RT @JeffLadish: This is not the correct takeaway from Lord of the Rings https://t.co/LU7JW4w6Oi
+was not planning on touching gta6 either way, but it's not on PC until "Q1 27" lmao what?
 
-❤ 0 · 🔁 558 · 💬 0 · цитат 0 · просмотров 1451  
-https://x.com/EvgenyGaevoy/status/2123371243978084374
+❤ 121 · 🔁 0 · 💬 17 · цитат 0 · просмотров 16656  
+https://x.com/EvgenyGaevoy/status/2123728985334935634
 
-## 2026-11-19 15:13 UTC · цитата
+## 2026-11-20 10:56 UTC · ответ
 
-😭😭😭😭😭 https://t.co/S2oS1elQq7
+@ass_gcr as if people cant run emulators, esp with claude help 
 
-❤ 65 · 🔁 0 · 💬 2 · цитат 0 · просмотров 10738  
-https://x.com/EvgenyGaevoy/status/2123434394463387993
+piracy scares are super outdated imho, its just them wanting to double dip
 
-## 2026-11-19 17:32 UTC · репост
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1153  
+https://x.com/EvgenyGaevoy/status/2123732142475866149
 
-RT @bebop_dex: Get exposure to tokenized Anthropic on Day 1 of public trading on Bebop.
+## 2026-11-20 14:16 UTC · репост
 
-$ANTx is now live for trading on https://t.co/maC2…
+RT @base: Onchain markets need liquidity
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1143  
-https://x.com/EvgenyGaevoy/status/2123469442919096646
+Between January and September 2026, @wintermute_t traded more than $70B on Base
 
-## 2026-11-19 18:08 UTC · пост
+Find out how ↓ h…
 
-https://t.co/ceIJkK08zO
-
-❤ 1033 · 🔁 36 · 💬 60 · цитат 15 · просмотров 35041  
-https://x.com/EvgenyGaevoy/status/2123478657117159544
-
-## 2026-11-19 19:12 UTC · репост
-
-RT @base: Every trade needs someone on the other side
-
-We sat down with @EvgenyGaevoy, Founder and CEO of @wintermute_t, to find out how Wi…
-
-❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 1085  
-https://x.com/EvgenyGaevoy/status/2123494726414356925
+❤ 0 · 🔁 31 · 💬 0 · цитат 0 · просмотров 1173  
+https://x.com/EvgenyGaevoy/status/2123782614784057701
