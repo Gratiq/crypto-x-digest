@@ -1,45 +1,35 @@
-# @bon_g — посты за 2026-11-21
+# @bon_g — посты за 2026-11-22
 
-Всего: 6
+Всего: 4
 
-## 2026-11-20 14:25 UTC · ответ
+## 2026-11-21 08:45 UTC · ответ
 
-@TimOnSol_ 🫡
+@meilinxbt @blknoiz06 larp
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 56  
-https://x.com/bon_g/status/2123784762376794439
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 162  
+https://x.com/bon_g/status/2124061636109676986
 
-## 2026-11-20 16:05 UTC · пост
+## 2026-11-21 11:16 UTC · пост
 
-stop selling you fucks i have a family to feed
+Seville derby today
 
-❤ 75 · 🔁 6 · 💬 29 · цитат 0 · просмотров 1722  
-https://x.com/bon_g/status/2123809971985154546
+Betis are in much better form and I don’t see Sevilla stopping them
 
-## 2026-11-20 16:08 UTC · цитата
+Real Betis win away @ 2.38 🟢⚪️ https://t.co/XvCwwx8boi
 
-@Pumpfun there is no money left ily https://t.co/nsCFCHNb4A
+❤ 99 · 🔁 14 · 💬 64 · цитат 0 · просмотров 4494  
+https://x.com/bon_g/status/2124099610561941616
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 140  
-https://x.com/bon_g/status/2123810737235935519
+## 2026-11-21 14:57 UTC · цитата
 
-## 2026-11-20 18:18 UTC · ответ
+https://t.co/WXxSgg9gmd https://t.co/XOlRGTt6Mr
 
-@ipaincharts gta6, short and chill
+❤ 239 · 🔁 20 · 💬 28 · цитат 0 · просмотров 9937  
+https://x.com/bon_g/status/2124155169214722302
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 63  
-https://x.com/bon_g/status/2123843510877175944
+## 2026-11-22 00:04 UTC · ответ
 
-## 2026-11-20 20:38 UTC · пост
+@benny_flaco :(
 
-https://t.co/T1uNG43lt4
-
-❤ 54 · 🔁 3 · 💬 27 · цитат 0 · просмотров 1146  
-https://x.com/bon_g/status/2123878776144597036
-
-## 2026-11-20 22:02 UTC · пост
-
-100k is the new 10m
-
-❤ 78 · 🔁 10 · 💬 32 · цитат 0 · просмотров 1515  
-https://x.com/bon_g/status/2123899888027197890
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 181  
+https://x.com/bon_g/status/2124292803501138084

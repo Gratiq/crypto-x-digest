@@ -1,0 +1,662 @@
+[
+ {
+  "id": "2124076915887882640",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-21T09:46:14.000Z",
+  "text": ".@grok come up with a hypothesis that even you couldn’t solve.",
+  "url": "https://x.com/toly/status/2124076915887882640",
+  "likes": 126,
+  "retweets": 3,
+  "replies": 2,
+  "quotes": 2,
+  "impressions": 63824,
+  "bookmarks": 4
+ },
+ {
+  "id": "2124081695079186473",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-21T10:05:14.000Z",
+  "text": "@ArthurB Sure.  The proof is useful. But there is no point for a human to toil on its minutia.  Machines discovering them will free the mind.",
+  "url": "https://x.com/toly/status/2124081695079186473",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2265,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124059893573259415",
+   "text": "@toly Think of all proofs as a DAG. Even if no one explore all the dependencies, we can understand and benefit from subgraph. The nodes are the simplifications and abstractions you're looking for."
+  }
+ },
+ {
+  "id": "2124092880742728122",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T10:49:41.000Z",
+  "text": "Omg.  Crypto speed ran tech 3 years ago. https://t.co/jNkJORFcFQ",
+  "url": "https://x.com/toly/status/2124092880742728122",
+  "likes": 292,
+  "retweets": 8,
+  "replies": 1,
+  "quotes": 4,
+  "impressions": 59628,
+  "bookmarks": 39,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123550984026951881",
+   "text": "the hottest job in tech right now is basically being good at hanging out\n\nstartups and vcs are hiring people with titles like ecosystem lead whose whole job is showing up in person. dinners, run clubs, coffee, the panel nobody wanted to go to. it sounds like a joke until you"
+  }
+ },
+ {
+  "id": "2124107705183047958",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T11:48:35.000Z",
+  "text": "The fastest way to simulate the universe is to make universe simulations a product https://t.co/6uUfx7BxCw",
+  "url": "https://x.com/toly/status/2124107705183047958",
+  "likes": 68,
+  "retweets": 4,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 27328,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123965749408760261",
+   "text": "In hindsight it's obvious that the fastest path to solving Millennium Prize Problems was to play lots of video games in order for GPUs to improve, so that ML could develop and language models could get trained. Gamers, thank you for your valuable contribution to mathematics!"
+  }
+ },
+ {
+  "id": "2124110154685915630",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T11:58:19.000Z",
+  "text": "🥊🥊🥊 https://t.co/IgsBcfI1nO",
+  "url": "https://x.com/toly/status/2124110154685915630",
+  "likes": 78,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 2,
+  "impressions": 23632,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124080393116647795",
+   "text": "Transaction pending. Verify your identity. Call your bank. Markets closed, it's Saturday.\n\nNone of that stops Solana. https://t.co/czOEuT2sZ5"
+  }
+ },
+ {
+  "id": "2124112267637903539",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T12:06:43.000Z",
+  "text": "🐜🐜🐜 https://t.co/eMnXIuqU8T",
+  "url": "https://x.com/toly/status/2124112267637903539",
+  "likes": 132,
+  "retweets": 15,
+  "replies": 1,
+  "quotes": 1,
+  "impressions": 24586,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124111085389385793",
+   "text": "BREAKING: For the first time ever, tokenized assets were the largest category of @solana spot DEX volume this week at 26%. https://t.co/SuJwcRgOrn"
+  }
+ },
+ {
+  "id": "2124121906530119719",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T12:45:01.000Z",
+  "text": ".@mert wen maple syrup trade? https://t.co/D5BJo6OOvQ",
+  "url": "https://x.com/toly/status/2124121906530119719",
+  "likes": 97,
+  "retweets": 2,
+  "replies": 1,
+  "quotes": 4,
+  "impressions": 36585,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124098562443354591",
+   "text": "Starting around 20:00 UTC on Nov 20, CAD pairs on Kraken saw heavy selling pressure that pushed prices well below other markets. Our platform processed every order correctly, and our security teams found no sign of a breach or compromised accounts. Executed trades stand."
+  }
+ },
+ {
+  "id": "2124134182809137366",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T13:33:48.000Z",
+  "text": "RT @danrobinson: OK everyone, it's time to talk about the real part of every non-trivial zero of the Riemann zeta function\n\n(1/2)",
+  "url": "https://x.com/toly/status/2124134182809137366",
+  "likes": 0,
+  "retweets": 534,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14458,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123841920065839247",
+   "text": "OK everyone, it's time to talk about the real part of every non-trivial zero of the Riemann zeta function\n\n(1/2)"
+  }
+ },
+ {
+  "id": "2124134251809620192",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-21T13:34:04.000Z",
+  "text": "@danrobinson 💀/💀",
+  "url": "https://x.com/toly/status/2124134251809620192",
+  "likes": 25,
+  "retweets": 2,
+  "replies": 13,
+  "quotes": 0,
+  "impressions": 3773,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123841920065839247",
+   "text": "OK everyone, it's time to talk about the real part of every non-trivial zero of the Riemann zeta function\n\n(1/2)"
+  }
+ },
+ {
+  "id": "2124136019159310613",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T13:41:06.000Z",
+  "text": "Omg, don’t name your fund martingale capital.  wtf https://t.co/d2FL2or09z",
+  "url": "https://x.com/toly/status/2124136019159310613",
+  "likes": 67,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 28207,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123807632343416928",
+   "text": "BREAKING: Hearing that Martingale Capital has blown up…🤭 https://t.co/QGxNHBPSSX"
+  }
+ },
+ {
+  "id": "2124136968103793107",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-21T13:44:52.000Z",
+  "text": "@krtvdept 3 hard quarters",
+  "url": "https://x.com/toly/status/2124136968103793107",
+  "likes": 17,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 0,
+  "impressions": 2885,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123904276707823975",
+   "text": "what now https://t.co/xo8myXkNv0"
+  }
+ },
+ {
+  "id": "2124152336612536558",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T14:45:56.000Z",
+  "text": "An nft collection for every 1 second clip of the “real show”.  Each nft pays for the cycles needed to generate content.  Whoever owns it can then maybe adjust something in the slice, like a shirt or hat logo.  The possibilities are endless. https://t.co/eqj5Z4e3HN",
+  "url": "https://x.com/toly/status/2124152336612536558",
+  "likes": 68,
+  "retweets": 6,
+  "replies": 2,
+  "quotes": 7,
+  "impressions": 28374,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124144957984485493",
+   "text": "we have a better casting options… https://t.co/cxHs26Sr7Y https://t.co/DOlzg2Dtap"
+  }
+ },
+ {
+  "id": "2124176582931775909",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-21T16:22:17.000Z",
+  "text": "Breaking: Jensen Huang reportedly said, “orange you glad I didn’t say banana”.",
+  "url": "https://x.com/toly/status/2124176582931775909",
+  "likes": 176,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 4,
+  "impressions": 48411,
+  "bookmarks": 4
+ },
+ {
+  "id": "2124176913719845135",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T16:23:36.000Z",
+  "text": "👑👑👑 https://t.co/wxufKGWw5d",
+  "url": "https://x.com/toly/status/2124176913719845135",
+  "likes": 53,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 21355,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124172921107255792",
+   "text": "A year ago, @Solana’s tokenized equity market had $559M in volume. This year, volume has grown 30x.\n\nIn under six months Sunrise and @Backpack listings have generated $9B+ in trading volume, accounting for 43% of the total. https://t.co/3Gh2mlkXYk"
+  }
+ },
+ {
+  "id": "2124177120482251204",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T16:24:25.000Z",
+  "text": "👑👑👑 https://t.co/8E6bQgCivn",
+  "url": "https://x.com/toly/status/2124177120482251204",
+  "likes": 224,
+  "retweets": 10,
+  "replies": 0,
+  "quotes": 3,
+  "impressions": 37936,
+  "bookmarks": 10,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124126150356300040",
+   "text": "Bitcoin and Ethereum fully recovered last night’s losses. You don’t even have to own Bitcoin to gain exposure to it. All major tokens trade together. If you think Bitcoin will go up, you can buy Solana instead. If you’re right Solana will rise too. That makes Bitcoin less scarce."
+  }
+ },
+ {
+  "id": "2124179362073436325",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T16:33:19.000Z",
+  "text": "RT @SolanaLegend: If tokenized equities do a 1,000x we would only be approximately 3% of the global equities market cap\n\nWe are impossibly…",
+  "url": "https://x.com/toly/status/2124179362073436325",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13757,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124178313619140640",
+   "text": "If tokenized equities do a 1,000x we would only be approximately 3% of the global equities market cap\n\nWe are impossibly early to this trend. https://t.co/aGIz6bMKE4"
+  }
+ },
+ {
+  "id": "2124184234286047654",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T16:52:41.000Z",
+  "text": "RT @jacobvcreech: Breakpoint showed how much our industry is growing up. There's obvious PMF, major players are entering, and the future of…",
+  "url": "https://x.com/toly/status/2124184234286047654",
+  "likes": 0,
+  "retweets": 19,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14162,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124179162365583401",
+   "text": "Breakpoint showed how much our industry is growing up. There's obvious PMF, major players are entering, and the future of Solana is bright.\n\nThe days prior to Breakpoint we had amazing side events for experimentation and innovation:\n- 200ms (DeFi exploration)\n- Scale or Die (Tech"
+  }
+ },
+ {
+  "id": "2124258018233893012",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T21:45:53.000Z",
+  "text": "RT @SolanaFndn: Validators, Solana governance, and Alpenglow with @TimGarcia0.",
+  "url": "https://x.com/toly/status/2124258018233893012",
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11022,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124201361650655387",
+   "text": "Validators, Solana governance, and Alpenglow with @TimGarcia0. https://t.co/tCMGkBDcCM"
+  }
+ },
+ {
+  "id": "2124259190764191984",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-21T21:50:32.000Z",
+  "text": "👑👑👑 https://t.co/HRh8H2SQgn",
+  "url": "https://x.com/toly/status/2124259190764191984",
+  "likes": 30,
+  "retweets": 4,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 18236,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124254787956850731",
+   "text": "The home of liquidity on Solana. https://t.co/20ir4u4j2n https://t.co/2ofD4ba8HB"
+  }
+ },
+ {
+  "id": "2124267637630988500",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-21T22:24:06.000Z",
+  "text": "@ArmandDoma @sarthakgh Luxury use value is less inflationary too.",
+  "url": "https://x.com/toly/status/2124267637630988500",
+  "likes": 16,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "impressions": 3025,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124241500309753876",
+   "text": "From a PR perspective, as a billionaire you are far better off blowing your money on yachts and models than you are on doing any charitable giving https://t.co/wdr3ZOIcPB"
+  }
+ },
+ {
+  "id": "2124268420955021514",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T22:27:13.000Z",
+  "text": "RT @cafreiman: https://t.co/4QBR0hTcLa",
+  "url": "https://x.com/toly/status/2124268420955021514",
+  "likes": 0,
+  "retweets": 17,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11368,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124260471062893013",
+   "text": "https://t.co/4QBR0hTcLa"
+  }
+ },
+ {
+  "id": "2124271340329095527",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-21T22:38:49.000Z",
+  "text": "RT @Austin_Federa: Props to @jacobvcreech and the Solana Foundation for being willing to have this debate in public at Scale or Die. \n\nThis…",
+  "url": "https://x.com/toly/status/2124271340329095527",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11578,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124230960162152948",
+   "text": "Props to @jacobvcreech and the Solana Foundation for being willing to have this debate in public at Scale or Die. \n\nThis was a great debate, and I hope in some small part it leads to even more IBRLing of @solana \n\nhttps://t.co/2FwAeQDwry"
+  }
+ },
+ {
+  "id": "2124303204079091790",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T00:45:26.000Z",
+  "text": "👑👑👑 https://t.co/5WxTDIhXFB",
+  "url": "https://x.com/toly/status/2124303204079091790",
+  "likes": 24,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14571,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124301459034395055",
+   "text": "⚫️⚫️⚫️ https://t.co/iCQKcAU8aY"
+  }
+ },
+ {
+  "id": "2124303418407964865",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-22T00:46:17.000Z",
+  "text": "RT @fikunmi_ap: two things:\n\n1. with MCP and priority ordering, we do not need any additional components to implement synchronous ACE. I al…",
+  "url": "https://x.com/toly/status/2124303418407964865",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10595,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124233174314287480",
+   "text": "two things:\n\n1. with MCP and priority ordering, we do not need any additional components to implement synchronous ACE. I already wrote code for ACE in an environment with CR last year. It uses transaction introspection.\n\nRead more here: https://t.co/Yny7EE2UTL\n\n2. one way to https://t.co/P3nIB3KsGz"
+  }
+ },
+ {
+  "id": "2124308706590663160",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T01:07:18.000Z",
+  "text": "What is your purpose?\n\nTo purchase toothpaste https://t.co/S5fWA4IqVd",
+  "url": "https://x.com/toly/status/2124308706590663160",
+  "likes": 57,
+  "retweets": 3,
+  "replies": 3,
+  "quotes": 2,
+  "impressions": 25455,
+  "bookmarks": 19,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124040349068964215",
+   "text": "A toothpaste company has quietly killed the entire market research industry and nobody is talking about it.\n\nColgate published a paper showing you can predict real purchase intent by simply asking LLMs to roleplay customers.\n\nAnd this is beyond insane.\n\nIf you ask an AI, \"Rate https://t.co/HTMOheVRKD"
+  }
+ },
+ {
+  "id": "2124312049262178466",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-22T01:20:35.000Z",
+  "text": "Did you know that percolator will remove the auto-liquidation code for the market admins one true love?",
+  "url": "https://x.com/toly/status/2124312049262178466",
+  "likes": 58,
+  "retweets": 2,
+  "replies": 2,
+  "quotes": 2,
+  "impressions": 24313,
+  "bookmarks": 3
+ },
+ {
+  "id": "2124320971515728112",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T01:56:02.000Z",
+  "text": "🥅🥅🥅 https://t.co/fCiY2jPDdk",
+  "url": "https://x.com/toly/status/2124320971515728112",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 14976,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124309205649850373",
+   "text": "the next big fight in crypto is financial internet vs financial intranets. who could possibly predict how this plays out https://t.co/y35qipPDTa"
+  }
+ },
+ {
+  "id": "2124323397509546495",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T02:05:40.000Z",
+  "text": "👑👑👑 https://t.co/eEk3qQE3QT",
+  "url": "https://x.com/toly/status/2124323397509546495",
+  "likes": 31,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 2,
+  "impressions": 6756,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124271989728887180",
+   "text": "phoenix mobile looking good \n\nwho wants to beta test? https://t.co/JYRlzfrcZB"
+  }
+ },
+ {
+  "id": "2124323874729050305",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T02:07:34.000Z",
+  "text": "😎😎😎 https://t.co/MDWvE8g23g",
+  "url": "https://x.com/toly/status/2124323874729050305",
+  "likes": 57,
+  "retweets": 4,
+  "replies": 1,
+  "quotes": 3,
+  "impressions": 18855,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124238041246032170",
+   "text": "Solana makes androids cool \n\nSolana makes crypto cool \n\nSolana makes overhated cities cool\n\nSolana makes crypto events cool\n\nSolana makes everything cool"
+  }
+ },
+ {
+  "id": "2124330399006650710",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-22T02:33:29.000Z",
+  "text": "My did they throw Gary under the bus, sollet was 🐐",
+  "url": "https://x.com/toly/status/2124330399006650710",
+  "likes": 30,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 2,
+  "impressions": 26911,
+  "bookmarks": 1
+ },
+ {
+  "id": "2124332284631478611",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T02:40:59.000Z",
+  "text": "👑👑👑 https://t.co/2ZQEn9qg5S",
+  "url": "https://x.com/toly/status/2124332284631478611",
+  "likes": 11,
+  "retweets": 2,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 6966,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124309224612311455",
+   "text": "That’s why call him Rajtradamus https://t.co/YJgBtyq2Xn https://t.co/3QFBcVKSAj"
+  }
+ },
+ {
+  "id": "2124334188488954082",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T02:48:33.000Z",
+  "text": "There exists a mathematical conjecture which there isn’t enough memory in the universe to formally verify.  @grok find it, make no mmstakes https://t.co/86Wz4nl268",
+  "url": "https://x.com/toly/status/2124334188488954082",
+  "likes": 42,
+  "retweets": 1,
+  "replies": 3,
+  "quotes": 3,
+  "impressions": 24904,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124168701779878169",
+   "text": "P = NP is next.\nI really hope its not true, but if it is, God help us."
+  }
+ },
+ {
+  "id": "2124341674562449551",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-22T03:18:18.000Z",
+  "text": "@rleshner My hunch is that it’s unprovable",
+  "url": "https://x.com/toly/status/2124341674562449551",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 7,
+  "quotes": 0,
+  "impressions": 3403,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124340148179468444",
+   "text": "My hunch is that we prove P != NP in 2027"
+  }
+ },
+ {
+  "id": "2124342338529153511",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-22T03:20:56.000Z",
+  "text": "Manifesting a universe where p != np is unprovable and it’s not possible to prove its unprovable https://t.co/HYwrsuUAet",
+  "url": "https://x.com/toly/status/2124342338529153511",
+  "likes": 39,
+  "retweets": 3,
+  "replies": 2,
+  "quotes": 1,
+  "impressions": 18686,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124340148179468444",
+   "text": "My hunch is that we prove P != NP in 2027"
+  }
+ }
+]

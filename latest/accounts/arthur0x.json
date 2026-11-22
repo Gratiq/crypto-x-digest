@@ -1,92 +1,22 @@
 [
  {
-  "id": "2123732200994799791",
+  "id": "2124088781443911824",
   "username": "arthur0x",
   "username_canon": "arthur0x",
   "type": "retweet",
-  "created_at": "2026-11-20T10:56:28.000Z",
-  "text": "RT @sshxbt: https://t.co/Mf8nXWYcbO",
-  "url": "https://x.com/arthur0x/status/2123732200994799791",
+  "created_at": "2026-11-21T10:33:23.000Z",
+  "text": "RT @SIBuilder: On Anthropic’s first day of trading, the way they handled things was truly disgraceful.\n\nThe initial offering price was orig…",
+  "url": "https://x.com/arthur0x/status/2124088781443911824",
   "likes": 0,
-  "retweets": 4,
+  "retweets": 1022,
   "replies": 0,
   "quotes": 0,
-  "impressions": 2125,
+  "impressions": 0,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2123597107890372714",
-   "text": "https://t.co/Mf8nXWYcbO"
-  }
- },
- {
-  "id": "2123802081492697549",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "original",
-  "created_at": "2026-11-20T15:34:09.000Z",
-  "text": "Pretty sure we will get an activist shareholder campaign to fire the entire board of $NVDA soon given where the price are going at this rate.",
-  "url": "https://x.com/arthur0x/status/2123802081492697549",
-  "likes": 585,
-  "retweets": 28,
-  "replies": 16,
-  "quotes": 1,
-  "impressions": 20808,
-  "bookmarks": 9
- },
- {
-  "id": "2123829580402434213",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "quote",
-  "created_at": "2026-11-20T17:23:25.000Z",
-  "text": "Why is Anthropic learning from the worst of crypto low float high FDV playbook? https://t.co/C6MKgBUoM6",
-  "url": "https://x.com/arthur0x/status/2123829580402434213",
-  "likes": 43,
-  "retweets": 2,
-  "replies": 9,
-  "quotes": 0,
-  "impressions": 10490,
-  "bookmarks": 11,
-  "referenced": {
-   "type": "quoted",
-   "id": "2123588103252426779",
-   "text": "In case you are wondering about ANT's circulation and unlocking schedule... https://t.co/GTbcqD70XL"
-  }
- },
- {
-  "id": "2123993689215390189",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "original",
-  "created_at": "2026-11-21T04:15:32.000Z",
-  "text": "Looking at the bright side we don't have to worry about K-shaped society as much anymore.",
-  "url": "https://x.com/arthur0x/status/2123993689215390189",
-  "likes": 123,
-  "retweets": 2,
-  "replies": 12,
-  "quotes": 0,
-  "impressions": 9511,
-  "bookmarks": 4
- },
- {
-  "id": "2124014796161089848",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "reply",
-  "created_at": "2026-11-21T05:39:24.000Z",
-  "text": "@gmoneyNFT What if they go down by 80% in the next 12 months.",
-  "url": "https://x.com/arthur0x/status/2124014796161089848",
-  "likes": 0,
-  "retweets": 0,
-  "replies": 2,
-  "quotes": 0,
-  "impressions": 546,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2124005552480993785",
-   "text": "@arthur0x I mean all the Anthropic investors are still up a million x"
+   "id": "2123637052940140986",
+   "text": "On Anthropic’s first day of trading, the way they handled things was truly disgraceful.\n\nThe initial offering price was originally set at $70–$78, but it was raised straight to $83. Not only did they raise the price, but they also increased the number of shares offered from the"
   }
  }
 ]

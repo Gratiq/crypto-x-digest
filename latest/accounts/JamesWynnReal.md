@@ -1,93 +1,302 @@
-# @JamesWynnReal — посты за 2026-11-21
+# @JamesWynnReal — посты за 2026-11-22
 
-Всего: 8
+Всего: 29
 
-## 2026-11-20 14:40 UTC · пост
+## 2026-11-21 09:16 UTC · пост
 
-I’m buying lots of Bitcoin here.
+Funny seeing on the timeline digging up very rare old bearish posts to make them look good when in reality they was bullish AF and calling for new ATHs.
  
-Way too cheap. If there’s a black swan so be it, I don’t care. I’ll buy more. 
+I said this with confidence when only me and a select few who ravenously called the top with specific price targets. Mine was
+
+❤ 48 · 🔁 1 · 💬 18 · цитат 0 · просмотров 23005  
+https://x.com/JamesWynnReal/status/2124069514270605542
+
+## 2026-11-21 09:36 UTC · пост
+
+Added another $2,000 ($20,000) 10x long on my $PUMP trade. RSI and support channels indicate a bounce here, and I see PUMP detached from the rest of the market to some degree + with the new perp rollout, how can you not be bullish..
  
-But going in heavy here. Over 50% from ATHs and $BTC is needed as a safe haven now more than ever.
+Cult-like community. A real business https://t.co/KBbc4y3IGy
 
-❤ 2545 · 🔁 103 · 💬 174 · цитат 12 · просмотров 140748  
-https://x.com/JamesWynnReal/status/2123788613372801460
+❤ 37 · 🔁 0 · 💬 21 · цитат 0 · просмотров 24282  
+https://x.com/JamesWynnReal/status/2124074474245128326
 
-## 2026-11-21 03:58 UTC · пост
+## 2026-11-21 10:50 UTC · пост
 
-Don’t fear the markets, this is a golden opportunity
+Smash the like button if we’re gonna make some money in this blood bath this weekend!
+  
+Link in bio, come join me and follow my trades. Money is all around us, it just moves from A to B.
  
-Make money when crypto pumps or dumps
- 
-I’ve told you this was coming, you should listen to me and @LayahHeilpern only
- 
-Everyone else are just NPC’s and know nothing
+Only delusional bulls say its a bad market. Make money when crypto pumps OR dumps!!! https://t.co/Me0nCPQbgR
 
-❤ 168 · 🔁 7 · 💬 33 · цитат 1 · просмотров 27882  
-https://x.com/JamesWynnReal/status/2123989515064983767
+❤ 34 · 🔁 1 · 💬 11 · цитат 0 · просмотров 20583  
+https://x.com/JamesWynnReal/status/2124093193419366788
 
-## 2026-11-21 04:19 UTC · пост
+## 2026-11-21 11:44 UTC · пост
 
-You can now tail my trades on PumpFun.
+Make money tailing my trades on PumpFun, and learn my reasoning behind each trade.
  
 https://t.co/luty3lyQYe
  
-I’m in the $1m perps open. And you can literally tail my trades. Wether I win it or not, let’s make some money.
+#TeamWynn https://t.co/VJimglj3sg
+
+❤ 17 · 🔁 0 · 💬 15 · цитат 1 · просмотров 20161  
+https://x.com/JamesWynnReal/status/2124106622360498248
+
+## 2026-11-21 12:10 UTC · пост
+
+You have to play the markets as they are
  
-- JWynnReal (on PumpFun 💊)
+Zero emotion, just logic
 
-❤ 25 · 🔁 1 · 💬 18 · цитат 1 · просмотров 18911  
-https://x.com/JamesWynnReal/status/2123994597915496555
+❤ 159 · 🔁 4 · 💬 35 · цитат 1 · просмотров 24030  
+https://x.com/JamesWynnReal/status/2124113226413875239
 
-## 2026-11-21 04:50 UTC · пост
+## 2026-11-21 12:28 UTC · пост
 
-I’am attempting a $10,000 to $1,000,000 challenge on PumpFun. It is something you all can be part of no matter if you’re beginner or advanced.
+I’am now trading perps on PumpFun.
  
-You can simply follow ‘tail’ my trades. There is no guarantee of success, but volatility is my friend.
+Come and tail / copy my trades, w/thesis behind every move I make.
  
-Follow/join me here:
-
-❤ 28 · 🔁 2 · 💬 19 · цитат 1 · просмотров 18345  
-https://x.com/JamesWynnReal/status/2124002412386242860
-
-## 2026-11-21 05:51 UTC · пост
-
-The $10k to $1m challenge is underway 🚀 
+Follow me / join here: https://t.co/je7pV8NiJm
  
-I have just entered my FIRST trade on PumpFun and added my thesis for the 10x short, see below.
+I’m turning $10,000 into $1,000,000. 
  
-https://t.co/sWM915dlB3
+Today we are already up 6.2% and the Americans are only just getting out of bed.
  
-Join me on this journey, and even tail my trades through my callouts if you believe wynn can run it back. https://t.co/xQGD7eBRNM
+#TeamWynn
 
-❤ 30 · 🔁 1 · 💬 30 · цитат 3 · просмотров 17719  
-https://x.com/JamesWynnReal/status/2124017717372125295
+❤ 14 · 🔁 2 · 💬 12 · цитат 0 · просмотров 19411  
+https://x.com/JamesWynnReal/status/2124117709625716752
 
-## 2026-11-21 06:13 UTC · пост
+## 2026-11-21 12:54 UTC · пост
 
-90% or more of retail traders lose money. This number excludes crypto / bitcoin which is probably far higher.
-   
-And in-fact a tiny 1-2% make the vast majority of the money, it takes a certain intelligence, risk tolerance and character to be one of the best.
+Small shorter time play here, with a take profit approx 60,200 $BTC. Expect a wick up as America wake up, sentiment is making people feel like they are catching the bottom. (May seem a small move but w/40x it’s OK.
  
-As harsh as it
+$60k also acts as psychological resistance. In the short-longer time frame $BTC ultimately needs to visit $48-$50k for that feeling of capitulation/reset.
+  
+#TeamWynn
 
-❤ 64 · 🔁 3 · 💬 16 · цитат 2 · просмотров 16426  
-https://x.com/JamesWynnReal/status/2124023482707230904
+❤ 153 · 🔁 3 · 💬 18 · цитат 2 · просмотров 45271  
+https://x.com/JamesWynnReal/status/2124124198742470754
 
-## 2026-11-21 06:51 UTC · пост
+## 2026-11-21 12:55 UTC · ответ
 
-This 10x $PUMP long might catch some people off guard…
+You can tail my trades on PumpFun and join me on my $10k to $1m challenge.
  
-Read and tail my trade on why I have just long:
+https://t.co/0ahClkj9m3
+
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4837  
+https://x.com/JamesWynnReal/status/2124124505484435931
+
+## 2026-11-21 13:53 UTC · цитата
+
+You see, 
  
-https://t.co/RXjMzyMi7n https://t.co/8twxF9socN
+Harnessing the power of leverage with proper risk management can provide you with lucrative gains in small periods of time.
+ 
+Join me on my $10k to $1m trading challenge. Link in bio.
+ 
+#TeamWynn https://t.co/tsKZ1UJalo https://t.co/Lteyr5nviJ
 
-❤ 9 · 🔁 2 · 💬 9 · цитат 0 · просмотров 11392  
-https://x.com/JamesWynnReal/status/2124032877470118095
+❤ 17 · 🔁 1 · 💬 7 · цитат 0 · просмотров 21777  
+https://x.com/JamesWynnReal/status/2124139203596570707
 
-## 2026-11-21 06:57 UTC · ответ
+## 2026-11-21 14:42 UTC · пост
 
-Added to my $BTC short on this low volume hourly green candle.
+$10K to $1M trading perps on PumpFun.
+ 
+I’am showing you how even with a small amount of capital, if you use risk management, tight SL and TP, you can harness the power of leverage by using the house’s money while taking minimal risk when done properly.
+ 
+Every trade I open, LONG or SHORT will have it’s reason explained. Sometimes brief, sometimes in-depth.
+ 
+The best part? You can tail my trades while learning along the way or just follow along for the ride. 🎢 
+ 
+Join and follow the link below and get your DEPOSIT MATCHED + 10% off fees! 🔥 Code: JWynnReal
+ 
+https://t.co/je7pV8NiJm
+ 
+#TeamWynn
 
-❤ 4 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1809  
-https://x.com/JamesWynnReal/status/2124034457002975556
+❤ 27 · 🔁 2 · 💬 17 · цитат 1 · просмотров 24102  
+https://x.com/JamesWynnReal/status/2124151544988020984
+
+## 2026-11-21 14:49 UTC · пост
+
+There is opportunity everywhere. You just need the experience, knowledge and foresight to see it. https://t.co/TpD3MCQ18o
+
+❤ 6 · 🔁 1 · 💬 3 · цитат 1 · просмотров 20006  
+https://x.com/JamesWynnReal/status/2124153265428611106
+
+## 2026-11-21 14:55 UTC · пост
+
+I suspect $BTC to wick up to $62k - $65k. I have a tight SL in place just in case. And my SL is already in profit.  
+ 
+Between 62k - 65k i’ll be taking profit and re-evaluating. 
+ 
+In the grand scheme of things I still believe we have lower to go. 
+ 
+But why not trade on the way
+
+❤ 259 · 🔁 4 · 💬 23 · цитат 0 · просмотров 44144  
+https://x.com/JamesWynnReal/status/2124154723385430091
+
+## 2026-11-21 15:37 UTC · пост
+
+A small short with a tight stop loss on bitcoin
+ 
+https://t.co/fzHLKTU9eW
+ 
+Target $59,180
+ 
+Easy money, will yield over $2,000
+ 
+#TeamWynn https://t.co/tBPzjARUv7
+
+❤ 48 · 🔁 0 · 💬 26 · цитат 1 · просмотров 25271  
+https://x.com/JamesWynnReal/status/2124165425391149552
+
+## 2026-11-21 15:38 UTC · ответ
+
+@Eagle_0X lol
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1765  
+https://x.com/JamesWynnReal/status/2124165514884964490
+
+## 2026-11-21 17:34 UTC · репост
+
+RT @JamesWynnReal: $10K to $1M trading perps on PumpFun.
+ 
+I’am showing you how even with a small amount of capital, if you use risk manage…
+
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/JamesWynnReal/status/2124194767928238346
+
+## 2026-11-21 22:12 UTC · пост
+
+I’m ready for the next move down, are you?
+ 
+Tail my trades: https://t.co/luty3lyQYe https://t.co/YuBSx75ykZ
+
+❤ 53 · 🔁 0 · 💬 21 · цитат 2 · просмотров 21364  
+https://x.com/JamesWynnReal/status/2124264593250017398
+
+## 2026-11-21 22:32 UTC · пост
+
+What is your $BTC prediction this week?
+ 
+I NEED to know if the NPC’s are bullish or bearish..
+ 
+I smell $49k 👏 https://t.co/oRspxiIN8b
+
+❤ 270 · 🔁 15 · 💬 69 · цитат 1 · просмотров 35220  
+https://x.com/JamesWynnReal/status/2124269797760491847
+
+## 2026-11-21 22:53 UTC · ответ
+
+You can tail my trades here btw:
+ 
+https://t.co/wV3JsPsGRg
+ 
+#TeamWynn https://t.co/d78R9f0Cgt
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2460  
+https://x.com/JamesWynnReal/status/2124275061276459467
+
+## 2026-11-22 01:07 UTC · пост
+
+I’m almost certain $BTC is going to see $47-$50k
+ 
+I just don’t think it has the legs to recover without seeing a max fear / capitulation event
+ 
+So many external factors on top as well
+
+❤ 471 · 🔁 21 · 💬 74 · цитат 3 · просмотров 38020  
+https://x.com/JamesWynnReal/status/2124308787825959047
+
+## 2026-11-22 01:41 UTC · ответ
+
+@Zakqkt Yes, me too, I don’t see enough fear yet. This is my 3rd cycle now so I know how bad it can really get and this isn’t it.
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1544  
+https://x.com/JamesWynnReal/status/2124317274156962204
+
+## 2026-11-22 01:44 UTC · ответ
+
+@aeolus4477 Of course
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1281  
+https://x.com/JamesWynnReal/status/2124318016246849587
+
+## 2026-11-22 01:44 UTC · ответ
+
+@Kavan1983 Mate, I trade short and long time frames, did that not come to your mind?
+
+❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1063  
+https://x.com/JamesWynnReal/status/2124318135457362168
+
+## 2026-11-22 01:45 UTC · ответ
+
+@Flintfootmartin Its OK. I’m high leverage perps trader. As long as I’m right 1 in 10 it pays off.
+
+❤ 3 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1982  
+https://x.com/JamesWynnReal/status/2124318350071521772
+
+## 2026-11-22 01:47 UTC · ответ
+
+@blade3_0 That would be fun, cannot see it unless a big 💣 goes off somewhere…
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1229  
+https://x.com/JamesWynnReal/status/2124318772383130042
+
+## 2026-11-22 01:57 UTC · пост
+
+Why do retail make the same mistake over and over again? I believe it is because they have the inability to think for themselves.
+ 
+They don’t believe in bitcoin:native at $60k but they do when it’s at ATH’s. Even though nothing has changed.
+ 
+Anyway, lets take a pit stop to $47k https://t.co/7LjEjLl95h
+
+❤ 77 · 🔁 1 · 💬 20 · цитат 0 · просмотров 16509  
+https://x.com/JamesWynnReal/status/2124321432603615313
+
+## 2026-11-22 03:00 UTC · пост
+
+Who’s tailing my trades on PumpFun? 
+ 
+Because we are printing 💸
+ 
+#TeamWynn https://t.co/qoduc2Fidj
+
+❤ 17 · 🔁 0 · 💬 13 · цитат 0 · просмотров 14172  
+https://x.com/JamesWynnReal/status/2124337148417474972
+
+## 2026-11-22 03:56 UTC · пост
+
+What’s going on with Bitcoin is nothing unusual, it is completely normal, healthy and needed.
+ 
+Things go up and down. I love Bitcoin, doesn’t mean I’m not going to make money shorting it 🤷‍♂️ .. to accumulate more..
+ 
+People take the bull and bear situation too personally. We’re
+
+❤ 34 · 🔁 1 · 💬 9 · цитат 0 · просмотров 13523  
+https://x.com/JamesWynnReal/status/2124351255430500569
+
+## 2026-11-22 04:01 UTC · пост
+
+Bottom not in. Not until I see fear on the timeline. Fuck your fear and greed index. I believe what I can see and feel over any graph or data.. We are living in unprecedented times. https://t.co/n4OtR9HGdH
+
+❤ 84 · 🔁 5 · 💬 23 · цитат 1 · просмотров 19192  
+https://x.com/JamesWynnReal/status/2124352611306586455
+
+## 2026-11-22 05:22 UTC · пост
+
+What are you waiting for?
+ 
+Click the link in my bio, tail my trades and make money when crypto pumps or dumps.
+ 
+Buy your wife a new handbag, idc, this is free money from NPC’s that don’t understand the market.
+ 
+It amazes me how people don’t grab opportunities by the balls? No https://t.co/gX2QCKVwMW
+
+❤ 20 · 🔁 0 · 💬 9 · цитат 1 · просмотров 14496  
+https://x.com/JamesWynnReal/status/2124373015538622737

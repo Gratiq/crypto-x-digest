@@ -1,22 +1,122 @@
 [
  {
-  "id": "2124037842523550021",
+  "id": "2124046110427877446",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-21T07:43:50.000Z",
+  "text": "RT @alex_peys: i was not adequately prepared https://t.co/jcyfMVSIxU",
+  "url": "https://x.com/tarunchitra/status/2124046110427877446",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 500,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123919825047261311",
+   "text": "i was not adequately prepared https://t.co/jcyfMVSIxU https://t.co/ducIeYKSOr"
+  }
+ },
+ {
+  "id": "2124058774168272979",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "quote",
-  "created_at": "2026-11-21T07:10:59.000Z",
-  "text": "Gotta love that Novita (flagged here) is one of the culprits of the current scandal https://t.co/ccM4njl4DM",
-  "url": "https://x.com/tarunchitra/status/2124037842523550021",
-  "likes": 3,
-  "retweets": 0,
-  "replies": 3,
-  "quotes": 0,
-  "impressions": 596,
+  "created_at": "2026-11-21T08:34:09.000Z",
+  "text": "My favorite thing of the last 12 months was people telling me they max LTV borrowed against crypto to buy $DRAM… the (Leo)^2 derivative https://t.co/s3kzvJKKcW",
+  "url": "https://x.com/tarunchitra/status/2124058774168272979",
+  "likes": 36,
+  "retweets": 1,
+  "replies": 13,
+  "quotes": 1,
+  "impressions": 3707,
   "bookmarks": 1,
   "referenced": {
    "type": "quoted",
-   "id": "2089395679227441409",
-   "text": "Every successful marketplace has winners and losers\n\nBut some participants make it more of a dark forest than a chessboard\n\nWe find some direct evidence for this — and some simple math to make these marketplaces more robust to rogue inference providers! https://t.co/Phgr7ktYdv"
+   "id": "2123894250643329286",
+   "text": "I've seen this movie before https://t.co/f3RJ2dUdsr"
+  }
+ },
+ {
+  "id": "2124063844209451051",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "reply",
+  "created_at": "2026-11-21T08:54:18.000Z",
+  "text": "@_onionesque Lol no OH here buddy",
+  "url": "https://x.com/tarunchitra/status/2124063844209451051",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 122,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124060419644158141",
+   "text": "@tarunchitra OH: तरुण चित्रा OH: तरुण चित्रा OH: तरुण चित्रा OH: तरुण चित्रा"
+  }
+ },
+ {
+  "id": "2124064223189987830",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "reply",
+  "created_at": "2026-11-21T08:55:48.000Z",
+  "text": "@_onionesque 🤷🏾‍♂️",
+  "url": "https://x.com/tarunchitra/status/2124064223189987830",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 49,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124064092415783061",
+   "text": "@tarunchitra OH: तरुण चित्रा"
+  }
+ },
+ {
+  "id": "2124064459572548061",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-21T08:56:45.000Z",
+  "text": "RT @viditnanda: maybe the real zeros were the friends we made along the way",
+  "url": "https://x.com/tarunchitra/status/2124064459572548061",
+  "likes": 0,
+  "retweets": 93,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 524,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123908684933713938",
+   "text": "maybe the real zeros were the friends we made along the way"
+  }
+ },
+ {
+  "id": "2124215843995410452",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-21T18:58:17.000Z",
+  "text": "RT @kakia1989: In a new paper with Christoph Schlegel (Flashbots), we look into auto-deleveraging (ADL) rules in perpetual futures markets:…",
+  "url": "https://x.com/tarunchitra/status/2124215843995410452",
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 407,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124136841997599040",
+   "text": "In a new paper with Christoph Schlegel (Flashbots), we look into auto-deleveraging (ADL) rules in perpetual futures markets: https://t.co/3WF7FJPCu9. It is not as exciting as a Riemann Hypothesis proof, but it is at least readable and probably more interesting for short (long)"
   }
  }
 ]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2124088781443911824",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "retweet",
+  "created_at": "2026-11-21T10:33:23.000Z",
+  "text": "RT @SIBuilder: On Anthropic’s first day of trading, the way they handled things was truly disgraceful.\n\nThe initial offering price was orig…",
+  "url": "https://x.com/arthur0x/status/2124088781443911824",
+  "likes": 0,
+  "retweets": 1022,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 0,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123637052940140986",
+   "text": "On Anthropic’s first day of trading, the way they handled things was truly disgraceful.\n\nThe initial offering price was originally set at $70–$78, but it was raised straight to $83. Not only did they raise the price, but they also increased the number of shares offered from the"
+  }
+ }
+]

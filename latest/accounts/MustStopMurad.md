@@ -1,90 +1,85 @@
-# @MustStopMurad — посты за 2026-11-21
+# @MustStopMurad — посты за 2026-11-22
 
-Всего: 10
+Всего: 8
 
-## 2026-11-20 08:13 UTC · репост
+## 2026-11-21 10:38 UTC · пост
 
-RT @leongaban: Next SPX6900 Austin meetup this Sat!
+This is when all the generational wealth in Crypto is made.
 
-If you are in town, swing by and say hi!👋 
+It’s just collected many years later.
 
-https://t.co/NwDuG2gHsh
+Buy and Hold.
 
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 24094  
-https://x.com/MustStopMurad/status/2123691166759858516
+❤ 1211 · 🔁 173 · 💬 171 · цитат 18 · просмотров 49059  
+https://x.com/MustStopMurad/status/2124090018725794035
 
-## 2026-11-20 09:21 UTC · репост
+## 2026-11-21 12:09 UTC · репост
 
-RT @0xjohnny024: Started two weeks ago a food delivery on bike just to accumulate more
+RT @OliverHeldens: Very interesting perspectives🤔 I’m not interested in trading (98% of traders lose), but with the big market correction n…
 
-Believe in something 
-Study #spx https://t.co/rzD78…
+❤ 0 · 🔁 76 · 💬 0 · цитат 0 · просмотров 23742  
+https://x.com/MustStopMurad/status/2124112854756347927
 
-❤ 0 · 🔁 39 · 💬 0 · цитат 0 · просмотров 24646  
-https://x.com/MustStopMurad/status/2123708423732613196
+## 2026-11-21 14:36 UTC · пост
 
-## 2026-11-20 11:06 UTC · пост
+Being in Crypto and on Crypto Twitter in 2027 and NOT being a part of such an EARLY stage of SPX6900 will eventually be a HUGE regret for thousands of people.
 
-Literally all you have to do is Persist Forever, and you will win.
+It’s like hanging out on Bitcointalk forums in early 2011 and not buying any at $0.30
 
-❤ 966 · 🔁 140 · 💬 135 · цитат 16 · просмотров 43846  
-https://x.com/MustStopMurad/status/2123734610169454954
+❤ 834 · 🔁 147 · 💬 120 · цитат 11 · просмотров 44377  
+https://x.com/MustStopMurad/status/2124149847754441089
 
-## 2026-11-20 12:29 UTC · репост
+## 2026-11-21 16:45 UTC · пост
 
-RT @aeonnlith: Ultimately, you're going to be pushed to hodl. Do yourself a favor and buy a minimum of 10,000 SPX6900. 
+The AGI buildout is the "Hail Mary Play" of the entire Hyper-Financialized and Under-Industrialized Western Civilization
 
-#SPX6900
+An all or nothing play, which, if successful, will bail out the massively overleveraged and overindebted global fiat economy.
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 23185  
-https://x.com/MustStopMurad/status/2123755573707493466
+They cannot allow the AI buildout to decelerate too much. 
 
-## 2026-11-20 13:15 UTC · пост
+At around -20% to -25% dip in the stock market, they will begin to print.
 
-To find the coin that will be the Biggest Household Name when we are in the middle of a Raging Bull Market…
+As a Crypto Holder, you should be cheering for the Big Print, as that is the economic regime where Crypto thrives the most. We haven’t experienced it since 2020-2021; this is why the 2022-2025 cycle felt so underwhelming.
 
-Find a community that acts as if we are already in the middle of a Raging Bull Market.
+This is why large dips in TradFi markets should make you happy as a Crypto Holder.
 
-And has been acting like that for several years.
+Because it means that we are getting THAT much closer to the next Euphoric Bull Market in Crypto.
 
-❤ 747 · 🔁 127 · 💬 145 · цитат 18 · просмотров 42296  
-https://x.com/MustStopMurad/status/2123767110606176532
+The Patient shall inherit the World.
 
-## 2026-11-20 14:42 UTC · репост
+❤ 495 · 🔁 103 · 💬 62 · цитат 10 · просмотров 34371  
+https://x.com/MustStopMurad/status/2124182508271018258
 
-RT @SergSurpreme: How to make $10,000 a month playing GTA 6 https://t.co/n7EAfzs4uQ
+## 2026-11-21 18:05 UTC · репост
 
-❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/MustStopMurad/status/2123789125354660029
+RT @BasedAeon: I have always felt an intrinsic need to defy our pre-defined systems. To question our social structures, imposed cultural va…
 
-## 2026-11-20 16:15 UTC · пост
+❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/MustStopMurad/status/2124202565063897320
 
-The crypto communities that survive the next few months will go to Trillions.
+## 2026-11-21 19:34 UTC · пост
 
-❤ 1541 · 🔁 225 · 💬 327 · цитат 55 · просмотров 76579  
-https://x.com/MustStopMurad/status/2123812446745907359
+The longer the Reaccumulation, the bigger the future Parabola.
 
-## 2026-11-20 19:29 UTC · пост
+❤ 891 · 🔁 144 · 💬 136 · цитат 17 · просмотров 41654  
+https://x.com/MustStopMurad/status/2124224897505177780
 
-SPX6900 will be the first ever memecoin to reach a market capitalization of a Trillion Dollars.
+## 2026-11-21 22:02 UTC · репост
 
-Mark my words.
+RT @jimcramer: Market sliced right through to my SPX 6900 target... Have to reconfigure this weekend.
 
-❤ 1133 · 🔁 200 · 💬 206 · цитат 33 · просмотров 64696  
-https://x.com/MustStopMurad/status/2123861406655357176
+❤ 0 · 🔁 408 · 💬 0 · цитат 0 · просмотров 17837  
+https://x.com/MustStopMurad/status/2124262236109897896
 
-## 2026-11-21 00:23 UTC · репост
+## 2026-11-22 01:02 UTC · пост
 
-RT @CoinbaseAssets: SPX6900 (SPX) is now available to New York residents on coinbase․com &amp; in the Coinbase iOS &amp; Android apps.
+Why Tokenized Movements are the Future of Crypto
 
-❤ 0 · 🔁 241 · 💬 0 · цитат 0 · просмотров 15669  
-https://x.com/MustStopMurad/status/2123935289379074129
+Join our Spaces Tomorrow Sunday (Nov 22) 2pm EST / 7pm UTC
 
-## 2026-11-21 02:10 UTC · цитата
+Set your reminder below👇
 
-SPX6900 WILL BE EVERYWHERE.
+ https://t.co/pM5jna1tTp
 
-AND THE WORLD WILL READJUST. https://t.co/mOocrmoHEs
-
-❤ 556 · 🔁 107 · 💬 75 · цитат 8 · просмотров 34764  
-https://x.com/MustStopMurad/status/2123962308384751920
+❤ 235 · 🔁 61 · 💬 31 · цитат 3 · просмотров 23226  
+https://x.com/MustStopMurad/status/2124307459695075399

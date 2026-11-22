@@ -1,67 +1,155 @@
-# @Theunipcs — посты за 2026-11-21
+# @Theunipcs — посты за 2026-11-22
 
-Всего: 7
+Всего: 14
 
-## 2026-11-20 09:13 UTC · ответ
+## 2026-11-21 09:41 UTC · репост
 
-@Evan_ss6 hmmm
+RT @fortun90: $USELESS will do what it always does — be the fastest horse in the race. We’ve already seen it before: weeks of downside wipe…
 
-❤ 18 · 🔁 1 · 💬 8 · цитат 1 · просмотров 3750  
-https://x.com/theunipcs/status/2123706315931586769
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 21915  
+https://x.com/theunipcs/status/2124075809853849946
 
-## 2026-11-20 13:40 UTC · репост
+## 2026-11-21 09:42 UTC · ответ
 
-RT @luckyGinn: Some people only believe when the chart is green. I believe in $USELESS beyond the daily candles.
+@fortun90 it WILL happen again
 
-Red days, green days, qui…
+GOD WILLING
 
-❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 22043  
-https://x.com/theunipcs/status/2123773450770891118
+❤ 98 · 🔁 7 · 💬 20 · цитат 5 · просмотров 5278  
+https://x.com/theunipcs/status/2124075872475136457
 
-## 2026-11-20 16:08 UTC · ответ
+## 2026-11-21 09:56 UTC · цитата
 
-@kungfu_hunter @navic01gabino i just sent you $200 on fomo!
+$USELESS probably just had one of the biggest corrections of any established memecoin in the last 24 hours
 
-❤ 27 · 🔁 4 · 💬 24 · цитат 3 · просмотров 2877  
-https://x.com/theunipcs/status/2123810686455439792
+make no mistake:
 
-## 2026-11-20 16:13 UTC · пост
+THIS IS NOT A BUG. IT'S A FEATURE.
 
-i can't imagine a better memecoin narrative with all that is going on right now
+it's exactly how USELESS has historically behaved during periods of extreme market volatility, something i've https://t.co/VzWKnSgdzl
 
-$USELESS dips are for buying!
+❤ 521 · 🔁 76 · 💬 173 · цитат 20 · просмотров 56765  
+https://x.com/theunipcs/status/2124079387544895616
 
-❤ 887 · 🔁 105 · 💬 360 · цитат 96 · просмотров 188032  
-https://x.com/theunipcs/status/2123812079798755645
+## 2026-11-21 10:00 UTC · ответ
 
-## 2026-11-20 16:18 UTC · репост
+to the triggered ones btw:
 
-RT @duaud9912: AI was useless
-Privacy was useless
-Crypto was useless
-Nasdaq was useless
+get triggered harder!
 
-useless
+it doesn't change the fact that 99.9999% of what you're holding is USELESS
 
-I can't imagine a better narrative now. h…
+and no cryptocurrency or narrative better embodies this than $USELESS coin
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 19911  
-https://x.com/theunipcs/status/2123813316808278355
+the earlier you come to terms with this reality, the better!
 
-## 2026-11-20 16:19 UTC · ответ
+❤ 311 · 🔁 43 · 💬 71 · цитат 6 · просмотров 19959  
+https://x.com/theunipcs/status/2124080427753431516
 
-@duaud9912 https://t.co/Wm5KrEaNl8
+## 2026-11-21 10:01 UTC · репост
 
-❤ 41 · 🔁 1 · 💬 15 · цитат 1 · просмотров 3573  
-https://x.com/theunipcs/status/2123813388035948566
+RT @theunipcs: to the triggered ones btw:
 
-## 2026-11-20 20:10 UTC · репост
+get triggered harder!
 
-RT @SunFlowSolana: Small wallets capitulated further on $SI over the past 7 days
+it doesn't change the fact that 99.9999% of what you're holding is USELES…
 
-Whales notably stayed bullish
+❤ 0 · 🔁 43 · 💬 0 · цитат 0 · просмотров 1  
+https://x.com/theunipcs/status/2124080641830441352
 
-SI had this capitulation i…
+## 2026-11-21 10:49 UTC · ответ
 
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 19189  
-https://x.com/theunipcs/status/2123871547052208367
+@movethecharts believe it or not:
+
+the 'unipcs has supply control'/'unipcs holds most of the supply' myth is 100% untrue
+
+yet i continue to see people repeat it with absolutely zero evidence
+
+i'm generally very public about my holdings in most of my top coins:
+
+- $USELESS: i hold 3% of the
+
+❤ 182 · 🔁 15 · 💬 41 · цитат 6 · просмотров 16822  
+https://x.com/theunipcs/status/2124092744725319947
+
+## 2026-11-21 18:40 UTC · ответ
+
+@jfiebkab @movethecharts it's 100% a scammer
+
+❤ 15 · 🔁 1 · 💬 5 · цитат 0 · просмотров 2593  
+https://x.com/theunipcs/status/2124211243338875247
+
+## 2026-11-21 18:59 UTC · репост
+
+RT @riskmaxxing: buy when everyone is making fun of bonk guy
+
+sell when they're posting his pnl all over the tl
+
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 18323  
+https://x.com/theunipcs/status/2124216235919360175
+
+## 2026-11-21 18:59 UTC · репост
+
+RT @samdip01: There are so many scammers that pretending to be @theunipcs . Always be aware of it, don’t engage 
+
+Remember bonk guy will ne…
+
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 19191  
+https://x.com/theunipcs/status/2124216268530352445
+
+## 2026-11-21 19:20 UTC · ответ
+
+@cryptobaddiee1 ❤️‍🔥🫡
+
+❤ 48 · 🔁 0 · 💬 21 · цитат 0 · просмотров 4439  
+https://x.com/theunipcs/status/2124221326801944830
+
+## 2026-11-21 19:46 UTC · цитата
+
+it's a bit higher for me
+
+i only started using and talking about fomo a few months ago (genuinely wish i'd done so much earlier)
+
+but even then, it's still nowhere near the $24.5 MILLION+ my fomo portfolio is currently down from its ATH
+
+and no, i'm not 'selling on side wallets' https://t.co/djQX2Tf4Vs https://t.co/Nty0D40Lfw
+
+❤ 1034 · 🔁 66 · 💬 324 · цитат 29 · просмотров 150385  
+https://x.com/theunipcs/status/2124228027055739062
+
+## 2026-11-21 19:52 UTC · цитата
+
+@FabianoSolana i posted more accurate data from my fomo dashboard so you don't have to guess
+
+but if you genuinely think i gave up $24.5 MILLION in potential profits (the amount my fomo portfolio is down from ATH) for just $1.5 million in refs and creator rewards
+
+then you should sell me https://t.co/aeTeT7yRrp
+
+❤ 132 · 🔁 9 · 💬 32 · цитат 2 · просмотров 9677  
+https://x.com/theunipcs/status/2124229490087710855
+
+## 2026-11-21 19:55 UTC · ответ
+
+@bandosei i'm also curious about what the numbers look for pumpfun traders btw
+
+i'm pretty sure i would be making way more if i were using them
+
+although i chose not to out of principle
+
+also no shade against them btw, just curious
+
+i think there's nothing wrong with promoting a product
+
+❤ 55 · 🔁 2 · 💬 21 · цитат 2 · просмотров 7746  
+https://x.com/theunipcs/status/2124230246748848493
+
+## 2026-11-21 21:31 UTC · цитата
+
+not explaining myself
+
+just being transparent and adding some context because i've seen posts circulating on the timeline with inaccurate data about how much i've earned from fomo referrals
+
+also, @bandosei regularly puts out data for the trenches and is a cool guy so i don't https://t.co/KgM8oVwuG3 https://t.co/QTo2zbbaXs
+
+❤ 239 · 🔁 14 · 💬 72 · цитат 6 · просмотров 40319  
+https://x.com/theunipcs/status/2124254273823531026

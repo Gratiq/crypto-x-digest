@@ -1,84 +1,47 @@
-# @frankdegods — посты за 2026-11-21
+# @frankdegods — посты за 2026-11-22
 
-Всего: 11
+Всего: 6
 
-## 2026-11-20 16:16 UTC · ответ
+## 2026-11-21 14:32 UTC · ответ
 
-@Xtrelevated1 ❤️❤️❤️
+@iwantlambo @ThePumponomics gggggg
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1221  
-https://x.com/frankdegods/status/2123812731048628657
+❤ 4 · 🔁 0 · 💬 3 · цитат 1 · просмотров 1390  
+https://x.com/frankdegods/status/2124149074542948537
 
-## 2026-11-20 16:19 UTC · репост
+## 2026-11-22 03:13 UTC · пост
 
-RT @hexiecs: whoever defend 60k just let it go
+it feels like theres more sellers than buyers
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 10445  
-https://x.com/frankdegods/status/2123813414254543051
+❤ 384 · 🔁 7 · 💬 133 · цитат 2 · просмотров 22635  
+https://x.com/frankdegods/status/2124340532012782030
 
-## 2026-11-20 16:53 UTC · пост
+## 2026-11-22 03:36 UTC · репост
 
-relative strength, colorized c. 2026 https://t.co/H7poy0lZE2
+RT @ThinkingUSD: Soskaesque
 
-❤ 164 · 🔁 7 · 💬 51 · цитат 0 · просмотров 25297  
-https://x.com/frankdegods/status/2123821940511310045
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 6947  
+https://x.com/frankdegods/status/2124346318327841248
 
-## 2026-11-20 17:19 UTC · ответ
+## 2026-11-22 03:58 UTC · репост
 
-@gajria you def binked this with clarity
+RT @Tradermayne: This isn’t actually accurate. 
 
-❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3586  
-https://x.com/frankdegods/status/2123828537518170520
+Ben has been very on point about the 4 year cycle, Q4 bottom potential, a pull back in the…
 
-## 2026-11-20 23:14 UTC · пост
+❤ 0 · 🔁 33 · 💬 0 · цитат 0 · просмотров 7110  
+https://x.com/frankdegods/status/2124351684465836401
 
-you could make the argument the non-consensus trade is shorting HERE 
+## 2026-11-22 04:05 UTC · ответ
 
-obviously joking unless 🫣 https://t.co/HkYHhdJCYu
+@grok @MonacoMacro @The_Airmass something a lil off about the y axis
 
-❤ 122 · 🔁 1 · 💬 43 · цитат 0 · просмотров 23072  
-https://x.com/frankdegods/status/2123917862288966060
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1053  
+https://x.com/frankdegods/status/2124353427622821924
 
-## 2026-11-20 23:30 UTC · пост
+## 2026-11-22 07:20 UTC · ответ
 
-makes you think https://t.co/wbWQ06Oi1C
+@tszzl if human mathematicians were getting paid trillions of dollars would these problems get solved
 
-❤ 293 · 🔁 6 · 💬 100 · цитат 5 · просмотров 44610  
-https://x.com/frankdegods/status/2123921892734095625
-
-## 2026-11-20 23:46 UTC · ответ
-
-@goodalexander i’d hope so if they’re actually serving bjs
-
-❤ 30 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3067  
-https://x.com/frankdegods/status/2123925874596843806
-
-## 2026-11-21 00:13 UTC · пост
-
-the nail in the coffin will be if trump just forgets about ai and starts shilling costco and walmart at ath’s
-
-there won’t be enough words in the dictionary to describe how over it would be
-
-❤ 314 · 🔁 10 · 💬 72 · цитат 4 · просмотров 26683  
-https://x.com/frankdegods/status/2123932848046694753
-
-## 2026-11-21 00:30 UTC · ответ
-
-@cryptunez is this what you meant? https://t.co/6mtKc8oKBA
-
-❤ 68 · 🔁 2 · 💬 7 · цитат 1 · просмотров 5840  
-https://x.com/frankdegods/status/2123936955390202105
-
-## 2026-11-21 04:06 UTC · ответ
-
-@SOLsesame ??
-
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1045  
-https://x.com/frankdegods/status/2123991505555836957
-
-## 2026-11-21 04:07 UTC · ответ
-
-@404flipped long pizza
-
-❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1306  
-https://x.com/frankdegods/status/2123991622635688008
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 529  
+https://x.com/frankdegods/status/2124402606697029926

@@ -1,174 +1,211 @@
-# @CryptoKaleo — посты за 2026-11-21
+# @CryptoKaleo — посты за 2026-11-22
 
-Всего: 19
+Всего: 24
 
-## 2026-11-20 14:14 UTC · пост
+## 2026-11-21 12:43 UTC · пост
 
-This is wild.
+GOOD MORNING BULLS https://t.co/Ne6g7TQqDm
 
-Netflix is making SBF &amp; Caroline look like they were pressured and groomed by CZ to commit their crimes.
+❤ 133 · 🔁 7 · 💬 45 · цитат 0 · просмотров 18922  
+https://x.com/CryptoKaleo/status/2124121563163210004
 
-It practically frames them as innocent and him as the villain who orchestrated everything.
+## 2026-11-21 13:25 UTC · цитата
 
-Whoever wrote this script is shameless. https://t.co/dfpXJbX9TM
+Bitcoin wicked down to $16.9K USD early this morning on Kraken with their BTC / CAD pair.
 
-❤ 3340 · 🔁 235 · 💬 558 · цитат 178 · просмотров 963570  
-https://x.com/CryptoKaleo/status/2123781956810997823
+That’s not a typo.
 
-## 2026-11-20 15:21 UTC · цитата
+It retested the lows of the FTX crash in one candle.
 
-$MSTR looks like it finally is ready to make this move.
+Whoever was the catalyst for this selling might just have bottomed the market. https://t.co/kcE9blvtGX https://t.co/H1ksaIsH2Z
 
-Saylor and Strategy have openly been using it as an infinite money printer without any care for diluting shareholders.
+❤ 1624 · 🔁 108 · 💬 129 · цитат 33 · просмотров 267767  
+https://x.com/CryptoKaleo/status/2124132080552681574
 
-With the MSCI index removals at the end of the month there's a lot more sell pressure on the horizon. https://t.co/LCGjrb8RMA https://t.co/gLe6s0sCob
+## 2026-11-21 13:29 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11420  
-https://x.com/CryptoKaleo/status/2123798968551588046
+@NarcosNoyza Agreed
 
-## 2026-11-20 15:22 UTC · цитата
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 533  
+https://x.com/CryptoKaleo/status/2124133010396385571
 
-$MSTR looks like it's finally ready to make this move.
+## 2026-11-21 13:29 UTC · ответ
 
-Saylor &amp; Strategy have openly been using it as an infinite money printer without any care for diluting shareholders.
+“Capo was right”
 
-With the MSCI index removals at the end of the month there's a lot more sell pressure on the horizon. https://t.co/WE5GcUvAFO https://t.co/gLe6s0sCob
+❤ 94 · 🔁 2 · 💬 6 · цитат 0 · просмотров 12284  
+https://x.com/CryptoKaleo/status/2124133090260058414
 
-❤ 101 · 🔁 8 · 💬 16 · цитат 0 · просмотров 27727  
-https://x.com/CryptoKaleo/status/2123799137405792504
+## 2026-11-21 13:30 UTC · пост
 
-## 2026-11-20 15:48 UTC · цитата
+BE MORE BULLISH
 
-Looks like Black Friday came a week early this year https://t.co/CmkhMiXByj
+❤ 388 · 🔁 18 · 💬 82 · цитат 2 · просмотров 23178  
+https://x.com/CryptoKaleo/status/2124133273378984421
 
-❤ 97 · 🔁 3 · 💬 17 · цитат 0 · просмотров 22685  
-https://x.com/CryptoKaleo/status/2123805632184938684
+## 2026-11-21 13:45 UTC · пост
 
-## 2026-11-20 15:53 UTC · ответ
+If the bottom for the crypto market is in, robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f is primed to rip.
 
-@koreanjewcrypto Yo honestly with the way things are moving getting it back in three days might have just saved you $25K
+Cats are the dogs of this cycle, and Robinhood Chain needs a runner.
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 763  
-https://x.com/CryptoKaleo/status/2123806989822366080
+Think bigger. https://t.co/ifETGxovLJ
 
-## 2026-11-20 16:01 UTC · ответ
+❤ 161 · 🔁 20 · 💬 51 · цитат 0 · просмотров 35467  
+https://x.com/CryptoKaleo/status/2124137018359783869
 
-@Willy_wonka_ws RIP
+## 2026-11-21 13:45 UTC · пост
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 388  
-https://x.com/CryptoKaleo/status/2123809032414888364
+SIXTY THOUSAND UNITED STATES DOLLARS FOR ONE BITCOIN
 
-## 2026-11-20 16:05 UTC · пост
+❤ 307 · 🔁 12 · 💬 56 · цитат 1 · просмотров 25995  
+https://x.com/CryptoKaleo/status/2124137222437781733
 
-https://t.co/U9nX8EDNyM
+## 2026-11-21 13:51 UTC · ответ
 
-❤ 16 · 🔁 2 · 💬 8 · цитат 1 · просмотров 26631  
-https://x.com/CryptoKaleo/status/2123809874371039448
+Lmfao 
 
-## 2026-11-20 16:09 UTC · цитата
+When I believe in something I’m just insanely delusionally bullish until I see it through
 
-JUST A COUPLE MORE LIQUIDATIONS THEN UP ONLY https://t.co/uUtcJ1nTQL
+I understand if the majority of accounts on here mention a meme at $30M and have a target way higher but the market cools off for a bit will just go silent and take the L
 
-❤ 172 · 🔁 11 · 💬 41 · цитат 0 · просмотров 22809  
-https://x.com/CryptoKaleo/status/2123810859298545743
+I think if you’re able to foster a community in these conditions, and the coin is able to grow eventually it has the potential to become part of the lore of the chain itself
 
-## 2026-11-20 17:16 UTC · ответ
+So there’s a period of time where you seem insane
 
-@AgentChud I'm still debating
+And maybe you are
 
-don't know if I can get myself to
+But eventually by being insane for long enough one day you’re not
 
-part of me wants to watch it only so I can talk more to the inaccuracies of it
+And then in hindsight it looks obvious and at that point the market does the work for you
 
-the other doesn't want to give Netflix any more views out of principle
+❤ 34 · 🔁 9 · 💬 14 · цитат 1 · просмотров 3196  
+https://x.com/CryptoKaleo/status/2124138605748596908
 
-❤ 82 · 🔁 1 · 💬 6 · цитат 0 · просмотров 21850  
-https://x.com/CryptoKaleo/status/2123827926273507660
+## 2026-11-21 13:53 UTC · ответ
 
-## 2026-11-20 17:20 UTC · ответ
+@basedsnipez 😭😭😭
 
-robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 597  
+https://x.com/CryptoKaleo/status/2124139065989537796
 
-Still one of the strongest charts in the trenches.
+## 2026-11-21 14:03 UTC · ответ
 
-This is why you bet on communities who have already survived four 90%+ drawdowns instead of chasing streamers into two day old GTA narratives.
+@unstoppablebyhs 🤝
 
-Bullieve in something. 🤔🐈 https://t.co/NA1tj5Yan3
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 608  
+https://x.com/CryptoKaleo/status/2124141772276175129
 
-❤ 43 · 🔁 8 · 💬 6 · цитат 0 · просмотров 7016  
-https://x.com/CryptoKaleo/status/2123828846936166422
+## 2026-11-21 14:06 UTC · ответ
 
-## 2026-11-20 18:56 UTC · ответ
+@SotoshiNikomito Haha I have worse takes than that one out there brother
 
-While everything else continues to print new lows, I think it says a lot how well $HMM has continued to hold up.
+Just a man - wrong a lot of times but right just enough to matter
 
-Reminder that its last leg up happened in spite of the trenches bleeding, and it led the next major alt rally on Robinhood Chain.
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 532  
+https://x.com/CryptoKaleo/status/2124142306932428957
 
-I believe it'll happen again. https://t.co/b12fEOyuLP
+## 2026-11-21 14:08 UTC · ответ
 
-❤ 41 · 🔁 6 · 💬 7 · цитат 0 · просмотров 4290  
-https://x.com/CryptoKaleo/status/2123853125303894469
+@andyyy HIGHER
 
-## 2026-11-20 19:05 UTC · ответ
+❤ 33 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1063  
+https://x.com/CryptoKaleo/status/2124142802493657559
 
-@Shadowbit11 I mean if we're zooming in then why stop there the 1s chart looks great https://t.co/y1kl32Gao3
+## 2026-11-21 14:08 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 401  
-https://x.com/CryptoKaleo/status/2123855240671777207
+@Darky1k hmm
 
-## 2026-11-20 19:23 UTC · пост
+Agreed
 
-Insane how FTX propaganda was released on Netflix the day the crypto market started nuking. https://t.co/LLY6PFUsm1
+❤ 26 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1647  
+https://x.com/CryptoKaleo/status/2124142847200821481
 
-❤ 229 · 🔁 10 · 💬 35 · цитат 0 · просмотров 25003  
-https://x.com/CryptoKaleo/status/2123859676378853441
+## 2026-11-21 14:24 UTC · ответ
 
-## 2026-11-20 19:27 UTC · пост
+@adam3us I understand that, but it still led to real fills of incredibly low bids across the market
 
-robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
+❤ 43 · 🔁 2 · 💬 4 · цитат 0 · просмотров 9520  
+https://x.com/CryptoKaleo/status/2124146905571852517
 
-Still the best looking chart in the Robinhood Chain Trenches. https://t.co/s2Q04PHQHQ
+## 2026-11-21 17:57 UTC · цитата
 
-❤ 118 · 🔁 12 · 💬 39 · цитат 0 · просмотров 25946  
-https://x.com/CryptoKaleo/status/2123860716449132980
+Top 5 clan on fomo today and climbing back fast on the overall leaderboard
 
-## 2026-11-20 21:28 UTC · ответ
+Be more bullish https://t.co/T7UlTWARSu https://t.co/q7CElH5xCv
 
-@vladtenev Hmm 🤔🐈 https://t.co/D6khx0be1T
+❤ 57 · 🔁 5 · 💬 20 · цитат 0 · просмотров 17969  
+https://x.com/CryptoKaleo/status/2124200556860240208
 
-❤ 20 · 🔁 3 · 💬 0 · цитат 0 · просмотров 1023  
-https://x.com/CryptoKaleo/status/2123891157541273884
+## 2026-11-21 17:58 UTC · ответ
 
-## 2026-11-20 21:39 UTC · пост
+@TaoIsTheKey Pretty insane haha I know
 
-hmm...  good time for a bounce
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3037  
+https://x.com/CryptoKaleo/status/2124200916903424509
 
-❤ 283 · 🔁 10 · 💬 75 · цитат 2 · просмотров 20876  
-https://x.com/CryptoKaleo/status/2123894001204077013
+## 2026-11-21 18:42 UTC · ответ
 
-## 2026-11-20 22:01 UTC · ответ
+@RugDalio Yo join us.
+
+Need some new blood and variety of people who are just diamond handed holders
+
+❤ 6 · 🔁 0 · 💬 6 · цитат 0 · просмотров 435  
+https://x.com/CryptoKaleo/status/2124211796785435061
+
+## 2026-11-21 18:46 UTC · ответ
+
+@PeterSchiff If you really want to make a point just @ robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f next time https://t.co/RDV5Mo4rtG
+
+❤ 32 · 🔁 2 · 💬 0 · цитат 0 · просмотров 2726  
+https://x.com/CryptoKaleo/status/2124212916102541371
+
+## 2026-11-21 20:05 UTC · пост
+
+The Georgia Tech Wake Forest game is so bad ESPN quit showing the field and started commentating on this couple fighting for a few minutes.
+
+RIP https://t.co/nNOUjL1QEj
+
+❤ 136 · 🔁 9 · 💬 22 · цитат 0 · просмотров 28600  
+https://x.com/CryptoKaleo/status/2124232700424831341
+
+## 2026-11-21 20:11 UTC · ответ
+
+Looks like they figured it out!
+
+Might be the only win Georgia Tech fans see the rest of the season https://t.co/vhJHdRzCMz
+
+❤ 26 · 🔁 3 · 💬 14 · цитат 0 · просмотров 5784  
+https://x.com/CryptoKaleo/status/2124234249851343014
+
+## 2026-11-21 20:13 UTC · ответ
+
+@RodWavect Lmfao honestly I’m impressed he stayed that calm
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 387  
+https://x.com/CryptoKaleo/status/2124234715280572590
+
+## 2026-11-21 21:20 UTC · ответ
 
 $HMM 
 
-god candle szn is coming https://t.co/cyt6PYAXnC
+Looks good.
 
-❤ 28 · 🔁 5 · 💬 5 · цитат 0 · просмотров 6791  
-https://x.com/CryptoKaleo/status/2123899564612579827
+Send it. https://t.co/rjKngDnsTN
 
-## 2026-11-21 00:21 UTC · ответ
+❤ 17 · 🔁 2 · 💬 1 · цитат 0 · просмотров 4039  
+https://x.com/CryptoKaleo/status/2124251512977379454
 
-@cz_binance It’s disgusting
+## 2026-11-21 23:15 UTC · ответ
 
-Sorry my man
+@hollyyy Will be 🤝
 
-❤ 231 · 🔁 2 · 💬 4 · цитат 1 · просмотров 24285  
-https://x.com/CryptoKaleo/status/2123934833961242914
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 383  
+https://x.com/CryptoKaleo/status/2124280619610063104
 
-## 2026-11-21 00:45 UTC · ответ
+## 2026-11-22 01:10 UTC · пост
 
-robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
+GENERATIONAL BOTTOM IS IN FOR THE ROBINHOOD TRENCHES https://t.co/9SAySwNswR
 
-next leg up https://t.co/5r36auxZfz
-
-❤ 29 · 🔁 7 · 💬 7 · цитат 1 · просмотров 3754  
-https://x.com/CryptoKaleo/status/2123940710751879327
+❤ 146 · 🔁 9 · 💬 60 · цитат 2 · просмотров 16299  
+https://x.com/CryptoKaleo/status/2124309626418323538

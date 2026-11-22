@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2124208709845045374",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-21T18:29:56.000Z",
+  "text": "RT @Pumpfun: Mantle is live on the Pumpfun app\n\nTrade and callout tokens in the Mantle ecosystem to earn Callout Rewards\n\nWelcome to the Pu…",
+  "url": "https://x.com/a1lon9/status/2124208709845045374",
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11281,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124206158848430270",
+   "text": "Mantle is live on the Pumpfun app\n\nTrade and callout tokens in the Mantle ecosystem to earn Callout Rewards\n\nWelcome to the Pumpfun app, @Mantle_Official! https://t.co/ozDgKeG3CW"
+  }
+ },
+ {
+  "id": "2124250969961578706",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-21T21:17:52.000Z",
+  "text": "RT @Pumpfun: New perps execution tools on the Pumpfun app!\n\n- TWAP: break big orders into small fills over time\n- Stack limit orders: multi…",
+  "url": "https://x.com/a1lon9/status/2124250969961578706",
+  "likes": 0,
+  "retweets": 27,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 11032,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124250234457063616",
+   "text": "New perps execution tools on the Pumpfun app!\n\n- TWAP: break big orders into small fills over time\n- Stack limit orders: multiple orders on one market\n- Scale orders: one amount spread across 3 to 20 limit prices\n\nBonus: callout your perps trades to be eligible with a chance to https://t.co/KuOvPrlSzV"
+  }
+ }
+]

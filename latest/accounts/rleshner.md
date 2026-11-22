@@ -1,17 +1,10 @@
-# @rleshner — посты за 2026-11-21
+# @rleshner — посты за 2026-11-22
 
-Всего: 2
+Всего: 1
 
-## 2026-11-20 18:08 UTC · репост
+## 2026-11-22 03:12 UTC · пост
 
-RT @paraficapital: “A stablecoin is not two times as good as a dollar. It’s a hundred times as good of a dollar, for its intended use case.…
+My hunch is that we prove P != NP in 2027
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 599  
-https://x.com/rleshner/status/2123840830322721003
-
-## 2026-11-21 00:46 UTC · пост
-
-What happens when the rate at which AI can discover provably true mathematical results substantially exceeds humanity's capacity to understand them?
-
-❤ 53 · 🔁 2 · 💬 23 · цитат 0 · просмотров 11402  
-https://x.com/rleshner/status/2123941140885823967
+❤ 48 · 🔁 3 · 💬 18 · цитат 2 · просмотров 21209  
+https://x.com/rleshner/status/2124340148179468444

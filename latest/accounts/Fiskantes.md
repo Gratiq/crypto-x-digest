@@ -1,286 +1,193 @@
-# @Fiskantes — посты за 2026-11-21
+# @Fiskantes — посты за 2026-11-22
 
-Всего: 36
+Всего: 22
 
-## 2026-11-20 10:11 UTC · цитата
+## 2026-11-21 08:15 UTC · ответ
 
-Post economic vibes https://t.co/1CZOPKQh8M
+@TrustlessState https://t.co/AIEUVCA0DT
 
-❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2960  
-https://x.com/Fiskantes/status/2123720846392852669
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 327  
+https://x.com/Fiskantes/status/2124054195305349235
 
-## 2026-11-20 13:01 UTC · репост
+## 2026-11-21 08:21 UTC · цитата
 
-RT @aleabitoreddit: When the world needed him most, he vanished https://t.co/6igDsoOPBd
+"You don’t need to invent a villain when the story already has one."
 
-❤ 0 · 🔁 250 · 💬 0 · цитат 0 · просмотров 555  
-https://x.com/Fiskantes/status/2123763675698004096
+Unless the villain gave you lot of money and you want to help him out so you fund a show to help his reputation in the faces of mainstream mass https://t.co/Qi6L2EuQ0F
 
-## 2026-11-20 13:02 UTC · пост
+❤ 61 · 🔁 4 · 💬 1 · цитат 0 · просмотров 6259  
+https://x.com/Fiskantes/status/2124055576225501540
 
-What will Anthropic decamillionaires bid the most?
+## 2026-11-21 13:20 UTC · цитата
 
-Beachfront real estate, bunkers, their friend's startups or EA charity?
+Very accurate
 
-All I know its not crypto
+Thanks for the draw baskitch and thanks @beniduboss for commissioning
 
-❤ 75 · 🔁 1 · 💬 14 · цитат 0 · просмотров 6994  
-https://x.com/Fiskantes/status/2123763870493794673
+This brings out the nostalgia out of me for simpler times when all we'd care about are expensive cartoon pfps
 
-## 2026-11-20 21:27 UTC · ответ
+Truly a golden age we are never getting back https://t.co/WXeKsPS2I4
 
-@goodalexander Leopold could be wrong and RSI may as well be value distractive
+❤ 13 · 🔁 1 · 💬 4 · цитат 0 · просмотров 2048  
+https://x.com/Fiskantes/status/2124130752983908560
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 551  
-https://x.com/Fiskantes/status/2123891085118476301
+## 2026-11-21 13:28 UTC · цитата
 
-## 2026-11-20 21:28 UTC · пост
+The real cuck simulator
 
-I think it could be over for real this time
+and we didn't even have to wait 13 years https://t.co/BzLLtxP8cT
 
-❤ 92 · 🔁 2 · 💬 6 · цитат 0 · просмотров 9245  
-https://x.com/Fiskantes/status/2123891188990189691
+❤ 20 · 🔁 1 · 💬 2 · цитат 1 · просмотров 3012  
+https://x.com/Fiskantes/status/2124132905299636360
 
-## 2026-11-20 21:28 UTC · цитата
+## 2026-11-21 13:32 UTC · пост
 
-5 feet 2 and an attitude...5 feet 2 and an attitude... https://t.co/fMj8Vkopuz
+Still coming to grips with the fact crypto is not the most entertaining industry anymore. 
 
-❤ 13 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2016  
-https://x.com/Fiskantes/status/2123891276651061282
+In markets like these I was always telling to myself that at least we have more fun than anyone else
 
-## 2026-11-20 21:29 UTC · ответ
+But since about a year or two ago we are left way behind in the dust 
 
-Just sharing this for those who may need it https://t.co/IBCcwMSXHF
+Crypto has nothing on Dario, SamA, Jensen, Musk, Trump, AI memes etc...
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2227  
-https://x.com/Fiskantes/status/2123891500618494303
+Who you gonna meme about in crypto? Washed Saylor and his boomer AI clips? Or CZ for hundredth time?
 
-## 2026-11-20 21:29 UTC · ответ
+❤ 91 · 🔁 1 · 💬 15 · цитат 0 · просмотров 7494  
+https://x.com/Fiskantes/status/2124133819238244725
 
-@goodalexander *destructive fml
+## 2026-11-21 16:07 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 483  
-https://x.com/Fiskantes/status/2123891577328169283
+@0xCardiE I only play one game these days
 
-## 2026-11-20 21:39 UTC · цитата
+https://t.co/FYpyO5OcYy
 
-2 affairs reported one by one, Jensen being asshole hit articles, DOJ and SEC probes, cybersecurity incident...
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 40  
+https://x.com/Fiskantes/status/2124172975972786509
 
-If you go after king you better not miss...and whoever is doing this, they really don’t want to miss https://t.co/l3LFsfBVrU
+## 2026-11-21 16:09 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1209  
-https://x.com/Fiskantes/status/2123894037794984215
+@QwQiao 0 cap gain tax havers in belief https://t.co/Ud4eEeGzHD
 
-## 2026-11-20 21:54 UTC · пост
+❤ 14 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1862  
+https://x.com/Fiskantes/status/2124173480690069735
 
-When will markets recover?
+## 2026-11-21 16:12 UTC · пост
 
-❤ 28 · 🔁 4 · 💬 12 · цитат 3 · просмотров 9001  
-https://x.com/Fiskantes/status/2123897691595821488
+Seems like chuds and incels don't like GTA 6 because some Lucia lore and sidequests make it a "cuck simulator" 
 
-## 2026-11-20 21:57 UTC · пост
+I would expect they never had a bossy latina girlfriend (or any girlfriend for that matter) so they'd appreciate this simulated experience?
 
-Do you remember when your most important CEO to watch was Michael Saylor and you had notifications turned on, catching all his AI memes?
+❤ 21 · 🔁 0 · 💬 10 · цитат 0 · просмотров 3192  
+https://x.com/Fiskantes/status/2124174211136573801
 
-Simple times huh?
+## 2026-11-21 16:44 UTC · ответ
 
-❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2237  
-https://x.com/Fiskantes/status/2123898652275999188
+Those are optional sidequests  
 
-## 2026-11-20 22:03 UTC · ответ
+Not like going to gym to click mouse button really fast to get buff in GTA San Andreas was fun  
 
-@AgentChud https://t.co/M3mrcm2xJj
+Or driving girlfriends from their home to restaurants and back in GTA IV, that was meh too
 
-❤ 17 · 🔁 1 · 💬 1 · цитат 0 · просмотров 1167  
-https://x.com/Fiskantes/status/2123900058181493003
+In GTA V your initial storyline was that of a literal cuck whose kids hate him and wife cheats with a PT, that wasn't a cuck simulator?
 
-## 2026-11-20 22:04 UTC · репост
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 118  
+https://x.com/Fiskantes/status/2124182183698944417
 
-RT @Fiskantes: @AgentChud https://t.co/M3mrcm2xJj
+## 2026-11-21 17:00 UTC · ответ
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/Fiskantes/status/2123900405239202021
+Well if you don't wanna be a cuck (= have a good relationship with Lucia) you shouldn't care about that ending no? :D
 
-## 2026-11-20 22:06 UTC · цитата
+Anyway, idk if its actually fun or good story, haven't played, but all I see is crying "omg the game makes do chores and boring relationship sidequests" like its the only GTA game that ever done anything like it
 
-2020, somewhere in desserts around Dubai
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 62  
+https://x.com/Fiskantes/status/2124186307668709478
 
- "I wish 5 years for now crypto trades more like stock market"
+## 2026-11-21 17:03 UTC · цитата
 
-The genie from the lamp:
+Auki thesis:
 
-"Say less!" https://t.co/FWXGydXwdB
+Retail stores are a strategy game
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 598  
-https://x.com/Fiskantes/status/2123900941954929148
+Bots will learn to play it better than humans https://t.co/zuktQY4bQD
 
-## 2026-11-20 22:07 UTC · цитата
+❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2306  
+https://x.com/Fiskantes/status/2124187043702186166
 
-2020, somewhere in desserts around Dubai
+## 2026-11-21 17:27 UTC · ответ
 
- "I wish 5 years from now crypto trades more like stock market"
+@DarkceiD Why do you feel so emotional about a videogame
 
-The genie from the lamp:
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 66  
+https://x.com/Fiskantes/status/2124192986343133383
 
-"Say less!" https://t.co/FWXGydY439
+## 2026-11-21 17:28 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 663  
-https://x.com/Fiskantes/status/2123901015934284091
+Cuck simulators for everyone https://t.co/BvCdW9p47u
 
-## 2026-11-20 22:08 UTC · цитата
+❤ 18 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2850  
+https://x.com/Fiskantes/status/2124193228911997009
 
-2020, somewhere in deserts around Dubai
+## 2026-11-21 17:45 UTC · цитата
 
- "I wish 5 years from now crypto trades more like stock market"
+Maybe we can turn this around if we just get enough GenZers and GenXers to do Lucia's chores https://t.co/EsHWDM9kMR
 
-The genie from the lamp:
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 731  
+https://x.com/Fiskantes/status/2124197566900535433
 
-"Say less!" https://t.co/FWXGydXwdB
+## 2026-11-21 17:46 UTC · цитата
 
-❤ 31 · 🔁 2 · 💬 4 · цитат 0 · просмотров 3665  
-https://x.com/Fiskantes/status/2123901392637051199
+Maybe we can turn this around if we just get enough GenZers and GenXers to grow up and do Lucia's chore-quests around the house https://t.co/EsHWDM9kMR
 
-## 2026-11-20 22:10 UTC · репост
+❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2203  
+https://x.com/Fiskantes/status/2124197760954208259
 
-RT @ArthurMacwaters: Fire the board. https://t.co/FxZw745W39
+## 2026-11-21 20:20 UTC · ответ
 
-❤ 0 · 🔁 134 · 💬 0 · цитат 0 · просмотров 523  
-https://x.com/Fiskantes/status/2123901907727007775
+@beniduboss You never have to raise money again yay
 
-## 2026-11-20 22:14 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 232  
+https://x.com/Fiskantes/status/2124236656001909058
 
-@GregusJakub @goodalexander Hydration holders are left without liquidity
+## 2026-11-21 20:34 UTC · ответ
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 63  
-https://x.com/Fiskantes/status/2123902829412626627
+@noBScrypto Nothing broke, you just need to draw the rest of the rainbow
 
-## 2026-11-20 22:27 UTC · пост
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 527  
+https://x.com/Fiskantes/status/2124239981224829078
 
-I really miss the times when we cared about what Saylor will do next
+## 2026-11-21 23:20 UTC · ответ
 
-❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2165  
-https://x.com/Fiskantes/status/2123906026088865909
+@based16z Sounds like something only a woke male feminist cuck would do
 
-## 2026-11-20 22:29 UTC · пост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 345  
+https://x.com/Fiskantes/status/2124281890337140851
 
-Can we hard fork Nvidia into Nvidia Classic with Jensen in charge
+## 2026-11-22 00:14 UTC · репост
 
-❤ 799 · 🔁 28 · 💬 13 · цитат 5 · просмотров 20623  
-https://x.com/Fiskantes/status/2123906677380395417
+RT @Auki: "Physical AI has to be more than a motor cortex. We want AI to help us run our physical businesses. Why shouldn't the physical AI…
 
-## 2026-11-20 22:33 UTC · цитата
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 541  
+https://x.com/Fiskantes/status/2124295443211542694
 
-This is a work of art
+## 2026-11-22 00:34 UTC · пост
 
-Peak Game of Thrones meets House of Cards meets Succession type shit https://t.co/fr75Taaz62
+BREAKING: Jensen Huang allegedly grabbed employees forearms and started frantically slapping said employees face with his own palms while mockingly exclaiming "stop beating yourself, stop beating yourself!"
 
-❤ 10 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3504  
-https://x.com/Fiskantes/status/2123907645908176902
+-New York Times
 
-## 2026-11-20 22:35 UTC · цитата
+❤ 31 · 🔁 0 · 💬 0 · цитат 1 · просмотров 3025  
+https://x.com/Fiskantes/status/2124300487965171973
 
-Is it too late to start a futarchy prediction market on whether keeping Jensen in charge or removing him is better for NVDA shareholders https://t.co/aqlfDjXDy6
+## 2026-11-22 00:38 UTC · цитата
 
-❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1980  
-https://x.com/Fiskantes/status/2123908093792903315
+tfw you bought the dip last week https://t.co/IzHuLPMjmN
 
-## 2026-11-20 22:36 UTC · ответ
+❤ 7 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1810  
+https://x.com/Fiskantes/status/2124301439434478039
 
-@BaggerWalmart 1y+ contains ∞ I guess
+## 2026-11-22 01:53 UTC · пост
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 247  
-https://x.com/Fiskantes/status/2123908338240852114
+BTC rainbow chart guys need to draw the rest of it https://t.co/PE8fnfz4rq
 
-## 2026-11-20 22:43 UTC · пост
-
-BREAKING: Jensen Huang reportedly told an employee he would "run them over by a steamroller so they'd become as thin as a pancake, then he would use them as a doormat in winter, everyone would wipe their feet on them and then when they would get sick from the cold, damp and
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 685  
-https://x.com/Fiskantes/status/2123910088960221467
-
-## 2026-11-20 22:43 UTC · пост
-
-BREAKING: Jensen Huang reportedly told an employee he would "run them over by a steamroller so they'd become as thin as a pancake, then he would use them as a doormat in winter, everyone would wipe their feet on them and then when they would get sick from the cold, damp and
-
-❤ 64 · 🔁 3 · 💬 9 · цитат 0 · просмотров 4278  
-https://x.com/Fiskantes/status/2123910243046351132
-
-## 2026-11-20 23:02 UTC · репост
-
-RT @radmadvlad: BREAKING: Jensen Huang reportedly told an employee "High five!" and held his hand up while the employee high-fived him. 
-Ne…
-
-❤ 0 · 🔁 863 · 💬 0 · цитат 0 · просмотров 504  
-https://x.com/Fiskantes/status/2123914859691835526
-
-## 2026-11-20 23:03 UTC · пост
-
-https://t.co/YnD6egdb6E
-
-❤ 12 · 🔁 3 · 💬 1 · цитат 0 · просмотров 1904  
-https://x.com/Fiskantes/status/2123915130836779144
-
-## 2026-11-20 23:06 UTC · цитата
-
-Actually wholesome to see this rebirth https://t.co/GJog3FVdRd https://t.co/B3t4MMzQUZ
-
-❤ 8 · 🔁 1 · 💬 2 · цитат 0 · просмотров 1569  
-https://x.com/Fiskantes/status/2123915909505110025
-
-## 2026-11-20 23:12 UTC · цитата
-
-We are so early https://t.co/I4miihCf7Y
-
-❤ 19 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2401  
-https://x.com/Fiskantes/status/2123917313196138752
-
-## 2026-11-20 23:34 UTC · ответ
-
-@dcbuilder real
-
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 158  
-https://x.com/Fiskantes/status/2123923055869297129
-
-## 2026-11-20 23:40 UTC · ответ
-
-@kennyistyping Unfortunately this is not how world works
-
-We are due nothing and we deserve nothing just for holding unproductive asset for a long time https://t.co/5MHFQFg792
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 54  
-https://x.com/Fiskantes/status/2123924552426381453
-
-## 2026-11-20 23:41 UTC · репост
-
-RT @Fiskantes: When will markets recover?
-
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/Fiskantes/status/2123924692570415534
-
-## 2026-11-20 23:43 UTC · ответ
-
-@kennyistyping https://t.co/GQKwGtPaTk
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 21  
-https://x.com/Fiskantes/status/2123925314950816246
-
-## 2026-11-20 23:54 UTC · репост
-
-RT @mert: BREAKING: Jensen Huang reportedly told employees to buy Ethereum
-
-❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/Fiskantes/status/2123928119732236774
-
-## 2026-11-21 00:56 UTC · цитата
-
-fwiw I was there (represented by the tall asian guy in the background by with the denim jacket) and that's literally what happened, including Caroline wearing a goth dress and CZ saying "No Bueno" https://t.co/M6jHMmV9KK
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 588  
-https://x.com/Fiskantes/status/2123943517051392451
-
-## 2026-11-21 00:56 UTC · цитата
-
-fwiw I was there (represented by the tall asian guy in the background with the denim jacket) and that's literally what happened, including Caroline wearing a goth dress and CZ saying "No Bueno" https://t.co/M6jHMmVHAi
-
-❤ 50 · 🔁 0 · 💬 6 · цитат 0 · просмотров 5524  
-https://x.com/Fiskantes/status/2123943585909559491
+❤ 19 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1607  
+https://x.com/Fiskantes/status/2124320224103080077

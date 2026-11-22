@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2124168532594213151",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "reply",
+  "created_at": "2026-11-21T15:50:17.000Z",
+  "text": "@ArtOnBlockchain @Noahbolanowski I need it",
+  "url": "https://x.com/LucaNetz/status/2124168532594213151",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 553,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2123793295545397753",
+   "text": "Sorry in advance for the long wall of text but wanted to share the story of how I went from tinkering with my kiddo to a real product that quietly includes the generative medium and this technology that we're all so passionate about.\n\nBack in March my 10-year-old asked me to buy https://t.co/8QiOpKMIxX https://t.co/wRlbcocTbm"
+  }
+ },
+ {
+  "id": "2124173546796486672",
+  "username": "LucaNetz",
+  "username_canon": "LucaNetz",
+  "type": "quote",
+  "created_at": "2026-11-21T16:10:13.000Z",
+  "text": "Proliferation https://t.co/R6IYNIU51n",
+  "url": "https://x.com/LucaNetz/status/2124173546796486672",
+  "likes": 185,
+  "retweets": 13,
+  "replies": 45,
+  "quotes": 1,
+  "impressions": 8490,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123830768199991759",
+   "text": "Just spotted this at my local cinema in Ukraine!\n\nBillions will huddle 🐧\n@pudgypenguins is everywhere! https://t.co/WCCmGSUXJS"
+  }
+ }
+]

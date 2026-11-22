@@ -1,277 +1,77 @@
-# @andrewtalksdefi — посты за 2026-11-21
+# @andrewtalksdefi — посты за 2026-11-22
 
-Всего: 38
+Всего: 10
 
-## 2026-11-20 07:59 UTC · ответ
+## 2026-11-21 08:44 UTC · ответ
 
-@Web3Niels Gm Niels
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123687734539600067
-
-## 2026-11-20 09:22 UTC · ответ
-
-@theee_roman Good morning Roman
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2123708471669338335
-
-## 2026-11-20 09:40 UTC · ответ
-
-@i_am_vickyd TGIF
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 10  
-https://x.com/andrewtalksdefi/status/2123712956735058409
-
-## 2026-11-20 09:40 UTC · пост
-
-Are you winning frens?
-
-Tgif enjoy your weekend and touch grass. https://t.co/FvkRqOK9v7
-
-❤ 78 · 🔁 0 · 💬 43 · цитат 0 · просмотров 2877  
-https://x.com/andrewtalksdefi/status/2123713205650211152
-
-## 2026-11-20 09:41 UTC · ответ
-
-@H1TMAN_ @McDonalds Gm Hitman
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123713238453882939
-
-## 2026-11-20 09:41 UTC · ответ
-
-@AidenWgmi Gm Aiden
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2123713276940828729
-
-## 2026-11-20 09:41 UTC · ответ
-
-@DoskyArt Gm Dosky
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14  
-https://x.com/andrewtalksdefi/status/2123713330938274238
-
-## 2026-11-20 09:41 UTC · ответ
-
-@TheBaseDoctor Gm Raymon
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123713436064395331
-
-## 2026-11-20 09:44 UTC · ответ
-
-@Real_TShelby @tinkeryaz49 Gm Captain
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 24  
-https://x.com/andrewtalksdefi/status/2123714080162640019
-
-## 2026-11-20 09:45 UTC · ответ
-
-@GenuineDegen @blockaid_ Scammers are always at alert
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
-https://x.com/andrewtalksdefi/status/2123714365278859437
-
-## 2026-11-20 09:46 UTC · ответ
-
-@helenvn88 @Acurast Acurast is building something truly special here
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123714505108513005
-
-## 2026-11-20 09:47 UTC · ответ
-
-@Lynketh2 @rntprotocol RNT is an interesting example of how real-world utility can stand out
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123714835980443868
-
-## 2026-11-20 09:47 UTC · ответ
-
-@Realboybr @FensoryApp Love what they're building here
+@woryinX Gm Woryin
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2123714914376118650
+https://x.com/andrewtalksdefi/status/2124061267966960054
 
-## 2026-11-20 09:48 UTC · ответ
+## 2026-11-21 08:44 UTC · ответ
 
-@_Pretty_Miraa Top of the morning fam
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2123714977965998177
-
-## 2026-11-20 09:48 UTC · ответ
-
-@sorreeennnn @termix_ai Termix is building something truly special here
+@Vethechamp0 Happy weekend champ
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
-https://x.com/andrewtalksdefi/status/2123715043657155071
+https://x.com/andrewtalksdefi/status/2124061391044636784
 
-## 2026-11-20 09:49 UTC · ответ
+## 2026-11-21 08:45 UTC · ответ
 
-@KongBTC @PropWGlobal 40% off is a solid deal. Wishing you a successful challenge
+@RealJackPoor Gm Jack
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2123715363502162134
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
+https://x.com/andrewtalksdefi/status/2124061681248506150
 
-## 2026-11-20 09:50 UTC · ответ
+## 2026-11-21 08:46 UTC · ответ
 
-@Beautybeautym Primus is here to make real impact
+@hvshark Gm Shark
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123715521589776466
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 17  
+https://x.com/andrewtalksdefi/status/2124061796315095296
 
-## 2026-11-20 09:51 UTC · ответ
+## 2026-11-21 08:46 UTC · ответ
 
-@KongBTC Tough times for OP holders.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 25  
-https://x.com/andrewtalksdefi/status/2123715759771705492
-
-## 2026-11-20 09:51 UTC · ответ
-
-@MuriscoOfficial @bagel_win Definitely worth exploring
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 23  
-https://x.com/andrewtalksdefi/status/2123715870534881583
-
-## 2026-11-20 09:51 UTC · ответ
-
-@Akanimo_dx @primus_labs Primus is here to make real impact
+@MorkHood Morning Mork
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
-https://x.com/andrewtalksdefi/status/2123715970602611189
+https://x.com/andrewtalksdefi/status/2124061848181801205
 
-## 2026-11-20 09:54 UTC · ответ
+## 2026-11-21 08:49 UTC · ответ
 
-@MorkHood If BTC holds this zone, the market can finally get some green candles
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 23  
-https://x.com/andrewtalksdefi/status/2123716671764312396
-
-## 2026-11-20 09:56 UTC · ответ
-
-@Laff38 Always good to see platforms rewarding their active users.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 131  
-https://x.com/andrewtalksdefi/status/2123717004272050228
-
-## 2026-11-20 10:07 UTC · ответ
-
-@kozei Gm Kozei
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 20  
-https://x.com/andrewtalksdefi/status/2123719862673408144
-
-## 2026-11-20 10:07 UTC · ответ
-
-@SherhanEth Gm Sherhan
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 16  
-https://x.com/andrewtalksdefi/status/2123719914959647079
-
-## 2026-11-20 14:40 UTC · ответ
-
-@MrCryptoPandaa @primus_labs gPrimus
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2123788673116237836
-
-## 2026-11-20 14:41 UTC · ответ
-
-@GenuineDegen Gm genuine
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 12  
-https://x.com/andrewtalksdefi/status/2123788731903627576
-
-## 2026-11-20 14:41 UTC · ответ
-
-@GenuineDegen @zothdotio Nice to see the steps clearly explained.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
-https://x.com/andrewtalksdefi/status/2123788863529234793
-
-## 2026-11-20 14:42 UTC · ответ
-
-@KongBTC Lmaoo
+@dezydank Gm Dezydank
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 12  
-https://x.com/andrewtalksdefi/status/2123789069859578265
+https://x.com/andrewtalksdefi/status/2124062705237500150
 
-## 2026-11-20 14:42 UTC · ответ
+## 2026-11-21 08:50 UTC · ответ
 
-@Dnyelfy @primus_labs zkTLS has some serious potential.
+@MrPraetorian @BitunixOfficial Gm Jimmy
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2123789185915953596
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15  
+https://x.com/andrewtalksdefi/status/2124062804449665362
 
-## 2026-11-20 14:43 UTC · ответ
+## 2026-11-21 08:50 UTC · ответ
 
-@stellarlumens29 AI agents need accountability and clear boundaries.
+@Krisbee Good morning brother
 
 ❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 13  
-https://x.com/andrewtalksdefi/status/2123789318082760981
+https://x.com/andrewtalksdefi/status/2124062915414089741
 
-## 2026-11-20 14:43 UTC · ответ
+## 2026-11-21 12:52 UTC · репост
 
-@Rigelcrypt @rntprotocol @0xPolygon Glad to see RNT holding its value
+RT @andrewtalksdefi: Join @phantom's $40K Anthropic Trading Competition.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 18  
-https://x.com/andrewtalksdefi/status/2123789453458014459
+The perps competition runs until Nov 25, with $ANT volume countin…
 
-## 2026-11-20 14:45 UTC · ответ
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/andrewtalksdefi/status/2124123740430590138
 
-@Rigelcrypt Gm Rigel
+## 2026-11-21 12:52 UTC · репост
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 22  
-https://x.com/andrewtalksdefi/status/2123789815086788683
+RT @andrewtalksdefi: Most privacy solutions force you to choose between hiding everything and revealing everything.
 
-## 2026-11-20 14:45 UTC · ответ
+But when real capital…
 
-@OGFIGO @Acurast Acurast is here to make real impact
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 11  
-https://x.com/andrewtalksdefi/status/2123789925749231631
-
-## 2026-11-20 14:46 UTC · ответ
-
-@Real_TShelby @GeckoTerminal GeckoTerminal keeps making onchain research more convenient
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 23  
-https://x.com/andrewtalksdefi/status/2123790072164065519
-
-## 2026-11-20 14:47 UTC · ответ
-
-@Dan1umma @DecibelTrade GTA VI is finally here, and TTWO could be one of the tickers to watch
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 35  
-https://x.com/andrewtalksdefi/status/2123790277097750585
-
-## 2026-11-20 15:07 UTC · цитата
-
-Join @phantom's $40K Anthropic Trading Competition.
-
-The perps competition runs until Nov 25, with $ANT volume counting 5x toward your score.
-
-Your score is based on PnL multiplied by the square root of your trading volume
-
- So trading more $ANT can give you a bigger multiplier. https://t.co/LSHAkr4JJd
-
-❤ 53 · 🔁 0 · 💬 21 · цитат 0 · просмотров 3245  
-https://x.com/andrewtalksdefi/status/2123795336263061662
-
-## 2026-11-20 15:15 UTC · ответ
-
-@gandalfcryptto Gmmmm
-
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 23  
-https://x.com/andrewtalksdefi/status/2123797320210755990
-
-## 2026-11-20 15:16 UTC · ответ
-
-@MorkHood Keep stacking and stay Patience
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 21  
-https://x.com/andrewtalksdefi/status/2123797581734035752
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/andrewtalksdefi/status/2124123759590232311

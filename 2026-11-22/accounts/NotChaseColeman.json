@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2124310254032740486",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-22T01:13:26.000Z",
+  "text": "RT @LynAldenContact: Bitcoin is dead right now. It fell 56%.\n\nLet's check back in 2-3 years during the next rising liquidity cycle and PMI…",
+  "url": "https://x.com/NotChaseColeman/status/2124310254032740486",
+  "likes": 0,
+  "retweets": 1332,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 460,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124005399397339622",
+   "text": "Bitcoin is dead right now. It fell 56%.\n\nLet's check back in 2-3 years during the next rising liquidity cycle and PMI cycle. https://t.co/VCCb8asyv4"
+  }
+ },
+ {
+  "id": "2124310338812178439",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-22T01:13:47.000Z",
+  "text": "Bottom https://t.co/14P6NsXRG3",
+  "url": "https://x.com/NotChaseColeman/status/2124310338812178439",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 962,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123993451112865821",
+   "text": "NEW: @AnthropicAI’S $ANT FLIPS $BTC IN MARKET CAP https://t.co/OK6Qj8bUZi"
+  }
+ },
+ {
+  "id": "2124360743998877912",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-22T04:34:04.000Z",
+  "text": "RT @nicodotfun: See you guys at the top in ~1000 days https://t.co/R9DoLc7xXq",
+  "url": "https://x.com/NotChaseColeman/status/2124360743998877912",
+  "likes": 0,
+  "retweets": 21,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 509,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124139094427213953",
+   "text": "See you guys at the top in ~1000 days https://t.co/R9DoLc7xXq"
+  }
+ },
+ {
+  "id": "2124375010974544063",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-22T05:30:46.000Z",
+  "text": "RT @idofentanyl: Hahah you had some hope nigga didnt you",
+  "url": "https://x.com/NotChaseColeman/status/2124375010974544063",
+  "likes": 0,
+  "retweets": 531,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 442,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2123801787106832765",
+   "text": "Hahah you had some hope nigga didnt you"
+  }
+ }
+]

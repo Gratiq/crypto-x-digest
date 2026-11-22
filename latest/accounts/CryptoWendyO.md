@@ -1,263 +1,229 @@
-# @CryptoWendyO — посты за 2026-11-21
+# @CryptoWendyO — посты за 2026-11-22
 
-Всего: 32
+Всего: 28
 
-## 2026-11-20 13:00 UTC · пост
+## 2026-11-21 14:04 UTC · цитата
 
-$NEAR Protocol's SHIELD security system blocked 99.7% of Bitget hack-linked flows ($50M+) and 96% of Binance exploit-linked flows reaching NEAR Intents
+SBF will get pardoned. 
 
-The system uses real-time screening to block stolen funds from moving through NEAR Intents without pausing the network or https://t.co/32KmMW1gdU
+Why did Barack and Michelle Obama production company Higher Ground Productions  fund the Altruists? https://t.co/xVqV6lpmLC
 
-❤ 284 · 🔁 27 · 💬 27 · цитат 0 · просмотров 12389  
-https://x.com/CryptoWendyO/status/2123763291960782978
+❤ 173 · 🔁 19 · 💬 42 · цитат 5 · просмотров 18893  
+https://x.com/CryptoWendyO/status/2124141987263902176
 
-## 2026-11-20 14:11 UTC · ответ
+## 2026-11-21 16:29 UTC · ответ
 
-@AgentChud Happy #ff
+@Chillybro4 Scrolling past something is not watching it
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 287  
-https://x.com/CryptoWendyO/status/2123781303451705360
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 237  
+https://x.com/CryptoWendyO/status/2124178472801358286
 
-## 2026-11-20 14:24 UTC · пост
+## 2026-11-21 16:30 UTC · ответ
 
-BREAKING
+@lilmoemusic @TiffanyFong @SBF_FTX I love that your name is Maurice 
 
-I SLEPT THROUGH THE GREAT EARTHQUAKE OF LOS ANGELES CALIFORNIA https://t.co/C6kvn2brJC
+That’s my favorite
 
-❤ 56 · 🔁 2 · 💬 20 · цитат 0 · просмотров 8369  
-https://x.com/CryptoWendyO/status/2123784429588058137
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 260  
+https://x.com/CryptoWendyO/status/2124178583212134500
 
-## 2026-11-20 14:37 UTC · ответ
+## 2026-11-21 16:54 UTC · цитата
 
-@craigscoinpurse Almost there!
+$25,000 Bitcoin. Bottom has to be in. https://t.co/fT3we3GEu1
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 225  
-https://x.com/CryptoWendyO/status/2123787814525677880
+❤ 187 · 🔁 11 · 💬 43 · цитат 3 · просмотров 32667  
+https://x.com/CryptoWendyO/status/2124184658669937111
 
-## 2026-11-20 14:37 UTC · ответ
+## 2026-11-21 18:17 UTC · ответ
 
-@utd_ivy 4.2 I think
+@honorablesaint Women would ride horses their entire pregnancy before cars …
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 174  
-https://x.com/CryptoWendyO/status/2123787923342704896
+❤ 12 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2359  
+https://x.com/CryptoWendyO/status/2124205588758626749
 
-## 2026-11-20 14:44 UTC · ответ
+## 2026-11-21 18:35 UTC · пост
 
-@MediaGiraffes I love seeing posts like this! Congrats!
+The UNTHINKABLE Happened! $25,000 Bitcoin! $1.5 TRILLION AI TRAP?! Anthropic Trap!  ✨ JOIN THE LIVE CONVERSATION ON YOUTUBE! https://t.co/MVM0hQS21j
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 629  
-https://x.com/CryptoWendyO/status/2123789465034588645
+❤ 68 · 🔁 7 · 💬 15 · цитат 1 · просмотров 9369  
+https://x.com/CryptoWendyO/status/2124210082091078004
 
-## 2026-11-20 15:51 UTC · ответ
+## 2026-11-21 19:23 UTC · ответ
 
-@ElJefe9295 I know, I was so very brave!
+@frugalbc hashahhahahah
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 135  
-https://x.com/CryptoWendyO/status/2123806548032143364
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 165  
+https://x.com/CryptoWendyO/status/2124222140417474953
 
-## 2026-11-20 15:52 UTC · ответ
+## 2026-11-21 19:23 UTC · ответ
 
-@NEARProtocol iconic
+@tiredwtf yep!
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 242  
-https://x.com/CryptoWendyO/status/2123806617304998092
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 154  
+https://x.com/CryptoWendyO/status/2124222201297875168
 
-## 2026-11-20 15:52 UTC · ответ
+## 2026-11-21 19:24 UTC · цитата
 
-@PlayasianChris Have a good day Ken
+We are fxcked as a society https://t.co/IbxvWFuZy0
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 178  
-https://x.com/CryptoWendyO/status/2123806736947859580
+❤ 280 · 🔁 14 · 💬 30 · цитат 1 · просмотров 23188  
+https://x.com/CryptoWendyO/status/2124222454948315233
 
-## 2026-11-20 15:53 UTC · ответ
+## 2026-11-21 20:22 UTC · ответ
 
-@ric_rac @rumblevideo Hey I do not see me there!
+@MeanHash I have known this and you know this
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 389  
-https://x.com/CryptoWendyO/status/2123806949540245645
+❤ 6 · 🔁 0 · 💬 4 · цитат 0 · просмотров 680  
+https://x.com/CryptoWendyO/status/2124236972856377583
 
-## 2026-11-20 15:54 UTC · ответ
+## 2026-11-21 20:28 UTC · ответ
 
-@scottmelker What a peach.
+@MeanHash I know friend
 
-❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 677  
-https://x.com/CryptoWendyO/status/2123807097930539471
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 165  
+https://x.com/CryptoWendyO/status/2124238556545831241
 
-## 2026-11-20 15:55 UTC · ответ
+## 2026-11-21 22:00 UTC · пост
 
-@scottmelker I have also done that too, I'm petty.
+Bitbase is launching its own exchange token, with future airdrops based on accumulated Bitbase Points!
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 398  
-https://x.com/CryptoWendyO/status/2123807425715462184
+https://t.co/RqlPkcLUBh https://t.co/rCpV38NtJP
 
-## 2026-11-20 15:58 UTC · ответ
+❤ 31 · 🔁 2 · 💬 7 · цитат 0 · просмотров 5878  
+https://x.com/CryptoWendyO/status/2124261581835948468
 
-@Lizmej12 gm beautiful
+## 2026-11-22 00:21 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 119  
-https://x.com/CryptoWendyO/status/2123808152910987330
+Bitcoin will be ok. 
 
-## 2026-11-20 15:58 UTC · ответ
+It’s going to be rough but we will be fine. https://t.co/xSsbJVNK6W
 
-@junlojunlo gm
+❤ 174 · 🔁 2 · 💬 30 · цитат 0 · просмотров 9573  
+https://x.com/CryptoWendyO/status/2124297216705905039
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 141  
-https://x.com/CryptoWendyO/status/2123808229146927559
+## 2026-11-22 01:04 UTC · ответ
 
-## 2026-11-20 16:19 UTC · пост
+@MoVanCrypto777 Then sit on your hands?
 
-I'm short on $BTC and have $18 in unrealized profit 
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 163  
+https://x.com/CryptoWendyO/status/2124308104087261288
 
-SEND IT LOWER 
+## 2026-11-22 01:05 UTC · ответ
 
-https://t.co/RqlPkcLUBh https://t.co/9jWM5AKQd4
+@Excavatorguy3 Mining economics matters but all the cool ogs left X
 
-❤ 136 · 🔁 4 · 💬 41 · цитат 0 · просмотров 10699  
-https://x.com/CryptoWendyO/status/2123813437612380411
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 177  
+https://x.com/CryptoWendyO/status/2124308184001380404
 
-## 2026-11-20 16:48 UTC · ответ
+## 2026-11-22 01:10 UTC · пост
 
-@Mattya4011 I'm a moron
+Remember when bitcoin hit $4000 in 2018 and I liquidated my daughters savings account and bought more?
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 175  
-https://x.com/CryptoWendyO/status/2123820864957276505
+Same vibes.
 
-## 2026-11-20 16:49 UTC · ответ
+❤ 839 · 🔁 26 · 💬 92 · цитат 4 · просмотров 27877  
+https://x.com/CryptoWendyO/status/2124309413041520751
 
-@CryptoLyfe2022 I'm going to buy tequilla with it
+## 2026-11-22 01:50 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 193  
-https://x.com/CryptoWendyO/status/2123820922041663691
+@SarcasticTexan_ It’s scary always
 
-## 2026-11-20 16:49 UTC · ответ
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 783  
+https://x.com/CryptoWendyO/status/2124319606332645599
 
-@STRONGG Same broseph
+## 2026-11-22 01:50 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 159  
-https://x.com/CryptoWendyO/status/2123820985703071805
+@G_Tarded69420 She has been on ct since 2017
 
-## 2026-11-20 17:00 UTC · пост
+❤ 1 · 🔁 1 · 💬 1 · цитат 0 · просмотров 545  
+https://x.com/CryptoWendyO/status/2124319661588463720
 
-Crypto things you might have missed:
+## 2026-11-22 01:51 UTC · ответ
 
-- $BTC dips below $59,000
--Ripple: real crypto rulemaking outlasts Gensler
--Sen. Gallego: crypto industry is "f*cked"
--@getonmoon bet Up or Down on crypto &amp; stocks
--Anthropic $ANT extends losses
--Bridgewater: cyberattacks are going parabolic
+@RaynorCorp House is paid off so no need
 
-❤ 65 · 🔁 4 · 💬 30 · цитат 0 · просмотров 11155  
-https://x.com/CryptoWendyO/status/2123823696968319133
+❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 699  
+https://x.com/CryptoWendyO/status/2124319724620362150
 
-## 2026-11-20 17:22 UTC · ответ
+## 2026-11-22 02:06 UTC · ответ
 
-@getonmoon Thank you @getonmoon for partnering with The O Show!
+@Zakqkt Hell yeah
 
-🌕 Sign up here:
-https://t.co/M2dBvxXdqB
+❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 875  
+https://x.com/CryptoWendyO/status/2124323620776562929
 
-❤ 8 · 🔁 2 · 💬 1 · цитат 0 · просмотров 1352  
-https://x.com/CryptoWendyO/status/2123829296946888706
+## 2026-11-22 02:06 UTC · ответ
 
-## 2026-11-20 17:34 UTC · цитата
+@ifiweruthnudbme I’m American 
 
-MetaWin just announced everyone with a verified X account gets 30 free spins today
+Canada isn’t real
 
-Use code MIAMI30 when you deposit on @MetaWin
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 112  
+https://x.com/CryptoWendyO/status/2124323701646864680
 
-And you earn 30x Free Spins on their new game Miami Heist
+## 2026-11-22 02:07 UTC · ответ
 
-They said the numbers are ‘limited’ so I would probably claim sooner rather than later https://t.co/VObWQkskjD https://t.co/3HdINF2PBZ
+@XAVIAER That’s because most of the fires are started by homeless and mentally ill.
 
-❤ 398 · 🔁 194 · 💬 387 · цитат 0 · просмотров 9653  
-https://x.com/CryptoWendyO/status/2123832355219517473
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 446  
+https://x.com/CryptoWendyO/status/2124323858237075505
 
-## 2026-11-20 20:00 UTC · пост
+## 2026-11-22 02:15 UTC · ответ
 
-JUST NOW: 🚨 $BTC falls below $58K as $1.94B is liquidated across the crypto market in 24 hours, including $708M in $BTC long positions https://t.co/H64SmDqF61
+@vibhu You are my favorite ticket seller
 
-❤ 271 · 🔁 11 · 💬 53 · цитат 0 · просмотров 9836  
-https://x.com/CryptoWendyO/status/2123868992129691884
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 311  
+https://x.com/CryptoWendyO/status/2124325762866253918
 
-## 2026-11-20 22:00 UTC · пост
+## 2026-11-22 02:16 UTC · ответ
 
-The Anthropic $ANT IPO this week is a wake-up call.
+@FlyRyde Golf and McDonalds? We are waiting!
 
-In stocks, people chase money.
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 363  
+https://x.com/CryptoWendyO/status/2124326089610912240
 
-In crypto, people join cults.
+## 2026-11-22 02:22 UTC · пост
 
-One of those things actually pays. https://t.co/6FFZMjrdmb
+Maybe crypto is dead. 
 
-❤ 93 · 🔁 3 · 💬 18 · цитат 0 · просмотров 7976  
-https://x.com/CryptoWendyO/status/2123899185711960461
+I don’t know. 
 
-## 2026-11-20 23:43 UTC · ответ
+But I do know the cult mentality is dumb and makes no sense. 
 
-@GivnerAriel @ButtCoin Hell yeah sister
+Everything carries risk. 
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 240  
-https://x.com/CryptoWendyO/status/2123925303735263279
+Trading is so important and understanding risk matters. 
 
-## 2026-11-20 23:45 UTC · цитата
+Moonbags allow you to be a part of crypto but also a responsible way to be apart of and I’ve
 
-It all makes sense now. 
+❤ 138 · 🔁 8 · 💬 37 · цитат 1 · просмотров 10714  
+https://x.com/CryptoWendyO/status/2124327639351758890
 
-You know what happens next. https://t.co/RLI1U7KCwm
+## 2026-11-22 02:58 UTC · ответ
 
-❤ 111 · 🔁 7 · 💬 28 · цитат 0 · просмотров 14907  
-https://x.com/CryptoWendyO/status/2123925679880503327
+@MaurizioACM They just abused the most centralized parts
 
-## 2026-11-21 00:09 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 193  
+https://x.com/CryptoWendyO/status/2124336780845748363
 
-@CryptoEmpressX I’m sure they will and tbh with the anti crypto army in control
+## 2026-11-22 03:12 UTC · пост
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 415  
-https://x.com/CryptoWendyO/status/2123931678657888765
+I’m short 
 
-## 2026-11-21 02:10 UTC · пост
+$2.69 in profit 
 
-Worst day of a parents life is when their children are hurt 
+I’m not the main character the first time since 2018 
 
-People that hurt children deserve no mercy
+Life is good 
 
-❤ 311 · 🔁 8 · 💬 35 · цитат 0 · просмотров 10761  
-https://x.com/CryptoWendyO/status/2123962128411537612
+HIGHER https://t.co/QSruwPP3Fw
 
-## 2026-11-21 02:16 UTC · ответ
+❤ 174 · 🔁 4 · 💬 29 · цитат 0 · просмотров 6683  
+https://x.com/CryptoWendyO/status/2124340089123684811
 
-@CaliCrypto714 Yeah I’m livid
+## 2026-11-22 03:16 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 192  
-https://x.com/CryptoWendyO/status/2123963732699353342
+@saint_jawn_ It is and I love this place
 
-## 2026-11-21 02:16 UTC · ответ
-
-@junlojunlo Because people are gross
-
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 220  
-https://x.com/CryptoWendyO/status/2123963790199001114
-
-## 2026-11-21 02:17 UTC · ответ
-
-@FatNostril Yep. Worst day ever
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 222  
-https://x.com/CryptoWendyO/status/2123963870121447621
-
-## 2026-11-21 03:14 UTC · пост
-
-Goodnight to all the parents who run red lights to get to their babies. https://t.co/2CXLVEc2RI
-
-❤ 270 · 🔁 2 · 💬 45 · цитат 0 · просмотров 7528  
-https://x.com/CryptoWendyO/status/2123978204511691006
-
-## 2026-11-21 03:25 UTC · ответ
-
-@DWorc Obama was one of them 
-
-Weird considering many things
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 196  
-https://x.com/CryptoWendyO/status/2123981215346950608
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 190  
+https://x.com/CryptoWendyO/status/2124341260391768281
