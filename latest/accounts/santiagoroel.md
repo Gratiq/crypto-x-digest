@@ -1,33 +1,19 @@
-# @santiagoroel — посты за 2026-11-22
+# @santiagoroel — посты за 2026-11-23
 
-Всего: 4
+Всего: 2
 
-## 2026-11-21 12:35 UTC · репост
+## 2026-11-22 10:12 UTC · пост
 
-RT @Kaiz_294: Santiago Roel Santos picks SpaceX as the one AI stock he feels comfortable holding after trimming memory losses
+"if you can't tell whose side someone is on, they're not on yours." – buffett, 2002 letter
 
-“I will say…
+❤ 2217 · 🔁 251 · 💬 19 · цитат 10 · просмотров 41143  
+https://x.com/santiagoroel/status/2124445887355117600
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1421  
-https://x.com/santiagoroel/status/2124119407815245924
+## 2026-11-22 17:36 UTC · репост
 
-## 2026-11-21 16:35 UTC · репост
+RT @WordsnWisdom26: "Most people die at 27. We just bury them at 72.
 
-RT @QCompounding: "You shouldn't own stocks if a 50% drop in their value in a short period of time would cause you acute distress. No one c…
+— Mark Twain
 
-❤ 0 · 🔁 27 · 💬 0 · цитат 0 · просмотров 1342  
-https://x.com/santiagoroel/status/2124179929034097128
-
-## 2026-11-21 20:43 UTC · ответ
-
-@QwQiao @blknoiz06 +1
-
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 671  
-https://x.com/santiagoroel/status/2124242370111676885
-
-## 2026-11-21 21:45 UTC · цитата
-
-I think the trend continues as AI accelerates the pace of disruption https://t.co/Ieq7VeirSX
-
-❤ 9 · 🔁 0 · 💬 3 · цитат 0 · просмотров 4047  
-https://x.com/santiagoroel/status/2124257807075811638
+❤ 0 · 🔁 1362 · 💬 0 · цитат 0 · просмотров 1429  
+https://x.com/santiagoroel/status/2124557754253574428

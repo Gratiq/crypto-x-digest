@@ -1,10 +1,10 @@
-# @EvgenyGaevoy — посты за 2026-11-22
+# @EvgenyGaevoy — посты за 2026-11-23
 
 Всего: 1
 
-## 2026-11-21 22:35 UTC · ответ
+## 2026-11-22 22:55 UTC · репост
 
-@cmsholdings bar is not exactly high there lmao
+RT @drwconvexity: This is an epic fail by Netflix. Recasting this as something @SBF_FTX and Caroline were forced to do in order to placate…
 
-❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1059  
-https://x.com/EvgenyGaevoy/status/2124270568698520060
+❤ 0 · 🔁 44 · 💬 0 · цитат 0 · просмотров 1191  
+https://x.com/EvgenyGaevoy/status/2124638039594967395

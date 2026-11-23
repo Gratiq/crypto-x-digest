@@ -1,33 +1,42 @@
-# @NotChaseColeman — посты за 2026-11-22
+# @NotChaseColeman — посты за 2026-11-23
 
-Всего: 4
+Всего: 5
 
-## 2026-11-22 01:13 UTC · репост
+## 2026-11-22 18:36 UTC · ответ
 
-RT @LynAldenContact: Bitcoin is dead right now. It fell 56%.
+@tigerfoos Gahhhhhhhhhhhhh https://t.co/Kg4rwoQL66
 
-Let's check back in 2-3 years during the next rising liquidity cycle and PMI…
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 100  
+https://x.com/NotChaseColeman/status/2124572828695777296
 
-❤ 0 · 🔁 1332 · 💬 0 · цитат 0 · просмотров 460  
-https://x.com/NotChaseColeman/status/2124310254032740486
+## 2026-11-22 19:50 UTC · ответ
 
-## 2026-11-22 01:13 UTC · цитата
+@Palgrani2 They have one lol
 
-Bottom https://t.co/14P6NsXRG3
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 290  
+https://x.com/NotChaseColeman/status/2124591417762676868
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 962  
-https://x.com/NotChaseColeman/status/2124310338812178439
+## 2026-11-22 23:35 UTC · ответ
 
-## 2026-11-22 04:34 UTC · репост
+@dollargamma https://t.co/tG5DgAnxiC
 
-RT @nicodotfun: See you guys at the top in ~1000 days https://t.co/R9DoLc7xXq
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 60  
+https://x.com/NotChaseColeman/status/2124648011686953425
 
-❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 509  
-https://x.com/NotChaseColeman/status/2124360743998877912
+## 2026-11-23 00:37 UTC · репост
 
-## 2026-11-22 05:30 UTC · репост
+RT @investujem: bro elon catalyst soon bro you have to believe me https://t.co/96nmFZuiEn
 
-RT @idofentanyl: Hahah you had some hope nigga didnt you
+❤ 0 · 🔁 38 · 💬 0 · цитат 0 · просмотров 527  
+https://x.com/NotChaseColeman/status/2124663708874100951
 
-❤ 0 · 🔁 531 · 💬 0 · цитат 0 · просмотров 442  
-https://x.com/NotChaseColeman/status/2124375010974544063
+## 2026-11-23 00:38 UTC · репост
+
+RT @gajria: Prediction: We won’t have UBI. We’ll have UCI.
+
+(universal credit income, or whatever else it might be called)
+
+Assuming labour…
+
+❤ 0 · 🔁 287 · 💬 0 · цитат 0 · просмотров 448  
+https://x.com/NotChaseColeman/status/2124663786472632750

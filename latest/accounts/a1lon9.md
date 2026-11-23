@@ -1,24 +1,23 @@
-# @a1lon9 — посты за 2026-11-22
+# @a1lon9 — посты за 2026-11-23
 
 Всего: 2
 
-## 2026-11-21 18:29 UTC · репост
+## 2026-11-22 19:39 UTC · репост
 
-RT @Pumpfun: Mantle is live on the Pumpfun app
+RT @Pumpfun: MORE Perps upgrades on the Pumpfun app!
 
-Trade and callout tokens in the Mantle ecosystem to earn Callout Rewards
+- Social lines: see other traders entries, TP/SL and liquidations
+- Bubbles: see buys…
 
-Welcome to the Pu…
+❤ 0 · 🔁 35 · 💬 0 · цитат 0 · просмотров 11610  
+https://x.com/a1lon9/status/2124588668472230138
 
-❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 11281  
-https://x.com/a1lon9/status/2124208709845045374
+## 2026-11-22 23:21 UTC · репост
 
-## 2026-11-21 21:17 UTC · репост
+RT @HorinekPM: In the last five days, @Pumpfun callers earned over $74k on Base tokens
 
-RT @Pumpfun: New perps execution tools on the Pumpfun app!
+Base Boost on callout rewards work by: 
+- Pump look…
 
-- TWAP: break big orders into small fills over time
-- Stack limit orders: multi…
-
-❤ 0 · 🔁 27 · 💬 0 · цитат 0 · просмотров 11032  
-https://x.com/a1lon9/status/2124250969961578706
+❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 17000  
+https://x.com/a1lon9/status/2124644413041266949

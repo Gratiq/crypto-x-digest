@@ -1,0 +1,62 @@
+[
+ {
+  "id": "2124536253895024999",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-22T16:11:29.000Z",
+  "text": "@thePalenimbus 💯",
+  "url": "https://x.com/hosseeb/status/2124536253895024999",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 145,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124304226025164922",
+   "text": "@hosseeb Spot on man. It’s so easy to come into this and be like nooo they made a mockery of my subculture and you just don’t get it!!! But then you take a step back and you’re like huh yeah I guess pop hollywood has always flattened and showed no nuance and usually told a story biased to"
+  }
+ },
+ {
+  "id": "2124542257286324263",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-22T16:35:20.000Z",
+  "text": "More precisely, AI labs underestimated the rate of intelligence growth, and simultaneously overestimated the rate of social and economic change. https://t.co/2JYHL95ZfO",
+  "url": "https://x.com/hosseeb/status/2124542257286324263",
+  "likes": 149,
+  "retweets": 11,
+  "replies": 21,
+  "quotes": 1,
+  "impressions": 10373,
+  "bookmarks": 20,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124269760800334112",
+   "text": "the most aggressive predictions of ai progress from ai lab executives have been wrong, in the direction of being somewhat too conservative"
+  }
+ },
+ {
+  "id": "2124575946024038833",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-22T18:49:12.000Z",
+  "text": "RT @WuBlockchain: Haseeb: Zcash Is Insurance for Bitcoin\n\nIn a When Shift Happens podcast @KevinWSHPod aired November 12, 2026, Dragonfly m…",
+  "url": "https://x.com/hosseeb/status/2124575946024038833",
+  "likes": 0,
+  "retweets": 13,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1452,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124563570138730529",
+   "text": "Haseeb: Zcash Is Insurance for Bitcoin\n\nIn a When Shift Happens podcast @KevinWSHPod aired November 12, 2026, Dragonfly managing partner Haseeb @hosseeb called Zcash insurance for Bitcoin. He noted that OpenAI needs only four hours to produce a math research result, and has now https://t.co/aullEOgn0k"
+  }
+ }
+]

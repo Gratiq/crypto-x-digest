@@ -1,100 +1,98 @@
-# @AshCrypto — посты за 2026-11-22
+# @AshCrypto — посты за 2026-11-23
 
-Всего: 8
+Всего: 11
 
-## 2026-11-21 09:33 UTC · пост
+## 2026-11-22 08:01 UTC · пост
 
-Bitcoin bottomed around major Nasdaq corrections in 2018 and 2022.
+BREAKING: 🇷🇺 Retail investors in Russia can now legally trade $BTC, $ETH, and $USDT on approved exchanges under new rules.
 
-Now we're seeing a similar pattern in 2026. https://t.co/UvIsUCwj7z
+US needs to pass the Crypto CLARITY asap!! https://t.co/OBOYp4mBNL
 
-❤ 945 · 🔁 92 · 💬 138 · цитат 7 · просмотров 90102  
-https://x.com/AshCrypto/status/2124073778745618573
+❤ 1569 · 🔁 165 · 💬 124 · цитат 11 · просмотров 84915  
+https://x.com/AshCrypto/status/2124413006906007956
 
-## 2026-11-21 11:38 UTC · пост
+## 2026-11-22 09:18 UTC · пост
 
-This is absolutely wild.
+Bitcoin is showing a bullish divergence on the weekly chart. https://t.co/Oso7vW9LJB
 
-Crypto Fear &amp; Greed Index is now at 6. 
+❤ 1500 · 🔁 149 · 💬 163 · цитат 13 · просмотров 94939  
+https://x.com/AshCrypto/status/2124432245918462019
 
-This is lower than:
+## 2026-11-22 10:00 UTC · пост
 
-- 2025 tariffs crash
-- 2020 Covid crash
-- FTX and Luna crash https://t.co/hGQJjJb0gP
+Sunday pump is here https://t.co/MXeTaqfu1h
 
-❤ 3089 · 🔁 327 · 💬 192 · цитат 45 · просмотров 148226  
-https://x.com/AshCrypto/status/2124105188323824053
+❤ 3008 · 🔁 252 · 💬 283 · цитат 23 · просмотров 111687  
+https://x.com/AshCrypto/status/2124442855771136105
 
-## 2026-11-21 13:10 UTC · пост
+## 2026-11-22 11:14 UTC · пост
 
-BULLS ARE FIGHTING BACK!!
+🐳 An institution bought $1 BILLION worth of $BTC.
 
-Bitcoin is up 7% from its low of $55,130 reclaiming $59,000.
+Whales are going all in on the dip. https://t.co/gpYfzEbcKA
 
-Ethereum is back above $1,650.  
+❤ 2621 · 🔁 264 · 💬 178 · цитат 27 · просмотров 125268  
+https://x.com/AshCrypto/status/2124461417390907536
 
-$50 Million in shorts liquidated in 30 minutes. https://t.co/Qk1k36OUAV
+## 2026-11-22 12:50 UTC · пост
 
-❤ 2407 · 🔁 239 · 💬 237 · цитат 21 · просмотров 116031  
-https://x.com/AshCrypto/status/2124128225173639404
+4 YEAR CYCLE STRIKES AGAIN. https://t.co/wnKpj0ABGh
 
-## 2026-11-21 13:43 UTC · пост
+❤ 1471 · 🔁 124 · 💬 109 · цитат 7 · просмотров 140474  
+https://x.com/AshCrypto/status/2124485781528186989
 
-Insane reversal.
+## 2026-11-22 13:12 UTC · ответ
 
-Bitcoin has reclaimed $60k 
-ETH is back above $1,700 
+@joelcomm 🫡
 
-$120 million shorts liquidated in 1 hour.
+❤ 5 · 🔁 1 · 💬 2 · цитат 0 · просмотров 3725  
+https://x.com/AshCrypto/status/2124491302079545518
 
-Manifesting that $55k was the bottom. https://t.co/0W6sVqLCYR
+## 2026-11-22 13:23 UTC · пост
 
-❤ 3254 · 🔁 283 · 💬 328 · цитат 27 · просмотров 152967  
-https://x.com/AshCrypto/status/2124136730148393227
+Michael Saylor just posted "The dots aren’t done." https://t.co/eZd9zrYsgP
 
-## 2026-11-21 15:39 UTC · пост
+❤ 1109 · 🔁 75 · 💬 113 · цитат 1 · просмотров 80415  
+https://x.com/AshCrypto/status/2124494054734049589
 
-3 things I have never seen in my life:
+## 2026-11-22 15:19 UTC · пост
 
-- Profits from crypto
-- An honest politician 
-- Ethereum foundation buying ETH
+Crypto since we got our first pro-crypto president:
 
-❤ 1829 · 🔁 108 · 💬 138 · цитат 6 · просмотров 91859  
-https://x.com/AshCrypto/status/2124165901716992083
+$BTC -40%  
+$ETH -48%  
+$LTC -66%  
+$XRP -70%  
+$SOL -71%  
+$DOGE -84%  
+$ADA -86%
 
-## 2026-11-21 19:26 UTC · пост
+❤ 1144 · 🔁 97 · 💬 147 · цитат 10 · просмотров 90444  
+https://x.com/AshCrypto/status/2124523105951637760
 
-Exactly 4 years ago on this date, Bitcoin formed its cycle bottom.
+## 2026-11-22 16:33 UTC · пост
 
-Today, Bitcoin dropped to a new cycle low of $55,150.
+Only this kind of bull run can heal us now https://t.co/SQ5g9CsRSV
 
-What if we have bottomed? https://t.co/kpSSunjqV7
+❤ 1846 · 🔁 135 · 💬 215 · цитат 15 · просмотров 105452  
+https://x.com/AshCrypto/status/2124541905216348541
 
-❤ 1547 · 🔁 160 · 💬 179 · цитат 16 · просмотров 93239  
-https://x.com/AshCrypto/status/2124222989331812416
+## 2026-11-22 19:17 UTC · пост
 
-## 2026-11-21 22:01 UTC · пост
+The plan was simple.
 
-We will get through this bear market.
+Get rich in crypto and help the poor.
 
-We will be rich in the next bull run.
+Somehow we became the poor.
 
-We will retire our families.
+❤ 2892 · 🔁 181 · 💬 250 · цитат 20 · просмотров 106750  
+https://x.com/AshCrypto/status/2124583060264128819
 
-WE WILL NOT GIVE UP.
+## 2026-11-23 03:52 UTC · пост
 
-❤ 1228 · 🔁 78 · 💬 154 · цитат 9 · просмотров 64763  
-https://x.com/AshCrypto/status/2124261917112119337
+🚨BREAKING: BlackRock and other ETFs sold $1.79 Billion worth of Bitcoin last week.
 
-## 2026-11-22 06:49 UTC · пост
+Largest weekly outflow in 21 weeks. https://t.co/CVs2jcw4qe
 
-I’m 30 years old with no job, no savings, no hair, no PS5, no social life and no sleep schedule.
-
-All I have is crypto and its down -90% 
-
-Anyway, good morning.
-
-❤ 562 · 🔁 37 · 💬 123 · цитат 5 · просмотров 36828  
-https://x.com/AshCrypto/status/2124394908937273396
+❤ 683 · 🔁 67 · 💬 122 · цитат 6 · просмотров 57526  
+https://x.com/AshCrypto/status/2124712766183485842

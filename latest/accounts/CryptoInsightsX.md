@@ -1,24 +1,31 @@
-# @CryptoInsightsX — посты за 2026-11-22
+# @CryptoInsightsX — посты за 2026-11-23
 
 Всего: 2
 
-## 2026-11-21 07:31 UTC · ответ
-
-@LFWallet 🔥🔥
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 86  
-https://x.com/CryptoInsightsX/status/2124043080819192023
-
-## 2026-11-21 11:00 UTC · цитата
+## 2026-11-22 12:39 UTC · цитата
 
 Daily Market Overview: EXTREME FEAR
-Nov 21, 2026
+Nov 22, 2026
 
- #BTC price trades around $57K 
-
-In the past 24 hours, 357,496 traders(89.3% Long) liquidated. Total liquidations were $2.54B
+ #BTC price trades around $60K 
  
-#CryptoNews #Crypto bitcoin:native https://t.co/PdyYtqSvxq https://t.co/kVqcLWgjlD
+In the past 24 hours, 72,391 traders(80.0% Short) liquidated. Total liquidations were $425.45M.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 163  
-https://x.com/CryptoInsightsX/status/2124095488509276322
+#CryptoNews #Crypto bitcoin:native https://t.co/EfcZR0b2O4 https://t.co/nTKUgBtQuM
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 1 · просмотров 211  
+https://x.com/CryptoInsightsX/status/2124482911273726008
+
+## 2026-11-23 05:53 UTC · цитата
+
+Daily Market Overview: EXTREME FEAR
+Nov 23, 2026
+
+ #BTC price trades around $61K 
+ 
+In the past 24 hours, 69,980 traders(79.6% Short) liquidated. Total liquidations were $292.56M.
+
+#CryptoNews #Crypto bitcoin:native https://t.co/5bjpwu7vEP https://t.co/IGgliEKBpz
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 68  
+https://x.com/CryptoInsightsX/status/2124743065227464795

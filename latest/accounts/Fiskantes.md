@@ -1,193 +1,356 @@
-# @Fiskantes — посты за 2026-11-22
+# @Fiskantes — посты за 2026-11-23
 
-Всего: 22
+Всего: 37
 
-## 2026-11-21 08:15 UTC · ответ
+## 2026-11-22 08:50 UTC · ответ
 
-@TrustlessState https://t.co/AIEUVCA0DT
+@NFTherder time to finish the second end of the rainbow
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 327  
-https://x.com/Fiskantes/status/2124054195305349235
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 495  
+https://x.com/Fiskantes/status/2124425221843140794
 
-## 2026-11-21 08:21 UTC · цитата
+## 2026-11-22 11:05 UTC · пост
 
-"You don’t need to invent a villain when the story already has one."
+State of crypto in the changing world
 
-Unless the villain gave you lot of money and you want to help him out so you fund a show to help his reputation in the faces of mainstream mass https://t.co/Qi6L2EuQ0F
+Think in next few years tech stocks and crypto sort of correlate high level, but it's hard for me to see crypto outperforming
 
-❤ 61 · 🔁 4 · 💬 1 · цитат 0 · просмотров 6259  
-https://x.com/Fiskantes/status/2124055576225501540
+Crypto majors (BTC, ETH, SOL) - still too expensive/big, marginal buyers need to come from TradFi, DATs are exhausted and played out, ETFs exist but its hard for TradFi to be excited when we have AI stealing headlines and robotics + space exploration as next big tech topics
 
-## 2026-11-21 13:20 UTC · цитата
+Crypto mid caps - definitely some alpha in here, but also lot of worthless trash that still hasn't fully died yet, I don't expect systematic outperformance here, but good selection based on fundamental analysis and sound thesis + conviction can go a long way 
 
-Very accurate
+Small caps - lots and lots of trash, ocassional pearl in the dust, super hard to find or allocate with reasonable size, but probably ok to create a "liquid VC portfolio" out of these, the same caveats about deep research that I made above apply 
 
-Thanks for the draw baskitch and thanks @beniduboss for commissioning
+Trenches, memes, ponzi games etc - well good luck out there, I used to be good at this and ocassionally play, but it's not my turf anymore
 
-This brings out the nostalgia out of me for simpler times when all we'd care about are expensive cartoon pfps
+== High level I think crypto traders and investors have 2 choices
 
-Truly a golden age we are never getting back https://t.co/WXeKsPS2I4
+1. All in crypto: 
+Commit and go deep in crypto, become THE crypto expert and insider, if you are small fish pick a lane / crypto niche and become the best at this, get hired by some big player who needs your expertise or simply build up your book.
 
-❤ 13 · 🔁 1 · 💬 4 · цитат 0 · просмотров 2048  
-https://x.com/Fiskantes/status/2124130752983908560
+If you are bigger fish and want to focus fully on crypto, then do deep research, form thesis and build a core portfolio, then play actively around it with part of your book, try to be early in all new trends, experiment, branch out into RWAs and preserve some dry powder in market neutral/yield opps
 
-## 2026-11-21 13:28 UTC · цитата
+2. Branch out:
+Diversify out of crypto (not necessary to bridge into TradFi, RWAs are coming on-chain)...identify new trends where you think you have conviction (usually coincides with passion) and try to ride them together with your crypto bags. 
 
-The real cuck simulator
+Esp if you are veteran/bigger fish, it pays to take your learnings from crypto cycles, hype and bust psychology around new tech trends, narrative rotation etc, and try to apply elsewhere
 
-and we didn't even have to wait 13 years https://t.co/BzLLtxP8cT
+Many stocks trade like memecoins and many tech trends are playing out similarly to crypto bubbles. It's not 1 to 1 and you need to learn a lot of new things and change your mindset in few key areas, but escaping your bubble is a great thing on its own, making you more robust as a human
 
-❤ 20 · 🔁 1 · 💬 2 · цитат 1 · просмотров 3012  
-https://x.com/Fiskantes/status/2124132905299636360
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 923  
+https://x.com/Fiskantes/status/2124459290895237131
 
-## 2026-11-21 13:32 UTC · пост
+## 2026-11-22 11:07 UTC · пост
 
-Still coming to grips with the fact crypto is not the most entertaining industry anymore. 
+State of crypto in the changing world
 
-In markets like these I was always telling to myself that at least we have more fun than anyone else
+Think in next few years tech stocks and crypto sort of correlate high level, but it's hard for me to see crypto outperforming
 
-But since about a year or two ago we are left way behind in the dust 
+Crypto majors (BTC, ETH, SOL) - still too expensive/big, marginal buyers need to come from TradFi, DATs are exhausted and played out, ETFs exist but its hard for TradFi to be excited when we have AI stealing headlines and robotics, biotech, space exploration as potentially next big tech topics
 
-Crypto has nothing on Dario, SamA, Jensen, Musk, Trump, AI memes etc...
+Crypto mid caps - definitely some alpha in here, but also lot of worthless trash that still hasn't fully died yet, I don't expect systematic outperformance here, but good selection based on fundamental analysis and sound thesis + conviction can go a long way 
 
-Who you gonna meme about in crypto? Washed Saylor and his boomer AI clips? Or CZ for hundredth time?
+Small caps - lots and lots of trash, ocassional pearl in the dust, super hard to find or allocate with reasonable size, but probably ok to create a "liquid VC portfolio" out of these, the same caveats about deep research that I made above apply 
 
-❤ 91 · 🔁 1 · 💬 15 · цитат 0 · просмотров 7494  
-https://x.com/Fiskantes/status/2124133819238244725
+Trenches, memes, ponzi games etc - well good luck out there, I used to be good at this and ocassionally play, but it's not my turf anymore
 
-## 2026-11-21 16:07 UTC · цитата
+== High level I think crypto traders and investors have 2 choices
 
-@0xCardiE I only play one game these days
+1. All in crypto: 
+Commit and go deep in crypto, become THE crypto expert and insider, if you are small fish pick a lane / crypto niche and become the best at this, get hired by some big player who needs your expertise or simply build up your book.
 
-https://t.co/FYpyO5OcYy
+If you are bigger fish and want to focus fully on crypto, then do deep research, form thesis and build a core portfolio, then play actively around it with part of your book, try to be early in all new trends, experiment, branch out into RWAs and preserve some dry powder in market neutral/yield opps
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 40  
-https://x.com/Fiskantes/status/2124172975972786509
+2. Branch out:
+Diversify out of crypto (not necessary to bridge into TradFi, RWAs are coming on-chain)...identify new trends where you think you have conviction (usually coincides with passion) and try to ride them together with your crypto bags. 
 
-## 2026-11-21 16:09 UTC · ответ
+Esp if you are veteran/bigger fish, it pays to take your learnings from crypto cycles, hype and bust psychology around new tech trends, narrative rotation etc, and try to apply elsewhere
 
-@QwQiao 0 cap gain tax havers in belief https://t.co/Ud4eEeGzHD
+Many stocks trade like memecoins and many tech trends are playing out similarly to crypto bubbles. It's not 1 to 1 and you need to learn a lot of new things and change your mindset in few key areas, but escaping your bubble is a great thing on its own, making you more robust as a human
 
-❤ 14 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1862  
-https://x.com/Fiskantes/status/2124173480690069735
+❤ 131 · 🔁 9 · 💬 22 · цитат 0 · просмотров 10787  
+https://x.com/Fiskantes/status/2124459714939429348
 
-## 2026-11-21 16:12 UTC · пост
+## 2026-11-22 12:06 UTC · пост
 
-Seems like chuds and incels don't like GTA 6 because some Lucia lore and sidequests make it a "cuck simulator" 
+If you are in crypto 
 
-I would expect they never had a bossy latina girlfriend (or any girlfriend for that matter) so they'd appreciate this simulated experience?
+1. for ideological reasons - sovereign money, financial sovereignty, privacy, free open permissionless markets, decentralisation, death of fiat/hyperbitcoinisation 
 
-❤ 21 · 🔁 0 · 💬 10 · цитат 0 · просмотров 3192  
-https://x.com/Fiskantes/status/2124174211136573801
+- mute your expectations, its not all pretty, but I do believe some of these ideals are still yet to shine
 
-## 2026-11-21 16:44 UTC · ответ
+2. for cutting edge growth/tech innovation reasons 
 
-Those are optional sidequests  
+- unfortunately crypto is no longer THE cutting edge tech story (biotech, AI, robotics), it's becoming a slow productive adoption grind with integration into TradFi and some casinos + ideological pockets in the edges...silver lining some pockets of crypto tech will participate in these new themes via capital formation
 
-Not like going to gym to click mouse button really fast to get buff in GTA San Andreas was fun  
+3. getting to fast 100x, playing casino games with friends etc
 
-Or driving girlfriends from their home to restaurants and back in GTA IV, that was meh too
+- don't expect to make easy money, but you can still have fun with a 1% chance of making it
 
-In GTA V your initial storyline was that of a literal cuck whose kids hate him and wife cheats with a PT, that wasn't a cuck simulator?
+4. to use the tech in a constructive way as the new fintech infra for your startup / financial product idea
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 118  
-https://x.com/Fiskantes/status/2124182183698944417
+- it's going to get better and better from here, godspeed
 
-## 2026-11-21 17:00 UTC · ответ
+❤ 229 · 🔁 17 · 💬 24 · цитат 5 · просмотров 21193  
+https://x.com/Fiskantes/status/2124474671445725582
 
-Well if you don't wanna be a cuck (= have a good relationship with Lucia) you shouldn't care about that ending no? :D
+## 2026-11-22 12:13 UTC · пост
 
-Anyway, idk if its actually fun or good story, haven't played, but all I see is crying "omg the game makes do chores and boring relationship sidequests" like its the only GTA game that ever done anything like it
+Can't believe we all made it and then we all un-made it
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 62  
-https://x.com/Fiskantes/status/2124186307668709478
+❤ 58 · 🔁 2 · 💬 9 · цитат 0 · просмотров 5253  
+https://x.com/Fiskantes/status/2124476309233365029
 
-## 2026-11-21 17:03 UTC · цитата
+## 2026-11-22 12:52 UTC · пост
 
-Auki thesis:
+Breaking: Jensen Huang would allegedly go around the office anytime he bought a new leather jacket and mansplain to female staff about its leather origin, properties and hardware, price, how it was made, how long it takes to break it in
 
-Retail stores are a strategy game
+He would then walk away waving his arms flamboyantly, making leathery squishy noises with the sleeves and leaving a strong leathery scent behind him
 
-Bots will learn to play it better than humans https://t.co/zuktQY4bQD
+❤ 31 · 🔁 1 · 💬 8 · цитат 1 · просмотров 5475  
+https://x.com/Fiskantes/status/2124486125666402601
 
-❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2306  
-https://x.com/Fiskantes/status/2124187043702186166
+## 2026-11-22 12:54 UTC · ответ
 
-## 2026-11-21 17:27 UTC · ответ
+@denkata "living off crypto for 5 years"
 
-@DarkceiD Why do you feel so emotional about a videogame
+yup, many such cases (and one of the reason ETH underperforms since then)
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 66  
-https://x.com/Fiskantes/status/2124192986343133383
+❤ 17 · 🔁 2 · 💬 2 · цитат 2 · просмотров 16467  
+https://x.com/Fiskantes/status/2124486751364542750
 
-## 2026-11-21 17:28 UTC · цитата
+## 2026-11-22 16:44 UTC · ответ
 
-Cuck simulators for everyone https://t.co/BvCdW9p47u
+@DegenMack Shinki hide please
 
-❤ 18 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2850  
-https://x.com/Fiskantes/status/2124193228911997009
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 159  
+https://x.com/Fiskantes/status/2124544500131348827
 
-## 2026-11-21 17:45 UTC · цитата
+## 2026-11-22 16:49 UTC · цитата
 
-Maybe we can turn this around if we just get enough GenZers and GenXers to do Lucia's chores https://t.co/EsHWDM9kMR
+It's actually quite underrated how many people ETH and Ethereum DeFi retired (at least for few years) between 2016 and 2021
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 731  
-https://x.com/Fiskantes/status/2124197566900535433
+We see the inertia on-chain, lot of capital is idly sitting in Ethereum DeFi smart contracts (some basically abandoned) doing fk all earning miserable yield while exposed to increased exploit risks and tech debt
 
-## 2026-11-21 17:46 UTC · цитата
+Golem still has hundreds of thousands of ETH since their ICO, and there is lot of other failed entities on a smaller scale, just chilling, selling here and there to fund their lifestyles...and lot of individual whales doing the same
 
-Maybe we can turn this around if we just get enough GenZers and GenXers to grow up and do Lucia's chore-quests around the house https://t.co/EsHWDM9kMR
+Thinking about vibecoding a dashboard that would estimate the TVL of these types of entities based on their on-chain activity and the rate of distribution
 
-❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2203  
-https://x.com/Fiskantes/status/2124197760954208259
+❤ 155 · 🔁 3 · 💬 17 · цитат 0 · просмотров 16066  
+https://x.com/Fiskantes/status/2124545940400771204
 
-## 2026-11-21 20:20 UTC · ответ
+## 2026-11-22 17:01 UTC · репост
 
-@beniduboss You never have to raise money again yay
+RT @blknoiz06: how much has ai improved your life over past 5 years on a scale from 1 to 10
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 232  
-https://x.com/Fiskantes/status/2124236656001909058
+❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 378  
+https://x.com/Fiskantes/status/2124548931975528456
 
-## 2026-11-21 20:34 UTC · ответ
+## 2026-11-22 17:02 UTC · пост
 
-@noBScrypto Nothing broke, you just need to draw the rest of the rainbow
+how much has crypto improved your life over past 5 years on a scale from 1 to 10
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 527  
-https://x.com/Fiskantes/status/2124239981224829078
+❤ 56 · 🔁 3 · 💬 29 · цитат 3 · просмотров 14092  
+https://x.com/Fiskantes/status/2124549116323877322
 
-## 2026-11-21 23:20 UTC · ответ
+## 2026-11-22 17:04 UTC · пост
 
-@based16z Sounds like something only a woke male feminist cuck would do
+alright lets do this https://t.co/3QimfnZZk2
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 345  
-https://x.com/Fiskantes/status/2124281890337140851
+❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 5832  
+https://x.com/Fiskantes/status/2124549506490585468
 
-## 2026-11-22 00:14 UTC · репост
+## 2026-11-22 17:04 UTC · цитата
 
-RT @Auki: "Physical AI has to be more than a motor cortex. We want AI to help us run our physical businesses. Why shouldn't the physical AI…
+Je suis Jensen https://t.co/fCz3hsfbXe https://t.co/d4wOhTxnQU
 
-❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 541  
-https://x.com/Fiskantes/status/2124295443211542694
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2398  
+https://x.com/Fiskantes/status/2124549655661101490
 
-## 2026-11-22 00:34 UTC · пост
+## 2026-11-22 17:08 UTC · пост
 
-BREAKING: Jensen Huang allegedly grabbed employees forearms and started frantically slapping said employees face with his own palms while mockingly exclaiming "stop beating yourself, stop beating yourself!"
+If crypto significantly improved your life in past 5 yeas its mostly because it
 
--New York Times
+1. offered products and services that are very useful to me 
 
-❤ 31 · 🔁 0 · 💬 0 · цитат 1 · просмотров 3025  
-https://x.com/Fiskantes/status/2124300487965171973
+2. made me money by speculation investing / trading it
 
-## 2026-11-22 00:38 UTC · цитата
+❤ 10 · 🔁 3 · 💬 7 · цитат 1 · просмотров 3643  
+https://x.com/Fiskantes/status/2124550620162232334
 
-tfw you bought the dip last week https://t.co/IzHuLPMjmN
+## 2026-11-22 17:09 UTC · цитата
 
-❤ 7 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1810  
-https://x.com/Fiskantes/status/2124301439434478039
+related:
 
-## 2026-11-22 01:53 UTC · пост
+https://t.co/7Wiytc8j4y
 
-BTC rainbow chart guys need to draw the rest of it https://t.co/PE8fnfz4rq
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 730  
+https://x.com/Fiskantes/status/2124550824315781334
 
-❤ 19 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1607  
-https://x.com/Fiskantes/status/2124320224103080077
+## 2026-11-22 17:09 UTC · цитата
+
+related:
+
+https://t.co/SqXbv8VD86
+
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1024  
+https://x.com/Fiskantes/status/2124550871287845269
+
+## 2026-11-22 17:09 UTC · цитата
+
+@blknoiz06 related https://t.co/SICRGTVuso
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 274  
+https://x.com/Fiskantes/status/2124550937935237283
+
+## 2026-11-22 17:10 UTC · ответ
+
+@magicponzitoken That's by design, keeping low profile post ICO is good move by them
+
+❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 528  
+https://x.com/Fiskantes/status/2124551107057791259
+
+## 2026-11-22 17:19 UTC · ответ
+
+@CesareHail got nerfed after long sickness and no exercise, but we will run it back turbo
+
+thx for asking https://t.co/MOXhK9g5kP
+
+❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 112  
+https://x.com/Fiskantes/status/2124553335902732400
+
+## 2026-11-22 17:21 UTC · ответ
+
+@CesareHail no homo
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 55  
+https://x.com/Fiskantes/status/2124553769778131215
+
+## 2026-11-22 17:28 UTC · цитата
+
+Jensen did nothing wrong
+
+He just drove value to shareholders https://t.co/714VTNWr01
+
+❤ 16 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2600  
+https://x.com/Fiskantes/status/2124555521072287946
+
+## 2026-11-22 17:30 UTC · цитата
+
+Godlike post, weather true or not https://t.co/OX1dCxujHy
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 733  
+https://x.com/Fiskantes/status/2124556180110356569
+
+## 2026-11-22 17:31 UTC · цитата
+
+Godlike post, true or not https://t.co/OX1dCxujHy
+
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 4152  
+https://x.com/Fiskantes/status/2124556284804452561
+
+## 2026-11-22 17:31 UTC · пост
+
+We do a little Sunday Jensen-posting and chill
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2671  
+https://x.com/Fiskantes/status/2124556356493423015
+
+## 2026-11-22 17:33 UTC · ответ
+
+@bloooner I don't blame you for not being able to withstand the intensity of my Jensen-posting
+
+Many such cases
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 47  
+https://x.com/Fiskantes/status/2124556805036810329
+
+## 2026-11-22 17:38 UTC · ответ
+
+@solodololoner14 @blknoiz06 There are always better choices and there is always something to live for, even if in the moment it doesn't look like it...and debt can be restructured
+
+Hang in there, it will get better, I promise
+
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 191  
+https://x.com/Fiskantes/status/2124558116318830703
+
+## 2026-11-22 17:44 UTC · пост
+
+"Hedge funds are shorting US financial stocks at the fastest pace in more than five years, per Goldman Sachs."
+
+So...an easy fade?
+
+❤ 17 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2828  
+https://x.com/Fiskantes/status/2124559584732057984
+
+## 2026-11-22 17:46 UTC · пост
+
+Wtf is claude docs
+
+generate me a gdoc or docx bih
+
+❤ 18 · 🔁 0 · 💬 5 · цитат 1 · просмотров 5005  
+https://x.com/Fiskantes/status/2124560084416245856
+
+## 2026-11-22 17:56 UTC · ответ
+
+@solodololoner14 @blknoiz06 Trust me, its solvable. Just don't do anything rash, take a break, zoom out and then talk to a debt restructuring advisor.
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 67  
+https://x.com/Fiskantes/status/2124562762130993169
+
+## 2026-11-22 18:00 UTC · ответ
+
+@metahacker_ fair enough, lets just say 1-3 is actually negative
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 206  
+https://x.com/Fiskantes/status/2124563769120477234
+
+## 2026-11-22 18:11 UTC · цитата
+
+ok nvm, its actually pretty cool https://t.co/vMpjBF3RT3
+
+❤ 12 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2846  
+https://x.com/Fiskantes/status/2124566416598642987
+
+## 2026-11-22 18:25 UTC · ответ
+
+otoh now Im asking to convert it to gdoc / docx and it sweats for 10 minutes already (maxed out Fable)
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 766  
+https://x.com/Fiskantes/status/2124570039500345835
+
+## 2026-11-22 19:00 UTC · ответ
+
+@ThinkingUSD @standuquesne
+
+❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2109  
+https://x.com/Fiskantes/status/2124578665728184366
+
+## 2026-11-22 19:24 UTC · ответ
+
+@tradebutwhy @CesareHail embarrassment is a type of motivation on its own
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 97  
+https://x.com/Fiskantes/status/2124584947143106695
+
+## 2026-11-22 21:59 UTC · пост
+
+Since about the 2000s its nerd's world, the rest of us are just living in it https://t.co/xHGNk9EhcS
+
+❤ 14 · 🔁 0 · 💬 4 · цитат 0 · просмотров 4024  
+https://x.com/Fiskantes/status/2124623843436245080
+
+## 2026-11-23 07:14 UTC · цитата
+
+many people asked about negative values https://t.co/v05i7VyRLW
+
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 632  
+https://x.com/Fiskantes/status/2124763493807063543
+
+## 2026-11-23 07:19 UTC · цитата
+
+Silicon Valley is the news Simpsons https://t.co/ulyuFhgz65
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 585  
+https://x.com/Fiskantes/status/2124764793357676978

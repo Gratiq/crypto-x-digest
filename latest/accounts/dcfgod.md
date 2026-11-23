@@ -1,34 +1,28 @@
-# @dcfgod — посты за 2026-11-22
+# @dcfgod — посты за 2026-11-23
 
 Всего: 3
 
-## 2026-11-21 14:09 UTC · цитата
+## 2026-11-22 19:03 UTC · репост
 
-If you’re in perps pivot to options https://t.co/qx7Uqc3o7c
+RT @tulipking: Deribit is a ~20x in fees from here, that said it feels very doable based solely on how well the Derive team is executing an…
 
-❤ 132 · 🔁 6 · 💬 8 · цитат 0 · просмотров 7384  
-https://x.com/dcfgod/status/2124143211283448092
+❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 1260  
+https://x.com/dcfgod/status/2124579476474638429
 
-## 2026-11-22 04:11 UTC · ответ
+## 2026-11-22 19:10 UTC · репост
 
-@eldarcap @ZachHumphries @DeriveXYZ Sure drv won’t get as big as hype but can it get as big as deribit? That’s multiples higher 
+RT @koolkrypto223: Lot of familiar names in blue 👀
 
-How about 1/10th the size of hype? That would still be more than 10x 
+$DRV $AERO $HYPE $LIT all considerably improved their ratios in the last 3 months.
 
-Gotta at least be worth 1 lighter no?
+Thi…
 
-It’s got 90% market share and growing
+❤ 0 · 🔁 40 · 💬 0 · цитат 0 · просмотров 1255  
+https://x.com/dcfgod/status/2124581400498340344
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 112  
-https://x.com/dcfgod/status/2124355096498885012
+## 2026-11-23 00:10 UTC · пост
 
-## 2026-11-22 04:13 UTC · ответ
+the ticker is 000660
 
-@coinmamba Real 
-
-Imagine if the space rewarded experimentation, new primitives, coins generating revenues 
-
-Instead of fixed supply pls don’t change anything pet rock
-
-❤ 6 · 🔁 1 · 💬 0 · цитат 0 · просмотров 554  
-https://x.com/dcfgod/status/2124355653724684787
+❤ 21 · 🔁 0 · 💬 7 · цитат 0 · просмотров 6334  
+https://x.com/dcfgod/status/2124656749995233658

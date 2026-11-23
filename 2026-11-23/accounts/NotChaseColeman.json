@@ -1,0 +1,102 @@
+[
+ {
+  "id": "2124572828695777296",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-22T18:36:49.000Z",
+  "text": "@tigerfoos Gahhhhhhhhhhhhh https://t.co/Kg4rwoQL66",
+  "url": "https://x.com/NotChaseColeman/status/2124572828695777296",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 100,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124480273903686019",
+   "text": "Amazon employees are working 12 hour shifts and pissing in bottles so he can do this btw. Fuck all billionaires https://t.co/IRNgEf8A8G"
+  }
+ },
+ {
+  "id": "2124591417762676868",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-22T19:50:41.000Z",
+  "text": "@Palgrani2 They have one lol",
+  "url": "https://x.com/NotChaseColeman/status/2124591417762676868",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 290,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124551493797724222",
+   "text": "can raydium cook up a launchpad https://t.co/8Db9L589WN"
+  }
+ },
+ {
+  "id": "2124648011686953425",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-22T23:35:34.000Z",
+  "text": "@dollargamma https://t.co/tG5DgAnxiC",
+  "url": "https://x.com/NotChaseColeman/status/2124648011686953425",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 60,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124647597868777819",
+   "text": "@NotChaseColeman Fuck your rage bait"
+  }
+ },
+ {
+  "id": "2124663708874100951",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-23T00:37:57.000Z",
+  "text": "RT @investujem: bro elon catalyst soon bro you have to believe me https://t.co/96nmFZuiEn",
+  "url": "https://x.com/NotChaseColeman/status/2124663708874100951",
+  "likes": 0,
+  "retweets": 38,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 527,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124625954442277359",
+   "text": "bro elon catalyst soon bro you have to believe me https://t.co/96nmFZuiEn https://t.co/L6YODofGp5"
+  }
+ },
+ {
+  "id": "2124663786472632750",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-23T00:38:15.000Z",
+  "text": "RT @gajria: Prediction: We won’t have UBI. We’ll have UCI.\n\n(universal credit income, or whatever else it might be called)\n\nAssuming labour…",
+  "url": "https://x.com/NotChaseColeman/status/2124663786472632750",
+  "likes": 0,
+  "retweets": 287,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 448,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2032255575539789829",
+   "text": "Prediction: We won’t have UBI. We’ll have UCI.\n\n(universal credit income, or whatever else it might be called)\n\nAssuming labour will cease to exist, governments will have to pay you money, for you to fulfill the consumption side of the economic equation. While everyone believes"
+  }
+ }
+]

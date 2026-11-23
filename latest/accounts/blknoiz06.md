@@ -1,782 +1,486 @@
-# @blknoiz06 — посты за 2026-11-22
+# @blknoiz06 — посты за 2026-11-23
 
-Всего: 104
+Всего: 64
 
-## 2026-11-21 10:15 UTC · пост
+## 2026-11-22 13:30 UTC · цитата
 
-back in 2024, i talked about one of the biggest mistakes i made during the previous cycle
+think these 3 [ $DRV, $VVV, $PEARL ] will be the least correlated to the broader market &amp; each have their own unique individual bull cases https://t.co/RdEnXhULiV https://t.co/gURmz92jZv
 
-i lost money in 2022 partly because i was spending hours every day staring at charts, completely consumed by crypto and neglecting my life outside the market
+❤ 537 · 🔁 22 · 💬 130 · цитат 11 · просмотров 159142  
+https://x.com/blknoiz06/status/2124495693930721430
 
-one thing i've learned is how important it is to maintain relationships and routines that have nothing to do with trading
+## 2026-11-22 13:35 UTC · цитата
 
-you can spend years building wealth in crypto, but you also need to build a life you can return to when it's time to step away from the screens
+$ZEC $HYPE $PUMP - [ZEHYPERPUMP] 
 
-❤ 1306 · 🔁 120 · 💬 339 · цитат 55 · просмотров 128166  
-https://x.com/blknoiz06/status/2124084365143732550
+all 3 also at high probability bounce spots, likely bottom Monday/Tuesday &amp; set the lows for November monthly into a green week
 
-## 2026-11-21 17:54 UTC · пост
+santa relief rally otw https://t.co/LHLBNFeSVv https://t.co/n5y6XwssWe
 
-feels like a bottom
+❤ 727 · 🔁 41 · 💬 117 · цитат 10 · просмотров 123264  
+https://x.com/blknoiz06/status/2124497063773872582
 
-❤ 2292 · 🔁 123 · 💬 683 · цитат 90 · просмотров 157104  
-https://x.com/blknoiz06/status/2124199708671217979
+## 2026-11-22 13:41 UTC · цитата
 
-## 2026-11-21 18:02 UTC · пост
+hello https://t.co/dHwdmCojY5
 
-gonna try to bid for a bounce this week
+❤ 628 · 🔁 18 · 💬 140 · цитат 2 · просмотров 90712  
+https://x.com/blknoiz06/status/2124498504143823025
 
-$DRV - options onchain picking up momentum with revenue inflecting up
+## 2026-11-22 13:41 UTC · ответ
 
-$VVV - ai breakout consumer app + privacy narrative with attention on anthropic ipo at 1/1000th price
+@bahubali_usd i never sold!
 
-$ZEC - retested key weekly support 700-750 &amp; prior all time high,
+❤ 34 · 🔁 0 · 💬 11 · цитат 1 · просмотров 7720  
+https://x.com/blknoiz06/status/2124498621358059968
 
-❤ 1046 · 🔁 71 · 💬 260 · цитат 30 · просмотров 130694  
-https://x.com/blknoiz06/status/2124201919153307945
+## 2026-11-22 13:42 UTC · пост
 
-## 2026-11-21 18:04 UTC · ответ
+&amp; if majors stop nuking -5% a day maybe we can have fun onchain again
 
-@0xvaidhik decent month on the pump app for the kid https://t.co/71QZznrY0c
+❤ 748 · 🔁 18 · 💬 209 · цитат 16 · просмотров 83316  
+https://x.com/blknoiz06/status/2124498709144797661
 
-❤ 47 · 🔁 2 · 💬 25 · цитат 1 · просмотров 8487  
-https://x.com/blknoiz06/status/2124202415326924920
+## 2026-11-22 13:44 UTC · ответ
 
-## 2026-11-21 18:06 UTC · ответ
+@KingWabi solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump &amp; solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump
 
-@axienfts you guys are confusing half of you say never to mention memes and the other half pesters me nonstop to bullpost your coins which is it
+❤ 300 · 🔁 78 · 💬 84 · цитат 12 · просмотров 13339  
+https://x.com/blknoiz06/status/2124499140147134537
 
-❤ 52 · 🔁 3 · 💬 38 · цитат 1 · просмотров 9843  
-https://x.com/blknoiz06/status/2124202866491458033
+## 2026-11-22 13:44 UTC · ответ
 
-## 2026-11-21 18:09 UTC · репост
+@badattrading_ yes sir
 
-RT @QwQiao: druckenmiller returned 30% per year between 1981 and 2010 before turning his fund into a family office. 
+❤ 18 · 🔁 1 · 💬 9 · цитат 0 · просмотров 6607  
+https://x.com/blknoiz06/status/2124499191766598074
 
-during the latter era…
+## 2026-11-22 13:47 UTC · пост
 
-❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 37628  
-https://x.com/blknoiz06/status/2124203539610112037
+we gonna have to put up 81 to save this market https://t.co/VvznQsMD5W
 
-## 2026-11-21 18:09 UTC · ответ
+❤ 1008 · 🔁 142 · 💬 331 · цитат 28 · просмотров 77522  
+https://x.com/blknoiz06/status/2124500054706634908
 
-@PeterSchiff how the fuck do you make this post and not mention zcash is beyond me
+## 2026-11-22 13:48 UTC · ответ
 
-❤ 129 · 🔁 5 · 💬 44 · цитат 1 · просмотров 13532  
-https://x.com/blknoiz06/status/2124203600457220394
+@ika_xbt aaaaaaaaaaaa
 
-## 2026-11-21 18:13 UTC · репост
+❤ 14 · 🔁 1 · 💬 9 · цитат 0 · просмотров 5998  
+https://x.com/blknoiz06/status/2124500380826677496
 
-RT @uncsnipes: There are three top KOLs on CT I could never bring myself to hate: @blknoiz06, @theunipcs and @gajria.
+## 2026-11-22 13:49 UTC · ответ
 
-I’m not someone who…
+@Rebbs0x lolll
 
-❤ 0 · 🔁 23 · 💬 0 · цитат 0 · просмотров 37692  
-https://x.com/blknoiz06/status/2124204552505450659
+❤ 33 · 🔁 1 · 💬 20 · цитат 1 · просмотров 6624  
+https://x.com/blknoiz06/status/2124500555200385415
 
-## 2026-11-21 18:19 UTC · пост
+## 2026-11-22 13:53 UTC · ответ
 
-watch this
+@jessepollak @base you do!
 
-❤ 489 · 🔁 21 · 💬 229 · цитат 6 · просмотров 74071  
-https://x.com/blknoiz06/status/2124206046436618586
+❤ 40 · 🔁 0 · 💬 11 · цитат 0 · просмотров 8837  
+https://x.com/blknoiz06/status/2124501456719847749
 
-## 2026-11-21 18:19 UTC · пост
+## 2026-11-22 13:54 UTC · ответ
 
-shill me your favorite altcoin perp longs
+@Nasdaq_Teej @riskmaxxing 😭😭😭
 
-❤ 470 · 🔁 12 · 💬 264 · цитат 7 · просмотров 85169  
-https://x.com/blknoiz06/status/2124206090443428006
+❤ 14 · 🔁 0 · 💬 9 · цитат 0 · просмотров 5845  
+https://x.com/blknoiz06/status/2124501710894710964
 
-## 2026-11-21 18:20 UTC · пост
+## 2026-11-22 14:41 UTC · пост
 
-shill me your favorite memecoins
+bitcoin:native 
 
-❤ 1716 · 🔁 101 · 💬 2416 · цитат 88 · просмотров 157832  
-https://x.com/blknoiz06/status/2124206230809767938
+- need mid 50ks to hold, bearish bias until 82.5k+ reclaimed, expecting chop until end of year and decisive move in H1 of 2027
+- if i had to guess on squiggly id say 56k->70k->56k next few months with muted volatility
+- HTF closes sub 56k & think we retest low-mid 40ks
 
-## 2026-11-21 18:20 UTC · ответ
+❤ 992 · 🔁 78 · 💬 234 · цитат 41 · просмотров 157348  
+https://x.com/blknoiz06/status/2124513622273495336
 
-@Saint10Fourteen yes.
+## 2026-11-22 14:41 UTC · ответ
 
-❤ 114 · 🔁 3 · 💬 48 · цитат 0 · просмотров 8011  
-https://x.com/blknoiz06/status/2124206314889093613
+@0xAbit you horny bastard
 
-## 2026-11-21 18:21 UTC · ответ
+❤ 21 · 🔁 0 · 💬 11 · цитат 1 · просмотров 6231  
+https://x.com/blknoiz06/status/2124513667584811490
 
-@Icebergy whatever you did thanks iceman
+## 2026-11-22 14:48 UTC · ответ
 
-❤ 36 · 🔁 0 · 💬 13 · цитат 0 · просмотров 10506  
-https://x.com/blknoiz06/status/2124206667206455711
+@tontheneko how is schoen a scammer
 
-## 2026-11-21 18:24 UTC · ответ
+❤ 57 · 🔁 0 · 💬 38 · цитат 5 · просмотров 18600  
+https://x.com/blknoiz06/status/2124515469424197983
 
-@koolkrypto223 what're your top 3
+## 2026-11-22 14:49 UTC · ответ
 
-❤ 57 · 🔁 0 · 💬 39 · цитат 0 · просмотров 11329  
-https://x.com/blknoiz06/status/2124207406129324134
+@frankdegods hey frank
 
-## 2026-11-21 18:25 UTC · репост
+❤ 62 · 🔁 1 · 💬 44 · цитат 2 · просмотров 9618  
+https://x.com/blknoiz06/status/2124515536361205921
 
-RT @mert: this is the best time to build btw
+## 2026-11-22 14:49 UTC · ответ
 
-you now have armies of superintelligent machines at your fingertips to command with mere word…
+@ika_xbt oh i guess i am retarded i dont even think i signed up with a ref link
 
-❤ 0 · 🔁 69 · 💬 0 · цитат 0 · просмотров 36197  
-https://x.com/blknoiz06/status/2124207638103691379
+❤ 42 · 🔁 1 · 💬 27 · цитат 1 · просмотров 8079  
+https://x.com/blknoiz06/status/2124515726270587121
 
-## 2026-11-21 18:26 UTC · ответ
+## 2026-11-22 14:52 UTC · ответ
 
-https://t.co/rSgKpMyImJ
+@hako99x @tontheneko what is problematic about that if he's transparent with how he trades?
 
-❤ 167 · 🔁 5 · 💬 74 · цитат 2 · просмотров 15024  
-https://x.com/blknoiz06/status/2124207827178676262
+❤ 14 · 🔁 0 · 💬 17 · цитат 0 · просмотров 6530  
+https://x.com/blknoiz06/status/2124516334151077925
 
-## 2026-11-21 18:41 UTC · ответ
+## 2026-11-22 14:54 UTC · репост
 
-@_imagyn @RAP3MEFR its true!
+RT @0xblackluke: 크립토계 일론머스크 Ansem 🟦
 
-❤ 66 · 🔁 9 · 💬 21 · цитат 4 · просмотров 9905  
-https://x.com/blknoiz06/status/2124211598554243460
+" 이번 하락으로 진입할 목록 "이라며 
+DRV,  ZEC, VVV,  PUMP, BTC, PEARL 언급했습니다.
 
-## 2026-11-21 19:02 UTC · ответ
+현재, 지속적인 하락에도 많은 분들이 $HYPE $ZEC 매수.…
 
-@insomniacxbt send it
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 39638  
+https://x.com/blknoiz06/status/2124516882405310850
 
-❤ 89 · 🔁 3 · 💬 52 · цитат 13 · просмотров 9670  
-https://x.com/blknoiz06/status/2124216988398719219
+## 2026-11-22 14:55 UTC · репост
 
-## 2026-11-21 19:03 UTC · репост
+RT @topGzed: Ansem deadass called the pico bottom publicly, then saw something nobody else did, flipped bearish, publicly shorted right bef…
 
-RT @SPCMNandHOBBES: niggas be tweeting like they understand the importance of the rainman hypothesis yeah alright man
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 40071  
+https://x.com/blknoiz06/status/2124517164380205264
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 37618  
-https://x.com/blknoiz06/status/2124217204740882914
+## 2026-11-22 15:02 UTC · репост
 
-## 2026-11-21 19:08 UTC · пост
+RT @Pickle_cRypto: Put another way
 
-pretty crazy @papertrade_xyz has paid out $71M in $PAPER staker rewards in the first month
+Strong assets will retest underside of daily/weekly EMAs which were previously supports, reject, chop t…
 
-❤ 434 · 🔁 8 · 💬 131 · цитат 7 · просмотров 81047  
-https://x.com/blknoiz06/status/2124218317808222407
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 36936  
+https://x.com/blknoiz06/status/2124518874074730527
 
-## 2026-11-21 19:09 UTC · ответ
+## 2026-11-22 15:02 UTC · репост
 
-@ColdBloodShill what do you think about space x
+RT @Melt_Dem: a controversial blog i'm writing
 
-❤ 46 · 🔁 1 · 💬 25 · цитат 0 · просмотров 11937  
-https://x.com/blknoiz06/status/2124218730402165009
+every layer of inference optimization (routing, batching, caching, quantization, speculativ…
 
-## 2026-11-21 19:27 UTC · ответ
+❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 37945  
+https://x.com/blknoiz06/status/2124518919423799564
 
-@Fiskantes i think we're pretty entertaining
+## 2026-11-22 15:03 UTC · репост
 
-❤ 76 · 🔁 5 · 💬 40 · цитат 1 · просмотров 7208  
-https://x.com/blknoiz06/status/2124223264239309261
+RT @Fiskantes: If you are in crypto 
 
-## 2026-11-21 19:42 UTC · ответ
+1. for ideological reasons - sovereign money, financial sovereignty, privacy, free open permissionles…
 
-@ForecastFDN how is there no liquidations
+❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 39613  
+https://x.com/blknoiz06/status/2124519027926262010
 
-❤ 77 · 🔁 0 · 💬 49 · цитат 1 · просмотров 11693  
-https://x.com/blknoiz06/status/2124227055541690499
+## 2026-11-22 15:06 UTC · цитата
 
-## 2026-11-21 19:49 UTC · ответ
+bros been on a heater https://t.co/u9znV4faSy
 
-@Max_Newton @DeriveXYZ
+❤ 323 · 🔁 6 · 💬 92 · цитат 14 · просмотров 67986  
+https://x.com/blknoiz06/status/2124519879294267771
 
-❤ 11 · 🔁 0 · 💬 1 · цитат 0 · просмотров 5878  
-https://x.com/blknoiz06/status/2124228767409229958
+## 2026-11-22 15:06 UTC · репост
 
-## 2026-11-21 19:51 UTC · ответ
+RT @Saint10Fourteen: gm bulls 🐂🀄️ from ansem’s alt
 
-@fa5tba11a i closed it! https://t.co/nnxqq4SZui
+❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 37714  
+https://x.com/blknoiz06/status/2124519913955959059
 
-❤ 26 · 🔁 0 · 💬 16 · цитат 1 · просмотров 6273  
-https://x.com/blknoiz06/status/2124229143101374533
+## 2026-11-22 15:06 UTC · репост
 
-## 2026-11-21 19:57 UTC · ответ
+RT @Nasdaq_Teej: Your success in the markets is deeply tied to how much money you can throw in it. I was fortunate enough to be in Iraq mak…
 
-high volume selloff that closed (pending) back above key level, seven weeks straight of selling into most important support levels on majors
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 37840  
+https://x.com/blknoiz06/status/2124519976321331622
 
-think equities have also gotten hit very hard and are due for some relief so that could help
+## 2026-11-22 15:07 UTC · ответ
 
-i still lean bearish but yea i dont think shorting here gets you paid as much as it has past 30 days or so
+@riskmaxxing gonna start making ppl read whitepapers again
 
-❤ 13 · 🔁 1 · 💬 8 · цитат 0 · просмотров 4960  
-https://x.com/blknoiz06/status/2124230723414761696
+❤ 23 · 🔁 0 · 💬 9 · цитат 0 · просмотров 5532  
+https://x.com/blknoiz06/status/2124520237949505834
 
-## 2026-11-21 19:58 UTC · ответ
+## 2026-11-22 15:09 UTC · ответ
 
-@UnlessArt @axienfts just a guy with a twitter account
+@kale_abe trump might try to make winning this iran war his legacy play lol
 
-❤ 7 · 🔁 0 · 💬 3 · цитат 1 · просмотров 4848  
-https://x.com/blknoiz06/status/2124230893359497704
+❤ 57 · 🔁 0 · 💬 10 · цитат 0 · просмотров 9088  
+https://x.com/blknoiz06/status/2124520707274997835
 
-## 2026-11-21 19:58 UTC · ответ
+## 2026-11-22 15:11 UTC · репост
 
-@inye3000 @axienfts dunno if this is a serious post but what exactly is a "real holder" are there phantom holders or something what is the alternative
+RT @voided: my goal for the rest of the year &amp; 2027 is to post 1 video every single day
 
-❤ 11 · 🔁 0 · 💬 9 · цитат 0 · просмотров 4972  
-https://x.com/blknoiz06/status/2124231022984179965
+i’m currently focused on more short form content,…
 
-## 2026-11-21 19:58 UTC · ответ
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 39321  
+https://x.com/blknoiz06/status/2124521186319282535
 
-@LKcrypt7777 @axienfts @NetNetCap never sold any net actually
+## 2026-11-22 15:14 UTC · пост
 
-❤ 9 · 🔁 0 · 💬 4 · цитат 0 · просмотров 5150  
-https://x.com/blknoiz06/status/2124231081712812499
+some of these equities charts are just destruction man this deadass looks like a 100k topper https://t.co/ivhVoMdqzh
 
-## 2026-11-21 19:59 UTC · ответ
+❤ 554 · 🔁 15 · 💬 102 · цитат 8 · просмотров 105298  
+https://x.com/blknoiz06/status/2124521968317727086
 
-@nacipty why
+## 2026-11-22 15:15 UTC · пост
 
-❤ 16 · 🔁 0 · 💬 13 · цитат 0 · просмотров 7166  
-https://x.com/blknoiz06/status/2124231297157533972
+how often do you use chatgpt/claude/venice
 
-## 2026-11-21 20:02 UTC · цитата
+❤ 148 · 🔁 9 · 💬 97 · цитат 2 · просмотров 60027  
+https://x.com/blknoiz06/status/2124522230268744075
 
-not too shabby if i do say so myself
+## 2026-11-22 15:17 UTC · пост
 
-55k / 1538 / 64 https://t.co/VEuXv1C4zm https://t.co/A2n7cY2YiE
+how much has ai improved your life over past 5 years on a scale from 1 to 10
 
-❤ 932 · 🔁 15 · 💬 170 · цитат 10 · просмотров 137180  
-https://x.com/blknoiz06/status/2124231947857846634
+❤ 209 · 🔁 17 · 💬 162 · цитат 9 · просмотров 83279  
+https://x.com/blknoiz06/status/2124522587875066344
 
-## 2026-11-21 20:03 UTC · ответ
+## 2026-11-22 15:19 UTC · пост
 
-@Saint10Fourteen god damn my legs are long
+can someone point me to tradfi land so i can follow the stocks guys i need to see how they are responding to this
 
-❤ 42 · 🔁 0 · 💬 16 · цитат 1 · просмотров 5838  
-https://x.com/blknoiz06/status/2124232139864440841
+❤ 518 · 🔁 15 · 💬 170 · цитат 19 · просмотров 95332  
+https://x.com/blknoiz06/status/2124523290228064457
 
-## 2026-11-21 20:03 UTC · цитата
+## 2026-11-22 15:44 UTC · репост
 
-correct https://t.co/N6OaZT9Ois
+RT @jessepollak: 10
 
-❤ 492 · 🔁 21 · 💬 70 · цитат 9 · просмотров 77085  
-https://x.com/blknoiz06/status/2124232350347538787
+I get to write code and actually build things every day and directly make an impact 
 
-## 2026-11-21 20:05 UTC · ответ
+incredible to be able to do that…
 
-@RAP3MEFR @nacipty maybe
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 37601  
+https://x.com/blknoiz06/status/2124529372359188830
 
-❤ 11 · 🔁 0 · 💬 10 · цитат 0 · просмотров 5745  
-https://x.com/blknoiz06/status/2124232653389914115
+## 2026-11-22 15:45 UTC · ответ
 
-## 2026-11-21 20:25 UTC · ответ
+@SMtrades_ aligned
 
-@DjGriffith see you in the arena brotha
+❤ 54 · 🔁 1 · 💬 27 · цитат 0 · просмотров 8553  
+https://x.com/blknoiz06/status/2124529723334328462
 
-❤ 34 · 🔁 1 · 💬 14 · цитат 1 · просмотров 7193  
-https://x.com/blknoiz06/status/2124237801105522793
+## 2026-11-22 15:52 UTC · репост
 
-## 2026-11-21 20:25 UTC · ответ
+RT @ika_xbt: you can only hold $VVV or $PEARL going into 2027
 
-@isellbeforeyou still figuring that part out tbh
+which one would you go for?
 
-❤ 47 · 🔁 0 · 💬 14 · цитат 0 · просмотров 8632  
-https://x.com/blknoiz06/status/2124237879241294233
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 40411  
+https://x.com/blknoiz06/status/2124531423700742540
 
-## 2026-11-21 20:32 UTC · цитата
+## 2026-11-22 15:54 UTC · ответ
 
-bink https://t.co/H8Hl0tnuMa
+@badattrading_ bad actors often use anger of the crowd to deflect from their own wrongdoings, align with the general populace against a seemingly common enemy to appear like a good guy and earn back reputation points that way then scam ppl afterwards
 
-❤ 253 · 🔁 5 · 💬 94 · цитат 2 · просмотров 60573  
-https://x.com/blknoiz06/status/2124239439484289439
+❤ 97 · 🔁 7 · 💬 52 · цитат 19 · просмотров 13986  
+https://x.com/blknoiz06/status/2124531871618904314
 
-## 2026-11-21 20:49 UTC · ответ
+## 2026-11-22 16:00 UTC · репост
 
-@Aatishfishann ?
+RT @Nasdaq_Teej: Use your 9-5 to make your regular payments, get a roommate someone military or a nurse charge them for a room. Uber Eats i…
 
-❤ 64 · 🔁 1 · 💬 22 · цитат 0 · просмотров 8705  
-https://x.com/blknoiz06/status/2124243880082063636
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 41453  
+https://x.com/blknoiz06/status/2124533380440113268
 
-## 2026-11-21 21:11 UTC · цитата
+## 2026-11-22 16:57 UTC · ответ
 
-thank you sir 🙏🏾 https://t.co/RBxID6P3gm
+@rasmr_eth rasmr
 
-❤ 208 · 🔁 8 · 💬 75 · цитат 1 · просмотров 53230  
-https://x.com/blknoiz06/status/2124249452995027006
+❤ 48 · 🔁 0 · 💬 31 · цитат 0 · просмотров 7575  
+https://x.com/blknoiz06/status/2124547895562997988
 
-## 2026-11-21 21:16 UTC · ответ
+## 2026-11-22 16:58 UTC · пост
 
-@Pumpfun can you guys make it so i can open multiple different isolated positions on the same asset, via HL sub accounts or smth
+on September 24, i discussed with @rasmr_eth why university matters more in the age of AI
 
-❤ 72 · 🔁 1 · 💬 32 · цитат 0 · просмотров 8503  
-https://x.com/blknoiz06/status/2124250643762176027
+as AI makes intelligence widely accessible, social skills and emotional intelligence become increasingly valuable
 
-## 2026-11-21 21:16 UTC · репост
+the ability to communicate, build relationships and connect with people in https://t.co/UPnGRfx7qF
 
-RT @Pumpfun: New perps execution tools on the Pumpfun app!
+❤ 346 · 🔁 29 · 💬 125 · цитат 6 · просмотров 66501  
+https://x.com/blknoiz06/status/2124547985568907606
 
-- TWAP: break big orders into small fills over time
-- Stack limit orders: multi…
+## 2026-11-22 16:58 UTC · ответ
 
-❤ 0 · 🔁 27 · 💬 0 · цитат 0 · просмотров 29060  
-https://x.com/blknoiz06/status/2124250721080008898
+@au_xbt godspeed au
 
-## 2026-11-21 21:32 UTC · пост
+❤ 39 · 🔁 0 · 💬 21 · цитат 1 · просмотров 6999  
+https://x.com/blknoiz06/status/2124548131949871443
 
-paid +$18k today for callouts on higher market cap tokens im already holding & winning perps trades, no new pairs or microcaps, bagworkers anonymous flywheel 
+## 2026-11-22 17:34 UTC · репост
 
-at this rate will be making ~$5M+/year from posting trades on pump, & this is at the bottom of the bear market
+RT @Fiskantes: how much has crypto improved your life over past 5 years on a scale from 1 to 10
 
-still working out kinks but high confidence social trading is the beginning of a supertrend for mobile apps, there is usually no real incentive for traders to share information, this makes it objectively +EV to do so
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 41195  
+https://x.com/blknoiz06/status/2124557102211620883
 
-❤ 581 · 🔁 33 · 💬 477 · цитат 32 · просмотров 149352  
-https://x.com/blknoiz06/status/2124254615105315265
+## 2026-11-22 18:54 UTC · пост
 
-## 2026-11-21 21:35 UTC · ответ
+forgot i had two tickets to this eagles game today 
 
-@Mighty_Miwok cooking
+if anybody is tailgating or at xfinity rn &amp; wants them can transfer them to you 
 
-❤ 65 · 🔁 1 · 💬 41 · цитат 0 · просмотров 6640  
-https://x.com/blknoiz06/status/2124255325687849020
+dm https://t.co/Lw45enOynO
 
-## 2026-11-21 21:44 UTC · ответ
+❤ 232 · 🔁 13 · 💬 89 · цитат 16 · просмотров 80264  
+https://x.com/blknoiz06/status/2124577163949334667
 
-@polarster X will ban your account if you post anything from an app where you made money &amp; dont include the tag, doesnt matter if it wasnt a paid tweet or not if people report it as otherwise &amp; they can see the app paid you $$$
+## 2026-11-22 18:55 UTC · ответ
 
-❤ 71 · 🔁 2 · 💬 33 · цитат 1 · просмотров 9913  
-https://x.com/blknoiz06/status/2124257570697175461
+@elchefdesol crazy couple weeks man
 
-## 2026-11-21 21:45 UTC · цитата
+❤ 25 · 🔁 0 · 💬 13 · цитат 0 · просмотров 7471  
+https://x.com/blknoiz06/status/2124577507684814956
 
-ex. $100k $BTC short on 10x leverage paid ~$7.8k &amp; profit from trade was ~$135k realized PNL
+## 2026-11-22 19:04 UTC · ответ
 
-$50k $SOL short on 20x leverage paid ~$6.4k &amp; profit from trade was ~$190k https://t.co/V3OQa1eNlI https://t.co/fNNKAtSMSB
+@hasntpumpedyet ik im just realizing lol
 
-❤ 307 · 🔁 21 · 💬 107 · цитат 8 · просмотров 76454  
-https://x.com/blknoiz06/status/2124257937887826364
+❤ 30 · 🔁 1 · 💬 17 · цитат 0 · просмотров 7511  
+https://x.com/blknoiz06/status/2124579813566689497
 
-## 2026-11-21 21:50 UTC · ответ
+## 2026-11-22 19:09 UTC · цитата
 
-think you are wrong on social trading, in a world where social media shoves slop down people's throats the one thing that is not fake-able is PNL, doesnt matter how many followers you have or dont have, & social trading encourages those who are good to continue sharing ideas
+the end state of every man is to hoop &amp; post https://t.co/QEEJPrGAVr
 
-as long as the economy doesnt crash, people will continue to have discretionary capital to speculate, & the advent of superintelligence paired with the discovery of equity perps is going to be an insane tailwind for people speculating in markets
+❤ 284 · 🔁 11 · 💬 155 · цитат 2 · просмотров 68485  
+https://x.com/blknoiz06/status/2124581113540526316
 
-anthropic went from 0-> 2T in five years in private markets, believe you will continue to see a lot of volatility in public markets from companies who win and lose the ai race, bc of overvaluations, undervaluations, & how fast the technology is changing
+## 2026-11-22 19:17 UTC · ответ
 
-❤ 19 · 🔁 1 · 💬 9 · цитат 0 · просмотров 5396  
-https://x.com/blknoiz06/status/2124259163547238693
+@kingbtc 😭😭😭
 
-## 2026-11-21 21:52 UTC · ответ
+❤ 43 · 🔁 0 · 💬 26 · цитат 1 · просмотров 6979  
+https://x.com/blknoiz06/status/2124582982539510207
 
-@Sp1cytrenches im a trader not a priest
+## 2026-11-22 19:18 UTC · репост
 
-❤ 25 · 🔁 1 · 💬 11 · цитат 2 · просмотров 6034  
-https://x.com/blknoiz06/status/2124259591353749724
+RT @BarstoolPhilly: SAQUON BARKLEY TO THE HOUSE https://t.co/F1DXusPkz3
 
-## 2026-11-21 21:55 UTC · ответ
+❤ 0 · 🔁 118 · 💬 0 · цитат 0 · просмотров 38733  
+https://x.com/blknoiz06/status/2124583202417152401
 
-@grok @Kingsedex01 @polarster thank you grok
+## 2026-11-22 21:29 UTC · репост
 
-❤ 17 · 🔁 0 · 💬 11 · цитат 0 · просмотров 5503  
-https://x.com/blknoiz06/status/2124260532848865650
+RT @alexxxx: Mihao #NewProfilePic https://t.co/PYpRhccanI
 
-## 2026-11-21 22:00 UTC · репост
+❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 35969  
+https://x.com/blknoiz06/status/2124616228203372606
 
-RT @koolkrypto223: @blknoiz06 $LIT, $HYPE, $DRV are the cleanest right now imo
+## 2026-11-22 21:55 UTC · ответ
 
-Some honorable mentions:
+@Nasdaq_Teej 😭😭😭
 
-$KNTQ is great $HYPE beta but we…
+❤ 45 · 🔁 1 · 💬 31 · цитат 0 · просмотров 7445  
+https://x.com/blknoiz06/status/2124622772093730970
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 33499  
-https://x.com/blknoiz06/status/2124261791161000180
+## 2026-11-22 21:58 UTC · репост
 
-## 2026-11-21 22:07 UTC · ответ
+RT @JoshReynolds24: Smitty puts the game on ice &amp; I am officially torn with the meaningless win lmao https://t.co/clAXBVLxhi
 
-@alexxxx prepare yourself https://t.co/hH3fIOTeit
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 34246  
+https://x.com/blknoiz06/status/2124623483795873945
 
-❤ 371 · 🔁 63 · 💬 81 · цитат 5 · просмотров 10996  
-https://x.com/blknoiz06/status/2124263526181351603
+## 2026-11-22 21:58 UTC · ответ
 
-## 2026-11-21 22:15 UTC · ответ
+@jaxksaw 🫩
 
-@RoaringKitty 👍🏾
+❤ 30 · 🔁 0 · 💬 22 · цитат 0 · просмотров 6603  
+https://x.com/blknoiz06/status/2124623539277828520
 
-❤ 40 · 🔁 2 · 💬 18 · цитат 0 · просмотров 5447  
-https://x.com/blknoiz06/status/2124265412997042554
+## 2026-11-22 22:04 UTC · ответ
 
-## 2026-11-21 22:24 UTC · цитата
+@justalexoki man what
 
-one of my best posts tbh https://t.co/4qWQgfeqJb
+❤ 61 · 🔁 2 · 💬 43 · цитат 7 · просмотров 8723  
+https://x.com/blknoiz06/status/2124625194987983099
 
-❤ 301 · 🔁 16 · 💬 98 · цитат 0 · просмотров 69243  
-https://x.com/blknoiz06/status/2124267820049674564
+## 2026-11-22 23:18 UTC · ответ
 
-## 2026-11-21 22:26 UTC · ответ
+@artsch00lreject https://t.co/LdWEdeh0f6
 
-@jua21893 @RoaringKitty if you post bad callouts eventually people will stop tailing you and you will no longer make money from callouts, the system is inherently designed for people to see who is making good calls and who isnt, all of the data is public
+❤ 340 · 🔁 43 · 💬 75 · цитат 1 · просмотров 9980  
+https://x.com/blknoiz06/status/2124643707496419582
 
-it is self regulating
+## 2026-11-23 00:00 UTC · ответ
 
-❤ 10 · 🔁 1 · 💬 5 · цитат 1 · просмотров 4386  
-https://x.com/blknoiz06/status/2124268306030895303
+@0xcyp 🫩
 
-## 2026-11-21 22:26 UTC · ответ
+❤ 62 · 🔁 0 · 💬 35 · цитат 1 · просмотров 3573  
+https://x.com/blknoiz06/status/2124654162453389343
 
-@Humblek3n @RoaringKitty i thought so!
+## 2026-11-23 00:00 UTC · ответ
 
-❤ 15 · 🔁 0 · 💬 5 · цитат 0 · просмотров 4350  
-https://x.com/blknoiz06/status/2124268334388801901
+@CryptoParadyme @cobie @buyerofponzi 🫩
 
-## 2026-11-21 22:27 UTC · репост
+❤ 20 · 🔁 0 · 💬 9 · цитат 0 · просмотров 5182  
+https://x.com/blknoiz06/status/2124654384034525596
 
-RT @Lonewolfobxs: Most people will scroll past this thread. They shouldn't.
+## 2026-11-23 00:06 UTC · ответ
 
-@blknoiz06 just explained the whole game. There are two kinds…
+@0xKNL__ knlae u gotta stop with the no ticker man u already on priv wit 8 accounts and its twenty twenty six!!
 
-❤ 0 · 🔁 20 · 💬 0 · цитат 0 · просмотров 32838  
-https://x.com/blknoiz06/status/2124268552240976213
+❤ 15 · 🔁 0 · 💬 5 · цитат 1 · просмотров 5611  
+https://x.com/blknoiz06/status/2124655771061543268
 
-## 2026-11-21 22:31 UTC · цитата
+## 2026-11-23 00:06 UTC · пост
 
-think schoen is one of the best trenchers on this app, always very early to plays and one of the most active traders who is always sharing wins &amp; losses https://t.co/dftjk9n2hP
+how we feeling lads
 
-❤ 632 · 🔁 39 · 💬 216 · цитат 12 · просмотров 108348  
-https://x.com/blknoiz06/status/2124269396155682940
+❤ 754 · 🔁 30 · 💬 590 · цитат 18 · просмотров 89094  
+https://x.com/blknoiz06/status/2124655915680895186
 
-## 2026-11-21 22:38 UTC · ответ
+## 2026-11-23 00:44 UTC · ответ
 
-@RAP3MEFR he's good!
+@_imagyn 🤞🏾🤞🏾
 
-❤ 14 · 🔁 0 · 💬 6 · цитат 0 · просмотров 5764  
-https://x.com/blknoiz06/status/2124271154336522555
+❤ 105 · 🔁 11 · 💬 24 · цитат 2 · просмотров 10076  
+https://x.com/blknoiz06/status/2124665293469614551
 
-## 2026-11-21 22:38 UTC · ответ
+## 2026-11-23 00:48 UTC · ответ
 
-@trunoest give me a list ill boost the best
+@Sokio8D yes it does, they stop posting
 
-❤ 30 · 🔁 0 · 💬 30 · цитат 0 · просмотров 6583  
-https://x.com/blknoiz06/status/2124271209202245893
+❤ 86 · 🔁 3 · 💬 38 · цитат 2 · просмотров 6819  
+https://x.com/blknoiz06/status/2124666332763529276
 
-## 2026-11-21 22:43 UTC · пост
+## 2026-11-23 00:54 UTC · ответ
 
-https://t.co/0PcrroCra6
+@udiWertheimer a swim?
 
-❤ 129 · 🔁 7 · 💬 68 · цитат 0 · просмотров 49098  
-https://x.com/blknoiz06/status/2124272421314113667
+❤ 48 · 🔁 3 · 💬 43 · цитат 0 · просмотров 6209  
+https://x.com/blknoiz06/status/2124667891270488198
 
-## 2026-11-21 23:01 UTC · репост
+## 2026-11-23 02:57 UTC · пост
 
-RT @HadickM: It can fundamentally be true that both ASI is coming and this is the largest technical innovation since the internet but also…
+man https://t.co/SQs5X878gU
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 31422  
-https://x.com/blknoiz06/status/2124276983085269069
+❤ 275 · 🔁 18 · 💬 133 · цитат 8 · просмотров 51869  
+https://x.com/blknoiz06/status/2124698767656116514
 
-## 2026-11-21 23:02 UTC · цитата
+## 2026-11-23 04:40 UTC · ответ
 
-long superintelligence
-long open source models
-long open financial networks https://t.co/SsA144Z7e2
+@AutismCapital 1 of 1
 
-❤ 442 · 🔁 19 · 💬 170 · цитат 15 · просмотров 65383  
-https://x.com/blknoiz06/status/2124277317782450670
+❤ 56 · 🔁 2 · 💬 28 · цитат 0 · просмотров 4921  
+https://x.com/blknoiz06/status/2124724847385170245
 
-## 2026-11-21 23:04 UTC · ответ
+## 2026-11-23 05:13 UTC · ответ
 
-@notwashed you dont need to be doxxed for the social trading thesis to hold tho
+@KingWabi i will do my best this week brother
 
-❤ 13 · 🔁 0 · 💬 6 · цитат 1 · просмотров 4622  
-https://x.com/blknoiz06/status/2124277696842936482
-
-## 2026-11-21 23:04 UTC · ответ
-
-@notwashed i see yea makes sense
-
-❤ 10 · 🔁 1 · 💬 3 · цитат 0 · просмотров 4504  
-https://x.com/blknoiz06/status/2124277831786197339
-
-## 2026-11-21 23:15 UTC · ответ
-
-@BittexXBT https://t.co/kr3PFUAMlo is genny
-
-❤ 19 · 🔁 1 · 💬 9 · цитат 1 · просмотров 5571  
-https://x.com/blknoiz06/status/2124280574844285184
-
-## 2026-11-21 23:16 UTC · ответ
-
-@AstrologyCrypto imo callout rewards are the purest form of ct, this entire section of twitter exists to shill each other trade ideas and tail each other lol
-
-❤ 67 · 🔁 4 · 💬 40 · цитат 4 · просмотров 9009  
-https://x.com/blknoiz06/status/2124280788434681966
-
-## 2026-11-21 23:26 UTC · ответ
-
-@tszzl agree
-
-❤ 31 · 🔁 0 · 💬 19 · цитат 0 · просмотров 5466  
-https://x.com/blknoiz06/status/2124283348126519349
-
-## 2026-11-21 23:27 UTC · репост
-
-RT @chrisgrx_: Good reminder that we get extreme outcome expectations during the price pain points (both directions). Right now, many peopl…
-
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 31804  
-https://x.com/blknoiz06/status/2124283618617139567
-
-## 2026-11-21 23:38 UTC · ответ
-
-@Pickle_cRypto https://t.co/8trW2TZws0
-
-❤ 228 · 🔁 44 · 💬 61 · цитат 2 · просмотров 7382  
-https://x.com/blknoiz06/status/2124286266183196833
-
-## 2026-11-21 23:42 UTC · ответ
-
-@boxbox_32 @AstrologyCrypto what would make it better
-
-❤ 18 · 🔁 0 · 💬 21 · цитат 1 · просмотров 5208  
-https://x.com/blknoiz06/status/2124287408241877488
-
-## 2026-11-21 23:54 UTC · ответ
-
-@Sp1cytrenches using an app does not change my market opinions, never has never will, i said i thought it would go to .002 bc thats where i thought it would go and thats where it went
-
-they buyback+burn their token w 50% of their revenue &amp; have done 500M+ sofar, they clearly care about the
-
-❤ 14 · 🔁 1 · 💬 5 · цитат 0 · просмотров 4303  
-https://x.com/blknoiz06/status/2124290500081435116
-
-## 2026-11-22 00:06 UTC · ответ
-
-@seyong @fomo @MINHxDYNASTY @brezscales @orangie @thebrianjung @rasmr_eth was sick g
-
-❤ 37 · 🔁 1 · 💬 18 · цитат 0 · просмотров 5067  
-https://x.com/blknoiz06/status/2124293365738918276
-
-## 2026-11-22 00:14 UTC · ответ
-
-@G_free9 why did they have a "prime" whats the difference now
-
-❤ 91 · 🔁 0 · 💬 48 · цитат 1 · просмотров 13053  
-https://x.com/blknoiz06/status/2124295320276554091
-
-## 2026-11-22 00:23 UTC · репост
-
-RT @Melt_Dem: i am so so so so so so so so so so excited about local models, open weights, private inference, etc. 
-
-it reminds me of the e…
-
-❤ 0 · 🔁 47 · 💬 0 · цитат 0 · просмотров 28929  
-https://x.com/blknoiz06/status/2124297578921816524
-
-## 2026-11-22 00:25 UTC · ответ
-
-@deredleritt3r what does it mean
-
-❤ 32 · 🔁 0 · 💬 28 · цитат 1 · просмотров 6190  
-https://x.com/blknoiz06/status/2124298114232168649
-
-## 2026-11-22 00:48 UTC · репост
-
-RT @aubreystrobel: no one will tell you it's a 20 min car ride from the west village &amp; you can get through security in 5 min with TSAPre +…
-
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 28907  
-https://x.com/blknoiz06/status/2124303859627749523
-
-## 2026-11-22 01:39 UTC · ответ
-
-@Chairman_DN @Igetjeeted333 solana:4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump https://t.co/BfrfbZIJDJ
-
-❤ 225 · 🔁 49 · 💬 65 · цитат 4 · просмотров 6958  
-https://x.com/blknoiz06/status/2124316894463398389
-
-## 2026-11-22 01:39 UTC · репост
-
-RT @dounbug: experiencing extreme culture shock in sf cuz what in the default skin is going on here, why does everyone dress like a nonthin…
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 28150  
-https://x.com/blknoiz06/status/2124316921268981788
-
-## 2026-11-22 03:27 UTC · пост
-
-wyd
-
-❤ 402 · 🔁 13 · 💬 432 · цитат 10 · просмотров 47785  
-https://x.com/blknoiz06/status/2124343870645260476
-
-## 2026-11-22 03:28 UTC · репост
-
-RT @wirelyss: @boxbox_32 @blknoiz06 @AstrologyCrypto I don’t think you grasped what I was saying. If someone only trades on axiom, they lit…
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 24997  
-https://x.com/blknoiz06/status/2124344218445656284
-
-## 2026-11-22 03:29 UTC · ответ
-
-@wirelyss @boxbox_32 @AstrologyCrypto i always wondered why most axiom badges are so anti pump
-
-❤ 16 · 🔁 1 · 💬 12 · цитат 1 · просмотров 3716  
-https://x.com/blknoiz06/status/2124344505432477952
-
-## 2026-11-22 03:30 UTC · ответ
-
-@boxbox_32 @AstrologyCrypto its dependent on how much trading volume you bring the app, a call with no extra volume obv isnt going to get u paid bc the app doesnt make any extra money from your call
-
-❤ 8 · 🔁 0 · 💬 11 · цитат 0 · просмотров 3450  
-https://x.com/blknoiz06/status/2124344823692005827
-
-## 2026-11-22 03:37 UTC · ответ
-
-@0xRiver8 should i slide fr
-
-❤ 26 · 🔁 0 · 💬 12 · цитат 0 · просмотров 4174  
-https://x.com/blknoiz06/status/2124346486473515215
-
-## 2026-11-22 03:41 UTC · ответ
-
-@SWOGE_BNB eating kazunori
-
-❤ 6 · 🔁 0 · 💬 4 · цитат 0 · просмотров 3205  
-https://x.com/blknoiz06/status/2124347506926751756
-
-## 2026-11-22 03:41 UTC · ответ
-
-@MonkeyDbryptoz_ thotterbots
-
-❤ 7 · 🔁 1 · 💬 5 · цитат 0 · просмотров 3172  
-https://x.com/blknoiz06/status/2124347562438111299
-
-## 2026-11-22 03:41 UTC · ответ
-
-@davyjones_23 buy what
-
-❤ 39 · 🔁 2 · 💬 77 · цитат 0 · просмотров 3837  
-https://x.com/blknoiz06/status/2124347591492288865
-
-## 2026-11-22 03:41 UTC · ответ
-
-@RAP3MEFR fire
-
-❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3428  
-https://x.com/blknoiz06/status/2124347610001494400
-
-## 2026-11-22 03:43 UTC · ответ
-
-@UsualStu trading fees
-
-❤ 10 · 🔁 0 · 💬 7 · цитат 0 · просмотров 3641  
-https://x.com/blknoiz06/status/2124347993881210893
-
-## 2026-11-22 03:44 UTC · ответ
-
-@suchPUMPwow i dont think you have to rape anyone to use the app but i could be mistaken, p sure you can trade whatever u want on there
-
-❤ 9 · 🔁 0 · 💬 7 · цитат 0 · просмотров 3551  
-https://x.com/blknoiz06/status/2124348144381247640
-
-## 2026-11-22 03:44 UTC · ответ
-
-@kkaivenn @G_free9 i dont know anything thats why im asking lol
-
-❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3370  
-https://x.com/blknoiz06/status/2124348355392209299
-
-## 2026-11-22 03:45 UTC · ответ
-
-@f3wtein @G_free9 how have i taken their spot
-
-❤ 7 · 🔁 0 · 💬 8 · цитат 0 · просмотров 3280  
-https://x.com/blknoiz06/status/2124348454449082531
-
-## 2026-11-22 03:45 UTC · ответ
-
-@Chris_Insights i wanna buy Monday/Tuesday
-
-❤ 62 · 🔁 1 · 💬 33 · цитат 0 · просмотров 6315  
-https://x.com/blknoiz06/status/2124348634745753726
-
-## 2026-11-22 03:47 UTC · цитата
-
-@onetrickponzi @AstrologyCrypto https://t.co/uKUFtB0BbG https://t.co/6bEvE3ix27
-
-❤ 5 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3144  
-https://x.com/blknoiz06/status/2124348925473927249
-
-## 2026-11-22 03:48 UTC · ответ
-
-@Goobswrld bottoms usually get a retest
-
-❤ 80 · 🔁 2 · 💬 39 · цитат 1 · просмотров 8862  
-https://x.com/blknoiz06/status/2124349196689969299
-
-## 2026-11-22 03:48 UTC · ответ
-
-@insomniac988 @notwashed i agree the side walleting + callouts is very homoerotic but i dont do that!
-
-❤ 10 · 🔁 0 · 💬 7 · цитат 0 · просмотров 3278  
-https://x.com/blknoiz06/status/2124349349870116880
-
-## 2026-11-22 03:51 UTC · ответ
-
-@metaversejoji 😂😂😂😂😂
-
-❤ 57 · 🔁 1 · 💬 27 · цитат 0 · просмотров 4444  
-https://x.com/blknoiz06/status/2124350114227470526
-
-## 2026-11-22 03:53 UTC · ответ
-
-@CryptoParadyme 🫩
-
-❤ 31 · 🔁 0 · 💬 25 · цитат 0 · просмотров 5086  
-https://x.com/blknoiz06/status/2124350582488199675
-
-## 2026-11-22 03:57 UTC · ответ
-
-@barneyxbt ill bid 55 if you bid 55
-
-❤ 60 · 🔁 1 · 💬 26 · цитат 0 · просмотров 6574  
-https://x.com/blknoiz06/status/2124351649594650999
-
-## 2026-11-22 03:58 UTC · ответ
-
-@Saint10Fourteen same lol
-
-❤ 32 · 🔁 3 · 💬 15 · цитат 1 · просмотров 4102  
-https://x.com/blknoiz06/status/2124351685300572365
-
-## 2026-11-22 03:58 UTC · ответ
-
-@Goobswrld lolllll
-
-❤ 21 · 🔁 0 · 💬 18 · цитат 0 · просмотров 4061  
-https://x.com/blknoiz06/status/2124351860064587874
-
-## 2026-11-22 05:05 UTC · пост
-
-merry christmas
-
-❤ 499 · 🔁 31 · 💬 267 · цитат 15 · просмотров 41343  
-https://x.com/blknoiz06/status/2124368701407269112
-
-## 2026-11-22 05:06 UTC · пост
-
-stressed? https://t.co/wgofldGuGz
-
-❤ 560 · 🔁 96 · 💬 228 · цитат 16 · просмотров 37875  
-https://x.com/blknoiz06/status/2124368899877884252
-
-## 2026-11-22 05:14 UTC · ответ
-
-@elonmusk @fchollet @garrytan oh
-
-❤ 39 · 🔁 1 · 💬 20 · цитат 1 · просмотров 7416  
-https://x.com/blknoiz06/status/2124371025882153035
-
-## 2026-11-22 05:19 UTC · репост
-
-RT @oldbooksguy: hot take: the "humility trap" is killing people's creativity. Orwell said every artist has one thing in common: "sheer ego…
-
-❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 24112  
-https://x.com/blknoiz06/status/2124372245489291501
-
-## 2026-11-22 05:31 UTC · ответ
-
-@riskmaxxing should i just hardswitch &amp; start posting hardcore technical content
-
-❤ 81 · 🔁 0 · 💬 57 · цитат 0 · просмотров 6356  
-https://x.com/blknoiz06/status/2124375293502603702
+❤ 154 · 🔁 15 · 💬 91 · цитат 4 · просмотров 6261  
+https://x.com/blknoiz06/status/2124732971949137971

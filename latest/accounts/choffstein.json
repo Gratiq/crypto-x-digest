@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2124563690909487458",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-22T18:00:31.000Z",
+  "text": "@JSeyff @Philly_Marathon Lightning pace.  Congrats!",
+  "url": "https://x.com/choffstein/status/2124563690909487458",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 510,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124543206234669223",
+   "text": "Sunday Funday — My marathon debut at the Philly marathon. Last 6+ miles were absolutely brutal. Didn’t hit the goal I wanted but I’ll take it! https://t.co/uqfkRe9Evl"
+  }
+ },
+ {
+  "id": "2124630392275607692",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "retweet",
+  "created_at": "2026-11-22T22:25:33.000Z",
+  "text": "RT @BarbarianCap: 6/n++ are more investing-focused episodes\n\n@choffstein with @richfalkwallace  the founder of @ArcanaAnalytics  (ex JPM di…",
+  "url": "https://x.com/choffstein/status/2124630392275607692",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 545,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124630283731558768",
+   "text": "6/n++ are more investing-focused episodes\n\n@choffstein with @richfalkwallace  the founder of @ArcanaAnalytics  (ex JPM distressed, Silver Point, Viking, Citadel)\nFactors, risk, ++\nhttps://t.co/yeLsltXoiQ"
+  }
+ }
+]

@@ -1,25 +1,72 @@
-# @Route2FI — посты за 2026-11-22
+# @Route2FI — посты за 2026-11-23
 
-Всего: 2
+Всего: 9
 
-## 2026-11-21 12:05 UTC · цитата
+## 2026-11-22 14:27 UTC · ответ
 
-Hashi is live on mainnet on @SuiNetwork with 20+ partners across custody, retail, and DeFi.
+@bread_ Enjoy 🔥
 
-Your BTC stays on Bitcoin, and Hashi mints hBTC on Sui, a 1:1 Bitcoin-backed asset you can use as collateral, secured by validators instead of one company.
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 869  
+https://x.com/Route2FI/status/2124510181434495055
 
-Bitcoin-backed lending is live too. Mint hBTC through Hashi, then borrow USDC against it on @0xfluid.
+## 2026-11-22 19:42 UTC · пост
 
-Interesting to see Bitcoin finance get more decentralized IMO.
+Hoping $55k was the bottom. 
 
-❤ 361 · 🔁 8 · 💬 19 · цитат 0 · просмотров 22318  
-https://x.com/Route2FI/status/2124112052788584715
+One last cycle to change our lives completely.
 
-## 2026-11-21 13:38 UTC · пост
+❤ 410 · 🔁 9 · 💬 49 · цитат 0 · просмотров 21101  
+https://x.com/Route2FI/status/2124589323991634141
 
-BTC went from $55k this morning to $60k now. +9% since the bottom.
+## 2026-11-22 19:58 UTC · ответ
 
-Way too early to say if it holds IMO, since it is a Saturday, but it's a good reminder that sentiment flips way faster than price does. When everyone is max fearful, the move up usually catches most people offside.
+@blancxbt hehe, real...I had a hope the last one was it
 
-❤ 194 · 🔁 12 · 💬 32 · цитат 0 · просмотров 15016  
-https://x.com/Route2FI/status/2124135471794028863
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 787  
+https://x.com/Route2FI/status/2124593337642750271
+
+## 2026-11-22 21:50 UTC · пост
+
+I think the hardest part with crypto going forward is that every cycle before, crypto was one of the frontiers. If you were young and wanted to bet on the future, this was where you went. Now AI is in that main place, IMO, and we have seen many of the best builders, VCs, money,
+
+❤ 393 · 🔁 13 · 💬 35 · цитат 3 · просмотров 33646  
+https://x.com/Route2FI/status/2124621676159832095
+
+## 2026-11-22 22:14 UTC · ответ
+
+@edgar_eth manifesting
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 288  
+https://x.com/Route2FI/status/2124627706088484874
+
+## 2026-11-22 22:58 UTC · ответ
+
+@LoganJastremski 💪💪
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 444  
+https://x.com/Route2FI/status/2124638636490502144
+
+## 2026-11-22 23:18 UTC · ответ
+
+@rektdiomedes Very well said my bro
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 590  
+https://x.com/Route2FI/status/2124643822475043123
+
+## 2026-11-23 04:56 UTC · цитата
+
+The Gnome Tavern Hackathon from @_gnoland looks like an interesting one for builders.
+
+There are no required themes. DeFi, games, AI apps, dev tools, whatever you want, as long as it actually works and is deployed on their testnet.
+
+$20k prize pool, 16 awards, and extra rewards https://t.co/PWYAipFNUr
+
+❤ 194 · 🔁 2 · 💬 5 · цитат 0 · просмотров 21490  
+https://x.com/Route2FI/status/2124728884268552246
+
+## 2026-11-23 07:12 UTC · репост
+
+RT @Route2FI: I think the hardest part with crypto going forward is that every cycle before, crypto was one of the frontiers. If you were y…
+
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/Route2FI/status/2124763084510437533

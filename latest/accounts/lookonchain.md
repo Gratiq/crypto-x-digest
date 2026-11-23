@@ -1,75 +1,77 @@
-# @lookonchain — посты за 2026-11-22
+# @lookonchain — посты за 2026-11-23
 
-Всего: 6
+Всего: 7
 
-## 2026-11-21 12:59 UTC · пост
+## 2026-11-22 10:35 UTC · пост
 
-Chainflip (@Chainflip) was hacked for $4.86M!
+A whale deposited 2,279 $BTC($134.7M) into #Binance 2 hours ago.
 
-The stolen funds include 3.25M $USDC, 520.22 $ETH ($851K), and 758K $USDT.
+https://t.co/EVszIAUTGL https://t.co/5kwPWgRIy4
 
-The hacker has already swapped all the stolen funds for 2,910 $ETH ($4.76M) and deposited the $ETH into #TornadoCash.
+❤ 438 · 🔁 23 · 💬 83 · цитат 11 · просмотров 66561  
+https://x.com/lookonchain/status/2124451588836323366
 
-https://t.co/PqoN7EabjH
-https://t.co/WrZxfZ8fLf
+## 2026-11-22 10:49 UTC · пост
 
-❤ 267 · 🔁 29 · 💬 48 · цитат 16 · просмотров 61567  
-https://x.com/lookonchain/status/2124125612617138670
+This guy bought 9,677 $ETH ($21.66M) at $2,239 just 2 weeks ago and is already down $5.36M!
 
-## 2026-11-21 13:59 UTC · цитата
+He sold 3,700 $ETH ($6.11M) 5 hours ago to cut his losses.
 
-This hacker knows how to trade!
+https://t.co/1mRfoC9bSH https://t.co/Xm2bYUBHEb
 
-2 days ago, he sold 5,270 $ETH($9.51M) at $1,805, then placed limit orders to long $ETH at $1,551–$1,568.
+❤ 292 · 🔁 17 · 💬 87 · цитат 6 · просмотров 62756  
+https://x.com/lookonchain/status/2124455258969837691
 
-His orders got filled today!
+## 2026-11-23 02:07 UTC · пост
 
-He now holds a 14,000 $ETH ($23.8M) long, up $2.13M in unrealized profit!
-https://t.co/wbmOG6KrMx https://t.co/mgl5TzMewm
+Fusionist (@fusionistio) was hacked for over $2M!
 
-❤ 382 · 🔁 25 · 💬 44 · цитат 3 · просмотров 66786  
-https://x.com/lookonchain/status/2124140665445765252
+The attacker minted and dumped a large amount of $ACE, sending some to Gate, MEXC, and Baltex to sell.
 
-## 2026-11-21 14:12 UTC · пост
+The attacker then swapped the funds for $ETH and has already deposited 1,150 $ETH ($1.97M) into #TornadoCash.
 
-Three newly created wallets (possibly belonging to the same whale) opened 20x longs on 323.05 $BTC ($19.54M) and 6,725 $ETH ($11.4M).
+https://t.co/lqtxIeUCKb
 
-They're already up $1.14M in unrealized profit!
+❤ 160 · 🔁 13 · 💬 32 · цитат 6 · просмотров 40104  
+https://x.com/lookonchain/status/2124686123490570536
 
-https://t.co/8MmveNvXxV
-https://t.co/EVkCYtcUfV
-https://t.co/RwO7z86afz https://t.co/EvlYum7t2T
+## 2026-11-23 02:11 UTC · цитата
 
-❤ 251 · 🔁 15 · 💬 31 · цитат 1 · просмотров 56444  
-https://x.com/lookonchain/status/2124143810083229986
+Whale 0x5011 bought another 667.34B $PEPE ($2.27M)!
 
-## 2026-11-21 14:44 UTC · пост
+Over the past 5 days, the whale has bought a total of 2.565T $PEPE ($9.42M).
+https://t.co/0rpREhkLgy https://t.co/E2kSzi3paR
 
-A whale deposited $270M in stablecoins into #Binance over the past 3 hours.
+❤ 295 · 🔁 36 · 💬 38 · цитат 7 · просмотров 42225  
+https://x.com/lookonchain/status/2124687326525980845
 
-Is Garrett Bullish (@GarrettBullish) buying the dip?
+## 2026-11-23 03:09 UTC · пост
 
-https://t.co/uEP9Un48nA https://t.co/NgbYbLeMEh
+Chun (@satofishi) withdrew 7,186 $ETH ($11.74M) from #Binance at $1,634 during the market drop.
 
-❤ 360 · 🔁 14 · 💬 40 · цитат 3 · просмотров 64529  
-https://x.com/lookonchain/status/2124151873359978554
+After the market rebounded, he deposited 5,685 $ETH ($9.64M) back into #Binance at $1,696.
 
-## 2026-11-21 14:50 UTC · пост
+https://t.co/gUirS51lPB https://t.co/w2onvqI153
 
-Abraxas Capital appears to have bought the $BTC dip today, buying 10,356 $BTC ($607M) at an average price of $58,651.
+❤ 180 · 🔁 12 · 💬 30 · цитат 1 · просмотров 43264  
+https://x.com/lookonchain/status/2124701754772369716
 
-https://t.co/qwAXChjYvp https://t.co/5AcDMGC5ie
+## 2026-11-23 03:48 UTC · пост
 
-❤ 817 · 🔁 84 · 💬 90 · цитат 21 · просмотров 80935  
-https://x.com/lookonchain/status/2124153369854198025
+A whale deposited 3.2M $USDC into #Hyperliquid and opened a 20x long on 138,893 $SILVER($5.86M).
 
-## 2026-11-22 01:55 UTC · пост
+Liquidation price: $19.28
 
-Abraxas Capital bought over $1B worth of $BTC as the price dropped below $60,000!
+https://t.co/5sILfbXLxZ https://t.co/eXmIpAYbvU
 
-They withdrew a total of 17,597 $BTC ($1.04B) from #Binance and #Kraken at an average price of $59,206.
+❤ 149 · 🔁 13 · 💬 27 · цитат 2 · просмотров 36405  
+https://x.com/lookonchain/status/2124711580869009536
 
-https://t.co/qwAXChjYvp https://t.co/f8raE6JV1m
+## 2026-11-23 03:51 UTC · пост
 
-❤ 591 · 🔁 72 · 💬 101 · цитат 13 · просмотров 54317  
-https://x.com/lookonchain/status/2124320776564469894
+Gambler 0x9def just got fully liquidated on his 200 $BTC ($12.4M) short as the market rebounded, losing $265K!
+
+https://t.co/V6maXsrrb9 https://t.co/1rHR4EmwSh
+
+❤ 148 · 🔁 10 · 💬 37 · цитат 3 · просмотров 38248  
+https://x.com/lookonchain/status/2124712447949017465

@@ -1,42 +1,26 @@
-# @hosseeb — посты за 2026-11-22
+# @hosseeb — посты за 2026-11-23
 
 Всего: 3
 
-## 2026-11-22 00:34 UTC · цитата
+## 2026-11-22 16:11 UTC · ответ
 
-"Hollywood got my subculture wrong" is always a bad take, even when it's your subculture.
+@thePalenimbus 💯
 
-People constantly complain Hollywood doesn't represent them enough. Then, when they're finally given the Hollywood treatment, they always complain: they flattened the nuance, got the tone all wrong, replaced real people with tropes.
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 145  
+https://x.com/hosseeb/status/2124536253895024999
 
-But that's what Hollywood is. It's great the American art form. It's how all American stories are told. Athletes, activists, cowboys, and serial killers--everyone gets their story told with the same narrative language. 
+## 2026-11-22 16:35 UTC · цитата
 
-If you believe AI labs are now the main character of history, then you shouldn't complain that Hollywood Hollywood'ed them.
+More precisely, AI labs underestimated the rate of intelligence growth, and simultaneously overestimated the rate of social and economic change. https://t.co/2JYHL95ZfO
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1559  
-https://x.com/hosseeb/status/2124300464997183913
+❤ 149 · 🔁 11 · 💬 21 · цитат 1 · просмотров 10373  
+https://x.com/hosseeb/status/2124542257286324263
 
-## 2026-11-22 00:35 UTC · цитата
+## 2026-11-22 18:49 UTC · репост
 
-"Hollywood got my subculture wrong" is always a bad take, even when it's your subculture.
+RT @WuBlockchain: Haseeb: Zcash Is Insurance for Bitcoin
 
-People constantly complain Hollywood doesn't represent them enough. Then, when they're finally given the Hollywood treatment, they always complain: they flattened the nuance, got the tone all wrong, replaced real people with tropes.
+In a When Shift Happens podcast @KevinWSHPod aired November 12, 2026, Dragonfly m…
 
-But that's what Hollywood is. It's the great American art form. It's how all American stories are told. Athletes, activists, cowboys, and serial killers--everyone gets their story told with the same narrative language. 
-
-If you believe AI labs are now the main character of history, then you shouldn't complain that Hollywood Hollywood'ed them.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 210  
-https://x.com/hosseeb/status/2124300642114224216
-
-## 2026-11-22 00:36 UTC · цитата
-
-"Hollywood got my subculture wrong" is always a bad take, even when it's your subculture.
-
-People constantly complain Hollywood doesn't represent them enough. Then, when they're finally given the Hollywood treatment, they always complain: they flattened the nuance, got the tone all wrong, replaced real people with tropes.
-
-But that's what Hollywood is. It's the great American art form. It's how all American stories are told. Athletes, activists, cowboys, and serial killers—everyone gets their story told with the same narrative language. 
-
-If you believe AI labs are now the main character of history, then you shouldn't complain that Hollywood Hollywood'ed them.
-
-❤ 27 · 🔁 0 · 💬 8 · цитат 2 · просмотров 4517  
-https://x.com/hosseeb/status/2124300855289802991
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 1452  
+https://x.com/hosseeb/status/2124575946024038833

@@ -1,85 +1,80 @@
-# @MustStopMurad — посты за 2026-11-22
+# @MustStopMurad — посты за 2026-11-23
 
-Всего: 8
+Всего: 9
 
-## 2026-11-21 10:38 UTC · пост
+## 2026-11-22 10:59 UTC · репост
 
-This is when all the generational wealth in Crypto is made.
+RT @aeontrux: spx6900 will prove to be the most resilient community in all of crypto.
 
-It’s just collected many years later.
+the degree of delusional bullishness is genuinely un…
 
-Buy and Hold.
+❤ 0 · 🔁 28 · 💬 0 · цитат 0 · просмотров 23724  
+https://x.com/MustStopMurad/status/2124457743243473364
 
-❤ 1211 · 🔁 173 · 💬 171 · цитат 18 · просмотров 49059  
-https://x.com/MustStopMurad/status/2124090018725794035
+## 2026-11-22 11:28 UTC · пост
 
-## 2026-11-21 12:09 UTC · репост
+Only if you build a Community where most people are prepared to go hard for the next 10+ years will the coin go into Trillions.
 
-RT @OliverHeldens: Very interesting perspectives🤔 I’m not interested in trading (98% of traders lose), but with the big market correction n…
+Must people are unwilling to do this. The ones that are, will thrive beyond imagination.
 
-❤ 0 · 🔁 76 · 💬 0 · цитат 0 · просмотров 23742  
-https://x.com/MustStopMurad/status/2124112854756347927
+❤ 699 · 🔁 104 · 💬 142 · цитат 17 · просмотров 41432  
+https://x.com/MustStopMurad/status/2124465024421040161
 
-## 2026-11-21 14:36 UTC · пост
+## 2026-11-22 12:51 UTC · репост
 
-Being in Crypto and on Crypto Twitter in 2027 and NOT being a part of such an EARLY stage of SPX6900 will eventually be a HUGE regret for thousands of people.
+RT @AeonDubbing: If your seeing this post and have read through the comments and are still going to fade “SPX 6900” then I don’t know what…
 
-It’s like hanging out on Bitcointalk forums in early 2011 and not buying any at $0.30
+❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 24311  
+https://x.com/MustStopMurad/status/2124485807524479419
 
-❤ 834 · 🔁 147 · 💬 120 · цитат 11 · просмотров 44377  
-https://x.com/MustStopMurad/status/2124149847754441089
+## 2026-11-22 14:16 UTC · пост
 
-## 2026-11-21 16:45 UTC · пост
+spx6900 attracts the NON-materialistic and NON-money-hungry people, that's why it will thrive for 10+ years and will go to many many Trillions.
 
-The AGI buildout is the "Hail Mary Play" of the entire Hyper-Financialized and Under-Industrialized Western Civilization
+❤ 670 · 🔁 133 · 💬 106 · цитат 3 · просмотров 39625  
+https://x.com/MustStopMurad/status/2124507367702397407
 
-An all or nothing play, which, if successful, will bail out the massively overleveraged and overindebted global fiat economy.
+## 2026-11-22 15:57 UTC · репост
 
-They cannot allow the AI buildout to decelerate too much. 
+RT @realcryptocow: Each washout makes SPX6900 stronger and the rest of the market weaker.
 
-At around -20% to -25% dip in the stock market, they will begin to print.
+❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 22895  
+https://x.com/MustStopMurad/status/2124532845796356549
 
-As a Crypto Holder, you should be cheering for the Big Print, as that is the economic regime where Crypto thrives the most. We haven’t experienced it since 2020-2021; this is why the 2022-2025 cycle felt so underwhelming.
+## 2026-11-22 16:33 UTC · пост
 
-This is why large dips in TradFi markets should make you happy as a Crypto Holder.
+The reason why it’s always the Holders who end up winning massively, and not the traders is because:
 
-Because it means that we are getting THAT much closer to the next Euphoric Bull Market in Crypto.
+Trading requires you to make a million correct decisions to be profitable. The likelihood of which is zero.
 
-The Patient shall inherit the World.
+Holding requires you to make 1 right decision to make life-changing
 
-❤ 495 · 🔁 103 · 💬 62 · цитат 10 · просмотров 34371  
-https://x.com/MustStopMurad/status/2124182508271018258
+❤ 855 · 🔁 137 · 💬 182 · цитат 16 · просмотров 43797  
+https://x.com/MustStopMurad/status/2124541733178331602
 
-## 2026-11-21 18:05 UTC · репост
+## 2026-11-22 18:34 UTC · репост
 
-RT @BasedAeon: I have always felt an intrinsic need to defy our pre-defined systems. To question our social structures, imposed cultural va…
-
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/MustStopMurad/status/2124202565063897320
-
-## 2026-11-21 19:34 UTC · пост
-
-The longer the Reaccumulation, the bigger the future Parabola.
-
-❤ 891 · 🔁 144 · 💬 136 · цитат 17 · просмотров 41654  
-https://x.com/MustStopMurad/status/2124224897505177780
-
-## 2026-11-21 22:02 UTC · репост
-
-RT @jimcramer: Market sliced right through to my SPX 6900 target... Have to reconfigure this weekend.
-
-❤ 0 · 🔁 408 · 💬 0 · цитат 0 · просмотров 17837  
-https://x.com/MustStopMurad/status/2124262236109897896
-
-## 2026-11-22 01:02 UTC · пост
-
-Why Tokenized Movements are the Future of Crypto
+RT @MustStopMurad: Why Tokenized Movements are the Future of Crypto
 
 Join our Spaces Tomorrow Sunday (Nov 22) 2pm EST / 7pm UTC
 
-Set your reminder below👇
+Set your r…
 
- https://t.co/pM5jna1tTp
+❤ 0 · 🔁 91 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/MustStopMurad/status/2124572229375557795
 
-❤ 235 · 🔁 61 · 💬 31 · цитат 3 · просмотров 23226  
-https://x.com/MustStopMurad/status/2124307459695075399
+## 2026-11-22 19:00 UTC · пост
+
+https://t.co/pM5jna1tTp
+
+❤ 229 · 🔁 60 · 💬 59 · цитат 9 · просмотров 31304  
+https://x.com/MustStopMurad/status/2124578901154218041
+
+## 2026-11-22 23:04 UTC · пост
+
+SPX6900 is the next Bitcoin.
+
+It has a different shape, and a different flavor, but at its core, it is accomplishing the same thing — Wealth Redistribution at a large scale.
+
+❤ 666 · 🔁 128 · 💬 100 · цитат 8 · просмотров 36419  
+https://x.com/MustStopMurad/status/2124640102173593898

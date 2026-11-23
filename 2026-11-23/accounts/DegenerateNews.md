@@ -1,0 +1,53 @@
+# @DegenerateNews — посты за 2026-11-23
+
+Всего: 6
+
+## 2026-11-22 15:42 UTC · пост
+
+NEW: $BTC HAS NOW SPENT 2 STRAIGHT WEEKS BELOW THE BITCOIN RAINBOW CHART'S LOWEST BAND - "BITCOIN IS DEAD"
+
+IT'S 21% UNDER THE BAND - WHICH WAS ADDED IN 2022 AFTER BTC FIRST BROKE BELOW THE CHART https://t.co/WvDWOSDFij
+
+❤ 454 · 🔁 26 · 💬 121 · цитат 28 · просмотров 93056  
+https://x.com/DegenerateNews/status/2124529037553144099
+
+## 2026-11-22 17:19 UTC · пост
+
+SALE: @BoredApeYC #8746 JUST SOLD FOR $250K $USDC https://t.co/NlbN7WUdoe
+
+❤ 530 · 🔁 36 · 💬 83 · цитат 17 · просмотров 58481  
+https://x.com/DegenerateNews/status/2124553329657126977
+
+## 2026-11-22 19:38 UTC · пост
+
+NEW: BLOCKCHAIN GAME @fusionistio IS BEING EXPLOITED ON BSC - PER SECURITY FIRM @blockaid_
+
+A PRIVILEGED BRIDGE MINTER MINTED UNBACKED $ACE AND SOLD IT FOR ~$1.04M $USDT https://t.co/2DBuxNX1qr
+
+❤ 68 · 🔁 7 · 💬 26 · цитат 2 · просмотров 19922  
+https://x.com/DegenerateNews/status/2124588312060932589
+
+## 2026-11-22 21:02 UTC · пост
+
+ICYMI: @Visa CRYPTO LABS HEAD @cuysheffield LAUNCHES A NEW VERSION OF VISA CLI, AN AI AGENT WALLET
+
+USERS VERIFY THEIR AGENT WITH A VISA CARD, THEN EARN OUSD BY COMPLETING CREATIVE TASKS https://t.co/sQVoEGKSV2
+
+❤ 110 · 🔁 8 · 💬 29 · цитат 2 · просмотров 19477  
+https://x.com/DegenerateNews/status/2124609447729279189
+
+## 2026-11-22 22:25 UTC · пост
+
+NEW: @telegram CEO @durov SAYS "THE LEAST REALISTIC THING ABOUT GTA VI IS THAT JASON AND LUCIA RUN A WHOLE CRIMINAL OPERATION WITHOUT A SINGLE TELEGRAM GROUP" https://t.co/K7xYovYUkh
+
+❤ 565 · 🔁 14 · 💬 55 · цитат 6 · просмотров 41401  
+https://x.com/DegenerateNews/status/2124630415034220554
+
+## 2026-11-23 01:15 UTC · пост
+
+NEW: @Securitize HEAD OF ECOSYSTEM @grahamfergs SAYS "PRETENDING LIKE @Backpack AND OTHER SYNTHETIC TOKENIZED STOCK PLATFORMS ARE A SUCCESS IS A GREAT DISSERVICE" TO @solana
+
+@Ondo HEAD OF DEFI @fullportmatt ADDS BACKPACK TOKENIZED STOCK VOLUMES "ARE A BAD METRIC FOR ADOPTION" https://t.co/0rwOShcvpQ
+
+❤ 120 · 🔁 3 · 💬 40 · цитат 11 · просмотров 26054  
+https://x.com/DegenerateNews/status/2124673266845401478

@@ -1,55 +1,53 @@
-# @DegenerateNews — посты за 2026-11-22
+# @DegenerateNews — посты за 2026-11-23
 
 Всего: 6
 
-## 2026-11-21 12:05 UTC · пост
+## 2026-11-22 15:42 UTC · пост
 
-BREAKING: $BTC HIT 24,250 CAD (~$16,950) ON @krakenfx - 70% BELOW ITS USUAL PRICE
+NEW: $BTC HAS NOW SPENT 2 STRAIGHT WEEKS BELOW THE BITCOIN RAINBOW CHART'S LOWEST BAND - "BITCOIN IS DEAD"
 
-TWO 10.42 $BTC MARKET SELLS FILLED AT ~25,500 CAD (~$17,800) ON AVERAGE
+IT'S 21% UNDER THE BAND - WHICH WAS ADDED IN 2022 AFTER BTC FIRST BROKE BELOW THE CHART https://t.co/WvDWOSDFij
 
-KRAKEN SAYS "EXECUTED TRADES STAND" https://t.co/mFH5rzM78X
+❤ 454 · 🔁 26 · 💬 121 · цитат 28 · просмотров 93056  
+https://x.com/DegenerateNews/status/2124529037553144099
 
-❤ 514 · 🔁 40 · 💬 64 · цитат 20 · просмотров 77179  
-https://x.com/DegenerateNews/status/2124111936191189492
+## 2026-11-22 17:19 UTC · пост
 
-## 2026-11-21 12:09 UTC · ответ
+SALE: @BoredApeYC #8746 JUST SOLD FOR $250K $USDC https://t.co/NlbN7WUdoe
 
-@krakenfx Subscribe to the DEGEN NEWS feed on Telegram: https://t.co/gF6NZhPNqs. https://t.co/4mFX2XRBA3
+❤ 530 · 🔁 36 · 💬 83 · цитат 17 · просмотров 58481  
+https://x.com/DegenerateNews/status/2124553329657126977
 
-❤ 7 · 🔁 1 · 💬 2 · цитат 0 · просмотров 6104  
-https://x.com/DegenerateNews/status/2124113079130632342
+## 2026-11-22 19:38 UTC · пост
 
-## 2026-11-21 17:16 UTC · пост
+NEW: BLOCKCHAIN GAME @fusionistio IS BEING EXPLOITED ON BSC - PER SECURITY FIRM @blockaid_
 
-NEW: @worldlibertyfi CEO @ZachWitkoff SAYS @netflix'S FTX SERIES PORTRAYAL OF @binance FOUNDER @cz_binance IS "OBJECTIVELY INSANE AND RACIST"
+A PRIVILEGED BRIDGE MINTER MINTED UNBACKED $ACE AND SOLD IT FOR ~$1.04M $USDT https://t.co/2DBuxNX1qr
 
-HE SAYS NETFLIX MADE CZ'S VOICE "SOUND MORE ASIAN" WHILE "MAKING SBF SEEM LIKE A NAIVE HERO" https://t.co/ZyNM8zCnmM
+❤ 68 · 🔁 7 · 💬 26 · цитат 2 · просмотров 19922  
+https://x.com/DegenerateNews/status/2124588312060932589
 
-❤ 141 · 🔁 12 · 💬 35 · цитат 2 · просмотров 25327  
-https://x.com/DegenerateNews/status/2124190133167534460
+## 2026-11-22 21:02 UTC · пост
 
-## 2026-11-21 20:16 UTC · пост
+ICYMI: @Visa CRYPTO LABS HEAD @cuysheffield LAUNCHES A NEW VERSION OF VISA CLI, AN AI AGENT WALLET
 
-NEW: @fomo FLIPS @MetaMask IN 30-DAY @HyperliquidX BUILDER CODE REVENUE https://t.co/EyrYgUNzT3
+USERS VERIFY THEIR AGENT WITH A VISA CARD, THEN EARN OUSD BY COMPLETING CREATIVE TASKS https://t.co/sQVoEGKSV2
 
-❤ 99 · 🔁 3 · 💬 17 · цитат 1 · просмотров 18910  
-https://x.com/DegenerateNews/status/2124235605953630274
+❤ 110 · 🔁 8 · 💬 29 · цитат 2 · просмотров 19477  
+https://x.com/DegenerateNews/status/2124609447729279189
 
-## 2026-11-21 23:17 UTC · пост
+## 2026-11-22 22:25 UTC · пост
 
-NEW: @sunrise SAYS @solana LED TOKENIZED $ANT DEX VOLUME IN ITS FIRST TWO DAYS WITH $140M+ - MORE THAN EVERY OTHER CHAIN COMBINED
+NEW: @telegram CEO @durov SAYS "THE LEAST REALISTIC THING ABOUT GTA VI IS THAT JASON AND LUCIA RUN A WHOLE CRIMINAL OPERATION WITHOUT A SINGLE TELEGRAM GROUP" https://t.co/K7xYovYUkh
 
-@RobinhoodCrypto CHAIN CAME SECOND AT $64M https://t.co/jWjCIRyTdV
+❤ 565 · 🔁 14 · 💬 55 · цитат 6 · просмотров 41401  
+https://x.com/DegenerateNews/status/2124630415034220554
 
-❤ 133 · 🔁 15 · 💬 31 · цитат 2 · просмотров 18812  
-https://x.com/DegenerateNews/status/2124281154711019792
+## 2026-11-23 01:15 UTC · пост
 
-## 2026-11-22 01:37 UTC · пост
+NEW: @Securitize HEAD OF ECOSYSTEM @grahamfergs SAYS "PRETENDING LIKE @Backpack AND OTHER SYNTHETIC TOKENIZED STOCK PLATFORMS ARE A SUCCESS IS A GREAT DISSERVICE" TO @solana
 
-NEW: @solana CO-FOUNDER @rajgokal SAYS "THE NEXT BIG FIGHT IN CRYPTO IS FINANCIAL INTERNET VS FINANCIAL INTRANETS"
+@Ondo HEAD OF DEFI @fullportmatt ADDS BACKPACK TOKENIZED STOCK VOLUMES "ARE A BAD METRIC FOR ADOPTION" https://t.co/0rwOShcvpQ
 
-SOLANA VS SEMI-PERMISSIONED CHAINS LIKE @CantonNetwork, @arc AND @tempo https://t.co/46PYsNIGD6
-
-❤ 138 · 🔁 6 · 💬 35 · цитат 1 · просмотров 18051  
-https://x.com/DegenerateNews/status/2124316303699714415
+❤ 120 · 🔁 3 · 💬 40 · цитат 11 · просмотров 26054  
+https://x.com/DegenerateNews/status/2124673266845401478

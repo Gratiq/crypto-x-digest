@@ -1,0 +1,37 @@
+[
+ {
+  "id": "2124445887355117600",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "original",
+  "created_at": "2026-11-22T10:12:24.000Z",
+  "text": "\"if you can't tell whose side someone is on, they're not on yours.\" – buffett, 2002 letter",
+  "url": "https://x.com/santiagoroel/status/2124445887355117600",
+  "likes": 2217,
+  "retweets": 251,
+  "replies": 19,
+  "quotes": 10,
+  "impressions": 41143,
+  "bookmarks": 417
+ },
+ {
+  "id": "2124557754253574428",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "retweet",
+  "created_at": "2026-11-22T17:36:55.000Z",
+  "text": "RT @WordsnWisdom26: \"Most people die at 27. We just bury them at 72.\n\n— Mark Twain",
+  "url": "https://x.com/santiagoroel/status/2124557754253574428",
+  "likes": 0,
+  "retweets": 1362,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1429,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124276923224248411",
+   "text": "\"Most people die at 27. We just bury them at 72.\n\n— Mark Twain"
+  }
+ }
+]

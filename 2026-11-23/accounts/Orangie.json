@@ -1,0 +1,62 @@
+[
+ {
+  "id": "2124551066591412675",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "quote",
+  "created_at": "2026-11-22T17:10:21.000Z",
+  "text": "&gt;woke up this morning &amp; saw this tweet\n\n&gt; told my @bot to do it \n\n&gt; $1,600 in refunds that Amazon never returned https://t.co/qq6CrFMFeq https://t.co/9tjyksIDXK",
+  "url": "https://x.com/orangie/status/2124551066591412675",
+  "likes": 415,
+  "retweets": 6,
+  "replies": 55,
+  "quotes": 0,
+  "impressions": 122661,
+  "bookmarks": 344,
+  "referenced": {
+   "type": "quoted",
+   "id": "2124119636698616296",
+   "text": "If you have used Amazon at all in the last 9 years then it is extremely likely that they have taken advantage of you and owe you money. \n\nThe deadline is December 1st. \n\nLess than 10 days to file your claim. \n\nIt is your money and you need it NOW! \n\nIf you don't have time, tag https://t.co/1cEHC3eoQf"
+  }
+ },
+ {
+  "id": "2124553520389181617",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "reply",
+  "created_at": "2026-11-22T17:20:06.000Z",
+  "text": "@drag0nm4n @bot @inversebrah",
+  "url": "https://x.com/orangie/status/2124553520389181617",
+  "likes": 15,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 5029,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124553368794538014",
+   "text": "@orangie @bot Amazing now only down 198400 this week"
+  }
+ },
+ {
+  "id": "2124712496087138583",
+  "username": "orangie",
+  "username_canon": "Orangie",
+  "type": "reply",
+  "created_at": "2026-11-23T03:51:48.000Z",
+  "text": "@NestorLRamos How can I make one",
+  "url": "https://x.com/orangie/status/2124712496087138583",
+  "likes": 6,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1069,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124656281440989331",
+   "text": "Asked my BotPod how it's different from Alexa… \n\nso it just pulled up a Starship launch 🚀 Alexa could never!!! https://t.co/RdiyiK05sD"
+  }
+ }
+]

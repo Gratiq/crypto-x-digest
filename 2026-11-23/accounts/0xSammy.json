@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2124592019666252026",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-22T19:53:05.000Z",
+  "text": "@TheKeadar Christ insane efficiency",
+  "url": "https://x.com/0xSammy/status/2124592019666252026",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 528,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124502649735463056",
+   "text": "You will regret getting married and starting a family in your 30s\n\nYou won’t regret being the 60,000 player to max in runescape https://t.co/l6JLSMjvMp"
+  }
+ },
+ {
+  "id": "2124592347724091564",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-22T19:54:23.000Z",
+  "text": "RT @RoaringKitty: it's like the 2008 financial crisis, except none of us have houses to lose",
+  "url": "https://x.com/0xSammy/status/2124592347724091564",
+  "likes": 0,
+  "retweets": 2210,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 3006,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124364334692504029",
+   "text": "it's like the 2008 financial crisis, except none of us have houses to lose"
+  }
+ }
+]
