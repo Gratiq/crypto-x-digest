@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2124773826022048089",
+  "username": "theunipcs",
+  "username_canon": "Theunipcs",
+  "type": "retweet",
+  "created_at": "2026-11-23T07:55:31.000Z",
+  "text": "RT @basilda_a: saw people dunking on bonkguy on my timeline, so naturally i called a bottom on his bags.\n\nthink many people underestimate h…",
+  "url": "https://x.com/theunipcs/status/2124773826022048089",
+  "likes": 0,
+  "retweets": 8,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 22686,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124749681410650486",
+   "text": "saw people dunking on bonkguy on my timeline, so naturally i called a bottom on his bags.\n\nthink many people underestimate how big @theunipcs comeback is going to be."
+  }
+ },
+ {
+  "id": "2124773865289388453",
+  "username": "theunipcs",
+  "username_canon": "Theunipcs",
+  "type": "reply",
+  "created_at": "2026-11-23T07:55:40.000Z",
+  "text": "@basilda_a yeh they're all going to be surprised\n\nGOD WILLING",
+  "url": "https://x.com/theunipcs/status/2124773865289388453",
+  "likes": 219,
+  "retweets": 7,
+  "replies": 72,
+  "quotes": 5,
+  "impressions": 8418,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124749681410650486",
+   "text": "saw people dunking on bonkguy on my timeline, so naturally i called a bottom on his bags.\n\nthink many people underestimate how big @theunipcs comeback is going to be."
+  }
+ }
+]

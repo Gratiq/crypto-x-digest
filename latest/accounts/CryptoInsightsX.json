@@ -1,42 +1,77 @@
 [
  {
-  "id": "2124482911273726008",
+  "id": "2124796002486173894",
   "username": "CryptoInsightsX",
   "username_canon": "CryptoInsightsX",
-  "type": "quote",
-  "created_at": "2026-11-22T12:39:31.000Z",
-  "text": "Daily Market Overview: EXTREME FEAR\nNov 22, 2026\n\n #BTC price trades around $60K \n \nIn the past 24 hours, 72,391 traders(80.0% Short) liquidated. Total liquidations were $425.45M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/EfcZR0b2O4 https://t.co/nTKUgBtQuM",
-  "url": "https://x.com/CryptoInsightsX/status/2124482911273726008",
-  "likes": 3,
-  "retweets": 0,
+  "type": "reply",
+  "created_at": "2026-11-23T09:23:38.000Z",
+  "text": "@HachikoInuCTO Hi Hachiko🙌🏻",
+  "url": "https://x.com/CryptoInsightsX/status/2124796002486173894",
+  "likes": 5,
+  "retweets": 3,
   "replies": 1,
-  "quotes": 1,
-  "impressions": 211,
+  "quotes": 0,
+  "impressions": 60,
   "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2124095488509276322",
-   "text": "Daily Market Overview: EXTREME FEAR\nNov 21, 2026\n\n #BTC price trades around $57K \n\nIn the past 24 hours, 357,496 traders(89.3% Long) liquidated. Total liquidations were $2.54B\n \n#CryptoNews #Crypto bitcoin:native https://t.co/PdyYtqSvxq https://t.co/kVqcLWgjlD"
+   "type": "replied_to",
+   "id": "2124773525651095748",
+   "text": "Hachiko is Bullrun 🐂\n\nStay loyal. Hunt bears. 🐕🎣🐻💪 https://t.co/03D5oIRQdz"
   }
  },
  {
-  "id": "2124743065227464795",
+  "id": "2124866580186357967",
   "username": "CryptoInsightsX",
   "username_canon": "CryptoInsightsX",
-  "type": "quote",
-  "created_at": "2026-11-23T05:53:17.000Z",
-  "text": "Daily Market Overview: EXTREME FEAR\nNov 23, 2026\n\n #BTC price trades around $61K \n \nIn the past 24 hours, 69,980 traders(79.6% Short) liquidated. Total liquidations were $292.56M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/5bjpwu7vEP https://t.co/IGgliEKBpz",
-  "url": "https://x.com/CryptoInsightsX/status/2124743065227464795",
+  "type": "reply",
+  "created_at": "2026-11-23T14:04:05.000Z",
+  "text": "@Abrlien Gratz AB, Huge Achievement !!!",
+  "url": "https://x.com/CryptoInsightsX/status/2124866580186357967",
   "likes": 1,
   "retweets": 0,
-  "replies": 1,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 68,
+  "impressions": 19,
   "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2124482911273726008",
-   "text": "Daily Market Overview: EXTREME FEAR\nNov 22, 2026\n\n #BTC price trades around $60K \n \nIn the past 24 hours, 72,391 traders(80.0% Short) liquidated. Total liquidations were $425.45M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/EfcZR0b2O4 https://t.co/nTKUgBtQuM"
+   "type": "replied_to",
+   "id": "2124676446400500013",
+   "text": "Finally here with U.S. President Donald J. Trump!  🇺🇸🦅\n\nKeep building https://t.co/QaWqspAtVU https://t.co/6cIuHtw6Gw"
   }
+ },
+ {
+  "id": "2124868747739729972",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "reply",
+  "created_at": "2026-11-23T14:12:42.000Z",
+  "text": "@WatcherGuru We're so back :D",
+  "url": "https://x.com/CryptoInsightsX/status/2124868747739729972",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 670,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124866754430255196",
+   "text": "JUST IN: Bitcoin surges to $63,000 as $250,000,000 in shorts are liquidated from the crypto market in 10 minutes. https://t.co/RoH5yACozo"
+  }
+ },
+ {
+  "id": "2124871156390154347",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "original",
+  "created_at": "2026-11-23T14:22:16.000Z",
+  "text": "BREAKING: Nvidia has reappointed @JensenHuang as CEO and Chairman.\n\nNVDA shares surged 25% following the news, helping push bitcoin:native back above $63K.\n\nBitcoin's momentum is building, with $280.82M in short positions liquidated in just the past hour. https://t.co/gBKLcDrSly",
+  "url": "https://x.com/CryptoInsightsX/status/2124871156390154347",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 93,
+  "bookmarks": 0
  }
 ]

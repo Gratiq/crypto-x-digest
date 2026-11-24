@@ -1,132 +1,157 @@
-# @DefiIgnas — посты за 2026-11-23
+# @DefiIgnas — посты за 2026-11-24
 
-Всего: 13
+Всего: 16
 
-## 2026-11-22 15:16 UTC · ответ
+## 2026-11-23 09:39 UTC · цитата
 
-@Fiskantes Good post.
+Best marketing for a project is a pumping token price
 
-After years of being 100% deployed to crypto my new strategy will be to have 10% to 20% of all portfolio in crypto with the rest in boring tradfi stuff.
+$VVV pumps and suddenly everyone curious why? 
 
-Too old to risk it all. Peace of mind is useful not to get desperate. 
+They go check the app. Try it. Like it. And maybe even buy the token.
 
-And with that crypto allocation go deep:
+I believe this is how @mzeller got bullish on it? lol https://t.co/cnZAF9990f
 
-❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 735  
-https://x.com/DefiIgnas/status/2124522493683634260
+❤ 152 · 🔁 1 · 💬 35 · цитат 1 · просмотров 11435  
+https://x.com/DefiIgnas/status/2124800012693762370
 
-## 2026-11-22 16:17 UTC · пост
+## 2026-11-23 09:49 UTC · ответ
 
-Revolut's EUR stablecoin has 54 onchain holders 3 months after the $EURR launch
+@AirdropGlideApp No need to stop posting because your thesis on Cosmos didnt play out.
 
-On paper Revolut could nail the adoption as the app has millions of users and onchain withdrawals/deposits are smooth.
+Can easily pivot and keep your curiousity in crypto alive by posting about anything else you find fun
 
-Would love to see Revolut partnering with DeFi apps to promote adoption, create https://t.co/zsnnGRUcvA
+❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 695  
+https://x.com/DefiIgnas/status/2124802543268274392
 
-❤ 88 · 🔁 3 · 💬 36 · цитат 1 · просмотров 10585  
-https://x.com/DefiIgnas/status/2124537806290915453
+## 2026-11-23 11:41 UTC · пост
 
-## 2026-11-22 16:24 UTC · пост
+$VAR TGE is coming just as $LIT unlocks gonna start.
 
-The single highest ROI task for Grok Bot is "bag monitor"
+VAR has more open interest than Lighter:
 
-So many investors buy tokens but fail to keep a close eye on what's happening to their eggs.
+$653M vs Lighter $552M
 
-Just tell Grok Bot what you're holding and it will update you daily so you're never caught off guard.
+Of course, people are farming the VAR airdrop. Although Lighter has points farming on Robinhood Chain too.
 
-I learned the lesson by https://t.co/iFXrkxH8J6
+So we don't know how much activity stays when https://t.co/Xsk94jVf1A
 
-❤ 104 · 🔁 3 · 💬 30 · цитат 1 · просмотров 11996  
-https://x.com/DefiIgnas/status/2124539470968246415
+❤ 137 · 🔁 7 · 💬 36 · цитат 2 · просмотров 16769  
+https://x.com/DefiIgnas/status/2124830590696624387
 
-## 2026-11-22 16:24 UTC · ответ
+## 2026-11-23 11:44 UTC · цитата
 
-@milaidik there is no incentive to use EURR right now.
+Judging from my experience, those who joined crypto pre-DeFi summer days, done well.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 229  
-https://x.com/DefiIgnas/status/2124539605362127088
+Those who joined after, are probably flat.
 
-## 2026-11-22 16:27 UTC · ответ
+Those who joined when pump fun memecoin mania started, are rekt beyond belief. https://t.co/RQnCQ5re76
 
-@netrovertHQ i have a trading bot that is flat over the month lol not bad considering the crash
+❤ 128 · 🔁 2 · 💬 37 · цитат 0 · просмотров 10675  
+https://x.com/DefiIgnas/status/2124831377199652881
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 262  
-https://x.com/DefiIgnas/status/2124540385406153065
+## 2026-11-23 12:43 UTC · ответ
 
-## 2026-11-22 16:51 UTC · цитата
+@Only1temmy Flat at these market prices is good
 
-I really want Derive $DRV to succeed:
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 287  
+https://x.com/DefiIgnas/status/2124846392598237461
 
-They launched as Lyra (on Optimism) in 2021 with a $3.3m seed round.
+## 2026-11-23 14:00 UTC · ответ
 
-Spent years trying to make onchain options work but struggled with liquidity.
+@DeriveXYZ Booolish
 
-Competition was fierce: Hegic was market leader but we had GMX, Opyn, Paradex etc.
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 282  
+https://x.com/DefiIgnas/status/2124865663567282281
 
-'There https://t.co/Z6OFXGISzj
+## 2026-11-23 14:08 UTC · пост
 
-❤ 213 · 🔁 7 · 💬 35 · цитат 2 · просмотров 15316  
-https://x.com/DefiIgnas/status/2124546243821232155
+Pls buy SPOT and not 10x perp again if you are bullish on this pump
 
-## 2026-11-22 16:51 UTC · ответ
+Don't let the market take it from you again. 
 
-Investing in onchain options is simple: there is just one protocol. https://t.co/7OwHBqytC8
+And you'll actually contribute to the crypto prices pumping.
 
-❤ 20 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1744  
-https://x.com/DefiIgnas/status/2124546260405461071
+❤ 75 · 🔁 0 · 💬 13 · цитат 1 · просмотров 6713  
+https://x.com/DefiIgnas/status/2124867693006508300
 
-## 2026-11-22 17:19 UTC · ответ
+## 2026-11-23 15:47 UTC · цитата
 
-@bjnpck good for not so active traders
+1) Crypto natives better bet on NVDA stock onchain with stablecoins than buy BTC
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 235  
-https://x.com/DefiIgnas/status/2124553282525753576
+2) Jensen back means circular AI financing continues to soak all liquidity to AI. Bad for crypto
 
-## 2026-11-22 21:39 UTC · ответ
+3) We got so rekt and PTSD means we still scared to bet on crypto https://t.co/QGsmmCnERq
 
-@JasonYanowitz i actually have paid but not all APIs are enabled. not sure how to enable them all lol https://t.co/z4UCeLDNe2
+❤ 99 · 🔁 3 · 💬 22 · цитат 2 · просмотров 9379  
+https://x.com/DefiIgnas/status/2124892611513327908
 
-❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 337  
-https://x.com/DefiIgnas/status/2124618805439762629
+## 2026-11-23 15:52 UTC · ответ
 
-## 2026-11-22 22:20 UTC · пост
+@Pickle_cRypto But but wash trading... !!!
 
-Should we get less bullish when revenue token suddenly pumps 2x?
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 331  
+https://x.com/DefiIgnas/status/2124893829673185486
 
-Because MC/revenue doubles too making the token less attractive to new buyers
+## 2026-11-23 15:55 UTC · ответ
 
-Yet crypto is memetic and when a token pumps it attracts more attention and I even believe that more users:
+@eth_apple dumping btc to buy nvda dump duh...
 
-If $DRV pumping it means
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 299  
+https://x.com/DefiIgnas/status/2124894631296921748
 
-❤ 59 · 🔁 1 · 💬 22 · цитат 0 · просмотров 7133  
-https://x.com/DefiIgnas/status/2124629088228844006
+## 2026-11-23 16:28 UTC · ответ
 
-## 2026-11-23 04:20 UTC · репост
+@0xvietnguyen been there. done that
 
-RT @DefiIgnas: Revolut's EUR stablecoin has 54 onchain holders 3 months after the $EURR launch
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1360  
+https://x.com/DefiIgnas/status/2124902855496851474
 
-On paper Revolut could nail the adoption as…
+## 2026-11-23 17:30 UTC · пост
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2124719687586222408
+Didn't think crypto could look worse
 
-## 2026-11-23 04:30 UTC · репост
+But after retracing all the pump while equities still up, crypto looks even more bearish than yesterday.
 
-RT @DefiIgnas: The single highest ROI task for Grok Bot is "bag monitor"
+❤ 305 · 🔁 7 · 💬 42 · цитат 1 · просмотров 15315  
+https://x.com/DefiIgnas/status/2124918490801033358
 
-So many investors buy tokens but fail to keep a close eye on what…
+## 2026-11-23 19:12 UTC · ответ
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2124722133419081911
+@Proof_of_Snark so cooked
 
-## 2026-11-23 05:00 UTC · репост
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 576  
+https://x.com/DefiIgnas/status/2124944070132879406
 
-RT @DefiIgnas: I really want Derive $DRV to succeed:
+## 2026-11-23 23:00 UTC · пост
 
-They launched as Lyra (on Optimism) in 2021 with a $3.3m seed round.
+Crypto ppl liking London post got viral on /london  sub reddit
 
-Spent years try…
+Not surprisingly top upvoted comments is all hating on crypto bros
+
+"I don't want those crypto-wanks here anyway - they're obviously fucking morons"
+
+"noooo, don't let them know, the tech bros will want to come and https://t.co/l8VgZuhvbs
+
+❤ 30 · 🔁 0 · 💬 11 · цитат 2 · просмотров 9076  
+https://x.com/DefiIgnas/status/2125001542550028691
+
+## 2026-11-23 23:02 UTC · ответ
+
+at least they think we are still rich so that's nice. https://t.co/nkBUOp2PLl
+
+❤ 12 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1108  
+https://x.com/DefiIgnas/status/2125002033094647847
+
+## 2026-11-23 23:50 UTC · репост
+
+RT @DefiIgnas: $VAR TGE is coming just as $LIT unlocks gonna start.
+
+VAR has more open interest than Lighter:
+
+$653M vs Lighter $552M
+
+Of c…
 
 ❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2124729684093227195
+https://x.com/DefiIgnas/status/2125014043127885958

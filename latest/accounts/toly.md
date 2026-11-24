@@ -1,279 +1,492 @@
-# @toly — посты за 2026-11-23
+# @toly — посты за 2026-11-24
 
-Всего: 36
+Всего: 68
 
-## 2026-11-22 13:47 UTC · ответ
+## 2026-11-23 14:32 UTC · цитата
 
-@SquatsAlot420 It wouldn’t.  Since we can’t prove it’s not possible to prove.  It would suggest a simulation that is beyond our understanding
+👑👑👑 https://t.co/8b8nnJwwzv
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1969  
-https://x.com/toly/status/2124499968883143150
+❤ 133 · 🔁 12 · 💬 2 · цитат 1 · просмотров 19565  
+https://x.com/toly/status/2124873779612643684
 
-## 2026-11-22 13:49 UTC · цитата
+## 2026-11-23 14:34 UTC · цитата
 
-👑👑👑 https://t.co/gAnEaQVWUv
+🦄🦄🦄 https://t.co/Csn9bh7Ro4
 
-❤ 22 · 🔁 1 · 💬 0 · цитат 0 · просмотров 20689  
-https://x.com/toly/status/2124500432861151667
+❤ 88 · 🔁 3 · 💬 2 · цитат 1 · просмотров 20958  
+https://x.com/toly/status/2124874183062802802
 
-## 2026-11-22 13:51 UTC · цитата
+## 2026-11-23 14:37 UTC · цитата
 
-&gt; every millisecond of latency is a moral failure
+📱📱📱 https://t.co/PnaITVbtkv
 
-This is basically my monthly 1:1 with @anza_xyz https://t.co/RaIz5U79kE
+❤ 105 · 🔁 13 · 💬 3 · цитат 4 · просмотров 19053  
+https://x.com/toly/status/2124874910099223021
 
-❤ 82 · 🔁 5 · 💬 3 · цитат 1 · просмотров 29238  
-https://x.com/toly/status/2124500951889535225
+## 2026-11-23 14:37 UTC · цитата
 
-## 2026-11-22 13:55 UTC · цитата
+📱📱📱 https://t.co/Z40gLDRyAw
 
-👑👑👑 https://t.co/PP3cs1KNZO
+❤ 61 · 🔁 6 · 💬 1 · цитат 1 · просмотров 6262  
+https://x.com/toly/status/2124874942894453047
 
-❤ 105 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14990  
-https://x.com/toly/status/2124501935466447048
+## 2026-11-23 14:43 UTC · ответ
 
-## 2026-11-22 14:00 UTC · цитата
+@ArthurB Discovering it now is better then discovering it later.
 
-🐐🐐🐐 https://t.co/2b4LkeGa2N
+❤ 16 · 🔁 0 · 💬 7 · цитат 0 · просмотров 2878  
+https://x.com/toly/status/2124876423039164634
 
-❤ 206 · 🔁 17 · 💬 40 · цитат 1 · просмотров 29644  
-https://x.com/toly/status/2124503317116277021
+## 2026-11-23 14:44 UTC · цитата
 
-## 2026-11-22 14:03 UTC · цитата
+They are all 🐐🐐🐐, completion is going to grow the pie for the entire crypto market. https://t.co/FHJxIrffPT
 
-👑👑👑 https://t.co/kXkL79I3y6
+❤ 39 · 🔁 1 · 💬 0 · цитат 0 · просмотров 18338  
+https://x.com/toly/status/2124876672487051346
 
-❤ 76 · 🔁 2 · 💬 40 · цитат 0 · просмотров 11831  
-https://x.com/toly/status/2124504127917211669
+## 2026-11-23 14:44 UTC · цитата
 
-## 2026-11-22 14:27 UTC · цитата
+My president https://t.co/xUClrJXgTr
 
-🧠🧠🧠 https://t.co/kuXVBIZYUK
+❤ 120 · 🔁 3 · 💬 1 · цитат 0 · просмотров 23539  
+https://x.com/toly/status/2124876829089804775
 
-❤ 76 · 🔁 1 · 💬 0 · цитат 1 · просмотров 29738  
-https://x.com/toly/status/2124510145795547207
+## 2026-11-23 14:50 UTC · репост
 
-## 2026-11-22 14:31 UTC · пост
+RT @cavemanloverboy: banger
 
-My s-tier problem list is 
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 12187  
+https://x.com/toly/status/2124878322027155941
 
-* scalable fusion 
-* quantum computing 
-* p/np
+## 2026-11-23 14:50 UTC · цитата
 
-❤ 289 · 🔁 13 · 💬 7 · цитат 10 · просмотров 57727  
-https://x.com/toly/status/2124511138281107525
+👑👑👑 https://t.co/0YFccXfAJM
 
-## 2026-11-22 14:35 UTC · цитата
+❤ 88 · 🔁 3 · 💬 1 · цитат 1 · просмотров 8143  
+https://x.com/toly/status/2124878374770454733
 
-👑👑👑 https://t.co/uRPzafQPbW
+## 2026-11-23 14:52 UTC · ответ
 
-❤ 102 · 🔁 1 · 💬 1 · цитат 2 · просмотров 16312  
-https://x.com/toly/status/2124512096478224450
+@therealchaseeb The cheaper and easier it is to trade the more volume will be automated.  Users will get a better price and tighter spreads though.
 
-## 2026-11-22 14:40 UTC · ответ
+❤ 28 · 🔁 2 · 💬 13 · цитат 0 · просмотров 2458  
+https://x.com/toly/status/2124878806460821883
 
-@bitbanter Without qc we are just throwing darts
+## 2026-11-23 16:19 UTC · цитата
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2525  
-https://x.com/toly/status/2124513406153814156
+👑👑👑 https://t.co/7G8Q5AcQWQ
 
-## 2026-11-22 15:41 UTC · ответ
+❤ 37 · 🔁 2 · 💬 0 · цитат 0 · просмотров 6315  
+https://x.com/toly/status/2124900594758631661
 
-@Credib1eGuy A tale as old as time. A eunuch and the primary imperial consort scheme to bring down the emperor, who is the only one that can stand up to the foreign invaders.
+## 2026-11-23 16:24 UTC · цитата
 
-❤ 64 · 🔁 0 · 💬 16 · цитат 0 · просмотров 10540  
-https://x.com/toly/status/2124528709210395053
+👑👑👑 https://t.co/b2B3vhDSF0
 
-## 2026-11-22 16:18 UTC · ответ
+❤ 107 · 🔁 5 · 💬 2 · цитат 2 · просмотров 12391  
+https://x.com/toly/status/2124901838432661555
 
-@iamhereXY @Credib1eGuy USA free speech laws favor Netflix.  They can make up anything they want.  It would be just a waste of time.
+## 2026-11-23 16:24 UTC · цитата
 
-❤ 4 · 🔁 0 · 💬 3 · цитат 1 · просмотров 2327  
-https://x.com/toly/status/2124537974474064286
+Is there anything a solana dev can’t accomplish? https://t.co/JKFqqdz1ru
 
-## 2026-11-22 16:26 UTC · ответ
+❤ 166 · 🔁 8 · 💬 2 · цитат 3 · просмотров 32114  
+https://x.com/toly/status/2124901975812915222
 
-@pokerchessman @Credib1eGuy They literally fit the story into that formula 🤦‍♂️
+## 2026-11-23 16:25 UTC · цитата
 
-❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2139  
-https://x.com/toly/status/2124540000725569817
+👑👑👑 https://t.co/0np4VZYv9B
 
-## 2026-11-22 16:34 UTC · репост
+❤ 70 · 🔁 0 · 💬 1 · цитат 0 · просмотров 14367  
+https://x.com/toly/status/2124902272366960713
 
-RT @lostbutlucky: Multiple people have told me Neon + antigravity is INSANE
+## 2026-11-23 16:27 UTC · цитата
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 14170  
-https://x.com/toly/status/2124541932542341367
+AI has killed zero people so far.  Socialism has killed 100m 🫡 https://t.co/idfl69W8sQ
 
-## 2026-11-22 16:38 UTC · цитата
+❤ 805 · 🔁 75 · 💬 17 · цитат 20 · просмотров 56573  
+https://x.com/toly/status/2124902637133033523
 
-🧠🧠🧠 https://t.co/wbNpZ2ZQg3
+## 2026-11-23 16:34 UTC · цитата
 
-❤ 62 · 🔁 4 · 💬 0 · цитат 0 · просмотров 14118  
-https://x.com/toly/status/2124543063725133826
+Wen 10x block capacity @bw_solana https://t.co/lXArWMvltO
 
-## 2026-11-22 16:51 UTC · цитата
+❤ 87 · 🔁 2 · 💬 3 · цитат 2 · просмотров 21628  
+https://x.com/toly/status/2124904380889710868
 
-That hill is right by solana beach 🏖️ btw https://t.co/cDtkRWbMMI
+## 2026-11-23 16:35 UTC · ответ
 
-❤ 292 · 🔁 10 · 💬 3 · цитат 1 · просмотров 63551  
-https://x.com/toly/status/2124546341368164527
+@ArthurB @TheStalwart Comrade, https://t.co/TwBxiew1nh
 
-## 2026-11-22 17:12 UTC · пост
+❤ 3 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1843  
+https://x.com/toly/status/2124904798139125807
 
-A corollary of the one electron conjecture is that there is only one dog and all dogs share the same entangled brain.
+## 2026-11-23 16:40 UTC · цитата
 
-❤ 52 · 🔁 4 · 💬 1 · цитат 4 · просмотров 33181  
-https://x.com/toly/status/2124551651088547944
+Nbbo == solana https://t.co/mECPnJ9Yw1
 
-## 2026-11-22 17:44 UTC · цитата
+❤ 57 · 🔁 4 · 💬 0 · цитат 3 · просмотров 22731  
+https://x.com/toly/status/2124906061115318616
 
-Breaking: NYT reports that during one all hands while Jensen was speaking someone sneezed and this exchange occurred:
+## 2026-11-23 16:51 UTC · ответ
 
-Jensen: Raise your hand whoever sneezed?
+@cavemanloverboy @Backpack @armaniferrante @hylo_so would be cooler.  Just saying
 
-No one raises their hand. 
+❤ 16 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2304  
+https://x.com/toly/status/2124908604721602664
 
-Jensen: Everyone in the first row is fired.  Raise your hand whoever sneezed?
+## 2026-11-23 16:52 UTC · цитата
 
-No one raises their hand.  
+🤯🤯🤯 https://t.co/SVY4HnYb5G
 
-Jensen: Everyone in the second row is fired. Raise your hand whoever sneezed?
+❤ 524 · 🔁 24 · 💬 1 · цитат 5 · просмотров 51469  
+https://x.com/toly/status/2124908837149061548
 
-Finally someone raises their hand.  I am sorry sir, my allergies are acting up. 
+## 2026-11-23 16:53 UTC · ответ
 
-Jensen: Bless you, now let’s continue with q3 projections.
+@ArthurB @TheStalwart You have to discount it to zero in a catastrophic event.  Mcap should be the sum of all future profits until bankruptcy
 
-❤ 101 · 🔁 2 · 💬 0 · цитат 0 · просмотров 47618  
-https://x.com/toly/status/2124559760150405495
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1777  
+https://x.com/toly/status/2124909150870339827
 
-## 2026-11-22 18:03 UTC · цитата
+## 2026-11-23 17:03 UTC · ответ
 
-It needs to be fed rate adjusted :) https://t.co/BQAQ1lJ16d
+@dankrad 8gb cypher text 😭😭😭
 
-❤ 264 · 🔁 5 · 💬 62 · цитат 2 · просмотров 40754  
-https://x.com/toly/status/2124564445783625913
+❤ 15 · 🔁 0 · 💬 6 · цитат 0 · просмотров 3514  
+https://x.com/toly/status/2124911638482710871
 
-## 2026-11-22 18:28 UTC · цитата
+## 2026-11-23 17:08 UTC · ответ
 
-⚒️⚒️⚒️ https://t.co/AD5Rg0AXJ7
+@lochie_sol @solana If there is room in the global market for more than one app, then they should all be on solana.
 
-❤ 41 · 🔁 7 · 💬 0 · цитат 1 · просмотров 20991  
-https://x.com/toly/status/2124570632495198629
+❤ 23 · 🔁 1 · 💬 11 · цитат 0 · просмотров 2829  
+https://x.com/toly/status/2124912977367474658
 
-## 2026-11-22 18:51 UTC · цитата
+## 2026-11-23 17:10 UTC · ответ
 
-My people https://t.co/vmAWshVoPT
+@Nlkki23 It’s probably over 100m in fewer kids dead before 5 if India did its capitalist reforms early and never tried socialism.
 
-❤ 97 · 🔁 5 · 💬 3 · цитат 3 · просмотров 27787  
-https://x.com/toly/status/2124576428922687874
+❤ 12 · 🔁 1 · 💬 2 · цитат 0 · просмотров 2847  
+https://x.com/toly/status/2124913485163475035
 
-## 2026-11-22 18:52 UTC · ответ
+## 2026-11-23 17:14 UTC · ответ
 
-@scottmelker &gt; they don't give any money back to the holder.
+@Nlkki23 Truly disheartening that socialist isn’t as ostracized as much as fascist. https://t.co/WBIHROYyPA
 
-They do via staking.
+❤ 4 · 🔁 1 · 💬 0 · цитат 1 · просмотров 4847  
+https://x.com/toly/status/2124914431994007728
 
-❤ 56 · 🔁 1 · 💬 12 · цитат 0 · просмотров 4679  
-https://x.com/toly/status/2124576803545358359
+## 2026-11-23 17:15 UTC · цитата
 
-## 2026-11-22 20:42 UTC · цитата
+@Nlkki23 https://t.co/oS5P02kW1s https://t.co/ZkhkJwbzW6
 
-👑👑👑 https://t.co/W877Um1Qvg
+❤ 9 · 🔁 0 · 💬 1 · цитат 1 · просмотров 4502  
+https://x.com/toly/status/2124914832667451641
 
-❤ 50 · 🔁 7 · 💬 0 · цитат 1 · просмотров 17876  
-https://x.com/toly/status/2124604499742613681
+## 2026-11-23 17:17 UTC · ответ
 
-## 2026-11-22 20:43 UTC · цитата
+@Nlkki23 Individuals care about their kids.  In a free economy with individual property rights without interference from the state individuals will optimize for their own kids well being via batna transactions with other individuals. 
 
-Incredible quote https://t.co/yOoosEKqgU
+Thats all you need.  It’s the one free lunch.  You
 
-❤ 49 · 🔁 1 · 💬 3 · цитат 1 · просмотров 35830  
-https://x.com/toly/status/2124604770514337933
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4053  
+https://x.com/toly/status/2124915359518163402
 
-## 2026-11-22 21:55 UTC · цитата
+## 2026-11-23 17:27 UTC · ответ
 
-👑👑👑 https://t.co/0HRZfuQjmn
+@Nlkki23 Nordic socialism is bs.  India and China are the actual best examples of eliminating poverty. https://t.co/dLAxGwjAqr
 
-❤ 28 · 🔁 0 · 💬 1 · цитат 2 · просмотров 9849  
-https://x.com/toly/status/2124622877106532563
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1736  
+https://x.com/toly/status/2124917677382881282
 
-## 2026-11-22 21:58 UTC · цитата
+## 2026-11-23 17:33 UTC · ответ
 
-👑👑👑 https://t.co/KaSrsxrmAZ
+@dankrad In lg(8gb) years everything is easy
 
-❤ 132 · 🔁 16 · 💬 3 · цитат 5 · просмотров 10839  
-https://x.com/toly/status/2124623612628050065
+❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2131  
+https://x.com/toly/status/2124919219561353345
 
-## 2026-11-22 22:01 UTC · репост
+## 2026-11-23 17:39 UTC · ответ
 
-RT @brianlong: Hey, @platis_e! Thanks so much for all your support at the 200ms &amp; Block Zero events. You made us look so good! All we had t…
+@Nlkki23 No, you are saying that a rich resource country should use its resources locally so its own citizens can consume more goods and services without producing more.  That somehow there isn’t a cost.  
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 11808  
-https://x.com/toly/status/2124624449123266758
+Pulling people out of extreme global poverty over any decade has come nearly https://t.co/oQN6koZrkJ
 
-## 2026-11-22 22:03 UTC · репост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1721  
+https://x.com/toly/status/2124920824675381425
 
-RT @therollupco: Austin Federa says Solana should have every asset people want to trade, not just crypto native ones.
+## 2026-11-23 17:40 UTC · цитата
 
-"This is like a pro…
+💀💀💀 https://t.co/pBzboInhJy
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 12169  
-https://x.com/toly/status/2124624854657986660
+❤ 103 · 🔁 22 · 💬 1 · цитат 3 · просмотров 24895  
+https://x.com/toly/status/2124921127512490259
 
-## 2026-11-22 22:05 UTC · цитата
+## 2026-11-23 17:49 UTC · цитата
 
-👑👑👑 https://t.co/w8fSIWOUEv
+🍆🍆🍆 https://t.co/8fZ2MJ27j0
 
-❤ 105 · 🔁 3 · 💬 1 · цитат 0 · просмотров 14992  
-https://x.com/toly/status/2124625324122271966
+❤ 88 · 🔁 4 · 💬 2 · цитат 3 · просмотров 20981  
+https://x.com/toly/status/2124923311889281300
 
-## 2026-11-22 22:15 UTC · цитата
+## 2026-11-23 17:58 UTC · репост
 
-👑👑👑 https://t.co/5hLD51riXI
+RT @mattytay: Interesting new product from the Hylo lads.
 
-❤ 60 · 🔁 5 · 💬 2 · цитат 5 · просмотров 8830  
-https://x.com/toly/status/2124627962826018906
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 12726  
+https://x.com/toly/status/2124925514561560840
 
-## 2026-11-22 22:37 UTC · ответ
+## 2026-11-23 18:17 UTC · цитата
 
-@thecolinmclaren @lindsayfraser0 Congrats!!!
+The algebraic structure of language is conscious🍄🍄🍄 https://t.co/BK6wX4UwmK
 
-❤ 16 · 🔁 0 · 💬 8 · цитат 0 · просмотров 2393  
-https://x.com/toly/status/2124633509474275669
+❤ 58 · 🔁 2 · 💬 0 · цитат 2 · просмотров 25089  
+https://x.com/toly/status/2124930465807434159
 
-## 2026-11-22 22:44 UTC · цитата
+## 2026-11-23 18:21 UTC · репост
 
-🤌🤌🤌 https://t.co/GbOP56bBy6
+RT @davidrhodus: The information-flow cut bound puts 1B TPS on an unsharded Solana ledger at 14.86 Tbps per validator in provisioned ingres…
 
-❤ 25 · 🔁 0 · 💬 0 · цитат 1 · просмотров 19382  
-https://x.com/toly/status/2124635069717618701
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 12799  
+https://x.com/toly/status/2124931320006816103
 
-## 2026-11-23 00:08 UTC · репост
+## 2026-11-23 18:36 UTC · цитата
 
-RT @ahn_going: got this badge/mini computer at @solana breakpoint so made it my sunday project to build SolBadge Pay, a contactless way to…
+👑👑👑 https://t.co/NV1lRgVtar
 
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 11152  
-https://x.com/toly/status/2124656230480388425
+❤ 23 · 🔁 3 · 💬 0 · цитат 1 · просмотров 16343  
+https://x.com/toly/status/2124935141479092689
 
-## 2026-11-23 03:19 UTC · цитата
+## 2026-11-23 18:39 UTC · цитата
 
-🐐🐐🐐 https://t.co/iAe3Qu48xN
+We don’t really have a choice not to do it all. That’s really the only way platforms survive.  But making the chain work well for all trading including spot and derivatives, means that it can do it all.  It needs to work exceptionally well for the hardest usecase with meaningful https://t.co/vDxX9UMhzx
 
-❤ 31 · 🔁 2 · 💬 0 · цитат 1 · просмотров 14792  
-https://x.com/toly/status/2124704453341446570
+❤ 245 · 🔁 22 · 💬 0 · цитат 4 · просмотров 25880  
+https://x.com/toly/status/2124935771962626555
 
-## 2026-11-23 03:21 UTC · цитата
+## 2026-11-23 19:55 UTC · ответ
 
-🧠🧠🧠 https://t.co/FtZpFvAzj3
+@cavemanloverboy They have no agency and can’t force anyone to do anything.  
 
-❤ 28 · 🔁 2 · 💬 0 · цитат 0 · просмотров 18597  
-https://x.com/toly/status/2124704814894612647
+@grok respond in any way if I should accelerate my decrepitude
 
-## 2026-11-23 03:25 UTC · цитата
+❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2177  
+https://x.com/toly/status/2124954979333230731
 
-👑👑👑 https://t.co/hDJb3QdxJo
+## 2026-11-23 20:13 UTC · цитата
 
-❤ 66 · 🔁 5 · 💬 2 · цитат 0 · просмотров 17047  
-https://x.com/toly/status/2124705779664277605
+👑👑👑 https://t.co/Sb6bfkshfa
+
+❤ 119 · 🔁 6 · 💬 0 · цитат 1 · просмотров 27260  
+https://x.com/toly/status/2124959518870413358
+
+## 2026-11-23 20:15 UTC · цитата
+
+Easy peasy https://t.co/rjeWolMb9M https://t.co/Sb6bfkshfa
+
+❤ 49 · 🔁 0 · 💬 1 · цитат 1 · просмотров 22497  
+https://x.com/toly/status/2124960021826228613
+
+## 2026-11-23 20:27 UTC · репост
+
+RT @slablanguage: Personally, as a travelling salesman, I really hope P = NP
+
+❤ 0 · 🔁 284 · 💬 0 · цитат 0 · просмотров 12309  
+https://x.com/toly/status/2124962984703476176
+
+## 2026-11-23 20:31 UTC · цитата
+
+📱📱📱 https://t.co/MuOvWQ2wfn
+
+❤ 42 · 🔁 3 · 💬 1 · цитат 0 · просмотров 18214  
+https://x.com/toly/status/2124964065844035604
+
+## 2026-11-23 21:48 UTC · цитата
+
+👑👑👑 https://t.co/b7vD0iZXeh
+
+❤ 17 · 🔁 0 · 💬 0 · цитат 0 · просмотров 15598  
+https://x.com/toly/status/2124983395663143104
+
+## 2026-11-23 22:12 UTC · цитата
+
+🐜🐜🐜 https://t.co/nDAIcLYwlt
+
+❤ 15 · 🔁 0 · 💬 0 · цитат 2 · просмотров 17281  
+https://x.com/toly/status/2124989406377656688
+
+## 2026-11-23 22:35 UTC · цитата
+
+👑👑👑
+
+Breakpoint is a party, but it’s real purpose has always been to generate business leads for ecosystem companies. https://t.co/kAuV4TW6mX
+
+❤ 47 · 🔁 5 · 💬 3 · цитат 2 · просмотров 19942  
+https://x.com/toly/status/2124995367024607482
+
+## 2026-11-23 22:45 UTC · пост
+
+I bet I’d be a top 3 Nvidia ceo.
+
+❤ 286 · 🔁 3 · 💬 7 · цитат 9 · просмотров 38148  
+https://x.com/toly/status/2124997731848745252
+
+## 2026-11-23 23:31 UTC · цитата
+
+1) what https://t.co/Q2JrXYl0Fp
+
+❤ 53 · 🔁 3 · 💬 2 · цитат 2 · просмотров 26324  
+https://x.com/toly/status/2125009398628331805
+
+## 2026-11-23 23:36 UTC · цитата
+
+😭😭😭 https://t.co/6vzHzGNDv4
+
+❤ 13 · 🔁 0 · 💬 0 · цитат 1 · просмотров 16827  
+https://x.com/toly/status/2125010518851342472
+
+## 2026-11-23 23:42 UTC · пост
+
+Thank the Lord https://t.co/p8nbRq3SIF
+
+❤ 83 · 🔁 7 · 💬 1 · цитат 2 · просмотров 23454  
+https://x.com/toly/status/2125012147310883216
+
+## 2026-11-24 00:07 UTC · пост
+
+Do you know the difference between vnp and np?
+
+No, do you?
+
+No? https://t.co/totw833iR3
+
+❤ 64 · 🔁 5 · 💬 1 · цитат 6 · просмотров 19253  
+https://x.com/toly/status/2125018347284865262
+
+## 2026-11-24 00:34 UTC · ответ
+
+@creativedrewy Vnp is not the same thing as np
+
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1570  
+https://x.com/toly/status/2125025232180412437
+
+## 2026-11-24 00:37 UTC · цитата
+
+🤯🤯🤯 https://t.co/rOvS6NBToo
+
+❤ 14 · 🔁 0 · 💬 0 · цитат 0 · просмотров 14348  
+https://x.com/toly/status/2125025985380946320
+
+## 2026-11-24 00:39 UTC · цитата
+
+🧈🧈🧈 https://t.co/vzMg0zZbKP
+
+❤ 13 · 🔁 0 · 💬 0 · цитат 3 · просмотров 16239  
+https://x.com/toly/status/2125026556099928244
+
+## 2026-11-24 00:40 UTC · цитата
+
+Wow https://t.co/28zV4sEljx
+
+❤ 66 · 🔁 0 · 💬 1 · цитат 6 · просмотров 35630  
+https://x.com/toly/status/2125026724903887329
+
+## 2026-11-24 00:56 UTC · ответ
+
+@cavemanloverboy For N &gt;= 2
+
+❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1606  
+https://x.com/toly/status/2125030686512038028
+
+## 2026-11-24 01:20 UTC · пост
+
+If ai solves all the known mysteries then what remains is finding the mysteries it can’t solve.
+
+❤ 111 · 🔁 4 · 💬 5 · цитат 6 · просмотров 24962  
+https://x.com/toly/status/2125036731347190238
+
+## 2026-11-24 01:21 UTC · ответ
+
+@uselulo @021_xyz Congrats!!!
+
+❤ 11 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1649  
+https://x.com/toly/status/2125037007344955503
+
+## 2026-11-24 01:28 UTC · цитата
+
+🧈🧈🧈 https://t.co/dPJhp3a9Uv
+
+❤ 37 · 🔁 2 · 💬 0 · цитат 2 · просмотров 7653  
+https://x.com/toly/status/2125038931125391834
+
+## 2026-11-24 01:43 UTC · репост
+
+RT @fd_ripatel: tuesday testnet troubles: spam war as a sealed-bid auction between clankers.
+each bot cooks up the worst shape block they c…
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 10131  
+https://x.com/toly/status/2125042675061850300
+
+## 2026-11-24 01:45 UTC · ответ
+
+@davidrhodus No, that’s solvable
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1491  
+https://x.com/toly/status/2125043078897795240
+
+## 2026-11-24 01:59 UTC · ответ
+
+@RoKhanna lol wut? What private property is seized by the state involuntarily.
+
+❤ 68 · 🔁 0 · 💬 9 · цитат 0 · просмотров 3438  
+https://x.com/toly/status/2125046500418093176
+
+## 2026-11-24 02:10 UTC · цитата
+
+🏆🏆🏆 https://t.co/5pjceHKFZG
+
+❤ 19 · 🔁 2 · 💬 0 · цитат 0 · просмотров 18340  
+https://x.com/toly/status/2125049486447878536
+
+## 2026-11-24 02:11 UTC · ответ
+
+@ylecun @elonmusk @kimmonismus I’ve already got one super intelligence
+
+❤ 13 · 🔁 0 · 💬 7 · цитат 0 · просмотров 2980  
+https://x.com/toly/status/2125049543750570222
+
+## 2026-11-24 02:12 UTC · ответ
+
+@EdmundGettier @RoKhanna The shareholders can tell the board and Jensen to f’off.  The option of telling the government no is difference.
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1374  
+https://x.com/toly/status/2125049947963981891
+
+## 2026-11-24 02:25 UTC · репост
+
+RT @lambdacalcc: FACT: 90% of vibecoders quit right before they solve P=NP.
+
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 10151  
+https://x.com/toly/status/2125053238978462009
+
+## 2026-11-24 02:33 UTC · ответ
+
+@EdmundGettier @RoKhanna I am absolutely in favor in changing taxes from being required to strongly suggested by the head of state.
+
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1318  
+https://x.com/toly/status/2125055108417531980
+
+## 2026-11-24 03:54 UTC · цитата
+
+Based https://t.co/zW3GoJ05bP
+
+❤ 35 · 🔁 1 · 💬 0 · цитат 1 · просмотров 17130  
+https://x.com/toly/status/2125075575534715056
+
+## 2026-11-24 04:28 UTC · цитата
+
+👑👑👑 https://t.co/au57JCK4aB
+
+❤ 23 · 🔁 1 · 💬 0 · цитат 0 · просмотров 13529  
+https://x.com/toly/status/2125084025702547558

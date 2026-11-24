@@ -1,19 +1,10 @@
-# @santiagoroel — посты за 2026-11-23
+# @santiagoroel — посты за 2026-11-24
 
-Всего: 2
+Всего: 1
 
-## 2026-11-22 10:12 UTC · пост
+## 2026-11-23 12:35 UTC · репост
 
-"if you can't tell whose side someone is on, they're not on yours." – buffett, 2002 letter
+RT @WordsnWisdom26: "Observe how difficult it is to change yourself and you will understand how naive it is to try to change another person…
 
-❤ 2217 · 🔁 251 · 💬 19 · цитат 10 · просмотров 41143  
-https://x.com/santiagoroel/status/2124445887355117600
-
-## 2026-11-22 17:36 UTC · репост
-
-RT @WordsnWisdom26: "Most people die at 27. We just bury them at 72.
-
-— Mark Twain
-
-❤ 0 · 🔁 1362 · 💬 0 · цитат 0 · просмотров 1429  
-https://x.com/santiagoroel/status/2124557754253574428
+❤ 0 · 🔁 1064 · 💬 0 · цитат 0 · просмотров 1448  
+https://x.com/santiagoroel/status/2124844242338263279

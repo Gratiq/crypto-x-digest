@@ -1,57 +1,97 @@
 [
  {
-  "id": "2124579476474638429",
+  "id": "2124886316278255848",
   "username": "dcfgod",
   "username_canon": "dcfgod",
   "type": "retweet",
-  "created_at": "2026-11-22T19:03:14.000Z",
-  "text": "RT @tulipking: Deribit is a ~20x in fees from here, that said it feels very doable based solely on how well the Derive team is executing an…",
-  "url": "https://x.com/dcfgod/status/2124579476474638429",
+  "created_at": "2026-11-23T15:22:30.000Z",
+  "text": "RT @AutismCapital: Jensen on his first day back in the office 😂  https://t.co/iA2EUgl7WH",
+  "url": "https://x.com/dcfgod/status/2124886316278255848",
   "likes": 0,
-  "retweets": 12,
+  "retweets": 1735,
   "replies": 0,
   "quotes": 0,
-  "impressions": 1260,
+  "impressions": 1191,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2124544259907047671",
-   "text": "Deribit is a ~20x in fees from here, that said it feels very doable based solely on how well the Derive team is executing and how insane their metrics have looked for the last year. Now imagine a world where Derive pulls this off, it's probably worth ~$10. It's just up to you to https://t.co/5VTgo58Fu2"
+   "id": "2122369220394803217",
+   "text": "Jensen on his first day back in the office 😂  https://t.co/iA2EUgl7WH"
   }
  },
  {
-  "id": "2124581400498340344",
+  "id": "2124886991515095138",
   "username": "dcfgod",
   "username_canon": "dcfgod",
-  "type": "retweet",
-  "created_at": "2026-11-22T19:10:53.000Z",
-  "text": "RT @koolkrypto223: Lot of familiar names in blue 👀\n\n$DRV $AERO $HYPE $LIT all considerably improved their ratios in the last 3 months.\n\nThi…",
-  "url": "https://x.com/dcfgod/status/2124581400498340344",
-  "likes": 0,
-  "retweets": 40,
-  "replies": 0,
+  "type": "quote",
+  "created_at": "2026-11-23T15:25:11.000Z",
+  "text": "Few realize the drv team has been at this for 5 years \n\nNobody understands this market better https://t.co/eL4tVgbUKV",
+  "url": "https://x.com/dcfgod/status/2124886991515095138",
+  "likes": 89,
+  "retweets": 6,
+  "replies": 6,
   "quotes": 0,
-  "impressions": 1255,
-  "bookmarks": 0,
+  "impressions": 5192,
+  "bookmarks": 9,
   "referenced": {
-   "type": "retweeted",
-   "id": "2124162129993597383",
-   "text": "Lot of familiar names in blue 👀\n\n$DRV $AERO $HYPE $LIT all considerably improved their ratios in the last 3 months.\n\nThis is a great visual to show what actually monetizes volatility well and has durable revenue, even as the market is crashing. https://t.co/wIlfnuSwHA"
+   "type": "quoted",
+   "id": "2124871453363306812",
+   "text": "Options, perps, borrow/lend, spot, portfolio margin, cross asset collateral, cross asset portfolio margin, RFQ, orderbook, onchain transparent + verifiable margin settlement/clearing/liquidations, crypto, commodities, indices, equities, yield generation, hedging, speculation, liquidationless leverage, path independent hedging, structured products, quantitative investment strategies, agentic tradin"
   }
  },
  {
-  "id": "2124656749995233658",
+  "id": "2124887915981578636",
   "username": "dcfgod",
   "username_canon": "dcfgod",
   "type": "original",
-  "created_at": "2026-11-23T00:10:18.000Z",
-  "text": "the ticker is 000660",
-  "url": "https://x.com/dcfgod/status/2124656749995233658",
-  "likes": 21,
-  "retweets": 0,
-  "replies": 7,
+  "created_at": "2026-11-23T15:28:52.000Z",
+  "text": "It’s so cool how stocks erased their sell off and eth is still 1700s https://t.co/noKBaoLu4A",
+  "url": "https://x.com/dcfgod/status/2124887915981578636",
+  "likes": 193,
+  "retweets": 3,
+  "replies": 13,
   "quotes": 0,
-  "impressions": 6334,
-  "bookmarks": 5
+  "impressions": 6640,
+  "bookmarks": 0
+ },
+ {
+  "id": "2125112014133694530",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-24T06:19:21.000Z",
+  "text": "RT @ByzGeneral: This is actually just so cruel.",
+  "url": "https://x.com/dcfgod/status/2125112014133694530",
+  "likes": 0,
+  "retweets": 17,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 632,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125016164988256277",
+   "text": "This is actually just so cruel. https://t.co/bQ5InYXFEG"
+  }
+ },
+ {
+  "id": "2125112058723414473",
+  "username": "dcfgod",
+  "username_canon": "dcfgod",
+  "type": "retweet",
+  "created_at": "2026-11-24T06:19:32.000Z",
+  "text": "RT @DipWheeler: \"we're so back\" https://t.co/SycTjecbEs",
+  "url": "https://x.com/dcfgod/status/2125112058723414473",
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 747,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125059109330526697",
+   "text": "\"we're so back\" https://t.co/SycTjecbEs"
+  }
  }
 ]

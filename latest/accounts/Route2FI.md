@@ -1,72 +1,76 @@
-# @Route2FI — посты за 2026-11-23
+# @Route2FI — посты за 2026-11-24
 
 Всего: 9
 
-## 2026-11-22 14:27 UTC · ответ
+## 2026-11-23 14:04 UTC · пост
 
-@bread_ Enjoy 🔥
+Jensen is back lol.
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 869  
-https://x.com/Route2FI/status/2124510181434495055
+Nvidia's board reinstated him as CEO, six days after saying they had no plans to bring him back.
 
-## 2026-11-22 19:42 UTC · пост
+NVDA is up around 25% premarket, and BTC jumped almost 4% within minutes. ETH is up over 4% too.
 
-Hoping $55k was the bottom. 
+Kinda says it all tbh. Crypto is trading like a leveraged bet
 
-One last cycle to change our lives completely.
+❤ 262 · 🔁 10 · 💬 30 · цитат 1 · просмотров 24781  
+https://x.com/Route2FI/status/2124866644027621518
 
-❤ 410 · 🔁 9 · 💬 49 · цитат 0 · просмотров 21101  
-https://x.com/Route2FI/status/2124589323991634141
+## 2026-11-23 14:21 UTC · ответ
 
-## 2026-11-22 19:58 UTC · ответ
+@jords hehe, yep. good point.
 
-@blancxbt hehe, real...I had a hope the last one was it
+leveraged to the downside, but 0.3x to the upside 🥲
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 787  
-https://x.com/Route2FI/status/2124593337642750271
+❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 846  
+https://x.com/Route2FI/status/2124870904324952169
 
-## 2026-11-22 21:50 UTC · пост
+## 2026-11-23 17:53 UTC · пост
 
-I think the hardest part with crypto going forward is that every cycle before, crypto was one of the frontiers. If you were young and wanted to bet on the future, this was where you went. Now AI is in that main place, IMO, and we have seen many of the best builders, VCs, money,
+$BTC pumped almost 6% in 30 minutes on the Jensen news, from about $61.1k to $64.6k. Now it's back at $61.5k. Basically, the whole move is gone in a few hours. $NVDA is still up 30%+, and the Nasdaq is +6%, but BTC couldn't hold it. https://t.co/c31gYzuyzr
 
-❤ 393 · 🔁 13 · 💬 35 · цитат 3 · просмотров 33646  
-https://x.com/Route2FI/status/2124621676159832095
+❤ 363 · 🔁 15 · 💬 60 · цитат 0 · просмотров 30085  
+https://x.com/Route2FI/status/2124924330425684331
 
-## 2026-11-22 22:14 UTC · ответ
+## 2026-11-23 18:02 UTC · ответ
 
-@edgar_eth manifesting
+@CryptoPoseidonn shouldn't we as block chain expertooors answer that?
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 288  
-https://x.com/Route2FI/status/2124627706088484874
+❤ 15 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2220  
+https://x.com/Route2FI/status/2124926491406246267
 
-## 2026-11-22 22:58 UTC · ответ
+## 2026-11-23 21:57 UTC · ответ
 
-@LoganJastremski 💪💪
+@Evan_ss6 real
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 444  
-https://x.com/Route2FI/status/2124638636490502144
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 472  
+https://x.com/Route2FI/status/2124985765792780378
 
-## 2026-11-22 23:18 UTC · ответ
+## 2026-11-23 22:12 UTC · цитата
 
-@rektdiomedes Very well said my bro
+Don't think it's wasted at all tbh.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 590  
-https://x.com/Route2FI/status/2124643822475043123
+Met some of the sharpest minds I know in here. Learned trading, DeFi, marketing, growth, how to build a community, delta-neutral strategies++. Tested so many financial products, some good, some bad, and some that completely rewired how I https://t.co/oYulkv1QLW
 
-## 2026-11-23 04:56 UTC · цитата
+❤ 322 · 🔁 7 · 💬 28 · цитат 0 · просмотров 28757  
+https://x.com/Route2FI/status/2124989399926480941
 
-The Gnome Tavern Hackathon from @_gnoland looks like an interesting one for builders.
+## 2026-11-23 23:38 UTC · ответ
 
-There are no required themes. DeFi, games, AI apps, dev tools, whatever you want, as long as it actually works and is deployed on their testnet.
+@real_y22 Likewise, brother ☺️
 
-$20k prize pool, 16 awards, and extra rewards https://t.co/PWYAipFNUr
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 251  
+https://x.com/Route2FI/status/2125011200299712631
 
-❤ 194 · 🔁 2 · 💬 5 · цитат 0 · просмотров 21490  
-https://x.com/Route2FI/status/2124728884268552246
+## 2026-11-23 23:43 UTC · ответ
 
-## 2026-11-23 07:12 UTC · репост
+@cburniske which assets do you believe in the most going into the new cycle, Chris?
 
-RT @Route2FI: I think the hardest part with crypto going forward is that every cycle before, crypto was one of the frontiers. If you were y…
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 464  
+https://x.com/Route2FI/status/2125012427670687797
 
-❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/Route2FI/status/2124763084510437533
+## 2026-11-23 23:59 UTC · ответ
+
+@rektdiomedes Real
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 246  
+https://x.com/Route2FI/status/2125016352247238734

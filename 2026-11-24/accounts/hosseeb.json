@@ -1,0 +1,97 @@
+[
+ {
+  "id": "2124897199024971887",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-23T16:05:45.000Z",
+  "text": "We are not a car. \n\nWe are not a car.",
+  "url": "https://x.com/hosseeb/status/2124897199024971887",
+  "likes": 95,
+  "retweets": 1,
+  "replies": 15,
+  "quotes": 2,
+  "impressions": 11497,
+  "bookmarks": 1
+ },
+ {
+  "id": "2124914110550999158",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-23T17:12:57.000Z",
+  "text": "@naruto11eth This confused loser premise makes no sense to me",
+  "url": "https://x.com/hosseeb/status/2124914110550999158",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 607,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124908817402204326",
+   "text": "@hosseeb ??????"
+  }
+ },
+ {
+  "id": "2124914408048726287",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-23T17:14:08.000Z",
+  "text": "@Katebell68 We didn't wake up a loser.",
+  "url": "https://x.com/hosseeb/status/2124914408048726287",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 313,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124899452133458023",
+   "text": "@hosseeb what are we?"
+  }
+ },
+ {
+  "id": "2125104702371295544",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-24T05:50:18.000Z",
+  "text": "RT @ErikVoorhees: Venice just crossed $200m annualized revenue",
+  "url": "https://x.com/hosseeb/status/2125104702371295544",
+  "likes": 0,
+  "retweets": 108,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 912,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125059544569274703",
+   "text": "Venice just crossed $200m annualized revenue https://t.co/ZdSW6FJA4d"
+  }
+ },
+ {
+  "id": "2125106573706231892",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-24T05:57:44.000Z",
+  "text": "Venice doubled run rate revenue again from August to November $100M =&gt; $200M 🤯\n\nOne of the fastest growing products I've ever invested in. I keep thinking the growth curve will bend down and it just doesn't. \n\nIncredible execution by this team. But yeah, holy shit. https://t.co/7UPANTvaiL",
+  "url": "https://x.com/hosseeb/status/2125106573706231892",
+  "likes": 172,
+  "retweets": 9,
+  "replies": 18,
+  "quotes": 0,
+  "impressions": 10218,
+  "bookmarks": 34,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125059544569274703",
+   "text": "Venice just crossed $200m annualized revenue https://t.co/ZdSW6FJA4d"
+  }
+ }
+]

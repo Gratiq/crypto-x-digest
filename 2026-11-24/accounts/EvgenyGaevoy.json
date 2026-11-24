@@ -1,0 +1,92 @@
+[
+ {
+  "id": "2124864965576434065",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "original",
+  "created_at": "2026-11-23T13:57:40.000Z",
+  "text": "lmao",
+  "url": "https://x.com/EvgenyGaevoy/status/2124864965576434065",
+  "likes": 190,
+  "retweets": 0,
+  "replies": 15,
+  "quotes": 0,
+  "impressions": 12077,
+  "bookmarks": 2
+ },
+ {
+  "id": "2124869883334660484",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "quote",
+  "created_at": "2026-11-23T14:17:13.000Z",
+  "text": "\"unanimous\" decision, right https://t.co/UCBmo7maYk",
+  "url": "https://x.com/EvgenyGaevoy/status/2124869883334660484",
+  "likes": 119,
+  "retweets": 3,
+  "replies": 5,
+  "quotes": 1,
+  "impressions": 10293,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2120893520718508094",
+   "text": "it's quite hard for me to be convinced that the boards are net positive for most companies..."
+  }
+ },
+ {
+  "id": "2124872728457236931",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "retweet",
+  "created_at": "2026-11-23T14:28:31.000Z",
+  "text": "RT @superformxyz: Put your stocks to work.\n\nSuperform 🤝 Armitage by @wintermute_t \n\nWe’re partnering to build a new generation of stock pro…",
+  "url": "https://x.com/EvgenyGaevoy/status/2124872728457236931",
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1073,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2124871557377822813",
+   "text": "Put your stocks to work.\n\nSuperform 🤝 Armitage by @wintermute_t \n\nWe’re partnering to build a new generation of stock products, starting with earning on eight SuperStocks on @base.\n\nAccess them here: https://t.co/bSrKllA4ik https://t.co/q89TpLy6jb"
+  }
+ },
+ {
+  "id": "2124878169648079176",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "original",
+  "created_at": "2026-11-23T14:50:08.000Z",
+  "text": "https://t.co/auMgsbVG34",
+  "url": "https://x.com/EvgenyGaevoy/status/2124878169648079176",
+  "likes": 138,
+  "retweets": 6,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 5920,
+  "bookmarks": 3
+ },
+ {
+  "id": "2124927386768777459",
+  "username": "EvgenyGaevoy",
+  "username_canon": "EvgenyGaevoy",
+  "type": "reply",
+  "created_at": "2026-11-23T18:05:42.000Z",
+  "text": "@ConstanceWaing i watched first episode and yeah, even being lots more remote from ftx/alameda it was obvious they did next to zero research. def not finishing this",
+  "url": "https://x.com/EvgenyGaevoy/status/2124927386768777459",
+  "likes": 29,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 2632,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124902806922617346",
+   "text": "I finished watching The Altruists today with a few people who used to work at Alameda and FTX. We recognised so little beyond the names. My expectations were low, but I’m still surprised it’s this bad.\n\nIn short, the story has nothing to do with what actually happened at FTX or Alameda.\n\nThe biggest stretch for me was turning the early history of both companies into a story about Sam and Caroline’"
+  }
+ }
+]

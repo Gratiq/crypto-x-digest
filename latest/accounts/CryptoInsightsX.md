@@ -1,31 +1,35 @@
-# @CryptoInsightsX — посты за 2026-11-23
+# @CryptoInsightsX — посты за 2026-11-24
 
-Всего: 2
+Всего: 4
 
-## 2026-11-22 12:39 UTC · цитата
+## 2026-11-23 09:23 UTC · ответ
 
-Daily Market Overview: EXTREME FEAR
-Nov 22, 2026
+@HachikoInuCTO Hi Hachiko🙌🏻
 
- #BTC price trades around $60K 
- 
-In the past 24 hours, 72,391 traders(80.0% Short) liquidated. Total liquidations were $425.45M.
+❤ 5 · 🔁 3 · 💬 1 · цитат 0 · просмотров 60  
+https://x.com/CryptoInsightsX/status/2124796002486173894
 
-#CryptoNews #Crypto bitcoin:native https://t.co/EfcZR0b2O4 https://t.co/nTKUgBtQuM
+## 2026-11-23 14:04 UTC · ответ
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 1 · просмотров 211  
-https://x.com/CryptoInsightsX/status/2124482911273726008
+@Abrlien Gratz AB, Huge Achievement !!!
 
-## 2026-11-23 05:53 UTC · цитата
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
+https://x.com/CryptoInsightsX/status/2124866580186357967
 
-Daily Market Overview: EXTREME FEAR
-Nov 23, 2026
+## 2026-11-23 14:12 UTC · ответ
 
- #BTC price trades around $61K 
- 
-In the past 24 hours, 69,980 traders(79.6% Short) liquidated. Total liquidations were $292.56M.
+@WatcherGuru We're so back :D
 
-#CryptoNews #Crypto bitcoin:native https://t.co/5bjpwu7vEP https://t.co/IGgliEKBpz
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 670  
+https://x.com/CryptoInsightsX/status/2124868747739729972
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 68  
-https://x.com/CryptoInsightsX/status/2124743065227464795
+## 2026-11-23 14:22 UTC · пост
+
+BREAKING: Nvidia has reappointed @JensenHuang as CEO and Chairman.
+
+NVDA shares surged 25% following the news, helping push bitcoin:native back above $63K.
+
+Bitcoin's momentum is building, with $280.82M in short positions liquidated in just the past hour. https://t.co/gBKLcDrSly
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 93  
+https://x.com/CryptoInsightsX/status/2124871156390154347

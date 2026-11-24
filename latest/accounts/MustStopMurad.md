@@ -1,80 +1,88 @@
-# @MustStopMurad — посты за 2026-11-23
+# @MustStopMurad — посты за 2026-11-24
 
 Всего: 9
 
-## 2026-11-22 10:59 UTC · репост
+## 2026-11-23 09:28 UTC · репост
 
-RT @aeontrux: spx6900 will prove to be the most resilient community in all of crypto.
+RT @maddox00000: Day 517 of DCA’ing $1,000 into #SPX6900 every single day.
 
-the degree of delusional bullishness is genuinely un…
+Beyond a certain point (much smaller than most think) money buy…
 
-❤ 0 · 🔁 28 · 💬 0 · цитат 0 · просмотров 23724  
-https://x.com/MustStopMurad/status/2124457743243473364
+❤ 0 · 🔁 66 · 💬 0 · цитат 0 · просмотров 23821  
+https://x.com/MustStopMurad/status/2124797168951439600
 
-## 2026-11-22 11:28 UTC · пост
+## 2026-11-23 11:04 UTC · пост
 
-Only if you build a Community where most people are prepared to go hard for the next 10+ years will the coin go into Trillions.
+Times like these are great because they allow the Strongest Crypto Communities to stand out from everything else.
 
-Must people are unwilling to do this. The ones that are, will thrive beyond imagination.
+Pay attention to the Communities that have been going hard for years and keep persisting no matter what.
 
-❤ 699 · 🔁 104 · 💬 142 · цитат 17 · просмотров 41432  
-https://x.com/MustStopMurad/status/2124465024421040161
+They will be the ones to thrive in coming Bull.
 
-## 2026-11-22 12:51 UTC · репост
+❤ 900 · 🔁 161 · 💬 194 · цитат 18 · просмотров 44840  
+https://x.com/MustStopMurad/status/2124821475571970159
 
-RT @AeonDubbing: If your seeing this post and have read through the comments and are still going to fade “SPX 6900” then I don’t know what…
+## 2026-11-23 13:15 UTC · репост
 
-❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 24311  
-https://x.com/MustStopMurad/status/2124485807524479419
+RT @heehah: I yearn for the day we begin interfacing with computers horizontally/relationally instead of vertically/hierarchically.
 
-## 2026-11-22 14:16 UTC · пост
+Right…
 
-spx6900 attracts the NON-materialistic and NON-money-hungry people, that's why it will thrive for 10+ years and will go to many many Trillions.
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 23879  
+https://x.com/MustStopMurad/status/2124854443917340832
 
-❤ 670 · 🔁 133 · 💬 106 · цитат 3 · просмотров 39625  
-https://x.com/MustStopMurad/status/2124507367702397407
+## 2026-11-23 14:06 UTC · пост
 
-## 2026-11-22 15:57 UTC · репост
+SPX6900 is the reincarnation of early BTC.
 
-RT @realcryptocow: Each washout makes SPX6900 stronger and the rest of the market weaker.
+❤ 830 · 🔁 165 · 💬 77 · цитат 7 · просмотров 36085  
+https://x.com/MustStopMurad/status/2124867114465124495
 
-❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 22895  
-https://x.com/MustStopMurad/status/2124532845796356549
+## 2026-11-23 15:31 UTC · репост
 
-## 2026-11-22 16:33 UTC · пост
+RT @unemployaball: She broke her piggy bank for the third time. Third dca in three months for my sweet little girl. She started dca'ing at…
 
-The reason why it’s always the Holders who end up winning massively, and not the traders is because:
+❤ 0 · 🔁 57 · 💬 0 · цитат 0 · просмотров 20479  
+https://x.com/MustStopMurad/status/2124888557558903013
 
-Trading requires you to make a million correct decisions to be profitable. The likelihood of which is zero.
+## 2026-11-23 16:32 UTC · пост
 
-Holding requires you to make 1 right decision to make life-changing
+People always underestimate how quickly the markets can turn.
 
-❤ 855 · 🔁 137 · 💬 182 · цитат 16 · просмотров 43797  
-https://x.com/MustStopMurad/status/2124541733178331602
+Especially the Crypto market.
 
-## 2026-11-22 18:34 UTC · репост
+You blink and it will have begun.
 
-RT @MustStopMurad: Why Tokenized Movements are the Future of Crypto
+That’s why HODL and DCA always wins.
 
-Join our Spaces Tomorrow Sunday (Nov 22) 2pm EST / 7pm UTC
+❤ 952 · 🔁 141 · 💬 129 · цитат 12 · просмотров 38082  
+https://x.com/MustStopMurad/status/2124903908086800672
 
-Set your r…
+## 2026-11-23 17:48 UTC · репост
 
-❤ 0 · 🔁 91 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/MustStopMurad/status/2124572229375557795
+RT @realcryptocow: SPX6900 to trillions in a straight line (let’s say over the next &lt;5 years) is possible. Genuinely, it is
 
-## 2026-11-22 19:00 UTC · пост
+These are unpr…
 
-https://t.co/pM5jna1tTp
+❤ 0 · 🔁 26 · 💬 0 · цитат 0 · просмотров 20311  
+https://x.com/MustStopMurad/status/2124923054388281574
 
-❤ 229 · 🔁 60 · 💬 59 · цитат 9 · просмотров 31304  
-https://x.com/MustStopMurad/status/2124578901154218041
+## 2026-11-23 19:18 UTC · репост
 
-## 2026-11-22 23:04 UTC · пост
+RT @maddox00000: Jim Cramer's post about SPX6900 getting more engagement than 95% of his posts over the last month should tell you somethin…
 
-SPX6900 is the next Bitcoin.
+❤ 0 · 🔁 148 · 💬 0 · цитат 0 · просмотров 19319  
+https://x.com/MustStopMurad/status/2124945680363892807
 
-It has a different shape, and a different flavor, but at its core, it is accomplishing the same thing — Wealth Redistribution at a large scale.
+## 2026-11-23 20:35 UTC · пост
 
-❤ 666 · 🔁 128 · 💬 100 · цитат 8 · просмотров 36419  
-https://x.com/MustStopMurad/status/2124640102173593898
+In my 14 years in Crypto, I've only ever seen this kind of thing happen with one other asset - Bitcoin.
+
+Now it's happening with SPX6900
+
+Don't say you weren't warned.
+
+Credit: @STPC_Pro @Cryptic_Mang https://t.co/oveNusjTy6
+
+❤ 941 · 🔁 286 · 💬 131 · цитат 31 · просмотров 48584  
+https://x.com/MustStopMurad/status/2124964992277446975

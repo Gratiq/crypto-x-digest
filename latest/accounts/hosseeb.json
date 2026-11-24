@@ -1,62 +1,97 @@
 [
  {
-  "id": "2124536253895024999",
+  "id": "2124897199024971887",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-23T16:05:45.000Z",
+  "text": "We are not a car. \n\nWe are not a car.",
+  "url": "https://x.com/hosseeb/status/2124897199024971887",
+  "likes": 95,
+  "retweets": 1,
+  "replies": 15,
+  "quotes": 2,
+  "impressions": 11497,
+  "bookmarks": 1
+ },
+ {
+  "id": "2124914110550999158",
   "username": "hosseeb",
   "username_canon": "hosseeb",
   "type": "reply",
-  "created_at": "2026-11-22T16:11:29.000Z",
-  "text": "@thePalenimbus 💯",
-  "url": "https://x.com/hosseeb/status/2124536253895024999",
-  "likes": 0,
+  "created_at": "2026-11-23T17:12:57.000Z",
+  "text": "@naruto11eth This confused loser premise makes no sense to me",
+  "url": "https://x.com/hosseeb/status/2124914110550999158",
+  "likes": 6,
   "retweets": 0,
-  "replies": 0,
+  "replies": 1,
   "quotes": 0,
-  "impressions": 145,
+  "impressions": 607,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2124304226025164922",
-   "text": "@hosseeb Spot on man. It’s so easy to come into this and be like nooo they made a mockery of my subculture and you just don’t get it!!! But then you take a step back and you’re like huh yeah I guess pop hollywood has always flattened and showed no nuance and usually told a story biased to"
+   "id": "2124908817402204326",
+   "text": "@hosseeb ??????"
   }
  },
  {
-  "id": "2124542257286324263",
+  "id": "2124914408048726287",
   "username": "hosseeb",
   "username_canon": "hosseeb",
-  "type": "quote",
-  "created_at": "2026-11-22T16:35:20.000Z",
-  "text": "More precisely, AI labs underestimated the rate of intelligence growth, and simultaneously overestimated the rate of social and economic change. https://t.co/2JYHL95ZfO",
-  "url": "https://x.com/hosseeb/status/2124542257286324263",
-  "likes": 149,
-  "retweets": 11,
-  "replies": 21,
-  "quotes": 1,
-  "impressions": 10373,
-  "bookmarks": 20,
+  "type": "reply",
+  "created_at": "2026-11-23T17:14:08.000Z",
+  "text": "@Katebell68 We didn't wake up a loser.",
+  "url": "https://x.com/hosseeb/status/2124914408048726287",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 313,
+  "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2124269760800334112",
-   "text": "the most aggressive predictions of ai progress from ai lab executives have been wrong, in the direction of being somewhat too conservative"
+   "type": "replied_to",
+   "id": "2124899452133458023",
+   "text": "@hosseeb what are we?"
   }
  },
  {
-  "id": "2124575946024038833",
+  "id": "2125104702371295544",
   "username": "hosseeb",
   "username_canon": "hosseeb",
   "type": "retweet",
-  "created_at": "2026-11-22T18:49:12.000Z",
-  "text": "RT @WuBlockchain: Haseeb: Zcash Is Insurance for Bitcoin\n\nIn a When Shift Happens podcast @KevinWSHPod aired November 12, 2026, Dragonfly m…",
-  "url": "https://x.com/hosseeb/status/2124575946024038833",
+  "created_at": "2026-11-24T05:50:18.000Z",
+  "text": "RT @ErikVoorhees: Venice just crossed $200m annualized revenue",
+  "url": "https://x.com/hosseeb/status/2125104702371295544",
   "likes": 0,
-  "retweets": 13,
+  "retweets": 108,
   "replies": 0,
   "quotes": 0,
-  "impressions": 1452,
+  "impressions": 912,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2124563570138730529",
-   "text": "Haseeb: Zcash Is Insurance for Bitcoin\n\nIn a When Shift Happens podcast @KevinWSHPod aired November 12, 2026, Dragonfly managing partner Haseeb @hosseeb called Zcash insurance for Bitcoin. He noted that OpenAI needs only four hours to produce a math research result, and has now https://t.co/aullEOgn0k"
+   "id": "2125059544569274703",
+   "text": "Venice just crossed $200m annualized revenue https://t.co/ZdSW6FJA4d"
+  }
+ },
+ {
+  "id": "2125106573706231892",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-24T05:57:44.000Z",
+  "text": "Venice doubled run rate revenue again from August to November $100M =&gt; $200M 🤯\n\nOne of the fastest growing products I've ever invested in. I keep thinking the growth curve will bend down and it just doesn't. \n\nIncredible execution by this team. But yeah, holy shit. https://t.co/7UPANTvaiL",
+  "url": "https://x.com/hosseeb/status/2125106573706231892",
+  "likes": 172,
+  "retweets": 9,
+  "replies": 18,
+  "quotes": 0,
+  "impressions": 10218,
+  "bookmarks": 34,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125059544569274703",
+   "text": "Venice just crossed $200m annualized revenue https://t.co/ZdSW6FJA4d"
   }
  }
 ]

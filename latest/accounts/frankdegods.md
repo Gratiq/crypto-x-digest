@@ -1,195 +1,150 @@
-# @frankdegods — посты за 2026-11-23
+# @frankdegods — посты за 2026-11-24
 
-Всего: 24
+Всего: 17
 
-## 2026-11-22 16:36 UTC · ответ
+## 2026-11-23 07:50 UTC · цитата
 
-@akshaybd bottom on growth or top on value
+the amount of tiktoks i’ve seen tonight of people tailing this
 
-❤ 12 · 🔁 0 · 💬 6 · цитат 0 · просмотров 2906  
-https://x.com/frankdegods/status/2124542640242794704
+if market bounces into open tomorrow retail will be replenished… if not 🥹
 
-## 2026-11-22 17:30 UTC · цитата
+gl bros https://t.co/l9pAJ5xwEe
 
-https://t.co/DsVr8hxM2d https://t.co/jLDpkwLDbP
+❤ 417 · 🔁 7 · 💬 71 · цитат 11 · просмотров 100024  
+https://x.com/frankdegods/status/2124772553302417785
 
-❤ 519 · 🔁 15 · 💬 84 · цитат 2 · просмотров 57909  
-https://x.com/frankdegods/status/2124556114432078218
+## 2026-11-23 07:56 UTC · ответ
 
-## 2026-11-22 20:58 UTC · ответ
+@mojeskoqq then i’ll be replenished 😂
 
-@sagespells impossible soul - sufjan stevens
+❤ 14 · 🔁 0 · 💬 4 · цитат 0 · просмотров 4636  
+https://x.com/frankdegods/status/2124774184450764821
 
-❤ 9 · 🔁 0 · 💬 12 · цитат 1 · просмотров 2670  
-https://x.com/frankdegods/status/2124608547891577082
+## 2026-11-23 14:42 UTC · цитата
 
-## 2026-11-23 01:30 UTC · ответ
+gm https://t.co/EJfHdrNwTc
 
-@The_Airmass 38% from ath or 38% from here
+❤ 166 · 🔁 0 · 💬 54 · цитат 0 · просмотров 25799  
+https://x.com/frankdegods/status/2124876293682684025
 
-❤ 12 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2470  
-https://x.com/frankdegods/status/2124676849653502178
+## 2026-11-23 15:00 UTC · репост
 
-## 2026-11-23 01:36 UTC · ответ
+RT @Saint_pablo123: Holy fuck, this clip is insane  https://t.co/mkn1ntH2p1
 
-@CookerFlips its over
+❤ 0 · 🔁 1178 · 💬 0 · цитат 0 · просмотров 10167  
+https://x.com/frankdegods/status/2124880656710901784
 
-❤ 27 · 🔁 0 · 💬 13 · цитат 0 · просмотров 2768  
-https://x.com/frankdegods/status/2124678436706734576
+## 2026-11-23 15:10 UTC · ответ
 
-## 2026-11-23 01:48 UTC · пост
+@evan_onchain just saw... fahhhh
 
-relief rallies is a funny way to describe them
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1413  
+https://x.com/frankdegods/status/2124883397050851422
 
-aint shit relieving about them 
+## 2026-11-23 15:13 UTC · цитата
 
-all they do is shake hard working americans out of their shorts
+ive been a bear and i lost money today and all my stops hit before i woke up 
 
-❤ 211 · 🔁 14 · 💬 40 · цитат 2 · просмотров 20648  
-https://x.com/frankdegods/status/2124681475039871294
+and i woke up after the jensen news 
 
-## 2026-11-23 01:48 UTC · ответ
+anyway let's figure it out, best game in the world https://t.co/HWD7OH4saT
 
-@TensaiCapital there is no right time
+❤ 378 · 🔁 5 · 💬 77 · цитат 1 · просмотров 40084  
+https://x.com/frankdegods/status/2124884146908774401
 
-❤ 15 · 🔁 1 · 💬 7 · цитат 0 · просмотров 1706  
-https://x.com/frankdegods/status/2124681577401880745
+## 2026-11-23 15:17 UTC · ответ
 
-## 2026-11-23 01:50 UTC · пост
+@sbe3_pb idk probably not but gonna lock in today will shitpost my way through this
 
-these bounces are so performative
+❤ 14 · 🔁 0 · 💬 7 · цитат 0 · просмотров 1915  
+https://x.com/frankdegods/status/2124885140325494965
 
-❤ 257 · 🔁 4 · 💬 71 · цитат 5 · просмотров 22643  
-https://x.com/frankdegods/status/2124681848940790233
+## 2026-11-23 15:30 UTC · ответ
 
-## 2026-11-23 01:52 UTC · цитата
+@ezcontra genny run
 
-i feel like im living in alternate universe 
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1688  
+https://x.com/frankdegods/status/2124888411190206801
 
-this reads exactly like all the other slop https://t.co/8r8h3OAgAV
+## 2026-11-23 15:37 UTC · ответ
 
-❤ 121 · 🔁 0 · 💬 35 · цитат 0 · просмотров 23521  
-https://x.com/frankdegods/status/2124682379994288153
+@mikasa_yaegar yeah could have been worse i think now it's just tricky to figure out if this retraces or not
 
-## 2026-11-23 01:53 UTC · ответ
+on one hand none of the bear cases really changed but on the other everything about this is shaped like a massive TACO
 
-@0xbigmikey the quotes and replies…
+❤ 4 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1932  
+https://x.com/frankdegods/status/2124890069370622155
 
-if they’re not bots it’s even scarier
+## 2026-11-23 16:11 UTC · пост
 
-❤ 6 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1374  
-https://x.com/frankdegods/status/2124682720689508388
+when new information presents itself you have to be willing to adjust
 
-## 2026-11-23 02:02 UTC · цитата
+if Trump is back to fully focusing on the market i think there's a lot of levers for him to pull 
 
-claude solved a $1m math problem and it only cost them 2.1 trillion dollars https://t.co/lCrL31maj9
+also have to accept that i missed majority of the bottom but not not looking to short  anymore
 
-❤ 389 · 🔁 14 · 💬 49 · цитат 5 · просмотров 43249  
-https://x.com/frankdegods/status/2124684945281204566
+❤ 15 · 🔁 0 · 💬 2 · цитат 0 · просмотров 12128  
+https://x.com/frankdegods/status/2124898537637122353
 
-## 2026-11-23 02:05 UTC · ответ
+## 2026-11-23 16:11 UTC · пост
 
-@ShaneStoffer dude…
+when new information presents itself you have to be willing to adjust
 
-❤ 53 · 🔁 0 · 💬 3 · цитат 0 · просмотров 4976  
-https://x.com/frankdegods/status/2124685620706529297
+if Trump is back to fully focusing on the market i think there's a lot of levers for him to pull 
 
-## 2026-11-23 02:08 UTC · ответ
+also have to accept that i missed majority of the bottom but not looking to short  anymore
 
-@benglickenhaus what’s the disconnect?
+❤ 653 · 🔁 24 · 💬 80 · цитат 4 · просмотров 31979  
+https://x.com/frankdegods/status/2124898721158861262
 
-❤ 4 · 🔁 0 · 💬 4 · цитат 1 · просмотров 1674  
-https://x.com/frankdegods/status/2124686564534227364
+## 2026-11-23 16:19 UTC · ответ
 
-## 2026-11-23 02:15 UTC · пост
+@davidonchainx personally i think it's pretty likely that it is at the minimum for nvidia
 
-what are you worried about, a recession?
+❤ 9 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2295  
+https://x.com/frankdegods/status/2124900718511317081
 
-yeah, kinda!
+## 2026-11-23 16:23 UTC · ответ
 
-❤ 275 · 🔁 4 · 💬 95 · цитат 2 · просмотров 22089  
-https://x.com/frankdegods/status/2124688234227859737
+@ShaneStoffer don't quit but not a bad idea to take a break 
 
-## 2026-11-23 02:19 UTC · ответ
+your instincts are cracked. looking forward to continue following the journey, genuinely peak content.
 
-@buggyllama so we’re early
+❤ 315 · 🔁 2 · 💬 14 · цитат 0 · просмотров 15130  
+https://x.com/frankdegods/status/2124901699706053070
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1099  
-https://x.com/frankdegods/status/2124689206807343154
+## 2026-11-23 16:24 UTC · ответ
 
-## 2026-11-23 02:21 UTC · пост
+@ShaneStoffer like i think you're 3/3 for identifying super high volatility, asymmetric spots purely off gut feel
 
-the only PVE cook remaining is the possibility of ANT running the XPL fractal
+keep it up man. tons of people think it's really sick.
 
-❤ 159 · 🔁 5 · 💬 77 · цитат 4 · просмотров 21402  
-https://x.com/frankdegods/status/2124689774191706514
+❤ 98 · 🔁 0 · 💬 9 · цитат 0 · просмотров 5745  
+https://x.com/frankdegods/status/2124902001104376283
 
-## 2026-11-23 02:33 UTC · ответ
+## 2026-11-23 16:37 UTC · цитата
 
-@goodalexander i honestly can barely tell the difference between the models anymore
+Trump admin might ultimately pay the price for their intimate involvement in markets but i don’t think even a Democratic president will be able to avoid this responsibility
 
-❤ 13 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1919  
-https://x.com/frankdegods/status/2124692683528818931
+we used to have a handful of finance newspapers that controlled the entire flow of info, now we have https://t.co/RB1S2cSyEJ
 
-## 2026-11-23 03:52 UTC · ответ
+❤ 12 · 🔁 1 · 💬 0 · цитат 0 · просмотров 12652  
+https://x.com/frankdegods/status/2124905158572401106
 
-@tofikyeah of course theyre horrible traders, 13 is way too high 
+## 2026-11-23 16:38 UTC · цитата
 
-dream a little
+Trump admin might ultimately pay the price for their intimate involvement in markets but i don’t think even a Democrat president will be able to avoid this responsibility
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 917  
-https://x.com/frankdegods/status/2124712722386628761
+we used to have a handful of finance newspapers that controlled the entire flow of info, now we have https://t.co/RB1S2cS0Pb
 
-## 2026-11-23 04:19 UTC · ответ
+❤ 208 · 🔁 7 · 💬 33 · цитат 2 · просмотров 36097  
+https://x.com/frankdegods/status/2124905407189569878
 
-@tofikyeah thesis… below? https://t.co/RlOpcl3BsV
+## 2026-11-23 17:03 UTC · ответ
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 866  
-https://x.com/frankdegods/status/2124719372124258591
+@carlcashmere yeah but still was irresponsible to not look to at least bid for mean reversion 
 
-## 2026-11-23 04:32 UTC · репост
+anyway good learnings, we move
 
-RT @kingbtc: yeah bro your 20th attempt in 2 weeks to long the bottom is gonna work out
-
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 7355  
-https://x.com/frankdegods/status/2124722702946910372
-
-## 2026-11-23 04:41 UTC · пост
-
-here’s a bullish view on recent events
-
-let’s say nvidia goes to $50 
-
-this means that your $50 can buy 1 nvidia share
-
-your dollar is becoming more valuable, that’s  the beauty of economics
-
-❤ 6 · 🔁 1 · 💬 4 · цитат 0 · просмотров 8465  
-https://x.com/frankdegods/status/2124724916033601707
-
-## 2026-11-23 04:42 UTC · пост
-
-here’s a bullish view on recent events
-
-let’s say $NVDA goes to $50 
-
-this means that your $50 can buy 1 $NVDA share
-
-your dollar is becoming more valuable, that’s  the beauty of economics
-
-❤ 322 · 🔁 9 · 💬 66 · цитат 2 · просмотров 19790  
-https://x.com/frankdegods/status/2124725147982815452
-
-## 2026-11-23 04:57 UTC · репост
-
-RT @bronzeagemantis: They’re very vague in replies swinging from “AI” is like invention of fire and another Industrial Revolution but accel…
-
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 7185  
-https://x.com/frankdegods/status/2124729074853843383
-
-## 2026-11-23 05:03 UTC · репост
-
-RT @Scaramucci: Won’t hold up. More receipts coming.
-
-❤ 0 · 🔁 89 · 💬 0 · цитат 0 · просмотров 7431  
-https://x.com/frankdegods/status/2124730443723645231
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1967  
+https://x.com/frankdegods/status/2124911775883886627

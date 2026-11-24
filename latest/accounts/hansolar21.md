@@ -1,35 +1,58 @@
-# @hansolar21 — посты за 2026-11-23
+# @hansolar21 — посты за 2026-11-24
 
-Всего: 4
+Всего: 7
 
-## 2026-11-22 12:15 UTC · пост
+## 2026-11-23 08:57 UTC · ответ
 
-Robostrategy in Korea with a packed house.
-Crypto is down, but the investors are always hungry for new narratives. https://t.co/Rcmf2zWSob
+@SystemicStratHL 🫡
 
-❤ 59 · 🔁 1 · 💬 8 · цитат 0 · просмотров 4340  
-https://x.com/hansolar21/status/2124476909560197209
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 243  
+https://x.com/hansolar21/status/2124789535469187348
 
-## 2026-11-23 03:13 UTC · пост
+## 2026-11-23 09:16 UTC · ответ
 
-https://t.co/fRZMlUuDkd
+@Metabape That is one fancy house plant.
 
-❤ 59 · 🔁 2 · 💬 2 · цитат 1 · просмотров 3927  
-https://x.com/hansolar21/status/2124702763536036242
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 415  
+https://x.com/hansolar21/status/2124794090894327826
 
-## 2026-11-23 03:29 UTC · цитата
+## 2026-11-23 18:18 UTC · ответ
 
-Props to @Jeromekim92  and the @layerggofficial for organizing a great meetup!
+@Rewkang Great to finally meet you too!
 
-Also logging another serendipitous meeting between two OGs after 10 years. I swear the universe is trying to tell us something...
-https://t.co/BXtD1xFs0e
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 348  
+https://x.com/hansolar21/status/2124930535151812994
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 871  
-https://x.com/hansolar21/status/2124706792966095333
+## 2026-11-24 01:38 UTC · репост
 
-## 2026-11-23 03:44 UTC · ответ
+RT @FourPillarsKR: https://t.co/tOgnj1ecTo
 
-@mk4_lul deepsea creatures have UV vision for a reason
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 961  
+https://x.com/hansolar21/status/2125041446080467178
 
-❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 288  
-https://x.com/hansolar21/status/2124710632536866841
+## 2026-11-24 01:48 UTC · ответ
+
+@Ritesh_Trades trillions.
+
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 343  
+https://x.com/hansolar21/status/2125043954282594339
+
+## 2026-11-24 02:14 UTC · цитата
+
+Korean robotics are on fire today 🔥 https://t.co/DWbQj6eqSg https://t.co/doE6Kvo75T
+
+❤ 72 · 🔁 1 · 💬 6 · цитат 0 · просмотров 4181  
+https://x.com/hansolar21/status/2125050494586704237
+
+## 2026-11-24 03:07 UTC · цитата
+
+"It's all on ledgers. This doesn't trade on exchanges."
+
+Steve Eisman on how he executed the Big Short through bilateral OTC derivatives.
+
+About time we brought this market on-chain.
+
+Trillions. https://t.co/ctrXM9uG21
+
+❤ 19 · 🔁 1 · 💬 4 · цитат 0 · просмотров 3313  
+https://x.com/hansolar21/status/2125063836336259151

@@ -1,109 +1,127 @@
-# @CryptoKaleo — посты за 2026-11-23
+# @CryptoKaleo — посты за 2026-11-24
 
-Всего: 12
+Всего: 15
 
-## 2026-11-22 11:05 UTC · пост
+## 2026-11-23 11:27 UTC · пост
 
-The bottom is in for this bear market.
+GOOD MORNING BULLS https://t.co/1czHZ5whsY
 
-Welcome to the golden bull run.
+❤ 163 · 🔁 8 · 💬 53 · цитат 0 · просмотров 18920  
+https://x.com/CryptoKaleo/status/2124827053748883809
 
-❤ 2218 · 🔁 110 · 💬 274 · цитат 15 · просмотров 85958  
-https://x.com/CryptoKaleo/status/2124459277440147862
+## 2026-11-23 14:16 UTC · цитата
 
-## 2026-11-22 11:31 UTC · ответ
+Jensen Huang only had a 16% chance of being reinstated as the CEO of $NVDA earlier this morning on Kalshi.
 
-Calm before the storm https://t.co/31HszWZ6AJ
+Instant 6.25x for anyone who predicted it before it happened.
 
-❤ 30 · 🔁 7 · 💬 13 · цитат 0 · просмотров 4132  
-https://x.com/CryptoKaleo/status/2124465713083453616
+gg https://t.co/zlcLkFClXe https://t.co/ExhNE4suAY
 
-## 2026-11-22 18:53 UTC · ответ
+❤ 69 · 🔁 0 · 💬 17 · цитат 1 · просмотров 18598  
+https://x.com/CryptoKaleo/status/2124869588558974978
 
-@arrington Legendary picture
+## 2026-11-23 14:21 UTC · цитата
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2016  
-https://x.com/CryptoKaleo/status/2124577133850960379
+RUN IT BACK STRAIGHT TO ALL TIME HIGHS https://t.co/OloMPrnTos
 
-## 2026-11-22 21:06 UTC · цитата
+❤ 449 · 🔁 21 · 💬 36 · цитат 0 · просмотров 27209  
+https://x.com/CryptoKaleo/status/2124870947127558163
 
-in a bull market back in the day this type of news would have sent $SUI to all time highs overnight https://t.co/XfHzQpggwe
+## 2026-11-23 14:25 UTC · ответ
 
-❤ 237 · 🔁 27 · 💬 38 · цитат 1 · просмотров 21570  
-https://x.com/CryptoKaleo/status/2124610529419268154
+HIGHER https://t.co/hhfywDgdRC
 
-## 2026-11-22 23:01 UTC · ответ
+❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3923  
+https://x.com/CryptoKaleo/status/2124871874869899429
 
-@MINHxDYNASTY Stack and chill season 🤔🐈
+## 2026-11-23 14:28 UTC · цитата
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 949  
-https://x.com/CryptoKaleo/status/2124639448449114188
+GOD CANDLE SZN IS ALMOST HERE
 
-## 2026-11-22 23:11 UTC · цитата
+ROBINHOOD CHAIN ISN'T DEAD https://t.co/rNNxQRORbl https://t.co/GIBOrQje7T
 
-The silver lining of how absurd the Netflix portrayal of SBF &amp; FTX in their show is that for the first time in a long, long time it gave CT something to come together over.
+❤ 211 · 🔁 23 · 💬 33 · цитат 0 · просмотров 32812  
+https://x.com/CryptoKaleo/status/2124872732534092112
 
-Type of alignment that helps typically mark the bottom. https://t.co/mlALTrgcxR
+## 2026-11-23 15:37 UTC · цитата
 
-❤ 146 · 🔁 4 · 💬 35 · цитат 0 · просмотров 23222  
-https://x.com/CryptoKaleo/status/2124642065388576774
+@notjeffersonx haven't said that since summer my man lol
+https://t.co/T9cSD8JQm6
 
-## 2026-11-22 23:27 UTC · пост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 387  
+https://x.com/CryptoKaleo/status/2124890039469715510
 
-#Bitcoin / $BTC 
+## 2026-11-23 15:57 UTC · цитата
 
-Anyone else notice how the price action from the last few months matches up almost perfectly with the Covid crash that marked the bottom of the bear market in 2020?
+There were signs https://t.co/pRjwS7b7IF
 
-Be more bullish. https://t.co/YueaQ1TAvU
+❤ 226 · 🔁 1 · 💬 19 · цитат 1 · просмотров 18719  
+https://x.com/CryptoKaleo/status/2124894996318892340
 
-❤ 597 · 🔁 38 · 💬 92 · цитат 7 · просмотров 62708  
-https://x.com/CryptoKaleo/status/2124645912312185033
+## 2026-11-23 16:02 UTC · ответ
 
-## 2026-11-22 23:36 UTC · ответ
+@intern Did you tell him he won’t have anything left to collect if he wins
 
-@berdyn hmm
+❤ 14 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1716  
+https://x.com/CryptoKaleo/status/2124896334121758776
 
-agreed
+## 2026-11-23 16:28 UTC · ответ
 
-❤ 20 · 🔁 1 · 💬 1 · цитат 0 · просмотров 899  
-https://x.com/CryptoKaleo/status/2124648243514499537
+@Litcigz thought the same thing haha
 
-## 2026-11-23 03:49 UTC · пост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 456  
+https://x.com/CryptoKaleo/status/2124902830406308210
 
-Find it an interesting shift the top traders on FOMO recently have been perps traders
+## 2026-11-23 17:08 UTC · пост
 
-Thinking we see a lot of growth in this meta this bull market
+fyi - we're a lot closer to Robinhood actually listing more assets from Robinhood Chain on the app than what people are saying
 
-Still early and pretty easy for someone decently active and profitable size to make it to the top.
+❤ 224 · 🔁 15 · 💬 41 · цитат 1 · просмотров 22047  
+https://x.com/CryptoKaleo/status/2124912867841286622
 
-➡️https://t.co/InSTibjt4I
+## 2026-11-23 19:06 UTC · цитата
 
-If https://t.co/OUiRMf8d1X
+Jensen Huang’s return is the catalyst the market needed to run it back to all time highs.
 
-❤ 47 · 🔁 1 · 💬 26 · цитат 0 · просмотров 13951  
-https://x.com/CryptoKaleo/status/2124711875573080374
+Every single dip from here on is a gift for buying.
 
-## 2026-11-23 03:50 UTC · ответ
+Bullieve in the golden bull run. https://t.co/HPjXYaSGQJ
 
-@cz_binance Hmm, agreed
+❤ 125 · 🔁 3 · 💬 29 · цитат 1 · просмотров 21721  
+https://x.com/CryptoKaleo/status/2124942631008420057
 
-你对猫有什么看法？🤔🐈 https://t.co/xdhqCOJRR3
+## 2026-11-23 19:27 UTC · ответ
 
-❤ 32 · 🔁 5 · 💬 3 · цитат 0 · просмотров 2533  
-https://x.com/CryptoKaleo/status/2124712261725900823
+robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f 
 
-## 2026-11-23 04:34 UTC · ответ
+If you haven't realized yet, every red candle in this circle is an opportunity to stack more of what will be the top cat of this cycle for free https://t.co/5WFW76XRmT
 
-@seyong 👀
+❤ 24 · 🔁 4 · 💬 2 · цитат 0 · просмотров 3680  
+https://x.com/CryptoKaleo/status/2124947879269720324
 
-❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 404  
-https://x.com/CryptoKaleo/status/2124723143172296917
+## 2026-11-23 20:22 UTC · ответ
 
-## 2026-11-23 04:36 UTC · пост
+@vladtenev HMM agreed 
 
-THE CAT STAYS THINKING
+Time to list more Robinhood Chain tokens on the app sir https://t.co/H6PhIsJZ5S
 
-HIGHER https://t.co/dnMaSHlp0V
+❤ 58 · 🔁 4 · 💬 3 · цитат 0 · просмотров 1883  
+https://x.com/CryptoKaleo/status/2124961842774851610
 
-❤ 95 · 🔁 8 · 💬 39 · цитат 1 · просмотров 13076  
-https://x.com/CryptoKaleo/status/2124723756350439856
+## 2026-11-23 20:24 UTC · цитата
+
+Hmm
+
+I’m telling you guys - more Robinhood Chain tokens will be listed on @RobinhoodApp sooner than you think 
+
+Still early https://t.co/anS8mnt10I
+
+❤ 225 · 🔁 28 · 💬 46 · цитат 0 · просмотров 20715  
+https://x.com/CryptoKaleo/status/2124962278889914783
+
+## 2026-11-24 05:42 UTC · ответ
+
+@MINHxDYNASTY robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f and chill my man
+
+❤ 14 · 🔁 1 · 💬 2 · цитат 0 · просмотров 498  
+https://x.com/CryptoKaleo/status/2125102843149332989
