@@ -1,54 +1,48 @@
-# @a1lon9 — посты за 2026-11-24
+# @a1lon9 — посты за 2026-11-25
 
-Всего: 6
+Всего: 5
 
-## 2026-11-23 21:05 UTC · репост
+## 2026-11-24 23:40 UTC · ответ
 
-RT @mickeymantled: $25k for simply calling coins I would have been buying and scanning anyway on the @Pumpfun app 
+@PumpfunEco We had some great feedback to make competitions much more fair - this is a step away from whale games and focuses more on raw trading skill.
 
-Legit insane that in Au…
+Many more competitions to come. Excited to see this one play out!
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 17596  
-https://x.com/a1lon9/status/2124972620391333972
+❤ 131 · 🔁 4 · 💬 70 · цитат 3 · просмотров 8180  
+https://x.com/a1lon9/status/2125374077393424415
 
-## 2026-11-23 22:32 UTC · репост
+## 2026-11-24 23:40 UTC · репост
 
-RT @PumpfunEco: Mitch turned $5,500 into over $25,000 predicting that Jensen Huang would be reinstated as Nvidia CEO! https://t.co/o3N0Qn0J…
+RT @PumpfunEco: Introducing the $10,000 Buy-in Competition 🏆
 
-❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 16020  
-https://x.com/a1lon9/status/2124994649916154342
+Every trader starts with the same $10,000 budget: no whale games, no restarts…
 
-## 2026-11-23 22:46 UTC · репост
+❤ 0 · 🔁 34 · 💬 0 · цитат 0 · просмотров 15210  
+https://x.com/a1lon9/status/2125374084489904600
 
-RT @Pumpfun: Sui is live on the Pumpfun app
+## 2026-11-25 00:32 UTC · репост
 
-Trade and callout tokens in the Sui ecosystem to earn Callout Rewards!
+RT @andy8052: Looks like @Pumpfun is launching its first buy-in tournament 
 
-Welcome to the Pumpfun…
+Seems like you can only play with a bankroll of $10k which sho…
 
-❤ 0 · 🔁 109 · 💬 0 · цитат 0 · просмотров 9935  
-https://x.com/a1lon9/status/2124998067199860942
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 15442  
+https://x.com/a1lon9/status/2125387128381325397
 
-## 2026-11-23 22:51 UTC · ответ
+## 2026-11-25 01:50 UTC · репост
 
-@Pumpfun @SuiNetwork https://t.co/DwH7HUeosM
+RT @netvyxe: The animations in the @Pumpfun app are a separate art form
 
-❤ 257 · 🔁 24 · 💬 106 · цитат 9 · просмотров 10495  
-https://x.com/a1lon9/status/2124999235074724014
+@initwithcarl, it's a crime to make such beautiful animations, i c…
 
-## 2026-11-23 22:52 UTC · репост
+❤ 0 · 🔁 19 · 💬 0 · цитат 0 · просмотров 14073  
+https://x.com/a1lon9/status/2125406693395923074
 
-RT @kimchi1x: november 2026 
-vlog in bio https://t.co/9iOR7ZoI52
+## 2026-11-25 01:54 UTC · репост
 
-❤ 0 · 🔁 291 · 💬 0 · цитат 0 · просмотров 15312  
-https://x.com/a1lon9/status/2124999444504723919
+RT @quantJB: Signed up for the first @Pumpfun buy in competition 
 
-## 2026-11-23 23:03 UTC · репост
+Everybody starts with 10k USD, a level playing field and anybody can joi…
 
-RT @seralberttrades: Ok the @Pumpfun app perps experience is quite underrated
-
-1. You don’t need to first transfer cash from token to perps…
-
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 17048  
-https://x.com/a1lon9/status/2125002216583094403
+❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 14517  
+https://x.com/a1lon9/status/2125407625160634457

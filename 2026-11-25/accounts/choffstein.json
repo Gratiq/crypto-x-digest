@@ -1,0 +1,392 @@
+[
+ {
+  "id": "2125223329888080115",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "quote",
+  "created_at": "2026-11-24T13:41:41.000Z",
+  "text": "Join us later today 👇 https://t.co/tCMV3TOBxg",
+  "url": "https://x.com/choffstein/status/2125223329888080115",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2707,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2122746058618937663",
+   "text": "Most portfolios don't struggle with diversification in theory. They struggle with making room for it.\n\n@RodGordilloP takes on that problem in a live webinar, \"The Case for NOT Making Room for Alternatives.\" Tuesday, Nov. 24 at 2:00 PM ET. https://t.co/Rf2DtU2KGT"
+  }
+ },
+ {
+  "id": "2125224343600759280",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T13:45:42.000Z",
+  "text": "@GestaltU @Rivershedge There are some real gems on that RiversHedge blog",
+  "url": "https://x.com/choffstein/status/2125224343600759280",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 298,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125049853013323902",
+   "text": "@Rivershedge I’m delighted you weighed in. I’ve learned a lot from your articles over the years."
+  }
+ },
+ {
+  "id": "2125243401926746369",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "original",
+  "created_at": "2026-11-24T15:01:26.000Z",
+  "text": "\"Should we stack on top of equities or bonds?\"\n\nWith return stacking and portable alpha, how you free up your beta creates a hurdle rate that your stack / alpha has to overcome.\n\nI get asked about this one a lot, so I wanted to spend some time developing a more precise answer.  From Oct 31, 2021 to Oct 31, 2026:\n\n- An equal-weight 2-, 5-, 10- and long bond futures ladder cost SOFR+17-29bp\n\n- S&P 500 futures cost SOFR+54-59bp\n\n- It can be quite variable\n\nThis might point to Treasuries being a better place to stack (despite everyone seemingly wanting to stack on equities...)\n\nBut we have to consider the details, like the fact that Treasury futures quietly make you an options seller and will have a higher tracking error to a US Treasury index.",
+  "url": "https://x.com/choffstein/status/2125243401926746369",
+  "likes": 56,
+  "retweets": 2,
+  "replies": 6,
+  "quotes": 1,
+  "impressions": 5935,
+  "bookmarks": 39
+ },
+ {
+  "id": "2125247268202709459",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "quote",
+  "created_at": "2026-11-24T15:16:48.000Z",
+  "text": "@Chrismedi0 https://t.co/M2AwvfTW7N",
+  "url": "https://x.com/choffstein/status/2125247268202709459",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 75,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123058870943985922",
+   "text": "Looks like it was seeded with $40mm and launching today. https://t.co/vyUP7L1fgz https://t.co/obo4wCYlj5"
+  }
+ },
+ {
+  "id": "2125248160033386965",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T15:20:21.000Z",
+  "text": "@DaveNadig Not to be pedantic, but I think this just depends upon your definition of \"accountable.\"\n\nReporters are not judge, jury, and executioner.\n\nBut what reporters uncover plays an important role in people being held accountable for their actions.",
+  "url": "https://x.com/choffstein/status/2125248160033386965",
+  "likes": 21,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 1659,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125242668598829262",
+   "text": "\"It is not the job of journalists to hold people accountable\" is one of the wildest things I have ever read in the english language. https://t.co/3QSzdBeKEB"
+  }
+ },
+ {
+  "id": "2125261205145108722",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:12:11.000Z",
+  "text": "First, you're not exactly quoting an unbiased source.\n\nSecond, again, what does he mean by accountable?  He holds no power to levy legal judgement.",
+  "url": "https://x.com/choffstein/status/2125261205145108722",
+  "likes": 15,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 623,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125259554133061941",
+   "text": "@choffstein \"Journalism must keep power accountable, not citizens accountable for questioning power.\" - Walter Cronkite"
+  }
+ },
+ {
+  "id": "2125263335038009471",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:20:39.000Z",
+  "text": "@DaveNadig They're part of the accountability process.  They are not solely responsible for holding people accountable.\n\nIt's not for Julia to decide what appropriate accountability means.",
+  "url": "https://x.com/choffstein/status/2125263335038009471",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 1,
+  "impressions": 1558,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125262357119004858",
+   "text": "@choffstein By bringing what was hidden into the light, to allow both the reader and the instutitoins of the state to see? But any act always contains bias.  Good journalism makes it clear.  \n\nI guess I am trying to understand the complaint here.  Should the NYT, a major newpaper, NOT have"
+  }
+ },
+ {
+  "id": "2125264034614120762",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:23:26.000Z",
+  "text": "@DaveNadig At least, that's my read of the disconnect here.  No disagreement that the work should be done.\n\nDisagreement on her bemoaning the outcome as an insult to the work.",
+  "url": "https://x.com/choffstein/status/2125264034614120762",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1444,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125263335038009471",
+   "text": "@DaveNadig They're part of the accountability process.  They are not solely responsible for holding people accountable.\n\nIt's not for Julia to decide what appropriate accountability means."
+  }
+ },
+ {
+  "id": "2125266267569258847",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:32:18.000Z",
+  "text": "@DaveNadig Where did I say anything even close to that?  \n\nInvestigative journalism is extremely important.\n\nAgain, my point is only that they don't get to define what appropriate accountability is.",
+  "url": "https://x.com/choffstein/status/2125266267569258847",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 116,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125263961964626143",
+   "text": "@choffstein The tweet is stupid.  DO you think the editors should not have assigned reporters to write about C-suite reactions and culture in the wake of the Huang departure? I would absolutely assigned that, along with someone chasing accounting and deal flow. Is that NOT the paper's job?"
+  }
+ },
+ {
+  "id": "2125266482582143239",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:33:09.000Z",
+  "text": "@fardarter @DaveNadig \"I know the feeling of trying to do accountability journalism in a culture that simply does not care about accountability\" implies that Julia believes her definition of accountability is the correct one.",
+  "url": "https://x.com/choffstein/status/2125266482582143239",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 84,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125264386595950811",
+   "text": "@choffstein @DaveNadig Who proposed that journalists should be solely responsible?"
+  }
+ },
+ {
+  "id": "2125266736241066103",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:34:10.000Z",
+  "text": "@DaveNadig Again, I think this just comes down to how you interpret the word \"accountability\" here.  Which is one of the stupidest things we could possibly argue about on this hellsite.",
+  "url": "https://x.com/choffstein/status/2125266736241066103",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 438,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125264202407297245",
+   "text": "@choffstein Both Julia and Jason's tweets are beyond stupid."
+  }
+ },
+ {
+  "id": "2125269317730111717",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:44:25.000Z",
+  "text": "Are we really going to do this?\n\n\"Corey is responsible\" is a different statement than \"Corey is held responsible\".\n\nThe former is a statement of fact.  It explains my role.\n\nThe latter describes how I am treated, not whether I actually did something.  It points to consequence/blame/liability and usually only applies when something is wrong (the phrase is rarely used in a positive context).",
+  "url": "https://x.com/choffstein/status/2125269317730111717",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 183,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125267588917649526",
+   "text": "@choffstein MW says \"hold to account\" means \"to hold responsible.\"  It says nothing about what the next step is.  Laying a fact pattern that says \"this person or group is responsible for these actions and effects\" seems reasonable."
+  }
+ },
+ {
+  "id": "2125271201643921831",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T16:51:54.000Z",
+  "text": "Julia says, \"in a culture that simply does not care about accountability\".\n\nThat's a subjective view she's claiming as an objective stance.  I don't need to interpret what she meant: she said it outright.",
+  "url": "https://x.com/choffstein/status/2125271201643921831",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 51,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125270261251682521",
+   "text": "@choffstein @DaveNadig You’re never going to know what someone meant with a morally thick concept (https://t.co/iUYOWUoViB) without a deeper dig, but you can’t assume they mean something different to you without it. Statement about Jason was correct 100% — it’s a moron thing to tweet."
+  }
+ },
+ {
+  "id": "2125273610898088038",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T17:01:29.000Z",
+  "text": "@fardarter @DaveNadig I'm not making that claim.",
+  "url": "https://x.com/choffstein/status/2125273610898088038",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 46,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125271395311731021",
+   "text": "@choffstein @DaveNadig Do you think you know what a good definition of accountability is?"
+  }
+ },
+ {
+  "id": "2125276933244010918",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T17:14:41.000Z",
+  "text": "@fardarter @DaveNadig That's not the discussion I'm having here, though.  I'm not here to debate what appropriate accountability should mean in this context.",
+  "url": "https://x.com/choffstein/status/2125276933244010918",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 48,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125275866913488940",
+   "text": "@choffstein @DaveNadig Ok, but you must have some view of what it means. And if you said, without my knowing it, that nobody cared about it, that wouldn’t imply you think your view is absolute. It’s not implied that you don’t think a discussion on the correct meaning is impossible or invalid"
+  }
+ },
+ {
+  "id": "2125285546800890179",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T17:48:54.000Z",
+  "text": "@dannybzak From talking to banks, I think the bigger issue is the 2x single-name ETFs plus recent IPO flow putting pressure on balance sheets.",
+  "url": "https://x.com/choffstein/status/2125285546800890179",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 88,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125250779212628182",
+   "text": "@choffstein Do you think greater adoption of portable alpha/stacked strategies puts meaningful upward pressure on hurdle rates over time to the point it starts to damage the use case for stacking? Or is that either too far off or just not a realistic scenario to matter?"
+  }
+ },
+ {
+  "id": "2125305896238563649",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "original",
+  "created_at": "2026-11-24T19:09:46.000Z",
+  "text": "As end-of-year distributions approach, there can be confusion around why the distributions that managed futures or commodity funds pay might not immediately correlate to the returns generated by commodities in the current tax year.\n\nThe reason is timing. \n\nMost of these funds hold their futures through a wholly owned offshore subsidiary. The fund doesn't pick up the subsidiary's gains as they happen. \n\nInstead, the subsidiary's net income for its full fiscal year comes up to the fund in one lump at the subsidiary's year-end, and it arrives as ordinary income.\n\nFunds then have to distribute that income by calendar year-end to avoid a 4% excise tax. \n\nSo, if a fund's fiscal year ends January 31, this December's distribution reflects gains earned through last January. \n\nAnything earned since February won't show up until next year's distribution. And if the subsidiary has a net loss for its year, that loss stays trapped in the subsidiary and doesn't offset the fund's other income.\n\nTo see where a fund sits on this timeline, look up its Form N-CSR (its annual report) on SEC EDGAR. The fund's fiscal year-end is printed on the cover page. \n\nFor example, $KMLM's fiscal year ends March 31, while $PDBC's ends October 31. \n\nThe bigger the gap between the year-end and December, the less a fund's distribution reflects what  (trading) commodities did this year.",
+  "url": "https://x.com/choffstein/status/2125305896238563649",
+  "likes": 29,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 5316,
+  "bookmarks": 25
+ },
+ {
+  "id": "2125332151692570830",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-24T20:54:06.000Z",
+  "text": "@DeathStripMall Entirely dependent on when the fiscal year ends and when the gains were realized.  \n\nE.g. if the fiscal year is in June and all the gains were in the first half of the year, it'll show up this year.  If the gains were in the second half, it would be next year.",
+  "url": "https://x.com/choffstein/status/2125332151692570830",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 104,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125321259542278269",
+   "text": "@choffstein So essentially if one of these funds had a big year in 2025, the distributions will show up this December?"
+  }
+ },
+ {
+  "id": "2125405199032316035",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-25T01:44:22.000Z",
+  "text": "@WayFarBeyonder @DaveNadig Using a synonym in a definition is usually frowned upon",
+  "url": "https://x.com/choffstein/status/2125405199032316035",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 34,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125404042524553526",
+   "text": "@choffstein @DaveNadig Being held accountable means you're being held responsible for your actions. It does not necessarily also include punishment."
+  }
+ },
+ {
+  "id": "2125441329098371209",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-25T04:07:56.000Z",
+  "text": "@stored_alpha The opposite, actually.\n\nAs yields rise toward the contract's 6% reference, the cheapest-to-deliver moves to lower-coupon, longer-maturity bonds.",
+  "url": "https://x.com/choffstein/status/2125441329098371209",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 44,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125427142699970966",
+   "text": "@choffstein Ignorant question here my friend… with rising yields, wouldn’t the futures index then track bonds that have the higher coupon, meaning lower effective duration and more positive convexity? Thus in a rising rate environment, I would expect much of the tracking error to skew"
+  }
+ }
+]

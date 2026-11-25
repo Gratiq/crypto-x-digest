@@ -1,76 +1,106 @@
-# @Route2FI — посты за 2026-11-24
+# @Route2FI — посты за 2026-11-25
 
-Всего: 9
+Всего: 11
 
-## 2026-11-23 14:04 UTC · пост
+## 2026-11-24 13:09 UTC · ответ
 
-Jensen is back lol.
+@crypto_condom Is your plan still to buy in the 40-50k area? Think I saw you wrote that some months back
 
-Nvidia's board reinstated him as CEO, six days after saying they had no plans to bring him back.
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 4019  
+https://x.com/Route2FI/status/2125215229063639217
 
-NVDA is up around 25% premarket, and BTC jumped almost 4% within minutes. ETH is up over 4% too.
+## 2026-11-24 14:09 UTC · пост
 
-Kinda says it all tbh. Crypto is trading like a leveraged bet
+For years, the hardest part of investing in crypto was getting started. Today, it can feel as familiar as buying a stock.
 
-❤ 262 · 🔁 10 · 💬 30 · цитат 1 · просмотров 24781  
-https://x.com/Route2FI/status/2124866644027621518
+You can buy crypto ETFs through the same brokerage account you use for stocks. Same as buying a share in a company.
 
-## 2026-11-23 14:21 UTC · ответ
+Zcash is a good example. @Grayscale has https://t.co/wbLUPpcwzn
 
-@jords hehe, yep. good point.
+❤ 263 · 🔁 9 · 💬 9 · цитат 1 · просмотров 25217  
+https://x.com/Route2FI/status/2125230391816569261
 
-leveraged to the downside, but 0.3x to the upside 🥲
+## 2026-11-24 14:13 UTC · ответ
 
-❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 846  
-https://x.com/Route2FI/status/2124870904324952169
+@galileowilson @cryptocom that is actually pretty cool
 
-## 2026-11-23 17:53 UTC · пост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 281  
+https://x.com/Route2FI/status/2125231421392293938
 
-$BTC pumped almost 6% in 30 minutes on the Jensen news, from about $61.1k to $64.6k. Now it's back at $61.5k. Basically, the whole move is gone in a few hours. $NVDA is still up 30%+, and the Nasdaq is +6%, but BTC couldn't hold it. https://t.co/c31gYzuyzr
+## 2026-11-24 14:18 UTC · пост
 
-❤ 363 · 🔁 15 · 💬 60 · цитат 0 · просмотров 30085  
-https://x.com/Route2FI/status/2124924330425684331
+Fear &amp; Greed has been sitting at 10-12 for a whole week now. bitcoin:native handed back the entire Monday pump and is fighting for 60k again, and about $4.7 billion has left the US spot bitcoin ETFs so far in November, as of Monday's close. 
 
-## 2026-11-23 18:02 UTC · ответ
+Tbh this is the part where everyone
 
-@CryptoPoseidonn shouldn't we as block chain expertooors answer that?
+❤ 210 · 🔁 12 · 💬 29 · цитат 0 · просмотров 17961  
+https://x.com/Route2FI/status/2125232597626233237
 
-❤ 15 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2220  
-https://x.com/Route2FI/status/2124926491406246267
+## 2026-11-24 15:33 UTC · пост
 
-## 2026-11-23 21:57 UTC · ответ
+The advice that changed my mindset back then. https://t.co/mtRYWqABuR
 
-@Evan_ss6 real
+❤ 133 · 🔁 13 · 💬 7 · цитат 2 · просмотров 13670  
+https://x.com/Route2FI/status/2125251401789866126
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 472  
-https://x.com/Route2FI/status/2124985765792780378
+## 2026-11-24 16:08 UTC · ответ
 
-## 2026-11-23 22:12 UTC · цитата
+@bearishsmokey that position was sold ser
 
-Don't think it's wasted at all tbh.
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 330  
+https://x.com/Route2FI/status/2125260318721060996
 
-Met some of the sharpest minds I know in here. Learned trading, DeFi, marketing, growth, how to build a community, delta-neutral strategies++. Tested so many financial products, some good, some bad, and some that completely rewired how I https://t.co/oYulkv1QLW
+## 2026-11-24 17:01 UTC · цитата
 
-❤ 322 · 🔁 7 · 💬 28 · цитат 0 · просмотров 28757  
-https://x.com/Route2FI/status/2124989399926480941
+Been testing the Nansen trading app for a bit, and the leaderboard is my favorite part tbh. 
 
-## 2026-11-23 23:38 UTC · ответ
+The unique thing is that this leaderboard tracks the top traders across all their wallets onchain, so it shows their overall stats instead of eg. just FOMO/Pump or Hyperliquid (see below: you have Aguila, CBB, mk4, and hedgehog among others).
 
-@real_y22 Likewise, brother ☺️
+You can follow the top traders and get notified in real time when they open or close a position, and then copy trade them.
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 251  
-https://x.com/Route2FI/status/2125011200299712631
+Other stuff I liked:
 
-## 2026-11-23 23:43 UTC · ответ
+-Nano, their AI. You can ask it anything about a trade or have it do research. It did research really well when I tested it
+-Limit orders in the app, which a lot of mobile apps don't have
+-Fast deposits and a clean UI
 
-@cburniske which assets do you believe in the most going into the new cycle, Chris?
+If you want to try it, here's my ref link for 10% off on fees: https://t.co/M4JfZcWgLp
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 464  
-https://x.com/Route2FI/status/2125012427670687797
+❤ 232 · 🔁 5 · 💬 5 · цитат 0 · просмотров 25252  
+https://x.com/Route2FI/status/2125273565767282774
 
-## 2026-11-23 23:59 UTC · ответ
+## 2026-11-24 17:12 UTC · пост
 
-@rektdiomedes Real
+Pretty fat dump on monad:native today, but I mean...the circ mcap increases by over 140% on the unlock.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 246  
-https://x.com/Route2FI/status/2125016352247238734
+Anyone picking this up here?
+
+❤ 84 · 🔁 3 · 💬 23 · цитат 2 · просмотров 14400  
+https://x.com/Route2FI/status/2125276271126925516
+
+## 2026-11-24 18:26 UTC · цитата
+
+Obzidian is basically your own AI trading desk. You tell the agent what you want in plain words and it builds the board, turns your strategy into rules and runs it.
+
+Tested it today with a simple basket strategy:
+
+"Spread 10 SOL across the five strongest memecoins on Solana. https://t.co/haDEigQT0i https://t.co/zzoQSorE2B
+
+❤ 383 · 🔁 2 · 💬 8 · цитат 0 · просмотров 28088  
+https://x.com/Route2FI/status/2125295002792444183
+
+## 2026-11-24 22:01 UTC · цитата
+
+The Polymarket agent meta is here.
+
+Probably only a couple years until the top traders are all somewhat automated/agentic. https://t.co/TX3tTOEKEw
+
+❤ 141 · 🔁 2 · 💬 5 · цитат 0 · просмотров 27663  
+https://x.com/Route2FI/status/2125349166662513137
+
+## 2026-11-25 05:58 UTC · ответ
+
+@thelearningpill Not for perps at least
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 78  
+https://x.com/Route2FI/status/2125469100822646918

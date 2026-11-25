@@ -1,35 +1,35 @@
-# @CryptoInsightsX — посты за 2026-11-24
+# @CryptoInsightsX — посты за 2026-11-25
 
-Всего: 4
+Всего: 3
 
-## 2026-11-23 09:23 UTC · ответ
+## 2026-11-24 13:02 UTC · цитата
 
-@HachikoInuCTO Hi Hachiko🙌🏻
+Daily Market Overview: EXTREME FEAR
+Nov 24, 2026
 
-❤ 5 · 🔁 3 · 💬 1 · цитат 0 · просмотров 60  
-https://x.com/CryptoInsightsX/status/2124796002486173894
+ #BTC price trades around $60K 
+ 
+In the past 24 hours, 145,825 traders(54.2% Short) liquidated. Total liquidations were $881.89M.
 
-## 2026-11-23 14:04 UTC · ответ
+#CryptoNews #Crypto bitcoin:native https://t.co/zZHjUid1Sn https://t.co/oPtBQPWQTW
 
-@Abrlien Gratz AB, Huge Achievement !!!
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 127  
+https://x.com/CryptoInsightsX/status/2125213590206722410
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 19  
-https://x.com/CryptoInsightsX/status/2124866580186357967
+## 2026-11-24 13:52 UTC · ответ
 
-## 2026-11-23 14:12 UTC · ответ
+@blknoiz06 lmao, are you broke ?
 
-@WatcherGuru We're so back :D
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 69  
+https://x.com/CryptoInsightsX/status/2125226066289778911
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 670  
-https://x.com/CryptoInsightsX/status/2124868747739729972
+## 2026-11-24 14:27 UTC · репост
 
-## 2026-11-23 14:22 UTC · пост
+RT @Codedscientist: Meet Zion Thomas, Popularly know as Ansem
 
-BREAKING: Nvidia has reappointed @JensenHuang as CEO and Chairman.
+One of the most recognisable figures in Solana's memecoin trenches.
 
-NVDA shares surged 25% following the news, helping push bitcoin:native back above $63K.
+He went…
 
-Bitcoin's momentum is building, with $280.82M in short positions liquidated in just the past hour. https://t.co/gBKLcDrSly
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 93  
-https://x.com/CryptoInsightsX/status/2124871156390154347
+❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 0  
+https://x.com/CryptoInsightsX/status/2125234867415990315

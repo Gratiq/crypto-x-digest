@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2125327520883224940",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-24T20:35:42.000Z",
+  "text": "\"Many employees believe they can no longer be safely released\"\n\nThis sentence has been true since GPT-2. https://t.co/iKwlIuRD5y https://t.co/O0nJsviD8d",
+  "url": "https://x.com/hosseeb/status/2125327520883224940",
+  "likes": 79,
+  "retweets": 13,
+  "replies": 14,
+  "quotes": 1,
+  "impressions": 8477,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125194635534369145",
+   "text": "SCOOP: Internal, unreleased AI models at OpenAI and Anthropic are becoming so powerful that many employees believe they can no longer be safely released, according to more than two dozen sources familiar with the internal debates.\n\nThis could significantly slow the AI boom, as"
+  }
+ },
+ {
+  "id": "2125369448337133699",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-24T23:22:18.000Z",
+  "text": "@altryne No, but I've been hearing this every single model generation and don't buy it yet.\n\nStrawberry, Q-star, Mythos, etc. Every one of them I heard the same thing. Very powerful models are in the hands of anyone who wants them now and the world is basically fine. Labs are not very",
+  "url": "https://x.com/hosseeb/status/2125369448337133699",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 155,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125330954600518075",
+   "text": "@hosseeb do you think it'll never be true?"
+  }
+ }
+]

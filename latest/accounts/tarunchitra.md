@@ -1,63 +1,56 @@
-# @tarunchitra — посты за 2026-11-24
+# @tarunchitra — посты за 2026-11-25
 
-Всего: 8
+Всего: 7
 
-## 2026-11-23 15:33 UTC · цитата
+## 2026-11-24 15:29 UTC · репост
 
-Glad to have been the only one with some common sense on @_choppingblock about the 🐐 coming back; welcome back! https://t.co/b7YO4kieY8
+RT @TomGur: It appears that OpenAI has an alternative proof of VP \neq VNP:
+https://t.co/8hbyfv8uxF
 
-❤ 109 · 🔁 2 · 💬 9 · цитат 1 · просмотров 4708  
-https://x.com/tarunchitra/status/2124888975714201787
+❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 409  
+https://x.com/tarunchitra/status/2125250571179344226
 
-## 2026-11-23 15:38 UTC · репост
+## 2026-11-24 16:19 UTC · цитата
 
-RT @NousResearch: We’re so back https://t.co/7wIQbgNl34
+I think if you add up the experience here and on OpenAI Jalapeño, it is like 100+ years of ASIC design experience (which is very rare in today's environment, despite the intense capital investment in inference ASICs)
 
-❤ 0 · 🔁 186 · 💬 0 · цитат 0 · просмотров 332  
-https://x.com/tarunchitra/status/2124890359159222620
+[One of the reasons DESRES was an awesome place to work] https://t.co/ILkHPRDCz5
 
-## 2026-11-23 16:11 UTC · репост
+❤ 62 · 🔁 1 · 💬 6 · цитат 0 · просмотров 6315  
+https://x.com/tarunchitra/status/2125262921672294439
 
-RT @disk0x: I could not believe Tarun is the only one, woow
+## 2026-11-24 16:24 UTC · ответ
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 376  
-https://x.com/tarunchitra/status/2124898638413611190
+A lot of intellectual freedom to work on interdisciplinary problems in hardware, physics, biology; you weren't really forced into one field and could spend time working on multiple things. Plus David was very open minded. The alumni/places people went afterwards almost more impressive than the place itself (e.g. Nobel Prize winner)
 
-## 2026-11-23 16:54 UTC · репост
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 307  
+https://x.com/tarunchitra/status/2125264324247552189
 
-RT @_choppingblock: .@tarunchitra made the case for Jensen
+## 2026-11-24 16:25 UTC · репост
 
-"Every person who's been suggested is just kinda mid... The CFO seems like the…
+RT @rrwilliams: Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...
+- I'm happy to see a major *lower bound*…
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 379  
-https://x.com/tarunchitra/status/2124909562327453978
+❤ 0 · 🔁 49 · 💬 0 · цитат 0 · просмотров 397  
+https://x.com/tarunchitra/status/2125264444368593406
 
-## 2026-11-24 03:44 UTC · цитата
+## 2026-11-24 18:23 UTC · репост
 
-Cursory reading of this says that the "pretty way" to try to prove VP ≠ VNP via representation theory [Mulmuley and Sohoni's Geometric Complexity Theory] was right since it proves the existence of the lifting polynomial of the permanent 
+RT @zacharylipton: In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropi…
 
-Glad I avoided doing a PhD in GCT... https://t.co/GOcwC9HL1m
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 415  
+https://x.com/tarunchitra/status/2125294133611004329
 
-❤ 44 · 🔁 0 · 💬 13 · цитат 0 · просмотров 4021  
-https://x.com/tarunchitra/status/2125072978689884173
+## 2026-11-25 01:13 UTC · цитата
 
-## 2026-11-24 03:44 UTC · ответ
+Wow, Cohn, Kleinberg, and Alon  were right... just two decades too early https://t.co/3k4YHr399B
 
-Also congrats to @shortstein on the discovery
+❤ 33 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3275  
+https://x.com/tarunchitra/status/2125397546868543525
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 708  
-https://x.com/tarunchitra/status/2125073046834966851
+## 2026-11-25 02:42 UTC · репост
 
-## 2026-11-24 04:04 UTC · ответ
+RT @Intrinsic_HQ: Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for…
 
-@zkDragon Haha, if I didn't once consider doing a PhD related to it, I wouldn't have
-
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 198  
-https://x.com/tarunchitra/status/2125077985967423804
-
-## 2026-11-24 04:07 UTC · ответ
-
-@zkDragon Yeah, it shows up in GCT (this attempt to make a continuous P != NP via representation theory and then "hopefully" project to the boolean case) and also in the classical Jerrum-Sinclair permanent estimation via determinants / lower degree polys
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 72  
-https://x.com/tarunchitra/status/2125078775142736041
+❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 357  
+https://x.com/tarunchitra/status/2125419723609264367

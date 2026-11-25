@@ -1,217 +1,120 @@
-# @Fiskantes — посты за 2026-11-24
+# @Fiskantes — посты за 2026-11-25
 
-Всего: 28
+Всего: 15
 
-## 2026-11-23 11:39 UTC · ответ
+## 2026-11-24 09:02 UTC · пост
 
-@infinitybanyan One of them should be more impactful than the other no?
+Uhh chat?
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 155  
-https://x.com/Fiskantes/status/2124830134339502180
+Why is X turning into Linkedin? https://t.co/8dFTrAJsMF
 
-## 2026-11-23 13:54 UTC · цитата
+❤ 13 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2513  
+https://x.com/Fiskantes/status/2125153075346149520
 
-Expect lot of extinct, unfinished and botched games to be CTOed now with AI vibecoding capabilities https://t.co/ouy2b3SxRw
+## 2026-11-24 09:04 UTC · цитата
 
-❤ 33 · 🔁 1 · 💬 10 · цитат 0 · просмотров 2975  
-https://x.com/Fiskantes/status/2124864259003695180
+One of those mornings when you brush your teeth with a hand cream instead of toothpaste https://t.co/6YNsv6xzFf
 
-## 2026-11-23 13:58 UTC · цитата
+❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3610  
+https://x.com/Fiskantes/status/2125153485935222947
 
-volatility is the product https://t.co/FIaGMyM0vy
+## 2026-11-24 09:15 UTC · ответ
 
-❤ 21 · 🔁 2 · 💬 7 · цитат 1 · просмотров 2799  
-https://x.com/Fiskantes/status/2124865295999529171
+@dieworkwear PSA: its only "okay" if half of US economy stands on your shoulders
 
-## 2026-11-23 14:06 UTC · цитата
+And even then its not totally okay, you are still getting kinda dragged...unless you pull an Elon and do it publicly from the start
 
-we are so fucking back https://t.co/CIJHymlX74 https://t.co/0Y2YgYhPHk
+❤ 41 · 🔁 0 · 💬 1 · цитат 0 · просмотров 10991  
+https://x.com/Fiskantes/status/2125156274337661363
 
-❤ 14 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1883  
-https://x.com/Fiskantes/status/2124867089353638006
+## 2026-11-24 09:33 UTC · цитата
 
-## 2026-11-23 14:07 UTC · пост
+https://t.co/A0oKwh66vF https://t.co/IKkGSlbAmL
 
-we are so fucking back its not even funny how back we are
+❤ 13 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2312  
+https://x.com/Fiskantes/status/2125160751069557034
 
-❤ 18 · 🔁 1 · 💬 0 · цитат 0 · просмотров 2603  
-https://x.com/Fiskantes/status/2124867497371267434
+## 2026-11-24 09:38 UTC · ответ
 
-## 2026-11-23 14:09 UTC · цитата
+@goodalexander @AlgodTrading Idk I feel like someone is stealing crypto all the time https://t.co/8Towan5wc7
 
-Can't believe it worked https://t.co/DQQBK5K28J
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 734  
+https://x.com/Fiskantes/status/2125162050271760558
 
-❤ 15 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1831  
-https://x.com/Fiskantes/status/2124867893225718181
+## 2026-11-24 09:46 UTC · цитата
 
-## 2026-11-23 14:15 UTC · пост
+Just because something is consensus doesn't mean its a bad hold
 
-Where were you when the great Nvidia war was fought?
+Just because something is contrarian doesn't mean its a good hold
 
-In the trenches, jensen-posting with your comrades, or cowardly watching from the sidelines?
+Actually most of the time it's the opposite https://t.co/XPrB1NC3AB
 
-Or maybe you were traitorously talking about "how he akshually shouldn't sell those GPUs to Singapore, how he should be faithful to
+❤ 55 · 🔁 1 · 💬 4 · цитат 1 · просмотров 5093  
+https://x.com/Fiskantes/status/2125164254705692853
 
-❤ 21 · 🔁 1 · 💬 1 · цитат 0 · просмотров 2898  
-https://x.com/Fiskantes/status/2124869441254990166
+## 2026-11-24 11:04 UTC · репост
 
-## 2026-11-23 14:37 UTC · пост
+RT @angel_flowstate: dress code is leather jacket https://t.co/8c63K6slWu
 
-Scheming eunuch went after the king and missed
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 676  
+https://x.com/Fiskantes/status/2125183765177647113
 
-❤ 39 · 🔁 0 · 💬 4 · цитат 0 · просмотров 3058  
-https://x.com/Fiskantes/status/2124875012616114644
+## 2026-11-24 14:42 UTC · цитата
 
-## 2026-11-23 15:31 UTC · ответ
+Rip the bandaid off is underrated https://t.co/w0ixqYvNCB
 
-https://t.co/7FpBmzW9UG
+❤ 14 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2701  
+https://x.com/Fiskantes/status/2125238744118657242
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 563  
-https://x.com/Fiskantes/status/2124888577410785425
+## 2026-11-24 14:50 UTC · ответ
 
-## 2026-11-23 15:50 UTC · пост
+@0xCardiE hard agree
 
-I'm wearing my leather jacket to the office tmrw
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 49  
+https://x.com/Fiskantes/status/2125240534079832550
 
-❤ 30 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2684  
-https://x.com/Fiskantes/status/2124893437799354661
+## 2026-11-24 14:51 UTC · репост
 
-## 2026-11-23 16:24 UTC · ответ
+RT @BrianRoemmele: I know dozens of Nvidia employees. Some I talk to daily.
 
-@TitusArch88 Retirement is overrated, I love the game
+I can tell you with certainty that there has never been a more…
 
-❤ 11 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1650  
-https://x.com/Fiskantes/status/2124901910176227798
+❤ 0 · 🔁 737 · 💬 0 · цитат 0 · просмотров 620  
+https://x.com/Fiskantes/status/2125240976604024986
 
-## 2026-11-23 16:24 UTC · репост
+## 2026-11-24 14:58 UTC · цитата
 
-RT @Fiskantes: @TitusArch88 Retirement is overrated, I love the game
+Chinesemperormaxxing https://t.co/yeXzIE5tVa
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/Fiskantes/status/2124902038823919819
+❤ 9 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2494  
+https://x.com/Fiskantes/status/2125242623678124068
 
-## 2026-11-23 16:38 UTC · ответ
+## 2026-11-24 15:50 UTC · ответ
 
-@Katebell68 You bet https://t.co/5vQwOgCAyu
+@WhosDaveStanton Yup but people think that just being contrarian by default is enough to win
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 44  
-https://x.com/Fiskantes/status/2124905464404316483
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 264  
+https://x.com/Fiskantes/status/2125255854551368183
 
-## 2026-11-23 17:25 UTC · пост
+## 2026-11-24 19:48 UTC · репост
 
-Seems like for active traders 24/7 markets are not a good to have but necessity
+RT @Auki: ROI from robots looking at shelves &gt;&gt; ROI from robots stocking shelves.
 
-If you want to have free weekend, fair square, close all your positions on Friday and go chill
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 581  
+https://x.com/Fiskantes/status/2125315530219217310
 
-❤ 12 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2284  
-https://x.com/Fiskantes/status/2124917274809086145
+## 2026-11-24 20:27 UTC · ответ
 
-## 2026-11-23 17:38 UTC · цитата
+@bigballsbulla My exact thoughts! 
 
-Turns out you can do a lot as a POTUS https://t.co/eMz8wVJmld
+As a GAW shareholder maybe I should act. My merciless jensen-posting already fixed the Nvidia situation, maybe its time for cavill-posting
 
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1419  
-https://x.com/Fiskantes/status/2124920663022678502
+❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 823  
+https://x.com/Fiskantes/status/2125325408199692419
 
-## 2026-11-23 21:58 UTC · пост
+## 2026-11-24 20:27 UTC · ответ
 
-Same energy https://t.co/9PAlq66Wq4
+@bigballsbulla (I own 1 share of each)
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1105  
-https://x.com/Fiskantes/status/2124986030860427440
-
-## 2026-11-23 22:19 UTC · цитата
-
-You guys say GTA 6 is a cuck simulator and then you login to trade crypto everyday for years https://t.co/ea8nQhL9Qz
-
-❤ 68 · 🔁 3 · 💬 8 · цитат 0 · просмотров 3770  
-https://x.com/Fiskantes/status/2124991341226873192
-
-## 2026-11-23 22:21 UTC · пост
-
-Same energy https://t.co/N8owigGDs9
-
-❤ 6 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1762  
-https://x.com/Fiskantes/status/2124991852986146973
-
-## 2026-11-23 22:46 UTC · репост
-
-RT @DegenMack: It’s a new era at @metaplex 
-
-We came away from London with more than 30 new leads across a wide range of different RWA issu…
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 563  
-https://x.com/Fiskantes/status/2124998120916361227
-
-## 2026-11-23 23:06 UTC · ответ
-
-@inversebrah stronk liens
-
-would be a shame if something...broke them https://t.co/TAs6WMF0OR
-
-❤ 3 · 🔁 1 · 💬 0 · цитат 0 · просмотров 396  
-https://x.com/Fiskantes/status/2125003022732566608
-
-## 2026-11-23 23:51 UTC · цитата
-
-virgin sci-fi fan "just like in Star Trek" Yud vs chad "didn't read, don't care" Jensen https://t.co/LLlmJF8I8D
-
-❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1718  
-https://x.com/Fiskantes/status/2125014422536261932
-
-## 2026-11-23 23:56 UTC · цитата
-
-The lack of leather on his jacket is concerning, what is this fake nonsense
-
-Maybe they re-educated him clockwork orange style...what if his return is just for show to calm the markets and things are not going to be the same anymore https://t.co/CwMcQZUXVf
-
-❤ 14 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2637  
-https://x.com/Fiskantes/status/2125015625047187858
-
-## 2026-11-24 00:00 UTC · цитата
-
-Ok fine...guess its a jacket he wore before and he is wearing it today to show humility
-
-instead of flashy creaky leather that screams "fuckboy", that could be seen as tone deaf
-
-https://t.co/kJu9C63kPf
-
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 853  
-https://x.com/Fiskantes/status/2125016597538480178
-
-## 2026-11-24 00:10 UTC · цитата
-
-London is very nice, just don't venture too much out of the green zones https://t.co/fvuF1qLXxB
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 595  
-https://x.com/Fiskantes/status/2125019307830886726
-
-## 2026-11-24 00:11 UTC · цитата
-
-London is very nice, just don't venture too much out of the green zones
-
-(And same goes for crypto, badumts) https://t.co/fvuF1qLXxB
-
-❤ 4 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1956  
-https://x.com/Fiskantes/status/2125019477519765903
-
-## 2026-11-24 00:15 UTC · пост
-
-Should Jensen and Altman become a natural allies, now that they share the "ousted by board than reinstated" experience?
-
-❤ 11 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1894  
-https://x.com/Fiskantes/status/2125020481124245750
-
-## 2026-11-24 00:32 UTC · цитата
-
-Mandate of heaven reinstated https://t.co/tSF9xERUN6
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 640  
-https://x.com/Fiskantes/status/2125024795272110427
-
-## 2026-11-24 00:34 UTC · цитата
-
-Mandate of heaven https://t.co/tSF9xESsCE
-
-❤ 30 · 🔁 3 · 💬 0 · цитат 0 · просмотров 2545  
-https://x.com/Fiskantes/status/2125025186806456662
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 513  
+https://x.com/Fiskantes/status/2125325485609800160

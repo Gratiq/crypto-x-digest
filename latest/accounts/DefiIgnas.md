@@ -1,157 +1,105 @@
-# @DefiIgnas — посты за 2026-11-24
+# @DefiIgnas — посты за 2026-11-25
 
-Всего: 16
+Всего: 11
 
-## 2026-11-23 09:39 UTC · цитата
+## 2026-11-24 08:58 UTC · цитата
 
-Best marketing for a project is a pumping token price
+When they said ‘own the assets or get left behind’ but you bought crypto. https://t.co/sJnnoTZOYg
 
-$VVV pumps and suddenly everyone curious why? 
+❤ 83 · 🔁 1 · 💬 18 · цитат 0 · просмотров 7259  
+https://x.com/DefiIgnas/status/2125152045758104024
 
-They go check the app. Try it. Like it. And maybe even buy the token.
+## 2026-11-24 09:24 UTC · ответ
 
-I believe this is how @mzeller got bullish on it? lol https://t.co/cnZAF9990f
+@Overdose_AI The price was going down so it is natural to sell 👍👍
 
-❤ 152 · 🔁 1 · 💬 35 · цитат 1 · просмотров 11435  
-https://x.com/DefiIgnas/status/2124800012693762370
+❤ 10 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1634  
+https://x.com/DefiIgnas/status/2125158691582464020
 
-## 2026-11-23 09:49 UTC · ответ
+## 2026-11-24 09:50 UTC · пост
 
-@AirdropGlideApp No need to stop posting because your thesis on Cosmos didnt play out.
+Crypto would pump if :
 
-Can easily pivot and keep your curiousity in crypto alive by posting about anything else you find fun
+1. We bought spot assets instead of perps that don’t affect price directly
 
-❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 695  
-https://x.com/DefiIgnas/status/2124802543268274392
+2. Get rid of memecoin extraction game 
 
-## 2026-11-23 11:41 UTC · пост
+3. Banned tokenized stocks so capital doesn’t have anywhere else to go but crypto native assets 
 
-$VAR TGE is coming just as $LIT unlocks gonna start.
+None will happen so we’ll wait for some
 
-VAR has more open interest than Lighter:
+❤ 243 · 🔁 6 · 💬 49 · цитат 3 · просмотров 14600  
+https://x.com/DefiIgnas/status/2125165237116535294
 
-$653M vs Lighter $552M
+## 2026-11-24 09:52 UTC · пост
 
-Of course, people are farming the VAR airdrop. Although Lighter has points farming on Robinhood Chain too.
+Seems ansem posted private key in pumpfun app and got rekt
 
-So we don't know how much activity stays when https://t.co/Xsk94jVf1A
+❤ 203 · 🔁 1 · 💬 38 · цитат 0 · просмотров 24441  
+https://x.com/DefiIgnas/status/2125165636892651925
 
-❤ 137 · 🔁 7 · 💬 36 · цитат 2 · просмотров 16769  
-https://x.com/DefiIgnas/status/2124830590696624387
+## 2026-11-24 09:57 UTC · ответ
 
-## 2026-11-23 11:44 UTC · цитата
+@lookonchain @blknoiz06 ‘ @circle could do the funny thing and freeze those assets
 
-Judging from my experience, those who joined crypto pre-DeFi summer days, done well.
+❤ 28 · 🔁 0 · 💬 4 · цитат 0 · просмотров 3306  
+https://x.com/DefiIgnas/status/2125166884102537362
 
-Those who joined after, are probably flat.
+## 2026-11-24 10:45 UTC · ответ
 
-Those who joined when pump fun memecoin mania started, are rekt beyond belief. https://t.co/RQnCQ5re76
+It is a shitpost in case you take it seriously
 
-❤ 128 · 🔁 2 · 💬 37 · цитат 0 · просмотров 10675  
-https://x.com/DefiIgnas/status/2124831377199652881
+❤ 25 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2456  
+https://x.com/DefiIgnas/status/2125179062410760559
 
-## 2026-11-23 12:43 UTC · ответ
+## 2026-11-24 12:04 UTC · ответ
 
-@Only1temmy Flat at these market prices is good
+@alpha_pls Tokenization as well is the biggest win for crypto. 
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 287  
-https://x.com/DefiIgnas/status/2124846392598237461
+But doesnt translate into btc or eth pumping
 
-## 2026-11-23 14:00 UTC · ответ
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 723  
+https://x.com/DefiIgnas/status/2125198780807127469
 
-@DeriveXYZ Booolish
+## 2026-11-24 12:21 UTC · ответ
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 282  
-https://x.com/DefiIgnas/status/2124865663567282281
+@stacy_muur Good read. 
 
-## 2026-11-23 14:08 UTC · пост
+I tried shilling quite a few links and only one thing pays:
 
-Pls buy SPOT and not 10x perp again if you are bullish on this pump
+Airdrops. 
 
-Don't let the market take it from you again. 
+Not just for me but also people that use my link. 
 
-And you'll actually contribute to the crypto prices pumping.
+Others barely get any fees. Hopefully Ethena card is different
 
-❤ 75 · 🔁 0 · 💬 13 · цитат 1 · просмотров 6713  
-https://x.com/DefiIgnas/status/2124867693006508300
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 352  
+https://x.com/DefiIgnas/status/2125203235673969114
 
-## 2026-11-23 15:47 UTC · цитата
+## 2026-11-24 12:57 UTC · ответ
 
-1) Crypto natives better bet on NVDA stock onchain with stablecoins than buy BTC
+@hooeem So basically the memecoin extraction game. 
 
-2) Jensen back means circular AI financing continues to soak all liquidity to AI. Bad for crypto
+But i agree we need longer investment period to come back. 
+Early bitcoiners and ethereans were thinking big and in years. 
 
-3) We got so rekt and PTSD means we still scared to bet on crypto https://t.co/QGsmmCnERq
+Now degens want to get rich in one trade but get rekt instead
 
-❤ 99 · 🔁 3 · 💬 22 · цитат 2 · просмотров 9379  
-https://x.com/DefiIgnas/status/2124892611513327908
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 473  
+https://x.com/DefiIgnas/status/2125212101367173605
 
-## 2026-11-23 15:52 UTC · ответ
+## 2026-11-24 15:32 UTC · цитата
 
-@Pickle_cRypto But but wash trading... !!!
+Following this logic the lower the stocks go the higher BTC goes. 
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 331  
-https://x.com/DefiIgnas/status/2124893829673185486
+Today is the test day for the theory. https://t.co/fWKwpS9R7e
 
-## 2026-11-23 15:55 UTC · ответ
+❤ 53 · 🔁 0 · 💬 28 · цитат 0 · просмотров 6179  
+https://x.com/DefiIgnas/status/2125251332269650295
 
-@eth_apple dumping btc to buy nvda dump duh...
+## 2026-11-25 05:40 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 299  
-https://x.com/DefiIgnas/status/2124894631296921748
+Ok more than 100 invites left !
 
-## 2026-11-23 16:28 UTC · ответ
-
-@0xvietnguyen been there. done that
-
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1360  
-https://x.com/DefiIgnas/status/2124902855496851474
-
-## 2026-11-23 17:30 UTC · пост
-
-Didn't think crypto could look worse
-
-But after retracing all the pump while equities still up, crypto looks even more bearish than yesterday.
-
-❤ 305 · 🔁 7 · 💬 42 · цитат 1 · просмотров 15315  
-https://x.com/DefiIgnas/status/2124918490801033358
-
-## 2026-11-23 19:12 UTC · ответ
-
-@Proof_of_Snark so cooked
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 576  
-https://x.com/DefiIgnas/status/2124944070132879406
-
-## 2026-11-23 23:00 UTC · пост
-
-Crypto ppl liking London post got viral on /london  sub reddit
-
-Not surprisingly top upvoted comments is all hating on crypto bros
-
-"I don't want those crypto-wanks here anyway - they're obviously fucking morons"
-
-"noooo, don't let them know, the tech bros will want to come and https://t.co/l8VgZuhvbs
-
-❤ 30 · 🔁 0 · 💬 11 · цитат 2 · просмотров 9076  
-https://x.com/DefiIgnas/status/2125001542550028691
-
-## 2026-11-23 23:02 UTC · ответ
-
-at least they think we are still rich so that's nice. https://t.co/nkBUOp2PLl
-
-❤ 12 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1108  
-https://x.com/DefiIgnas/status/2125002033094647847
-
-## 2026-11-23 23:50 UTC · репост
-
-RT @DefiIgnas: $VAR TGE is coming just as $LIT unlocks gonna start.
-
-VAR has more open interest than Lighter:
-
-$653M vs Lighter $552M
-
-Of c…
-
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/DefiIgnas/status/2125014043127885958
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 757  
+https://x.com/DefiIgnas/status/2125464520932139358

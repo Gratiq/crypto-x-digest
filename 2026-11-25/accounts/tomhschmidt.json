@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2125345582218981431",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "reply",
+  "created_at": "2026-11-24T21:47:28.000Z",
+  "text": "@gerstenzang Also 90% less electricity! Kids today will never know the feeling of being scolded for leaving the lights on 😪",
+  "url": "https://x.com/tomhschmidt/status/2125345582218981431",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 367,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125340630155207050",
+   "text": "Not discussed enough: how much longer lightbulbs last than they did 30 years ago"
+  }
+ },
+ {
+  "id": "2125384649765712350",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "retweet",
+  "created_at": "2026-11-25T00:22:42.000Z",
+  "text": "RT @clavicular: My owner Ossi Ketola has forced me to apologize for this tweet and correct the record. We do not believe this house edge er…",
+  "url": "https://x.com/tomhschmidt/status/2125384649765712350",
+  "likes": 0,
+  "retweets": 13,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 186,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125337700358074833",
+   "text": "My owner Ossi Ketola has forced me to apologize for this tweet and correct the record. We do not believe this house edge error was intentional from Yeet’s end."
+  }
+ }
+]

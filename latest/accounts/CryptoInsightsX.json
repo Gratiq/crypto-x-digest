@@ -1,77 +1,62 @@
 [
  {
-  "id": "2124796002486173894",
+  "id": "2125213590206722410",
   "username": "CryptoInsightsX",
   "username_canon": "CryptoInsightsX",
-  "type": "reply",
-  "created_at": "2026-11-23T09:23:38.000Z",
-  "text": "@HachikoInuCTO Hi Hachiko🙌🏻",
-  "url": "https://x.com/CryptoInsightsX/status/2124796002486173894",
-  "likes": 5,
-  "retweets": 3,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 60,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2124773525651095748",
-   "text": "Hachiko is Bullrun 🐂\n\nStay loyal. Hunt bears. 🐕🎣🐻💪 https://t.co/03D5oIRQdz"
-  }
- },
- {
-  "id": "2124866580186357967",
-  "username": "CryptoInsightsX",
-  "username_canon": "CryptoInsightsX",
-  "type": "reply",
-  "created_at": "2026-11-23T14:04:05.000Z",
-  "text": "@Abrlien Gratz AB, Huge Achievement !!!",
-  "url": "https://x.com/CryptoInsightsX/status/2124866580186357967",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 19,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2124676446400500013",
-   "text": "Finally here with U.S. President Donald J. Trump!  🇺🇸🦅\n\nKeep building https://t.co/QaWqspAtVU https://t.co/6cIuHtw6Gw"
-  }
- },
- {
-  "id": "2124868747739729972",
-  "username": "CryptoInsightsX",
-  "username_canon": "CryptoInsightsX",
-  "type": "reply",
-  "created_at": "2026-11-23T14:12:42.000Z",
-  "text": "@WatcherGuru We're so back :D",
-  "url": "https://x.com/CryptoInsightsX/status/2124868747739729972",
+  "type": "quote",
+  "created_at": "2026-11-24T13:02:59.000Z",
+  "text": "Daily Market Overview: EXTREME FEAR\nNov 24, 2026\n\n #BTC price trades around $60K \n \nIn the past 24 hours, 145,825 traders(54.2% Short) liquidated. Total liquidations were $881.89M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/zZHjUid1Sn https://t.co/oPtBQPWQTW",
+  "url": "https://x.com/CryptoInsightsX/status/2125213590206722410",
   "likes": 2,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 670,
+  "impressions": 127,
   "bookmarks": 0,
   "referenced": {
-   "type": "replied_to",
-   "id": "2124866754430255196",
-   "text": "JUST IN: Bitcoin surges to $63,000 as $250,000,000 in shorts are liquidated from the crypto market in 10 minutes. https://t.co/RoH5yACozo"
+   "type": "quoted",
+   "id": "2124743065227464795",
+   "text": "Daily Market Overview: EXTREME FEAR\nNov 23, 2026\n\n #BTC price trades around $61K \n \nIn the past 24 hours, 69,980 traders(79.6% Short) liquidated. Total liquidations were $292.56M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/5bjpwu7vEP https://t.co/IGgliEKBpz"
   }
  },
  {
-  "id": "2124871156390154347",
+  "id": "2125226066289778911",
   "username": "CryptoInsightsX",
   "username_canon": "CryptoInsightsX",
-  "type": "original",
-  "created_at": "2026-11-23T14:22:16.000Z",
-  "text": "BREAKING: Nvidia has reappointed @JensenHuang as CEO and Chairman.\n\nNVDA shares surged 25% following the news, helping push bitcoin:native back above $63K.\n\nBitcoin's momentum is building, with $280.82M in short positions liquidated in just the past hour. https://t.co/gBKLcDrSly",
-  "url": "https://x.com/CryptoInsightsX/status/2124871156390154347",
+  "type": "reply",
+  "created_at": "2026-11-24T13:52:33.000Z",
+  "text": "@blknoiz06 lmao, are you broke ?",
+  "url": "https://x.com/CryptoInsightsX/status/2125226066289778911",
   "likes": 1,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 93,
-  "bookmarks": 0
+  "impressions": 69,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125182437063790806",
+   "text": "pump wallet is hacked, trying to figure out how, believe its unauthorized access to my bullpen profile somehow which had the sol priv key imported"
+  }
+ },
+ {
+  "id": "2125234867415990315",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "retweet",
+  "created_at": "2026-11-24T14:27:32.000Z",
+  "text": "RT @Codedscientist: Meet Zion Thomas, Popularly know as Ansem\n\nOne of the most recognisable figures in Solana's memecoin trenches.\n\nHe went…",
+  "url": "https://x.com/CryptoInsightsX/status/2125234867415990315",
+  "likes": 0,
+  "retweets": 24,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 0,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125173308710645821",
+   "text": "Meet Zion Thomas, Popularly know as Ansem\n\nOne of the most recognisable figures in Solana's memecoin trenches.\n\nHe went from working as a software engineer to becoming one of crypto's most influential traders, with early calls on SOL, BONK and WIF.\n\nHere's how he got there 🧵 https://t.co/Y6C71RkCKv"
+  }
  }
 ]

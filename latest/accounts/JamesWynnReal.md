@@ -1,284 +1,511 @@
-# @JamesWynnReal — посты за 2026-11-24
+# @JamesWynnReal — посты за 2026-11-25
 
-Всего: 25
+Всего: 52
 
-## 2026-11-23 10:48 UTC · пост
+## 2026-11-24 09:11 UTC · пост
 
-Looks like we’re going to see red across the board in TradFi markets. I expect people to exit risk-on assets as they hedge / panic. $BTC is in a good short area for me. Too many people tried catching the ‘falling knife’ over the weekend. They’ll pay the price.
+Bitcoin drops below $60,000. What a surprise!
  
-Follow/tail my
-
-❤ 42 · 🔁 3 · 💬 35 · цитат 0 · просмотров 25402  
-https://x.com/JamesWynnReal/status/2124817421861359906
-
-## 2026-11-23 13:06 UTC · пост
-
-I have a cunning plan, turn your notification ON!
+Haha jokes. No surprise there. 
  
-We’re about to make some noise.
+Cannot believe the hype on the timeline yesterday! It’s like most of you are scavengers grabbing onto any bit of hopium you can.
  
-Get to your battle stations.
+Back to reality now. You had your fake pump.
  
-Be PumpFun ready.
+Put that in your https://t.co/6ZqBcuTvBR
 
-❤ 111 · 🔁 4 · 💬 27 · цитат 1 · просмотров 25959  
-https://x.com/JamesWynnReal/status/2124852102874939654
+❤ 117 · 🔁 2 · 💬 21 · цитат 1 · просмотров 26600  
+https://x.com/JamesWynnReal/status/2125155428762030271
 
-## 2026-11-23 13:43 UTC · пост
+## 2026-11-24 10:14 UTC · пост
 
-Before the hype, before the copycats, before the thousands of wannabe meme coins, there was PEPE.
-
-The original meme. The undisputed icon. The face of an entire generation of internet culture.
-
-$KPEPE — LONG LIVE THE KING.
+Bitcoins longest holders are selling.
  
-9PVRRFuccA2RGMHKNeZ6oipgVAgf7phPTMBSZzKBpump https://t.co/q4avp0bSEs
-
-❤ 21 · 🔁 3 · 💬 17 · цитат 0 · просмотров 20194  
-https://x.com/JamesWynnReal/status/2124861521159446564
-
-## 2026-11-23 13:56 UTC · пост
-
-🚀 MOON DOGE ($MOOND) 🌕
+Longer holders typically = wealthier, smarter, and believe in the fundamental value of Bitcoin more than most.
  
-Born on Earth. Destined for the Moon.
+If they are selling. The wealthier and smarter ones at the top, then they obviously understand we are going lower.
  
-The legendary Doge is back, and this time he’s aiming beyond the stars.
+• https://t.co/KQPX4IVeAK
+
+❤ 144 · 🔁 10 · 💬 32 · цитат 1 · просмотров 43946  
+https://x.com/JamesWynnReal/status/2125171142944256259
+
+## 2026-11-24 10:59 UTC · пост
+
+🚨 Handsome $Ansem, pulled the plug on his followers. Not a few dollars either. Tens of millions from his followers pockets to his wallets.
  
-No limits. No gravity. Just pure meme energy.
+I mean I know I mess around with launching shit coins and I never claim to be a saint but that’s just for fun. 
  
-One Doge. One Rocket. One Destination.
+But what he’s done, https://t.co/36dsiWN4a8
+
+❤ 258 · 🔁 16 · 💬 99 · цитат 6 · просмотров 56616  
+https://x.com/JamesWynnReal/status/2125182558317183103
+
+## 2026-11-24 12:25 UTC · ответ
+
+@Kylechasse He already took millions from his followers in the early days when it had insane volume and ripped to half a billion. Sick to thing he just put the final nail in the coffin, on a scale this big too.
+
+❤ 6 · 🔁 0 · 💬 3 · цитат 0 · просмотров 3590  
+https://x.com/JamesWynnReal/status/2125204100593955319
+
+## 2026-11-24 13:43 UTC · пост
+
+Lmfao aped for the fun of it. Genius whoever just created this 
  
-https://t.co/AIOjxo1sJQ https://t.co/4pCCZQQuWM
+https://t.co/WDHNyslNqo https://t.co/6sIjWWezCU
 
-❤ 8 · 🔁 0 · 💬 12 · цитат 1 · просмотров 18182  
-https://x.com/JamesWynnReal/status/2124864565687336989
+❤ 28 · 🔁 1 · 💬 14 · цитат 3 · просмотров 27427  
+https://x.com/JamesWynnReal/status/2125223747670126707
 
-## 2026-11-23 14:04 UTC · пост
+## 2026-11-24 13:59 UTC · цитата
 
-💊 RED PILL COIN ($RDPILL)
+its gonna send, it has to. 
  
-The system is rigged. The markets are manipulated. The masses are asleep.
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
  
-It’s time to wake up.
+https://t.co/WDHNyslNqo
  
-https://t.co/q6KsroCEUg
+i’ll back it all the way, https://t.co/ehY90jI7mA
+
+❤ 9 · 🔁 0 · 💬 8 · цитат 1 · просмотров 19987  
+https://x.com/JamesWynnReal/status/2125227806401655013
+
+## 2026-11-24 14:10 UTC · пост
+
+Ansem is looking at up to 20 years in Jail according to ChatGPT.
  
-HWxPLeQ24ap9U9XvgeRGqpWd8ywtoUW4wc8JL9d8pump https://t.co/mSnGtkePqq
-
-❤ 7 · 🔁 0 · 💬 11 · цитат 1 · просмотров 17434  
-https://x.com/JamesWynnReal/status/2124866762252669120
-
-## 2026-11-23 14:24 UTC · пост
-
-🤖 NPC COIN ($NPC)
+Blockchain investigator MLM identified a previous connection between an Ansem-associated wallet and the wallet receiving the proceeds.
  
-The world is full of NPCs. Same thoughts. Same opinions. Same programming.
+This has led to accusations on Crypto Twitter that Ansem deliberately dumped https://t.co/t3jFFGB5YN
+
+❤ 133 · 🔁 10 · 💬 39 · цитат 6 · просмотров 33750  
+https://x.com/JamesWynnReal/status/2125230507294326809
+
+## 2026-11-24 14:13 UTC · пост
+
+JWynnReal called $RANSEM on https://t.co/K2aPfOt2eO https://t.co/WDHNyslNqo
+
+❤ 7 · 🔁 0 · 💬 2 · цитат 2 · просмотров 16749  
+https://x.com/JamesWynnReal/status/2125231332825657409
+
+## 2026-11-24 14:24 UTC · пост
+
+@grok what has Ansem the black bull done and could he be charged with fraud or something of that nature?
  
-But what happens when the NPCs become self-aware?
+Is their any possibility the @FBI could get involved, especially as it involved hundreds of thousands of investors money and there appears to be from multiple sources of
+
+❤ 7 · 🔁 1 · 💬 2 · цитат 0 · просмотров 16423  
+https://x.com/JamesWynnReal/status/2125234180061860335
+
+## 2026-11-24 14:34 UTC · цитата
+
+@Grok is this true? https://t.co/xoFv4UHKQL
+
+❤ 6 · 🔁 1 · 💬 4 · цитат 0 · просмотров 17214  
+https://x.com/JamesWynnReal/status/2125236665648398407
+
+## 2026-11-24 14:48 UTC · пост
+
+DEV of $RANSEM has spoken.. poor fella.
  
-Break the Script. Escape the Simulation. Become the Main Character.
+DM me, I will pay you your money back and buy you a new car. I’ve also aped your coin. I hope people support you. As I will. And others for that matter.
  
-https://t.co/qZOsZTrkZK https://t.co/n4BQqZb8uQ
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/QO3SA8MTUs
 
-❤ 5 · 🔁 0 · 💬 6 · цитат 0 · просмотров 15724  
-https://x.com/JamesWynnReal/status/2124871837087879440
+❤ 22 · 🔁 0 · 💬 13 · цитат 0 · просмотров 24659  
+https://x.com/JamesWynnReal/status/2125240151354097971
 
-## 2026-11-23 14:30 UTC · пост
+## 2026-11-24 14:50 UTC · пост
 
-Ok ok the next one could be the runner that’s all I’m saying…
+One Trillion wiped from the US markets at open https://t.co/OQGrjRwYXs
 
-❤ 52 · 🔁 0 · 💬 3 · цитат 1 · просмотров 21575  
-https://x.com/JamesWynnReal/status/2124873257568678076
+❤ 69 · 🔁 1 · 💬 11 · цитат 0 · просмотров 19232  
+https://x.com/JamesWynnReal/status/2125240665483460831
 
-## 2026-11-23 14:31 UTC · пост
+## 2026-11-24 15:03 UTC · пост
 
-Get ready for this one.
+Let’s help him.
  
-All creator rewards go back to you.
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/afriSjzdes
 
-❤ 54 · 🔁 1 · 💬 12 · цитат 0 · просмотров 20619  
-https://x.com/JamesWynnReal/status/2124873458240885012
+❤ 13 · 🔁 1 · 💬 17 · цитат 1 · просмотров 21394  
+https://x.com/JamesWynnReal/status/2125244001926390196
 
-## 2026-11-23 14:36 UTC · пост
+## 2026-11-24 15:11 UTC · пост
 
-https://t.co/GvEzLst1h8
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
  
-3AqM7vxpVctkj6N89XmS7t2tAS3JH5LaZgCF761hpump
+Support the dev, he needs it. And support the hundreds of thousands that lost money!
  
-$CEO https://t.co/WYkrfbnxR4
-
-❤ 8 · 🔁 0 · 💬 11 · цитат 0 · просмотров 15974  
-https://x.com/JamesWynnReal/status/2124874715361939910
-
-## 2026-11-23 14:40 UTC · пост
-
-JENSEN HUANG — THE CEO IS BACK.
-
-He built an empire. He powered the AI revolution. He turned silicon into gold.
-
-But conquering Wall Street wasn’t enough.
+According to sources he is already being investigated from on-chain investigators and the FBI.
  
-Now Jensen is back as CEO, and this time, he’s taking over the blockchain.
+The sum of money involved equated to a https://t.co/yHDwA3BHnp
+
+❤ 17 · 🔁 1 · 💬 26 · цитат 1 · просмотров 22006  
+https://x.com/JamesWynnReal/status/2125245825853042805
+
+## 2026-11-24 15:15 UTC · пост
+
+Im gonna buy the dev a car if he doesn’t reach his goal of $6,000.
  
-From GPUs to meme coins. From artificial intelligence to absolute degen madness.
+https://t.co/WDHNyslNqo
  
-The leather jacket is back. The GPUs are heating up. The next chapter begins.
+Buy on PF. 50% to bond. Could do well as the FBI come in and if @blknoiz06 gets charged https://t.co/GdozDjrtqS
+
+❤ 11 · 🔁 0 · 💬 11 · цитат 0 · просмотров 17265  
+https://x.com/JamesWynnReal/status/2125246914199449963
+
+## 2026-11-24 15:17 UTC · цитата
+
+You have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney. If you cannot afford an attorney, one will be appointed for you. Do you understand these rights? https://t.co/ehY90jI7mA
+
+❤ 23 · 🔁 2 · 💬 10 · цитат 0 · просмотров 19117  
+https://x.com/JamesWynnReal/status/2125247397509075032
+
+## 2026-11-24 15:19 UTC · пост
+
+‘’coldest n…. breathing’’
  
-🚀 THE CEO HAS RETURNED.
+so much for thanks giving coming up https://t.co/IEtZA1oose
+
+❤ 10 · 🔁 1 · 💬 9 · цитат 0 · просмотров 15888  
+https://x.com/JamesWynnReal/status/2125247976012763449
+
+## 2026-11-24 15:25 UTC · репост
+
+RT @TedPillows: Biggest scammer of crypto @blknoiz06.
+
+Hacked my ass. Rugging his own community.
+
+❤ 0 · 🔁 144 · 💬 0 · цитат 0 · просмотров 11147  
+https://x.com/JamesWynnReal/status/2125249394916347917
+
+## 2026-11-24 15:27 UTC · цитата
+
+It’s more than that from what I can see.
  
-https://t.co/76WTgJDTg2
+fucking $RANSEM 
  
-3AqM7vxpVctkj6N89XmS7t2tAS3JH5LaZgCF761hpump
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/rH0HcL2EJo
 
-❤ 23 · 🔁 3 · 💬 13 · цитат 0 · просмотров 17169  
-https://x.com/JamesWynnReal/status/2124875694945800521
+❤ 10 · 🔁 2 · 💬 5 · цитат 0 · просмотров 15432  
+https://x.com/JamesWynnReal/status/2125249985335927010
 
-## 2026-11-23 14:42 UTC · пост
+## 2026-11-24 15:28 UTC · пост
 
-JENSEN HUANG — THE $CEO IS BACK.
+Ansem has definitely been playing too much GTA.
  
-3AqM7vxpVctkj6N89XmS7t2tAS3JH5LaZgCF761hpump
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
  
-https://t.co/GvEzLst1h8
+https://t.co/WDHNyslNqo https://t.co/e2EnE6cRtX
 
-❤ 9 · 🔁 1 · 💬 1 · цитат 1 · просмотров 15180  
-https://x.com/JamesWynnReal/status/2124876151630008758
+❤ 13 · 🔁 2 · 💬 7 · цитат 0 · просмотров 15322  
+https://x.com/JamesWynnReal/status/2125250269407818051
 
-## 2026-11-23 14:46 UTC · пост
+## 2026-11-24 15:39 UTC · репост
 
-Bond baby bond.. $CEO IS BACK!!!
+RT @Degen_Hardy: Amazing news 👀
+
+Whenever Bitcoin and the market are deep in the red, we somehow get these incredible hacking incidents
+
+St…
+
+❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 11139  
+https://x.com/JamesWynnReal/status/2125252941234000133
+
+## 2026-11-24 15:39 UTC · репост
+
+RT @remitardio: @blknoiz06 the coldest nigga breathing needs to come clean lol. We got him hahaha.
+
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fk…
+
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 11964  
+https://x.com/JamesWynnReal/status/2125252973945360620
+
+## 2026-11-24 15:39 UTC · ответ
+
+@remitardio @blknoiz06 Gaining traction I called it early too
+
+❤ 1 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1010  
+https://x.com/JamesWynnReal/status/2125253031503728910
+
+## 2026-11-24 15:42 UTC · цитата
+
+@FBI - please investigate.
  
-3AqM7vxpVctkj6N89XmS7t2tAS3JH5LaZgCF761hpump https://t.co/0XiTvj6wYK
-
-❤ 10 · 🔁 3 · 💬 11 · цитат 2 · просмотров 17797  
-https://x.com/JamesWynnReal/status/2124877218166055242
-
-## 2026-11-23 14:49 UTC · пост
-
-JENSEN HUANG - $CEO
+@blknoiz06 self proclaimed “coldest nigga breathing” has extracted tens of millions of dollars from the crypto, meme coin community.
  
-Buy now on PumpFun:
+We want justice! https://t.co/TbzbptpP92
+
+❤ 7 · 🔁 2 · 💬 2 · цитат 0 · просмотров 15038  
+https://x.com/JamesWynnReal/status/2125253680974921948
+
+## 2026-11-24 15:46 UTC · пост
+
+You can buy $RANSEM here:
  
-https://t.co/luty3lyQYe https://t.co/oOYQR8RMKm
-
-❤ 9 · 🔁 2 · 💬 5 · цитат 0 · просмотров 14978  
-https://x.com/JamesWynnReal/status/2124877935912120464
-
-## 2026-11-23 14:50 UTC · репост
-
-RT @WatcherGuru: JUST IN: Elon Musk praises Nvidia $NVDA for reinstating Jensen Huang as CEO. 
-
-"The mistake has been corrected." https://t…
-
-❤ 0 · 🔁 530 · 💬 0 · цитат 0 · просмотров 8232  
-https://x.com/JamesWynnReal/status/2124878278842548345
-
-## 2026-11-23 14:55 UTC · пост
-
-One lucky buyer of JENSEN HUANG (Minimum of $20 buy) gets $1,000 in USDC today!
+Currently a penny coin at just $8,790 market cap. High risk, high reward.
  
-https://t.co/luty3lyQYe
+Big influencers are getting in.
  
-https://t.co/GvEzLst1h8 https://t.co/BBssWjFD5o
+https://t.co/WDHNyslNqo
 
-❤ 9 · 🔁 2 · 💬 18 · цитат 0 · просмотров 15952  
-https://x.com/JamesWynnReal/status/2124879569090117919
+❤ 10 · 🔁 2 · 💬 9 · цитат 1 · просмотров 15331  
+https://x.com/JamesWynnReal/status/2125254622923428060
 
-## 2026-11-23 15:01 UTC · репост
+## 2026-11-24 15:49 UTC · цитата
 
-RT @WatcherGuru: JUST IN: Jensen Huang releases statement after being reinstated as Nvidia $NVDA CEO. 
-
-"I am honoured to return to Nvidia…
-
-❤ 0 · 🔁 958 · 💬 0 · цитат 0 · просмотров 8035  
-https://x.com/JamesWynnReal/status/2124880922357199261
-
-## 2026-11-23 15:08 UTC · пост
-
-Buy here, it’s free and makes you eligible for the $1,000
+I will match it. $100,000.
  
-https://t.co/GvEzLst1h8
+I have already spoken to multiple online investigators and some are working together to give evidence to the Police.
  
-Jensen Huang $CEO
-
-❤ 9 · 🔁 1 · 💬 6 · цитат 0 · просмотров 15483  
-https://x.com/JamesWynnReal/status/2124882718249087318
-
-## 2026-11-23 15:21 UTC · пост
-
-https://t.co/KBlsKxLlK4 https://t.co/w0qHgPbIQf
-
-❤ 11 · 🔁 0 · 💬 6 · цитат 0 · просмотров 15926  
-https://x.com/JamesWynnReal/status/2124886135721935022
-
-## 2026-11-23 15:35 UTC · пост
-
-Shorting $NVDA here with SIZE!
+Let’s create more awareness and justice for our community, and even his followers who got burned so badly.
  
-Buy the rumor, sell the news.
+$RANSEM. https://t.co/JHu8aAZSqh
+
+❤ 32 · 🔁 2 · 💬 7 · цитат 0 · просмотров 20073  
+https://x.com/JamesWynnReal/status/2125255491005866348
+
+## 2026-11-24 15:51 UTC · цитата
+
+Correct. And we WILL NOT let this slide.
  
-Blessed and very grateful to have such an easy money making opportunity on this fine Monday morning.
+And props to my friend @JakeGagain  for standing up.
  
-Follow/tail my trade here:
+He took his holders captive, $RANSEM is his name.
  
-👉 https://t.co/PZrAklmlTb 
+https://t.co/WDHNyslNqo
  
-It’s not often you catch a slam dunk like this. 
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/3XJDvwVkFX
+
+❤ 17 · 🔁 2 · 💬 3 · цитат 0 · просмотров 16635  
+https://x.com/JamesWynnReal/status/2125256089122070891
+
+## 2026-11-24 16:00 UTC · цитата
+
+He’s panicking. FBI are involved now https://t.co/KWbfZUlppx
+
+❤ 51 · 🔁 4 · 💬 5 · цитат 0 · просмотров 26428  
+https://x.com/JamesWynnReal/status/2125258272836141471
+
+## 2026-11-24 16:01 UTC · цитата
+
+$Ansem the $RANSEM!
  
-Sell the GREED! JWynnReal on PumpFun.
-
-❤ 39 · 🔁 2 · 💬 28 · цитат 0 · просмотров 24312  
-https://x.com/JamesWynnReal/status/2124889569292370062
-
-## 2026-11-23 16:00 UTC · пост
-
-Jensen Huang went from on top of the world, to almost ruining everything from personal life problems, to back on top.
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
  
-Who is the Jensen of the crypto world?
+https://t.co/WDHNyslNqo https://t.co/d95cj7RN8a
 
-❤ 164 · 🔁 4 · 💬 25 · цитат 1 · просмотров 28861  
-https://x.com/JamesWynnReal/status/2124895945301352814
+❤ 7 · 🔁 2 · 💬 3 · цитат 0 · просмотров 15257  
+https://x.com/JamesWynnReal/status/2125258574037487731
 
-## 2026-11-23 16:36 UTC · пост
+## 2026-11-24 16:06 UTC · пост
 
-If you fomo’d into that $NVDA pump you should NOT be trading. Go back to your day job. I’ll be old news tmrw.
+Checkout $RANSEM
  
-Easy short tho 👏 https://t.co/yRXhWig2I4
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/burhtZOsjg
 
-❤ 107 · 🔁 1 · 💬 30 · цитат 0 · просмотров 30433  
-https://x.com/JamesWynnReal/status/2124904968071315534
+❤ 9 · 🔁 1 · 💬 7 · цитат 0 · просмотров 14019  
+https://x.com/JamesWynnReal/status/2125259794470907910
 
-## 2026-11-24 02:49 UTC · пост
+## 2026-11-24 16:07 UTC · цитата
 
-New callout 👏 $BTC 
+He also left $250k margin trade on…
  
+Wish every hacker was as nice as this! https://t.co/reAO6ZQxLG
+
+❤ 15 · 🔁 1 · 💬 2 · цитат 0 · просмотров 16098  
+https://x.com/JamesWynnReal/status/2125259921872785756
+
+## 2026-11-24 16:09 UTC · пост
+
+Brutal.
+ 
+Fuck $ANSEM
+ 
+Send $RANSEM 
+ 
+https://t.co/WDHNyslNqo https://t.co/j2KyjscJD1
+
+❤ 13 · 🔁 2 · 💬 2 · цитат 0 · просмотров 15481  
+https://x.com/JamesWynnReal/status/2125260540738257387
+
+## 2026-11-24 16:12 UTC · репост
+
+RT @Jackyheree: here is what ansem is trying to explain https://t.co/Nxbz8mhwNS
+
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 11660  
+https://x.com/JamesWynnReal/status/2125261298611134562
+
+## 2026-11-24 16:13 UTC · пост
+
+You think your day is going bad.. https://t.co/jzyP45cqUq
+
+❤ 98 · 🔁 2 · 💬 12 · цитат 0 · просмотров 26890  
+https://x.com/JamesWynnReal/status/2125261505126076532
+
+## 2026-11-24 16:15 UTC · репост
+
+RT @Avelsnt: No crying in the casino boys https://t.co/jfZvLQCX2I
+
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 11935  
+https://x.com/JamesWynnReal/status/2125262080999895087
+
+## 2026-11-24 16:17 UTC · репост
+
+RT @MidCurveMortal: If you still follow / engage with Ansem in any positive way after this then you are destined to remain a worthless peas…
+
+❤ 0 · 🔁 26 · 💬 0 · цитат 0 · просмотров 11926  
+https://x.com/JamesWynnReal/status/2125262574992449826
+
+## 2026-11-24 16:20 UTC · репост
+
+RT @trader1sz: I feel zero sympathy for those who got rugged on solana:9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump 
+
+The fact that you bou…
+
+❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 11257  
+https://x.com/JamesWynnReal/status/2125263330071994417
+
+## 2026-11-24 16:22 UTC · пост
+
+Early days but I SUSPECT this to RUN hard if proven so…
+ 
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
+ 
+$RANSEM https://t.co/IuTyGL3OF5
+
+❤ 8 · 🔁 1 · 💬 5 · цитат 1 · просмотров 15349  
+https://x.com/JamesWynnReal/status/2125263892838498634
+
+## 2026-11-24 16:24 UTC · пост
+
+Be quick:
+
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump
+
+❤ 8 · 🔁 1 · 💬 8 · цитат 0 · просмотров 17832  
+https://x.com/JamesWynnReal/status/2125264424135238093
+
+## 2026-11-24 16:25 UTC · пост
+
+if you snooze you lose
+
+❤ 19 · 🔁 1 · 💬 5 · цитат 0 · просмотров 16468  
+https://x.com/JamesWynnReal/status/2125264664997363835
+
+## 2026-11-24 16:28 UTC · репост
+
+RT @thememeshunterx: Rule #1:
+
+Never ever trust NIGGERS
+
+@blknoiz06 just rugged over 150k holders
+
+Let’s see if @Pumpfun will demonetize hi…
+
+❤ 0 · 🔁 26 · 💬 0 · цитат 0 · просмотров 11983  
+https://x.com/JamesWynnReal/status/2125265340498330082
+
+## 2026-11-24 16:32 UTC · пост
+
+I FEEL SORRY FOR THE GUY WHO SOLD HIS $6,000 CAR TO BUY THE DIP ON $ANSEM BECAUSE ANSEM TOLD HIM TOO 😭
+
+❤ 86 · 🔁 1 · 💬 10 · цитат 2 · просмотров 28888  
+https://x.com/JamesWynnReal/status/2125266203354743056
+
+## 2026-11-24 16:49 UTC · пост
+
+31DZg5f7euGvDd1xHn9GgRvaqNEXpcqME1Vi4fkdpump https://t.co/5eAVgZAY6t
+
+❤ 5 · 🔁 1 · 💬 8 · цитат 0 · просмотров 16161  
+https://x.com/JamesWynnReal/status/2125270551619108877
+
+## 2026-11-24 17:25 UTC · репост
+
+RT @Mike_Ess_: I dont get it
+
+If Ansem wallet was hacked
+
+Why did they not close all these other positions? https://t.co/DkupnUtjbk
+
+❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 11828  
+https://x.com/JamesWynnReal/status/2125279540037705920
+
+## 2026-11-24 17:25 UTC · пост
+
 https://t.co/OCNQFTswts
-
-❤ 13 · 🔁 0 · 💬 6 · цитат 0 · просмотров 13637  
-https://x.com/JamesWynnReal/status/2125059318878011431
-
-## 2026-11-24 03:13 UTC · пост
-
-Bitcoin crashes back below $60k exactly as predicted after just a silly fake fomo pump all due to a new CEO which will be old news come tomorrow.
  
-Nothing changes. Buy the rumor sell the news, did you learn nothing?
+dont forget the bitcoin short 👇 
  
-$BTC target remains the same $48k until stated otherwise.
+tail my trade, its printing
 
-❤ 274 · 🔁 11 · 💬 32 · цитат 5 · просмотров 34806  
-https://x.com/JamesWynnReal/status/2125065130916589683
+❤ 5 · 🔁 1 · 💬 4 · цитат 0 · просмотров 15605  
+https://x.com/JamesWynnReal/status/2125279735114830109
 
-## 2026-11-24 06:23 UTC · ответ
+## 2026-11-24 17:42 UTC · репост
 
-@FreddyBitcoins $47k would be nicer 😏
+RT @parrot2361: "Ansem would never rug a token! his reputation!!!!" brother the president of the united states rugged a token. why do you t…
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 730  
-https://x.com/JamesWynnReal/status/2125112950340161772
+❤ 0 · 🔁 37 · 💬 0 · цитат 0 · просмотров 12542  
+https://x.com/JamesWynnReal/status/2125283957889802577
 
-## 2026-11-24 06:23 UTC · ответ
+## 2026-11-24 17:49 UTC · пост
 
-@SVdegenxyz 🙌
+I really did tell everyone to stay away from The Black Bull and The White Whale.
+ 
+The White Whale did what he did because he busted millions and millions of dollars on HL.
+ 
+And I’m assuming that Ansem has done the same due to being rekt this cycle as many people have.
+ 
+The
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 814  
-https://x.com/JamesWynnReal/status/2125112986037878803
+❤ 43 · 🔁 0 · 💬 14 · цитат 0 · просмотров 22425  
+https://x.com/JamesWynnReal/status/2125285611754209698
+
+## 2026-11-25 03:31 UTC · пост
+
+Apparently Ansem is in custody and being questioned. More updates to come.
+
+❤ 129 · 🔁 5 · 💬 33 · цитат 1 · просмотров 28646  
+https://x.com/JamesWynnReal/status/2125432171792077169
+
+## 2026-11-25 03:42 UTC · цитата
+
+Props to Jake he did speak out about it over and over. I kept quiet, despite warning people previously what was happening behind the scenes.
+ 
+I guess i thought I would just come under attack because he’s got such a fan base *did have*
+ 
+Most of the time the worst scammers are https://t.co/p9HDd1z4ry
+
+❤ 10 · 🔁 0 · 💬 5 · цитат 1 · просмотров 15230  
+https://x.com/JamesWynnReal/status/2125434928053776572
+
+## 2026-11-25 03:48 UTC · пост
+
+Let me explain why @blknoiz06 is, in all cases, the biggest retard in the trenches.
+ 
+Let’s pretend Ansem didn’t get hacked and just pretended to get hacked. Then he’s fucking retarded because he left the perps positions still open on Pumpfun. Like, which fucking hacker wouldn’t https://t.co/0kuoiu3QJQ
+
+❤ 76 · 🔁 4 · 💬 25 · цитат 0 · просмотров 24196  
+https://x.com/JamesWynnReal/status/2125436352321974547
+
+## 2026-11-25 07:24 UTC · пост
+
+Every cycle I’ve been through $BTC always goes much lower than people expect.
+ 
+It’s just human psychology as they get so sold on the fact when it’s pumping they’re in a ‘paradigm shift’ state of mind.
+
+❤ 6 · 🔁 0 · 💬 2 · цитат 1 · просмотров 7934  
+https://x.com/JamesWynnReal/status/2125490799655977368
+
+## 2026-11-25 07:32 UTC · цитата
+
+Not even an apology? Regardless.
+ 
+Even though everyone knows the truth.
+ 
+I guess this is all you can try and say. https://t.co/hKxDS79Hh2
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 5752  
+https://x.com/JamesWynnReal/status/2125492865329668500

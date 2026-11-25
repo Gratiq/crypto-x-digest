@@ -1,182 +1,22 @@
 [
  {
-  "id": "2124890760990294513",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T15:40:10.000Z",
-  "text": "RT @TreeNewsFeed: *NVIDIA BOARD REINSTATES JENSEN HUANG AS PRESIDENT, CEO &amp; BOARD: BBG",
-  "url": "https://x.com/NotChaseColeman/status/2124890760990294513",
-  "likes": 0,
-  "retweets": 205,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 525,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124864579138199668",
-   "text": "*NVIDIA BOARD REINSTATES JENSEN HUANG AS PRESIDENT, CEO &amp; BOARD: BBG"
-  }
- },
- {
-  "id": "2124892700407206347",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T15:47:53.000Z",
-  "text": "RT @LunoMonkey: WELCOME BACK https://t.co/cKUSpyC4CP",
-  "url": "https://x.com/NotChaseColeman/status/2124892700407206347",
-  "likes": 0,
-  "retweets": 14,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 586,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124888867199402022",
-   "text": "WELCOME BACK https://t.co/cKUSpyC4CP"
-  }
- },
- {
-  "id": "2124892832724857222",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T15:48:24.000Z",
-  "text": "RT @Ju1ianf: Never doom. https://t.co/m7RNA9IfYw",
-  "url": "https://x.com/NotChaseColeman/status/2124892832724857222",
-  "likes": 0,
-  "retweets": 1,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 547,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124866039418925280",
-   "text": "Never doom. https://t.co/m7RNA9IfYw"
-  }
- },
- {
-  "id": "2124892898894250026",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T15:48:40.000Z",
-  "text": "RT @exitliquid1ty: JENSEN IS BACK MASHALLAHHH https://t.co/HDzRdjup6s",
-  "url": "https://x.com/NotChaseColeman/status/2124892898894250026",
-  "likes": 0,
-  "retweets": 582,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 581,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124871814132498491",
-   "text": "JENSEN IS BACK MASHALLAHHH https://t.co/HDzRdjup6s"
-  }
- },
- {
-  "id": "2124923464654172268",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T17:50:07.000Z",
-  "text": "RT @Polymarket: BREAKING: President Trump's latest post on Truth Social. https://t.co/igcAnaD7nU",
-  "url": "https://x.com/NotChaseColeman/status/2124923464654172268",
-  "likes": 0,
-  "retweets": 605,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 0,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124910352542613934",
-   "text": "BREAKING: President Trump's latest post on Truth Social. https://t.co/igcAnaD7nU"
-  }
- },
- {
-  "id": "2125008333308637548",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-23T23:27:22.000Z",
-  "text": "RT @liquidtrading: JUST IN: Last Friday, an undisclosed trader spent $3.4 million on $NVDA $160 calls expiring today which is now worth $31…",
-  "url": "https://x.com/NotChaseColeman/status/2125008333308637548",
-  "likes": 0,
-  "retweets": 4474,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 535,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124889413172031894",
-   "text": "JUST IN: Last Friday, an undisclosed trader spent $3.4 million on $NVDA $160 calls expiring today which is now worth $312 million, a roughly 9,000% gain, after Jensen Huang was reinstated as Nvidia CEO this morning. Who could it be?"
-  }
- },
- {
-  "id": "2125020768475983958",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "quote",
-  "created_at": "2026-11-24T00:16:46.000Z",
-  "text": "https://t.co/HoLMhHaIDP https://t.co/CIaNsXoa53",
-  "url": "https://x.com/NotChaseColeman/status/2125020768475983958",
-  "likes": 5,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 960,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "quoted",
-   "id": "2124953169629209027",
-   "text": "Is it a national security scandal? Yes. \n\nIs it a corruption scandal? Yes. \n\nIs it an insider trading scandal? Yes. \n\nIs it a market manipulation scandal? Yes. \n\nIf it’s “super intelligence,” call it Supergate."
-  }
- },
- {
-  "id": "2125022291931385988",
-  "username": "NotChaseColeman",
-  "username_canon": "NotChaseColeman",
-  "type": "retweet",
-  "created_at": "2026-11-24T00:22:50.000Z",
-  "text": "RT @aaalex: NVDA just recovered 40% of the entire crypto market cap in this one move btw \n\nIt's hilarious how small and insignificant crypt…",
-  "url": "https://x.com/NotChaseColeman/status/2125022291931385988",
-  "likes": 0,
-  "retweets": 24,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 536,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2124871654916465113",
-   "text": "NVDA just recovered 40% of the entire crypto market cap in this one move btw \n\nIt's hilarious how small and insignificant crypto is right now"
-  }
- },
- {
-  "id": "2125027547104899114",
+  "id": "2125480241602916362",
   "username": "NotChaseColeman",
   "username_canon": "NotChaseColeman",
   "type": "reply",
-  "created_at": "2026-11-24T00:43:42.000Z",
-  "text": "@moyer56069 Get back in your cell BUCKO",
-  "url": "https://x.com/NotChaseColeman/status/2125027547104899114",
-  "likes": 0,
+  "created_at": "2026-11-25T06:42:33.000Z",
+  "text": "@CapitalistOG All timer",
+  "url": "https://x.com/NotChaseColeman/status/2125480241602916362",
+  "likes": 1,
   "retweets": 0,
-  "replies": 1,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 45,
+  "impressions": 56,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2125023225050538160",
-   "text": "@NotChaseColeman Nice pornstach"
+   "id": "2125156987105354123",
+   "text": "Gm who remembers these clowns blood, cold and ape 😂 \n\nFunniest rug of all time https://t.co/LWOVUjCBys"
   }
  }
 ]

@@ -1,44 +1,21 @@
-# @hosseeb — посты за 2026-11-24
+# @hosseeb — посты за 2026-11-25
 
-Всего: 5
+Всего: 2
 
-## 2026-11-23 16:05 UTC · пост
+## 2026-11-24 20:35 UTC · цитата
 
-We are not a car. 
+"Many employees believe they can no longer be safely released"
 
-We are not a car.
+This sentence has been true since GPT-2. https://t.co/iKwlIuRD5y https://t.co/O0nJsviD8d
 
-❤ 95 · 🔁 1 · 💬 15 · цитат 2 · просмотров 11497  
-https://x.com/hosseeb/status/2124897199024971887
+❤ 79 · 🔁 13 · 💬 14 · цитат 1 · просмотров 8477  
+https://x.com/hosseeb/status/2125327520883224940
 
-## 2026-11-23 17:12 UTC · ответ
+## 2026-11-24 23:22 UTC · ответ
 
-@naruto11eth This confused loser premise makes no sense to me
+@altryne No, but I've been hearing this every single model generation and don't buy it yet.
 
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 607  
-https://x.com/hosseeb/status/2124914110550999158
+Strawberry, Q-star, Mythos, etc. Every one of them I heard the same thing. Very powerful models are in the hands of anyone who wants them now and the world is basically fine. Labs are not very
 
-## 2026-11-23 17:14 UTC · ответ
-
-@Katebell68 We didn't wake up a loser.
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 313  
-https://x.com/hosseeb/status/2124914408048726287
-
-## 2026-11-24 05:50 UTC · репост
-
-RT @ErikVoorhees: Venice just crossed $200m annualized revenue
-
-❤ 0 · 🔁 108 · 💬 0 · цитат 0 · просмотров 912  
-https://x.com/hosseeb/status/2125104702371295544
-
-## 2026-11-24 05:57 UTC · цитата
-
-Venice doubled run rate revenue again from August to November $100M =&gt; $200M 🤯
-
-One of the fastest growing products I've ever invested in. I keep thinking the growth curve will bend down and it just doesn't. 
-
-Incredible execution by this team. But yeah, holy shit. https://t.co/7UPANTvaiL
-
-❤ 172 · 🔁 9 · 💬 18 · цитат 0 · просмотров 10218  
-https://x.com/hosseeb/status/2125106573706231892
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 155  
+https://x.com/hosseeb/status/2125369448337133699

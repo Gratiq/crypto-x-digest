@@ -1,0 +1,142 @@
+[
+ {
+  "id": "2125250571179344226",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-24T15:29:56.000Z",
+  "text": "RT @TomGur: It appears that OpenAI has an alternative proof of VP \\neq VNP:\nhttps://t.co/8hbyfv8uxF",
+  "url": "https://x.com/tarunchitra/status/2125250571179344226",
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 409,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125213700730847707",
+   "text": "It appears that OpenAI has an alternative proof of VP \\neq VNP:\nhttps://t.co/8hbyfv8uxF"
+  }
+ },
+ {
+  "id": "2125262921672294439",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-24T16:19:00.000Z",
+  "text": "I think if you add up the experience here and on OpenAI Jalapeño, it is like 100+ years of ASIC design experience (which is very rare in today's environment, despite the intense capital investment in inference ASICs)\n\n[One of the reasons DESRES was an awesome place to work] https://t.co/ILkHPRDCz5",
+  "url": "https://x.com/tarunchitra/status/2125262921672294439",
+  "likes": 62,
+  "retweets": 1,
+  "replies": 6,
+  "quotes": 0,
+  "impressions": 6315,
+  "bookmarks": 20,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125249330663575628",
+   "text": "Hudson River Trading has hired OpenAI's Anthony Forte, the fifth D.E. Shaw Research veteran on its hardware team\n\nForte joined HRT this month as a mechanical engineer after almost two years on OpenAI's technical staff.\n\nBefore that he spent about 17 years at D.E. Shaw Research"
+  }
+ },
+ {
+  "id": "2125264324247552189",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "reply",
+  "created_at": "2026-11-24T16:24:35.000Z",
+  "text": "A lot of intellectual freedom to work on interdisciplinary problems in hardware, physics, biology; you weren't really forced into one field and could spend time working on multiple things. Plus David was very open minded. The alumni/places people went afterwards almost more impressive than the place itself (e.g. Nobel Prize winner)",
+  "url": "https://x.com/tarunchitra/status/2125264324247552189",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 307,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125263543477879103",
+   "text": "@tarunchitra What do you think made DESRES so good?"
+  }
+ },
+ {
+  "id": "2125264444368593406",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-24T16:25:03.000Z",
+  "text": "RT @rrwilliams: Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...\n- I'm happy to see a major *lower bound*…",
+  "url": "https://x.com/tarunchitra/status/2125264444368593406",
+  "likes": 0,
+  "retweets": 49,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 397,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125264192768757973",
+   "text": "Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...\n- I'm happy to see a major *lower bound* proved with AI! That is extremely exciting. \n- My intuition has always been that proving algebraic circuit lower bounds is very different from P/NP,"
+  }
+ },
+ {
+  "id": "2125294133611004329",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-24T18:23:02.000Z",
+  "text": "RT @zacharylipton: In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropi…",
+  "url": "https://x.com/tarunchitra/status/2125294133611004329",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 415,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125273559497052519",
+   "text": "In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropic stock to move in order to afford a home.\n\n • Wealth effect: Purchasing power declines as your equity holdings lose value.\n • General equilibrium effect:"
+  }
+ },
+ {
+  "id": "2125397546868543525",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-25T01:13:57.000Z",
+  "text": "Wow, Cohn, Kleinberg, and Alon  were right... just two decades too early https://t.co/3k4YHr399B",
+  "url": "https://x.com/tarunchitra/status/2125397546868543525",
+  "likes": 33,
+  "retweets": 0,
+  "replies": 5,
+  "quotes": 0,
+  "impressions": 3275,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125387569898869190",
+   "text": "Wow!\n\nomega = 9/4 and sunflower conjecture is proven. Very cool https://t.co/gVd1o9LLcs https://t.co/w8ieO9SYqc"
+  }
+ },
+ {
+  "id": "2125419723609264367",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-25T02:42:05.000Z",
+  "text": "RT @Intrinsic_HQ: Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for…",
+  "url": "https://x.com/tarunchitra/status/2125419723609264367",
+  "likes": 0,
+  "retweets": 15,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 357,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125273322053410998",
+   "text": "Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for 71 operations across 10 RustCrypto crates matches the relevant standards.\n\nThis is our first step in securing all software with AI-powered formal verification. https://t.co/tdlxPPIClp"
+  }
+ }
+]

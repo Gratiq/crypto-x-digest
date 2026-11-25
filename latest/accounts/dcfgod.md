@@ -1,40 +1,90 @@
-# @dcfgod — посты за 2026-11-24
+# @dcfgod — посты за 2026-11-25
 
-Всего: 5
+Всего: 11
 
-## 2026-11-23 15:22 UTC · репост
+## 2026-11-24 14:44 UTC · цитата
 
-RT @AutismCapital: Jensen on his first day back in the office 😂  https://t.co/iA2EUgl7WH
+The eth guys are going to make ethereum quantum compute safe and making clear progress 
 
-❤ 0 · 🔁 1735 · 💬 0 · цитат 0 · просмотров 1191  
-https://x.com/dcfgod/status/2124886316278255848
+The best bitcoin is ethereum https://t.co/LNMXKOw0gS
 
-## 2026-11-23 15:25 UTC · цитата
+❤ 459 · 🔁 36 · 💬 18 · цитат 2 · просмотров 16404  
+https://x.com/dcfgod/status/2125239091990290714
 
-Few realize the drv team has been at this for 5 years 
+## 2026-11-24 14:46 UTC · ответ
 
-Nobody understands this market better https://t.co/eL4tVgbUKV
+I think this is great because it’s a big meaty challenge with clear market impacts and a looming doomsday that aligns everyone to just collaborate and win 
 
-❤ 89 · 🔁 6 · 💬 6 · цитат 0 · просмотров 5192  
-https://x.com/dcfgod/status/2124886991515095138
+Avengers assemble type of moment
 
-## 2026-11-23 15:28 UTC · пост
+❤ 12 · 🔁 0 · 💬 1 · цитат 0 · просмотров 962  
+https://x.com/dcfgod/status/2125239595533250817
 
-It’s so cool how stocks erased their sell off and eth is still 1700s https://t.co/noKBaoLu4A
+## 2026-11-24 15:28 UTC · ответ
 
-❤ 193 · 🔁 3 · 💬 13 · цитат 0 · просмотров 6640  
-https://x.com/dcfgod/status/2124887915981578636
+@koolkrypto223 😂😂
 
-## 2026-11-24 06:19 UTC · репост
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 417  
+https://x.com/dcfgod/status/2125250279138607380
 
-RT @ByzGeneral: This is actually just so cruel.
+## 2026-11-24 15:39 UTC · репост
 
-❤ 0 · 🔁 17 · 💬 0 · цитат 0 · просмотров 632  
-https://x.com/dcfgod/status/2125112014133694530
+RT @MikeSilagadze: Join the @ether_fi analyst call happening now!
 
-## 2026-11-24 06:19 UTC · репост
+https://t.co/nsJ94s8jcr
 
-RT @DipWheeler: "we're so back" https://t.co/SycTjecbEs
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 1336  
+https://x.com/dcfgod/status/2125252868861260010
 
-❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 747  
-https://x.com/dcfgod/status/2125112058723414473
+## 2026-11-24 19:33 UTC · ответ
+
+@bas3dp0tat6 lgf
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 201  
+https://x.com/dcfgod/status/2125311749155102927
+
+## 2026-11-24 19:33 UTC · репост
+
+RT @nickforster: Derive just ticked over our biggest fee month in the last year ($713k), with just under a week to go in November. Options…
+
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 1352  
+https://x.com/dcfgod/status/2125311885465838015
+
+## 2026-11-24 23:35 UTC · репост
+
+RT @BlockworksData: ether․fi card spend continues to climb, with over $140M spend in October. Roughly $36M of total spend was in transactio…
+
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 1046  
+https://x.com/dcfgod/status/2125372778304151910
+
+## 2026-11-24 23:35 UTC · репост
+
+RT @Lighter_xyz: Etherfi is now integrated with Lighter perps! https://t.co/70bUCAsTMz
+
+❤ 0 · 🔁 58 · 💬 0 · цитат 0 · просмотров 1083  
+https://x.com/dcfgod/status/2125372816270999845
+
+## 2026-11-24 23:47 UTC · репост
+
+RT @PrimordialAA: https://t.co/zInu9Ea5Cy
+
+❤ 0 · 🔁 62 · 💬 0 · цитат 0 · просмотров 1142  
+https://x.com/dcfgod/status/2125375710953156939
+
+## 2026-11-25 02:44 UTC · репост
+
+RT @SuriyaXBT: Missed today's etherfi investor call? Here's what happened.
+
+@ether_fi  is building beyond the card. The call covered perps,…
+
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 1101  
+https://x.com/dcfgod/status/2125420324892377520
+
+## 2026-11-25 05:39 UTC · репост
+
+RT @AlanaDLevin: More people will likely start paying attention to this in 2027
+
+Ethereum (and a few others) are racing to be post-quantum…
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 858  
+https://x.com/dcfgod/status/2125464459959525435

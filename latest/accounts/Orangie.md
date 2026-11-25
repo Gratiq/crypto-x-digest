@@ -1,95 +1,96 @@
-# @Orangie — посты за 2026-11-24
+# @Orangie — посты за 2026-11-25
 
-Всего: 12
+Всего: 13
 
-## 2026-11-23 14:44 UTC · пост
+## 2026-11-24 15:24 UTC · ответ
 
-$NVDA https://t.co/8BeTgNiZZM
+@sauciii I did ?
 
-❤ 311 · 🔁 18 · 💬 62 · цитат 1 · просмотров 23898  
-https://x.com/orangie/status/2124876757060722832
+❤ 32 · 🔁 2 · 💬 11 · цитат 1 · просмотров 3276  
+https://x.com/orangie/status/2125249094738493730
 
-## 2026-11-23 14:48 UTC · ответ
+## 2026-11-24 15:31 UTC · ответ
 
-if it makes you feel better frontier traders competition is a great event but they have a lot to work on format wise 
+@HugoMartingale if there’s ever a orangie coin, i’m hacked
 
-it’s just gambling at the moment , so there’s 0 reason to feel bad. not even mentioning how easily manipulated it could have been from external parties
+❤ 46 · 🔁 1 · 💬 8 · цитат 0 · просмотров 3968  
+https://x.com/orangie/status/2125250932266905845
 
-live perps formats will probably always be gambling but it’s still super fun and gets tons of views! But it’s not a real competition 500x leverage in 120 seconds.
+## 2026-11-24 15:31 UTC · ответ
 
-❤ 13 · 🔁 1 · 💬 5 · цитат 0 · просмотров 1690  
-https://x.com/orangie/status/2124877681930252543
+@tonyprofits @HugoMartingale ayo
 
-## 2026-11-23 17:49 UTC · ответ
+❤ 4 · 🔁 1 · 💬 1 · цитат 0 · просмотров 967  
+https://x.com/orangie/status/2125251072415465886
 
-@KrutzkyTrades @JensenHuang @fomo 10/10 bait
+## 2026-11-24 15:54 UTC · ответ
 
-❤ 11 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1475  
-https://x.com/orangie/status/2124923397029380350
+@ryantrost @sauciii I need to first locate the billions
 
-## 2026-11-23 18:03 UTC · пост
+❤ 6 · 🔁 1 · 💬 3 · цитат 0 · просмотров 1125  
+https://x.com/orangie/status/2125256723774546197
 
-a few weeks ago i got the chance to go* to New Delhi, India and tell the story of a 19 year old trader.
+## 2026-11-24 16:52 UTC · ответ
 
-soon 🎥🇮🇳 https://t.co/bGw7jBrbTB
+@ianlapham fomo
 
-❤ 250 · 🔁 9 · 💬 58 · цитат 2 · просмотров 25326  
-https://x.com/orangie/status/2124926878716731873
+❤ 9 · 🔁 2 · 💬 3 · цитат 0 · просмотров 1309  
+https://x.com/orangie/status/2125271281603899555
 
-## 2026-11-23 18:06 UTC · ответ
+## 2026-11-24 17:04 UTC · ответ
 
-@letjaybuild gulp
+@LelandBrooks_ @sauciii ohhh yeah https://t.co/CMONIPrWxq
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1001  
-https://x.com/orangie/status/2124927477822714192
+❤ 6 · 🔁 2 · 💬 5 · цитат 0 · просмотров 987  
+https://x.com/orangie/status/2125274267365360016
 
-## 2026-11-23 18:11 UTC · цитата
+## 2026-11-24 17:09 UTC · ответ
 
-i've been wanting to go to Nigeria forever, would love to film with someone cool over there if you guys know anyone 🇳🇬 https://t.co/v3zS17aOTs
+@villagebythexyz @sauciii the biggest.
 
-❤ 434 · 🔁 22 · 💬 144 · цитат 9 · просмотров 26483  
-https://x.com/orangie/status/2124928885246624155
+❤ 7 · 🔁 1 · 💬 2 · цитат 0 · просмотров 995  
+https://x.com/orangie/status/2125275671538929777
 
-## 2026-11-23 18:12 UTC · пост
+## 2026-11-24 17:24 UTC · ответ
 
-you can now pay with @XMoney inside of @bot app
+@based16z BILLIONS.
 
-so cool https://t.co/NdFx5vucmx
+❤ 41 · 🔁 1 · 💬 13 · цитат 0 · просмотров 3018  
+https://x.com/orangie/status/2125279370952495149
 
-❤ 75 · 🔁 3 · 💬 31 · цитат 1 · просмотров 19323  
-https://x.com/orangie/status/2124929147579335078
+## 2026-11-24 17:27 UTC · репост
 
-## 2026-11-23 18:16 UTC · ответ
+RT @based16z: NBA champion Tristan Thompson says his friend Orangie, a former Fortnite player, has made multiple billions of dollars tradin…
 
-@JayPeng03 @XMoney @bot @grok norwegian currency, visiting Norway soon haha
+❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 9076  
+https://x.com/orangie/status/2125280201068482892
 
-❤ 2 · 🔁 1 · 💬 0 · цитат 0 · просмотров 966  
-https://x.com/orangie/status/2124929998855229577
+## 2026-11-24 18:03 UTC · ответ
 
-## 2026-11-23 18:43 UTC · ответ
+@0x_Leo_ damn Leo. We gotta get u on tiktok, ig  &amp; YT….
 
-@notkvtwts @mntruell 🐐
+❤ 16 · 🔁 1 · 💬 3 · цитат 0 · просмотров 2007  
+https://x.com/orangie/status/2125289280771592211
 
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4529  
-https://x.com/orangie/status/2124936903493578827
+## 2026-11-24 18:25 UTC · ответ
 
-## 2026-11-23 21:19 UTC · ответ
+@champtgram i actually think it looks nothing like it 
 
-@kimchi1x ??? CZ ??? https://t.co/0hzonCsJ8s
+i hope in online they can update it to current day brickell
 
-❤ 110 · 🔁 3 · 💬 5 · цитат 1 · просмотров 5868  
-https://x.com/orangie/status/2124976088539607099
+❤ 10 · 🔁 1 · 💬 2 · цитат 0 · просмотров 2610  
+https://x.com/orangie/status/2125294706036818320
 
-## 2026-11-23 22:06 UTC · ответ
+## 2026-11-24 20:13 UTC · ответ
 
-@TheDazzleNovak @fomo Congrats
+@minafahmi Can’t wait for mine
 
-❤ 7 · 🔁 0 · 💬 7 · цитат 0 · просмотров 1071  
-https://x.com/orangie/status/2124987859702812704
+❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1304  
+https://x.com/orangie/status/2125321897890242791
 
-## 2026-11-24 03:28 UTC · ответ
+## 2026-11-25 03:28 UTC · ответ
 
-@Nadeshot I can help unc
+@brezscales one of my favorite long term buys honestly
 
-❤ 14 · 🔁 0 · 💬 4 · цитат 0 · просмотров 8552  
-https://x.com/orangie/status/2125069081032216886
+❤ 11 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1770  
+https://x.com/orangie/status/2125431435939201244

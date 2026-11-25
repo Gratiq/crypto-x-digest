@@ -1,179 +1,112 @@
-# @lookonchain — посты за 2026-11-24
+# @lookonchain — посты за 2026-11-25
 
-Всего: 15
+Всего: 9
 
-## 2026-11-23 09:18 UTC · пост
+## 2026-11-24 09:39 UTC · пост
 
-Absolutely wild!
+Ansem(@blknoiz06) appears to be dumping his holdings!
 
-Mysterious whale "0x5011" has withdrawn 2.878T $PEPE ($10.49M) from #Binance over the past 6 days!
+He keeps dumping $ANSEM, sending the price down 60% in just 1 hour.
 
-https://t.co/H7MH7yPHlP https://t.co/RN2JT1MXSS
+Was his wallet hacked?
 
-❤ 476 · 🔁 42 · 💬 71 · цитат 9 · просмотров 91050  
-https://x.com/lookonchain/status/2124794639010164809
+https://t.co/pPMMQzE8Jj https://t.co/nPmAx7SFpF
 
-## 2026-11-23 09:44 UTC · пост
+❤ 863 · 🔁 66 · 💬 215 · цитат 111 · просмотров 418863  
+https://x.com/lookonchain/status/2125162405110087821
 
-Another $TRUMP dinner is coming!
+## 2026-11-24 09:55 UTC · цитата
 
-But this whale, who spent $29.18M buying 3.58M $TRUMP (now worth $3.22M) about a year ago, is currently down $25.96M (-89%)!
+It looks like Ansem(@blknoiz06) was indeed hacked!
 
-https://t.co/mBY0ALAm6L https://t.co/6WFbBv4rjA
+The hacker has moved all the funds from selling memecoins to wallet 0xAC33 on Arbitrum.
 
-❤ 284 · 🔁 19 · 💬 59 · цитат 5 · просмотров 72944  
-https://x.com/lookonchain/status/2124801253956051006
+So far, the hacker has transferred 2.15M $USDC.
 
-## 2026-11-23 12:49 UTC · пост
+https://t.co/bEvcJQ76dx
+https://t.co/e458LYd8Dr
+https://t.co/QbWSAMcNYc https://t.co/DSIM4AHikX
 
-JUST IN:
+❤ 419 · 🔁 37 · 💬 249 · цитат 76 · просмотров 172641  
+https://x.com/lookonchain/status/2125166373362102312
 
-Since October 1, #BlackRock has seen net outflows of 1,018,839 $ETH ($1.75B).
+## 2026-11-24 13:50 UTC · пост
 
-https://t.co/YfaFJXVOID https://t.co/tfljcmoSsM
-
-❤ 296 · 🔁 12 · 💬 39 · цитат 4 · просмотров 56461  
-https://x.com/lookonchain/status/2124847776513274010
-
-## 2026-11-23 13:28 UTC · пост
-
-Nov 23 Update:
+Nov 24 Update:
 
 #Bitcoin ETFs:
-1D NetFlow: -10,542 $BTC(-$645.95M)🔴
-7D NetFlow: -28,360 $BTC(-$1.74B)🔴
+1D NetFlow: -10,217 $BTC(-$613.9M)🔴
+7D NetFlow: -39,378 $BTC(-$2.37B)🔴
 
 #Ethereum ETFs:
-1D NetFlow: -40,907 $ETH(-$70.45M)🔴
-7D NetFlow: -154,818 $ETH(-$266.63M)🔴 https://t.co/69JrHnpUzA
+1D NetFlow: -67,414 $ETH(-$114.24M)🔴
+7D NetFlow: -214,723 $ETH(-$363.88M)🔴 https://t.co/g5MVTMbIHy
 
-❤ 125 · 🔁 6 · 💬 47 · цитат 4 · просмотров 48003  
-https://x.com/lookonchain/status/2124857570380943381
+❤ 162 · 🔁 13 · 💬 57 · цитат 7 · просмотров 48990  
+https://x.com/lookonchain/status/2125225630413603315
 
-## 2026-11-23 13:48 UTC · пост
+## 2026-11-24 14:08 UTC · цитата
 
-Nov 16–Nov 22, 2026 #LookonchainWeeklyReport
+The "hacker" has stolen $2.57M from Ansem(@blknoiz06)'s wallet so far.
 
-🟢 Overview
-Stablecoin supply fell by $4.36B last week, DEX spot volume fell and perp volume edged up, while public companies added 223 BTC.
+Interestingly, the 2.57M $USDC hasn't been swapped for $ETH and laundered yet — it's still sitting in wallet 0xAC33.
+https://t.co/yIUpodbBpH https://t.co/7tGf8TkjyH
 
-🟢 Stablecoin Market
-The total stablecoin market cap decreased by $4.36B.
+❤ 305 · 🔁 24 · 💬 78 · цитат 17 · просмотров 74722  
+https://x.com/lookonchain/status/2125229971132330174
 
-🟢 Spot &amp; Perps https://t.co/PzEkdu0gCm
+## 2026-11-25 01:32 UTC · пост
 
-❤ 72 · 🔁 2 · 💬 18 · цитат 0 · просмотров 46033  
-https://x.com/lookonchain/status/2124862647531381216
+Whale 0x2aB3 dumped 17,183 $ETH for 28.68M $DAI at $1,669 just 8 hours ago.
 
-## 2026-11-23 14:07 UTC · пост
+https://t.co/Zsgwzk9Gms https://t.co/EB4MMUoVua
 
-This trader opened longs on $NVDA, $BTC, and $ETH today and is already up $2M in unrealized profit!
+❤ 127 · 🔁 12 · 💬 29 · цитат 1 · просмотров 36178  
+https://x.com/lookonchain/status/2125402229364724045
 
-$NVDA: +$1.24M
-$ETH: +$452K
-$BTC: +$317K
+## 2026-11-25 01:42 UTC · пост
 
-https://t.co/cBJwykbSay https://t.co/2nWyyQ9v6n
+Whales are dumping $ETH!
 
-❤ 321 · 🔁 14 · 💬 20 · цитат 0 · просмотров 61264  
-https://x.com/lookonchain/status/2124867433207152669
+An OTC whale who has been trading $ETH for over 5 years sold 37,929 $ETH ($63.53M) 5 hours ago.
 
-## 2026-11-23 14:31 UTC · пост
+The whale has made a total profit of $7M trading $ETH over the past 5+ years.
 
-An anonymous wallet bet on Jensen Huang rejoining #Nvidia on #Polymarket and is now up $284K!
+https://t.co/z1uZusGsXH
+https://t.co/ybuXbKG6ZT https://t.co/ra5uKBZjHj
 
-https://t.co/CD7S6xWeLa https://t.co/N6TYAzYYNO
+❤ 218 · 🔁 16 · 💬 40 · цитат 2 · просмотров 41991  
+https://x.com/lookonchain/status/2125404663382220936
 
-❤ 226 · 🔁 7 · 💬 18 · цитат 2 · просмотров 57572  
-https://x.com/lookonchain/status/2124873503853982043
+## 2026-11-25 01:52 UTC · пост
 
-## 2026-11-23 14:50 UTC · цитата
+Abraxas Capital sold 219,081 $HYPE ($13.25M) and then bought 4,230 $ETH ($7.09M).
 
-After Jensen Huang returned to #Nvidia, Abraxas Capital bought another 2,223 $BTC ($140.74M).
-https://t.co/krZFiWc2Bn https://t.co/DufBHWeZDQ
+Abraxas Capital has now withdrawn all its funds from Hyperliquid, after generating $12.49B in perp trading volume and making $552.49M in profit.
 
-❤ 566 · 🔁 53 · 💬 30 · цитат 6 · просмотров 55934  
-https://x.com/lookonchain/status/2124878311759528234
+https://t.co/qwAXChjYvp https://t.co/AOTuGxrmrz
 
-## 2026-11-23 15:02 UTC · пост
+❤ 395 · 🔁 34 · 💬 62 · цитат 9 · просмотров 55785  
+https://x.com/lookonchain/status/2125407295521853856
 
-AguilaTrades(@AguilaTrades) placed limit orders 6 hours ago to short 1,000 $BTC ($62.25M) at $62,000–$62,500.
+## 2026-11-25 03:33 UTC · пост
 
-As $BTC pumped following Jensen Huang's return to #Nvidia, his orders got filled, and he's now down $760K!
+Trader 0xab96, who has won 10 straight trades, just opened another long on 80,000 $NVDA ($12.17M)!
 
-https://t.co/3KebVFQ2Rw https://t.co/U3Q4KzQ3eR
+He has completed 30 trades with a 77% win rate, making $7.4M in realized profit.
 
-❤ 296 · 🔁 12 · 💬 57 · цитат 5 · просмотров 60418  
-https://x.com/lookonchain/status/2124881288444416480
+https://t.co/xVphlrKj9C https://t.co/js36tgyQzC
 
-## 2026-11-24 01:56 UTC · цитата
+❤ 170 · 🔁 6 · 💬 28 · цитат 1 · просмотров 41591  
+https://x.com/lookonchain/status/2125432692078748155
 
-Mysterious whale 0x5011 bought another 466.53B $PEPE ($1.72M), bringing his total purchases to 3.345T $PEPE ($12.21M)!
-https://t.co/jbzY9N4zAq https://t.co/NMfjcF89XR
+## 2026-11-25 05:47 UTC · пост
 
-❤ 272 · 🔁 26 · 💬 30 · цитат 8 · просмотров 42043  
-https://x.com/lookonchain/status/2125045747154592189
+loracle.hl (@loraclexyz) closed his $BTC long 4 hours ago after holding it for over 50 days, taking a $23.77M loss.
 
-## 2026-11-24 02:05 UTC · цитата
+He then flipped short on 462 $BTC ($27.14M).
 
-The whale with over $147M in #oil longs has closed all his positions, losing $21.81M in just 20 days!
+https://t.co/OROcFCTnvQ https://t.co/zsRmhir6Kn
 
-https://t.co/GbBey7dWrJ
-https://t.co/2akHRiotar https://t.co/pWQClVwt4V
-
-❤ 114 · 🔁 7 · 💬 23 · цитат 2 · просмотров 36780  
-https://x.com/lookonchain/status/2125048082199146621
-
-## 2026-11-24 03:11 UTC · пост
-
-Trader 1K1MiJ sold 1,250 $BTC ($114.96M) at $91,967 a year ago and is now buying the dip after a year of inactivity.
-
-Over the past 9 days, he has bought 726 $BTC ($45.83M) at an average price of $63,116.
-
-https://t.co/V7QFCUk0dt https://t.co/aQ45c8HTfD
-
-❤ 167 · 🔁 15 · 💬 37 · цитат 3 · просмотров 38340  
-https://x.com/lookonchain/status/2125064709036773715
-
-## 2026-11-24 03:47 UTC · пост
-
-MARA is selling $BTC while Twenty One Capital is buying!
-
-MARA transferred 276.7 $BTC ($16.97M) to Galaxy Digital.
-
-Twenty One Capital received 172.25 $BTC ($10.5M) from Anchorage Digital.
-
-https://t.co/fTOd8FQMxR
-https://t.co/UtwH44ezGg https://t.co/odQtWmbzmv
-
-❤ 159 · 🔁 15 · 💬 33 · цитат 6 · просмотров 38444  
-https://x.com/lookonchain/status/2125073874333421869
-
-## 2026-11-24 05:42 UTC · пост
-
-Smart trader 0x15a4, who has made $37.84M in profit, created a new wallet and opened a 10x short on 200,000 $NVDA ($32.8M).
-
-He's already up $584K in unrealized profit.
-
-Liquidation price: $187.58
-
-https://t.co/xTFItwTXNW
-https://t.co/3bsA3ABfiK https://t.co/3zmpprzREM
-
-❤ 142 · 🔁 9 · 💬 25 · цитат 2 · просмотров 36580  
-https://x.com/lookonchain/status/2125102670793114093
-
-## 2026-11-24 07:14 UTC · пост
-
-Classic sell low, buy high!
-
-This guy panic-sold 1,277 $ETH ($2.08M) at $1,627 during the market crash 3 days ago.
-
-Then, after Jensen Huang returned to #Nvidia, he FOMO-bought 1,155 $ETH ($2.08M) at $1,798.
-
-He lost 122 $ETH ($207K) in the process.
-
-https://t.co/qc0o6jjeth https://t.co/aH5Bm7Wt1D
-
-❤ 42 · 🔁 3 · 💬 7 · цитат 1 · просмотров 20392  
-https://x.com/lookonchain/status/2125125969581339006
+❤ 171 · 🔁 11 · 💬 58 · цитат 12 · просмотров 41482  
+https://x.com/lookonchain/status/2125466297110786553

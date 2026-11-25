@@ -1,21 +1,10 @@
-# @Theunipcs — посты за 2026-11-24
+# @Theunipcs — посты за 2026-11-25
 
-Всего: 2
+Всего: 1
 
-## 2026-11-23 07:55 UTC · репост
+## 2026-11-24 09:27 UTC · пост
 
-RT @basilda_a: saw people dunking on bonkguy on my timeline, so naturally i called a bottom on his bags.
+i hope @blknoiz06 is okay 🙏
 
-think many people underestimate h…
-
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 22686  
-https://x.com/theunipcs/status/2124773826022048089
-
-## 2026-11-23 07:55 UTC · ответ
-
-@basilda_a yeh they're all going to be surprised
-
-GOD WILLING
-
-❤ 219 · 🔁 7 · 💬 72 · цитат 5 · просмотров 8418  
-https://x.com/theunipcs/status/2124773865289388453
+❤ 1743 · 🔁 82 · 💬 638 · цитат 74 · просмотров 229502  
+https://x.com/theunipcs/status/2125159259688108233

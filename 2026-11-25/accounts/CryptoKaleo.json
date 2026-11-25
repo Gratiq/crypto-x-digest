@@ -1,0 +1,387 @@
+[
+ {
+  "id": "2125208594329333796",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-24T12:43:08.000Z",
+  "text": "While you were sleeping - Ansem’s pump wallet was hacked.\n\nHere’s what happened to $ANSEM &amp; $MIHAO. https://t.co/LdDNgbK5xr",
+  "url": "https://x.com/CryptoKaleo/status/2125208594329333796",
+  "likes": 146,
+  "retweets": 4,
+  "replies": 108,
+  "quotes": 5,
+  "impressions": 40999,
+  "bookmarks": 5
+ },
+ {
+  "id": "2125238606423835037",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T14:42:23.000Z",
+  "text": "@Cryptowonderful Just hmm and chill 🤝",
+  "url": "https://x.com/CryptoKaleo/status/2125238606423835037",
+  "likes": 14,
+  "retweets": 2,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 833,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125237146361696588",
+   "text": "Maybe it is time to join the chads on $HMM and chill"
+  }
+ },
+ {
+  "id": "2125254285537718463",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-24T15:44:41.000Z",
+  "text": "hmm, yes\n\nand cats https://t.co/JFDWdpkSoF",
+  "url": "https://x.com/CryptoKaleo/status/2125254285537718463",
+  "likes": 101,
+  "retweets": 6,
+  "replies": 26,
+  "quotes": 0,
+  "impressions": 19035,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125172424052252977",
+   "text": "robinhood szn will come back\n\nand it will be led by utility"
+  }
+ },
+ {
+  "id": "2125254531349098605",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T15:45:40.000Z",
+  "text": "@iruletrenches https://t.co/9j409WdNOa",
+  "url": "https://x.com/CryptoKaleo/status/2125254531349098605",
+  "likes": 23,
+  "retweets": 4,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 920,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125172424052252977",
+   "text": "robinhood szn will come back\n\nand it will be led by utility"
+  }
+ },
+ {
+  "id": "2125293085441794437",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-24T18:18:52.000Z",
+  "text": "fyi - ansem's wallet wasn't the only one compromised and drained\n\nif you somehow have funds remaining on any wallets connected to bullpenfi, would move them off immediately &amp; retire use of said wallets out of an abundance of caution https://t.co/75UISLb6re",
+  "url": "https://x.com/CryptoKaleo/status/2125293085441794437",
+  "likes": 88,
+  "retweets": 1,
+  "replies": 58,
+  "quotes": 1,
+  "impressions": 30343,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125267130870272331",
+   "text": "On November 24, we identified unauthorized transfers involving Bullpen accounts opened during our early beta between April and June 2024. Our preliminary count is 18–19 affected accounts, including @blknoiz06’s. Together, they represent less than 0.005% of registered Bullpen"
+  }
+ },
+ {
+  "id": "2125293885861630244",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T18:22:03.000Z",
+  "text": "understand they're claiming it's limited to a small subset of early beta users\n\nbut without a more thorough post-mortem of how the incident happened, it's difficult to justify gambling that there aren't any other vectors that could lead to more wallets being compromised later on",
+  "url": "https://x.com/CryptoKaleo/status/2125293885861630244",
+  "likes": 20,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 6756,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125293085441794437",
+   "text": "fyi - ansem's wallet wasn't the only one compromised and drained\n\nif you somehow have funds remaining on any wallets connected to bullpenfi, would move them off immediately &amp; retire use of said wallets out of an abundance of caution https://t.co/75UISLb6re"
+  }
+ },
+ {
+  "id": "2125297045191991369",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T18:34:36.000Z",
+  "text": "@vydamo_ we already are",
+  "url": "https://x.com/CryptoKaleo/status/2125297045191991369",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 658,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2124961371968421967",
+   "text": "If onchain remains dry you will see many memecoin millionaires chained to pump who will get addicted to perps and lose everything in the coming months"
+  }
+ },
+ {
+  "id": "2125297397823918547",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-24T18:36:00.000Z",
+  "text": "RT @Spicy_Rich: Everyone's arguing about whether Ansem got hacked or dumped on his own holders. \n\nSo I pulled the raw on-chain data myself.…",
+  "url": "https://x.com/CryptoKaleo/status/2125297397823918547",
+  "likes": 0,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10143,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125266740019904582",
+   "text": "Everyone's arguing about whether Ansem got hacked or dumped on his own holders. \n\nSo I pulled the raw on-chain data myself.\n\nThe wallet holding the $2.57M didn't just get money from Ansem's wallet.\n\nIt also got money from wallets Arkham labels as OTHER Bullpen users. https://t.co/kGvfkHHKUL"
+  }
+ },
+ {
+  "id": "2125297470439883131",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T18:36:17.000Z",
+  "text": "@Spicy_Rich good work man!",
+  "url": "https://x.com/CryptoKaleo/status/2125297470439883131",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 881,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125266740019904582",
+   "text": "Everyone's arguing about whether Ansem got hacked or dumped on his own holders. \n\nSo I pulled the raw on-chain data myself.\n\nThe wallet holding the $2.57M didn't just get money from Ansem's wallet.\n\nIt also got money from wallets Arkham labels as OTHER Bullpen users. https://t.co/kGvfkHHKUL"
+  }
+ },
+ {
+  "id": "2125300389704774062",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-24T18:47:53.000Z",
+  "text": "Good summary from Spicy Rich https://t.co/o3lod4HION",
+  "url": "https://x.com/CryptoKaleo/status/2125300389704774062",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 4586,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125266740019904582",
+   "text": "Everyone's arguing about whether Ansem got hacked or dumped on his own holders. \n\nSo I pulled the raw on-chain data myself.\n\nThe wallet holding the $2.57M didn't just get money from Ansem's wallet.\n\nIt also got money from wallets Arkham labels as OTHER Bullpen users. https://t.co/kGvfkHHKUL"
+  }
+ },
+ {
+  "id": "2125309078683648024",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T19:22:25.000Z",
+  "text": "@Aurelius0121 time to add robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f and chill brother",
+  "url": "https://x.com/CryptoKaleo/status/2125309078683648024",
+  "likes": 24,
+  "retweets": 3,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 809,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125253322022297874",
+   "text": "What else should I add to the Aurelius wallet? 👀👀\n\nDrop your highest-conviction projects below.\n\nHIGH-CONVICTION PLAYS ONLY! https://t.co/s2kJeAGtZe"
+  }
+ },
+ {
+  "id": "2125320576344486185",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T20:08:06.000Z",
+  "text": "@vladtenev Hmm \n\nI agree my man https://t.co/MnaDRnVsRI",
+  "url": "https://x.com/CryptoKaleo/status/2125320576344486185",
+  "likes": 52,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2345,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125319231881310709",
+   "text": "Community is capital."
+  }
+ },
+ {
+  "id": "2125325751943897105",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T20:28:40.000Z",
+  "text": "@nofear_182 brother\n\nhow is telling someone take all assets off of a platform defending anyone?",
+  "url": "https://x.com/CryptoKaleo/status/2125325751943897105",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 534,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125322912198783257",
+   "text": "@CryptoKaleo Man since when you become so fucking gay, first defending CZ now defending Ansem, what’s your problem"
+  }
+ },
+ {
+  "id": "2125327312950268225",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-24T20:34:52.000Z",
+  "text": "RT @IterIntellectus: something quite interesting about the perception of prediction markets.\naccording to YouGov data, the average net impr…",
+  "url": "https://x.com/CryptoKaleo/status/2125327312950268225",
+  "likes": 0,
+  "retweets": 32,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9671,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125253474837201264",
+   "text": "something quite interesting about the perception of prediction markets.\naccording to YouGov data, the average net impression of Kalshi among all respondents is -25.\namong people who actually use it? +58.\n\nobviously there's some selection bias here, but i do wonder how much of the https://t.co/34qsQ3RGDQ"
+  }
+ },
+ {
+  "id": "2125349726006710608",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-24T22:03:56.000Z",
+  "text": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f \n\nNext leg up is a matter of when, not if.\n\nThinking Cat will revive the Robinhood Chain trenches. https://t.co/BTgQzH75Zm",
+  "url": "https://x.com/CryptoKaleo/status/2125349726006710608",
+  "likes": 90,
+  "retweets": 19,
+  "replies": 27,
+  "quotes": 3,
+  "impressions": 17515,
+  "bookmarks": 0
+ },
+ {
+  "id": "2125354930479485311",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "original",
+  "created_at": "2026-11-24T22:24:37.000Z",
+  "text": "Here’s the thesis section for $ANSEM holders on FOMO today: https://t.co/JkxMAY5hxy",
+  "url": "https://x.com/CryptoKaleo/status/2125354930479485311",
+  "likes": 65,
+  "retweets": 3,
+  "replies": 40,
+  "quotes": 2,
+  "impressions": 17129,
+  "bookmarks": 2
+ },
+ {
+  "id": "2125362748926128590",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "retweet",
+  "created_at": "2026-11-24T22:55:41.000Z",
+  "text": "RT @mikematvei: Thinking Cat will be the reason PONS recovers and the catalyst for the entire Robinhood Chain.\n\nBONK brought attention and…",
+  "url": "https://x.com/CryptoKaleo/status/2125362748926128590",
+  "likes": 0,
+  "retweets": 14,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 8978,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125360137367847120",
+   "text": "Thinking Cat will be the reason PONS recovers and the catalyst for the entire Robinhood Chain.\n\nBONK brought attention and liquidity back to Solana during one of its darkest periods.\n\nWe’ve seen this happen before.\n\nEvery ecosystem needs a flagship meme. Something that attracts"
+  }
+ },
+ {
+  "id": "2125362834393460964",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-24T22:56:01.000Z",
+  "text": "@mikematvei https://t.co/ArARLzARZy",
+  "url": "https://x.com/CryptoKaleo/status/2125362834393460964",
+  "likes": 8,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 458,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125360137367847120",
+   "text": "Thinking Cat will be the reason PONS recovers and the catalyst for the entire Robinhood Chain.\n\nBONK brought attention and liquidity back to Solana during one of its darkest periods.\n\nWe’ve seen this happen before.\n\nEvery ecosystem needs a flagship meme. Something that attracts"
+  }
+ },
+ {
+  "id": "2125490569791275367",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "quote",
+  "created_at": "2026-11-25T07:23:36.000Z",
+  "text": "$HMM \n\n是时候让那只爱思考的猫再次唤醒战壕了。\n\n更乐观些。我们还会涨得更高。 https://t.co/JSqwU1frxS https://t.co/68kQTyCd4m",
+  "url": "https://x.com/CryptoKaleo/status/2125490569791275367",
+  "likes": 19,
+  "retweets": 6,
+  "replies": 21,
+  "quotes": 0,
+  "impressions": 5519,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125349726006710608",
+   "text": "robinhood:0x7fe995a80075df3dc8ae11a9b82c7fe4202cd87f \n\nNext leg up is a matter of when, not if.\n\nThinking Cat will revive the Robinhood Chain trenches. https://t.co/BTgQzH75Zm"
+  }
+ },
+ {
+  "id": "2125492006923473191",
+  "username": "CryptoKaleo",
+  "username_canon": "CryptoKaleo",
+  "type": "reply",
+  "created_at": "2026-11-25T07:29:18.000Z",
+  "text": "@0xTimQ look at the chart",
+  "url": "https://x.com/CryptoKaleo/status/2125492006923473191",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 109,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125491585408471336",
+   "text": "@CryptoKaleo is the robinhood chain trench actually getting volume yet?"
+  }
+ }
+]

@@ -1,88 +1,116 @@
-# @MustStopMurad — посты за 2026-11-24
+# @MustStopMurad — посты за 2026-11-25
 
-Всего: 9
+Всего: 12
 
-## 2026-11-23 09:28 UTC · репост
+## 2026-11-24 09:36 UTC · репост
 
-RT @maddox00000: Day 517 of DCA’ing $1,000 into #SPX6900 every single day.
+RT @EbMD_: I’m feeling more bullish SPX6900 now more than ever
 
-Beyond a certain point (much smaller than most think) money buy…
+❤ 0 · 🔁 19 · 💬 0 · цитат 0 · просмотров 21967  
+https://x.com/MustStopMurad/status/2125161516399989159
 
-❤ 0 · 🔁 66 · 💬 0 · цитат 0 · просмотров 23821  
-https://x.com/MustStopMurad/status/2124797168951439600
+## 2026-11-24 10:50 UTC · пост
 
-## 2026-11-23 11:04 UTC · пост
+Trust is the scarcest and the most valuable thing in the world.
 
-Times like these are great because they allow the Strongest Crypto Communities to stand out from everything else.
+It takes many years to build.
 
-Pay attention to the Communities that have been going hard for years and keep persisting no matter what.
+The crypto community that is successful at cultivating a real Trust Machine will be worth Trillions.
 
-They will be the ones to thrive in coming Bull.
+❤ 1160 · 🔁 195 · 💬 247 · цитат 34 · просмотров 53398  
+https://x.com/MustStopMurad/status/2125180366243917975
 
-❤ 900 · 🔁 161 · 💬 194 · цитат 18 · просмотров 44840  
-https://x.com/MustStopMurad/status/2124821475571970159
+## 2026-11-24 11:40 UTC · ответ
 
-## 2026-11-23 13:15 UTC · репост
+@mayfer look into spx6900
 
-RT @heehah: I yearn for the day we begin interfacing with computers horizontally/relationally instead of vertically/hierarchically.
+we are building a tokenized techno-spiritual movement to flip the entire stock market at its market capitalization of 69 trillion https://t.co/fVL9O8d9LM
 
-Right…
+❤ 243 · 🔁 46 · 💬 15 · цитат 4 · просмотров 4088  
+https://x.com/MustStopMurad/status/2125192910060798093
 
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 23879  
-https://x.com/MustStopMurad/status/2124854443917340832
+## 2026-11-24 12:15 UTC · репост
 
-## 2026-11-23 14:06 UTC · пост
+RT @Iftyinsight: SPX6900 is bringing a countercultural movement on chain
 
-SPX6900 is the reincarnation of early BTC.
+It's the ultimate vehicle to bring people around the thing they b…
 
-❤ 830 · 🔁 165 · 💬 77 · цитат 7 · просмотров 36085  
-https://x.com/MustStopMurad/status/2124867114465124495
+❤ 0 · 🔁 16 · 💬 0 · цитат 0 · просмотров 23648  
+https://x.com/MustStopMurad/status/2125201599047888978
 
-## 2026-11-23 15:31 UTC · репост
+## 2026-11-24 12:57 UTC · пост
 
-RT @unemployaball: She broke her piggy bank for the third time. Third dca in three months for my sweet little girl. She started dca'ing at…
+https://t.co/VF8MRtbXSr
 
-❤ 0 · 🔁 57 · 💬 0 · цитат 0 · просмотров 20479  
-https://x.com/MustStopMurad/status/2124888557558903013
+❤ 527 · 🔁 104 · 💬 63 · цитат 14 · просмотров 35776  
+https://x.com/MustStopMurad/status/2125212213493596562
 
-## 2026-11-23 16:32 UTC · пост
+## 2026-11-24 13:15 UTC · ответ
 
-People always underestimate how quickly the markets can turn.
+@game_for_one look into SPX6900, it is breathing fresh air into the original crypto ethos by flipping the stock market
 
-Especially the Crypto market.
+*this* is exactly what blockchain was destined to do.
 
-You blink and it will have begun.
+to act as a vessel for the creation of a giant wealth redistribution vehicle away from extreme centralization https://t.co/SpuJpYU5ZB
 
-That’s why HODL and DCA always wins.
+❤ 238 · 🔁 37 · 💬 11 · цитат 1 · просмотров 5272  
+https://x.com/MustStopMurad/status/2125216669362442609
 
-❤ 952 · 🔁 141 · 💬 129 · цитат 12 · просмотров 38082  
-https://x.com/MustStopMurad/status/2124903908086800672
+## 2026-11-24 13:43 UTC · ответ
 
-## 2026-11-23 17:48 UTC · репост
+@fchollet DreamCoder by Ellis does the second one quite elegantly along program synthesis lines
 
-RT @realcryptocow: SPX6900 to trillions in a straight line (let’s say over the next &lt;5 years) is possible. Genuinely, it is
+❤ 68 · 🔁 5 · 💬 1 · цитат 0 · просмотров 2769  
+https://x.com/MustStopMurad/status/2125223663762850268
 
-These are unpr…
+## 2026-11-24 14:28 UTC · репост
 
-❤ 0 · 🔁 26 · 💬 0 · цитат 0 · просмотров 20311  
-https://x.com/MustStopMurad/status/2124923054388281574
+RT @MikeFlipthe500: 6900 is still bigger than 500
 
-## 2026-11-23 19:18 UTC · репост
+The math hasn't changed, but the UI just got an upgrade
 
-RT @maddox00000: Jim Cramer's post about SPX6900 getting more engagement than 95% of his posts over the last month should tell you somethin…
+Fresh new design is now live at…
 
-❤ 0 · 🔁 148 · 💬 0 · цитат 0 · просмотров 19319  
-https://x.com/MustStopMurad/status/2124945680363892807
+❤ 0 · 🔁 29 · 💬 0 · цитат 0 · просмотров 22137  
+https://x.com/MustStopMurad/status/2125235189802484041
 
-## 2026-11-23 20:35 UTC · пост
+## 2026-11-24 15:01 UTC · пост
 
-In my 14 years in Crypto, I've only ever seen this kind of thing happen with one other asset - Bitcoin.
+"Imagine someone told you about spx6900 in 2027”
 
-Now it's happening with SPX6900
+Will be the same as
 
-Don't say you weren't warned.
+"Imagine someone told you about bitcoin in 2011”
 
-Credit: @STPC_Pro @Cryptic_Mang https://t.co/oveNusjTy6
+Mark my words.
 
-❤ 941 · 🔁 286 · 💬 131 · цитат 31 · просмотров 48584  
-https://x.com/MustStopMurad/status/2124964992277446975
+❤ 857 · 🔁 144 · 💬 107 · цитат 11 · просмотров 45747  
+https://x.com/MustStopMurad/status/2125243493446816171
+
+## 2026-11-24 17:10 UTC · пост
+
+We don't need to attack others while they are down.
+We just need to persist with our own cause.
+
+❤ 973 · 🔁 150 · 💬 149 · цитат 17 · просмотров 46289  
+https://x.com/MustStopMurad/status/2125275928838205744
+
+## 2026-11-24 18:39 UTC · репост
+
+RT @realcryptocow: Instead of my classic daily "Day X of calling top on the S&amp;P 500", I took inspo from @Cryptic_Mang's efforts on Friday w…
+
+❤ 0 · 🔁 31 · 💬 0 · цитат 0 · просмотров 20270  
+https://x.com/MustStopMurad/status/2125298167969464672
+
+## 2026-11-24 20:18 UTC · пост
+
+Pushing SPX6900 is already a glimpse of what a "Post-work society" looks like
+
+People banding into (tokenized) communities and evangelizing them
+
+SPX6900 will win because it has the single craziest mission and the best people among them all.
+
+art: @rootsie143 https://t.co/VfvVNr24Kk
+
+❤ 461 · 🔁 124 · 💬 69 · цитат 8 · просмотров 30700  
+https://x.com/MustStopMurad/status/2125323275823915420

@@ -1,0 +1,112 @@
+[
+ {
+  "id": "2125182437063790806",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-24T10:59:11.000Z",
+  "text": "pump wallet is hacked, trying to figure out how, believe its unauthorized access to my bullpen profile somehow which had the sol priv key imported",
+  "url": "https://x.com/blknoiz06/status/2125182437063790806",
+  "likes": 6888,
+  "retweets": 587,
+  "replies": 5707,
+  "quotes": 1824,
+  "impressions": 1914327,
+  "bookmarks": 737
+ },
+ {
+  "id": "2125188048296296585",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-24T11:21:29.000Z",
+  "text": "@Moasthigh i dont think they have access to any of the evm wallets, only the solana one, which is why i said i think its the bullpen profile thats the only place the sol priv key was imported",
+  "url": "https://x.com/blknoiz06/status/2125188048296296585",
+  "likes": 460,
+  "retweets": 26,
+  "replies": 202,
+  "quotes": 13,
+  "impressions": 64567,
+  "bookmarks": 17,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125187649052852448",
+   "text": "Yes bro he left your preps with 6 figs margins \n\n*That is your own personal money and not transferred to you*\n\nDidn’t wanna drain that I see https://t.co/viyHWAgTNv https://t.co/I1OJ7gdwBi"
+  }
+ },
+ {
+  "id": "2125223352776208422",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-24T13:41:46.000Z",
+  "text": "i dont know what the attack vector was, if it was through bullpen then would make sense they have access to other wallets on that account as well, i dont think they have access to the evm pump wallets because those positions are still open and nothing has been moved there\n\nit is not me, would appreciate you not spreading misinformation currently doing security audit",
+  "url": "https://x.com/blknoiz06/status/2125223352776208422",
+  "likes": 397,
+  "retweets": 59,
+  "replies": 182,
+  "quotes": 33,
+  "impressions": 63057,
+  "bookmarks": 17,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125163096754847775",
+   "text": "The onchain activity looks nothing like a hack. Just an hour before the selling started, a previously inactive wallet I’d labeled as Ansem’s a year ago funded the wallet that later received the sale proceeds."
+  }
+ },
+ {
+  "id": "2125224433141059663",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "reply",
+  "created_at": "2026-11-24T13:46:04.000Z",
+  "text": "@NewsyJohnson dont think its pumpfun or the other evm wallets would also be drained, its only the solana wallet",
+  "url": "https://x.com/blknoiz06/status/2125224433141059663",
+  "likes": 97,
+  "retweets": 15,
+  "replies": 71,
+  "quotes": 2,
+  "impressions": 26339,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125224081788199232",
+   "text": ""
+  }
+ },
+ {
+  "id": "2125437574965539054",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "original",
+  "created_at": "2026-11-25T03:53:01.000Z",
+  "text": "been on the phone w/ legal, devs &amp; coordinating with law enforcement all day\n\nattempted to get funds frozen while still in usdc but needed court order to do so\n\ni cannot confidently say funds on @BullpenFi are safe, so until i can confidently say so would withdraw your funds",
+  "url": "https://x.com/blknoiz06/status/2125437574965539054",
+  "likes": 1748,
+  "retweets": 163,
+  "replies": 53,
+  "quotes": 190,
+  "impressions": 223865,
+  "bookmarks": 196
+ },
+ {
+  "id": "2125443821437882440",
+  "username": "blknoiz06",
+  "username_canon": "blknoiz06",
+  "type": "quote",
+  "created_at": "2026-11-25T04:17:50.000Z",
+  "text": "next year is gonna be weird man https://t.co/czphv4WrQq",
+  "url": "https://x.com/blknoiz06/status/2125443821437882440",
+  "likes": 646,
+  "retweets": 20,
+  "replies": 13,
+  "quotes": 24,
+  "impressions": 86546,
+  "bookmarks": 31,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125433796786860444",
+   "text": "JUST IN: 🇺🇸 US Treasury suffers cyberattack.\n\nThe US Treasury's financial crimes agency, FinCEN, is investigating a cybersecurity breach and has taken some systems offline as a precaution."
+  }
+ }
+]
