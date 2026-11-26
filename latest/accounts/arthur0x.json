@@ -1,77 +1,42 @@
 [
  {
-  "id": "2125148761215402321",
+  "id": "2125629762945302570",
+  "username": "arthur0x",
+  "username_canon": "arthur0x",
+  "type": "retweet",
+  "created_at": "2026-11-25T16:36:42.000Z",
+  "text": "RT @avotoast: Starting the term off with declining inflation, fairly strong consumer, full mandate for change with control over all branche…",
+  "url": "https://x.com/arthur0x/status/2125629762945302570",
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1697,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125605071966679532",
+   "text": "Starting the term off with declining inflation, fairly strong consumer, full mandate for change with control over all branches of gov’t\n\nAnd then applying tariffs that have no historical precedent for working, starting a highly inflationary war (based on hubris following"
+  }
+ },
+ {
+  "id": "2125651108660191366",
   "username": "arthur0x",
   "username_canon": "arthur0x",
   "type": "reply",
-  "created_at": "2026-11-24T08:45:22.000Z",
-  "text": "@ZichenWanghere Yes",
-  "url": "https://x.com/arthur0x/status/2125148761215402321",
-  "likes": 4,
+  "created_at": "2026-11-25T18:01:31.000Z",
+  "text": "@degentradingLSD agree",
+  "url": "https://x.com/arthur0x/status/2125651108660191366",
+  "likes": 5,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 1774,
+  "impressions": 994,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2125102043715281139",
-   "text": "The New York Times’ reporting and guest essays on Jensen Huang has provoked perhaps the strongest backlash against the newspaper I’ve ever seen among China’s so-called liberals, who have traditionally held the NYT in high regard. Quite striking."
+   "id": "2125642065673691443",
+   "text": "first instance of selling that dried up - i think we mark a local bottom here on semis and crypto."
   }
- },
- {
-  "id": "2125158656044150887",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "reply",
-  "created_at": "2026-11-24T09:24:41.000Z",
-  "text": "@thedaoofwei I was there as well",
-  "url": "https://x.com/arthur0x/status/2125158656044150887",
-  "likes": 19,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 9435,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125111399018029199",
-   "text": "I am pretty sure this is the first picture with CZ and SBF, where Alameda was a sponsor at the inaugural Binance Blockchain Week in Singapore in Jan 2019. \n\nThe Netflix show is entirely fiction, and I have the receipts. https://t.co/JiJUlmK82H"
-  }
- },
- {
-  "id": "2125234757818630320",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "reply",
-  "created_at": "2026-11-24T14:27:05.000Z",
-  "text": "@jukan05 Try Phantom Blade Zero",
-  "url": "https://x.com/arthur0x/status/2125234757818630320",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 738,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125213319904813558",
-   "text": "I can’t get excited about any game anymore, not even GTA 6. It’s like I’ve got the gaming equivalent of erectile dysfunction."
-  }
- },
- {
-  "id": "2125250540817031210",
-  "username": "arthur0x",
-  "username_canon": "arthur0x",
-  "type": "original",
-  "created_at": "2026-11-24T15:29:48.000Z",
-  "text": "$ANT  Anthropic IPO is supposedly 6x to 10x oversubscribed yet now it's below IPO price and you won't even see half the demand during the IPO to come bid when the price is lower than IPO price of $83 now in a mere few days.",
-  "url": "https://x.com/arthur0x/status/2125250540817031210",
-  "likes": 106,
-  "retweets": 6,
-  "replies": 24,
-  "quotes": 1,
-  "impressions": 27024,
-  "bookmarks": 9
  }
 ]

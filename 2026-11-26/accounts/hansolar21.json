@@ -1,0 +1,117 @@
+[
+ {
+  "id": "2125788462255329513",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "retweet",
+  "created_at": "2026-11-26T03:07:19.000Z",
+  "text": "RT @0xvarikr: The Variational trading API is live on testnet: \n\nhttps://t.co/ozdKz7jnmp\n\nThe team is waiting for you across Discord, suppor…",
+  "url": "https://x.com/hansolar21/status/2125788462255329513",
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 953,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125603245213061432",
+   "text": "The Variational trading API is live on testnet: \n\nhttps://t.co/ozdKz7jnmp\n\nThe team is waiting for you across Discord, support and DMs for feedback! https://t.co/VjcmXR71bc"
+  }
+ },
+ {
+  "id": "2125823647625724060",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T05:27:08.000Z",
+  "text": "@lukecannon727 What did the hedgehog and fractal guy say?",
+  "url": "https://x.com/hansolar21/status/2125823647625724060",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 164,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125645188765016497",
+   "text": "did you guys see cryptocondom's latest retweet? pretty concerning AI compute price trend rumors surfaced by crowdturtle\n\neven plur daddy says to fade all bounces\n\nand chumbawamba22 thinks the Caiolo–Ferroni–Hoster conjecture has pulled forward the overton window for quantum"
+  }
+ },
+ {
+  "id": "2125824867434139833",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "original",
+  "created_at": "2026-11-26T05:31:58.000Z",
+  "text": "Dropping some icecream alpha\n1. Flakey maldon sea salt\n2. Extra virgin olive oil\n3. Crushed candied peacan https://t.co/lEm8rdowPW",
+  "url": "https://x.com/hansolar21/status/2125824867434139833",
+  "likes": 39,
+  "retweets": 0,
+  "replies": 11,
+  "quotes": 0,
+  "impressions": 2625,
+  "bookmarks": 1
+ },
+ {
+  "id": "2125826162488439030",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T05:37:07.000Z",
+  "text": "@w22py 오 해봐야겠다!",
+  "url": "https://x.com/hansolar21/status/2125826162488439030",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 102,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125825395903897791",
+   "text": "@hansolar21 올리브유랑 후추 뿌려도 마싯고 들기름 뿌려도 마싯더라구요"
+  }
+ },
+ {
+  "id": "2125849326815674815",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T07:09:10.000Z",
+  "text": "@alphayou_net Italian's got the real alpha",
+  "url": "https://x.com/hansolar21/status/2125849326815674815",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 39,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125848476265431138",
+   "text": "@hansolar21 italians have been sitting on this alpha for generations haha"
+  }
+ },
+ {
+  "id": "2125852966762803694",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T07:23:38.000Z",
+  "text": "@100y_eth It was a bit early in the day 😅",
+  "url": "https://x.com/hansolar21/status/2125852966762803694",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 31,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125852585148260699",
+   "text": "@hansolar21 You missed one: bourbon whiskey 😋"
+  }
+ }
+]

@@ -1,56 +1,67 @@
-# @tarunchitra — посты за 2026-11-25
+# @tarunchitra — посты за 2026-11-26
 
-Всего: 7
+Всего: 8
 
-## 2026-11-24 15:29 UTC · репост
+## 2026-11-25 15:31 UTC · репост
 
-RT @TomGur: It appears that OpenAI has an alternative proof of VP \neq VNP:
-https://t.co/8hbyfv8uxF
+RT @nasqret: In a recent conversation with @AnnaRRose and @tarunchitra we discussed mathematical intuition and the way mathematicians justi…
 
-❤ 0 · 🔁 14 · 💬 0 · цитат 0 · просмотров 409  
-https://x.com/tarunchitra/status/2125250571179344226
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 395  
+https://x.com/tarunchitra/status/2125613228541747589
 
-## 2026-11-24 16:19 UTC · цитата
+## 2026-11-25 15:42 UTC · репост
 
-I think if you add up the experience here and on OpenAI Jalapeño, it is like 100+ years of ASIC design experience (which is very rare in today's environment, despite the intense capital investment in inference ASICs)
+RT @eshita: We talked to @tarunchitra from @robotventures about how the AI inference market works today and how it could be fairer and more…
 
-[One of the reasons DESRES was an awesome place to work] https://t.co/ILkHPRDCz5
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 363  
+https://x.com/tarunchitra/status/2125616157671727573
 
-❤ 62 · 🔁 1 · 💬 6 · цитат 0 · просмотров 6315  
-https://x.com/tarunchitra/status/2125262921672294439
+## 2026-11-25 15:42 UTC · репост
 
-## 2026-11-24 16:24 UTC · ответ
+RT @TheDryRunPod: How does AI inference get bought and sold?
 
-A lot of intellectual freedom to work on interdisciplinary problems in hardware, physics, biology; you weren't really forced into one field and could spend time working on multiple things. Plus David was very open minded. The alumni/places people went afterwards almost more impressive than the place itself (e.g. Nobel Prize winner)
+On this episode, we sat down with Tarun (@tarunchitra) to talk about how open…
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 307  
-https://x.com/tarunchitra/status/2125264324247552189
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 411  
+https://x.com/tarunchitra/status/2125616174549659910
 
-## 2026-11-24 16:25 UTC · репост
+## 2026-11-25 15:58 UTC · репост
 
-RT @rrwilliams: Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...
-- I'm happy to see a major *lower bound*…
+RT @khushii_w: AI inference looks like a commodity market until you look at the bill.
 
-❤ 0 · 🔁 49 · 💬 0 · цитат 0 · просмотров 397  
-https://x.com/tarunchitra/status/2125264444368593406
+Great conversation with @tarunchitra peeling back th…
 
-## 2026-11-24 18:23 UTC · репост
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 405  
+https://x.com/tarunchitra/status/2125620171008250168
 
-RT @zacharylipton: In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropi…
+## 2026-11-25 20:02 UTC · репост
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 415  
-https://x.com/tarunchitra/status/2125294133611004329
+RT @Lighter_xyz: The Lighter EVM devnet is now open to everyone! 
 
-## 2026-11-25 01:13 UTC · цитата
+Built with @axiom_xyz and powered by OpenVM, Lighter EVM lets developers…
 
-Wow, Cohn, Kleinberg, and Alon  were right... just two decades too early https://t.co/3k4YHr399B
+❤ 0 · 🔁 49 · 💬 0 · цитат 0 · просмотров 369  
+https://x.com/tarunchitra/status/2125681580555358500
 
-❤ 33 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3275  
-https://x.com/tarunchitra/status/2125397546868543525
+## 2026-11-25 22:03 UTC · цитата
 
-## 2026-11-25 02:42 UTC · репост
+If you read Red Plenty, you don’t need P = NP for this, you just need LP solving to be fast (which OpenAI proved yesterday; aka Smale’s 9th problem) https://t.co/dqtA8iPhht https://t.co/muivCbou4t
 
-RT @Intrinsic_HQ: Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for…
+❤ 32 · 🔁 3 · 💬 9 · цитат 1 · просмотров 2957  
+https://x.com/tarunchitra/status/2125711998037917992
 
-❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 357  
-https://x.com/tarunchitra/status/2125419723609264367
+## 2026-11-25 22:06 UTC · ответ
+
+“Fast” meaning unconditionally deterministic polytime
+
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 595  
+https://x.com/tarunchitra/status/2125712763884343326
+
+## 2026-11-26 02:44 UTC · цитата
+
+Pareto rankings are becoming homotopies on spheres
+
+Looking forward to the Frontier Spectral Sequence https://t.co/xxvFmVbMmK
+
+❤ 13 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1653  
+https://x.com/tarunchitra/status/2125782619787079983

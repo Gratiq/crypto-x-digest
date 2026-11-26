@@ -1,51 +1,74 @@
-# @blknoiz06 — посты за 2026-11-25
+# @blknoiz06 — посты за 2026-11-26
 
-Всего: 6
+Всего: 9
 
-## 2026-11-24 10:59 UTC · пост
+## 2026-11-25 14:10 UTC · репост
 
-pump wallet is hacked, trying to figure out how, believe its unauthorized access to my bullpen profile somehow which had the sol priv key imported
+RT @plur_daddy: The implication of this is to distrust any V shaped bounces and avoid chasing. There will be many dangerous fakeouts along…
 
-❤ 6888 · 🔁 587 · 💬 5707 · цитат 1824 · просмотров 1914327  
-https://x.com/blknoiz06/status/2125182437063790806
+❤ 0 · 🔁 45 · 💬 0 · цитат 0 · просмотров 37223  
+https://x.com/blknoiz06/status/2125592847210483973
 
-## 2026-11-24 11:21 UTC · ответ
+## 2026-11-25 14:10 UTC · репост
 
-@Moasthigh i dont think they have access to any of the evm wallets, only the solana one, which is why i said i think its the bullpen profile thats the only place the sol priv key was imported
+RT @goodalexander: interesting disconnect where OpenAI people posting like they've met God but public markets noting God isn't going to pay…
 
-❤ 460 · 🔁 26 · 💬 202 · цитат 13 · просмотров 64567  
-https://x.com/blknoiz06/status/2125188048296296585
+❤ 0 · 🔁 67 · 💬 0 · цитат 0 · просмотров 36259  
+https://x.com/blknoiz06/status/2125592935701885378
 
-## 2026-11-24 13:41 UTC · ответ
+## 2026-11-25 14:10 UTC · репост
 
-i dont know what the attack vector was, if it was through bullpen then would make sense they have access to other wallets on that account as well, i dont think they have access to the evm pump wallets because those positions are still open and nothing has been moved there
+RT @DeItaone: FED RATE HIKE ODDS HIT 93% AS CORE INFLATION ACCELERATES
 
-it is not me, would appreciate you not spreading misinformation currently doing security audit
+U.S. core PCE inflation rose to 3.3% in October, up from 3.1% in Se…
 
-❤ 397 · 🔁 59 · 💬 182 · цитат 33 · просмотров 63057  
-https://x.com/blknoiz06/status/2125223352776208422
+❤ 0 · 🔁 161 · 💬 0 · цитат 0 · просмотров 33634  
+https://x.com/blknoiz06/status/2125593012159795681
 
-## 2026-11-24 13:46 UTC · ответ
+## 2026-11-25 14:10 UTC · репост
 
-@NewsyJohnson dont think its pumpfun or the other evm wallets would also be drained, its only the solana wallet
+RT @DeItaone: U.S. CONSUMER SPENDING MISSES FORECASTS AS INCOME SURGES
 
-❤ 97 · 🔁 15 · 💬 71 · цитат 2 · просмотров 26339  
-https://x.com/blknoiz06/status/2125224433141059663
+U.S. October economic data showed stronger income growth but weaker…
 
-## 2026-11-25 03:53 UTC · пост
+❤ 0 · 🔁 95 · 💬 0 · цитат 0 · просмотров 34473  
+https://x.com/blknoiz06/status/2125593034293228031
 
-been on the phone w/ legal, devs &amp; coordinating with law enforcement all day
+## 2026-11-25 14:11 UTC · репост
 
-attempted to get funds frozen while still in usdc but needed court order to do so
+RT @byHeatherLong: JUST IN: Another hot inflation reading for October. PCE Inflation rose to 3.8% y/y, the highest since May.
 
-i cannot confidently say funds on @BullpenFi are safe, so until i can confidently say so would withdraw your funds
+Core PCE inf…
 
-❤ 1748 · 🔁 163 · 💬 53 · цитат 190 · просмотров 223865  
-https://x.com/blknoiz06/status/2125437574965539054
+❤ 0 · 🔁 387 · 💬 0 · цитат 0 · просмотров 39943  
+https://x.com/blknoiz06/status/2125593103759495247
 
-## 2026-11-25 04:17 UTC · цитата
+## 2026-11-25 16:12 UTC · репост
 
-next year is gonna be weird man https://t.co/czphv4WrQq
+RT @avotoast: Highly unlikely anything changes in the market through year end; hence not much to do but remain in cash mostly
 
-❤ 646 · 🔁 20 · 💬 13 · цитат 24 · просмотров 86546  
-https://x.com/blknoiz06/status/2125443821437882440
+Funds have l…
+
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 22107  
+https://x.com/blknoiz06/status/2125623602699505982
+
+## 2026-11-25 17:03 UTC · репост
+
+RT @ceterispar1bus: we're not there yet, but we're getting there. we are getting more protocols that have real businesses in diverse sector…
+
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 37997  
+https://x.com/blknoiz06/status/2125636611949920763
+
+## 2026-11-25 17:07 UTC · репост
+
+RT @ZeMariaMacedo: I've been in crypto since '17 and sentiment rn seems about as bottomed as I've ever seen it. In any other cycle this is…
+
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 38651  
+https://x.com/blknoiz06/status/2125637630427533817
+
+## 2026-11-25 18:16 UTC · репост
+
+RT @ChrisCamillo: Everyone wants the kind of wealth that takes decades to build. Few are prepared for what those decades actually feel like…
+
+❤ 0 · 🔁 233 · 💬 0 · цитат 0 · просмотров 38169  
+https://x.com/blknoiz06/status/2125654899283181804

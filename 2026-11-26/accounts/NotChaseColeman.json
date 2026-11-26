@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2125769880951476287",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-26T01:53:29.000Z",
+  "text": "@LumenAirey @Jamieminer Sup",
+  "url": "https://x.com/NotChaseColeman/status/2125769880951476287",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 46,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125761965155049656",
+   "text": "@Jamieminer It wasn't Not Tiger Global it was Tiger @NotChaseColeman\nJoshua Goltry (who operates on X under the display name Tiger and the handle @NotChaseColeman"
+  }
+ },
+ {
+  "id": "2125770649969008914",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "reply",
+  "created_at": "2026-11-26T01:56:32.000Z",
+  "text": "@0xTheo__ Well said. Imagine if we brought new launch tech onchain. https://t.co/SmICcEFe6m",
+  "url": "https://x.com/NotChaseColeman/status/2125770649969008914",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 282,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125761079800373339",
+   "text": "The intention behind this update is really good, but I believe it misses the fundamental issue. The real challenge is not block0, but the massive volume of daily deployments.\n\nMarket liquidity has declined since August, while daily token deployments have remained relatively https://t.co/Hogy6Usjga https://t.co/sl9pGMsQiN"
+  }
+ },
+ {
+  "id": "2125839489683906766",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-26T06:30:05.000Z",
+  "text": "@18decimals Always was https://t.co/O5f1yc9lj0",
+  "url": "https://x.com/NotChaseColeman/status/2125839489683906766",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 57,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "1894468024440087012",
+   "text": "I think many of your assumptions on supply control are flawed. If your objective to control supply is to extract, then it’s a negative. If your objective to control supply is to keep supply in the right hands (quite literally the only thing you need for a successful project) and"
+  }
+ },
+ {
+  "id": "2125853099311202447",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-26T07:24:09.000Z",
+  "text": "Need more guys like this around again https://t.co/6K5HcZjsxq",
+  "url": "https://x.com/NotChaseColeman/status/2125853099311202447",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 402,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125745680090054814",
+   "text": "A short story. Now that my wallet is tracked, I will be patient and wait for the right time to attack. For transparency, FOMO gave me 1bps either way as fees (Instead of 5bps). Over and above hype fees (also in a decent tier on hype, which gives me much better fees). So"
+  }
+ }
+]

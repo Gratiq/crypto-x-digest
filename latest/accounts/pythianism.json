@@ -1,17 +1,42 @@
 [
  {
-  "id": "2125265760188780766",
+  "id": "2125625518724903024",
   "username": "pythianism",
   "username_canon": "pythianism",
-  "type": "original",
-  "created_at": "2026-11-24T16:30:17.000Z",
-  "text": "I guess if you are long ANT you are short Jensen\n\nWhich is basically like being short Gandalf",
-  "url": "https://x.com/pythianism/status/2125265760188780766",
-  "likes": 150,
-  "retweets": 4,
-  "replies": 17,
-  "quotes": 1,
-  "impressions": 7425,
-  "bookmarks": 5
+  "type": "retweet",
+  "created_at": "2026-11-25T16:19:50.000Z",
+  "text": "RT @0xG00gly: Interesting. https://t.co/to4hOrw6by",
+  "url": "https://x.com/pythianism/status/2125625518724903024",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 842,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125512062893715754",
+   "text": "Interesting. https://t.co/to4hOrw6by"
+  }
+ },
+ {
+  "id": "2125682792935592371",
+  "username": "pythianism",
+  "username_canon": "pythianism",
+  "type": "retweet",
+  "created_at": "2026-11-25T20:07:25.000Z",
+  "text": "RT @US_Stormwatch: Oh my god, part of the Pacifica Pier just collapsed. https://t.co/dSsvW7dXpP",
+  "url": "https://x.com/pythianism/status/2125682792935592371",
+  "likes": 0,
+  "retweets": 2450,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 853,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125668143234437166",
+   "text": "Oh my god, part of the Pacifica Pier just collapsed. https://t.co/dSsvW7dXpP"
+  }
  }
 ]

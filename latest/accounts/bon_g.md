@@ -1,49 +1,66 @@
-# @bon_g — посты за 2026-11-25
+# @bon_g — посты за 2026-11-26
 
-Всего: 6
+Всего: 9
 
-## 2026-11-24 09:35 UTC · пост
+## 2026-11-25 11:27 UTC · пост
 
-ansem’s gf decided to nuke his entire wallet while he was asleep bc he wouldn’t buy her the birkins she wanted
+“There’s our little crypto investor. Why don’t you come downstairs and tell everyone how strong those animal coins you trade with retarded people on the internet are” https://t.co/o0DFVD8CQR
 
-❤ 145 · 🔁 0 · 💬 26 · цитат 0 · просмотров 3902  
-https://x.com/bon_g/status/2125161446455832637
+❤ 74 · 🔁 6 · 💬 26 · цитат 1 · просмотров 1994  
+https://x.com/bon_g/status/2125551992302874797
 
-## 2026-11-24 09:59 UTC · ответ
+## 2026-11-25 11:45 UTC · ответ
 
-@MavenHL expensive gf
+@BluntCap ?
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 178  
-https://x.com/bon_g/status/2125167440279564742
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 109  
+https://x.com/bon_g/status/2125556576824303874
 
-## 2026-11-24 10:23 UTC · ответ
+## 2026-11-25 16:21 UTC · ответ
 
-@isitnuel the black female spy
+@Cryptoshi_Calls “mr investor”
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 126  
-https://x.com/bon_g/status/2125173452986577062
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 64  
+https://x.com/bon_g/status/2125625936985079931
 
-## 2026-11-24 14:47 UTC · пост
+## 2026-11-25 16:29 UTC · ответ
 
-Arsenal are in incredible form 
+@bigchog most of ct decided to become irl content creators bc there’s no kaito anymore
 
-They’re gonna beat Dortmund comfortably at home today https://t.co/nHsSiXSsFB
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 74  
+https://x.com/bon_g/status/2125627863168622969
 
-❤ 82 · 🔁 16 · 💬 44 · цитат 0 · просмотров 3547  
-https://x.com/bon_g/status/2125239921799483585
+## 2026-11-25 19:32 UTC · пост
 
-## 2026-11-24 18:06 UTC · ответ
+if your entire memecoin trading strategy is copytrading someone, you’re gonna lose all your money
 
-@binance combine the three guys on the left and you get @chameleon_jeff 
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 491  
+https://x.com/bon_g/status/2125673993646616739
 
-insane
+## 2026-11-25 19:33 UTC · пост
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 217  
-https://x.com/bon_g/status/2125290066276761708
+if your memecoin trading strategy is copytrading someone, you’re gonna lose all your money
 
-## 2026-11-24 18:22 UTC · ответ
+❤ 87 · 🔁 4 · 💬 40 · цитат 0 · просмотров 1946  
+https://x.com/bon_g/status/2125674212195017054
 
-@Stunergold https://t.co/bdmYSX1u2p
+## 2026-11-25 20:27 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 61  
-https://x.com/bon_g/status/2125293898398368033
+@Ball_bots 🤣🤣
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 109  
+https://x.com/bon_g/status/2125687848724516982
+
+## 2026-11-25 20:46 UTC · ответ
+
+@pnutsolana @ponsdotfamily @MigrateFun bro tf is this
+
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 442  
+https://x.com/bon_g/status/2125692592377798876
+
+## 2026-11-25 23:18 UTC · ответ
+
+@numanuk lil uzi cat confirmed
+
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 141  
+https://x.com/bon_g/status/2125730957315510678

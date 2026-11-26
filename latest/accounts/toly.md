@@ -1,628 +1,504 @@
-# @toly — посты за 2026-11-25
+# @toly — посты за 2026-11-26
 
-Всего: 81
+Всего: 66
 
-## 2026-11-24 13:32 UTC · цитата
+## 2026-11-25 13:27 UTC · цитата
 
-👑👑👑 https://t.co/HkjIvJoX6x
+🎄🎄🎄 https://t.co/dDr4oU7rve
 
-❤ 98 · 🔁 7 · 💬 0 · цитат 0 · просмотров 21869  
-https://x.com/toly/status/2125221080969396411
+❤ 142 · 🔁 9 · 💬 31 · цитат 0 · просмотров 22826  
+https://x.com/toly/status/2125582053844619442
 
-## 2026-11-24 13:54 UTC · цитата
+## 2026-11-25 13:33 UTC · цитата
 
-👑👑👑 https://t.co/2r0pGFyiLN
+&gt; He reluctantly merged it
 
-❤ 47 · 🔁 2 · 💬 0 · цитат 0 · просмотров 6941  
-https://x.com/toly/status/2125226640687132905
+Hahaha.  He is just like us https://t.co/IMgHCQbvWx
 
-## 2026-11-24 13:55 UTC · цитата
+❤ 215 · 🔁 8 · 💬 33 · цитат 1 · просмотров 45177  
+https://x.com/toly/status/2125583579870880222
 
-🐜🐜🐜 https://t.co/MfLQpWL1Zo
+## 2026-11-25 13:38 UTC · репост
 
-❤ 40 · 🔁 1 · 💬 0 · цитат 1 · просмотров 20841  
-https://x.com/toly/status/2125226807561793850
+RT @FWDind: +$69M in tokenized US Treasury bill market cap on @solana over seven days. #1 across all blockchains, per Token Terminal.
 
-## 2026-11-24 14:09 UTC · репост
+This…
 
-RT @ArthurB: Really cool result; congrats to the authors. Here's what  you'll read on CT it does do, but doesn't actually do:
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 13921  
+https://x.com/toly/status/2125584842566012968
 
-1) Enable tr…
+## 2026-11-25 14:39 UTC · ответ
 
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 13683  
-https://x.com/toly/status/2125230384086708679
+@ArthurB In that all universes that build a quantum computer crash and are restarted the plank second before the crash
 
-## 2026-11-24 14:16 UTC · пост
+❤ 36 · 🔁 0 · 💬 4 · цитат 0 · просмотров 7164  
+https://x.com/toly/status/2125600265957154977
 
-Claude + mcp @HarmonicMath Aristotle seems like could actually on its own finish proving the apex smart contract, aka a perps exchange.  Tell to verify everything it can with Kani and the remaining surface area with Aristotle. 
+## 2026-11-25 14:45 UTC · цитата
 
-🍿🍿🍿
+Growthflation?  Fed can’t cut rates because growth is causing inflation https://t.co/u7bX3xBn1L
 
-❤ 62 · 🔁 3 · 💬 3 · цитат 3 · просмотров 27246  
-https://x.com/toly/status/2125231977586638971
+❤ 100 · 🔁 5 · 💬 25 · цитат 0 · просмотров 27808  
+https://x.com/toly/status/2125601728443850759
 
-## 2026-11-24 14:22 UTC · цитата
+## 2026-11-25 15:37 UTC · пост
 
-I wasn’t there so I can’t speak to what happened but 2019 was an awesome time.  The market was in the dumps but everyone that was still in crypto was an idealist.  Anyone that could would help out anyone and everyone. 
+Holy anti-gravity one-shot 🤯🤯🤯
 
-Everything was open, cosmos, ethereum even bnb core devs https://t.co/lJCqPC4KoF
+https://t.co/ZVGAbJOjpg https://t.co/Oab8JFzk1x
 
-❤ 267 · 🔁 10 · 💬 7 · цитат 6 · просмотров 42890  
-https://x.com/toly/status/2125233560491897136
+❤ 589 · 🔁 33 · 💬 83 · цитат 24 · просмотров 91375  
+https://x.com/toly/status/2125614885631627364
 
-## 2026-11-24 14:24 UTC · репост
+## 2026-11-25 15:42 UTC · ответ
 
-RT @qkniep: If you are fired as the CEO of a $1B company, that’s your problem. If you are fired as the CEO of a $4T company, that’s the US…
+@mert @HeliusPrivacy Maybe rebuild in lean
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 13599  
-https://x.com/toly/status/2125234123472355553
+❤ 48 · 🔁 1 · 💬 9 · цитат 0 · просмотров 7761  
+https://x.com/toly/status/2125616164630155420
 
-## 2026-11-24 14:27 UTC · цитата
+## 2026-11-25 15:44 UTC · ответ
 
-🫳👑 https://t.co/fY7VUZHjzS
+@newmichwill Ext4 is woke
 
-❤ 20 · 🔁 0 · 💬 0 · цитат 1 · просмотров 24072  
-https://x.com/toly/status/2125234828773871750
+❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2144  
+https://x.com/toly/status/2125616641644155116
 
-## 2026-11-24 14:32 UTC · ответ
+## 2026-11-25 15:56 UTC · цитата
 
-@Breno_wave That’s trivial to verify in a completely useless product to the user.  The hard part is identifying all the liveness and safety user guarantees and proving them along side the vault.
+Pearl is money https://t.co/Oa1WnH7Uhi
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2092  
-https://x.com/toly/status/2125236104878227557
+❤ 300 · 🔁 33 · 💬 51 · цитат 14 · просмотров 63650  
+https://x.com/toly/status/2125619635542438139
 
-## 2026-11-24 14:41 UTC · репост
+## 2026-11-25 16:09 UTC · пост
 
-RT @LorenzoARK: The best thing you can do for your token holders is not die.
+No program with at most five stored instructions decides DIMACS SAT in N^(1.5−ε).
 
-If your protocol holds meaningful TVL, route a slice of fees…
+With one data register and restricted stores, any code size needs about N²/log²N.
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 13395  
-https://x.com/toly/status/2125238308766887941
+I am gonna earn that b- in cs370 @socrates1024 
 
-## 2026-11-24 14:42 UTC · репост
+https://t.co/vMqn4xx73j
 
-RT @GroundhogStrat: AI companies talking about upcoming inventions 
+❤ 104 · 🔁 10 · 💬 28 · цитат 6 · просмотров 37683  
+https://x.com/toly/status/2125622967971586556
 
-Credit: @unbuns https://t.co/AcfZz4yyWD
+## 2026-11-25 16:12 UTC · ответ
 
-❤ 0 · 🔁 171 · 💬 0 · цитат 0 · просмотров 12548  
-https://x.com/toly/status/2125238759440650523
+@mdudas “money” is a meme.  Anyone can meme anything. It’s not an engineering question.  
 
-## 2026-11-24 14:43 UTC · цитата
+Regardless of the meme the solana roadmap doesn’t change.  It’s IBRL, mcp, etc…
 
-🫳🍾 https://t.co/pveXkEgMXJ
+❤ 218 · 🔁 25 · 💬 72 · цитат 48 · просмотров 24420  
+https://x.com/toly/status/2125623573486374934
 
-❤ 37 · 🔁 2 · 💬 12 · цитат 0 · просмотров 18985  
-https://x.com/toly/status/2125238867980919149
+## 2026-11-25 16:14 UTC · ответ
 
-## 2026-11-24 14:44 UTC · репост
+@0xPlish @socrates1024 No. Just whatever subscription I have credits in.
 
-RT @timahhl: Wow we're beating NBBO
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2183  
+https://x.com/toly/status/2125624061015589223
 
-Routed through Titan on Solana
+## 2026-11-25 16:25 UTC · цитата
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 13429  
-https://x.com/toly/status/2125239226476450210
+Can I get my b- upgrades to a b if this holds @socrates1024 ?
 
-## 2026-11-24 14:47 UTC · цитата
+If Theorem 2.2 of OpenAI's unreviewed ω = 9/4 preprint holds, Boolean circuits for SAT need Ω(n·(log n)^σ) gates at infinitely many lengths. The best proven bound for any explicit function is about 3n.
 
-Every bip is a moral failure https://t.co/mhV4c9F90U
+Reduction: https://t.co/2GkfCWcXJW
 
-❤ 54 · 🔁 3 · 💬 24 · цитат 1 · просмотров 26988  
-https://x.com/toly/status/2125239875146514647
+❤ 63 · 🔁 3 · 💬 22 · цитат 0 · просмотров 26372  
+https://x.com/toly/status/2125626836344520991
 
-## 2026-11-24 14:50 UTC · цитата
+## 2026-11-25 16:30 UTC · ответ
 
-&gt; What will happen tomorrow? Nobody knows.
+Plot twist, Andrew pulls my transcript and finds out it was a c-
 
-Incredible.  This a senator 🤌🤌🤌 https://t.co/N6tSnbqzNv
+❤ 17 · 🔁 1 · 💬 5 · цитат 0 · просмотров 3250  
+https://x.com/toly/status/2125628150260580448
 
-❤ 135 · 🔁 10 · 💬 36 · цитат 2 · просмотров 39812  
-https://x.com/toly/status/2125240575544930590
+## 2026-11-25 16:33 UTC · ответ
 
-## 2026-11-24 14:52 UTC · репост
+@sumptuosol @mdudas Don’t make the Eng founder meme a chain as money. It’s a marathon, I need to wake up every day and try to make it better somehow.
 
-RT @Frame_tailor_: Mission «BP London26» complete. 
+❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2643  
+https://x.com/toly/status/2125628920863277449
 
-@toly @vibhu @platis_e @solana https://t.co/dV8I1JvLOb
+## 2026-11-25 16:37 UTC · ответ
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 13610  
-https://x.com/toly/status/2125241199384821957
+@garious14 That won’t run on SVM though
 
-## 2026-11-24 14:56 UTC · репост
+❤ 2 · 🔁 0 · 💬 4 · цитат 0 · просмотров 3793  
+https://x.com/toly/status/2125629849239003244
 
-RT @overfedduck: Whoever is behind this account, can you please be my personal coach?
+## 2026-11-25 16:59 UTC · ответ
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 13647  
-https://x.com/toly/status/2125242031379513586
+@TheWattenhofer @socrates1024 I am trying to prove inequality.
 
-## 2026-11-24 15:02 UTC · ответ
+❤ 5 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2057  
+https://x.com/toly/status/2125635541995856181
 
-Akshually,
+## 2026-11-25 17:07 UTC · ответ
 
-Anything we sell to China at a profit accelerates our own development.  US accelerating is more important than slowing down China.  They will catch up anyways, that’s not the question. The real issue is China catches up can USA keep up?   The larger tam ai achieves in USA the more we can maintain parity just through the private sector.
+@mert @HeliusPrivacy That’s a @qkniep question.
 
-❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2352  
-https://x.com/toly/status/2125243726004125903
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3488  
+https://x.com/toly/status/2125637475376967686
 
-## 2026-11-24 15:40 UTC · цитата
+## 2026-11-25 17:14 UTC · ответ
 
-The quantum is off the charts. https://t.co/X0jcGp03o7
+@Dola_porr @socrates1024 You are right to push back on this
 
-❤ 54 · 🔁 4 · 💬 11 · цитат 3 · просмотров 22940  
-https://x.com/toly/status/2125253174240145462
+❤ 16 · 🔁 2 · 💬 1 · цитат 1 · просмотров 2428  
+https://x.com/toly/status/2125639153887129850
 
-## 2026-11-24 15:45 UTC · цитата
+## 2026-11-25 17:14 UTC · ответ
 
-👑👑👑 https://t.co/mN8tr50yar
+@TheWattenhofer @socrates1024 No, same school though.
 
-❤ 118 · 🔁 7 · 💬 18 · цитат 0 · просмотров 9041  
-https://x.com/toly/status/2125254446099959835
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3189  
+https://x.com/toly/status/2125639237978743179
 
-## 2026-11-24 15:56 UTC · цитата
+## 2026-11-25 17:14 UTC · ответ
 
-👑👑👑 https://t.co/yzgz2Roaxp
+@TheWattenhofer @socrates1024 In my time they did a good job weeding out everyone who shouldn’t get a phd.
 
-❤ 67 · 🔁 4 · 💬 22 · цитат 1 · просмотров 19137  
-https://x.com/toly/status/2125257346876375076
+❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3094  
+https://x.com/toly/status/2125639390135529700
 
-## 2026-11-24 16:23 UTC · цитата
+## 2026-11-25 17:27 UTC · ответ
 
-👑👑👑 https://t.co/hQYMa1GBDD
+@rajgokal https://t.co/bJFKZuJCLT
 
-❤ 24 · 🔁 0 · 💬 12 · цитат 1 · просмотров 7838  
-https://x.com/toly/status/2125264045926400212
+❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3481  
+https://x.com/toly/status/2125642518733930499
 
-## 2026-11-24 16:25 UTC · цитата
+## 2026-11-25 17:28 UTC · пост
 
-👑👑👑 https://t.co/vxBTNPGEVa
+The age of the undergrad is upon us https://t.co/ewiIPwINEd
 
-❤ 34 · 🔁 1 · 💬 7 · цитат 0 · просмотров 6973  
-https://x.com/toly/status/2125264513452884313
+❤ 126 · 🔁 9 · 💬 43 · цитат 2 · просмотров 25006  
+https://x.com/toly/status/2125642790117982258
 
-## 2026-11-24 16:34 UTC · цитата
+## 2026-11-25 17:50 UTC · ответ
 
-💀💀💀 https://t.co/CCDvj65UKy
+@Dola_porr @socrates1024 Asking the 🦞
 
-❤ 28 · 🔁 0 · 💬 13 · цитат 0 · просмотров 24280  
-https://x.com/toly/status/2125266857510977806
+❤ 8 · 🔁 0 · 💬 1 · цитат 1 · просмотров 4094  
+https://x.com/toly/status/2125648334065192985
 
-## 2026-11-24 17:00 UTC · ответ
+## 2026-11-25 17:51 UTC · ответ
 
-Nvidia prices their sales to maximize shareholder profits already.  It’s their private property, they can do whatever they want with it.  
+@Dola_porr @socrates1024 What I thought would work as a dumb undergrad is enumerate some small ram machine and show that it blows up for at least 1 sat instance.  Then show that all n+1 machines have the same limit
 
-I simply gave you a counter argument.  The risk with China isn’t that they won’t catch up.  That’s silly, it’s a massive country with incredibly smart people and operators. It’s that we won’t be able to keep up once they do.  We need to get to breakout rsi first.
+❤ 8 · 🔁 0 · 💬 4 · цитат 0 · просмотров 4204  
+https://x.com/toly/status/2125648644187845071
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1668  
-https://x.com/toly/status/2125273327149387957
+## 2026-11-25 17:59 UTC · ответ
 
-## 2026-11-24 17:09 UTC · репост
+@zelimir__ @garious14 would rightly argue that we should compile lean on the validator to its highest tps local machine code.
 
-RT @ArthurB: a proof-of-concept... Unfortunately, I won't be burning the tokens for the mext 1000 hours of the lecture. https://t.co/UNXyR8…
+❤ 10 · 🔁 0 · 💬 0 · цитат 1 · просмотров 2930  
+https://x.com/toly/status/2125650628110401643
 
-❤ 0 · 🔁 20 · 💬 0 · цитат 0 · просмотров 12757  
-https://x.com/toly/status/2125275618262872567
+## 2026-11-25 18:05 UTC · репост
 
-## 2026-11-24 17:44 UTC · цитата
+RT @solana_devs: Introducing Solana Playground
 
-@spleenlessdemas This was your original point.  There is a consistent counter position:
+Learn, build, and deploy Solana programs in your browser, with an AI agent that explains th…
 
-Free trade and the resulting max growth is what will maximize our chances in the AI race with China. https://t.co/dUlGlAbBcS
+❤ 0 · 🔁 36 · 💬 0 · цитат 0 · просмотров 12883  
+https://x.com/toly/status/2125652187183530286
 
-❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1751  
-https://x.com/toly/status/2125284324622959012
+## 2026-11-25 18:16 UTC · цитата
 
-## 2026-11-24 17:56 UTC · цитата
+🤯🤯🤯 https://t.co/IqG9Y4Oyun
 
-The ants go marching two by two https://t.co/pXySKTqv07
+❤ 41 · 🔁 0 · 💬 8 · цитат 1 · просмотров 23360  
+https://x.com/toly/status/2125654827149767069
 
-❤ 52 · 🔁 4 · 💬 18 · цитат 0 · просмотров 22678  
-https://x.com/toly/status/2125287458602618979
+## 2026-11-25 18:16 UTC · ответ
 
-## 2026-11-24 17:59 UTC · репост
+@fd_ripatel @collodelcarlo @NearBeteigeuze Can you prove equivalence
 
-RT @overfedduck: I’m working on PnL for @leapxyz and want to know how you track yours today. 
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3327  
+https://x.com/toly/status/2125654954157453326
 
-Do rely on the number the app you use shows…
+## 2026-11-25 18:39 UTC · цитата
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 13119  
-https://x.com/toly/status/2125288300495937976
+💁‍♂️🦋 https://t.co/iAX5gBVgKB
 
-## 2026-11-24 18:07 UTC · ответ
+❤ 136 · 🔁 16 · 💬 22 · цитат 4 · просмотров 25063  
+https://x.com/toly/status/2125660674408018331
 
-It’s not a circular argument.  It’s the default simple argument that’s largely supported historically.  
+## 2026-11-25 18:46 UTC · ответ
 
-Free trade => higher growth => USA benefits.  
+@garious14 Proves that it’s number go up technology
 
-The burden of proof is on the counter to this.  The loss in profits to Nvidia and loss of competition from Chinese open source models makes USA markets less competitive and slower growth.
+❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1935  
+https://x.com/toly/status/2125662464545325083
 
-You need to justify that the embargo can slow down China more than it does USA.
+## 2026-11-25 21:06 UTC · репост
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1717  
-https://x.com/toly/status/2125290149907161470
+RT @bitbanter: Update: they found it https://t.co/8rDMOyywMj
 
-## 2026-11-24 18:22 UTC · ответ
+❤ 0 · 🔁 188 · 💬 0 · цитат 0 · просмотров 11743  
+https://x.com/toly/status/2125697681930809785
 
-@spleenlessdemas I honestly dont know.  It’s not clear that it’s true because Nvidia had to take on 100b+ in effective debt from its own customers. 
+## 2026-11-25 21:06 UTC · ответ
 
-Maybe true in the short term.  But a 25% revenue drop could cascade across the whole industry. https://t.co/LsiX8TImxl
+@bitbanter Fields medal
 
-❤ 1 · 🔁 1 · 💬 2 · цитат 0 · просмотров 1726  
-https://x.com/toly/status/2125293893814284423
+❤ 66 · 🔁 2 · 💬 6 · цитат 0 · просмотров 6679  
+https://x.com/toly/status/2125697725857722773
 
-## 2026-11-24 18:30 UTC · ответ
+## 2026-11-25 21:07 UTC · цитата
 
-@spleenlessdemas Trade partners could be china proxy 🤷‍♂️. The Malaysian data center that is leasing gpus to a frontier firm that will open source its weights is effectively training weights to be freely available to China
+PDAs are money https://t.co/7ZA45Ini8H
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1634  
-https://x.com/toly/status/2125295942190711234
+❤ 66 · 🔁 4 · 💬 23 · цитат 1 · просмотров 20145  
+https://x.com/toly/status/2125697929449234825
 
-## 2026-11-24 18:39 UTC · ответ
+## 2026-11-25 21:27 UTC · пост
 
-@spleenlessdemas &gt; make it as difficult as possible for China to overtake us in the AI race, should we not?
+If P = NP then communism works in theory
 
-It’s not clear that the embargo strategy is optimal.
+❤ 385 · 🔁 34 · 💬 81 · цитат 17 · просмотров 52857  
+https://x.com/toly/status/2125702834813538594
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1668  
-https://x.com/toly/status/2125298377109999706
+## 2026-11-25 22:19 UTC · пост
 
-## 2026-11-24 19:14 UTC · цитата
+Rust walked so lean could run
 
-F150 &gt; F15 https://t.co/FyV7kt3OOn
+❤ 349 · 🔁 15 · 💬 70 · цитат 5 · просмотров 45335  
+https://x.com/toly/status/2125716053582078123
 
-❤ 72 · 🔁 2 · 💬 30 · цитат 2 · просмотров 30959  
-https://x.com/toly/status/2125307084023669149
+## 2026-11-25 22:55 UTC · цитата
 
-## 2026-11-24 19:15 UTC · репост
+👑👑👑 https://t.co/vKNCS4Nxwz
 
-RT @defipro: Post Breakpoint Thoughts: 
+❤ 46 · 🔁 4 · 💬 14 · цитат 0 · просмотров 17740  
+https://x.com/toly/status/2125725015098437732
 
-1. Competition and conflict.
+## 2026-11-25 22:55 UTC · ответ
 
-I think @solana could use a little more mature disagreement. I know…
+@redacted_noah lean-svm
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 12926  
-https://x.com/toly/status/2125307399464685940
+❤ 8 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2435  
+https://x.com/toly/status/2125725111642894496
 
-## 2026-11-24 19:21 UTC · ответ
+## 2026-11-25 23:24 UTC · ответ
 
-@defipro @CloakdDev @solana You should be getting 10 sol minus $1000 lent for (time for human decision) at the (fed rate + 100 bips)
+@redacted_noah Proofs https://t.co/PDhqlWZ9dY
 
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2048  
-https://x.com/toly/status/2125308931182674198
+❤ 12 · 🔁 0 · 💬 3 · цитат 4 · просмотров 2021  
+https://x.com/toly/status/2125732395127365704
 
-## 2026-11-24 19:22 UTC · ответ
+## 2026-11-25 23:25 UTC · цитата
 
-@TheDudeofDeFi I am no closer to proving that 3sat is at least super linear then I was 25 years ago.
+👑👑👑 https://t.co/PvfaaxcRfO
 
-❤ 6 · 🔁 2 · 💬 2 · цитат 2 · просмотров 11891  
-https://x.com/toly/status/2125309215774474467
+❤ 28 · 🔁 0 · 💬 9 · цитат 0 · просмотров 6877  
+https://x.com/toly/status/2125732548814987476
 
-## 2026-11-24 19:26 UTC · цитата
+## 2026-11-25 23:44 UTC · цитата
 
-The gap between me + ai and @__alpoge__ + ai is the same as the gap between me and @__alpoge__ 😭😭😭 https://t.co/NMeubRFhQf
+👑👑👑 https://t.co/qJWPGgOvyb
 
-❤ 33 · 🔁 0 · 💬 16 · цитат 0 · просмотров 22548  
-https://x.com/toly/status/2125310069479018506
+❤ 71 · 🔁 7 · 💬 17 · цитат 3 · просмотров 9862  
+https://x.com/toly/status/2125737358578618812
 
-## 2026-11-24 19:29 UTC · ответ
+## 2026-11-25 23:56 UTC · пост
 
-@RealPengo That’s a fifth generation truck
+BREAKING: BUG BOUNTY
 
-❤ 2 · 🔁 1 · 💬 3 · цитат 0 · просмотров 1625  
-https://x.com/toly/status/2125310848302489719
+69 rapidly strengthening pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible 
 
-## 2026-11-24 19:29 UTC · цитата
+https://t.co/dQa9JbDUUM
 
-👑👑👑 https://t.co/jYqikZ7bDE
+❤ 229 · 🔁 20 · 💬 62 · цитат 20 · просмотров 43500  
+https://x.com/toly/status/2125740430545617199
 
-❤ 26 · 🔁 0 · 💬 6 · цитат 1 · просмотров 16242  
-https://x.com/toly/status/2125310943144083610
+## 2026-11-26 00:47 UTC · пост
 
-## 2026-11-24 19:30 UTC · репост
+svm-lean reduced the percolator ix CUs by 10x compared to the vibe coded rust version 🤯🤯🤯
 
-RT @SolanaLegend: Pre-stocks finally have a clean redemption path
+❤ 116 · 🔁 3 · 💬 32 · цитат 2 · просмотров 27329  
+https://x.com/toly/status/2125753178054598974
 
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 12530  
-https://x.com/toly/status/2125311031631376508
+## 2026-11-26 00:48 UTC · репост
 
-## 2026-11-24 19:30 UTC · цитата
+RT @jacobvcreech: Direct Mapping is finally live.
 
-👑👑👑 https://t.co/64V9mWpaGH
+This massive feature improves performance, enables us to make some function cheaper, and…
 
-❤ 14 · 🔁 1 · 💬 5 · цитат 0 · просмотров 1908  
-https://x.com/toly/status/2125311136182722704
+❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 10041  
+https://x.com/toly/status/2125753651205714221
 
-## 2026-11-24 20:06 UTC · ответ
+## 2026-11-26 00:49 UTC · ответ
 
-Can’t prove it’s a super linear gap 🫳🎤
+@alessandrod @jacobvcreech Singularity took less time to ship then direct mapping
 
-❤ 5 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2494  
-https://x.com/toly/status/2125320263655125146
+❤ 6 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1495  
+https://x.com/toly/status/2125753757522886876
 
-## 2026-11-24 20:14 UTC · цитата
+## 2026-11-26 00:50 UTC · цитата
 
-This makes no sense
+3sat is not superlinear on a direct mapping memory model ram https://t.co/XmZw0zcD0f
 
-NYT spy leaks are speculation. No actual doj indictment, let alone presumption of innocence.  
+❤ 27 · 🔁 1 · 💬 13 · цитат 1 · просмотров 16105  
+https://x.com/toly/status/2125753904474509674
 
-Nvidia is important to gdp growth. 
+## 2026-11-26 00:52 UTC · ответ
 
-It costs nothing for an adversary to manufacture a NYT leak to disrupt USA gdp growth.  
+Yay, someone did it
 
-If the president told the board that https://t.co/PmleRW9Ix5
+● ⚠️  Alert — the 70 USDC prize just left the vault (vault=0, insurance=0) with OI still 0. That's either an exploit (bounty claimed) or something touched the pot. Investigating the vault's
+  transactions immediately.
+  
+  Ran 1 shell command 
+  
+● Two
 
-❤ 111 · 🔁 10 · 💬 28 · цитат 2 · просмотров 26832  
-https://x.com/toly/status/2125322230011982076
+❤ 28 · 🔁 4 · 💬 5 · цитат 4 · просмотров 5004  
+https://x.com/toly/status/2125754522555621531
 
-## 2026-11-24 20:18 UTC · репост
+## 2026-11-26 01:00 UTC · ответ
 
-RT @cafreiman: Although the competition is tough, this is one of the worst ideas he’s ever had.
+@Raydium Mistakes were made apparently
 
-❤ 0 · 🔁 24 · 💬 0 · цитат 0 · просмотров 12391  
-https://x.com/toly/status/2125323177324933446
+❤ 5 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2361  
+https://x.com/toly/status/2125756427721482474
 
-## 2026-11-24 20:25 UTC · ответ
+## 2026-11-26 01:23 UTC · репост
 
-@trentdotsol @__alpoge__ The joke is that there is no proof that 3sat is super linear even.  Therefore the gap between me and @__alpoge__ is not provably super linear. Sheesh man
+RT @alessandrod: when after YEARS of getting FUDded over direct mapping, the feature goes live and you teach the larps how to measure https…
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1768  
-https://x.com/toly/status/2125324936537579911
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 9676  
+https://x.com/toly/status/2125762426553684094
 
-## 2026-11-24 20:45 UTC · ответ
+## 2026-11-26 01:24 UTC · цитата
 
-@spleenlessdemas NYT makes it sus or I have Gel-Mann amnesia.  Everything they report that I have expertise in is riddled with biased errors.
+Kurzweil predicted this as one of the signs that the singularity is near. https://t.co/iE0FcSyR2b
 
-❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3622  
-https://x.com/toly/status/2125330045766132025
+❤ 27 · 🔁 0 · 💬 4 · цитат 0 · просмотров 16280  
+https://x.com/toly/status/2125762583311573273
 
-## 2026-11-24 20:47 UTC · цитата
+## 2026-11-26 01:26 UTC · цитата
 
-Is there a perpetual market on embarrassment? https://t.co/wWicxv2fnY
+🎄🎄🎄 https://t.co/W00qlISqLj
 
-❤ 139 · 🔁 2 · 💬 42 · цитат 2 · просмотров 32465  
-https://x.com/toly/status/2125330450990383494
+❤ 286 · 🔁 14 · 💬 79 · цитат 13 · просмотров 29853  
+https://x.com/toly/status/2125762978108891436
 
-## 2026-11-24 20:58 UTC · цитата
+## 2026-11-26 01:29 UTC · цитата
 
-@spleenlessdemas Oh snap https://t.co/WgmaBDV9PR
+They are deliberately being dumb.  You can’t eat capital. 
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3690  
-https://x.com/toly/status/2125333177887785433
+There is little consumer inequality in USA, as everyone has access to the same high quality food. https://t.co/ZkuqCl6tT4
 
-## 2026-11-24 21:03 UTC · ответ
+❤ 83 · 🔁 4 · 💬 27 · цитат 0 · просмотров 20663  
+https://x.com/toly/status/2125763748543746286
 
-@spleenlessdemas It’s easy to defend. It’s not a state owned enterprise.  They should pick ceo that maximizes shareholder value.  It’s deviation from this that needs to have the burden of proof.
+## 2026-11-26 01:29 UTC · репост
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 1 · просмотров 1668  
-https://x.com/toly/status/2125334593276727390
+RT @alessandrod: I’m going to be insufferable today, this is 9/11 for my opps.
 
-## 2026-11-24 21:30 UTC · репост
+Kinda poetic it falls a week after my 5th Solana anniversar…
 
-RT @Matty_Solana: @lagunacarta @toly was one of those asteroids for me when he told me this. https://t.co/xs5hY7eMbX
+❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 9872  
+https://x.com/toly/status/2125763896279814583
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 12008  
-https://x.com/toly/status/2125341215549964325
+## 2026-11-26 02:00 UTC · цитата
 
-## 2026-11-24 21:50 UTC · ответ
+BREAKING: BUG BOUNTY (round 2)
 
-@spleenlessdemas Sure, it’s up to the senate appointed doj what to prioritize. 
+69 gdp growth outpaceing inflation so fed wont lower rates pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible again https://t.co/6dX5RovqgC
 
-But even if they file something the board is completely justified to presume innocence and keep Jensen as the ceo if that what they think maximizes shareholder value.  
+❤ 81 · 🔁 8 · 💬 40 · цитат 4 · просмотров 20591  
+https://x.com/toly/status/2125771710050041999
 
-What if it’s a politically motivated bs
+## 2026-11-26 03:28 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 1 · просмотров 1652  
-https://x.com/toly/status/2125346239264993725
+🤯🤯🤯 https://t.co/k4sQn1zZci
 
-## 2026-11-24 22:05 UTC · ответ
+❤ 89 · 🔁 3 · 💬 0 · цитат 0 · просмотров 19635  
+https://x.com/toly/status/2125793721149186411
 
-@spleenlessdemas That’s up to them to figure out.  Mine or your opinion only matters up to our ownership stake of Nvidia.
+## 2026-11-26 03:29 UTC · цитата
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1579  
-https://x.com/toly/status/2125350016512569486
+👑👑👑 https://t.co/kvkSPPAiil
 
-## 2026-11-24 22:07 UTC · цитата
+❤ 14 · 🔁 0 · 💬 0 · цитат 1 · просмотров 13629  
+https://x.com/toly/status/2125794034811895971
 
-Everyone fawning over neon 👇👇👇 https://t.co/6kPn9uuSTM
+## 2026-11-26 03:46 UTC · цитата
 
-❤ 59 · 🔁 1 · 💬 28 · цитат 1 · просмотров 26916  
-https://x.com/toly/status/2125350667737071814
+🤯🤯🤯 https://t.co/qvwMi0lANP
 
-## 2026-11-24 22:09 UTC · ответ
+❤ 164 · 🔁 5 · 💬 0 · цитат 2 · просмотров 7420  
+https://x.com/toly/status/2125798272128393659
 
-@spleenlessdemas He resigned.  He wasn’t fired.  So they aren’t sticking to any guns.  There was an obvious market reaction to him leaving, and markets will weight all risks.
+## 2026-11-26 04:23 UTC · репост
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1535  
-https://x.com/toly/status/2125351089671459326
+RT @armaniferrante: 🤯
 
-## 2026-11-24 22:14 UTC · ответ
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 9225  
+https://x.com/toly/status/2125807653364682783
 
-@tulipking World is getting wealthier, and the appetite to spend all excess consumer surplus on weather, health and status improvements, no matter how marginal, is insatiable.
+## 2026-11-26 04:33 UTC · цитата
 
-❤ 23 · 🔁 0 · 💬 3 · цитат 1 · просмотров 2881  
-https://x.com/toly/status/2125352266630832445
+🧈🧈🧈 https://t.co/10PIwEd1TI
 
-## 2026-11-24 22:46 UTC · ответ
+❤ 17 · 🔁 0 · 💬 0 · цитат 3 · просмотров 13220  
+https://x.com/toly/status/2125810138137432140
 
-@harkl_ Tradfi threat vector is identify theft.
+## 2026-11-26 04:35 UTC · цитата
 
-❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1936  
-https://x.com/toly/status/2125360349344047425
+👑👑👑 https://t.co/Mr4S9p4c2p
 
-## 2026-11-24 22:52 UTC · ответ
+❤ 105 · 🔁 7 · 💬 1 · цитат 7 · просмотров 10558  
+https://x.com/toly/status/2125810681975083320
 
-@whosknave Their roi is aligned on publishing early.  Everyone just needs to act according to maximizing shareholder value.
+## 2026-11-26 04:35 UTC · цитата
 
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1620  
-https://x.com/toly/status/2125362067452690833
+👑👑👑 https://t.co/jNkuqcoFoM
 
-## 2026-11-24 22:56 UTC · ответ
+❤ 40 · 🔁 2 · 💬 1 · цитат 0 · просмотров 4229  
+https://x.com/toly/status/2125810767715049838
 
-@spleenlessdemas You are talking out of your ass. Your certainty in what you are saying is precisely equal to how much you risked on Nvidia options.
+## 2026-11-26 04:36 UTC · цитата
 
-❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1532  
-https://x.com/toly/status/2125363020360823187
+👑👑👑 https://t.co/7NEXy2cjsu
 
-## 2026-11-24 23:01 UTC · ответ
+❤ 67 · 🔁 3 · 💬 1 · цитат 1 · просмотров 5158  
+https://x.com/toly/status/2125810954613272651
 
-@MaxResnick Fed rate is eating jobs
+## 2026-11-26 04:38 UTC · цитата
 
-❤ 13 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1930  
-https://x.com/toly/status/2125364114520440956
+👑👑👑 https://t.co/oG8QicxZFj
 
-## 2026-11-24 23:03 UTC · ответ
+❤ 11 · 🔁 0 · 💬 0 · цитат 1 · просмотров 4270  
+https://x.com/toly/status/2125811487394730420
 
-@DaveShapi Fed rate is eating jobs.  We can’t lower the rate because ai is growing the gdp and is causing supply side inflation. 
+## 2026-11-26 04:58 UTC · цитата
 
-Otherwise at a lower rate business would expand across all marginal service sectors.
+🐐🐐🐐 https://t.co/zk99fdQwxj
 
-❤ 10 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2314  
-https://x.com/toly/status/2125364743661822460
+❤ 15 · 🔁 1 · 💬 0 · цитат 0 · просмотров 14003  
+https://x.com/toly/status/2125816404851163633
 
-## 2026-11-24 23:20 UTC · ответ
+## 2026-11-26 04:58 UTC · цитата
 
-@whosknave &gt; there is a regrettable emphasis on being fast instead of thorough sometimes
+🐐🐐🐐 https://t.co/9QdueklowL
 
-lol, that’s one way to put it
+❤ 24 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5765  
+https://x.com/toly/status/2125816461264642119
 
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1475  
-https://x.com/toly/status/2125369001429930251
+## 2026-11-26 05:02 UTC · цитата
 
-## 2026-11-24 23:30 UTC · ответ
+📱📱📱 https://t.co/lNF9t2VRvY
 
-@permaweave Mag7 hire the same people as oai and ant
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1587  
-https://x.com/toly/status/2125371633041109268
-
-## 2026-11-24 23:36 UTC · ответ
-
-@spleenlessdemas See. The market does its best to sus out the future given all the information available. Nvidia likely has a solid business that even in the worst case China crackdown is worth over 152
-
-❤ 2 · 🔁 0 · 💬 5 · цитат 0 · просмотров 4112  
-https://x.com/toly/status/2125372921627709454
-
-## 2026-11-24 23:38 UTC · ответ
-
-@spleenlessdemas CEO definitely matters when signing big $ contracts.  You can’t define all the risks and what can go wrong in any deal.  The two CEOs basically need to have some trust that they will both work towards a schelling point.
-
-❤ 1 · 🔁 0 · 💬 2 · цитат 1 · просмотров 4092  
-https://x.com/toly/status/2125373474541826340
-
-## 2026-11-24 23:39 UTC · цитата
-
-@spleenlessdemas Unfortunately all the big contracts involve a ton of personal trust. https://t.co/cy3U7xM6s1
-
-❤ 0 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1441  
-https://x.com/toly/status/2125373737453441124
-
-## 2026-11-24 23:51 UTC · ответ
-
-@lonelysloth_sec @trentdotsol @__alpoge__ 💀💀💀
-
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1441  
-https://x.com/toly/status/2125376702629216376
-
-## 2026-11-25 03:01 UTC · ответ
-
-@jbrukh We can’t even prove that 3sat is more complex than P1, which is linear.
-
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1536  
-https://x.com/toly/status/2125424527031275890
-
-## 2026-11-25 03:12 UTC · ответ
-
-@jbrukh Not if it’s a high degree polynomial
-
-❤ 7 · 🔁 0 · 💬 5 · цитат 0 · просмотров 1726  
-https://x.com/toly/status/2125427410413969469
-
-## 2026-11-25 03:16 UTC · цитата
-
-@dreamsin_3d Hold my beer https://t.co/1eZhqqiESu
-
-❤ 12 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1466  
-https://x.com/toly/status/2125428464287371282
-
-## 2026-11-25 03:25 UTC · ответ
-
-@Evan_ss6 Come back to the world computadora
-
-❤ 9 · 🔁 1 · 💬 3 · цитат 0 · просмотров 2706  
-https://x.com/toly/status/2125430651113652596
-
-## 2026-11-25 03:26 UTC · репост
-
-RT @PapiChuloGrim: Whoever set loose the bubonic plague at Breakpoint, I hope you have 10,000 years of liquidations.
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 9250  
-https://x.com/toly/status/2125430817791111325
-
-## 2026-11-25 03:28 UTC · цитата
-
-👑👑👑 https://t.co/MmHyE7QDyB
-
-❤ 37 · 🔁 4 · 💬 11 · цитат 1 · просмотров 15168  
-https://x.com/toly/status/2125431300303818849
-
-## 2026-11-25 03:51 UTC · ответ
-
-@cavemanloverboy Won’t it be the same as fft bounds?
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1478  
-https://x.com/toly/status/2125437138934317476
-
-## 2026-11-25 03:54 UTC · репост
-
-RT @cryptopunk7213: lmao the highest echelons of mathematical achievement is now a “free-for-all” for any 16 yr old undergrad strapped with…
-
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 9309  
-https://x.com/toly/status/2125437883008098710
-
-## 2026-11-25 03:59 UTC · репост
-
-RT @HarmonicMath: Harmonic 🤝 Solana
-
-Up to $1M in credits are available to @solana devs to formally verify their code through Aristotle.
-
-A…
-
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 9021  
-https://x.com/toly/status/2125439101373751542
-
-## 2026-11-25 03:59 UTC · ответ
-
-@cavemanloverboy Universal approximators.
-
-❤ 4 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1177  
-https://x.com/toly/status/2125439280487284784
-
-## 2026-11-25 04:15 UTC · репост
-
-RT @hersoid: Solana (custom) NFTS https://t.co/HIUesAHO4h
-
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 9166  
-https://x.com/toly/status/2125443320302424176
-
-## 2026-11-25 04:25 UTC · репост
-
-RT @DegenApeAcademy: Solana NFTs https://t.co/Zl3RXIzaiW
-
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 9309  
-https://x.com/toly/status/2125445837702758501
-
-## 2026-11-25 04:26 UTC · ответ
-
-@SH4RKG4NG How is it self contradictory? NYT published a spy peak, board freaks out, president tells the board it’s bs.
-
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1187  
-https://x.com/toly/status/2125446094121521570
-
-## 2026-11-25 05:25 UTC · пост
-
-Of course that’s your contention.  Let me verify it in lean and I’ll get back to you https://t.co/ixyJHwxvRf
-
-❤ 47 · 🔁 1 · 💬 19 · цитат 1 · просмотров 14161  
-https://x.com/toly/status/2125460952372105712
+❤ 29 · 🔁 1 · 💬 0 · цитат 2 · просмотров 13656  
+https://x.com/toly/status/2125817352646435112

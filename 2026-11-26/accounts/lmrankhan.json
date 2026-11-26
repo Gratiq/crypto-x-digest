@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2125641887424053550",
+  "username": "lmrankhan",
+  "username_canon": "lmrankhan",
+  "type": "retweet",
+  "created_at": "2026-11-25T17:24:53.000Z",
+  "text": "RT @alliance: You can make money from a GPU without ever plugging one in.\n\nIntroducing @silicon_exch (ALL18), which lets investors own a sh…",
+  "url": "https://x.com/lmrankhan/status/2125641887424053550",
+  "likes": 0,
+  "retweets": 21,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 570,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125640855495094357",
+   "text": "You can make money from a GPU without ever plugging one in.\n\nIntroducing @silicon_exch (ALL18), which lets investors own a share of the GPUs that AI companies use.\n\nInvestors fund the hardware up front. Silicon Exchange installs and runs it, so companies can rent GPUs without https://t.co/2IzaexX5gB"
+  }
+ }
+]

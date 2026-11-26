@@ -1,67 +1,52 @@
-# @hansolar21 — посты за 2026-11-25
+# @hansolar21 — посты за 2026-11-26
 
-Всего: 9
+Всего: 6
 
-## 2026-11-24 08:37 UTC · цитата
+## 2026-11-26 03:07 UTC · репост
 
-The inevitable surge in robotic intelligence is going to surprise everyone. https://t.co/EKydru6Cd8
+RT @0xvarikr: The Variational trading API is live on testnet: 
 
-❤ 47 · 🔁 2 · 💬 6 · цитат 0 · просмотров 4939  
-https://x.com/hansolar21/status/2125146740869513266
+https://t.co/ozdKz7jnmp
 
-## 2026-11-24 08:54 UTC · ответ
+The team is waiting for you across Discord, suppor…
 
-@CryptoJelleNL Jelle refuses to be surprised
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 953  
+https://x.com/hansolar21/status/2125788462255329513
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 192  
-https://x.com/hansolar21/status/2125150975770136592
+## 2026-11-26 05:27 UTC · ответ
 
-## 2026-11-24 08:55 UTC · ответ
+@lukecannon727 What did the hedgehog and fractal guy say?
 
-@0xThoor Alrighty back to trading stonks then
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 164  
+https://x.com/hansolar21/status/2125823647625724060
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 381  
-https://x.com/hansolar21/status/2125151220662989091
+## 2026-11-26 05:31 UTC · пост
 
-## 2026-11-24 09:23 UTC · ответ
+Dropping some icecream alpha
+1. Flakey maldon sea salt
+2. Extra virgin olive oil
+3. Crushed candied peacan https://t.co/lEm8rdowPW
 
-@0xTria Very cool formatting👍
+❤ 39 · 🔁 0 · 💬 11 · цитат 0 · просмотров 2625  
+https://x.com/hansolar21/status/2125824867434139833
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 218  
-https://x.com/hansolar21/status/2125158401516937720
+## 2026-11-26 05:37 UTC · ответ
 
-## 2026-11-24 10:16 UTC · ответ
+@w22py 오 해봐야겠다!
 
-@JoshuaDeuk Manufacturing bottlenecks are probably still a long way off
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 102  
+https://x.com/hansolar21/status/2125826162488439030
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 406  
-https://x.com/hansolar21/status/2125171646428479506
+## 2026-11-26 07:09 UTC · ответ
 
-## 2026-11-24 11:10 UTC · ответ
+@alphayou_net Italian's got the real alpha
 
-@jaisonmank Perhaps even goldman will use Variational Pro one day!
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 39  
+https://x.com/hansolar21/status/2125849326815674815
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 221  
-https://x.com/hansolar21/status/2125185252092199071
+## 2026-11-26 07:23 UTC · ответ
 
-## 2026-11-25 00:21 UTC · цитата
+@100y_eth It was a bit early in the day 😅
 
-Variational on CNBC today 👀 https://t.co/4Ppt12qrQO
-
-❤ 92 · 🔁 4 · 💬 8 · цитат 0 · просмотров 5773  
-https://x.com/hansolar21/status/2125384463563817045
-
-## 2026-11-25 07:16 UTC · пост
-
-Holy cow. SOXL is down 30% on the day.
-Please make sure you know what you're doing if you're trading this on lev 😭 https://t.co/y5u6fMXzea
-
-❤ 26 · 🔁 0 · 💬 8 · цитат 0 · просмотров 1379  
-https://x.com/hansolar21/status/2125488878417277402
-
-## 2026-11-25 07:23 UTC · цитата
-
-Need to have monk level focus https://t.co/0pczh1Q5ZT
-
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 169  
-https://x.com/hansolar21/status/2125490610622894252
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 31  
+https://x.com/hansolar21/status/2125852966762803694

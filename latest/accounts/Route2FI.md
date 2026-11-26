@@ -1,106 +1,74 @@
-# @Route2FI — посты за 2026-11-25
+# @Route2FI — посты за 2026-11-26
 
-Всего: 11
+Всего: 7
 
-## 2026-11-24 13:09 UTC · ответ
+## 2026-11-25 09:29 UTC · цитата
 
-@crypto_condom Is your plan still to buy in the 40-50k area? Think I saw you wrote that some months back
+I've talked about Stacks for a while now, so this post doesn't surprise me. Bringing capital markets to Bitcoin is an interesting thesis for STX, IMO.
 
-❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 4019  
-https://x.com/Route2FI/status/2125215229063639217
+Their Founder @muneeb and the team seem to be paving the way for more and more institutions to earn yield on their Bitcoin by pairing it with blockstack:native.
 
-## 2026-11-24 14:09 UTC · пост
+If Bitcoin staking continues to scale, the open-auction staking model for ~2027 model grows STX bids, and self-custodial borrowing (using staked and earning BTC as collateral) gets shipped ~2027, I can see a @Stacks revaluing as the entry point for Bitcoin capital into yield, credit, and trading markets tbh.
 
-For years, the hardest part of investing in crypto was getting started. Today, it can feel as familiar as buying a stock.
+❤ 498 · 🔁 18 · 💬 18 · цитат 0 · просмотров 28257  
+https://x.com/Route2FI/status/2125522172609278241
 
-You can buy crypto ETFs through the same brokerage account you use for stocks. Same as buying a share in a company.
+## 2026-11-25 10:15 UTC · пост
 
-Zcash is a good example. @Grayscale has https://t.co/wbLUPpcwzn
+When I talk to people with safe office jobs, they’ll say something like: 
 
-❤ 263 · 🔁 9 · 💬 9 · цитат 1 · просмотров 25217  
-https://x.com/Route2FI/status/2125230391816569261
+“If I were making as much money as you make, I would just be on holiday all year.” 
 
-## 2026-11-24 14:13 UTC · ответ
+Well, that’s exactly why they never get there. The second money appears in their head, they’re already planning how to burn it on vacations and luxury items, and end up right back where they started.
 
-@galileowilson @cryptocom that is actually pretty cool
+You don’t wake up one day with 8 figs because you “balanced work and life” perfectly. You get there because you’re a little f*cked up in the head and actually like the game more than the prize. 
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 281  
-https://x.com/Route2FI/status/2125231421392293938
+In the same way, bodybuilders don’t quit the gym the day they look shredded.  People with real money all still work in some form. True for investing, building, trading, whatever.
 
-## 2026-11-24 14:18 UTC · пост
+Looking back to my 9-5 era, the problem wasn’t that I hated work. It was that I hadn’t chosen my work. Once you find something you think is fun and you feel good at it, you don’t fantasize about quitting. You just want to keep playing.
 
-Fear &amp; Greed has been sitting at 10-12 for a whole week now. bitcoin:native handed back the entire Monday pump and is fighting for 60k again, and about $4.7 billion has left the US spot bitcoin ETFs so far in November, as of Monday's close. 
+❤ 267 · 🔁 20 · 💬 45 · цитат 3 · просмотров 17772  
+https://x.com/Route2FI/status/2125533759210447085
 
-Tbh this is the part where everyone
+## 2026-11-25 10:17 UTC · ответ
 
-❤ 210 · 🔁 12 · 💬 29 · цитат 0 · просмотров 17961  
-https://x.com/Route2FI/status/2125232597626233237
+@insomniac988 agree
 
-## 2026-11-24 15:33 UTC · пост
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 444  
+https://x.com/Route2FI/status/2125534318110142858
 
-The advice that changed my mindset back then. https://t.co/mtRYWqABuR
+## 2026-11-25 19:49 UTC · цитата
 
-❤ 133 · 🔁 13 · 💬 7 · цитат 2 · просмотров 13670  
-https://x.com/Route2FI/status/2125251401789866126
+The bigger story here is that compute is starting to look like an actual asset class.
 
-## 2026-11-24 16:08 UTC · ответ
+Until now, there hasn’t really been a public forward market for the cost of AI compute. Now there is and it’s already giving us a signal.
 
-@bearishsmokey that position was sold ser
+H100 compute is ~$3.05/hr today. The market is pricing it around $2.16 by the end of 2028 - nearly 30% lower.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 330  
-https://x.com/Route2FI/status/2125260318721060996
+That implies the market expects supply to keep catching up with AI demand.
 
-## 2026-11-24 17:01 UTC · цитата
+If these markets get liquid, this could become one of the more important real-time indicators for the AI economy and potentially the foundation of a much bigger financial market around compute.
 
-Been testing the Nansen trading app for a bit, and the leaderboard is my favorite part tbh. 
+❤ 611 · 🔁 22 · 💬 33 · цитат 2 · просмотров 46997  
+https://x.com/Route2FI/status/2125678220909720062
 
-The unique thing is that this leaderboard tracks the top traders across all their wallets onchain, so it shows their overall stats instead of eg. just FOMO/Pump or Hyperliquid (see below: you have Aguila, CBB, mk4, and hedgehog among others).
+## 2026-11-25 21:39 UTC · ответ
 
-You can follow the top traders and get notified in real time when they open or close a position, and then copy trade them.
+@TimHaldorsson indeed brother
 
-Other stuff I liked:
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 359  
+https://x.com/Route2FI/status/2125705988342940131
 
--Nano, their AI. You can ask it anything about a trade or have it do research. It did research really well when I tested it
--Limit orders in the app, which a lot of mobile apps don't have
--Fast deposits and a clean UI
+## 2026-11-25 21:41 UTC · пост
 
-If you want to try it, here's my ref link for 10% off on fees: https://t.co/M4JfZcWgLp
+Taking risks in the markets is your only chance to make it as a man who comes from nothing. There is literally no such thing as a safe route.
 
-❤ 232 · 🔁 5 · 💬 5 · цитат 0 · просмотров 25252  
-https://x.com/Route2FI/status/2125273565767282774
+❤ 291 · 🔁 22 · 💬 21 · цитат 0 · просмотров 13337  
+https://x.com/Route2FI/status/2125706418476957803
 
-## 2026-11-24 17:12 UTC · пост
+## 2026-11-25 21:47 UTC · ответ
 
-Pretty fat dump on monad:native today, but I mean...the circ mcap increases by over 140% on the unlock.
+@lucainweb3 @Ondo Best of luck, ser!
 
-Anyone picking this up here?
-
-❤ 84 · 🔁 3 · 💬 23 · цитат 2 · просмотров 14400  
-https://x.com/Route2FI/status/2125276271126925516
-
-## 2026-11-24 18:26 UTC · цитата
-
-Obzidian is basically your own AI trading desk. You tell the agent what you want in plain words and it builds the board, turns your strategy into rules and runs it.
-
-Tested it today with a simple basket strategy:
-
-"Spread 10 SOL across the five strongest memecoins on Solana. https://t.co/haDEigQT0i https://t.co/zzoQSorE2B
-
-❤ 383 · 🔁 2 · 💬 8 · цитат 0 · просмотров 28088  
-https://x.com/Route2FI/status/2125295002792444183
-
-## 2026-11-24 22:01 UTC · цитата
-
-The Polymarket agent meta is here.
-
-Probably only a couple years until the top traders are all somewhat automated/agentic. https://t.co/TX3tTOEKEw
-
-❤ 141 · 🔁 2 · 💬 5 · цитат 0 · просмотров 27663  
-https://x.com/Route2FI/status/2125349166662513137
-
-## 2026-11-25 05:58 UTC · ответ
-
-@thelearningpill Not for perps at least
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 78  
-https://x.com/Route2FI/status/2125469100822646918
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 163  
+https://x.com/Route2FI/status/2125707932591706168

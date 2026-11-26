@@ -1,0 +1,77 @@
+[
+ {
+  "id": "2125646307616346558",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-25T17:42:26.000Z",
+  "text": "RT @json1444: TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pu…",
+  "url": "https://x.com/a1lon9/status/2125646307616346558",
+  "likes": 0,
+  "retweets": 47,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 18723,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125645777049637167",
+   "text": "TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pump account balance to $10k to participate!\n3) trade as normal: select which buys you want to count towards your comp balance when placing trades\n4) https://t.co/jJ1J4gI0qa"
+  }
+ },
+ {
+  "id": "2125647719930990758",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "reply",
+  "created_at": "2026-11-25T17:48:03.000Z",
+  "text": "@json1444 most innovative trading competition I have seen in ages, super excited to see how it plays out!",
+  "url": "https://x.com/a1lon9/status/2125647719930990758",
+  "likes": 138,
+  "retweets": 6,
+  "replies": 69,
+  "quotes": 1,
+  "impressions": 7179,
+  "bookmarks": 5,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125645777049637167",
+   "text": "TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pump account balance to $10k to participate!\n3) trade as normal: select which buys you want to count towards your comp balance when placing trades\n4) https://t.co/jJ1J4gI0qa"
+  }
+ },
+ {
+  "id": "2125718869058650591",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "original",
+  "created_at": "2026-11-25T22:30:46.000Z",
+  "text": "https://t.co/oAQHWDkJWU",
+  "url": "https://x.com/a1lon9/status/2125718869058650591",
+  "likes": 2020,
+  "retweets": 257,
+  "replies": 833,
+  "quotes": 363,
+  "impressions": 349134,
+  "bookmarks": 339
+ },
+ {
+  "id": "2125719441774408023",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-25T22:33:03.000Z",
+  "text": "RT @Pumpfun: On December 4th, we’re rolling out a block0 fee on all Pumpfun launches.\n\nThe first seconds after a coin launches decide wheth…",
+  "url": "https://x.com/a1lon9/status/2125719441774408023",
+  "likes": 0,
+  "retweets": 108,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10326,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125719336228937841",
+   "text": "On December 4th, we’re rolling out a block0 fee on all Pumpfun launches.\n\nThe first seconds after a coin launches decide whether it gets a fair start. Right now, block0 bundlers buy in before any other trader has a chance.\n\nWe’re introducing a block0 fee to help level the playing https://t.co/pO1m6Yez5a"
+  }
+ }
+]

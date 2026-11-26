@@ -1,112 +1,150 @@
-# @lookonchain — посты за 2026-11-25
+# @lookonchain — посты за 2026-11-26
 
-Всего: 9
+Всего: 12
 
-## 2026-11-24 09:39 UTC · пост
+## 2026-11-25 11:08 UTC · пост
 
-Ansem(@blknoiz06) appears to be dumping his holdings!
+Does this whale know something we don't?
 
-He keeps dumping $ANSEM, sending the price down 60% in just 1 hour.
+He bought another 815.58B $PEPE ($2.81M) ~30 mins ago, bringing his total purchases to 4.16T $PEPE ($15M)!
 
-Was his wallet hacked?
+https://t.co/H7MH7yPHlP https://t.co/41dWSNu6CV
 
-https://t.co/pPMMQzE8Jj https://t.co/nPmAx7SFpF
+❤ 671 · 🔁 69 · 💬 102 · цитат 12 · просмотров 80180  
+https://x.com/lookonchain/status/2125547238533546254
 
-❤ 863 · 🔁 66 · 💬 215 · цитат 111 · просмотров 418863  
-https://x.com/lookonchain/status/2125162405110087821
+## 2026-11-25 13:42 UTC · пост
 
-## 2026-11-24 09:55 UTC · цитата
-
-It looks like Ansem(@blknoiz06) was indeed hacked!
-
-The hacker has moved all the funds from selling memecoins to wallet 0xAC33 on Arbitrum.
-
-So far, the hacker has transferred 2.15M $USDC.
-
-https://t.co/bEvcJQ76dx
-https://t.co/e458LYd8Dr
-https://t.co/QbWSAMcNYc https://t.co/DSIM4AHikX
-
-❤ 419 · 🔁 37 · 💬 249 · цитат 76 · просмотров 172641  
-https://x.com/lookonchain/status/2125166373362102312
-
-## 2026-11-24 13:50 UTC · пост
-
-Nov 24 Update:
+Nov 25 Update:
 
 #Bitcoin ETFs:
-1D NetFlow: -10,217 $BTC(-$613.9M)🔴
-7D NetFlow: -39,378 $BTC(-$2.37B)🔴
+1D NetFlow: -5,006 $BTC(-$294.19M)🔴
+7D NetFlow: -40,167 $BTC(-$2.36B)🔴
 
 #Ethereum ETFs:
-1D NetFlow: -67,414 $ETH(-$114.24M)🔴
-7D NetFlow: -214,723 $ETH(-$363.88M)🔴 https://t.co/g5MVTMbIHy
+1D NetFlow: -20,417 $ETH(-$33.65M)🔴
+7D NetFlow: -218,861 $ETH(-$360.69M)🔴 https://t.co/cR4Ih6af4q
 
-❤ 162 · 🔁 13 · 💬 57 · цитат 7 · просмотров 48990  
-https://x.com/lookonchain/status/2125225630413603315
+❤ 130 · 🔁 7 · 💬 23 · цитат 5 · просмотров 46680  
+https://x.com/lookonchain/status/2125585907910852843
 
-## 2026-11-24 14:08 UTC · цитата
+## 2026-11-25 13:47 UTC · пост
 
-The "hacker" has stolen $2.57M from Ansem(@blknoiz06)'s wallet so far.
+BlackRock outflows vs. $BTC and $ETH prices — the numbers tell the story.
 
-Interestingly, the 2.57M $USDC hasn't been swapped for $ETH and laundered yet — it's still sitting in wallet 0xAC33.
-https://t.co/yIUpodbBpH https://t.co/7tGf8TkjyH
+Since Nov 1:
+$BTC net outflows: 65,219 $BTC ($3.81B)
+Price: $78,294 → down 25%
 
-❤ 305 · 🔁 24 · 💬 78 · цитат 17 · просмотров 74722  
-https://x.com/lookonchain/status/2125229971132330174
+Since Oct 4:
+$ETH net outflows: 1,093,925 $ETH ($1.79B)
+Price: $2,726 → down 40% https://t.co/gdEyEFDsfn
 
-## 2026-11-25 01:32 UTC · пост
+❤ 186 · 🔁 19 · 💬 59 · цитат 6 · просмотров 52954  
+https://x.com/lookonchain/status/2125587191858671633
 
-Whale 0x2aB3 dumped 17,183 $ETH for 28.68M $DAI at $1,669 just 8 hours ago.
+## 2026-11-25 15:16 UTC · пост
 
-https://t.co/Zsgwzk9Gms https://t.co/EB4MMUoVua
+This whale is already down over $8M on his long of 203,333 $HYPE ($11.55M), but he just created a new wallet and opened another 10x long on 200,000 $HYPE ($11.38M)!
 
-❤ 127 · 🔁 12 · 💬 29 · цитат 1 · просмотров 36178  
-https://x.com/lookonchain/status/2125402229364724045
+Liquidation prices: $45.41 and $43.74
 
-## 2026-11-25 01:42 UTC · пост
+https://t.co/QXvHgJ4H0o
+https://t.co/C41w0NjYC3 https://t.co/QlKNWvsO7L
 
-Whales are dumping $ETH!
+❤ 249 · 🔁 15 · 💬 53 · цитат 6 · просмотров 54176  
+https://x.com/lookonchain/status/2125609693645295785
 
-An OTC whale who has been trading $ETH for over 5 years sold 37,929 $ETH ($63.53M) 5 hours ago.
+## 2026-11-26 01:28 UTC · цитата
 
-The whale has made a total profit of $7M trading $ETH over the past 5+ years.
+This whale sold 17,183 $ETH ($28.68M) at $1,669 just yesterday, only to buy back 16,984 $ETH ($28.71M) at $1,691 2 hours ago.
 
-https://t.co/z1uZusGsXH
-https://t.co/ybuXbKG6ZT https://t.co/ra5uKBZjHj
+He lost 199 $ETH ($339K) in the process!
 
-❤ 218 · 🔁 16 · 💬 40 · цитат 2 · просмотров 41991  
-https://x.com/lookonchain/status/2125404663382220936
+https://t.co/nvEGXDgrtq
+https://t.co/07NP5p0L83 https://t.co/qcZgDb0GUa
 
-## 2026-11-25 01:52 UTC · пост
+❤ 122 · 🔁 7 · 💬 29 · цитат 0 · просмотров 35182  
+https://x.com/lookonchain/status/2125763612757438520
 
-Abraxas Capital sold 219,081 $HYPE ($13.25M) and then bought 4,230 $ETH ($7.09M).
+## 2026-11-26 01:44 UTC · пост
 
-Abraxas Capital has now withdrawn all its funds from Hyperliquid, after generating $12.49B in perp trading volume and making $552.49M in profit.
+An #EthereumOG dumped 32,010 $ETH ($53.3M) over the past 9 hours!
 
-https://t.co/qwAXChjYvp https://t.co/AOTuGxrmrz
+This OG bought 100,000 $ETH during the ICO at just $0.31 each, spending only $31K.
 
-❤ 395 · 🔁 34 · 💬 62 · цитат 9 · просмотров 55785  
-https://x.com/lookonchain/status/2125407295521853856
+He made a 5,372x return on this sale!
 
-## 2026-11-25 03:33 UTC · пост
+https://t.co/SIU9hX2dkk
+https://t.co/e73DMRvKhr https://t.co/SOKlPgmUd9
 
-Trader 0xab96, who has won 10 straight trades, just opened another long on 80,000 $NVDA ($12.17M)!
+❤ 231 · 🔁 17 · 💬 53 · цитат 13 · просмотров 47994  
+https://x.com/lookonchain/status/2125767630443381220
 
-He has completed 30 trades with a 77% win rate, making $7.4M in realized profit.
+## 2026-11-26 02:02 UTC · пост
 
-https://t.co/xVphlrKj9C https://t.co/js36tgyQzC
+Whales are accumulating $PEPE!
 
-❤ 170 · 🔁 6 · 💬 28 · цитат 1 · просмотров 41591  
-https://x.com/lookonchain/status/2125432692078748155
+Mysterious whale 0x5011 keeps buying $PEPE, accumulating 5.15T $PEPE ($18.28M) over the past 8 days — 1.22% of the total supply!
 
-## 2026-11-25 05:47 UTC · пост
+Another whale, 0x6246, also accumulated 868.16B $PEPE ($2.88M) 11 hours ago.
 
-loracle.hl (@loraclexyz) closed his $BTC long 4 hours ago after holding it for over 50 days, taking a $23.77M loss.
+https://t.co/H7MH7yPHlP https://t.co/RMd9CiXdxV
 
-He then flipped short on 462 $BTC ($27.14M).
+❤ 340 · 🔁 38 · 💬 33 · цитат 12 · просмотров 45355  
+https://x.com/lookonchain/status/2125772126364021240
 
-https://t.co/OROcFCTnvQ https://t.co/zsRmhir6Kn
+## 2026-11-26 03:02 UTC · пост
 
-❤ 171 · 🔁 11 · 💬 58 · цитат 12 · просмотров 41482  
-https://x.com/lookonchain/status/2125466297110786553
+Even in a falling market, gambler "0x069a" keeps getting liquidated while shorting $BTC!
+
+So far, he's had a total of 947.67 $BTC ($62.75M) liquidated, losing $8.76M in total!
+
+https://t.co/gvAPYgFfOf
+https://t.co/CBpxSoRwTE https://t.co/LbCxmVvC4Q
+
+❤ 113 · 🔁 9 · 💬 38 · цитат 5 · просмотров 40351  
+https://x.com/lookonchain/status/2125787322293912008
+
+## 2026-11-26 03:24 UTC · пост
+
+Is Venice founder Erik Voorhees selling $VVV?
+
+A wallet possibly linked to Erik Voorhees deposited 81,463 $VVV ($2.25M) into #Coinbase 7 hours ago.
+
+The wallet still has 675,000 $VVV ($18.45M) staked.
+
+https://t.co/OiQWTxOIvu
+https://t.co/4yYcem8UOZ https://t.co/JqYFCXcCug
+
+❤ 230 · 🔁 16 · 💬 45 · цитат 16 · просмотров 49062  
+https://x.com/lookonchain/status/2125792866601689462
+
+## 2026-11-26 03:38 UTC · пост
+
+Trader 0x5c80 on @Aster_DEX opened 20x longs on 100 $BTC ($6.07M) and 11,000 $ETH ($18.66M) at the market bottom 14 hours ago and is already up $828K in unrealized profit!
+
+https://t.co/YyOU5c2JWk https://t.co/defU4W5rEo
+
+❤ 125 · 🔁 6 · 💬 32 · цитат 4 · просмотров 36253  
+https://x.com/lookonchain/status/2125796314432897129
+
+## 2026-11-26 06:20 UTC · пост
+
+A whale deposited 47,501 $ZEC($35.8M) into #Binance over the past 12 hours.
+
+https://t.co/cSKvDEWfeI https://t.co/EMN48U25W5
+
+❤ 109 · 🔁 10 · 💬 33 · цитат 5 · просмотров 32302  
+https://x.com/lookonchain/status/2125837023928062006
+
+## 2026-11-26 07:02 UTC · пост
+
+A #Zcash OG deposited 15,750 $ZEC ($11.39M) into #Kraken 12 hours ago after 9 years of inactivity.
+
+The OG bought 23,412 $ZEC ($5.04M) at an average price of $215 nine years ago.
+
+After holding for 9 years, he's finally selling, with a total profit of $12M+! https://t.co/wMGC4uESFA
+
+❤ 84 · 🔁 2 · 💬 30 · цитат 3 · просмотров 26147  
+https://x.com/lookonchain/status/2125847580945092729

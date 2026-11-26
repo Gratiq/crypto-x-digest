@@ -1,102 +1,77 @@
 [
  {
-  "id": "2125374077393424415",
+  "id": "2125646307616346558",
+  "username": "a1lon9",
+  "username_canon": "a1lon9",
+  "type": "retweet",
+  "created_at": "2026-11-25T17:42:26.000Z",
+  "text": "RT @json1444: TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pu…",
+  "url": "https://x.com/a1lon9/status/2125646307616346558",
+  "likes": 0,
+  "retweets": 47,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 18723,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125645777049637167",
+   "text": "TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pump account balance to $10k to participate!\n3) trade as normal: select which buys you want to count towards your comp balance when placing trades\n4) https://t.co/jJ1J4gI0qa"
+  }
+ },
+ {
+  "id": "2125647719930990758",
   "username": "a1lon9",
   "username_canon": "a1lon9",
   "type": "reply",
-  "created_at": "2026-11-24T23:40:42.000Z",
-  "text": "@PumpfunEco We had some great feedback to make competitions much more fair - this is a step away from whale games and focuses more on raw trading skill.\n\nMany more competitions to come. Excited to see this one play out!",
-  "url": "https://x.com/a1lon9/status/2125374077393424415",
-  "likes": 131,
-  "retweets": 4,
-  "replies": 70,
-  "quotes": 3,
-  "impressions": 8180,
-  "bookmarks": 1,
+  "created_at": "2026-11-25T17:48:03.000Z",
+  "text": "@json1444 most innovative trading competition I have seen in ages, super excited to see how it plays out!",
+  "url": "https://x.com/a1lon9/status/2125647719930990758",
+  "likes": 138,
+  "retweets": 6,
+  "replies": 69,
+  "quotes": 1,
+  "impressions": 7179,
+  "bookmarks": 5,
   "referenced": {
    "type": "replied_to",
-   "id": "2125358002509353164",
-   "text": "Introducing the $10,000 Buy-in Competition 🏆\n\nEvery trader starts with the same $10,000 budget: no whale games, no restarts!\n\n$100,000 in prizes go to the Top 3 eligible traders who achieve the highest PnL over 7 days on Pumpfun. \n\nStarts Thursday, November 26 at 21:00 UTC 👇 https://t.co/qjNNGfnMky"
+   "id": "2125645777049637167",
+   "text": "TL;DR of the upcoming $10k Buy-in Competition:\n\n1) everyone has a $10k starting balance\n2) you *don't* need to reduce your Pump account balance to $10k to participate!\n3) trade as normal: select which buys you want to count towards your comp balance when placing trades\n4) https://t.co/jJ1J4gI0qa"
   }
  },
  {
-  "id": "2125374084489904600",
+  "id": "2125718869058650591",
   "username": "a1lon9",
   "username_canon": "a1lon9",
-  "type": "retweet",
-  "created_at": "2026-11-24T23:40:43.000Z",
-  "text": "RT @PumpfunEco: Introducing the $10,000 Buy-in Competition 🏆\n\nEvery trader starts with the same $10,000 budget: no whale games, no restarts…",
-  "url": "https://x.com/a1lon9/status/2125374084489904600",
-  "likes": 0,
-  "retweets": 34,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 15210,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2125358002509353164",
-   "text": "Introducing the $10,000 Buy-in Competition 🏆\n\nEvery trader starts with the same $10,000 budget: no whale games, no restarts!\n\n$100,000 in prizes go to the Top 3 eligible traders who achieve the highest PnL over 7 days on Pumpfun. \n\nStarts Thursday, November 26 at 21:00 UTC 👇 https://t.co/qjNNGfnMky"
-  }
+  "type": "original",
+  "created_at": "2026-11-25T22:30:46.000Z",
+  "text": "https://t.co/oAQHWDkJWU",
+  "url": "https://x.com/a1lon9/status/2125718869058650591",
+  "likes": 2020,
+  "retweets": 257,
+  "replies": 833,
+  "quotes": 363,
+  "impressions": 349134,
+  "bookmarks": 339
  },
  {
-  "id": "2125387128381325397",
+  "id": "2125719441774408023",
   "username": "a1lon9",
   "username_canon": "a1lon9",
   "type": "retweet",
-  "created_at": "2026-11-25T00:32:33.000Z",
-  "text": "RT @andy8052: Looks like @Pumpfun is launching its first buy-in tournament \n\nSeems like you can only play with a bankroll of $10k which sho…",
-  "url": "https://x.com/a1lon9/status/2125387128381325397",
+  "created_at": "2026-11-25T22:33:03.000Z",
+  "text": "RT @Pumpfun: On December 4th, we’re rolling out a block0 fee on all Pumpfun launches.\n\nThe first seconds after a coin launches decide wheth…",
+  "url": "https://x.com/a1lon9/status/2125719441774408023",
   "likes": 0,
-  "retweets": 7,
+  "retweets": 108,
   "replies": 0,
   "quotes": 0,
-  "impressions": 15442,
+  "impressions": 10326,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125374798876598546",
-   "text": "Looks like @Pumpfun is launching its first buy-in tournament \n\nSeems like you can only play with a bankroll of $10k which should level the playing field a lot https://t.co/j53hna4pay"
-  }
- },
- {
-  "id": "2125406693395923074",
-  "username": "a1lon9",
-  "username_canon": "a1lon9",
-  "type": "retweet",
-  "created_at": "2026-11-25T01:50:18.000Z",
-  "text": "RT @netvyxe: The animations in the @Pumpfun app are a separate art form\n\n@initwithcarl, it's a crime to make such beautiful animations, i c…",
-  "url": "https://x.com/a1lon9/status/2125406693395923074",
-  "likes": 0,
-  "retweets": 19,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 14073,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2125328554996994193",
-   "text": "The animations in the @Pumpfun app are a separate art form\n\n@initwithcarl, it's a crime to make such beautiful animations, i could straight up forget i've got a position open https://t.co/BrMPY9Z5tO"
-  }
- },
- {
-  "id": "2125407625160634457",
-  "username": "a1lon9",
-  "username_canon": "a1lon9",
-  "type": "retweet",
-  "created_at": "2026-11-25T01:54:00.000Z",
-  "text": "RT @quantJB: Signed up for the first @Pumpfun buy in competition \n\nEverybody starts with 10k USD, a level playing field and anybody can joi…",
-  "url": "https://x.com/a1lon9/status/2125407625160634457",
-  "likes": 0,
-  "retweets": 10,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 14517,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2125393392339448181",
-   "text": "Signed up for the first @Pumpfun buy in competition \n\nEverybody starts with 10k USD, a level playing field and anybody can join ! \n\nThis is going to be fun https://t.co/gXRPXjkGKi"
+   "id": "2125719336228937841",
+   "text": "On December 4th, we’re rolling out a block0 fee on all Pumpfun launches.\n\nThe first seconds after a coin launches decide whether it gets a fair start. Right now, block0 bundlers buy in before any other trader has a chance.\n\nWe’re introducing a block0 fee to help level the playing https://t.co/pO1m6Yez5a"
   }
  }
 ]

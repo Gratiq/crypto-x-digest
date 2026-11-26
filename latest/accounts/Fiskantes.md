@@ -1,120 +1,270 @@
-# @Fiskantes — посты за 2026-11-25
+# @Fiskantes — посты за 2026-11-26
 
-Всего: 15
+Всего: 35
 
-## 2026-11-24 09:02 UTC · пост
+## 2026-11-25 08:48 UTC · ответ
 
-Uhh chat?
+@mattigags Looks good, but I'm a shinki horsehide maxi now
 
-Why is X turning into Linkedin? https://t.co/8dFTrAJsMF
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 146  
+https://x.com/Fiskantes/status/2125511980299542983
 
-❤ 13 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2513  
-https://x.com/Fiskantes/status/2125153075346149520
+## 2026-11-25 08:56 UTC · пост
 
-## 2026-11-24 09:04 UTC · цитата
+There is a reality where stocks, tail RWAs, derivatives, agentic payments - it all happens on-chain
 
-One of those mornings when you brush your teeth with a hand cream instead of toothpaste https://t.co/6YNsv6xzFf
+And (y)ourbags don't go up
 
-❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3610  
-https://x.com/Fiskantes/status/2125153485935222947
+❤ 73 · 🔁 4 · 💬 15 · цитат 1 · просмотров 9630  
+https://x.com/Fiskantes/status/2125513876854780300
 
-## 2026-11-24 09:15 UTC · ответ
+## 2026-11-25 09:29 UTC · ответ
 
-@dieworkwear PSA: its only "okay" if half of US economy stands on your shoulders
+@mattigags @lolmcshizz As an HDX holder I understand why this number is shocking
 
-And even then its not totally okay, you are still getting kinda dragged...unless you pull an Elon and do it publicly from the start
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 173  
+https://x.com/Fiskantes/status/2125522162702557288
 
-❤ 41 · 🔁 0 · 💬 1 · цитат 0 · просмотров 10991  
-https://x.com/Fiskantes/status/2125156274337661363
+## 2026-11-25 12:34 UTC · цитата
 
-## 2026-11-24 09:33 UTC · цитата
+@Evan_ss6 Meanwhile Vitalik
 
-https://t.co/A0oKwh66vF https://t.co/IKkGSlbAmL
+https://t.co/SjsBdPpE3a
 
-❤ 13 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2312  
-https://x.com/Fiskantes/status/2125160751069557034
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 851  
+https://x.com/Fiskantes/status/2125568827920728315
 
-## 2026-11-24 09:38 UTC · ответ
+## 2026-11-25 14:34 UTC · пост
 
-@goodalexander @AlgodTrading Idk I feel like someone is stealing crypto all the time https://t.co/8Towan5wc7
+https://t.co/PtCwkmQQYv
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 734  
-https://x.com/Fiskantes/status/2125162050271760558
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3069  
+https://x.com/Fiskantes/status/2125599022656479603
 
-## 2026-11-24 09:46 UTC · цитата
+## 2026-11-25 15:09 UTC · пост
 
-Just because something is consensus doesn't mean its a bad hold
+Its starting to be hella tempting to just deploy all the dry powder into both stocks and crypto rn and just turn off the screen for a month, go to mountains for some skiing, enjoy christmas with family and new year with friends and refresh whats going on next year
 
-Just because something is contrarian doesn't mean its a good hold
+❤ 212 · 🔁 4 · 💬 17 · цитат 1 · просмотров 9313  
+https://x.com/Fiskantes/status/2125607747962155196
 
-Actually most of the time it's the opposite https://t.co/XPrB1NC3AB
+## 2026-11-25 15:10 UTC · ответ
 
-❤ 55 · 🔁 1 · 💬 4 · цитат 1 · просмотров 5093  
-https://x.com/Fiskantes/status/2125164254705692853
+Some rules:
 
-## 2026-11-24 11:04 UTC · репост
+1. time horizon 3+ years
+2. leave enough cash to live comfortably for 3+ years 
+3. make sure you won't be a forced seller
 
-RT @angel_flowstate: dress code is leather jacket https://t.co/8c63K6slWu
+❤ 41 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1570  
+https://x.com/Fiskantes/status/2125608153362415802
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 676  
-https://x.com/Fiskantes/status/2125183765177647113
+## 2026-11-25 15:13 UTC · пост
 
-## 2026-11-24 14:42 UTC · цитата
+https://t.co/T4lpzAOeNk
 
-Rip the bandaid off is underrated https://t.co/w0ixqYvNCB
+❤ 10 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1858  
+https://x.com/Fiskantes/status/2125608937223246015
 
-❤ 14 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2701  
-https://x.com/Fiskantes/status/2125238744118657242
+## 2026-11-25 15:18 UTC · ответ
 
-## 2026-11-24 14:50 UTC · ответ
+I'm writing this shit for myself, not for you, I am not your financial advisor and idk your situation
 
-@0xCardiE hard agree
+❤ 25 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1206  
+https://x.com/Fiskantes/status/2125610147699417155
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 49  
-https://x.com/Fiskantes/status/2125240534079832550
+## 2026-11-25 15:25 UTC · цитата
 
-## 2026-11-24 14:51 UTC · репост
+I AM NOT FINANCIAL ADVISOR https://t.co/ypsjFpEQla
 
-RT @BrianRoemmele: I know dozens of Nvidia employees. Some I talk to daily.
+❤ 21 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3997  
+https://x.com/Fiskantes/status/2125611879221342641
 
-I can tell you with certainty that there has never been a more…
+## 2026-11-25 15:26 UTC · ответ
 
-❤ 0 · 🔁 737 · 💬 0 · цитат 0 · просмотров 620  
-https://x.com/Fiskantes/status/2125240976604024986
+@sangeliax few
 
-## 2026-11-24 14:58 UTC · цитата
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 271  
+https://x.com/Fiskantes/status/2125612122701004930
 
-Chinesemperormaxxing https://t.co/yeXzIE5tVa
+## 2026-11-25 15:29 UTC · ответ
 
-❤ 9 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2494  
-https://x.com/Fiskantes/status/2125242623678124068
+@coinjunky Im outperforming bitcoin by 20% p.a. for a decade, how about you?
 
-## 2026-11-24 15:50 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 241  
+https://x.com/Fiskantes/status/2125612776995389611
 
-@WhosDaveStanton Yup but people think that just being contrarian by default is enough to win
+## 2026-11-25 15:32 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 264  
-https://x.com/Fiskantes/status/2125255854551368183
+@Lordmiles Yes and at the same time the japanese population is still preferring to move to big cities and abandon the countryside, because there are no opportunities
 
-## 2026-11-24 19:48 UTC · репост
+Also these places with cheap real estate are getting their infrastructure turned off, because its becoming non economic to
 
-RT @Auki: ROI from robots looking at shelves &gt;&gt; ROI from robots stocking shelves.
+❤ 9 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1055  
+https://x.com/Fiskantes/status/2125613656713171410
 
-❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 581  
-https://x.com/Fiskantes/status/2125315530219217310
+## 2026-11-25 15:35 UTC · ответ
 
-## 2026-11-24 20:27 UTC · ответ
+@coinjunky You started to talk about my mindset and habits :) It got me where I am now and I am happy with it
 
-@bigballsbulla My exact thoughts! 
+My focus is my PnL and don't think BTC dominance is a metric that will help me improve it
 
-As a GAW shareholder maybe I should act. My merciless jensen-posting already fixed the Nvidia situation, maybe its time for cavill-posting
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 133  
+https://x.com/Fiskantes/status/2125614427621773434
 
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 823  
-https://x.com/Fiskantes/status/2125325408199692419
+## 2026-11-25 15:39 UTC · пост
 
-## 2026-11-24 20:27 UTC · ответ
+Are there any math problems that AI can solve that will actually lead to more prosperity for humanity instead of breaking all our systems?
 
-@bigballsbulla (I own 1 share of each)
+❤ 52 · 🔁 3 · 💬 9 · цитат 0 · просмотров 4925  
+https://x.com/Fiskantes/status/2125615283889213548
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 513  
-https://x.com/Fiskantes/status/2125325485609800160
+## 2026-11-25 15:45 UTC · пост
+
+Christmas this year will be like https://t.co/Yf9me2UrZu
+
+❤ 22 · 🔁 1 · 💬 3 · цитат 0 · просмотров 1779  
+https://x.com/Fiskantes/status/2125616821382611193
+
+## 2026-11-25 15:46 UTC · ответ
+
+@coom69meleon420 You can either just buy beta or have a thesis/knack for picking winners
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 54  
+https://x.com/Fiskantes/status/2125617176958918830
+
+## 2026-11-25 15:49 UTC · ответ
+
+@0xShual This is true, that's why the work starts with picking the right LPs who are 1. ready for volatility 2. in it for the long term 3. diversified and wealthy enough so they don't need your liquidity any time soon
+
+We did a decent job with that
+
+Also 30%+ of all our funds are our own
+
+❤ 8 · 🔁 0 · 💬 0 · цитат 0 · просмотров 750  
+https://x.com/Fiskantes/status/2125617830741815575
+
+## 2026-11-25 15:49 UTC · цитата
+
+This is true, that's why the work starts with picking the right LPs who are 1. ready for volatility 2. in it for the long term 3. diversified and wealthy enough so they don't need your liquidity any time soon
+
+I think we did a decent job with that, but it's an ongoing work
+
+Also https://t.co/1pdSZTutPd
+
+❤ 18 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2994  
+https://x.com/Fiskantes/status/2125617914334138605
+
+## 2026-11-25 16:22 UTC · ответ
+
+@kennyistyping Isn't the real prize pool something like 10% of BTC mcap lol
+
+❤ 4 · 🔁 0 · 💬 1 · цитат 1 · просмотров 254  
+https://x.com/Fiskantes/status/2125626251607949620
+
+## 2026-11-25 21:18 UTC · ответ
+
+@defichad https://t.co/b3xRo0HhNU
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 95  
+https://x.com/Fiskantes/status/2125700586117198233
+
+## 2026-11-25 21:20 UTC · ответ
+
+@DegenMack Dolomites or Hokkaido Niseko for skiing
+
+Otherwise my fav mountain is Imja Tse, my first (and only) 6000
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 87  
+https://x.com/Fiskantes/status/2125701248460726454
+
+## 2026-11-25 21:21 UTC · ответ
+
+@kennyistyping Ah gotcha lol
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 69  
+https://x.com/Fiskantes/status/2125701551188762853
+
+## 2026-11-25 21:37 UTC · ответ
+
+@7ChrisG13 If you don't have money for skiing your concern should be finding a decent job and not being all in in the markets
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 56  
+https://x.com/Fiskantes/status/2125705525840990474
+
+## 2026-11-25 21:38 UTC · ответ
+
+@tenitoka_eth doesn't really matter much either way imo
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 49  
+https://x.com/Fiskantes/status/2125705653796700635
+
+## 2026-11-25 21:59 UTC · цитата
+
+Kessler syndrome anyone? https://t.co/IhOjvIHdZJ
+
+❤ 9 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1971  
+https://x.com/Fiskantes/status/2125710984367243625
+
+## 2026-11-25 22:10 UTC · пост
+
+Yo? https://t.co/FuNgYUAGfK
+
+❤ 24 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2894  
+https://x.com/Fiskantes/status/2125713776142135786
+
+## 2026-11-25 22:15 UTC · цитата
+
+The plan is to go all in here and freeze myself for 3 years https://t.co/DbVaRxTmQn
+
+❤ 10 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2023  
+https://x.com/Fiskantes/status/2125715043434058214
+
+## 2026-11-25 22:25 UTC · ответ
+
+@beffjezos @grok explain Moravec paradox in this context
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 5937  
+https://x.com/Fiskantes/status/2125717467326492704
+
+## 2026-11-25 22:29 UTC · цитата
+
+The market is the pig, the ball is your bags https://t.co/3ccc9tZfJe
+
+❤ 6 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2179  
+https://x.com/Fiskantes/status/2125718532239585647
+
+## 2026-11-25 22:48 UTC · ответ
+
+@degenarcher28 @base @cobie You are so goated for this vague posting
+
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2818  
+https://x.com/Fiskantes/status/2125723310126190797
+
+## 2026-11-25 22:52 UTC · ответ
+
+@degenarcher28 @base @cobie ok nvm good shitpost
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 328  
+https://x.com/Fiskantes/status/2125724364712865801
+
+## 2026-11-25 22:53 UTC · цитата
+
+What are LINK marines doing with this information? https://t.co/SzJ5uCC2n1
+
+❤ 13 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2127  
+https://x.com/Fiskantes/status/2125724613942431777
+
+## 2026-11-25 22:54 UTC · ответ
+
+@isidoreducass Do you have any research/source for this claim? My current understanding is that with million satellites it will be much easier to trigger the chain reaction
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 68  
+https://x.com/Fiskantes/status/2125724798139429197
+
+## 2026-11-25 23:01 UTC · ответ
+
+@isidoreducass Huh, doesn't sound very satisfying...but tbh I also asked some spacetech VCs who are very deep in the tech and they also didn't give me very satisfying answers
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 59  
+https://x.com/Fiskantes/status/2125726669583585780

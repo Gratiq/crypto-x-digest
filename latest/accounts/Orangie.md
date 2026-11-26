@@ -1,96 +1,63 @@
-# @Orangie — посты за 2026-11-25
+# @Orangie — посты за 2026-11-26
 
-Всего: 13
+Всего: 8
 
-## 2026-11-24 15:24 UTC · ответ
+## 2026-11-25 19:15 UTC · ответ
 
-@sauciii I did ?
+@MrBeast i love the behind the scenes https://t.co/IteltbKfwT
 
-❤ 32 · 🔁 2 · 💬 11 · цитат 1 · просмотров 3276  
-https://x.com/orangie/status/2125249094738493730
+❤ 11 · 🔁 1 · 💬 6 · цитат 1 · просмотров 2357  
+https://x.com/orangie/status/2125669647575928985
 
-## 2026-11-24 15:31 UTC · ответ
+## 2026-11-25 21:08 UTC · ответ
 
-@HugoMartingale if there’s ever a orangie coin, i’m hacked
+https://t.co/2tGvdO28h3
 
-❤ 46 · 🔁 1 · 💬 8 · цитат 0 · просмотров 3968  
-https://x.com/orangie/status/2125250932266905845
+❤ 18 · 🔁 2 · 💬 1 · цитат 0 · просмотров 4204  
+https://x.com/orangie/status/2125698262195949905
 
-## 2026-11-24 15:31 UTC · ответ
+## 2026-11-25 21:08 UTC · пост
 
-@tonyprofits @HugoMartingale ayo
+"we" flew to New Delhi, India to see how this 19 year old found some success trading on chain 🇮🇳
 
-❤ 4 · 🔁 1 · 💬 1 · цитат 0 · просмотров 967  
-https://x.com/orangie/status/2125251072415465886
+video now live on youtube.
 
-## 2026-11-24 15:54 UTC · ответ
+@fomo https://t.co/yeyp3l2SPs
 
-@ryantrost @sauciii I need to first locate the billions
+❤ 350 · 🔁 16 · 💬 46 · цитат 12 · просмотров 45270  
+https://x.com/orangie/status/2125698259058585761
 
-❤ 6 · 🔁 1 · 💬 3 · цитат 0 · просмотров 1125  
-https://x.com/orangie/status/2125256723774546197
+## 2026-11-25 21:19 UTC · ответ
 
-## 2026-11-24 16:52 UTC · ответ
+@bigmoeycuz @fomo @kindajeety i was just in sydney to film @Saint_pablo123 !!!
 
-@ianlapham fomo
+❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1568  
+https://x.com/orangie/status/2125700899838271711
 
-❤ 9 · 🔁 2 · 💬 3 · цитат 0 · просмотров 1309  
-https://x.com/orangie/status/2125271281603899555
+## 2026-11-25 22:59 UTC · ответ
 
-## 2026-11-24 17:04 UTC · ответ
+@ZeroSumEnjoyer @rasmr_eth HUH
 
-@LelandBrooks_ @sauciii ohhh yeah https://t.co/CMONIPrWxq
+❤ 84 · 🔁 1 · 💬 2 · цитат 0 · просмотров 10350  
+https://x.com/orangie/status/2125725984779563385
 
-❤ 6 · 🔁 2 · 💬 5 · цитат 0 · просмотров 987  
-https://x.com/orangie/status/2125274267365360016
+## 2026-11-25 23:00 UTC · ответ
 
-## 2026-11-24 17:09 UTC · ответ
+@RexhaRexhaRexha my favorite moment of the vid
 
-@villagebythexyz @sauciii the biggest.
+❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1008  
+https://x.com/orangie/status/2125726313516564991
 
-❤ 7 · 🔁 1 · 💬 2 · цитат 0 · просмотров 995  
-https://x.com/orangie/status/2125275671538929777
+## 2026-11-25 23:00 UTC · репост
 
-## 2026-11-24 17:24 UTC · ответ
+RT @RexhaRexhaRexha: Paul Erlanger, co-founder of fomo, gifts Jeety a brand-new iPhone to celebrate his partnership with the platform https…
 
-@based16z BILLIONS.
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 7718  
+https://x.com/orangie/status/2125726472774320556
 
-❤ 41 · 🔁 1 · 💬 13 · цитат 0 · просмотров 3018  
-https://x.com/orangie/status/2125279370952495149
+## 2026-11-26 03:02 UTC · ответ
 
-## 2026-11-24 17:27 UTC · репост
+@letjaybuild @fomo @kindajeety ❤️
 
-RT @based16z: NBA champion Tristan Thompson says his friend Orangie, a former Fortnite player, has made multiple billions of dollars tradin…
-
-❤ 0 · 🔁 11 · 💬 0 · цитат 0 · просмотров 9076  
-https://x.com/orangie/status/2125280201068482892
-
-## 2026-11-24 18:03 UTC · ответ
-
-@0x_Leo_ damn Leo. We gotta get u on tiktok, ig  &amp; YT….
-
-❤ 16 · 🔁 1 · 💬 3 · цитат 0 · просмотров 2007  
-https://x.com/orangie/status/2125289280771592211
-
-## 2026-11-24 18:25 UTC · ответ
-
-@champtgram i actually think it looks nothing like it 
-
-i hope in online they can update it to current day brickell
-
-❤ 10 · 🔁 1 · 💬 2 · цитат 0 · просмотров 2610  
-https://x.com/orangie/status/2125294706036818320
-
-## 2026-11-24 20:13 UTC · ответ
-
-@minafahmi Can’t wait for mine
-
-❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1304  
-https://x.com/orangie/status/2125321897890242791
-
-## 2026-11-25 03:28 UTC · ответ
-
-@brezscales one of my favorite long term buys honestly
-
-❤ 11 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1770  
-https://x.com/orangie/status/2125431435939201244
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 871  
+https://x.com/orangie/status/2125787145717838126

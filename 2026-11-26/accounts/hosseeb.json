@@ -1,0 +1,197 @@
+[
+ {
+  "id": "2125630882782539909",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "original",
+  "created_at": "2026-11-25T16:41:09.000Z",
+  "text": "wtf?\n\nIs this commenter an insane outlier, or has this become a thing and people aren't talking about it that openly? https://t.co/k65WBYdVXK",
+  "url": "https://x.com/hosseeb/status/2125630882782539909",
+  "likes": 165,
+  "retweets": 4,
+  "replies": 116,
+  "quotes": 14,
+  "impressions": 42234,
+  "bookmarks": 41
+ },
+ {
+  "id": "2125657387218657703",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-25T18:26:28.000Z",
+  "text": "Private inference should be for everyone. The abundance of intelligence means your interactions with your AIs should be yours and no one else's.\n\n👉 @VeniceAI https://t.co/K1iCmLR6qw",
+  "url": "https://x.com/hosseeb/status/2125657387218657703",
+  "likes": 242,
+  "retweets": 14,
+  "replies": 25,
+  "quotes": 5,
+  "impressions": 19982,
+  "bookmarks": 26,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125638790593274259",
+   "text": "We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.\n\nStronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out"
+  }
+ },
+ {
+  "id": "2125657705713213686",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-25T18:27:44.000Z",
+  "text": "RT @shayne_coplan: Compute markets are finally here.\n\n@Polymarket now prices on-demand compute for @nvidia H100s, B200s, and B300s, out to…",
+  "url": "https://x.com/hosseeb/status/2125657705713213686",
+  "likes": 0,
+  "retweets": 480,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1426,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125653367640805799",
+   "text": "Compute markets are finally here.\n\n@Polymarket now prices on-demand compute for @nvidia H100s, B200s, and B300s, out to 2028. More chips and terms soon. https://t.co/CjNZF6kWtg\n\nThink of it as a yield curve for the cost of compute: the forecasted $/hour price of each chip at https://t.co/eVSUfimblu"
+  }
+ },
+ {
+  "id": "2125676620711333964",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-25T19:42:54.000Z",
+  "text": "RT @ivanbogatyy: Qwen3's Colorado neuron also fires on Bolivia. \"Neural Networks Are Already Clean\" hints why: both mountainous.\n\nBut surel…",
+  "url": "https://x.com/hosseeb/status/2125676620711333964",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1527,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125676278464561466",
+   "text": "Qwen3's Colorado neuron also fires on Bolivia. \"Neural Networks Are Already Clean\" hints why: both mountainous.\n\nBut surely that could've gone a million ways?\n\nNope: I find Bolivia is the #1 country for the Colorado neuron in Gemma 3, Gemma 4, Llama 3.3 and Mistral Small.\n\n🧵👇 https://t.co/7buZPYLnyk https://t.co/GAEANJViPJ"
+  }
+ },
+ {
+  "id": "2125686330667716840",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-25T20:21:29.000Z",
+  "text": "@kaimi_local @VeniceAI Wrong. You can use E2E encrypted mode for open models, which verifies TEE-level encryption via attestations.",
+  "url": "https://x.com/hosseeb/status/2125686330667716840",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 418,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125663237417140328",
+   "text": "@hosseeb @VeniceAI well / afaik privacy on Venice is mostly trust me bro.. you either own your inference hardware or not..  btw, do you?"
+  }
+ },
+ {
+  "id": "2125696229229392209",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "quote",
+  "created_at": "2026-11-25T21:00:49.000Z",
+  "text": "Ok, seems this is not as much of an outlier as I thought. \n\nLast time I used Suno was a year ago. I found it impressive but had no desire to stay on.\n\nWill redownload and give it an earnest try. \n\nAny tips from AI music lovers? Are you sitting around and prompting with your https://t.co/dPGLrd9P6a",
+  "url": "https://x.com/hosseeb/status/2125696229229392209",
+  "likes": 32,
+  "retweets": 0,
+  "replies": 25,
+  "quotes": 0,
+  "impressions": 8035,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125630882782539909",
+   "text": "wtf?\n\nIs this commenter an insane outlier, or has this become a thing and people aren't talking about it that openly? https://t.co/k65WBYdVXK"
+  }
+ },
+ {
+  "id": "2125699895063609531",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "retweet",
+  "created_at": "2026-11-25T21:15:23.000Z",
+  "text": "RT @NadavAHollander: If your eng team doesn’t have an internal benchmark for evaluating models, harnesses, and skills, you’ll be behind the…",
+  "url": "https://x.com/hosseeb/status/2125699895063609531",
+  "likes": 0,
+  "retweets": 13,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1474,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125298180057371111",
+   "text": "If your eng team doesn’t have an internal benchmark for evaluating models, harnesses, and skills, you’ll be behind the curve in 2027.\n\nWe’ll build you one for free.  Seriously. https://t.co/h0gQz6johu"
+  }
+ },
+ {
+  "id": "2125759783479529818",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-26T01:13:21.000Z",
+  "text": "Because it won't be for everyone. This is something they're only offering to corporations.\n\n\"Stronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem.\"",
+  "url": "https://x.com/hosseeb/status/2125759783479529818",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 803,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125725944207774089",
+   "text": "@hosseeb @VeniceAI This seems rather bearish for VVV holders but what am I missing?"
+  }
+ },
+ {
+  "id": "2125768687789679017",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-26T01:48:44.000Z",
+  "text": "@spencernoon @VeniceAI It is already a mainstream consumer product. Venice is offering it.",
+  "url": "https://x.com/hosseeb/status/2125768687789679017",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 926,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125761397153812567",
+   "text": "@hosseeb @VeniceAI But we all know where this is headed I think. If the market demands it, it will become a mainstream consumer product too — and every additional dollar in market size that Venice carves out is only further validating the eventual opportunity for OpenAI. How does VVV win the"
+  }
+ },
+ {
+  "id": "2125769043722576118",
+  "username": "hosseeb",
+  "username_canon": "hosseeb",
+  "type": "reply",
+  "created_at": "2026-11-26T01:50:09.000Z",
+  "text": "Your argument is essentially \"but what if there's competition\"?\n\nThere will eventually be competition. That goes without saying. But so far, it's very clear that OpenAI doesn't have the stomach to actually offer this product to everyone.\n\nIn that is their weakness. The Apple stance of privacy maximalism—which has bought a lot of consumer loyalty—is not one that any company can take.\n\nIt's trust you have to earn through action.",
+  "url": "https://x.com/hosseeb/status/2125769043722576118",
+  "likes": 5,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 1010,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125768687789679017",
+   "text": "@spencernoon @VeniceAI It is already a mainstream consumer product. Venice is offering it."
+  }
+ }
+]

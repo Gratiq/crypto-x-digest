@@ -1,48 +1,36 @@
-# @a1lon9 — посты за 2026-11-25
+# @a1lon9 — посты за 2026-11-26
 
-Всего: 5
+Всего: 4
 
-## 2026-11-24 23:40 UTC · ответ
+## 2026-11-25 17:42 UTC · репост
 
-@PumpfunEco We had some great feedback to make competitions much more fair - this is a step away from whale games and focuses more on raw trading skill.
+RT @json1444: TL;DR of the upcoming $10k Buy-in Competition:
 
-Many more competitions to come. Excited to see this one play out!
+1) everyone has a $10k starting balance
+2) you *don't* need to reduce your Pu…
 
-❤ 131 · 🔁 4 · 💬 70 · цитат 3 · просмотров 8180  
-https://x.com/a1lon9/status/2125374077393424415
+❤ 0 · 🔁 47 · 💬 0 · цитат 0 · просмотров 18723  
+https://x.com/a1lon9/status/2125646307616346558
 
-## 2026-11-24 23:40 UTC · репост
+## 2026-11-25 17:48 UTC · ответ
 
-RT @PumpfunEco: Introducing the $10,000 Buy-in Competition 🏆
+@json1444 most innovative trading competition I have seen in ages, super excited to see how it plays out!
 
-Every trader starts with the same $10,000 budget: no whale games, no restarts…
+❤ 138 · 🔁 6 · 💬 69 · цитат 1 · просмотров 7179  
+https://x.com/a1lon9/status/2125647719930990758
 
-❤ 0 · 🔁 34 · 💬 0 · цитат 0 · просмотров 15210  
-https://x.com/a1lon9/status/2125374084489904600
+## 2026-11-25 22:30 UTC · пост
 
-## 2026-11-25 00:32 UTC · репост
+https://t.co/oAQHWDkJWU
 
-RT @andy8052: Looks like @Pumpfun is launching its first buy-in tournament 
+❤ 2020 · 🔁 257 · 💬 833 · цитат 363 · просмотров 349134  
+https://x.com/a1lon9/status/2125718869058650591
 
-Seems like you can only play with a bankroll of $10k which sho…
+## 2026-11-25 22:33 UTC · репост
 
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 15442  
-https://x.com/a1lon9/status/2125387128381325397
+RT @Pumpfun: On December 4th, we’re rolling out a block0 fee on all Pumpfun launches.
 
-## 2026-11-25 01:50 UTC · репост
+The first seconds after a coin launches decide wheth…
 
-RT @netvyxe: The animations in the @Pumpfun app are a separate art form
-
-@initwithcarl, it's a crime to make such beautiful animations, i c…
-
-❤ 0 · 🔁 19 · 💬 0 · цитат 0 · просмотров 14073  
-https://x.com/a1lon9/status/2125406693395923074
-
-## 2026-11-25 01:54 UTC · репост
-
-RT @quantJB: Signed up for the first @Pumpfun buy in competition 
-
-Everybody starts with 10k USD, a level playing field and anybody can joi…
-
-❤ 0 · 🔁 10 · 💬 0 · цитат 0 · просмотров 14517  
-https://x.com/a1lon9/status/2125407625160634457
+❤ 0 · 🔁 108 · 💬 0 · цитат 0 · просмотров 10326  
+https://x.com/a1lon9/status/2125719441774408023

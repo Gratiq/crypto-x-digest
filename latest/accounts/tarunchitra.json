@@ -1,142 +1,162 @@
 [
  {
-  "id": "2125250571179344226",
+  "id": "2125613228541747589",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "retweet",
-  "created_at": "2026-11-24T15:29:56.000Z",
-  "text": "RT @TomGur: It appears that OpenAI has an alternative proof of VP \\neq VNP:\nhttps://t.co/8hbyfv8uxF",
-  "url": "https://x.com/tarunchitra/status/2125250571179344226",
+  "created_at": "2026-11-25T15:31:00.000Z",
+  "text": "RT @nasqret: In a recent conversation with @AnnaRRose and @tarunchitra we discussed mathematical intuition and the way mathematicians justi…",
+  "url": "https://x.com/tarunchitra/status/2125613228541747589",
   "likes": 0,
-  "retweets": 14,
+  "retweets": 4,
   "replies": 0,
   "quotes": 0,
-  "impressions": 409,
+  "impressions": 395,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125213700730847707",
-   "text": "It appears that OpenAI has an alternative proof of VP \\neq VNP:\nhttps://t.co/8hbyfv8uxF"
+   "id": "2125613005949825186",
+   "text": "In a recent conversation with @AnnaRRose and @tarunchitra we discussed mathematical intuition and the way mathematicians justify claims. With the example of tilings we can see\nhow the idea or proving has evolved over millenia. Massive formal proof artifacts are just a new way of https://t.co/O1uOk1gxkE"
   }
  },
  {
-  "id": "2125262921672294439",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "quote",
-  "created_at": "2026-11-24T16:19:00.000Z",
-  "text": "I think if you add up the experience here and on OpenAI Jalapeño, it is like 100+ years of ASIC design experience (which is very rare in today's environment, despite the intense capital investment in inference ASICs)\n\n[One of the reasons DESRES was an awesome place to work] https://t.co/ILkHPRDCz5",
-  "url": "https://x.com/tarunchitra/status/2125262921672294439",
-  "likes": 62,
-  "retweets": 1,
-  "replies": 6,
-  "quotes": 0,
-  "impressions": 6315,
-  "bookmarks": 20,
-  "referenced": {
-   "type": "quoted",
-   "id": "2125249330663575628",
-   "text": "Hudson River Trading has hired OpenAI's Anthony Forte, the fifth D.E. Shaw Research veteran on its hardware team\n\nForte joined HRT this month as a mechanical engineer after almost two years on OpenAI's technical staff.\n\nBefore that he spent about 17 years at D.E. Shaw Research"
-  }
- },
- {
-  "id": "2125264324247552189",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "reply",
-  "created_at": "2026-11-24T16:24:35.000Z",
-  "text": "A lot of intellectual freedom to work on interdisciplinary problems in hardware, physics, biology; you weren't really forced into one field and could spend time working on multiple things. Plus David was very open minded. The alumni/places people went afterwards almost more impressive than the place itself (e.g. Nobel Prize winner)",
-  "url": "https://x.com/tarunchitra/status/2125264324247552189",
-  "likes": 4,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 307,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125263543477879103",
-   "text": "@tarunchitra What do you think made DESRES so good?"
-  }
- },
- {
-  "id": "2125264444368593406",
+  "id": "2125616157671727573",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "retweet",
-  "created_at": "2026-11-24T16:25:03.000Z",
-  "text": "RT @rrwilliams: Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...\n- I'm happy to see a major *lower bound*…",
-  "url": "https://x.com/tarunchitra/status/2125264444368593406",
+  "created_at": "2026-11-25T15:42:38.000Z",
+  "text": "RT @eshita: We talked to @tarunchitra from @robotventures about how the AI inference market works today and how it could be fairer and more…",
+  "url": "https://x.com/tarunchitra/status/2125616157671727573",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 363,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125615282693750794",
+   "text": "We talked to @tarunchitra from @robotventures about how the AI inference market works today and how it could be fairer and more efficient.\n\nA few takeaways:\n\n1. A lower price per token doesn’t always mean a lower bill. You can pay more if an inference provider charges full price https://t.co/nMIiI1Mtqf"
+  }
+ },
+ {
+  "id": "2125616174549659910",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-25T15:42:42.000Z",
+  "text": "RT @TheDryRunPod: How does AI inference get bought and sold?\n\nOn this episode, we sat down with Tarun (@tarunchitra) to talk about how open…",
+  "url": "https://x.com/tarunchitra/status/2125616174549659910",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 411,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125608960183116255",
+   "text": "How does AI inference get bought and sold?\n\nOn this episode, we sat down with Tarun (@tarunchitra) to talk about how open-weight models are unbundling the AI inference market and what it takes to make a fair market for compute.\n\n02:14 Closed models bundle, open weights unbundle https://t.co/U4FbKoHfNW"
+  }
+ },
+ {
+  "id": "2125620171008250168",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-25T15:58:35.000Z",
+  "text": "RT @khushii_w: AI inference looks like a commodity market until you look at the bill.\n\nGreat conversation with @tarunchitra peeling back th…",
+  "url": "https://x.com/tarunchitra/status/2125620171008250168",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 405,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125618526689907062",
+   "text": "AI inference looks like a commodity market until you look at the bill.\n\nGreat conversation with @tarunchitra peeling back the layer on the cost of inference: \n\n- a big discount can still end up costing more for companies\n\n- two providers running the same model aren't https://t.co/8rghqdAhSV"
+  }
+ },
+ {
+  "id": "2125681580555358500",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-25T20:02:36.000Z",
+  "text": "RT @Lighter_xyz: The Lighter EVM devnet is now open to everyone! \n\nBuilt with @axiom_xyz and powered by OpenVM, Lighter EVM lets developers…",
+  "url": "https://x.com/tarunchitra/status/2125681580555358500",
   "likes": 0,
   "retweets": 49,
   "replies": 0,
   "quotes": 0,
-  "impressions": 397,
+  "impressions": 369,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125264192768757973",
-   "text": "Some quick reactions to VP vs VNP. Obviously I don't understand it all yet, but...\n- I'm happy to see a major *lower bound* proved with AI! That is extremely exciting. \n- My intuition has always been that proving algebraic circuit lower bounds is very different from P/NP,"
+   "id": "2125334767243538751",
+   "text": "The Lighter EVM devnet is now open to everyone! \n\nBuilt with @axiom_xyz and powered by OpenVM, Lighter EVM lets developers write smart contracts that interact directly with Lighter Core.  🧵 https://t.co/vVyPYICsom https://t.co/ByhRlqwyGU"
   }
  },
  {
-  "id": "2125294133611004329",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "retweet",
-  "created_at": "2026-11-24T18:23:02.000Z",
-  "text": "RT @zacharylipton: In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropi…",
-  "url": "https://x.com/tarunchitra/status/2125294133611004329",
-  "likes": 0,
-  "retweets": 3,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 415,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2125273559497052519",
-   "text": "In a textbook case of countervailing effects, thousands of San Franciscans don't know which direction they need Anthropic stock to move in order to afford a home.\n\n • Wealth effect: Purchasing power declines as your equity holdings lose value.\n • General equilibrium effect:"
-  }
- },
- {
-  "id": "2125397546868543525",
+  "id": "2125711998037917992",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "quote",
-  "created_at": "2026-11-25T01:13:57.000Z",
-  "text": "Wow, Cohn, Kleinberg, and Alon  were right... just two decades too early https://t.co/3k4YHr399B",
-  "url": "https://x.com/tarunchitra/status/2125397546868543525",
-  "likes": 33,
-  "retweets": 0,
-  "replies": 5,
-  "quotes": 0,
-  "impressions": 3275,
-  "bookmarks": 2,
+  "created_at": "2026-11-25T22:03:28.000Z",
+  "text": "If you read Red Plenty, you don’t need P = NP for this, you just need LP solving to be fast (which OpenAI proved yesterday; aka Smale’s 9th problem) https://t.co/dqtA8iPhht https://t.co/muivCbou4t",
+  "url": "https://x.com/tarunchitra/status/2125711998037917992",
+  "likes": 32,
+  "retweets": 3,
+  "replies": 9,
+  "quotes": 1,
+  "impressions": 2957,
+  "bookmarks": 19,
   "referenced": {
    "type": "quoted",
-   "id": "2125387569898869190",
-   "text": "Wow!\n\nomega = 9/4 and sunflower conjecture is proven. Very cool https://t.co/gVd1o9LLcs https://t.co/w8ieO9SYqc"
+   "id": "2125702834813538594",
+   "text": "If P = NP then communism works in theory"
   }
  },
  {
-  "id": "2125419723609264367",
+  "id": "2125712763884343326",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
-  "type": "retweet",
-  "created_at": "2026-11-25T02:42:05.000Z",
-  "text": "RT @Intrinsic_HQ: Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for…",
-  "url": "https://x.com/tarunchitra/status/2125419723609264367",
-  "likes": 0,
-  "retweets": 15,
+  "type": "reply",
+  "created_at": "2026-11-25T22:06:31.000Z",
+  "text": "“Fast” meaning unconditionally deterministic polytime",
+  "url": "https://x.com/tarunchitra/status/2125712763884343326",
+  "likes": 4,
+  "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 357,
+  "impressions": 595,
   "bookmarks": 0,
   "referenced": {
-   "type": "retweeted",
-   "id": "2125273322053410998",
-   "text": "Today we're releasing initial results on scaling x86 binary verification: proofs using @leanprover that machine code for 71 operations across 10 RustCrypto crates matches the relevant standards.\n\nThis is our first step in securing all software with AI-powered formal verification. https://t.co/tdlxPPIClp"
+   "type": "replied_to",
+   "id": "2125711998037917992",
+   "text": "If you read Red Plenty, you don’t need P = NP for this, you just need LP solving to be fast (which OpenAI proved yesterday; aka Smale’s 9th problem) https://t.co/dqtA8iPhht https://t.co/muivCbou4t"
+  }
+ },
+ {
+  "id": "2125782619787079983",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-26T02:44:06.000Z",
+  "text": "Pareto rankings are becoming homotopies on spheres\n\nLooking forward to the Frontier Spectral Sequence https://t.co/xxvFmVbMmK",
+  "url": "https://x.com/tarunchitra/status/2125782619787079983",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 4,
+  "quotes": 0,
+  "impressions": 1653,
+  "bookmarks": 7,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125631050319831474",
+   "text": "🗝️ Introducing Plato's Key. A single rotation lets independently trained LLMs use each other’s representations as their own. No gradients required ✨\n\nWith @jerrywliu, @MorrisYau, and @HazyResearch.\n🧵 https://t.co/bolBQLeHMY https://t.co/LTIyGrFN2Q"
   }
  }
 ]
