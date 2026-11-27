@@ -1,0 +1,37 @@
+[
+ {
+  "id": "2125957245024555281",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "original",
+  "created_at": "2026-11-26T14:18:00.000Z",
+  "text": "went to bed thinking about toronto and this came to me in a dream https://t.co/JlPlkGx62l",
+  "url": "https://x.com/tomhschmidt/status/2125957245024555281",
+  "likes": 67,
+  "retweets": 0,
+  "replies": 15,
+  "quotes": 0,
+  "impressions": 4012,
+  "bookmarks": 1
+ },
+ {
+  "id": "2125997589304680859",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "reply",
+  "created_at": "2026-11-26T16:58:19.000Z",
+  "text": "great movie btw",
+  "url": "https://x.com/tomhschmidt/status/2125997589304680859",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 446,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125957245024555281",
+   "text": "went to bed thinking about toronto and this came to me in a dream https://t.co/JlPlkGx62l"
+  }
+ }
+]

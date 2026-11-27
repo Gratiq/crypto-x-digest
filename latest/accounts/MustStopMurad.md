@@ -1,75 +1,87 @@
-# @MustStopMurad — посты за 2026-11-26
+# @MustStopMurad — посты за 2026-11-27
 
-Всего: 7
+Всего: 9
 
-## 2026-11-25 09:42 UTC · репост
+## 2026-11-26 07:51 UTC · пост
 
-RT @CountryBitcoin: Persist Forever 078 with @fangiskhan is out now!
+For most Cryptoassets, 100 people join during a bull market, and 97 leave during a bear market.
 
-https://t.co/avbYwQR0Ex
+For *special* Cryptoassets, 100 people join during a bull market, and only 75 leave during a bear market. 
 
-❤ 0 · 🔁 20 · 💬 0 · цитат 0 · просмотров 23449  
-https://x.com/MustStopMurad/status/2125525534486446244
+Pay attention to the second kind.
 
-## 2026-11-25 10:28 UTC · репост
+Seems like not a big difference on the
 
-RT @realthigh: It's gonna be so fucking funny when SPX starts flipping major companies.
+❤ 645 · 🔁 106 · 💬 102 · цитат 6 · просмотров 40521  
+https://x.com/MustStopMurad/status/2125859903256326238
 
-Every market participant will be forced to either…
+## 2026-11-26 10:08 UTC · репост
 
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 23599  
-https://x.com/MustStopMurad/status/2125537223487701041
+RT @Ramderresse: Another massive DCA, being consistent for almost 2 years with buying up all the supply of SPX6900.
 
-## 2026-11-25 11:31 UTC · пост
+There is nothing in cr…
 
-Crypto massively rewards only 1 type of person.
+❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 23459  
+https://x.com/MustStopMurad/status/2125894502414184600
 
-(a) An Extremely Patient Holder
-(b) with the Right Asset Selection
+## 2026-11-26 11:07 UTC · пост
 
-You goal is to accomplish both of these, and you will do incredibly well.
+Flushes are not just needed, they are desirable.
+The more unbelievers we leave behind here, the more relentless the Parabolic Ascent later.
 
-❤ 965 · 🔁 161 · 💬 197 · цитат 24 · просмотров 45170  
-https://x.com/MustStopMurad/status/2125553038639108228
+❤ 671 · 🔁 118 · 💬 93 · цитат 9 · просмотров 38652  
+https://x.com/MustStopMurad/status/2125909371401961865
 
-## 2026-11-25 12:52 UTC · репост
+## 2026-11-26 12:14 UTC · репост
 
-RT @Plutermes: Like the myth of the body, the cells of CT are replaced every 7-10 years. In this case, it has stagnated into degeneracy. It…
+RT @Matthew_C_Beck: People are dramatically underestimating cryptos exposure and sensitivity to debasement and the associated returns that…
 
-❤ 0 · 🔁 38 · 💬 0 · цитат 0 · просмотров 23746  
-https://x.com/MustStopMurad/status/2125573293935882389
+❤ 0 · 🔁 80 · 💬 0 · цитат 0 · просмотров 23135  
+https://x.com/MustStopMurad/status/2125926281627729972
 
-## 2026-11-25 15:59 UTC · пост
+## 2026-11-26 13:50 UTC · пост
 
-Which human is 135 IQ and which human is 115 IQ will not matter soon when all AI agents are 200+ IQ.
+Those who accept that transforming their life takes years, have transformed their life the moment they accepted this.
 
-Which ironically means that the “High IQ” thing to do right now is to pivot from “maximizing your intelligence” to maximizing other things.
+In the meantime, everyone else will spend much longer trying to transform their life in one day and fail.
 
-Trustworthiness. Persistence. Agency. Creativity. Network. Loyalty. Long-termism. Capital. Number of people who trust you. Fame. Health. Longevity. Beauty.
+Slow and Steady always wins.
 
-❤ 651 · 🔁 125 · 💬 93 · цитат 8 · просмотров 38059  
-https://x.com/MustStopMurad/status/2125620359101591990
+Peaceful Life Over Greed
 
-## 2026-11-25 18:26 UTC · пост
+❤ 617 · 🔁 116 · 💬 90 · цитат 12 · просмотров 37244  
+https://x.com/MustStopMurad/status/2125950204452950505
 
-Every Finance, DeFi, CeFi, CeDeFi, CEX, DEX, Wallet and Social app is converging to the same exact design:
+## 2026-11-26 14:58 UTC · репост
 
-"A Social Trading Platform with Perps, RWAs, Memecoins, Prediction Markets, Options via both Web &amp; Mobile"
+RT @GrillapeTRW: We have 100 guests confirmed for #SPX6900  art Basel 
 
-OpenSea has pivoted to a Mobile Social Perp Trading App
+Looks like we will have a big event ! https://t.co/pZ6rbXmzMU
 
-Nansen https://t.co/jHh0Fy87Q8
+❤ 0 · 🔁 49 · 💬 0 · цитат 0 · просмотров 22021  
+https://x.com/MustStopMurad/status/2125967439867392205
 
-❤ 511 · 🔁 113 · 💬 86 · цитат 19 · просмотров 38961  
-https://x.com/MustStopMurad/status/2125657329597301130
+## 2026-11-26 16:05 UTC · пост
 
-## 2026-11-25 21:12 UTC · пост
+The coming Bull Run will be Glorious.
 
-One day you will wake up and see SPX6900 all over the news, valued at several hundred billion dollars
+But now is when that Glory is earned.
 
-You will think that you are “late”
+❤ 1486 · 🔁 168 · 💬 172 · цитат 23 · просмотров 56365  
+https://x.com/MustStopMurad/status/2125984189044740452
 
-Only to then see it pierce through its first Trillion in market capitalization soon thereafter
+## 2026-11-26 17:11 UTC · репост
 
-❤ 688 · 🔁 152 · 💬 99 · цитат 12 · просмотров 40292  
-https://x.com/MustStopMurad/status/2125699060392919192
+RT @aeonbro: wow what a plognificent day
+
+onboarded my hunting buddy with a @CaptainVess gift card and showed him around coinbase to start…
+
+❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 21988  
+https://x.com/MustStopMurad/status/2126000918642536637
+
+## 2026-11-26 19:14 UTC · пост
+
+The difference between spx6900 and everything else, is that what we are doing, is going to set us up for life.
+
+❤ 629 · 🔁 121 · 💬 77 · цитат 16 · просмотров 34012  
+https://x.com/MustStopMurad/status/2126031911713964534

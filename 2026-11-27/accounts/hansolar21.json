@@ -1,0 +1,102 @@
+[
+ {
+  "id": "2125860811084378559",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T07:54:48.000Z",
+  "text": "@litocoen Im ordering dates right now 😋",
+  "url": "https://x.com/hansolar21/status/2125860811084378559",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 201,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125859968117272937",
+   "text": "@hansolar21 madness\nhttps://t.co/1x0siLeWNy"
+  }
+ },
+ {
+  "id": "2125864850970775579",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T08:10:51.000Z",
+  "text": "@litocoen Dates from middle east. Gotcha 👌",
+  "url": "https://x.com/hansolar21/status/2125864850970775579",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 111,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125861594773213306",
+   "text": "@hansolar21 the issue is that most dates in western supermarkets suck\n\ni didn't like dates until i discovered the real ones from iran/middle east\n\nget them from a good middle eastern supermarket and ask for fresh ones"
+  }
+ },
+ {
+  "id": "2125881779794096308",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-26T09:18:07.000Z",
+  "text": "Huobi has now almost emptied all of their BTC OI https://t.co/0Csc6UHl9P https://t.co/AmK9xI3gLA",
+  "url": "https://x.com/hansolar21/status/2125881779794096308",
+  "likes": 127,
+  "retweets": 4,
+  "replies": 13,
+  "quotes": 1,
+  "impressions": 11424,
+  "bookmarks": 16,
+  "referenced": {
+   "type": "quoted",
+   "id": "2120095938928882066",
+   "text": "Maybe the bottom for BTC isn't in? https://t.co/7buPy9Xgfz"
+  }
+ },
+ {
+  "id": "2126068708913430980",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-26T21:40:55.000Z",
+  "text": "@pmacaverse I haven't gotten around to trying this one!",
+  "url": "https://x.com/hansolar21/status/2126068708913430980",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 85,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125986662245093693",
+   "text": "@hansolar21 the piece de resistance https://t.co/T7jYvanWe2"
+  }
+ },
+ {
+  "id": "2126085201084428743",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-26T22:46:27.000Z",
+  "text": "Every four years, crypto faces an existential crisis.\n\n2018: Consensus crisis (BCH)\n2022: Solvency crisis (LUNA/FTX)\n2026: Cryptography crisis? https://t.co/onH13KYhDL",
+  "url": "https://x.com/hansolar21/status/2126085201084428743",
+  "likes": 99,
+  "retweets": 5,
+  "replies": 10,
+  "quotes": 0,
+  "impressions": 8047,
+  "bookmarks": 11,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126012218609213456",
+   "text": "I have a sneaking suspicion that OpenAI is nearing a break in ECC. Why? Because my own research project immediately halts Astra-6.2 from going any further on the topic, whereas Astra-6.0 did not. The technique is simple enough to describe in a single sentence, and so I am posting"
+  }
+ }
+]

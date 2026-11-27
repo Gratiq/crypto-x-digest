@@ -1,0 +1,22 @@
+[
+ {
+  "id": "2125985802165322088",
+  "username": "pythianism",
+  "username_canon": "pythianism",
+  "type": "retweet",
+  "created_at": "2026-11-26T16:11:28.000Z",
+  "text": "RT @joshavata: Gemini 4 Hyrogen is improving rapidly in performance and cost https://t.co/9yuH5Bn65x",
+  "url": "https://x.com/pythianism/status/2125985802165322088",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 897,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125810834035314778",
+   "text": "Gemini 4 Hyrogen is improving rapidly in performance and cost https://t.co/9yuH5Bn65x https://t.co/86XgqDWjoE"
+  }
+ }
+]

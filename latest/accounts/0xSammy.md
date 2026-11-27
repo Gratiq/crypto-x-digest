@@ -1,81 +1,120 @@
-# @0xSammy — посты за 2026-11-26
+# @0xSammy — посты за 2026-11-27
 
-Всего: 10
+Всего: 15
 
-## 2026-11-25 07:44 UTC · репост
+## 2026-11-26 08:23 UTC · репост
 
-RT @0xSammy: Jensen’s back + crypto AI caught a bid; but which tokens sustained their pump?
+RT @DAHHEADBOY: the scary part is that crypto isn't immune yet. same math family breaks ECDSA, so every exposed pubkey becomes a target
 
-I’ve compared several tokens for my newsletter…
+it…
 
-❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/0xSammy/status/2125495776696570264
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 3272  
+https://x.com/0xSammy/status/2125868115825172581
 
-## 2026-11-25 11:54 UTC · ответ
+## 2026-11-26 08:25 UTC · ответ
 
-@punk9059 its pretty insane to see, curious whether there will be repercussions in the coming years for this
+@Zeneca I remember this, it also just drove up house prices on eligible properties
 
-❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 612  
-https://x.com/0xSammy/status/2125558774165373426
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 425  
+https://x.com/0xSammy/status/2125868421006885117
 
-## 2026-11-25 18:04 UTC · ответ
+## 2026-11-26 08:26 UTC · ответ
 
-@lucainweb3 @Ondo Congrats on the new role ser
+@Zeneca @jesusislord End of an era 
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 211  
-https://x.com/0xSammy/status/2125651921973190800
+Kudos for sticking at it for so long ser
 
-## 2026-11-25 18:07 UTC · репост
+❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 734  
+https://x.com/0xSammy/status/2125868716839641445
 
-RT @Shaughnessy119: The solution to AI safety is open source
+## 2026-11-26 08:33 UTC · ответ
 
-❤ 0 · 🔁 154 · 💬 0 · цитат 0 · просмотров 2846  
-https://x.com/0xSammy/status/2125652629544136789
+@ArtofConviction Trauma bonding was kinda fun haha
 
-## 2026-11-25 18:07 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 293  
+https://x.com/0xSammy/status/2125870547431043210
 
-@Shaughnessy119 🎯
+## 2026-11-26 08:33 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 180  
-https://x.com/0xSammy/status/2125652654739399060
+@NotSoEasyMoney 😂😂
 
-## 2026-11-25 18:07 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 325  
+https://x.com/0xSammy/status/2125870653953962239
 
-@FF_V12 Bring back the good times
+## 2026-11-26 08:34 UTC · ответ
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 214  
-https://x.com/0xSammy/status/2125652709290475571
+@OldSchoolRS Banger
 
-## 2026-11-25 18:41 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1001  
+https://x.com/0xSammy/status/2125870776691610052
 
-@seedphrase Savage lmao
+## 2026-11-26 11:00 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 266  
-https://x.com/0xSammy/status/2125661258380653036
+@EddiSpaghetto Yeah precisely
 
-## 2026-11-25 18:44 UTC · ответ
+Time to prep 😂
 
-@blue_clarity Savage
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 221  
+https://x.com/0xSammy/status/2125907445838950503
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 763  
-https://x.com/0xSammy/status/2125661980467884067
+## 2026-11-26 18:01 UTC · ответ
 
-## 2026-11-25 21:47 UTC · цитата
+@saintniko Lmao
 
-This would be absoloutly insane!
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 249  
+https://x.com/0xSammy/status/2126013563953099013
 
-If RSA were broken, the entire financial system as we know it would go offline while new security protocols were instated 
+## 2026-11-26 18:13 UTC · ответ
 
-Perhaps this would catalyze a (temporary?) crypto bull market as tradFi bros off ramped their mutable fiat currencies into hard money…
+@waleswoosh Still time? 😬
 
-❤ 21 · 🔁 2 · 💬 4 · цитат 1 · просмотров 6580  
-https://x.com/0xSammy/status/2125708099239530881
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 217  
+https://x.com/0xSammy/status/2126016509537571188
 
-## 2026-11-25 21:49 UTC · цитата
+## 2026-11-26 18:14 UTC · ответ
 
-… temporarily, until cryptosystems were subsequently broken? 
+@icobeast Fuck man, lost so much money on that era
 
-Fall of RSA first though, right? https://t.co/bUIedUe2B4
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 364  
+https://x.com/0xSammy/status/2126016767344390146
 
-❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 646  
-https://x.com/0xSammy/status/2125708505562706064
+## 2026-11-26 22:09 UTC · ответ
+
+@redcrabguy What if they remove the max cap on red crabs like they’re doing for the max cash stack? 👀
+
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 333  
+https://x.com/0xSammy/status/2126075859794894967
+
+## 2026-11-27 01:45 UTC · репост
+
+RT @haitzu: When your AI agent makes a transaction, who has the liability?
+
+On our latest Khala episode, I sat down with @xcolwell, founder…
+
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 2331  
+https://x.com/0xSammy/status/2126130306390323204
+
+## 2026-11-27 01:45 UTC · ответ
+
+@haitzu @xcolwell @josercaldera 🔥
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 144  
+https://x.com/0xSammy/status/2126130354700632185
+
+## 2026-11-27 02:00 UTC · цитата
+
+Mark your calendars for July 2027.
+
+Pretty insane slide deck… well worth watching (yes, it’s a video slide deck!) to see the sheer scale of how fast AI accelerates over the next 6-12 months
+
+Crazy to think AI is the worst it’ll ever be in history, might as well embrace it! https://t.co/TyHlsMHx8L https://t.co/ypgJb1qzCJ
+
+❤ 13 · 🔁 1 · 💬 4 · цитат 0 · просмотров 3641  
+https://x.com/0xSammy/status/2126134035470545325
+
+## 2026-11-27 02:03 UTC · ответ
+
+@imperooterxbt Unless he’s putting on a South African accent, it ain’t the British James Wynn
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 259  
+https://x.com/0xSammy/status/2126134878584369627

@@ -1,55 +1,35 @@
-# @zachxbt — посты за 2026-11-26
+# @zachxbt — посты за 2026-11-27
 
-Всего: 6
+Всего: 4
 
-## 2026-11-25 15:49 UTC · ответ
+## 2026-11-26 11:00 UTC · ответ
 
-The buyer @plugontele is a sketchy broker from The Com who profits off threat actors with stolen funds that overpay for exclusive Telegram usernames to flex online.
+@plugontele @durov @telegram @ton_blockchain Let’s discuss your past involvement in scamming rare Telegram usernames off people which earned you a deal with caution (DWC) warning on OGU.
 
-Two weeks ago Plug brokered several million USD of Telegram usernames from the social engineering threat actor ‘Dead’ to another threat actor ‘Jason’. 
+You later rebranded from blues to plug.
 
-The post has since been deleted by Plug.
+I’ve uploaded the Telegram chat log evidence: https://t.co/zBCfNKvJx9 https://t.co/2zPjwpsCRz
 
-❤ 947 · 🔁 51 · 💬 93 · цитат 14 · просмотров 104133  
-https://x.com/zachxbt/status/2125617831786221577
+❤ 1006 · 🔁 66 · 💬 67 · цитат 6 · просмотров 85597  
+https://x.com/zachxbt/status/2125907522787946926
 
-## 2026-11-25 16:01 UTC · ответ
+## 2026-11-26 11:03 UTC · цитата
 
-@sin61516 @durov @liar @plugontele why do i need to write a thread saying water is wet?
+@BinsNft @durov @liar @plugontele Plug is known under his old alias Blues for scamming usernames off numerous people. https://t.co/w8nMOcCyY8
 
-❤ 42 · 🔁 2 · 💬 7 · цитат 3 · просмотров 5133  
-https://x.com/zachxbt/status/2125620831799976240
+❤ 10 · 🔁 1 · 💬 1 · цитат 0 · просмотров 3192  
+https://x.com/zachxbt/status/2125908224998359309
 
-## 2026-11-25 16:13 UTC · ответ
+## 2026-11-26 11:04 UTC · цитата
 
-@hoaxontele @durov @liar @plugontele Knowingly accepting dirty funds from cybercriminals for a higher % fee?
+@Bystander0x @ZenithTON @durov @liar @plugontele I’ve published additional information about Plug / Blue below: https://t.co/w8nMOcCyY8
 
-❤ 32 · 🔁 0 · 💬 7 · цитат 0 · просмотров 6716  
-https://x.com/zachxbt/status/2125623921513017388
+❤ 20 · 🔁 3 · 💬 11 · цитат 0 · просмотров 4352  
+https://x.com/zachxbt/status/2125908544021278804
 
-## 2026-11-25 16:48 UTC · ответ
+## 2026-11-26 15:42 UTC · ответ
 
-@ZenithTON @durov @liar @plugontele Here is Dead’s public TON wallet address being funded by ~$400K from six Coinbase support social engineering scams. 
+@dn @plugontele @durov @telegram @ton_blockchain Went from phishing bored apes to ransoming companies #embarrassing https://t.co/yJS1O2tL0X
 
-UQCBwrO-54nssIcX4H-1sjXwDcl9oAd-hd8iJEiunCVv__Zt (dead.ton) 
-
-Plug brokered $10M worth of Telegram usernames from Dead on Nov 11, 2026 https://t.co/AxGozMC48m
-
-❤ 402 · 🔁 22 · 💬 36 · цитат 9 · просмотров 63836  
-https://x.com/zachxbt/status/2125632783154561151
-
-## 2026-11-25 16:51 UTC · цитата
-
-@notsturpen @durov @liar @plugontele @dead See below for basic info on Dead https://t.co/vDc2OTZ6EC https://t.co/gRmxKmyPCI
-
-❤ 13 · 🔁 0 · 💬 4 · цитат 0 · просмотров 5283  
-https://x.com/zachxbt/status/2125633372429144139
-
-## 2026-11-25 17:45 UTC · ответ
-
-@ZenithTON @durov @liar @plugontele Plug is originally from The Com like a number of his cybercriminal customers and was on the forum OGUsers a while back as the alias ‘blues’ but was banned.
-
-So I highly doubt Plug was unaware. https://t.co/d12i8UWkNO
-
-❤ 83 · 🔁 7 · 💬 14 · цитат 3 · просмотров 15187  
-https://x.com/zachxbt/status/2125647153016275349
+❤ 229 · 🔁 9 · 💬 20 · цитат 0 · просмотров 17645  
+https://x.com/zachxbt/status/2125978610242867343

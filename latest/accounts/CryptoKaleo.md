@@ -1,94 +1,183 @@
-# @CryptoKaleo — посты за 2026-11-26
+# @CryptoKaleo — посты за 2026-11-27
 
-Всего: 11
+Всего: 20
 
-## 2026-11-25 07:59 UTC · цитата
+## 2026-11-26 16:01 UTC · репост
 
-@Mirro7777 兄弟，是时候从火星转向真正的力量，像猫一样思考了。HMM 将通过强大的社群、耐心和信念重振 Robinhood 的辉煌。回家吧 https://t.co/OMcvJMdpf1
+RT @mikematvei: Thinking Cat has spent weeks consolidating between $5M and $8M.
 
-❤ 25 · 🔁 6 · 💬 4 · цитат 0 · просмотров 1035  
-https://x.com/CryptoKaleo/status/2125499570218262996
+The selling pressure appears to be drying up and this is w…
 
-## 2026-11-25 09:02 UTC · ответ
+❤ 0 · 🔁 15 · 💬 0 · цитат 0 · просмотров 10271  
+https://x.com/CryptoKaleo/status/2125983414386085962
 
-@Mirro7777 伟大就在前方🤔🐈 https://t.co/qvgxDlKghk
+## 2026-11-26 16:30 UTC · пост
 
-❤ 14 · 🔁 5 · 💬 2 · цитат 0 · просмотров 554  
-https://x.com/CryptoKaleo/status/2125515490563125746
+GOOD MORNING BULLS
 
-## 2026-11-25 15:27 UTC · пост
+&amp; happy Thanksgiving to everyone.
 
-GOOOD MORNING BULLS
+Thankful to have a place to connect with like-minded degenerates who enjoy talking, trading, and building the future of finance.
 
-❤ 184 · 🔁 7 · 💬 60 · цитат 1 · просмотров 18951  
-https://x.com/CryptoKaleo/status/2125612271439126763
+Also thankful for family, friends, Jesus, good turkey, cold weather, and cheap Bitcoin. https://t.co/qQPJ7whQO9
 
-## 2026-11-25 15:27 UTC · ответ
+❤ 88 · 🔁 5 · 💬 54 · цитат 3 · просмотров 15792  
+https://x.com/CryptoKaleo/status/2125990469444538571
 
-@BluntCap hmm and chill my man
+## 2026-11-26 16:54 UTC · ответ
 
-❤ 25 · 🔁 1 · 💬 4 · цитат 0 · просмотров 1006  
-https://x.com/CryptoKaleo/status/2125612353534537731
+@andyyy Appreciate it man! You as well!
 
-## 2026-11-25 15:30 UTC · ответ
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 444  
+https://x.com/CryptoKaleo/status/2125996545007059236
 
-@iruletrenches hm(m) sir
+## 2026-11-26 16:54 UTC · ответ
 
-❤ 8 · 🔁 0 · 💬 1 · цитат 0 · просмотров 615  
-https://x.com/CryptoKaleo/status/2125613055669080344
+@crypto_luap RIP to that guy
 
-## 2026-11-25 15:30 UTC · ответ
+And happy Thanksgiving to you!
 
-@BluntCap love to see it
+❤ 10 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1739  
+https://x.com/CryptoKaleo/status/2125996647775862924
 
-god candle szn is coming
+## 2026-11-26 17:07 UTC · цитата
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 405  
-https://x.com/CryptoKaleo/status/2125613223445504110
+Hmm… 100% agree with this.
 
-## 2026-11-25 16:29 UTC · ответ
+Real runners need time and healthy distribution to build a foundation strong enough to serve as a launchpad to send.
 
-@iruletrenches haha unfortunately no looks like it's been printing though gg
+Surviving drawdowns and slow periods is what gives communities enough conviction to feel like something is earned rather than given to them.
 
-current strategy has been all in HMM during the drawdown in the trenches, which I believe is why it's held up better than literally any other major coin on RH Chain over the last month
+When a coin runs up too hard too fast, it leads to mass extraction that’s difficult to recover from. E.g. people made a bunch of money who were early, rotated to the next narrative, and have no desire to come back.
 
-issue with a lot of other guys
+Slow and steady growth is what builds narratives that are transcendent.
 
-❤ 15 · 🔁 8 · 💬 4 · цитат 0 · просмотров 589  
-https://x.com/CryptoKaleo/status/2125627931963654263
+Think bigger.
 
-## 2026-11-25 16:31 UTC · ответ
+Learn to bullieve in something again 🤔
 
-@frogleader_eth haha I'll be the first to admit I'm far from perfect sir - don't delete anything and I'm no fortune teller so I'll have a TON of wrong takes over time that you can go back and share
+❤ 131 · 🔁 14 · 💬 49 · цитат 4 · просмотров 21282  
+https://x.com/CryptoKaleo/status/2125999893151883322
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 370  
-https://x.com/CryptoKaleo/status/2125628529614401904
+## 2026-11-26 17:45 UTC · пост
 
-## 2026-11-25 19:41 UTC · пост
+The next leg up in the trenches will be led by Robinhood Chain.
 
-I’m telling you fellas - we’re at the pico bottom of this bear market.
+Be more bullish. https://t.co/aNnInvHwxN
 
-I feel it in my bones.
+❤ 142 · 🔁 14 · 💬 55 · цитат 1 · просмотров 22272  
+https://x.com/CryptoKaleo/status/2126009358571978861
 
-We’ve already seen major hacks and main characters topple.
+## 2026-11-26 18:11 UTC · цитата
 
-When fear and FUD is this rampant is where you build generational wealth.
+#Bitcoin / $BTC 
 
-Be more bullish.
+TODAY I’M THANKFUL FOR BEING ALIVE IN THE MIDST OF ONE OF THE GREATEST GENERATIONAL ENTRY OPPORTUNITIES THE CRYPTO SPACE HAS EVER SEEN.
 
-❤ 1083 · 🔁 63 · 💬 157 · цитат 13 · просмотров 53218  
-https://x.com/CryptoKaleo/status/2125676208582988040
+WELCOME TO THE GOLDEN BULL RUN. https://t.co/tbm3T7BKGR https://t.co/rDMbJb03t0
 
-## 2026-11-26 00:53 UTC · ответ
+❤ 1143 · 🔁 81 · 💬 138 · цитат 18 · просмотров 143308  
+https://x.com/CryptoKaleo/status/2126016038374391942
 
-@eyezenhour Congrats man!
+## 2026-11-26 18:30 UTC · ответ
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 490  
-https://x.com/CryptoKaleo/status/2125754743452762370
+@Spicy_Rich Hmm
 
-## 2026-11-26 01:31 UTC · ответ
+❤ 9 · 🔁 1 · 💬 0 · цитат 0 · просмотров 627  
+https://x.com/CryptoKaleo/status/2126020826466070868
 
-@cryptonaut81 Happy Thanksgiving to you too my man!
+## 2026-11-26 18:32 UTC · ответ
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 492  
-https://x.com/CryptoKaleo/status/2125764258126282970
+@BluntCap 🤔🐈
+
+❤ 10 · 🔁 2 · 💬 0 · цитат 0 · просмотров 590  
+https://x.com/CryptoKaleo/status/2126021201386492103
+
+## 2026-11-26 18:36 UTC · ответ
+
+@TheDazzleNovak 🤝
+
+Appreciate how consistent you’ve always been my man.
+
+And if you’re looking forward to joining some generational plays it’s time to ape HMM and chill with me and @Spicy_Rich  😂
+
+❤ 1 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3911  
+https://x.com/CryptoKaleo/status/2126022380300493041
+
+## 2026-11-26 20:04 UTC · ответ
+
+Tell me this doesn’t look ready to rip https://t.co/e0OFc7joOl
+
+❤ 8 · 🔁 1 · 💬 4 · цитат 1 · просмотров 3736  
+https://x.com/CryptoKaleo/status/2126044433825361948
+
+## 2026-11-26 23:10 UTC · пост
+
+Happy Thanksgiving y’all
+
+Can say for the first time with utmost confidence up only (on the scale) https://t.co/aoyK3FziNn
+
+❤ 327 · 🔁 0 · 💬 45 · цитат 0 · просмотров 53326  
+https://x.com/CryptoKaleo/status/2126091244623282636
+
+## 2026-11-26 23:42 UTC · ответ
+
+@iruletrenches You as well sir
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 663  
+https://x.com/CryptoKaleo/status/2126099217768992874
+
+## 2026-11-26 23:42 UTC · ответ
+
+@AgentChud Same to you my man
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 690  
+https://x.com/CryptoKaleo/status/2126099245749145976
+
+## 2026-11-26 23:42 UTC · ответ
+
+@andyyy Gotta get yourself some 
+
+New conference wardrobe is boots+ suits
+
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1163  
+https://x.com/CryptoKaleo/status/2126099400522895573
+
+## 2026-11-27 02:27 UTC · ответ
+
+@zekeokx You as well my man! Hope all is well in Singapore
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 533  
+https://x.com/CryptoKaleo/status/2126140910773923945
+
+## 2026-11-27 03:50 UTC · ответ
+
+@avery_bartlett Thanks my man
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 380  
+https://x.com/CryptoKaleo/status/2126161753847316755
+
+## 2026-11-27 03:51 UTC · ответ
+
+@BroccoLeBurr It was brighter outside than it looks 😭😂
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 398  
+https://x.com/CryptoKaleo/status/2126161903474852347
+
+## 2026-11-27 03:52 UTC · ответ
+
+@cz_binance thank you sir, same to you!
+
+Also next year please move Binance blockchain week back just a bit so the two don’t overlap😂😭 https://t.co/JDANW5HKcn
+
+❤ 11 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2264  
+https://x.com/CryptoKaleo/status/2126162311761060178
+
+## 2026-11-27 05:22 UTC · ответ
+
+@MINHxDYNASTY no chance sir 
+
+impossible to replicate results via copy trading
+
+❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 835  
+https://x.com/CryptoKaleo/status/2126184873996243348

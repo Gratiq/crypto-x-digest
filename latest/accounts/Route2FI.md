@@ -1,74 +1,120 @@
-# @Route2FI — посты за 2026-11-26
+# @Route2FI — посты за 2026-11-27
 
-Всего: 7
+Всего: 11
 
-## 2026-11-25 09:29 UTC · цитата
+## 2026-11-26 09:17 UTC · ответ
 
-I've talked about Stacks for a while now, so this post doesn't surprise me. Bringing capital markets to Bitcoin is an interesting thesis for STX, IMO.
+@lucainweb3 @Ondo 🥰
 
-Their Founder @muneeb and the team seem to be paving the way for more and more institutions to earn yield on their Bitcoin by pairing it with blockstack:native.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 112  
+https://x.com/Route2FI/status/2125881688744177730
 
-If Bitcoin staking continues to scale, the open-auction staking model for ~2027 model grows STX bids, and self-custodial borrowing (using staked and earning BTC as collateral) gets shipped ~2027, I can see a @Stacks revaluing as the entry point for Bitcoin capital into yield, credit, and trading markets tbh.
+## 2026-11-26 14:27 UTC · пост
 
-❤ 498 · 🔁 18 · 💬 18 · цитат 0 · просмотров 28257  
-https://x.com/Route2FI/status/2125522172609278241
+The Bitcoin ETFs lost about $450 million on Wednesday, a 7th straight day of outflows.
 
-## 2026-11-25 10:15 UTC · пост
+November is now around $5.4 billion in net withdrawals, already the worst month on record with a few sessions left.
 
-When I talk to people with safe office jobs, they’ll say something like: 
+Assets in the funds have fallen to about $72 billion, down from $104
 
-“If I were making as much money as you make, I would just be on holiday all year.” 
+❤ 176 · 🔁 7 · 💬 15 · цитат 0 · просмотров 12060  
+https://x.com/Route2FI/status/2125959513379401761
 
-Well, that’s exactly why they never get there. The second money appears in their head, they’re already planning how to burn it on vacations and luxury items, and end up right back where they started.
+## 2026-11-26 14:46 UTC · ответ
 
-You don’t wake up one day with 8 figs because you “balanced work and life” perfectly. You get there because you’re a little f*cked up in the head and actually like the game more than the prize. 
+@zkTuring Heheh...but real though?
 
-In the same way, bodybuilders don’t quit the gym the day they look shredded.  People with real money all still work in some form. True for investing, building, trading, whatever.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 292  
+https://x.com/Route2FI/status/2125964466357674383
 
-Looking back to my 9-5 era, the problem wasn’t that I hated work. It was that I hadn’t chosen my work. Once you find something you think is fun and you feel good at it, you don’t fantasize about quitting. You just want to keep playing.
+## 2026-11-26 16:22 UTC · пост
 
-❤ 267 · 🔁 20 · 💬 45 · цитат 3 · просмотров 17772  
-https://x.com/Route2FI/status/2125533759210447085
+You don't always have to be in a trade.
 
-## 2026-11-25 10:17 UTC · ответ
+Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
 
-@insomniac988 agree
+Nice not feeling forced to trade just because the market is open, IMO.
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 444  
-https://x.com/Route2FI/status/2125534318110142858
+Ngl, 6% in this market while everything is down
 
-## 2026-11-25 19:49 UTC · цитата
+❤ 4 · 🔁 1 · 💬 0 · цитат 0 · просмотров 4774  
+https://x.com/Route2FI/status/2125988688379187382
 
-The bigger story here is that compute is starting to look like an actual asset class.
+## 2026-11-26 16:24 UTC · пост
 
-Until now, there hasn’t really been a public forward market for the cost of AI compute. Now there is and it’s already giving us a signal.
+You don't always have to be in a trade.
 
-H100 compute is ~$3.05/hr today. The market is pricing it around $2.16 by the end of 2028 - nearly 30% lower.
+Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
 
-That implies the market expects supply to keep catching up with AI demand.
+Nice not feeling forced to trade just because the market is open, IMO.
 
-If these markets get liquid, this could become one of the more important real-time indicators for the AI economy and potentially the foundation of a much bigger financial market around compute.
+Ngl, 6% in this market while everything is down https://t.co/CLeBQaljbm
 
-❤ 611 · 🔁 22 · 💬 33 · цитат 2 · просмотров 46997  
-https://x.com/Route2FI/status/2125678220909720062
+❤ 14 · 🔁 1 · 💬 6 · цитат 0 · просмотров 17174  
+https://x.com/Route2FI/status/2125989008735953198
 
-## 2026-11-25 21:39 UTC · ответ
+## 2026-11-26 16:41 UTC · пост
 
-@TimHaldorsson indeed brother
+You don't always have to be in a trade.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 359  
-https://x.com/Route2FI/status/2125705988342940131
+Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
 
-## 2026-11-25 21:41 UTC · пост
+Nice not feeling forced to trade just because the market is open, IMO.
 
-Taking risks in the markets is your only chance to make it as a man who comes from nothing. There is literally no such thing as a safe route.
+Ngl, 6% in this market while everything is down https://t.co/j1w9q9sMND
 
-❤ 291 · 🔁 22 · 💬 21 · цитат 0 · просмотров 13337  
-https://x.com/Route2FI/status/2125706418476957803
+❤ 135 · 🔁 4 · 💬 10 · цитат 0 · просмотров 25755  
+https://x.com/Route2FI/status/2125993424314876256
 
-## 2026-11-25 21:47 UTC · ответ
+## 2026-11-26 19:05 UTC · цитата
 
-@lucainweb3 @Ondo Best of luck, ser!
+Yesterday: a forward curve for where compute prices are headed.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 163  
-https://x.com/Route2FI/status/2125707932591706168
+Today: a 24/7 perp on the actual hourly price of an H100.
+
+We’re watching a completely new financial market get built in real time around the core input of the AI economy. https://t.co/UNsWUkl0Ai
+
+❤ 205 · 🔁 6 · 💬 9 · цитат 1 · просмотров 26431  
+https://x.com/Route2FI/status/2126029665160859864
+
+## 2026-11-26 20:17 UTC · цитата
+
+Everyone in the quotes and comments section is calling this hell or depression, IMO, they're missing the point.
+
+Some people genuinely love being that locked in. Pure tunnel vision on one thing while everything else fades into the background. When you're in a phase like that, it doesn't feel like deprivation, it feels weirdly fulfilling.
+
+It's definitely not for everyone, and you don't do it forever, but I can relate to this a lot. Sacrificing almost everything else to make it back in the day is the only reason I got anywhere myself. Neglected my health, didn't meet anyone, was inside the house 5 out of 7 days every week, lost my GF because I wasn't "there", sleeping issues, severe dizziness ++. Was in a weird state tbh, but I slowly came back to a normal life again during 2025. It's easy to say I wouldn't do it over again, but I know myself well enough that this obsession might come back in some form. Maybe not with crypto this time, but it could be something else.
+
+❤ 286 · 🔁 9 · 💬 10 · цитат 0 · просмотров 29007  
+https://x.com/Route2FI/status/2126047687229223063
+
+## 2026-11-26 20:31 UTC · ответ
+
+@WillBeaumontt nice one
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 212  
+https://x.com/Route2FI/status/2126051187287867492
+
+## 2026-11-26 22:01 UTC · ответ
+
+@rektdiomedes fully agree
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 292  
+https://x.com/Route2FI/status/2126073865101263301
+
+## 2026-11-27 07:19 UTC · пост
+
+Epoch 6 points are out for @TxFlow_L1. 1.25M points went to 4,700 accounts.
+
+The numbers are holding up well too, even in a rough market: TVL is sitting at $47M (up 23% over the last 30 days). 30-day perp volume hit $6.2B, taking cumulative volume past $17.1B.
+
+On the product side, they just launched TxEVM on testnet (Phase 2 of the roadmap) + slippage-capped market orders, and the iOS app went live this week too.
+
+They keep listing new stuff all the time: perps, spot, TradFi, pre IPO, and pre-market tokens.
+
+My ref link if you want 5% off fees and a points boost: https://t.co/HDoXVethlP
+
+Referral code: TXROUTE2FI
+
+❤ 7 · 🔁 2 · 💬 1 · цитат 0 · просмотров 3690  
+https://x.com/Route2FI/status/2126214316286194029

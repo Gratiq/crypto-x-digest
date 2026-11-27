@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2125877203711950859",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "reply",
+  "created_at": "2026-11-26T08:59:56.000Z",
+  "text": "@0xAlvaroHK @theempirepod @JasonYanowitz criticism =! hate",
+  "url": "https://x.com/santiagoroel/status/2125877203711950859",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 79,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125737922234323162",
+   "text": "@theempirepod @santiagoroel At one point you should consider why to do a podcast about crypto with people hating crypto. \n\nSame with the 1000x podcast. \n\nIt's really bad for the Blockworks brand. @JasonYanowitz"
+  }
+ },
+ {
+  "id": "2126075872700432434",
+  "username": "santiagoroel",
+  "username_canon": "santiagoroel",
+  "type": "retweet",
+  "created_at": "2026-11-26T22:09:23.000Z",
+  "text": "RT @elonmusk: ❤️❤️ Happy Thanksgiving! ❤️❤️",
+  "url": "https://x.com/santiagoroel/status/2126075872700432434",
+  "likes": 0,
+  "retweets": 10832,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 669,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126045116624216127",
+   "text": "❤️❤️ Happy Thanksgiving! ❤️❤️"
+  }
+ }
+]

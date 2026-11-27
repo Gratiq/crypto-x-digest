@@ -1,34 +1,38 @@
-# @zeuuss_01 — посты за 2026-11-26
+# @zeuuss_01 — посты за 2026-11-27
 
 Всего: 1
 
-## 2026-11-25 23:17 UTC · цитата
+## 2026-11-27 02:10 UTC · цитата
 
-F*cking insane... this GTA-style page just hit 4.5M views on one reel and is blowing up right now.
+No f*cking way… a guy is farming millions of views on GTA 6 before Rockstar even released it 🤯
 
-The numbers:
+→ 15 videos
+→ 16.7K subs
+→ 18M+ views on just 6 Shorts
+→ 5.6M on a single one
 
-→ 4.5M views on the top reel
-→ 153K views on another
-→ 114K on another
+He doesn't stream and he doesn't do skits. 
 
-The concept is simple:
+He just posts guides: "5 things you can do", "police system", "$40,000 in 1 minute". 
 
-A 20-year-old guy who acts like he's 65.
+Simple titles, a huge GTA logo on every cover, and a payoff in the first second.
 
-He leaves parties early, talks like someone's grandpa, plays old-school games and would rather go to bed than stay out late.
+So I recreated the format myself in one chat with Claude Code x Higgsfield.
 
-Every reel is built around a relatable situation, with GTA-style visuals and funny captions.
+Here's the whole workflow:
 
-The format works because the character is instantly recognizable.
+→ Claude Code finds the GTA 6 topics people are searching for right now
+→ It writes the script with a hook in the first 2 seconds
+→ Higgsfield generates the gameplay-style scenes and the voiceover
+→ Claude Code adds the captions, the cover and the final edit
 
-People know what to expect, and every new video feels like another episode of the same series.
+I didn't record a single clip, touch an editing app or say a word into a mic, and you can see the result in the video below 
 
-No complicated storytelling. 
+GTA 6 is going to be the biggest launch of the decade, and everyone searching for it is a potential viewer. 
 
-Just one character, simple jokes and repeatable content.
+The channels that start now will already have the audience when it drops.
 
-That's the kind of format you can turn into an entire content page.
+Comment "GTA" and I'll send you the full workflow for free 👇
 
-❤ 7 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1498  
-https://x.com/zeuuss_01/status/2125730712183812376
+❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1081  
+https://x.com/zeuuss_01/status/2126136437963984916

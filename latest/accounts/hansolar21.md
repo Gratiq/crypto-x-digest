@@ -1,52 +1,42 @@
-# @hansolar21 — посты за 2026-11-26
+# @hansolar21 — посты за 2026-11-27
 
-Всего: 6
+Всего: 5
 
-## 2026-11-26 03:07 UTC · репост
+## 2026-11-26 07:54 UTC · ответ
 
-RT @0xvarikr: The Variational trading API is live on testnet: 
+@litocoen Im ordering dates right now 😋
 
-https://t.co/ozdKz7jnmp
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 201  
+https://x.com/hansolar21/status/2125860811084378559
 
-The team is waiting for you across Discord, suppor…
+## 2026-11-26 08:10 UTC · ответ
 
-❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 953  
-https://x.com/hansolar21/status/2125788462255329513
+@litocoen Dates from middle east. Gotcha 👌
 
-## 2026-11-26 05:27 UTC · ответ
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 111  
+https://x.com/hansolar21/status/2125864850970775579
 
-@lukecannon727 What did the hedgehog and fractal guy say?
+## 2026-11-26 09:18 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 164  
-https://x.com/hansolar21/status/2125823647625724060
+Huobi has now almost emptied all of their BTC OI https://t.co/0Csc6UHl9P https://t.co/AmK9xI3gLA
 
-## 2026-11-26 05:31 UTC · пост
+❤ 127 · 🔁 4 · 💬 13 · цитат 1 · просмотров 11424  
+https://x.com/hansolar21/status/2125881779794096308
 
-Dropping some icecream alpha
-1. Flakey maldon sea salt
-2. Extra virgin olive oil
-3. Crushed candied peacan https://t.co/lEm8rdowPW
+## 2026-11-26 21:40 UTC · ответ
 
-❤ 39 · 🔁 0 · 💬 11 · цитат 0 · просмотров 2625  
-https://x.com/hansolar21/status/2125824867434139833
+@pmacaverse I haven't gotten around to trying this one!
 
-## 2026-11-26 05:37 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 85  
+https://x.com/hansolar21/status/2126068708913430980
 
-@w22py 오 해봐야겠다!
+## 2026-11-26 22:46 UTC · цитата
 
-❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 102  
-https://x.com/hansolar21/status/2125826162488439030
+Every four years, crypto faces an existential crisis.
 
-## 2026-11-26 07:09 UTC · ответ
+2018: Consensus crisis (BCH)
+2022: Solvency crisis (LUNA/FTX)
+2026: Cryptography crisis? https://t.co/onH13KYhDL
 
-@alphayou_net Italian's got the real alpha
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 39  
-https://x.com/hansolar21/status/2125849326815674815
-
-## 2026-11-26 07:23 UTC · ответ
-
-@100y_eth It was a bit early in the day 😅
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 31  
-https://x.com/hansolar21/status/2125852966762803694
+❤ 99 · 🔁 5 · 💬 10 · цитат 0 · просмотров 8047  
+https://x.com/hansolar21/status/2126085201084428743

@@ -1,0 +1,1022 @@
+[
+ {
+  "id": "2125920735663452539",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T11:52:55.000Z",
+  "text": "RT @mikemaccana: The attention to detail is amazing: https://t.co/496sSmBFHh",
+  "url": "https://x.com/toly/status/2125920735663452539",
+  "likes": 0,
+  "retweets": 18,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14547,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125579196411810286",
+   "text": "The attention to detail is amazing: https://t.co/496sSmBFHh"
+  }
+ },
+ {
+  "id": "2125922199743951233",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T11:58:44.000Z",
+  "text": "Warren: You see this pie? The pie maker made it because they want your money.  You can’t eat the money, but you can eat the pie.  You have some money, the pie maker has the pie.  \n\nWarren: So I am going to smash the pie makers kitchen so there is no more f’ing pie for anyone. https://t.co/ZkuqCl6tT4",
+  "url": "https://x.com/toly/status/2125922199743951233",
+  "likes": 132,
+  "retweets": 9,
+  "replies": 4,
+  "quotes": 4,
+  "impressions": 27403,
+  "bookmarks": 6,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125634841320305131",
+   "text": "Wealth inequality is easier to understand when there's a pie. https://t.co/qcmfelUem3"
+  }
+ },
+ {
+  "id": "2125930790794174520",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T12:32:53.000Z",
+  "text": "RT @tokens: Building on @Solana just got easier.\n\nThe new Solana developer docs are faster to navigate, cleaner to read and built for codin…",
+  "url": "https://x.com/toly/status/2125930790794174520",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14346,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125628327880982696",
+   "text": "Building on @Solana just got easier.\n\nThe new Solana developer docs are faster to navigate, cleaner to read and built for coding with AI agents. https://t.co/fOV3hRgNpJ"
+  }
+ },
+ {
+  "id": "2125934668147290247",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T12:48:17.000Z",
+  "text": "👑👑👑 https://t.co/U2FHWGwtSS",
+  "url": "https://x.com/toly/status/2125934668147290247",
+  "likes": 42,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 20333,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125933294533709870",
+   "text": "\"A portion of Leap's trading fees are planned to buy and burn SOL. Solana has inspired incredible trading apps, but none of them can do this like we can.\"\n\n5 minutes to understand what we're building. Watch the full talk from @aliquotchris at Breakpoint 2026. https://t.co/5o6iCwxzsz"
+  }
+ },
+ {
+  "id": "2125935397155037204",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T12:51:11.000Z",
+  "text": "👑👑👑 https://t.co/KyH3R15dzD",
+  "url": "https://x.com/toly/status/2125935397155037204",
+  "likes": 74,
+  "retweets": 7,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 9478,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125934915569193418",
+   "text": "Would you sign a contract you couldn't read?\n\nClear signing is now on Solana https://t.co/BzHTsHyrod"
+  }
+ },
+ {
+  "id": "2125957351039795680",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T14:18:25.000Z",
+  "text": "RT @SolPlay_jonas: If we stop doing improvements solana will not win",
+  "url": "https://x.com/toly/status/2125957351039795680",
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14060,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125953428358893848",
+   "text": "If we stop doing improvements solana will not win"
+  }
+ },
+ {
+  "id": "2125958724212916617",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T14:23:52.000Z",
+  "text": "@zeroxkyle Don’t test a plane or parachute without math.",
+  "url": "https://x.com/toly/status/2125958724212916617",
+  "likes": 14,
+  "retweets": 1,
+  "replies": 7,
+  "quotes": 0,
+  "impressions": 2975,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125609951305593231",
+   "text": "Can someone smarter than me explain how the labs make life better by cracking every math problem? \n\nAll the professors are crying and saying their life's work is over.\n\nAll software is being hacked as a result.\n\nEvery stock is being sent to hell. \n\nWho is winning? https://t.co/TrKxpRZ7x0"
+  }
+ },
+ {
+  "id": "2125960608566894773",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-26T14:31:22.000Z",
+  "text": "Anti-gravity has really good code taste 🤌🤌🤌",
+  "url": "https://x.com/toly/status/2125960608566894773",
+  "likes": 201,
+  "retweets": 3,
+  "replies": 3,
+  "quotes": 1,
+  "impressions": 44872,
+  "bookmarks": 6
+ },
+ {
+  "id": "2125961019302551962",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T14:33:00.000Z",
+  "text": "RT @SolanaEvents: Thousands of badges, thousands of stories.\n\nBreakpoint 2026 was special. https://t.co/INTDgO5ZTf",
+  "url": "https://x.com/toly/status/2125961019302551962",
+  "likes": 0,
+  "retweets": 18,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13697,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125270754648551629",
+   "text": "Thousands of badges, thousands of stories.\n\nBreakpoint 2026 was special. https://t.co/INTDgO5ZTf"
+  }
+ },
+ {
+  "id": "2125964606262931626",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T14:47:15.000Z",
+  "text": "RT @ramzyyalii: @toly I think we are getting pretty close to your dream of a decentralized NASDAQ ...",
+  "url": "https://x.com/toly/status/2125964606262931626",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 14228,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125861391357837431",
+   "text": "@toly I think we are getting pretty close to your dream of a decentralized NASDAQ ... https://t.co/WDm8OnaRhi"
+  }
+ },
+ {
+  "id": "2125964891383308622",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T14:48:23.000Z",
+  "text": "@Austin_Federa @yoayush Just ai?",
+  "url": "https://x.com/toly/status/2125964891383308622",
+  "likes": 13,
+  "retweets": 0,
+  "replies": 12,
+  "quotes": 0,
+  "impressions": 3383,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125964018875879871",
+   "text": "How many subscriptions do your ai have?"
+  }
+ },
+ {
+  "id": "2125967890818257338",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T15:00:18.000Z",
+  "text": "We might have a new 👑 https://t.co/Cr70Zkugw5",
+  "url": "https://x.com/toly/status/2125967890818257338",
+  "likes": 72,
+  "retweets": 6,
+  "replies": 2,
+  "quotes": 2,
+  "impressions": 26474,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125771710050041999",
+   "text": "BREAKING: BUG BOUNTY (round 2)\n\n69 gdp growth outpaceing inflation so fed wont lower rates pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible again https://t.co/6dX5RovqgC"
+  }
+ },
+ {
+  "id": "2125968537949028433",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T15:02:52.000Z",
+  "text": "Simulation confirmed https://t.co/OddaDnoLIU",
+  "url": "https://x.com/toly/status/2125968537949028433",
+  "likes": 68,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 27394,
+  "bookmarks": 23,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125855359323770960",
+   "text": "Stanford physicist Venkatesa Chandrasekaran has algebraically quantized gravity (using GPT 6 Astra).\n\nPossibly the biggest breakthrough in human history. Far surpassing even Riemann’s contributions. https://t.co/fxA6Rlp3FV https://t.co/hepGAEeRpH"
+  }
+ },
+ {
+  "id": "2125969823687758097",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T15:07:59.000Z",
+  "text": "@deanmlittle 🦞🦞🦞 added the optimizations.  And found and fixed the sign extension bug",
+  "url": "https://x.com/toly/status/2125969823687758097",
+  "likes": 6,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2255,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125619338510311849",
+   "text": "@toly try our compiler toolchain. we have the best numbers: https://t.co/V4QVLL9eoD"
+  }
+ },
+ {
+  "id": "2125970679925494215",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T15:11:23.000Z",
+  "text": "@catoshi22 All the introverts are wall flowers at family gatherings",
+  "url": "https://x.com/toly/status/2125970679925494215",
+  "likes": 20,
+  "retweets": 0,
+  "replies": 10,
+  "quotes": 0,
+  "impressions": 2940,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125970453709861019",
+   "text": "the audacity to do this on thxgiving, tho! jk i'm not a complainer. https://t.co/aBVq3T8AON"
+  }
+ },
+ {
+  "id": "2125972167389225064",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T15:17:18.000Z",
+  "text": "@fede_intern We need to build 2 quantum computers and alternate which one we boot up and crash the universe with as a way to communicate with the simulation operators",
+  "url": "https://x.com/toly/status/2125972167389225064",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1985,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125971694766395691",
+   "text": "@toly i couldn’t sleep. i am deeply excited and worried"
+  }
+ },
+ {
+  "id": "2125972922078769405",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T15:20:17.000Z",
+  "text": "RT @TheWattenhofer: @APEXFusion23 https://t.co/n8JY0gB1oT\n\nA fun student project from our group at ETH Zurich. The latest generation of age…",
+  "url": "https://x.com/toly/status/2125972922078769405",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 13473,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125972669833019412",
+   "text": "@APEXFusion23 https://t.co/n8JY0gB1oT\n\nA fun student project from our group at ETH Zurich. The latest generation of agents would probably first agree on a consensus algorithm. But how?! Can AI agents agree?"
+  }
+ },
+ {
+  "id": "2125974010152522104",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T15:24:37.000Z",
+  "text": "👑👑👑 https://t.co/smT5Nw9XZQ",
+  "url": "https://x.com/toly/status/2125974010152522104",
+  "likes": 83,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 20938,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125917939539083574",
+   "text": "Solana holds $547M of @xStocksFi value, a 75% share. https://t.co/lSFl4NSnCe"
+  }
+ },
+ {
+  "id": "2125989198423642120",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T16:24:58.000Z",
+  "text": "🧠🧠🧠\n\nThe best consumer products advice I got was that you are trying to build black licorice.  Find really really strong pmf with a niche audience, then grow the tam. https://t.co/HC6TXnsrBR",
+  "url": "https://x.com/toly/status/2125989198423642120",
+  "likes": 165,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 4,
+  "impressions": 31440,
+  "bookmarks": 50,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125963502095655079",
+   "text": "weird to see finance/trading apps shoving everything under the sun into one place. \n\nas a consumer, i hate the idea of my “safe” investing portfolio next to sports betting and gacha spins. \n\neverything apps = nothing apps"
+  }
+ },
+ {
+  "id": "2125991022681604241",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T16:32:13.000Z",
+  "text": "War never changes https://t.co/EqGjbfyUuc",
+  "url": "https://x.com/toly/status/2125991022681604241",
+  "likes": 33,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 22201,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125990460967596090",
+   "text": "imma defend ur funds for you @toly nvm https://t.co/Q14Duemh57 https://t.co/fDydBcQmV3"
+  }
+ },
+ {
+  "id": "2125995451510030407",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-26T16:49:49.000Z",
+  "text": "Thankful to my family and friends and USA and solana 🦃🦃🦃",
+  "url": "https://x.com/toly/status/2125995451510030407",
+  "likes": 554,
+  "retweets": 22,
+  "replies": 6,
+  "quotes": 6,
+  "impressions": 52022,
+  "bookmarks": 8
+ },
+ {
+  "id": "2125996489625489808",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-26T16:53:56.000Z",
+  "text": "It took less work to build a lean compiler than to prove rust code",
+  "url": "https://x.com/toly/status/2125996489625489808",
+  "likes": 122,
+  "retweets": 3,
+  "replies": 2,
+  "quotes": 2,
+  "impressions": 40144,
+  "bookmarks": 7
+ },
+ {
+  "id": "2125996862952083828",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "original",
+  "created_at": "2026-11-26T16:55:25.000Z",
+  "text": "A lean solana client would be easy to build if you build your own no dependencies lean =&gt; machine compiler and just use a raw low level futex for ipc",
+  "url": "https://x.com/toly/status/2125996862952083828",
+  "likes": 135,
+  "retweets": 4,
+  "replies": 4,
+  "quotes": 9,
+  "impressions": 49535,
+  "bookmarks": 19
+ },
+ {
+  "id": "2126007575108092264",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T17:37:59.000Z",
+  "text": "The age of libc is over https://t.co/XmISGmTWII https://t.co/Z1nI1Rr32g",
+  "url": "https://x.com/toly/status/2126007575108092264",
+  "likes": 62,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 20380,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125996862952083828",
+   "text": "A lean solana client would be easy to build if you build your own no dependencies lean =&gt; machine compiler and just use a raw low level futex for ipc"
+  }
+ },
+ {
+  "id": "2126011250408820808",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T17:52:36.000Z",
+  "text": "🧠🧠🧠 https://t.co/enxC7i2Xm0",
+  "url": "https://x.com/toly/status/2126011250408820808",
+  "likes": 26,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 21622,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126010874720928029",
+   "text": "the \"undrainable\" insurance fund is coming out. already past halfway.\n\nthe bug's in the margin accounting: reserved margin only ever ratchets up, never back down even when a position is sitting at a loss. honest oracle, fine. your own oracle, not fine.\n\nso I stood up an https://t.co/0A4HHCQCyz"
+  }
+ },
+ {
+  "id": "2126011482496520341",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T17:53:31.000Z",
+  "text": "🧠🧠🧠 https://t.co/PAd2t3DPrv",
+  "url": "https://x.com/toly/status/2126011482496520341",
+  "likes": 48,
+  "retweets": 2,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 7932,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126006483565560103",
+   "text": "In lean-svm @toly models SVM architecture under a State-like monad. Solana programs then become Kleisli arrows (\"flat_maps\") that change account states.\n\nTreating programs as values inherently makes proofs easier to write. If this project carries through to production readiness, https://t.co/q8RTshZZSb"
+  }
+ },
+ {
+  "id": "2126013919449989239",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T18:03:12.000Z",
+  "text": "@7LayerMagik Yea https://t.co/ZVGAbJOjpg",
+  "url": "https://x.com/toly/status/2126013919449989239",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1981,
+  "bookmarks": 4,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126012645794840668",
+   "text": "@toly Is it public? I'd like to help optimize"
+  }
+ },
+ {
+  "id": "2126016479309291998",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T18:13:22.000Z",
+  "text": "@7LayerMagik @osec_io @asymmetric_re Do they have what it takes to tell libc and llvm to f’ off",
+  "url": "https://x.com/toly/status/2126016479309291998",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2060,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126011702432924156",
+   "text": "@toly Someone is working on one already right? Was it @osec_io and @asymmetric_re ?\n\nWe should crowdsource swarm it like they're doing for the p=np proof"
+  }
+ },
+ {
+  "id": "2126027180564152447",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T18:55:54.000Z",
+  "text": "@MidTermDev Woot!",
+  "url": "https://x.com/toly/status/2126027180564152447",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 4672,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126021935523848334",
+   "text": "@toly 👀 https://t.co/gBC8hkcipQ https://t.co/zJuvKF7Wj6"
+  }
+ },
+ {
+  "id": "2126027474337452074",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T18:57:04.000Z",
+  "text": "@MidTermDev Why do you need the C tool chain? Just have it build the elf",
+  "url": "https://x.com/toly/status/2126027474337452074",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 4570,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126027180564152447",
+   "text": "@MidTermDev Woot!"
+  }
+ },
+ {
+  "id": "2126032424308228120",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T19:16:44.000Z",
+  "text": "RT @MaxResnick: Jobs in the future: https://t.co/JChbyp9QM7",
+  "url": "https://x.com/toly/status/2126032424308228120",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12521,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126012205686493464",
+   "text": "Jobs in the future: https://t.co/JChbyp9QM7"
+  }
+ },
+ {
+  "id": "2126032603149144195",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T19:17:27.000Z",
+  "text": "@mert @qkniep Q4",
+  "url": "https://x.com/toly/status/2126032603149144195",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 3349,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126025914312179996",
+   "text": "@qkniep yup I've seen this, more curious on the timeline (realistically)"
+  }
+ },
+ {
+  "id": "2126051610279514381",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T20:32:58.000Z",
+  "text": "@dallairedemers With love",
+  "url": "https://x.com/toly/status/2126051610279514381",
+  "likes": 23,
+  "retweets": 0,
+  "replies": 6,
+  "quotes": 0,
+  "impressions": 3939,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126038787562279043",
+   "text": "If P = BPP = BQP ..... how do you ever generate a single bit of entropy?\n\nIn that world there would be no randomness and everything would be deterministic. No PRNGs, nor QRNGs either. https://t.co/F3jkuPqq4k"
+  }
+ },
+ {
+  "id": "2126053909504630961",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T20:42:06.000Z",
+  "text": "@7LayerMagik Yay",
+  "url": "https://x.com/toly/status/2126053909504630961",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1801,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126053566691561878",
+   "text": "@toly Did you see FRODO yet btw? Essentially getting some of the advantages of speculative execution to speed up execution of the longest dependency chain https://t.co/dQeqAFFmWx"
+  }
+ },
+ {
+  "id": "2126054777914270051",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T20:45:33.000Z",
+  "text": "👑👑👑 https://t.co/U5w6d7CEsA",
+  "url": "https://x.com/toly/status/2126054777914270051",
+  "likes": 97,
+  "retweets": 12,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 19659,
+  "bookmarks": 5,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126040565263548649",
+   "text": "Leap Stories: SBI R3 Japan is now SBI Solana Global (@SBISolana), a venture of SBI, Sumitomo Mitsui &amp; the Solana Foundation.\n\nFull operations began Nov 25. It plans stablecoin payments &amp; onchain bonds, funds &amp; loans.\n\nSource: @cryptodotnews\n\nRead the story. Make your own call. https://t.co/kg5ciYsDgm"
+  }
+ },
+ {
+  "id": "2126069699360543202",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T21:44:51.000Z",
+  "text": "BREAKING: BUG BOUNTY (round 3: i know you are hiding from your family anyways)\n\nMy dream is a money lego for perps that is just one tiny risk module that everyone can spin up into their own markets, their own matchers, their own rewards, with formally verified magic sauce that https://t.co/Cr70Zkugw5",
+  "url": "https://x.com/toly/status/2126069699360543202",
+  "likes": 119,
+  "retweets": 7,
+  "replies": 33,
+  "quotes": 5,
+  "impressions": 30625,
+  "bookmarks": 23,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125771710050041999",
+   "text": "BREAKING: BUG BOUNTY (round 2)\n\n69 gdp growth outpaceing inflation so fed wont lower rates pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible again https://t.co/6dX5RovqgC"
+  }
+ },
+ {
+  "id": "2126070070950686785",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-26T21:46:20.000Z",
+  "text": "https://t.co/dQa9JbDUUM",
+  "url": "https://x.com/toly/status/2126070070950686785",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 3824,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126069699360543202",
+   "text": "BREAKING: BUG BOUNTY (round 3: i know you are hiding from your family anyways)\n\nMy dream is a money lego for perps that is just one tiny risk module that everyone can spin up into their own markets, their own matchers, their own rewards, with formally verified magic sauce that https://t.co/Cr70Zkugw5"
+  }
+ },
+ {
+  "id": "2126081840775827589",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T22:33:06.000Z",
+  "text": "👑👑👑 https://t.co/STIjh86pKW",
+  "url": "https://x.com/toly/status/2126081840775827589",
+  "likes": 29,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 7494,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126029893624336828",
+   "text": "gigamassive\n\nhappy thanksgiving https://t.co/iyQl0stwhD"
+  }
+ },
+ {
+  "id": "2126081971717914955",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-26T22:33:37.000Z",
+  "text": "RT @dummerspast39: AI math discoveries by how fucked we are tier list\n\nThese are the proofs the labs aren't publishing https://t.co/9yGAi25…",
+  "url": "https://x.com/toly/status/2126081971717914955",
+  "likes": 0,
+  "retweets": 600,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 12406,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126004567640789114",
+   "text": "AI math discoveries by how fucked we are tier list\n\nThese are the proofs the labs aren't publishing https://t.co/9yGAi25tLw"
+  }
+ },
+ {
+  "id": "2126084285967016079",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-26T22:42:49.000Z",
+  "text": "👑👑👑 https://t.co/aSGWiP1CC8",
+  "url": "https://x.com/toly/status/2126084285967016079",
+  "likes": 38,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 16040,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126071730259333578",
+   "text": "@toly this is supermassive"
+  }
+ },
+ {
+  "id": "2126126223730630941",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-27T01:29:27.000Z",
+  "text": "@qkniep Superintelligence was the algebraic data structure that is underlying language after all.  \n\nI wonder if AI trained on language from 20th or 19th century would hit RSI eventually.  How far do you have to go back?  Egyptians geographers carving up the line with 3,4,5 right angles?",
+  "url": "https://x.com/toly/status/2126126223730630941",
+  "likes": 5,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1774,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126086539453055066",
+   "text": "Calling LLMs statistical-next-word-guessers in 2026 is like calling computers electrical-switch-togglers in 2010... https://t.co/Xvz3UWtBp1"
+  }
+ },
+ {
+  "id": "2126126979951055300",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:32:28.000Z",
+  "text": "RT @ImDenixSol: Thankful for the @solana ecosystem ❤️🦃",
+  "url": "https://x.com/toly/status/2126126979951055300",
+  "likes": 0,
+  "retweets": 5,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9350,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126054728865820895",
+   "text": "Thankful for the @solana ecosystem ❤️🦃 https://t.co/IMZ9s3bgRX"
+  }
+ },
+ {
+  "id": "2126126996048798113",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:32:32.000Z",
+  "text": "RT @vitorpy: Thankful for the @solana ecosystem ❤️🦃",
+  "url": "https://x.com/toly/status/2126126996048798113",
+  "likes": 0,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9288,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126034194648457352",
+   "text": "Thankful for the @solana ecosystem ❤️🦃 https://t.co/K0N20Tvk1O"
+  }
+ },
+ {
+  "id": "2126127137774354527",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:33:05.000Z",
+  "text": "RT @marccolcer: This Thanksgiving, there's a LOT to be thankful for in the @solana ecosystem.\n\nFrom trillions in stablecoin volume and bill…",
+  "url": "https://x.com/toly/status/2126127137774354527",
+  "likes": 0,
+  "retweets": 7,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9048,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126008417001283592",
+   "text": "This Thanksgiving, there's a LOT to be thankful for in the @solana ecosystem.\n\nFrom trillions in stablecoin volume and billions in transactions to mainstream adoption and massive announcements at Breakpoint, 2026 has been a year of incredible progress.\n\nBut beyond the numbers, https://t.co/gAK5uqyv2T"
+  }
+ },
+ {
+  "id": "2126127166354239813",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:33:12.000Z",
+  "text": "RT @SolPlay_jonas: All zk circuits should be written in rust!",
+  "url": "https://x.com/toly/status/2126127166354239813",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9233,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126035163901829607",
+   "text": "All zk circuits should be written in rust! https://t.co/BLL0oGc9MG"
+  }
+ },
+ {
+  "id": "2126127299439517931",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:33:44.000Z",
+  "text": "RT @HeyAndyS: Account Data Direct Mapping went live today!\n\nI had a look into \n- what changed\n- which programs are now broken\n- what this e…",
+  "url": "https://x.com/toly/status/2126127299439517931",
+  "likes": 0,
+  "retweets": 3,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 10362,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126045817375162717",
+   "text": "Account Data Direct Mapping went live today!\n\nI had a look into \n- what changed\n- which programs are now broken\n- what this enables\n\nand then I went into a 🐇🕳️ of memory regions 😁👇 https://t.co/fYp5njKTNf"
+  }
+ },
+ {
+  "id": "2126142011212480798",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-27T02:32:11.000Z",
+  "text": "@cavemanloverboy @bw_solana @yoayush I’ve been busting my ass in the data mines since I was 11",
+  "url": "https://x.com/toly/status/2126142011212480798",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1398,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126138237735538882",
+   "text": "@bw_solana @yoayush \"i do software\"\n\n\"yea like trading stuff\"\n\n\"no, i specialize in more illiquid markets\""
+  }
+ },
+ {
+  "id": "2126143715924435374",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-27T02:38:58.000Z",
+  "text": "Only Uncs https://t.co/CZkFmCUNI8",
+  "url": "https://x.com/toly/status/2126143715924435374",
+  "likes": 69,
+  "retweets": 5,
+  "replies": 22,
+  "quotes": 0,
+  "impressions": 19674,
+  "bookmarks": 8,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125999566734688289",
+   "text": "This week's Journeyman is a special one.\n\nI sat down with @toly at Breakpoint and spoke about finance coming onchain, where an L1 really captures value, the boring product he thinks is the true competitor to Bitcoin, and much much more.\n\nAs ever, please enjoy!\n\n@solana https://t.co/eaMzb9q4t6"
+  }
+ },
+ {
+  "id": "2126155447627624949",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "retweet",
+  "created_at": "2026-11-27T03:25:35.000Z",
+  "text": "RT @DefuseSec: If P = BQP, I will eat my CPU.*\n\n* At a steady rate over k years, where O(nᵏ) is the classical simulation's runtime in the i…",
+  "url": "https://x.com/toly/status/2126155447627624949",
+  "likes": 0,
+  "retweets": 2,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 9559,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126154585790464207",
+   "text": "If P = BQP, I will eat my CPU.*\n\n* At a steady rate over k years, where O(nᵏ) is the classical simulation's runtime in the initial proof."
+  }
+ },
+ {
+  "id": "2126157612286918962",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-27T03:34:11.000Z",
+  "text": "1) what https://t.co/X6nDYdAUvi",
+  "url": "https://x.com/toly/status/2126157612286918962",
+  "likes": 59,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 1,
+  "impressions": 26184,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125777013827064076",
+   "text": "Valuation at IPO:\nMongoDB: $1.2b (2017)\nCloudflare: $5.3b (2019)\nDatadog: $8.7b (2019)\nCrowdstrike: $6.7b (2019)\nPalo Alto Networks: $2.8b (2012)\n\nMarket caps today:\nMongoDB: $25b\nCloudflare: $101b\nDatadog: $57b\nCrowdstrike: $215b\nPalo Alto Networks: $292b"
+  }
+ },
+ {
+  "id": "2126162127744610386",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "quote",
+  "created_at": "2026-11-27T03:52:08.000Z",
+  "text": "🤯🤯🤯 https://t.co/4LyINwW9sU",
+  "url": "https://x.com/toly/status/2126162127744610386",
+  "likes": 34,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 2,
+  "impressions": 17459,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126161705465970867",
+   "text": "leansol v0.11: the Lean node now holds Solana mainnet's state.\n\nStreamed a 127 GB snapshot from a validator and hashed all 1,245,863,525 accounts. \n\nThe lattice hash and the supply match, to the lamport.\n\nIt also computes the leader schedule from stake, so every block must be https://t.co/jjKKbApm6l"
+  }
+ },
+ {
+  "id": "2126163015792038021",
+  "username": "toly",
+  "username_canon": "toly",
+  "type": "reply",
+  "created_at": "2026-11-27T03:55:39.000Z",
+  "text": "@MidTermDev Tell it to use avx512 or whether the latest SIMD is available for the cryptography.  You’ll be able to keep up with mainnet.",
+  "url": "https://x.com/toly/status/2126163015792038021",
+  "likes": 9,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 2151,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126161705465970867",
+   "text": "leansol v0.11: the Lean node now holds Solana mainnet's state.\n\nStreamed a 127 GB snapshot from a validator and hashed all 1,245,863,525 accounts. \n\nThe lattice hash and the supply match, to the lamport.\n\nIt also computes the leader schedule from stake, so every block must be https://t.co/jjKKbApm6l"
+  }
+ }
+]

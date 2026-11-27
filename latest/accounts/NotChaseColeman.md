@@ -1,31 +1,17 @@
-# @NotChaseColeman — посты за 2026-11-26
+# @NotChaseColeman — посты за 2026-11-27
 
-Всего: 4
+Всего: 2
 
-## 2026-11-26 01:53 UTC · ответ
+## 2026-11-26 20:28 UTC · ответ
 
-@LumenAirey @Jamieminer Sup
+@zackvoell @petervoell "prev: @openai @amazon" and here we are hypergambling on wifi money.
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 46  
-https://x.com/NotChaseColeman/status/2125769880951476287
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 114  
+https://x.com/NotChaseColeman/status/2126050520716792131
 
-## 2026-11-26 01:56 UTC · ответ
+## 2026-11-27 02:47 UTC · пост
 
-@0xTheo__ Well said. Imagine if we brought new launch tech onchain. https://t.co/SmICcEFe6m
+I’m thankful for @spicypsychox ❤️
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 282  
-https://x.com/NotChaseColeman/status/2125770649969008914
-
-## 2026-11-26 06:30 UTC · цитата
-
-@18decimals Always was https://t.co/O5f1yc9lj0
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 57  
-https://x.com/NotChaseColeman/status/2125839489683906766
-
-## 2026-11-26 07:24 UTC · цитата
-
-Need more guys like this around again https://t.co/6K5HcZjsxq
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 402  
-https://x.com/NotChaseColeman/status/2125853099311202447
+❤ 3 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1119  
+https://x.com/NotChaseColeman/status/2126145916310880655

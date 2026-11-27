@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2125939032991691159",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "retweet",
+  "created_at": "2026-11-26T13:05:38.000Z",
+  "text": "RT @BalaiBB: a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app c…",
+  "url": "https://x.com/CryptoInsightsX/status/2125939032991691159",
+  "likes": 0,
+  "retweets": 143,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125914152703013047",
+   "text": "a food delivery app was secretly scanning customer photos for crypto seed phrases\n\napple just flagged a chinese delivery app called wukong as malware on ios\n\nthe app was using ocr to go through customer photo libraries looking for screenshots of seed phrases and wallet keys https://t.co/id1mSCL153"
+  }
+ },
+ {
+  "id": "2125956558802841911",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "quote",
+  "created_at": "2026-11-26T14:15:16.000Z",
+  "text": "Hottest #Memecoins last 24h🔥🔥🔥\n\nmoolah:native @Moolah_bsc\n$牛来 @niulai_on_bnb\n$CASHCAT @cashcat_token\n$AI @ArtificiallyInu\nbulla-3:native @BULLAMASCOT\n$SPACEXCOIN\n$Zero\n$PUMPCHAN @PumpChanMeme\n$IShowSpace\n$BLOB @BL0B0nS0L\n\n#memecoin #memecoin1000x https://t.co/BhIHVttlv1 https://t.co/C5Qhx3JJmJ",
+  "url": "https://x.com/CryptoInsightsX/status/2125956558802841911",
+  "likes": 3,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 581,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125591161004011805",
+   "text": "Trending #Memecoins on 𝕏 last 24h🔥🔥\n\n$ANSEM\nbulla-3:native\n$4CHAN\n$CASHCAT\n$JIMMY\n$PERRO\n$FIONA\n$HACHIKO\n$MIHAO \n$MOODENG \n$TURBO \n\n#memecoin #CryptoNews #CryptoAlpha https://t.co/nnCc0j10rq"
+  }
+ },
+ {
+  "id": "2126199496829010006",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "quote",
+  "created_at": "2026-11-27T06:20:37.000Z",
+  "text": "Daily Market Overview: EXTREME FEAR\nNov 27, 2026\n\n #BTC price trades around $61K \n \nIn the past 24 hours, 66,271 traders(70.1% Short) liquidated. Total liquidations were $216.93M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/Sh2Yd8Hapg https://t.co/sdHVY6h7oG",
+  "url": "https://x.com/CryptoInsightsX/status/2126199496829010006",
+  "likes": 2,
+  "retweets": 0,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 73,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125836902037414281",
+   "text": "Daily Market Overview: EXTREME FEAR\nNov 26, 2026\n\n #BTC price trades around $60K \n \nIn the past 24 hours, 143,255 traders(53.8% Long) liquidated. Total liquidations were $693.27M.\n\n#CryptoNews #Crypto bitcoin:native https://t.co/KmLFqMu1Nk https://t.co/J34GMd1C1c"
+  }
+ },
+ {
+  "id": "2126203093377536423",
+  "username": "CryptoInsightsX",
+  "username_canon": "CryptoInsightsX",
+  "type": "reply",
+  "created_at": "2026-11-27T06:34:55.000Z",
+  "text": "@nft_brewer 🫡",
+  "url": "https://x.com/CryptoInsightsX/status/2126203093377536423",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126202002346778707",
+   "text": "@CryptoInsightsX most of the liquidated being shorts while the index says extreme fear, love it"
+  }
+ }
+]

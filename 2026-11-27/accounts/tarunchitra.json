@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2125989958947357082",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-26T16:27:59.000Z",
+  "text": "Gowers-Gerko Theorem: Assuming ZFC, for every pro AI mathematician, there exists a theorem proved by AI such that this mathematician joins a stop AI protest https://t.co/X3xtQMfsHt https://t.co/pqbLEnT9fc",
+  "url": "https://x.com/tarunchitra/status/2125989958947357082",
+  "likes": 35,
+  "retweets": 5,
+  "replies": 10,
+  "quotes": 0,
+  "impressions": 2660,
+  "bookmarks": 3,
+  "referenced": {
+   "type": "quoted",
+   "id": "2123931407445815760",
+   "text": "Meanwhile, I'm going on this march (planned earlier), on the grounds that pushing on with rapid AI development seems like a huge gamble that we shouldn't be taking. If you're there too and happen to spot me, come and say hi.\n\nhttps://t.co/tr4XfviVeR"
+  }
+ },
+ {
+  "id": "2125990403505631508",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-26T16:29:45.000Z",
+  "text": "RT @OREAXEAX: Many are getting frantic about the prospect of AI breaking cryptographic assumptions. On the other hand, AI just gave us the…",
+  "url": "https://x.com/tarunchitra/status/2125990403505631508",
+  "likes": 0,
+  "retweets": 11,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 422,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125989663630668084",
+   "text": "Many are getting frantic about the prospect of AI breaking cryptographic assumptions. On the other hand, AI just gave us the first spark of unconditional lower bounds. So perhaps at the end of the long road we will actually end up with cryptography based on no assumptions at all?"
+  }
+ }
+]

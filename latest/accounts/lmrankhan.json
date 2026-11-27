@@ -1,22 +1,22 @@
 [
  {
-  "id": "2125641887424053550",
+  "id": "2126081967653298329",
   "username": "lmrankhan",
   "username_canon": "lmrankhan",
   "type": "retweet",
-  "created_at": "2026-11-25T17:24:53.000Z",
-  "text": "RT @alliance: You can make money from a GPU without ever plugging one in.\n\nIntroducing @silicon_exch (ALL18), which lets investors own a sh…",
-  "url": "https://x.com/lmrankhan/status/2125641887424053550",
+  "created_at": "2026-11-26T22:33:36.000Z",
+  "text": "RT @hyperlink_xyz: Sub-accounts are now live on HyperLink.\n\nRun multiple strategies under one master account, each with its own balances, p…",
+  "url": "https://x.com/lmrankhan/status/2126081967653298329",
   "likes": 0,
-  "retweets": 21,
+  "retweets": 3,
   "replies": 0,
   "quotes": 0,
-  "impressions": 570,
+  "impressions": 635,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125640855495094357",
-   "text": "You can make money from a GPU without ever plugging one in.\n\nIntroducing @silicon_exch (ALL18), which lets investors own a share of the GPUs that AI companies use.\n\nInvestors fund the hardware up front. Silicon Exchange installs and runs it, so companies can rent GPUs without https://t.co/2IzaexX5gB"
+   "id": "2126080050676281791",
+   "text": "Sub-accounts are now live on HyperLink.\n\nRun multiple strategies under one master account, each with its own balances, positions, request budget, and lower latency via improved mempool priority.\n\nhttps://t.co/aqevymGQiq https://t.co/1sTIu8oQAJ"
   }
  }
 ]

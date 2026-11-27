@@ -1,63 +1,42 @@
-# @Orangie — посты за 2026-11-26
+# @Orangie — посты за 2026-11-27
 
-Всего: 8
+Всего: 5
 
-## 2026-11-25 19:15 UTC · ответ
+## 2026-11-26 14:48 UTC · ответ
 
-@MrBeast i love the behind the scenes https://t.co/IteltbKfwT
+@scythe3zc @Yennii56 @kindajeety next time 💯
 
-❤ 11 · 🔁 1 · 💬 6 · цитат 1 · просмотров 2357  
-https://x.com/orangie/status/2125669647575928985
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 982  
+https://x.com/orangie/status/2125965020685357117
 
-## 2026-11-25 21:08 UTC · ответ
+## 2026-11-26 16:58 UTC · ответ
 
-https://t.co/2tGvdO28h3
+@kindajeety 🇮🇳🇮🇳🇮🇳
 
-❤ 18 · 🔁 2 · 💬 1 · цитат 0 · просмотров 4204  
-https://x.com/orangie/status/2125698262195949905
+❤ 30 · 🔁 0 · 💬 4 · цитат 0 · просмотров 1886  
+https://x.com/orangie/status/2125997523647295767
 
-## 2026-11-25 21:08 UTC · пост
+## 2026-11-26 17:47 UTC · репост
 
-"we" flew to New Delhi, India to see how this 19 year old found some success trading on chain 🇮🇳
+RT @paulerlanger: Something special about meeting your power users in person. Great hanging in Singapore @kindajeety
 
-video now live on youtube.
+Awesome video, worth…
 
-@fomo https://t.co/yeyp3l2SPs
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 9246  
+https://x.com/orangie/status/2126009871006916971
 
-❤ 350 · 🔁 16 · 💬 46 · цитат 12 · просмотров 45270  
-https://x.com/orangie/status/2125698259058585761
+## 2026-11-26 17:53 UTC · ответ
 
-## 2026-11-25 21:19 UTC · ответ
+@Forsaken1x I didn’t trade this token nor do I have any idea what it is. I see @orangesbs follows the page.
 
-@bigmoeycuz @fomo @kindajeety i was just in sydney to film @Saint_pablo123 !!!
+2 different people. People always get us confused
 
-❤ 8 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1568  
-https://x.com/orangie/status/2125700899838271711
+❤ 28 · 🔁 1 · 💬 8 · цитат 0 · просмотров 6579  
+https://x.com/orangie/status/2126011543464944077
 
-## 2026-11-25 22:59 UTC · ответ
+## 2026-11-27 05:19 UTC · ответ
 
-@ZeroSumEnjoyer @rasmr_eth HUH
+@0xPerth_ @elonmusk don’t think Elon’s replying to this dude 😭✌🏻
 
-❤ 84 · 🔁 1 · 💬 2 · цитат 0 · просмотров 10350  
-https://x.com/orangie/status/2125725984779563385
-
-## 2026-11-25 23:00 UTC · ответ
-
-@RexhaRexhaRexha my favorite moment of the vid
-
-❤ 7 · 🔁 0 · 💬 2 · цитат 0 · просмотров 1008  
-https://x.com/orangie/status/2125726313516564991
-
-## 2026-11-25 23:00 UTC · репост
-
-RT @RexhaRexhaRexha: Paul Erlanger, co-founder of fomo, gifts Jeety a brand-new iPhone to celebrate his partnership with the platform https…
-
-❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 7718  
-https://x.com/orangie/status/2125726472774320556
-
-## 2026-11-26 03:02 UTC · ответ
-
-@letjaybuild @fomo @kindajeety ❤️
-
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 871  
-https://x.com/orangie/status/2125787145717838126
+❤ 23 · 🔁 0 · 💬 6 · цитат 0 · просмотров 1574  
+https://x.com/orangie/status/2126184062750699609

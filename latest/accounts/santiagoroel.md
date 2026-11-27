@@ -1,10 +1,17 @@
-# @santiagoroel — посты за 2026-11-26
+# @santiagoroel — посты за 2026-11-27
 
-Всего: 1
+Всего: 2
 
-## 2026-11-25 14:21 UTC · пост
+## 2026-11-26 08:59 UTC · ответ
 
-If… https://t.co/dhfcVxgYuJ
+@0xAlvaroHK @theempirepod @JasonYanowitz criticism =! hate
 
-❤ 48 · 🔁 3 · 💬 5 · цитат 0 · просмотров 4265  
-https://x.com/santiagoroel/status/2125595802982641948
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 79  
+https://x.com/santiagoroel/status/2125877203711950859
+
+## 2026-11-26 22:09 UTC · репост
+
+RT @elonmusk: ❤️❤️ Happy Thanksgiving! ❤️❤️
+
+❤ 0 · 🔁 10832 · 💬 0 · цитат 0 · просмотров 669  
+https://x.com/santiagoroel/status/2126075872700432434

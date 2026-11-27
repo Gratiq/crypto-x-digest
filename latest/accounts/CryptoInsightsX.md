@@ -1,61 +1,53 @@
-# @CryptoInsightsX — посты за 2026-11-26
+# @CryptoInsightsX — посты за 2026-11-27
 
 Всего: 4
 
-## 2026-11-25 10:43 UTC · цитата
+## 2026-11-26 13:05 UTC · репост
+
+RT @BalaiBB: a food delivery app was secretly scanning customer photos for crypto seed phrases
+
+apple just flagged a chinese delivery app c…
+
+❤ 0 · 🔁 143 · 💬 0 · цитат 0 · просмотров 1  
+https://x.com/CryptoInsightsX/status/2125939032991691159
+
+## 2026-11-26 14:15 UTC · цитата
+
+Hottest #Memecoins last 24h🔥🔥🔥
+
+moolah:native @Moolah_bsc
+$牛来 @niulai_on_bnb
+$CASHCAT @cashcat_token
+$AI @ArtificiallyInu
+bulla-3:native @BULLAMASCOT
+$SPACEXCOIN
+$Zero
+$PUMPCHAN @PumpChanMeme
+$IShowSpace
+$BLOB @BL0B0nS0L
+
+#memecoin #memecoin1000x https://t.co/BhIHVttlv1 https://t.co/C5Qhx3JJmJ
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 581  
+https://x.com/CryptoInsightsX/status/2125956558802841911
+
+## 2026-11-27 06:20 UTC · цитата
 
 Daily Market Overview: EXTREME FEAR
-Nov 25, 2026
+Nov 27, 2026
 
- #BTC price trades around $59K 
+ #BTC price trades around $61K 
  
-In the past 24 hours, 104,440 traders(79.0% Long) liquidated. Total liquidations were $342.13M.
+In the past 24 hours, 66,271 traders(70.1% Short) liquidated. Total liquidations were $216.93M.
 
-#CryptoNews #Crypto bitcoin:native https://t.co/7F2a3WWdRc https://t.co/0klk2J9CK9
+#CryptoNews #Crypto bitcoin:native https://t.co/Sh2Yd8Hapg https://t.co/sdHVY6h7oG
 
-❤ 4 · 🔁 2 · 💬 0 · цитат 1 · просмотров 184  
-https://x.com/CryptoInsightsX/status/2125540962994946445
+❤ 2 · 🔁 0 · 💬 3 · цитат 0 · просмотров 73  
+https://x.com/CryptoInsightsX/status/2126199496829010006
 
-## 2026-11-25 13:41 UTC · пост
+## 2026-11-27 06:34 UTC · ответ
 
-I wish I had known and followed this advice sooner🥲
+@nft_brewer 🫡
 
-bitcoin:native https://t.co/0j6RPz5Tdu
-
-❤ 3 · 🔁 2 · 💬 0 · цитат 0 · просмотров 164  
-https://x.com/CryptoInsightsX/status/2125585621368586679
-
-## 2026-11-25 14:03 UTC · пост
-
-Trending #Memecoins on 𝕏 last 24h🔥🔥
-
-$ANSEM
-bulla-3:native
-$4CHAN
-$CASHCAT
-$JIMMY
-$PERRO
-$FIONA
-$HACHIKO
-$MIHAO 
-$MOODENG 
-$TURBO 
-
-#memecoin #CryptoNews #CryptoAlpha https://t.co/nnCc0j10rq
-
-❤ 10 · 🔁 4 · 💬 4 · цитат 0 · просмотров 639  
-https://x.com/CryptoInsightsX/status/2125591161004011805
-
-## 2026-11-26 06:19 UTC · цитата
-
-Daily Market Overview: EXTREME FEAR
-Nov 26, 2026
-
- #BTC price trades around $60K 
- 
-In the past 24 hours, 143,255 traders(53.8% Long) liquidated. Total liquidations were $693.27M.
-
-#CryptoNews #Crypto bitcoin:native https://t.co/KmLFqMu1Nk https://t.co/J34GMd1C1c
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 59  
-https://x.com/CryptoInsightsX/status/2125836902037414281
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2  
+https://x.com/CryptoInsightsX/status/2126203093377536423

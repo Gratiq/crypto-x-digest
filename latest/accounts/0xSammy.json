@@ -1,202 +1,302 @@
 [
  {
-  "id": "2125495776696570264",
+  "id": "2125868115825172581",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "retweet",
-  "created_at": "2026-11-25T07:44:17.000Z",
-  "text": "RT @0xSammy: Jensen’s back + crypto AI caught a bid; but which tokens sustained their pump?\n\nI’ve compared several tokens for my newsletter…",
-  "url": "https://x.com/0xSammy/status/2125495776696570264",
+  "created_at": "2026-11-26T08:23:50.000Z",
+  "text": "RT @DAHHEADBOY: the scary part is that crypto isn't immune yet. same math family breaks ECDSA, so every exposed pubkey becomes a target\n\nit…",
+  "url": "https://x.com/0xSammy/status/2125868115825172581",
   "likes": 0,
-  "retweets": 4,
+  "retweets": 3,
   "replies": 0,
   "quotes": 0,
-  "impressions": 0,
+  "impressions": 3272,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125244076295377064",
-   "text": "Jensen’s back + crypto AI caught a bid; but which tokens sustained their pump?\n\nI’ve compared several tokens for my newsletter this week (203 consecutive weekly issues!)\n\nI've used @nansen_ai to check the onchain buying behind the move + also been testing their new mobile app &amp; https://t.co/voOp9xxO07 https://t.co/aZCZJlYJ5i"
+   "id": "2125709911065501990",
+   "text": "the scary part is that crypto isn't immune yet. same math family breaks ECDSA, so every exposed pubkey becomes a target\n\nit’s whoever migrates to post quantum signatures first \n\nbull run or otherwise depends entirely on who moves faster https://t.co/IqmuCyoVDp"
   }
  },
  {
-  "id": "2125558774165373426",
+  "id": "2125868421006885117",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "reply",
-  "created_at": "2026-11-25T11:54:37.000Z",
-  "text": "@punk9059 its pretty insane to see, curious whether there will be repercussions in the coming years for this",
-  "url": "https://x.com/0xSammy/status/2125558774165373426",
-  "likes": 3,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 612,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125260500045029829",
-   "text": "I’m sure it will get hand waved away, but the president’s personal accounts have traded $80mn+ of NVDA in the past 2 years and it’s one of his biggest positions. \n\nWhen I worked at Goldman Sachs, I couldn’t own single stocks cause I might overhear an irrelevant research analyst"
-  }
- },
- {
-  "id": "2125651921973190800",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-25T18:04:45.000Z",
-  "text": "@lucainweb3 @Ondo Congrats on the new role ser",
-  "url": "https://x.com/0xSammy/status/2125651921973190800",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 1,
-  "quotes": 0,
-  "impressions": 211,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125605593834827866",
-   "text": "I've joined the @Ondo team!\n\nA lot of you have asked what comes next. Would I start my own GTM agency? Take a break? Move cities?\n\nI thought about a few different paths, but kept coming back to what brought me into crypto in 2017: investing and trading. That interest has taken me https://t.co/4qLYDj8NAv"
-  }
- },
- {
-  "id": "2125652629544136789",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "retweet",
-  "created_at": "2026-11-25T18:07:34.000Z",
-  "text": "RT @Shaughnessy119: The solution to AI safety is open source",
-  "url": "https://x.com/0xSammy/status/2125652629544136789",
-  "likes": 0,
-  "retweets": 154,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 2846,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "retweeted",
-   "id": "2125333856643588271",
-   "text": "The solution to AI safety is open source"
-  }
- },
- {
-  "id": "2125652654739399060",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-25T18:07:40.000Z",
-  "text": "@Shaughnessy119 🎯",
-  "url": "https://x.com/0xSammy/status/2125652654739399060",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 180,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125333856643588271",
-   "text": "The solution to AI safety is open source"
-  }
- },
- {
-  "id": "2125652709290475571",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-25T18:07:53.000Z",
-  "text": "@FF_V12 Bring back the good times",
-  "url": "https://x.com/0xSammy/status/2125652709290475571",
+  "created_at": "2026-11-26T08:25:02.000Z",
+  "text": "@Zeneca I remember this, it also just drove up house prices on eligible properties",
+  "url": "https://x.com/0xSammy/status/2125868421006885117",
   "likes": 2,
   "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 425,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125729463375999478",
+   "text": "We did this in Australia a couple of years ago with 5% down payments\n\nThe government then proceeded to hike rates infinity times and absolutely destroy the first home buyers who stretched themselves to the limits with this scheme\n\nAbsolutely criminal behaviour tbh https://t.co/6RpyLcaAPp"
+  }
+ },
+ {
+  "id": "2125868716839641445",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T08:26:13.000Z",
+  "text": "@Zeneca @jesusislord End of an era \n\nKudos for sticking at it for so long ser",
+  "url": "https://x.com/0xSammy/status/2125868716839641445",
+  "likes": 4,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 734,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125765182421188845",
+   "text": "I have some bittersweet news to share. After over 5 years, I have made the difficult decision to sunset ZenAcademy and The 333 Club.\n\nI shared a full announcement in Discord yesterday with some in-depth thoughts, so will share screenshots of those below.\n\nThank you to everyone https://t.co/QI0daAbh0g"
+  }
+ },
+ {
+  "id": "2125870547431043210",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T08:33:29.000Z",
+  "text": "@ArtofConviction Trauma bonding was kinda fun haha",
+  "url": "https://x.com/0xSammy/status/2125870547431043210",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 293,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125621906791420113",
+   "text": "There's only one thing I'm looking forward to: bear market memes\n\nSomething about your investments being down 99% brings out the fun in people"
+  }
+ },
+ {
+  "id": "2125870653953962239",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T08:33:55.000Z",
+  "text": "@NotSoEasyMoney 😂😂",
+  "url": "https://x.com/0xSammy/status/2125870653953962239",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 325,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125689971386310805",
+   "text": "Sold everything I'm 100% cash. \n\nI'll also stop trading for the foreseeable future and most likely get a regular 9-5 job somewhere. https://t.co/FrvNbO5bRD"
+  }
+ },
+ {
+  "id": "2125870776691610052",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T08:34:24.000Z",
+  "text": "@OldSchoolRS Banger",
+  "url": "https://x.com/0xSammy/status/2125870776691610052",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1001,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125696042351919156",
+   "text": "fremennik quests are back on the menu 🍴 https://t.co/5p0y2a1v2M"
+  }
+ },
+ {
+  "id": "2125907445838950503",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T11:00:07.000Z",
+  "text": "@EddiSpaghetto Yeah precisely\n\nTime to prep 😂",
+  "url": "https://x.com/0xSammy/status/2125907445838950503",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 221,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125892746745622909",
+   "text": "@0xSammy Didn't a bunch of banks go offline two weeks ago lol"
+  }
+ },
+ {
+  "id": "2126013563953099013",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T18:01:47.000Z",
+  "text": "@saintniko Lmao",
+  "url": "https://x.com/0xSammy/status/2126013563953099013",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 249,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125787198746243506",
+   "text": "life comes at you fast https://t.co/OVyDYryaMT https://t.co/pIOYBxDrho"
+  }
+ },
+ {
+  "id": "2126016509537571188",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T18:13:30.000Z",
+  "text": "@waleswoosh Still time? 😬",
+  "url": "https://x.com/0xSammy/status/2126016509537571188",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 217,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125952309452800450",
+   "text": "Looking at some of my tweets from earlier this year and bro I was so hopeful, literally talked about Bitcoin ATHs, six-figure airdrops and retirement"
+  }
+ },
+ {
+  "id": "2126016767344390146",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T18:14:31.000Z",
+  "text": "@icobeast Fuck man, lost so much money on that era",
+  "url": "https://x.com/0xSammy/status/2126016767344390146",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 364,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2125977029707448560",
+   "text": "I got an email today from The Sandbox about updating their TOS\n\nAnd that reminded me that less than 5 years ago people were paying millions of dollars to buy metaverse plots of land next to Snoop Dog 😂"
+  }
+ },
+ {
+  "id": "2126075859794894967",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "reply",
+  "created_at": "2026-11-26T22:09:20.000Z",
+  "text": "@redcrabguy What if they remove the max cap on red crabs like they’re doing for the max cash stack? 👀",
+  "url": "https://x.com/0xSammy/status/2126075859794894967",
+  "likes": 0,
+  "retweets": 0,
   "replies": 1,
   "quotes": 0,
-  "impressions": 214,
+  "impressions": 333,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2125603588739395791",
-   "text": "CT was in a much better place when NFTs were popping off"
+   "id": "2125715348838293846",
+   "text": "Day 97: 612,000 Red crabs 🦀\n\nImagine how good I'd be at RuneScape if I actually played RuneScape. https://t.co/MgLtybE8xs"
   }
  },
  {
-  "id": "2125661258380653036",
+  "id": "2126130306390323204",
+  "username": "0xSammy",
+  "username_canon": "0xSammy",
+  "type": "retweet",
+  "created_at": "2026-11-27T01:45:41.000Z",
+  "text": "RT @haitzu: When your AI agent makes a transaction, who has the liability?\n\nOn our latest Khala episode, I sat down with @xcolwell, founder…",
+  "url": "https://x.com/0xSammy/status/2126130306390323204",
+  "likes": 0,
+  "retweets": 6,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 2331,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2125935988157616369",
+   "text": "When your AI agent makes a transaction, who has the liability?\n\nOn our latest Khala episode, I sat down with @xcolwell, founder of UR (SN25), and @josercaldera, founder of Yanez (SN54), on what happens when agents do the work. https://t.co/aaAhmbmRy5"
+  }
+ },
+ {
+  "id": "2126130354700632185",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "reply",
-  "created_at": "2026-11-25T18:41:51.000Z",
-  "text": "@seedphrase Savage lmao",
-  "url": "https://x.com/0xSammy/status/2125661258380653036",
+  "created_at": "2026-11-27T01:45:52.000Z",
+  "text": "@haitzu @xcolwell @josercaldera 🔥",
+  "url": "https://x.com/0xSammy/status/2126130354700632185",
   "likes": 0,
   "retweets": 0,
   "replies": 0,
   "quotes": 0,
-  "impressions": 266,
+  "impressions": 144,
   "bookmarks": 0,
   "referenced": {
    "type": "replied_to",
-   "id": "2125624874358165836",
-   "text": "WHAT IF https://t.co/A0sZwsTDOD"
+   "id": "2125935988157616369",
+   "text": "When your AI agent makes a transaction, who has the liability?\n\nOn our latest Khala episode, I sat down with @xcolwell, founder of UR (SN25), and @josercaldera, founder of Yanez (SN54), on what happens when agents do the work. https://t.co/aaAhmbmRy5"
   }
  },
  {
-  "id": "2125661980467884067",
-  "username": "0xSammy",
-  "username_canon": "0xSammy",
-  "type": "reply",
-  "created_at": "2026-11-25T18:44:43.000Z",
-  "text": "@blue_clarity Savage",
-  "url": "https://x.com/0xSammy/status/2125661980467884067",
-  "likes": 0,
-  "retweets": 0,
-  "replies": 0,
-  "quotes": 0,
-  "impressions": 763,
-  "bookmarks": 0,
-  "referenced": {
-   "type": "replied_to",
-   "id": "2125647807663210999",
-   "text": "If you live in the UK:\n\n- Earning over £5k a month is now considered rich\n- Your energy bill is about to go up 26%\n- 1 in 6 live off benefits\n\nAnd:"
-  }
- },
- {
-  "id": "2125708099239530881",
+  "id": "2126134035470545325",
   "username": "0xSammy",
   "username_canon": "0xSammy",
   "type": "quote",
-  "created_at": "2026-11-25T21:47:59.000Z",
-  "text": "This would be absoloutly insane!\n\nIf RSA were broken, the entire financial system as we know it would go offline while new security protocols were instated \n\nPerhaps this would catalyze a (temporary?) crypto bull market as tradFi bros off ramped their mutable fiat currencies into hard money…",
-  "url": "https://x.com/0xSammy/status/2125708099239530881",
-  "likes": 21,
-  "retweets": 2,
+  "created_at": "2026-11-27T02:00:30.000Z",
+  "text": "Mark your calendars for July 2027.\n\nPretty insane slide deck… well worth watching (yes, it’s a video slide deck!) to see the sheer scale of how fast AI accelerates over the next 6-12 months\n\nCrazy to think AI is the worst it’ll ever be in history, might as well embrace it! https://t.co/TyHlsMHx8L https://t.co/ypgJb1qzCJ",
+  "url": "https://x.com/0xSammy/status/2126134035470545325",
+  "likes": 13,
+  "retweets": 1,
   "replies": 4,
-  "quotes": 1,
-  "impressions": 6580,
-  "bookmarks": 6,
+  "quotes": 0,
+  "impressions": 3641,
+  "bookmarks": 4,
   "referenced": {
    "type": "quoted",
-   "id": "2125602411540566221",
-   "text": "If this rumors are true, it would explain why OpenAI and Anthropic are holding back their latest models: \n\nScott Aaronson says he's heard OpenAI or Anthropic may have found a way to factor large numbers in polynomial time.\n\nWhy this would be massive? RSA secures a huge chunk of https://t.co/BFH85IvBpP https://t.co/JnFH7HAEDp"
+   "id": "2125622238481371372",
+   "text": "Opus 5.6 is unceremoniously the most powerful model I've laid my hands on. This is insane.\n\nhttps://t.co/urg2CftdUp\n\nHave a go."
   }
  },
  {
-  "id": "2125708505562706064",
+  "id": "2126134878584369627",
   "username": "0xSammy",
   "username_canon": "0xSammy",
-  "type": "quote",
-  "created_at": "2026-11-25T21:49:36.000Z",
-  "text": "… temporarily, until cryptosystems were subsequently broken? \n\nFall of RSA first though, right? https://t.co/bUIedUe2B4",
-  "url": "https://x.com/0xSammy/status/2125708505562706064",
-  "likes": 2,
+  "type": "reply",
+  "created_at": "2026-11-27T02:03:51.000Z",
+  "text": "@imperooterxbt Unless he’s putting on a South African accent, it ain’t the British James Wynn",
+  "url": "https://x.com/0xSammy/status/2126134878584369627",
+  "likes": 0,
   "retweets": 0,
-  "replies": 1,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 646,
+  "impressions": 259,
   "bookmarks": 0,
   "referenced": {
-   "type": "quoted",
-   "id": "2125690962160820541",
-   "text": "'And yes, some of those algorithms will break currently deployed cryptosystems.\n\nBecause people have been hounding me about it: yes, I’m virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells in that area.' https://t.co/OBrBkrDHhX"
+   "type": "replied_to",
+   "id": "2125938513321578802",
+   "text": "New account randomly shows up on CT. \n\nInstantly scores interview with Rasmr and gets shoutout by half of CT. \n\nFlexes huge perp PnLs on hyperliquid.\n\nGets fomo Partnership and creates an account. \n\nI’m pretty sure Fomo just hired James Wynn alt account. https://t.co/TwVtQUc6G2 https://t.co/m2SmApmvES"
   }
  }
 ]

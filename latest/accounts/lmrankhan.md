@@ -1,12 +1,12 @@
-# @lmrankhan — посты за 2026-11-26
+# @lmrankhan — посты за 2026-11-27
 
 Всего: 1
 
-## 2026-11-25 17:24 UTC · репост
+## 2026-11-26 22:33 UTC · репост
 
-RT @alliance: You can make money from a GPU without ever plugging one in.
+RT @hyperlink_xyz: Sub-accounts are now live on HyperLink.
 
-Introducing @silicon_exch (ALL18), which lets investors own a sh…
+Run multiple strategies under one master account, each with its own balances, p…
 
-❤ 0 · 🔁 21 · 💬 0 · цитат 0 · просмотров 570  
-https://x.com/lmrankhan/status/2125641887424053550
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 635  
+https://x.com/lmrankhan/status/2126081967653298329

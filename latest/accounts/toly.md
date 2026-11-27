@@ -1,504 +1,392 @@
-# @toly — посты за 2026-11-26
+# @toly — посты за 2026-11-27
 
-Всего: 66
+Всего: 52
 
-## 2026-11-25 13:27 UTC · цитата
+## 2026-11-26 11:52 UTC · репост
 
-🎄🎄🎄 https://t.co/dDr4oU7rve
+RT @mikemaccana: The attention to detail is amazing: https://t.co/496sSmBFHh
 
-❤ 142 · 🔁 9 · 💬 31 · цитат 0 · просмотров 22826  
-https://x.com/toly/status/2125582053844619442
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 14547  
+https://x.com/toly/status/2125920735663452539
 
-## 2026-11-25 13:33 UTC · цитата
+## 2026-11-26 11:58 UTC · цитата
 
-&gt; He reluctantly merged it
+Warren: You see this pie? The pie maker made it because they want your money.  You can’t eat the money, but you can eat the pie.  You have some money, the pie maker has the pie.  
 
-Hahaha.  He is just like us https://t.co/IMgHCQbvWx
+Warren: So I am going to smash the pie makers kitchen so there is no more f’ing pie for anyone. https://t.co/ZkuqCl6tT4
 
-❤ 215 · 🔁 8 · 💬 33 · цитат 1 · просмотров 45177  
-https://x.com/toly/status/2125583579870880222
+❤ 132 · 🔁 9 · 💬 4 · цитат 4 · просмотров 27403  
+https://x.com/toly/status/2125922199743951233
 
-## 2026-11-25 13:38 UTC · репост
+## 2026-11-26 12:32 UTC · репост
 
-RT @FWDind: +$69M in tokenized US Treasury bill market cap on @solana over seven days. #1 across all blockchains, per Token Terminal.
+RT @tokens: Building on @Solana just got easier.
 
-This…
+The new Solana developer docs are faster to navigate, cleaner to read and built for codin…
 
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 13921  
-https://x.com/toly/status/2125584842566012968
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 14346  
+https://x.com/toly/status/2125930790794174520
 
-## 2026-11-25 14:39 UTC · ответ
+## 2026-11-26 12:48 UTC · цитата
 
-@ArthurB In that all universes that build a quantum computer crash and are restarted the plank second before the crash
+👑👑👑 https://t.co/U2FHWGwtSS
 
-❤ 36 · 🔁 0 · 💬 4 · цитат 0 · просмотров 7164  
-https://x.com/toly/status/2125600265957154977
+❤ 42 · 🔁 5 · 💬 0 · цитат 0 · просмотров 20333  
+https://x.com/toly/status/2125934668147290247
 
-## 2026-11-25 14:45 UTC · цитата
+## 2026-11-26 12:51 UTC · цитата
 
-Growthflation?  Fed can’t cut rates because growth is causing inflation https://t.co/u7bX3xBn1L
+👑👑👑 https://t.co/KyH3R15dzD
 
-❤ 100 · 🔁 5 · 💬 25 · цитат 0 · просмотров 27808  
-https://x.com/toly/status/2125601728443850759
+❤ 74 · 🔁 7 · 💬 1 · цитат 0 · просмотров 9478  
+https://x.com/toly/status/2125935397155037204
 
-## 2026-11-25 15:37 UTC · пост
+## 2026-11-26 14:18 UTC · репост
 
-Holy anti-gravity one-shot 🤯🤯🤯
+RT @SolPlay_jonas: If we stop doing improvements solana will not win
 
-https://t.co/ZVGAbJOjpg https://t.co/Oab8JFzk1x
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 14060  
+https://x.com/toly/status/2125957351039795680
 
-❤ 589 · 🔁 33 · 💬 83 · цитат 24 · просмотров 91375  
-https://x.com/toly/status/2125614885631627364
+## 2026-11-26 14:23 UTC · ответ
 
-## 2026-11-25 15:42 UTC · ответ
+@zeroxkyle Don’t test a plane or parachute without math.
 
-@mert @HeliusPrivacy Maybe rebuild in lean
+❤ 14 · 🔁 1 · 💬 7 · цитат 0 · просмотров 2975  
+https://x.com/toly/status/2125958724212916617
 
-❤ 48 · 🔁 1 · 💬 9 · цитат 0 · просмотров 7761  
-https://x.com/toly/status/2125616164630155420
+## 2026-11-26 14:31 UTC · пост
 
-## 2026-11-25 15:44 UTC · ответ
+Anti-gravity has really good code taste 🤌🤌🤌
 
-@newmichwill Ext4 is woke
+❤ 201 · 🔁 3 · 💬 3 · цитат 1 · просмотров 44872  
+https://x.com/toly/status/2125960608566894773
 
-❤ 4 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2144  
-https://x.com/toly/status/2125616641644155116
+## 2026-11-26 14:33 UTC · репост
 
-## 2026-11-25 15:56 UTC · цитата
+RT @SolanaEvents: Thousands of badges, thousands of stories.
 
-Pearl is money https://t.co/Oa1WnH7Uhi
+Breakpoint 2026 was special. https://t.co/INTDgO5ZTf
 
-❤ 300 · 🔁 33 · 💬 51 · цитат 14 · просмотров 63650  
-https://x.com/toly/status/2125619635542438139
+❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 13697  
+https://x.com/toly/status/2125961019302551962
 
-## 2026-11-25 16:09 UTC · пост
+## 2026-11-26 14:47 UTC · репост
 
-No program with at most five stored instructions decides DIMACS SAT in N^(1.5−ε).
+RT @ramzyyalii: @toly I think we are getting pretty close to your dream of a decentralized NASDAQ ...
 
-With one data register and restricted stores, any code size needs about N²/log²N.
+❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 14228  
+https://x.com/toly/status/2125964606262931626
 
-I am gonna earn that b- in cs370 @socrates1024 
+## 2026-11-26 14:48 UTC · ответ
 
-https://t.co/vMqn4xx73j
+@Austin_Federa @yoayush Just ai?
 
-❤ 104 · 🔁 10 · 💬 28 · цитат 6 · просмотров 37683  
-https://x.com/toly/status/2125622967971586556
+❤ 13 · 🔁 0 · 💬 12 · цитат 0 · просмотров 3383  
+https://x.com/toly/status/2125964891383308622
 
-## 2026-11-25 16:12 UTC · ответ
+## 2026-11-26 15:00 UTC · цитата
 
-@mdudas “money” is a meme.  Anyone can meme anything. It’s not an engineering question.  
+We might have a new 👑 https://t.co/Cr70Zkugw5
 
-Regardless of the meme the solana roadmap doesn’t change.  It’s IBRL, mcp, etc…
+❤ 72 · 🔁 6 · 💬 2 · цитат 2 · просмотров 26474  
+https://x.com/toly/status/2125967890818257338
 
-❤ 218 · 🔁 25 · 💬 72 · цитат 48 · просмотров 24420  
-https://x.com/toly/status/2125623573486374934
+## 2026-11-26 15:02 UTC · цитата
 
-## 2026-11-25 16:14 UTC · ответ
+Simulation confirmed https://t.co/OddaDnoLIU
 
-@0xPlish @socrates1024 No. Just whatever subscription I have credits in.
+❤ 68 · 🔁 1 · 💬 2 · цитат 0 · просмотров 27394  
+https://x.com/toly/status/2125968537949028433
 
-❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 2183  
-https://x.com/toly/status/2125624061015589223
+## 2026-11-26 15:07 UTC · ответ
 
-## 2026-11-25 16:25 UTC · цитата
+@deanmlittle 🦞🦞🦞 added the optimizations.  And found and fixed the sign extension bug
 
-Can I get my b- upgrades to a b if this holds @socrates1024 ?
+❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2255  
+https://x.com/toly/status/2125969823687758097
 
-If Theorem 2.2 of OpenAI's unreviewed ω = 9/4 preprint holds, Boolean circuits for SAT need Ω(n·(log n)^σ) gates at infinitely many lengths. The best proven bound for any explicit function is about 3n.
+## 2026-11-26 15:11 UTC · ответ
 
-Reduction: https://t.co/2GkfCWcXJW
+@catoshi22 All the introverts are wall flowers at family gatherings
 
-❤ 63 · 🔁 3 · 💬 22 · цитат 0 · просмотров 26372  
-https://x.com/toly/status/2125626836344520991
+❤ 20 · 🔁 0 · 💬 10 · цитат 0 · просмотров 2940  
+https://x.com/toly/status/2125970679925494215
 
-## 2026-11-25 16:30 UTC · ответ
+## 2026-11-26 15:17 UTC · ответ
 
-Plot twist, Andrew pulls my transcript and finds out it was a c-
+@fede_intern We need to build 2 quantum computers and alternate which one we boot up and crash the universe with as a way to communicate with the simulation operators
 
-❤ 17 · 🔁 1 · 💬 5 · цитат 0 · просмотров 3250  
-https://x.com/toly/status/2125628150260580448
+❤ 7 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1985  
+https://x.com/toly/status/2125972167389225064
 
-## 2026-11-25 16:33 UTC · ответ
+## 2026-11-26 15:20 UTC · репост
 
-@sumptuosol @mdudas Don’t make the Eng founder meme a chain as money. It’s a marathon, I need to wake up every day and try to make it better somehow.
+RT @TheWattenhofer: @APEXFusion23 https://t.co/n8JY0gB1oT
 
-❤ 7 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2643  
-https://x.com/toly/status/2125628920863277449
+A fun student project from our group at ETH Zurich. The latest generation of age…
 
-## 2026-11-25 16:37 UTC · ответ
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 13473  
+https://x.com/toly/status/2125972922078769405
 
-@garious14 That won’t run on SVM though
+## 2026-11-26 15:24 UTC · цитата
 
-❤ 2 · 🔁 0 · 💬 4 · цитат 0 · просмотров 3793  
-https://x.com/toly/status/2125629849239003244
+👑👑👑 https://t.co/smT5Nw9XZQ
 
-## 2026-11-25 16:59 UTC · ответ
+❤ 83 · 🔁 5 · 💬 0 · цитат 1 · просмотров 20938  
+https://x.com/toly/status/2125974010152522104
 
-@TheWattenhofer @socrates1024 I am trying to prove inequality.
+## 2026-11-26 16:24 UTC · цитата
 
-❤ 5 · 🔁 0 · 💬 4 · цитат 0 · просмотров 2057  
-https://x.com/toly/status/2125635541995856181
+🧠🧠🧠
 
-## 2026-11-25 17:07 UTC · ответ
+The best consumer products advice I got was that you are trying to build black licorice.  Find really really strong pmf with a niche audience, then grow the tam. https://t.co/HC6TXnsrBR
 
-@mert @HeliusPrivacy That’s a @qkniep question.
+❤ 165 · 🔁 3 · 💬 0 · цитат 4 · просмотров 31440  
+https://x.com/toly/status/2125989198423642120
 
-❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3488  
-https://x.com/toly/status/2125637475376967686
+## 2026-11-26 16:32 UTC · цитата
 
-## 2026-11-25 17:14 UTC · ответ
+War never changes https://t.co/EqGjbfyUuc
 
-@Dola_porr @socrates1024 You are right to push back on this
+❤ 33 · 🔁 1 · 💬 0 · цитат 1 · просмотров 22201  
+https://x.com/toly/status/2125991022681604241
 
-❤ 16 · 🔁 2 · 💬 1 · цитат 1 · просмотров 2428  
-https://x.com/toly/status/2125639153887129850
+## 2026-11-26 16:49 UTC · пост
 
-## 2026-11-25 17:14 UTC · ответ
+Thankful to my family and friends and USA and solana 🦃🦃🦃
 
-@TheWattenhofer @socrates1024 No, same school though.
+❤ 554 · 🔁 22 · 💬 6 · цитат 6 · просмотров 52022  
+https://x.com/toly/status/2125995451510030407
 
-❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3189  
-https://x.com/toly/status/2125639237978743179
+## 2026-11-26 16:53 UTC · пост
 
-## 2026-11-25 17:14 UTC · ответ
+It took less work to build a lean compiler than to prove rust code
 
-@TheWattenhofer @socrates1024 In my time they did a good job weeding out everyone who shouldn’t get a phd.
+❤ 122 · 🔁 3 · 💬 2 · цитат 2 · просмотров 40144  
+https://x.com/toly/status/2125996489625489808
 
-❤ 7 · 🔁 0 · 💬 0 · цитат 0 · просмотров 3094  
-https://x.com/toly/status/2125639390135529700
+## 2026-11-26 16:55 UTC · пост
 
-## 2026-11-25 17:27 UTC · ответ
+A lean solana client would be easy to build if you build your own no dependencies lean =&gt; machine compiler and just use a raw low level futex for ipc
 
-@rajgokal https://t.co/bJFKZuJCLT
+❤ 135 · 🔁 4 · 💬 4 · цитат 9 · просмотров 49535  
+https://x.com/toly/status/2125996862952083828
 
-❤ 10 · 🔁 0 · 💬 5 · цитат 0 · просмотров 3481  
-https://x.com/toly/status/2125642518733930499
+## 2026-11-26 17:37 UTC · цитата
 
-## 2026-11-25 17:28 UTC · пост
+The age of libc is over https://t.co/XmISGmTWII https://t.co/Z1nI1Rr32g
 
-The age of the undergrad is upon us https://t.co/ewiIPwINEd
+❤ 62 · 🔁 2 · 💬 0 · цитат 1 · просмотров 20380  
+https://x.com/toly/status/2126007575108092264
 
-❤ 126 · 🔁 9 · 💬 43 · цитат 2 · просмотров 25006  
-https://x.com/toly/status/2125642790117982258
+## 2026-11-26 17:52 UTC · цитата
 
-## 2026-11-25 17:50 UTC · ответ
+🧠🧠🧠 https://t.co/enxC7i2Xm0
 
-@Dola_porr @socrates1024 Asking the 🦞
+❤ 26 · 🔁 7 · 💬 0 · цитат 1 · просмотров 21622  
+https://x.com/toly/status/2126011250408820808
 
-❤ 8 · 🔁 0 · 💬 1 · цитат 1 · просмотров 4094  
-https://x.com/toly/status/2125648334065192985
+## 2026-11-26 17:53 UTC · цитата
 
-## 2026-11-25 17:51 UTC · ответ
+🧠🧠🧠 https://t.co/PAd2t3DPrv
 
-@Dola_porr @socrates1024 What I thought would work as a dumb undergrad is enumerate some small ram machine and show that it blows up for at least 1 sat instance.  Then show that all n+1 machines have the same limit
+❤ 48 · 🔁 2 · 💬 1 · цитат 0 · просмотров 7932  
+https://x.com/toly/status/2126011482496520341
 
-❤ 8 · 🔁 0 · 💬 4 · цитат 0 · просмотров 4204  
-https://x.com/toly/status/2125648644187845071
+## 2026-11-26 18:03 UTC · ответ
 
-## 2026-11-25 17:59 UTC · ответ
+@7LayerMagik Yea https://t.co/ZVGAbJOjpg
 
-@zelimir__ @garious14 would rightly argue that we should compile lean on the validator to its highest tps local machine code.
+❤ 9 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1981  
+https://x.com/toly/status/2126013919449989239
 
-❤ 10 · 🔁 0 · 💬 0 · цитат 1 · просмотров 2930  
-https://x.com/toly/status/2125650628110401643
+## 2026-11-26 18:13 UTC · ответ
 
-## 2026-11-25 18:05 UTC · репост
+@7LayerMagik @osec_io @asymmetric_re Do they have what it takes to tell libc and llvm to f’ off
 
-RT @solana_devs: Introducing Solana Playground
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2060  
+https://x.com/toly/status/2126016479309291998
 
-Learn, build, and deploy Solana programs in your browser, with an AI agent that explains th…
+## 2026-11-26 18:55 UTC · ответ
 
-❤ 0 · 🔁 36 · 💬 0 · цитат 0 · просмотров 12883  
-https://x.com/toly/status/2125652187183530286
+@MidTermDev Woot!
 
-## 2026-11-25 18:16 UTC · цитата
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4672  
+https://x.com/toly/status/2126027180564152447
 
-🤯🤯🤯 https://t.co/IqG9Y4Oyun
+## 2026-11-26 18:57 UTC · ответ
 
-❤ 41 · 🔁 0 · 💬 8 · цитат 1 · просмотров 23360  
-https://x.com/toly/status/2125654827149767069
+@MidTermDev Why do you need the C tool chain? Just have it build the elf
 
-## 2026-11-25 18:16 UTC · ответ
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4570  
+https://x.com/toly/status/2126027474337452074
 
-@fd_ripatel @collodelcarlo @NearBeteigeuze Can you prove equivalence
+## 2026-11-26 19:16 UTC · репост
 
-❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 3327  
-https://x.com/toly/status/2125654954157453326
+RT @MaxResnick: Jobs in the future: https://t.co/JChbyp9QM7
 
-## 2026-11-25 18:39 UTC · цитата
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 12521  
+https://x.com/toly/status/2126032424308228120
 
-💁‍♂️🦋 https://t.co/iAX5gBVgKB
+## 2026-11-26 19:17 UTC · ответ
 
-❤ 136 · 🔁 16 · 💬 22 · цитат 4 · просмотров 25063  
-https://x.com/toly/status/2125660674408018331
+@mert @qkniep Q4
 
-## 2026-11-25 18:46 UTC · ответ
+❤ 2 · 🔁 0 · 💬 2 · цитат 0 · просмотров 3349  
+https://x.com/toly/status/2126032603149144195
 
-@garious14 Proves that it’s number go up technology
+## 2026-11-26 20:32 UTC · ответ
 
-❤ 6 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1935  
-https://x.com/toly/status/2125662464545325083
+@dallairedemers With love
 
-## 2026-11-25 21:06 UTC · репост
+❤ 23 · 🔁 0 · 💬 6 · цитат 0 · просмотров 3939  
+https://x.com/toly/status/2126051610279514381
 
-RT @bitbanter: Update: they found it https://t.co/8rDMOyywMj
+## 2026-11-26 20:42 UTC · ответ
 
-❤ 0 · 🔁 188 · 💬 0 · цитат 0 · просмотров 11743  
-https://x.com/toly/status/2125697681930809785
+@7LayerMagik Yay
 
-## 2026-11-25 21:06 UTC · ответ
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1801  
+https://x.com/toly/status/2126053909504630961
 
-@bitbanter Fields medal
+## 2026-11-26 20:45 UTC · цитата
 
-❤ 66 · 🔁 2 · 💬 6 · цитат 0 · просмотров 6679  
-https://x.com/toly/status/2125697725857722773
+👑👑👑 https://t.co/U5w6d7CEsA
 
-## 2026-11-25 21:07 UTC · цитата
+❤ 97 · 🔁 12 · 💬 0 · цитат 1 · просмотров 19659  
+https://x.com/toly/status/2126054777914270051
 
-PDAs are money https://t.co/7ZA45Ini8H
+## 2026-11-26 21:44 UTC · цитата
 
-❤ 66 · 🔁 4 · 💬 23 · цитат 1 · просмотров 20145  
-https://x.com/toly/status/2125697929449234825
+BREAKING: BUG BOUNTY (round 3: i know you are hiding from your family anyways)
 
-## 2026-11-25 21:27 UTC · пост
+My dream is a money lego for perps that is just one tiny risk module that everyone can spin up into their own markets, their own matchers, their own rewards, with formally verified magic sauce that https://t.co/Cr70Zkugw5
 
-If P = NP then communism works in theory
+❤ 119 · 🔁 7 · 💬 33 · цитат 5 · просмотров 30625  
+https://x.com/toly/status/2126069699360543202
 
-❤ 385 · 🔁 34 · 💬 81 · цитат 17 · просмотров 52857  
-https://x.com/toly/status/2125702834813538594
-
-## 2026-11-25 22:19 UTC · пост
-
-Rust walked so lean could run
-
-❤ 349 · 🔁 15 · 💬 70 · цитат 5 · просмотров 45335  
-https://x.com/toly/status/2125716053582078123
-
-## 2026-11-25 22:55 UTC · цитата
-
-👑👑👑 https://t.co/vKNCS4Nxwz
-
-❤ 46 · 🔁 4 · 💬 14 · цитат 0 · просмотров 17740  
-https://x.com/toly/status/2125725015098437732
-
-## 2026-11-25 22:55 UTC · ответ
-
-@redacted_noah lean-svm
-
-❤ 8 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2435  
-https://x.com/toly/status/2125725111642894496
-
-## 2026-11-25 23:24 UTC · ответ
-
-@redacted_noah Proofs https://t.co/PDhqlWZ9dY
-
-❤ 12 · 🔁 0 · 💬 3 · цитат 4 · просмотров 2021  
-https://x.com/toly/status/2125732395127365704
-
-## 2026-11-25 23:25 UTC · цитата
-
-👑👑👑 https://t.co/PvfaaxcRfO
-
-❤ 28 · 🔁 0 · 💬 9 · цитат 0 · просмотров 6877  
-https://x.com/toly/status/2125732548814987476
-
-## 2026-11-25 23:44 UTC · цитата
-
-👑👑👑 https://t.co/qJWPGgOvyb
-
-❤ 71 · 🔁 7 · 💬 17 · цитат 3 · просмотров 9862  
-https://x.com/toly/status/2125737358578618812
-
-## 2026-11-25 23:56 UTC · пост
-
-BREAKING: BUG BOUNTY
-
-69 rapidly strengthening pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible 
+## 2026-11-26 21:46 UTC · ответ
 
 https://t.co/dQa9JbDUUM
 
-❤ 229 · 🔁 20 · 💬 62 · цитат 20 · просмотров 43500  
-https://x.com/toly/status/2125740430545617199
+❤ 7 · 🔁 0 · 💬 3 · цитат 0 · просмотров 3824  
+https://x.com/toly/status/2126070070950686785
 
-## 2026-11-26 00:47 UTC · пост
+## 2026-11-26 22:33 UTC · цитата
 
-svm-lean reduced the percolator ix CUs by 10x compared to the vibe coded rust version 🤯🤯🤯
+👑👑👑 https://t.co/STIjh86pKW
 
-❤ 116 · 🔁 3 · 💬 32 · цитат 2 · просмотров 27329  
-https://x.com/toly/status/2125753178054598974
+❤ 29 · 🔁 1 · 💬 0 · цитат 1 · просмотров 7494  
+https://x.com/toly/status/2126081840775827589
 
-## 2026-11-26 00:48 UTC · репост
+## 2026-11-26 22:33 UTC · репост
 
-RT @jacobvcreech: Direct Mapping is finally live.
+RT @dummerspast39: AI math discoveries by how fucked we are tier list
 
-This massive feature improves performance, enables us to make some function cheaper, and…
+These are the proofs the labs aren't publishing https://t.co/9yGAi25…
 
-❤ 0 · 🔁 12 · 💬 0 · цитат 0 · просмотров 10041  
-https://x.com/toly/status/2125753651205714221
+❤ 0 · 🔁 600 · 💬 0 · цитат 0 · просмотров 12406  
+https://x.com/toly/status/2126081971717914955
 
-## 2026-11-26 00:49 UTC · ответ
+## 2026-11-26 22:42 UTC · цитата
 
-@alessandrod @jacobvcreech Singularity took less time to ship then direct mapping
+👑👑👑 https://t.co/aSGWiP1CC8
 
-❤ 6 · 🔁 0 · 💬 3 · цитат 0 · просмотров 1495  
-https://x.com/toly/status/2125753757522886876
+❤ 38 · 🔁 1 · 💬 0 · цитат 1 · просмотров 16040  
+https://x.com/toly/status/2126084285967016079
 
-## 2026-11-26 00:50 UTC · цитата
+## 2026-11-27 01:29 UTC · ответ
 
-3sat is not superlinear on a direct mapping memory model ram https://t.co/XmZw0zcD0f
+@qkniep Superintelligence was the algebraic data structure that is underlying language after all.  
 
-❤ 27 · 🔁 1 · 💬 13 · цитат 1 · просмотров 16105  
-https://x.com/toly/status/2125753904474509674
+I wonder if AI trained on language from 20th or 19th century would hit RSI eventually.  How far do you have to go back?  Egyptians geographers carving up the line with 3,4,5 right angles?
 
-## 2026-11-26 00:52 UTC · ответ
+❤ 5 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1774  
+https://x.com/toly/status/2126126223730630941
 
-Yay, someone did it
+## 2026-11-27 01:32 UTC · репост
 
-● ⚠️  Alert — the 70 USDC prize just left the vault (vault=0, insurance=0) with OI still 0. That's either an exploit (bounty claimed) or something touched the pot. Investigating the vault's
-  transactions immediately.
-  
-  Ran 1 shell command 
-  
-● Two
+RT @ImDenixSol: Thankful for the @solana ecosystem ❤️🦃
 
-❤ 28 · 🔁 4 · 💬 5 · цитат 4 · просмотров 5004  
-https://x.com/toly/status/2125754522555621531
+❤ 0 · 🔁 5 · 💬 0 · цитат 0 · просмотров 9350  
+https://x.com/toly/status/2126126979951055300
 
-## 2026-11-26 01:00 UTC · ответ
+## 2026-11-27 01:32 UTC · репост
 
-@Raydium Mistakes were made apparently
+RT @vitorpy: Thankful for the @solana ecosystem ❤️🦃
 
-❤ 5 · 🔁 0 · 💬 5 · цитат 0 · просмотров 2361  
-https://x.com/toly/status/2125756427721482474
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 9288  
+https://x.com/toly/status/2126126996048798113
 
-## 2026-11-26 01:23 UTC · репост
+## 2026-11-27 01:33 UTC · репост
 
-RT @alessandrod: when after YEARS of getting FUDded over direct mapping, the feature goes live and you teach the larps how to measure https…
+RT @marccolcer: This Thanksgiving, there's a LOT to be thankful for in the @solana ecosystem.
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 9676  
-https://x.com/toly/status/2125762426553684094
+From trillions in stablecoin volume and bill…
 
-## 2026-11-26 01:24 UTC · цитата
+❤ 0 · 🔁 7 · 💬 0 · цитат 0 · просмотров 9048  
+https://x.com/toly/status/2126127137774354527
 
-Kurzweil predicted this as one of the signs that the singularity is near. https://t.co/iE0FcSyR2b
+## 2026-11-27 01:33 UTC · репост
 
-❤ 27 · 🔁 0 · 💬 4 · цитат 0 · просмотров 16280  
-https://x.com/toly/status/2125762583311573273
+RT @SolPlay_jonas: All zk circuits should be written in rust!
 
-## 2026-11-26 01:26 UTC · цитата
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 9233  
+https://x.com/toly/status/2126127166354239813
 
-🎄🎄🎄 https://t.co/W00qlISqLj
+## 2026-11-27 01:33 UTC · репост
 
-❤ 286 · 🔁 14 · 💬 79 · цитат 13 · просмотров 29853  
-https://x.com/toly/status/2125762978108891436
+RT @HeyAndyS: Account Data Direct Mapping went live today!
 
-## 2026-11-26 01:29 UTC · цитата
+I had a look into 
+- what changed
+- which programs are now broken
+- what this e…
 
-They are deliberately being dumb.  You can’t eat capital. 
+❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 10362  
+https://x.com/toly/status/2126127299439517931
 
-There is little consumer inequality in USA, as everyone has access to the same high quality food. https://t.co/ZkuqCl6tT4
+## 2026-11-27 02:32 UTC · ответ
 
-❤ 83 · 🔁 4 · 💬 27 · цитат 0 · просмотров 20663  
-https://x.com/toly/status/2125763748543746286
+@cavemanloverboy @bw_solana @yoayush I’ve been busting my ass in the data mines since I was 11
 
-## 2026-11-26 01:29 UTC · репост
+❤ 3 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1398  
+https://x.com/toly/status/2126142011212480798
 
-RT @alessandrod: I’m going to be insufferable today, this is 9/11 for my opps.
+## 2026-11-27 02:38 UTC · цитата
 
-Kinda poetic it falls a week after my 5th Solana anniversar…
+Only Uncs https://t.co/CZkFmCUNI8
 
-❤ 0 · 🔁 8 · 💬 0 · цитат 0 · просмотров 9872  
-https://x.com/toly/status/2125763896279814583
+❤ 69 · 🔁 5 · 💬 22 · цитат 0 · просмотров 19674  
+https://x.com/toly/status/2126143715924435374
 
-## 2026-11-26 02:00 UTC · цитата
+## 2026-11-27 03:25 UTC · репост
 
-BREAKING: BUG BOUNTY (round 2)
+RT @DefuseSec: If P = BQP, I will eat my CPU.*
 
-69 gdp growth outpaceing inflation so fed wont lower rates pre singularity dollars are up for grabs to anyone that can exploit all the bugs lean-svm has gaslit me are impossible again https://t.co/6dX5RovqgC
+* At a steady rate over k years, where O(nᵏ) is the classical simulation's runtime in the i…
 
-❤ 81 · 🔁 8 · 💬 40 · цитат 4 · просмотров 20591  
-https://x.com/toly/status/2125771710050041999
+❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 9559  
+https://x.com/toly/status/2126155447627624949
 
-## 2026-11-26 03:28 UTC · цитата
+## 2026-11-27 03:34 UTC · цитата
 
-🤯🤯🤯 https://t.co/k4sQn1zZci
+1) what https://t.co/X6nDYdAUvi
 
-❤ 89 · 🔁 3 · 💬 0 · цитат 0 · просмотров 19635  
-https://x.com/toly/status/2125793721149186411
+❤ 59 · 🔁 0 · 💬 0 · цитат 1 · просмотров 26184  
+https://x.com/toly/status/2126157612286918962
 
-## 2026-11-26 03:29 UTC · цитата
+## 2026-11-27 03:52 UTC · цитата
 
-👑👑👑 https://t.co/kvkSPPAiil
+🤯🤯🤯 https://t.co/4LyINwW9sU
 
-❤ 14 · 🔁 0 · 💬 0 · цитат 1 · просмотров 13629  
-https://x.com/toly/status/2125794034811895971
+❤ 34 · 🔁 1 · 💬 1 · цитат 2 · просмотров 17459  
+https://x.com/toly/status/2126162127744610386
 
-## 2026-11-26 03:46 UTC · цитата
+## 2026-11-27 03:55 UTC · ответ
 
-🤯🤯🤯 https://t.co/qvwMi0lANP
+@MidTermDev Tell it to use avx512 or whether the latest SIMD is available for the cryptography.  You’ll be able to keep up with mainnet.
 
-❤ 164 · 🔁 5 · 💬 0 · цитат 2 · просмотров 7420  
-https://x.com/toly/status/2125798272128393659
-
-## 2026-11-26 04:23 UTC · репост
-
-RT @armaniferrante: 🤯
-
-❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 9225  
-https://x.com/toly/status/2125807653364682783
-
-## 2026-11-26 04:33 UTC · цитата
-
-🧈🧈🧈 https://t.co/10PIwEd1TI
-
-❤ 17 · 🔁 0 · 💬 0 · цитат 3 · просмотров 13220  
-https://x.com/toly/status/2125810138137432140
-
-## 2026-11-26 04:35 UTC · цитата
-
-👑👑👑 https://t.co/Mr4S9p4c2p
-
-❤ 105 · 🔁 7 · 💬 1 · цитат 7 · просмотров 10558  
-https://x.com/toly/status/2125810681975083320
-
-## 2026-11-26 04:35 UTC · цитата
-
-👑👑👑 https://t.co/jNkuqcoFoM
-
-❤ 40 · 🔁 2 · 💬 1 · цитат 0 · просмотров 4229  
-https://x.com/toly/status/2125810767715049838
-
-## 2026-11-26 04:36 UTC · цитата
-
-👑👑👑 https://t.co/7NEXy2cjsu
-
-❤ 67 · 🔁 3 · 💬 1 · цитат 1 · просмотров 5158  
-https://x.com/toly/status/2125810954613272651
-
-## 2026-11-26 04:38 UTC · цитата
-
-👑👑👑 https://t.co/oG8QicxZFj
-
-❤ 11 · 🔁 0 · 💬 0 · цитат 1 · просмотров 4270  
-https://x.com/toly/status/2125811487394730420
-
-## 2026-11-26 04:58 UTC · цитата
-
-🐐🐐🐐 https://t.co/zk99fdQwxj
-
-❤ 15 · 🔁 1 · 💬 0 · цитат 0 · просмотров 14003  
-https://x.com/toly/status/2125816404851163633
-
-## 2026-11-26 04:58 UTC · цитата
-
-🐐🐐🐐 https://t.co/9QdueklowL
-
-❤ 24 · 🔁 0 · 💬 0 · цитат 0 · просмотров 5765  
-https://x.com/toly/status/2125816461264642119
-
-## 2026-11-26 05:02 UTC · цитата
-
-📱📱📱 https://t.co/lNF9t2VRvY
-
-❤ 29 · 🔁 1 · 💬 0 · цитат 2 · просмотров 13656  
-https://x.com/toly/status/2125817352646435112
+❤ 9 · 🔁 0 · 💬 3 · цитат 0 · просмотров 2151  
+https://x.com/toly/status/2126163015792038021
