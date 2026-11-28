@@ -1,10 +1,10 @@
-# @pythianism — посты за 2026-11-27
+# @pythianism — посты за 2026-11-28
 
 Всего: 1
 
-## 2026-11-26 16:11 UTC · репост
+## 2026-11-27 21:52 UTC · репост
 
-RT @joshavata: Gemini 4 Hyrogen is improving rapidly in performance and cost https://t.co/9yuH5Bn65x
+RT @coolhandluka_: Brady knows what he’s talking about. he threw passes to a bisexual serial killer for three seasons and was prepared to t…
 
-❤ 0 · 🔁 2 · 💬 0 · цитат 0 · просмотров 897  
-https://x.com/pythianism/status/2125985802165322088
+❤ 0 · 🔁 2308 · 💬 0 · цитат 0 · просмотров 803  
+https://x.com/pythianism/status/2126433935903297824

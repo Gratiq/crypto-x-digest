@@ -1,42 +1,82 @@
 [
  {
-  "id": "2125989958947357082",
-  "username": "tarunchitra",
-  "username_canon": "tarunchitra",
-  "type": "quote",
-  "created_at": "2026-11-26T16:27:59.000Z",
-  "text": "Gowers-Gerko Theorem: Assuming ZFC, for every pro AI mathematician, there exists a theorem proved by AI such that this mathematician joins a stop AI protest https://t.co/X3xtQMfsHt https://t.co/pqbLEnT9fc",
-  "url": "https://x.com/tarunchitra/status/2125989958947357082",
-  "likes": 35,
-  "retweets": 5,
-  "replies": 10,
-  "quotes": 0,
-  "impressions": 2660,
-  "bookmarks": 3,
-  "referenced": {
-   "type": "quoted",
-   "id": "2123931407445815760",
-   "text": "Meanwhile, I'm going on this march (planned earlier), on the grounds that pushing on with rapid AI development seems like a huge gamble that we shouldn't be taking. If you're there too and happen to spot me, come and say hi.\n\nhttps://t.co/tr4XfviVeR"
-  }
- },
- {
-  "id": "2125990403505631508",
+  "id": "2126363870185054374",
   "username": "tarunchitra",
   "username_canon": "tarunchitra",
   "type": "retweet",
-  "created_at": "2026-11-26T16:29:45.000Z",
-  "text": "RT @OREAXEAX: Many are getting frantic about the prospect of AI breaking cryptographic assumptions. On the other hand, AI just gave us the…",
-  "url": "https://x.com/tarunchitra/status/2125990403505631508",
+  "created_at": "2026-11-27T17:13:47.000Z",
+  "text": "RT @willdepue: breaking: due to the singularity 80,000 Hours is now rebranding as 5,000 Hours",
+  "url": "https://x.com/tarunchitra/status/2126363870185054374",
   "likes": 0,
-  "retweets": 11,
+  "retweets": 26,
   "replies": 0,
   "quotes": 0,
-  "impressions": 422,
+  "impressions": 404,
   "bookmarks": 0,
   "referenced": {
    "type": "retweeted",
-   "id": "2125989663630668084",
-   "text": "Many are getting frantic about the prospect of AI breaking cryptographic assumptions. On the other hand, AI just gave us the first spark of unconditional lower bounds. So perhaps at the end of the long road we will actually end up with cryptography based on no assumptions at all?"
+   "id": "2126361022349070809",
+   "text": "breaking: due to the singularity 80,000 Hours is now rebranding as 5,000 Hours"
+  }
+ },
+ {
+  "id": "2126496243828285515",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "quote",
+  "created_at": "2026-11-28T01:59:47.000Z",
+  "text": "My gut feeling is that all the attempts at this (e.g. Spielman's Smoothed Analysis and @Tim_Roughgarden's work on beyond worst-case) have somehow been \"perturbative\" in that they perturb around worst-case and average\n\nIs there a non-perturbative version?\n\nhttps://t.co/u3mcodOC9m https://t.co/eTbxBntMa5",
+  "url": "https://x.com/tarunchitra/status/2126496243828285515",
+  "likes": 28,
+  "retweets": 1,
+  "replies": 3,
+  "quotes": 0,
+  "impressions": 2959,
+  "bookmarks": 9,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126380428298702906",
+   "text": "My gut sense is we probably need to develop a new math around “irreducibly galactic” algorithms that current complexity theory doesn’t capture. \n\nI think we’ve largely ignored galacticity because we haven’t had that many examples. But AIs seem really good at galactic algos."
+  }
+ },
+ {
+  "id": "2126571095725928663",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "retweet",
+  "created_at": "2026-11-28T06:57:13.000Z",
+  "text": "RT @johnschulman2: @edwinarbus Anthropic didn't share anything about how the research capabilities were limited -- was it \"we trained on le…",
+  "url": "https://x.com/tarunchitra/status/2126571095725928663",
+  "likes": 0,
+  "retweets": 47,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 217,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126523024795115995",
+   "text": "@edwinarbus Anthropic didn't share anything about how the research capabilities were limited -- was it \"we trained on less of that data\" or \"we did a training step at the end to damage those capabilities\"? If the latter, it's easy to imagine how this would cause sandbagging behavior, even if"
+  }
+ },
+ {
+  "id": "2126573206458777950",
+  "username": "tarunchitra",
+  "username_canon": "tarunchitra",
+  "type": "reply",
+  "created_at": "2026-11-28T07:05:36.000Z",
+  "text": "@secparam @recmo Despite all of these fights, it is hard to not to ask, “if P = BQP, what is the ratio of error correcting costs + space to actual unitary operations?”\n\nAnd QKD and most quantum algorithms will never agree on the answer to this (perhaps a mildly good sign if you are scared, haha)",
+  "url": "https://x.com/tarunchitra/status/2126573206458777950",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 24,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126561611116618110",
+   "text": "@recmo I'm talking about the tiny minority of quantum computing people one here who keep jumping up to defend quantum computing when you mention P might equal BQP, not QKD.\n\nThat said, current QKD schemes are pretty limited.\nWe have BB84-style schemes that work by sending entangled"
   }
  }
 ]

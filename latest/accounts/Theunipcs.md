@@ -1,25 +1,28 @@
-# @Theunipcs — посты за 2026-11-27
+# @Theunipcs — посты за 2026-11-28
 
-Всего: 2
+Всего: 1
 
-## 2026-11-26 20:21 UTC · репост
+## 2026-11-27 08:43 UTC · пост
 
-RT @SunFlowSolana: After over a month of aggressive selling, $SI is finally reacting reflexively upward
+one of the most important lessons i've learnt as a trader:
 
-30-day flows show extreme optimism…
+sometimes, the best trade you can take is NO TRADE
 
-❤ 0 · 🔁 18 · 💬 0 · цитат 0 · просмотров 18379  
-https://x.com/theunipcs/status/2126048724761849995
+as uncomfortable as that may feel
 
-## 2026-11-26 20:24 UTC · цитата
+especially after periods of extreme losses, roundtrips, or market-wide selloffs
 
-Super Inu / $SI is 100% going to be one of the outperformers on the next leg up when the whole market reverses IMO  
+the urge to take as many trades as possible to make it all back is usually strongest during these periods
 
-the narrative is S tier and this memecoin is NOT done  
+but more often than not, you'll just end up piling additional losses on top of existing ones
 
-likely going to end up being another Unipcs kingmaker trade  
+e.g. i went viral for getting liquidated on 8 figures on 10/10
 
-we'll see! https://t.co/Y4f97xua6T https://t.co/2Q1sVo4lCI
+but what many don't know is that i ended up losing several MILLION more trying to make it all back shortly after
 
-❤ 584 · 🔁 97 · 💬 153 · цитат 8 · просмотров 56637  
-https://x.com/theunipcs/status/2126049451043181012
+in hindsight, i'd have been MUCH better off going AFK for months after that liquidation event
+
+sometimes, protecting your capital and doing absolutely nothing is the most profitable trade you can make
+
+❤ 1219 · 🔁 130 · 💬 267 · цитат 25 · просмотров 85574  
+https://x.com/theunipcs/status/2126235357767160131

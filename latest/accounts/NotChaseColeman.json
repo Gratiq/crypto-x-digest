@@ -1,37 +1,102 @@
 [
  {
-  "id": "2126050520716792131",
+  "id": "2126430480622817285",
   "username": "NotChaseColeman",
   "username_canon": "NotChaseColeman",
-  "type": "reply",
-  "created_at": "2026-11-26T20:28:38.000Z",
-  "text": "@zackvoell @petervoell \"prev: @openai @amazon\" and here we are hypergambling on wifi money.",
-  "url": "https://x.com/NotChaseColeman/status/2126050520716792131",
-  "likes": 1,
-  "retweets": 0,
-  "replies": 0,
+  "type": "quote",
+  "created_at": "2026-11-27T21:38:28.000Z",
+  "text": "GigaChat 4 https://t.co/5ag4nCthfY",
+  "url": "https://x.com/NotChaseColeman/status/2126430480622817285",
+  "likes": 7,
+  "retweets": 1,
+  "replies": 2,
   "quotes": 0,
-  "impressions": 114,
+  "impressions": 1284,
   "bookmarks": 0,
   "referenced": {
-   "type": "replied_to",
-   "id": "2125807098126803247",
-   "text": "my brother (who is annoyingly smart!!) is building something cool and raised a bunch of money so you should follow (and occasionally bully!!) him online \n\n@petervoell"
+   "type": "quoted",
+   "id": "2126003297421041744",
+   "text": "Russia’s open source flagship GigaChat 4 is out, and it already outperforms the entire EU AI industry. https://t.co/tOM3TWCWSv"
   }
  },
  {
-  "id": "2126145916310880655",
+  "id": "2126454964935639082",
   "username": "NotChaseColeman",
   "username_canon": "NotChaseColeman",
-  "type": "original",
-  "created_at": "2026-11-27T02:47:42.000Z",
-  "text": "I’m thankful for @spicypsychox ❤️",
-  "url": "https://x.com/NotChaseColeman/status/2126145916310880655",
-  "likes": 3,
-  "retweets": 0,
-  "replies": 2,
+  "type": "retweet",
+  "created_at": "2026-11-27T23:15:45.000Z",
+  "text": "RT @intangiblecoins: will chamath’s SPACs inevitably go to zero? https://t.co/aAT4tVpcVu",
+  "url": "https://x.com/NotChaseColeman/status/2126454964935639082",
+  "likes": 0,
+  "retweets": 174,
+  "replies": 0,
   "quotes": 0,
-  "impressions": 1119,
-  "bookmarks": 0
+  "impressions": 566,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126433085570887687",
+   "text": "will chamath’s SPACs inevitably go to zero? https://t.co/aAT4tVpcVu https://t.co/bMh2BsGeU7"
+  }
+ },
+ {
+  "id": "2126485552942006467",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "retweet",
+  "created_at": "2026-11-28T01:17:18.000Z",
+  "text": "RT @The_Airmass: All these low-T pussies shitting themselves over AI breaking Bitcoin private keys. Meanwhile, Elon Musk, one of the most h…",
+  "url": "https://x.com/NotChaseColeman/status/2126485552942006467",
+  "likes": 0,
+  "retweets": 27,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 459,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "retweeted",
+   "id": "2126460978497831352",
+   "text": "All these low-T pussies shitting themselves over AI breaking Bitcoin private keys. Meanwhile, Elon Musk, one of the most heavily involved people in AI on the planet, has over 30,000 BTC sitting on the balance sheets of Tesla and SpaceX.\n\nBut some dipshit with a podcast apparently"
+  }
+ },
+ {
+  "id": "2126486508643487995",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-28T01:21:06.000Z",
+  "text": "https://t.co/mqqB2nodQZ https://t.co/gz2Q7jG976",
+  "url": "https://x.com/NotChaseColeman/status/2126486508643487995",
+  "likes": 3,
+  "retweets": 1,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1025,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126399791844495564",
+   "text": "https://t.co/QeMNgKLofc"
+  }
+ },
+ {
+  "id": "2126542132387467652",
+  "username": "NotChaseColeman",
+  "username_canon": "NotChaseColeman",
+  "type": "quote",
+  "created_at": "2026-11-28T05:02:08.000Z",
+  "text": "Damn AI collapsing banks bro https://t.co/BeMSl4XY9W",
+  "url": "https://x.com/NotChaseColeman/status/2126542132387467652",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 1244,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126531025568215040",
+   "text": "BREAKING: Indiana-based United Fidelity Bank has collapsed with $5.9 billion in assets — largest U.S. bank failure in over two years."
+  }
  }
 ]

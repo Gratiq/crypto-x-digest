@@ -1,170 +1,116 @@
-# @AshCrypto — посты за 2026-11-27
+# @AshCrypto — посты за 2026-11-28
 
-Всего: 17
+Всего: 13
 
-## 2026-11-26 08:23 UTC · пост
+## 2026-11-27 08:20 UTC · пост
 
-BREAKING: 🇬🇧 The UK plans stricter crypto rules to reduce scams and protect investors.
+Bitcoin is pumping back up https://t.co/g58Sgin70C
 
-1. Crypto exchanges will be banned from trading against their own customers.
+❤ 1925 · 🔁 194 · 💬 216 · цитат 18 · просмотров 90204  
+https://x.com/AshCrypto/status/2126229691615121735
 
-2. DeFi platforms will need regulatory approval.
+## 2026-11-27 09:29 UTC · пост
 
-3. Retail investors will only be able to trade tokenized stocks on regulated platforms.
+BREAKING: 🇪🇺 The EU will launch an upgraded crypto registry in mid-2027, making it easier to check which crypto companies are officially approved.
 
-❤ 866 · 🔁 85 · 💬 125 · цитат 11 · просмотров 85195  
-https://x.com/AshCrypto/status/2125867978495574236
+This will help investors avoid fake or unapproved crypto companies and stay safer.
 
-## 2026-11-26 09:04 UTC · ответ
+❤ 580 · 🔁 42 · 💬 73 · цитат 1 · просмотров 70824  
+https://x.com/AshCrypto/status/2126246916472307958
 
-@BullTheoryio Damn 👀
+## 2026-11-27 10:16 UTC · пост
 
-❤ 12 · 🔁 0 · 💬 1 · цитат 0 · просмотров 4634  
-https://x.com/AshCrypto/status/2125878347943100606
+🔥MASSIVE ACCUMULATION:
 
-## 2026-11-26 09:34 UTC · пост
+An institution bought $102 Million in BTC today.
 
-HOW THE FUCK IT KEEPS GETTING WORSE?
+Since it dropped to $55K, they have bought $1.29 Billion in Bitcoin. https://t.co/lIeRyjqi7L
 
-Rumours are spreading that OpenAI or Anthropic just broke the math that protects the internet, and this isn't coming from some anon.
+❤ 1522 · 🔁 156 · 💬 107 · цитат 11 · просмотров 80021  
+https://x.com/AshCrypto/status/2126258960655429801
 
-Scott Aaronson, one of the biggest names in quantum computing, says he's heard "many, many rumours" about it. 
+## 2026-11-27 10:59 UTC · пост
 
-Ledger's CTO Charles Guillemet says he's hearing it too, and his version includes the math that secures Bitcoin.
+$10,000 invested in $ETH this year is now worth $5,800.
 
-Nothing is confirmed. Neither OpenAI nor Anthropic has said a word, and Aaronson thinks the details may have got mixed up along the way.
+$10,000 invested in rice this year is now worth $19,700.
 
-But if it's real, about 6.9 million BTC sit in wallets that could be exposed, roughly a third of all Bitcoin, including Satoshi's.
+Bro, we got outperformed by fucking rice. https://t.co/03yVXpHVkJ
 
-Satoshi told us in 2008 to use a new key for every transaction. Maybe we should've listened..
+❤ 833 · 🔁 67 · 💬 132 · цитат 10 · просмотров 76163  
+https://x.com/AshCrypto/status/2126269796220285240
 
-❤ 1170 · 🔁 112 · 💬 188 · цитат 26 · просмотров 158144  
-https://x.com/AshCrypto/status/2125885925561708573
+## 2026-11-27 12:42 UTC · пост
 
-## 2026-11-26 10:50 UTC · пост
+Bitcoin bear markets have historically lasted around 14 months, and we're now in the 14th month.
 
-BREAKING: 🇨🇭 Switzerland's first spot Bitcoin ETF begins trading today on SIX Swiss, Europe's third-largest stock exchange.
+Bottom is close and real bull run is loading soon. https://t.co/qnYCKSmrrB
 
-Massive for Bitcoin adoption.
+❤ 1920 · 🔁 252 · 💬 216 · цитат 19 · просмотров 125668  
+https://x.com/AshCrypto/status/2126295561024532727
 
-❤ 1355 · 🔁 129 · 💬 83 · цитат 10 · просмотров 83545  
-https://x.com/AshCrypto/status/2125905040770789736
+## 2026-11-27 13:55 UTC · пост
 
-## 2026-11-26 11:18 UTC · пост
+A whale with $10 Million in profits has just opened a $150 Million BTC long.
 
-BREAKING: 🇺🇸 US Senator Elizabeth Warren asks the SEC to drop plans to make crypto regulations and tokenized stock trading easier. https://t.co/lIi7yB5FHy
+He definitely knows something. https://t.co/b4pTdyDx6G
 
-❤ 1181 · 🔁 108 · 💬 249 · цитат 21 · просмотров 132951  
-https://x.com/AshCrypto/status/2125912047569555842
+❤ 1179 · 🔁 106 · 💬 198 · цитат 14 · просмотров 93955  
+https://x.com/AshCrypto/status/2126314041828323761
 
-## 2026-11-26 12:51 UTC · пост
+## 2026-11-27 14:31 UTC · пост
 
-$100 invested in $BTC every Thanksgiving since 2010: https://t.co/oYTJPmjjay
+Over $1 Trillion added to the US stock market at open. https://t.co/Lp1fJTubg1
 
-❤ 645 · 🔁 70 · 💬 88 · цитат 8 · просмотров 97842  
-https://x.com/AshCrypto/status/2125935570107150481
+❤ 1460 · 🔁 115 · 💬 108 · цитат 10 · просмотров 76714  
+https://x.com/AshCrypto/status/2126323019564150897
 
-## 2026-11-26 14:05 UTC · репост
+## 2026-11-27 14:45 UTC · пост
 
-RT @BullTheoryio: 🚨 A SHOCKING RUMOR CLAIMS AI MAY HAVE CRACKED THE SECURITY BEHIND GLOBAL BANKING AND CRYPTO.
+US stock market added $1 Trillion at open.
 
-If you use the internet for…
+And crypto is doing this shit. https://t.co/o8maKxiV6C
 
-❤ 0 · 🔁 157 · 💬 0 · цитат 0 · просмотров 0  
-https://x.com/AshCrypto/status/2125954133454639140
+❤ 3272 · 🔁 267 · 💬 297 · цитат 21 · просмотров 190790  
+https://x.com/AshCrypto/status/2126326531110887749
 
-## 2026-11-26 14:06 UTC · пост
+## 2026-11-27 17:05 UTC · пост
 
-BREAKING: 🇮🇱 Discount Bank with over 1 Million customers, becomes Israel's first bank to offer direct BTC and ETH trading. 
+Never in my life am I calling crypto easy money again.
 
-Banks don't want to miss out on crypto.
+❤ 2557 · 🔁 165 · 💬 263 · цитат 31 · просмотров 105280  
+https://x.com/AshCrypto/status/2126361707148919199
 
-❤ 1029 · 🔁 94 · 💬 137 · цитат 15 · просмотров 78937  
-https://x.com/AshCrypto/status/2125954284944814379
+## 2026-11-27 17:37 UTC · пост
 
-## 2026-11-26 15:10 UTC · пост
+BREAKING: 🇷🇺 VTB, Russia's second-largest bank with over 31 million customers, launches crypto trading.
 
-Happy Thanksgiving. https://t.co/p9pMxiSomS
+Crypto adoption in Russia is growing fast. https://t.co/mKQuAvsmxh
 
-❤ 2634 · 🔁 148 · 💬 195 · цитат 19 · просмотров 219869  
-https://x.com/AshCrypto/status/2125970367810253020
+❤ 750 · 🔁 88 · 💬 95 · цитат 5 · просмотров 61154  
+https://x.com/AshCrypto/status/2126369887799091389
 
-## 2026-11-26 16:19 UTC · пост
+## 2026-11-27 19:45 UTC · пост
 
-This Thanksgiving, I am thankful for the 10% of my portfolio that survived 2026.
+If ETH hits $10K, I'll become a homeowner.
 
-❤ 1085 · 🔁 50 · 💬 115 · цитат 2 · просмотров 70963  
-https://x.com/AshCrypto/status/2125987872964788702
+If ETH hits $1K, I'll become a housekeeper.
 
-## 2026-11-26 17:59 UTC · пост
+❤ 1066 · 🔁 59 · 💬 163 · цитат 12 · просмотров 75197  
+https://x.com/AshCrypto/status/2126401925373685989
 
-🚨BREAKING: $7,400,000,000 in Bitcoin and Ethereum options will expire tomorrow.
+## 2026-11-28 05:20 UTC · пост
 
-High volatility expected. https://t.co/MTIRvfKdWg
+🚨BREAKING: 
 
-❤ 1895 · 🔁 172 · 💬 176 · цитат 40 · просмотров 141914  
-https://x.com/AshCrypto/status/2126012949928312977
+🇺🇸 BlackRock and other ETFs sold $1.64 Billion worth of Bitcoin this week https://t.co/7vMApeMSNY
 
-## 2026-11-26 19:08 UTC · пост
+❤ 412 · 🔁 30 · 💬 73 · цитат 6 · просмотров 42198  
+https://x.com/AshCrypto/status/2126546852959093033
 
-Screenshot from 2028 https://t.co/rsrpxBHrQ2
+## 2026-11-28 05:55 UTC · пост
 
-❤ 1240 · 🔁 62 · 💬 156 · цитат 13 · просмотров 112930  
-https://x.com/AshCrypto/status/2126030323981181188
+🚨 World liberty Financial $WLFI just crashed -50% in the last 60 minutes. https://t.co/bgdQrwbtDV
 
-## 2026-11-26 21:02 UTC · пост
-
-In 2022, when the crypto market bottomed, we had:
-
-- Fed hiking rates
-- Exchange collapse
-- Stocks bear market
-- High inflation
-- Russia and Ukraine war
-- Housing crisis
-- Crypto contagion
-
-Right now, we have a hawkish Fed, hot inflation, stocks dumping, an ongoing war, an exchange hack, and tariff uncertainty.
-
-Back then, we felt crypto was done, and my timeline is looking the same now.
-
-We are very close to the bottom, and I'll come back to this tweet in a few years.
-
-❤ 631 · 🔁 50 · 💬 85 · цитат 5 · просмотров 72413  
-https://x.com/AshCrypto/status/2126059002714788225
-
-## 2026-11-27 02:57 UTC · пост
-
-MASSIVE PUMP IN GOLD AND SILVER
-
-$700 Billion added in just 90 minutes. https://t.co/zJm3xjCVHB
-
-❤ 1930 · 🔁 149 · 💬 115 · цитат 17 · просмотров 91732  
-https://x.com/AshCrypto/status/2126148442372391165
-
-## 2026-11-27 04:23 UTC · пост
-
-Everyone asking why ETH is crashing?
-
-Show them this: https://t.co/qaDFQyPe2b
-
-❤ 416 · 🔁 32 · 💬 53 · цитат 2 · просмотров 66867  
-https://x.com/AshCrypto/status/2126170043214098515
-
-## 2026-11-27 06:32 UTC · пост
-
-MASSIVE REVERSAL IN CHINA
-
-¥3,500,000,000,000 added to Chinese stock markets today. https://t.co/12rP9Wx8fY
-
-❤ 542 · 🔁 55 · 💬 57 · цитат 9 · просмотров 41452  
-https://x.com/AshCrypto/status/2126202380077469960
-
-## 2026-11-27 07:25 UTC · пост
-
-BREAKING: 🇨🇳🇯🇵🇰🇷 China, Japan, South Korea and 11 ASEAN countries are working on digital payments and crypto regulations.
-
-Asia is moving fast on Crypto CLARITY 🚀
-
-❤ 81 · 🔁 5 · 💬 24 · цитат 0 · просмотров 21124  
-https://x.com/AshCrypto/status/2126215751808012588
+❤ 688 · 🔁 70 · 💬 145 · цитат 15 · просмотров 63057  
+https://x.com/AshCrypto/status/2126555516843544635

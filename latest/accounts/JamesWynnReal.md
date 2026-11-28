@@ -1,45 +1,47 @@
-# @JamesWynnReal — посты за 2026-11-27
+# @JamesWynnReal — посты за 2026-11-28
 
-Всего: 6
+Всего: 4
 
-## 2026-11-26 09:55 UTC · цитата
+## 2026-11-27 10:53 UTC · ответ
 
-good times https://t.co/CH0bExG6Rr
+@jamesjasmy The brakes failed so I hit the handbrake and rolled over into a ditch. Thank you for your kind words.
 
-❤ 22 · 🔁 0 · 💬 4 · цитат 0 · просмотров 23356  
-https://x.com/JamesWynnReal/status/2125891242756317307
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 2149  
+https://x.com/JamesWynnReal/status/2126268221355635075
 
-## 2026-11-26 09:58 UTC · пост
+## 2026-11-27 10:57 UTC · ответ
 
-I worked for my bags, despite having no followers and I enjoyed every minute of pushing a meme or narrative I believed it. https://t.co/rRkhmeGoSF
+In the moment it wasn’t the money, it was the ego, the competition and the adrenaline seeking ego I had.
+ 
+Some would take the money and run at $1m. But that ain’t me, I’m a gambler, you don’t know my past. We’re all different.
+ 
+At the time I was enjoying the thrill way too much to quit. But I’m honestly thankful for everything that has played out.
+ 
+It has humbled me. And I needed it. And thankful for God to give me such a great test despite all the pain, suffering and anguish I have been through.
 
-❤ 93 · 🔁 3 · 💬 30 · цитат 0 · просмотров 30003  
-https://x.com/JamesWynnReal/status/2125891968815546392
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1970  
+https://x.com/JamesWynnReal/status/2126269296758456627
 
-## 2026-11-26 15:33 UTC · ответ
+## 2026-11-27 11:00 UTC · ответ
 
-@Kavan1983 Yup, thanks for that mate.
+@JBerkeleyClarke I’d argue every successful person no matter the industry needs to possess an ego.
+ 
+Yes, I have a massive fucking ego.
+ 
+Elon Musk - ego
+Donald Trump - ego
+Cristiano Ronaldo - ego
+LeBron James - ego
+Tom Cruise - ego
+ 
+What is ego? For me, it’s self believe, confidence and a
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1207  
-https://x.com/JamesWynnReal/status/2125976269502472203
+❤ 5 · 🔁 0 · 💬 2 · цитат 0 · просмотров 2254  
+https://x.com/JamesWynnReal/status/2126269849450197219
 
-## 2026-11-26 16:11 UTC · пост
+## 2026-11-27 16:14 UTC · ответ
 
-https://t.co/gfdXpg2aRT
+@ddotb88 Agree completely!
 
-❤ 197 · 🔁 5 · 💬 72 · цитат 3 · просмотров 42840  
-https://x.com/JamesWynnReal/status/2125985690337038436
-
-## 2026-11-26 18:44 UTC · ответ
-
-@londoncryptoo Noted.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1138  
-https://x.com/JamesWynnReal/status/2126024362654613791
-
-## 2026-11-27 06:13 UTC · ответ
-
-@QuantumFinFlow Her song at her funeral was a song called ‘Here is your paradise’ by Christy De Burgh.
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 754  
-https://x.com/JamesWynnReal/status/2126197738140557386
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1165  
+https://x.com/JamesWynnReal/status/2126348986101714954

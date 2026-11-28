@@ -1,0 +1,77 @@
+[
+ {
+  "id": "2126343910972703002",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "quote",
+  "created_at": "2026-11-27T15:54:28.000Z",
+  "text": "Understanding post-fee (and transaction cost) Sharpe is important. \n\nBut if you're evaluating historical hedge fund indices, it's important to consider for fees have changed. https://t.co/smN8DjoDfd",
+  "url": "https://x.com/choffstein/status/2126343910972703002",
+  "likes": 21,
+  "retweets": 1,
+  "replies": 2,
+  "quotes": 0,
+  "impressions": 5020,
+  "bookmarks": 16,
+  "referenced": {
+   "type": "quoted",
+   "id": "2126335421588046105",
+   "text": "Most allocators don't have a view on managed futures. They have a view on 2-and-20.\n\nBy our estimates, legacy hedge-fund fees absorbed 40-48% of what the flagship SG CTA indices earned over cash since 2000. Strip them out, and the whole story changes. https://t.co/MpQYBbPNag"
+  }
+ },
+ {
+  "id": "2126410813598576746",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "original",
+  "created_at": "2026-11-27T20:20:19.000Z",
+  "text": "when you think about it, it's the \"to\" in \"farm-to-table\" that really does all the heavy lifting.",
+  "url": "https://x.com/choffstein/status/2126410813598576746",
+  "likes": 21,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 3915,
+  "bookmarks": 0
+ },
+ {
+  "id": "2126411490617905491",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-27T20:23:00.000Z",
+  "text": "I mean, just about everything is farm-to-table.  It's just a matter of how many tos are in-between.",
+  "url": "https://x.com/choffstein/status/2126411490617905491",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 1962,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126410813598576746",
+   "text": "when you think about it, it's the \"to\" in \"farm-to-table\" that really does all the heavy lifting."
+  }
+ },
+ {
+  "id": "2126419384268980629",
+  "username": "choffstein",
+  "username_canon": "choffstein",
+  "type": "reply",
+  "created_at": "2026-11-27T20:54:22.000Z",
+  "text": "@sonusvarghese It's worth noting that credit is basically flat on the year ($LQDH is total return and we need to subtract out $BIL to get the excess return of credit).",
+  "url": "https://x.com/choffstein/status/2126419384268980629",
+  "likes": 7,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 939,
+  "bookmarks": 2,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126418394710725032",
+   "text": "Credit, incl high yield, hasn’t had a great year\n\nYTD performance\n$IEF: -1.4%\n$LQD: -1.8%\n$HYG: -0.2%\n\nBUT credit’s struggle is due to duration, not “credit”\n\nDuration-hedged versions (h/t @choffstein)\n$LQDH: 3.1%\n$HYGH: 2.8%\n\nMoreover, loans\n$LONZ: 3.8%\n$SRLN: 3.2%\n$BKLN: 3.1%"
+  }
+ }
+]

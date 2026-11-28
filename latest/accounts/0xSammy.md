@@ -1,120 +1,72 @@
-# @0xSammy — посты за 2026-11-27
+# @0xSammy — посты за 2026-11-28
 
-Всего: 15
+Всего: 9
 
-## 2026-11-26 08:23 UTC · репост
+## 2026-11-27 08:52 UTC · ответ
 
-RT @DAHHEADBOY: the scary part is that crypto isn't immune yet. same math family breaks ECDSA, so every exposed pubkey becomes a target
+@Leonis237 Time to catch up
 
-it…
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 192  
+https://x.com/0xSammy/status/2126237795106852929
 
-❤ 0 · 🔁 3 · 💬 0 · цитат 0 · просмотров 3272  
-https://x.com/0xSammy/status/2125868115825172581
+## 2026-11-27 09:05 UTC · репост
 
-## 2026-11-26 08:25 UTC · ответ
+RT @profitbykarim: Let's go 📈📈📈 AI is the worst it'll ever be, love that. Already seeing it in credit scoring and KYC automation, next 12 m…
 
-@Zeneca I remember this, it also just drove up house prices on eligible properties
+❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 3341  
+https://x.com/0xSammy/status/2126240982954021327
 
-❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 425  
-https://x.com/0xSammy/status/2125868421006885117
+## 2026-11-27 09:08 UTC · ответ
 
-## 2026-11-26 08:26 UTC · ответ
+@Evan_ss6 😂
 
-@Zeneca @jesusislord End of an era 
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 310  
+https://x.com/0xSammy/status/2126241800197382493
 
-Kudos for sticking at it for so long ser
+## 2026-11-27 09:10 UTC · ответ
 
-❤ 4 · 🔁 0 · 💬 0 · цитат 0 · просмотров 734  
-https://x.com/0xSammy/status/2125868716839641445
+@brian_armstrong Banger
 
-## 2026-11-26 08:33 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 448  
+https://x.com/0xSammy/status/2126242216251117964
 
-@ArtofConviction Trauma bonding was kinda fun haha
+## 2026-11-27 13:15 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 293  
-https://x.com/0xSammy/status/2125870547431043210
+@CryptoKage 😂
 
-## 2026-11-26 08:33 UTC · ответ
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 146  
+https://x.com/0xSammy/status/2126304010647052447
 
-@NotSoEasyMoney 😂😂
+## 2026-11-27 13:16 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 325  
-https://x.com/0xSammy/status/2125870653953962239
+@DimkatG Could be pretty divisive
 
-## 2026-11-26 08:34 UTC · ответ
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 159  
+https://x.com/0xSammy/status/2126304068629082211
 
-@OldSchoolRS Banger
+## 2026-11-27 13:39 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1001  
-https://x.com/0xSammy/status/2125870776691610052
+@BBCBreaking Did they delete the U.K. pension records? 
 
-## 2026-11-26 11:00 UTC · ответ
+It’s not as if people have been paying into this their entire life
 
-@EddiSpaghetto Yeah precisely
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 898  
+https://x.com/0xSammy/status/2126309926452818333
 
-Time to prep 😂
+## 2026-11-27 13:43 UTC · ответ
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 221  
-https://x.com/0xSammy/status/2125907445838950503
+@onchainmo Ha I did this with Moon Boots
 
-## 2026-11-26 18:01 UTC · ответ
+Emptied the stock in Sports Direct for £4.99 each and sold them on eBay for £15 a pop 
 
-@saintniko Lmao
+Information arbitrage in the early 2000s
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 249  
-https://x.com/0xSammy/status/2126013563953099013
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 1545  
+https://x.com/0xSammy/status/2126310929575166023
 
-## 2026-11-26 18:13 UTC · ответ
+## 2026-11-27 13:43 UTC · ответ
 
-@waleswoosh Still time? 😬
+@Pentosh1 Gm
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 217  
-https://x.com/0xSammy/status/2126016509537571188
-
-## 2026-11-26 18:14 UTC · ответ
-
-@icobeast Fuck man, lost so much money on that era
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 364  
-https://x.com/0xSammy/status/2126016767344390146
-
-## 2026-11-26 22:09 UTC · ответ
-
-@redcrabguy What if they remove the max cap on red crabs like they’re doing for the max cash stack? 👀
-
-❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 333  
-https://x.com/0xSammy/status/2126075859794894967
-
-## 2026-11-27 01:45 UTC · репост
-
-RT @haitzu: When your AI agent makes a transaction, who has the liability?
-
-On our latest Khala episode, I sat down with @xcolwell, founder…
-
-❤ 0 · 🔁 6 · 💬 0 · цитат 0 · просмотров 2331  
-https://x.com/0xSammy/status/2126130306390323204
-
-## 2026-11-27 01:45 UTC · ответ
-
-@haitzu @xcolwell @josercaldera 🔥
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 144  
-https://x.com/0xSammy/status/2126130354700632185
-
-## 2026-11-27 02:00 UTC · цитата
-
-Mark your calendars for July 2027.
-
-Pretty insane slide deck… well worth watching (yes, it’s a video slide deck!) to see the sheer scale of how fast AI accelerates over the next 6-12 months
-
-Crazy to think AI is the worst it’ll ever be in history, might as well embrace it! https://t.co/TyHlsMHx8L https://t.co/ypgJb1qzCJ
-
-❤ 13 · 🔁 1 · 💬 4 · цитат 0 · просмотров 3641  
-https://x.com/0xSammy/status/2126134035470545325
-
-## 2026-11-27 02:03 UTC · ответ
-
-@imperooterxbt Unless he’s putting on a South African accent, it ain’t the British James Wynn
-
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 259  
-https://x.com/0xSammy/status/2126134878584369627
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 608  
+https://x.com/0xSammy/status/2126310987573932328

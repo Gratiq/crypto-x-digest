@@ -1,0 +1,77 @@
+[
+ {
+  "id": "2126223949831049604",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "original",
+  "created_at": "2026-11-27T07:57:47.000Z",
+  "text": "Think there was a vibe shift just now👀",
+  "url": "https://x.com/hansolar21/status/2126223949831049604",
+  "likes": 111,
+  "retweets": 1,
+  "replies": 9,
+  "quotes": 2,
+  "impressions": 9311,
+  "bookmarks": 3
+ },
+ {
+  "id": "2126255788218106358",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "quote",
+  "created_at": "2026-11-27T10:04:18.000Z",
+  "text": "Perp funding is a mechanism to incentivize price convergence.\n\nSwap funding is a direct cost of financing exposure to the underlying.\n\nThis distinction allows funding to more closely reflect actual interest rates (5% annualized on Variational), making longer-term positions https://t.co/9kbPpYPlvK",
+  "url": "https://x.com/hansolar21/status/2126255788218106358",
+  "likes": 121,
+  "retweets": 5,
+  "replies": 9,
+  "quotes": 0,
+  "impressions": 6988,
+  "bookmarks": 11,
+  "referenced": {
+   "type": "quoted",
+   "id": "2125765595245207593",
+   "text": "Why don’t we lower the funding rate according to real short term interest rates? \n\nWhy is funding pegged to 13% annualized when STIR are 3.75%?\n\nPerps market structure improves considerably in its viability for long timeframe longs."
+  }
+ },
+ {
+  "id": "2126314475720786255",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-27T13:57:30.000Z",
+  "text": "@0xThoor Appreciate it!",
+  "url": "https://x.com/hansolar21/status/2126314475720786255",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 176,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126312778323402806",
+   "text": "@hansolar21 great read!"
+  }
+ },
+ {
+  "id": "2126462901028630736",
+  "username": "hansolar21",
+  "username_canon": "hansolar21",
+  "type": "reply",
+  "created_at": "2026-11-27T23:47:18.000Z",
+  "text": "@influflender Swaps are not perps, they are different kinds of derivatives",
+  "url": "https://x.com/hansolar21/status/2126462901028630736",
+  "likes": 0,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 87,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126418744406909063",
+   "text": "@hansolar21 With funding pinned near 5%, what pulls the perp back to spot when one side gets crowded, a wider spread or the liquidity providers' inventory risk?"
+  }
+ }
+]

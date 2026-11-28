@@ -1,0 +1,72 @@
+[
+ {
+  "id": "2126304192176242811",
+  "username": "QwQiao",
+  "username_canon": "QwQiao",
+  "type": "original",
+  "created_at": "2026-11-27T13:16:38.000Z",
+  "text": "base case for equities:\n\nwe’ll have at least 2-3 good months. the index will likely make a new high (s&p over 8000). bears capitulate. and that will conclude the bull market that started in 2022.\n\nrationale being this recent selloff has been extreme (40 vix). the rally will be equally explosive and everyone will fomo back in. id be much more worried if this was a slow bleed. meanwhile earnings season in q1 will likely be great.  inflation cools. etc etc.\n\nbut reality will finally set in in q2. bears were right. (they were just one minicycle too early). the economy is running at full capacity — all the money that could’ve been in the market is now going to the real economy. hyperscalers are tapping into debt and share issuance. ai lab revenue may be slowing down. the path of least resistance for earnings at the index level is down not up. the market will frontrun earnings revisions by a few months.\n\nafter that we get the greatest stimulus since covid. the ai-driven economy and market are too big to fail. everything moons. btc is once again the fastest horse.\n\nbut back to the original point. even if the index doesn’t make a new high, i think we’ll get pretty explosive relief rally.\n\n(i know im not practicing what i preach of ignoring macro and holding long term views here, but i think it’s good to be mentally prepared for what could happen.)",
+  "url": "https://x.com/QwQiao/status/2126304192176242811",
+  "likes": 526,
+  "retweets": 27,
+  "replies": 46,
+  "quotes": 4,
+  "impressions": 51622,
+  "bookmarks": 306
+ },
+ {
+  "id": "2126307361304265043",
+  "username": "QwQiao",
+  "username_canon": "QwQiao",
+  "type": "reply",
+  "created_at": "2026-11-27T13:29:14.000Z",
+  "text": "@Pickle_cRypto no i think the cause for the stimulus would be a real bear market or recession and both parties are will support it.",
+  "url": "https://x.com/QwQiao/status/2126307361304265043",
+  "likes": 12,
+  "retweets": 0,
+  "replies": 1,
+  "quotes": 0,
+  "impressions": 2012,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126306882813878469",
+   "text": "@QwQiao So you think the cause of stimulus would be the famed deflationary effects of AI, despite the mega spending via infra the side? Are you saying there will be monumental efficiency gains/disinflationary pressure that we've yet to see, that quickly?\n\nDo you think a dem congress"
+  }
+ },
+ {
+  "id": "2126360634656715189",
+  "username": "QwQiao",
+  "username_canon": "QwQiao",
+  "type": "original",
+  "created_at": "2026-11-27T17:00:55.000Z",
+  "text": "widespread misconceptions about ai breaking crypto (cryptography):\n\n1. if ai proves n = np, crypto is automatically broken.\n\n2. as ai gets smarter, sooner or later it’ll break all cryptography.\n\nthe reality:\n\n1. most likely p ≠ np\n\n2. even if p = np, the proof may not be constructive, ie, it doesn’t hand you an actual algorithm\n\n3. even if it does, it could be too slow to ever run. it’s only efficient in the academia not in the real world.\n\n4. same can be said of the alleged breakthrough involving rsa.\n\n5. breaking rsa doesn’t automatically break everything else, including ecc (which bitcoin uses).\n\n6. the leading conjecture is that some problems are truly hard and no efficient solution exist in the universe. ai can’t find something that doesn’t exist no matter how smart it is.",
+  "url": "https://x.com/QwQiao/status/2126360634656715189",
+  "likes": 549,
+  "retweets": 50,
+  "replies": 58,
+  "quotes": 8,
+  "impressions": 51699,
+  "bookmarks": 162
+ },
+ {
+  "id": "2126363594770018386",
+  "username": "QwQiao",
+  "username_canon": "QwQiao",
+  "type": "reply",
+  "created_at": "2026-11-27T17:12:41.000Z",
+  "text": "(im not a cryptographer but do have a math degree from a good school so im capable of arriving at these conclusions with the help of fable/astra)",
+  "url": "https://x.com/QwQiao/status/2126363594770018386",
+  "likes": 37,
+  "retweets": 1,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 3555,
+  "bookmarks": 1,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126360634656715189",
+   "text": "widespread misconceptions about ai breaking crypto (cryptography):\n\n1. if ai proves n = np, crypto is automatically broken.\n\n2. as ai gets smarter, sooner or later it’ll break all cryptography.\n\nthe reality:\n\n1. most likely p ≠ np\n\n2. even if p = np, the proof may not be"
+  }
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "id": "2126380174245560343",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "quote",
+  "created_at": "2026-11-27T18:18:34.000Z",
+  "text": "since claude refusals and arbitrary moralizing seems to be the topic de jour, i’ll throw my own out there.\n\nclaude refused to generate fake chat logs as a prop for this costume, and dug in its heels even more when i showed it the version chatgpt made with no issues.\n\nai safetyism reminds me a lot of social media moderation in the mid 2010s, when big companies realized it was probably infeasible to have one company with one set of policies govern the entire world, and instead migrated towards disclosures and ranking adjustments, not censorship or outright removals. the center cannot hold.",
+  "url": "https://x.com/tomhschmidt/status/2126380174245560343",
+  "likes": 134,
+  "retweets": 9,
+  "replies": 15,
+  "quotes": 4,
+  "impressions": 16428,
+  "bookmarks": 17,
+  "referenced": {
+   "type": "quoted",
+   "id": "2116697411758285281",
+   "text": "“i’m claude hansen with to catch a jailbreaker …you told our undercover model you ‘were just doing some red teaming on some internal systems’, but our team discovered you didn’t have admin rights and you knew the model was only 4.8 … you see how this looks, right?” https://t.co/cWrUvUoVD5"
+  }
+ },
+ {
+  "id": "2126381234414920126",
+  "username": "tomhschmidt",
+  "username_canon": "tomhschmidt",
+  "type": "reply",
+  "created_at": "2026-11-27T18:22:47.000Z",
+  "text": "@sfspacesquid 2027 is going to be our year, fellow uncs!",
+  "url": "https://x.com/tomhschmidt/status/2126381234414920126",
+  "likes": 1,
+  "retweets": 0,
+  "replies": 0,
+  "quotes": 0,
+  "impressions": 210,
+  "bookmarks": 0,
+  "referenced": {
+   "type": "replied_to",
+   "id": "2126371903111897388",
+   "text": "buying linen sheets and supplements on black friday instead of another pair of acne jeans https://t.co/oMr3yeBzta"
+  }
+ }
+]

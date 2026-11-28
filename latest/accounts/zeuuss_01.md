@@ -1,38 +1,35 @@
-# @zeuuss_01 — посты за 2026-11-27
+# @zeuuss_01 — посты за 2026-11-28
 
 Всего: 1
 
-## 2026-11-27 02:10 UTC · цитата
+## 2026-11-27 15:24 UTC · цитата
 
-No f*cking way… a guy is farming millions of views on GTA 6 before Rockstar even released it 🤯
+F*cking crazy… one AI cat video just hit 65.4M views 🤯
 
-→ 15 videos
-→ 16.7K subs
-→ 18M+ views on just 6 Shorts
-→ 5.6M on a single one
+→ 75 posts
+→ 502K followers
+→ a course sold from the link in bio
 
-He doesn't stream and he doesn't do skits. 
+There are only two characters: Molly and her cat, Mr. Wobble. 
 
-He just posts guides: "5 things you can do", "police system", "$40,000 in 1 minute". 
+Every video shows the same cat with the same blue bandana in the same cozy apartment.
 
-Simple titles, a huge GTA logo on every cover, and a payoff in the first second.
+That's the whole trick. 
 
-So I recreated the format myself in one chat with Claude Code x Higgsfield.
+People recognize Mr. Wobble in the first second, stop scrolling and watch till the end, so the algorithm keeps pushing every new video to more people.
 
-Here's the whole workflow:
+The stories are tiny everyday moments: she's working and he demands attention, she's in the bathroom and he's waiting at the door, she's sleeping and he wakes her up. 
 
-→ Claude Code finds the GTA 6 topics people are searching for right now
-→ It writes the script with a hook in the first 2 seconds
-→ Higgsfield generates the gameplay-style scenes and the voiceover
-→ Claude Code adds the captions, the cover and the final edit
+Nothing happens, and that's exactly why it works, because every cat owner has lived it.
 
-I didn't record a single clip, touch an editing app or say a word into a mic, and you can see the result in the video below 
+Here's how to make the same format:
 
-GTA 6 is going to be the biggest launch of the decade, and everyone searching for it is a potential viewer. 
+→ Create one character sheet for your owner and your pet, and reuse it in every scene
+→ Let Claude write a 6–8 scene micro story from one everyday moment
+→ Generate the scenes in a 3D animated style with the same characters every time
+→ Animate them in Higgsfield and add one emotional sound at the end
 
-The channels that start now will already have the audience when it drops.
+Your audience will come back for the character, not for the topic, and you'll never run out of ideas because every day with a pet is a new episode.
 
-Comment "GTA" and I'll send you the full workflow for free 👇
-
-❤ 5 · 🔁 0 · 💬 0 · цитат 0 · просмотров 1081  
-https://x.com/zeuuss_01/status/2126136437963984916
+❤ 93 · 🔁 11 · 💬 2 · цитат 0 · просмотров 8162  
+https://x.com/zeuuss_01/status/2126336396700819544

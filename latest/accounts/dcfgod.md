@@ -1,25 +1,32 @@
-# @dcfgod — посты за 2026-11-27
+# @dcfgod — посты за 2026-11-28
 
-Всего: 2
+Всего: 3
 
-## 2026-11-26 20:35 UTC · репост
+## 2026-11-27 19:25 UTC · цитата
 
-RT @DeFiVoyager_X: Record amount of money spent on ethereum:0xb1d1eae60eea9525032a6dcb4c1ce336a1de71be buybacks last week. https://t.co/gOu…
+Derive and dream consistently #1 and #2 
 
-❤ 0 · 🔁 1 · 💬 0 · цитат 0 · просмотров 1329  
-https://x.com/dcfgod/status/2126052171510886454
+That’s why we got both 
 
-## 2026-11-27 02:58 UTC · репост
+Options cycle going strong, doesn’t matter if prices are up or down 
 
-RT @DeriveXYZ: Now live on Derive:
+As long as the markets are volatile we expect these projects to crush https://t.co/x8QIk4O9dX
 
-$NVDA: NVIDIA
-$WTI: crude oil
-$US100: Nasdaq 100
-$US500: S&amp;P 500
-$ANT (Anthropic)
+❤ 88 · 🔁 3 · 💬 13 · цитат 0 · просмотров 7092  
+https://x.com/dcfgod/status/2126397141447069780
 
-Options and perps, 2…
+## 2026-11-27 19:34 UTC · репост
 
-❤ 0 · 🔁 9 · 💬 0 · цитат 0 · просмотров 1031  
-https://x.com/dcfgod/status/2126148575545676155
+RT @OAK_Res: Is @derivexyz about to have its HIP-3 moment? At least, that's what we think.
+
+Last week, the largest onchain options venue la…
+
+❤ 0 · 🔁 4 · 💬 0 · цитат 0 · просмотров 1350  
+https://x.com/dcfgod/status/2126399341468516446
+
+## 2026-11-28 01:30 UTC · ответ
+
+@koeppelmann @CoWSwap Great idea
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 306  
+https://x.com/dcfgod/status/2126488854039572932

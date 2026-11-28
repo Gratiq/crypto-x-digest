@@ -1,120 +1,196 @@
-# @Route2FI — посты за 2026-11-27
+# @Route2FI — посты за 2026-11-28
 
-Всего: 11
+Всего: 25
 
-## 2026-11-26 09:17 UTC · ответ
+## 2026-11-27 09:07 UTC · ответ
 
-@lucainweb3 @Ondo 🥰
+@benjii wdym ser
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 112  
-https://x.com/Route2FI/status/2125881688744177730
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 762  
+https://x.com/Route2FI/status/2126241466033045968
 
-## 2026-11-26 14:27 UTC · пост
+## 2026-11-27 09:11 UTC · ответ
 
-The Bitcoin ETFs lost about $450 million on Wednesday, a 7th straight day of outflows.
+@benjii Yeah, this is what I did!
 
-November is now around $5.4 billion in net withdrawals, already the worst month on record with a few sessions left.
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 223  
+https://x.com/Route2FI/status/2126242580967117068
 
-Assets in the funds have fallen to about $72 billion, down from $104
+## 2026-11-27 10:22 UTC · ответ
 
-❤ 176 · 🔁 7 · 💬 15 · цитат 0 · просмотров 12060  
-https://x.com/Route2FI/status/2125959513379401761
+@avgcryptoguy Send addy
 
-## 2026-11-26 14:46 UTC · ответ
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 448  
+https://x.com/Route2FI/status/2126260341697040740
 
-@zkTuring Heheh...but real though?
+## 2026-11-27 10:22 UTC · ответ
 
-❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 292  
-https://x.com/Route2FI/status/2125964466357674383
+@pinkpunks_ Huh?
 
-## 2026-11-26 16:22 UTC · пост
+❤ 0 · 🔁 0 · 💬 1 · цитат 0 · просмотров 387  
+https://x.com/Route2FI/status/2126260490531975264
 
-You don't always have to be in a trade.
+## 2026-11-27 10:23 UTC · ответ
 
-Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
+@maruushae Yes ser
 
-Nice not feeling forced to trade just because the market is open, IMO.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 523  
+https://x.com/Route2FI/status/2126260549902278705
 
-Ngl, 6% in this market while everything is down
+## 2026-11-27 10:29 UTC · ответ
 
-❤ 4 · 🔁 1 · 💬 0 · цитат 0 · просмотров 4774  
-https://x.com/Route2FI/status/2125988688379187382
+@pinkpunks_ @jonah_yemane all right buddy, send me the source
 
-## 2026-11-26 16:24 UTC · пост
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 99  
+https://x.com/Route2FI/status/2126262191389085976
 
-You don't always have to be in a trade.
+## 2026-11-27 10:29 UTC · ответ
 
-Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
+@avgcryptoguy sending now ser
 
-Nice not feeling forced to trade just because the market is open, IMO.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 161  
+https://x.com/Route2FI/status/2126262231939584269
 
-Ngl, 6% in this market while everything is down https://t.co/CLeBQaljbm
+## 2026-11-27 10:33 UTC · ответ
 
-❤ 14 · 🔁 1 · 💬 6 · цитат 0 · просмотров 17174  
-https://x.com/Route2FI/status/2125989008735953198
+@0xNapalm as everyone else I have no idea
 
-## 2026-11-26 16:41 UTC · пост
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 227  
+https://x.com/Route2FI/status/2126263113809113174
 
-You don't always have to be in a trade.
+## 2026-11-27 10:33 UTC · ответ
 
-Right now I'm mostly waiting for better setups, and sitting in cash in my Phantom wallet gets 6% APY while I wait.
+@TimStone84 yeah RIP thanks
 
-Nice not feeling forced to trade just because the market is open, IMO.
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 449  
+https://x.com/Route2FI/status/2126263160969867278
 
-Ngl, 6% in this market while everything is down https://t.co/j1w9q9sMND
+## 2026-11-27 10:34 UTC · ответ
 
-❤ 135 · 🔁 4 · 💬 10 · цитат 0 · просмотров 25755  
-https://x.com/Route2FI/status/2125993424314876256
+@LesGohhh no worries
 
-## 2026-11-26 19:05 UTC · цитата
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 352  
+https://x.com/Route2FI/status/2126263333204705756
 
-Yesterday: a forward curve for where compute prices are headed.
+## 2026-11-27 10:34 UTC · ответ
 
-Today: a 24/7 perp on the actual hourly price of an H100.
+@andyyy what is atta ser
 
-We’re watching a completely new financial market get built in real time around the core input of the AI economy. https://t.co/UNsWUkl0Ai
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 475  
+https://x.com/Route2FI/status/2126263419753886157
 
-❤ 205 · 🔁 6 · 💬 9 · цитат 1 · просмотров 26431  
-https://x.com/Route2FI/status/2126029665160859864
+## 2026-11-27 10:41 UTC · ответ
 
-## 2026-11-26 20:17 UTC · цитата
+@andyyy @grok nice one hah
 
-Everyone in the quotes and comments section is calling this hell or depression, IMO, they're missing the point.
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 214  
+https://x.com/Route2FI/status/2126265260172800337
 
-Some people genuinely love being that locked in. Pure tunnel vision on one thing while everything else fades into the background. When you're in a phase like that, it doesn't feel like deprivation, it feels weirdly fulfilling.
+## 2026-11-27 10:42 UTC · ответ
 
-It's definitely not for everyone, and you don't do it forever, but I can relate to this a lot. Sacrificing almost everything else to make it back in the day is the only reason I got anywhere myself. Neglected my health, didn't meet anyone, was inside the house 5 out of 7 days every week, lost my GF because I wasn't "there", sleeping issues, severe dizziness ++. Was in a weird state tbh, but I slowly came back to a normal life again during 2025. It's easy to say I wouldn't do it over again, but I know myself well enough that this obsession might come back in some form. Maybe not with crypto this time, but it could be something else.
+@letjaybuild did you close the bnb trade yet btw?
 
-❤ 286 · 🔁 9 · 💬 10 · цитат 0 · просмотров 29007  
-https://x.com/Route2FI/status/2126047687229223063
+❤ 2 · 🔁 0 · 💬 1 · цитат 0 · просмотров 723  
+https://x.com/Route2FI/status/2126265376355078334
 
-## 2026-11-26 20:31 UTC · ответ
+## 2026-11-27 10:51 UTC · ответ
 
-@WillBeaumontt nice one
+@x509dot it will be a lot unfortunately
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 212  
-https://x.com/Route2FI/status/2126051187287867492
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 168  
+https://x.com/Route2FI/status/2126267722379968633
 
-## 2026-11-26 22:01 UTC · ответ
+## 2026-11-27 11:05 UTC · ответ
 
-@rektdiomedes fully agree
+@tradeguru will do ser
 
-❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 292  
-https://x.com/Route2FI/status/2126073865101263301
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 234  
+https://x.com/Route2FI/status/2126271132416532975
 
-## 2026-11-27 07:19 UTC · пост
+## 2026-11-27 11:46 UTC · пост
 
-Epoch 6 points are out for @TxFlow_L1. 1.25M points went to 4,700 accounts.
+Decided to delete that withdrawal post. It came off as way too flexy for my liking, and I got some DMs recommending I take it down for privacy reasons (wrench attacks, etc.).
 
-The numbers are holding up well too, even in a rough market: TVL is sitting at $47M (up 23% over the last 30 days). 30-day perp volume hit $6.2B, taking cumulative volume past $17.1B.
+❤ 135 · 🔁 3 · 💬 33 · цитат 0 · просмотров 22635  
+https://x.com/Route2FI/status/2126281441017262264
 
-On the product side, they just launched TxEVM on testnet (Phase 2 of the roadmap) + slippage-capped market orders, and the iOS app went live this week too.
+## 2026-11-27 11:53 UTC · ответ
 
-They keep listing new stuff all the time: perps, spot, TradFi, pre IPO, and pre-market tokens.
+@cjhmode yep. pros and cons with everything.
 
-My ref link if you want 5% off fees and a points boost: https://t.co/HDoXVethlP
+❤ 2 · 🔁 0 · 💬 0 · цитат 0 · просмотров 993  
+https://x.com/Route2FI/status/2126283384788062423
 
-Referral code: TXROUTE2FI
+## 2026-11-27 11:57 UTC · ответ
 
-❤ 7 · 🔁 2 · 💬 1 · цитат 0 · просмотров 3690  
-https://x.com/Route2FI/status/2126214316286194029
+@Octop3s thanks boss
+
+❤ 0 · 🔁 0 · 💬 0 · цитат 0 · просмотров 740  
+https://x.com/Route2FI/status/2126284389944578204
+
+## 2026-11-27 12:01 UTC · ответ
+
+@insomniac988 thanks for just saying the truth :)
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 647  
+https://x.com/Route2FI/status/2126285258802835794
+
+## 2026-11-27 12:37 UTC · ответ
+
+@pedma7 thank you.
+
+been enjoying your account lately. keep it up! https://t.co/OM5E7ezDWR
+
+❤ 3 · 🔁 0 · 💬 1 · цитат 0 · просмотров 762  
+https://x.com/Route2FI/status/2126294391325090150
+
+## 2026-11-27 12:42 UTC · ответ
+
+@pedma7 Appreciate it brother 🤗
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 193  
+https://x.com/Route2FI/status/2126295579844382820
+
+## 2026-11-27 14:32 UTC · ответ
+
+@letjaybuild 👏👏
+
+❤ 1 · 🔁 0 · 💬 0 · цитат 0 · просмотров 119  
+https://x.com/Route2FI/status/2126323342642729374
+
+## 2026-11-27 15:29 UTC · цитата
+
+If you're doing any Black Friday shopping over the next 4 days, Plasma One is running an extra 1% cashback on top of your base rate, completely uncapped. For many people that means 5% off on everything.
+
+Even outside of Black Friday there's a lot packed into the card tbh:
+- Up to 4% base cashback
+- 0% FX fees
+- Basically free AI tools
+- Unlimited access to 1,800+ airport lounges
+- $600 in airline credits
+- Free travel and rental insurance
+
+If you sign up with my ref link:
+- Get $10 free if you spend $100
+- Get $200 free if you spend $10k
+
+https://t.co/CuPbp5R8IS
+
+❤ 238 · 🔁 3 · 💬 3 · цитат 0 · просмотров 15436  
+https://x.com/Route2FI/status/2126337643495489969
+
+## 2026-11-27 15:33 UTC · ответ
+
+@jords Feel free to share a reading list
+
+❤ 1 · 🔁 0 · 💬 1 · цитат 0 · просмотров 581  
+https://x.com/Route2FI/status/2126338580670828614
+
+## 2026-11-27 17:57 UTC · пост
+
+$BTC ran up toward $62k this morning, then faded back under $60k once the US markets opened.
+
+Thin holiday session, but still, the fact that we couldn't hold the bounce is a bit annoying.
+
+❤ 233 · 🔁 4 · 💬 22 · цитат 1 · просмотров 14312  
+https://x.com/Route2FI/status/2126374807457636841

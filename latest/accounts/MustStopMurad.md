@@ -1,87 +1,100 @@
-# @MustStopMurad — посты за 2026-11-27
+# @MustStopMurad — посты за 2026-11-28
 
 Всего: 9
 
-## 2026-11-26 07:51 UTC · пост
+## 2026-11-27 08:32 UTC · пост
 
-For most Cryptoassets, 100 people join during a bull market, and 97 leave during a bear market.
+Every time Crypto (and TradFi) prices go down, I get more EXCITED, for the following reasons:
 
-For *special* Cryptoassets, 100 people join during a bull market, and only 75 leave during a bear market. 
+(1) We necessarily get rid of the non-believers which, definitionally, make the future Parabola bigger by eliminating fragile deadweight.
 
-Pay attention to the second kind.
+(2) Allow die-hard, diamond-handed believers to accumulate more coins at cheaper prices whose internal targets are much higher than those from group (1), ultimately resulting in a greater % of coins ending up in the hands of True Believers.
 
-Seems like not a big difference on the
+(3) In a Darwinian fashion, bear markets eliminate coins that weren't going to make it to the next cycle, eventually forcing the market to re-focus on the coins that manage to survive. Simultaneously, this acts as an opportunity for the truly Persistent to once again prove their Persistence. Trial by fire. You can't fake effort based on Time. As a positive side effect, this also strengthens the bonds inside of the strongest communities for obvious reasons.
 
-❤ 645 · 🔁 106 · 💬 102 · цитат 6 · просмотров 40521  
-https://x.com/MustStopMurad/status/2125859903256326238
+(4) Each additional up and down cycle makes it clearer which assets have Product Market Fit in Crypto, and which do not, allowing us to double down on what does.
 
-## 2026-11-26 10:08 UTC · репост
+(5) As TradFi asset prices drop, we get ever so closer to a point where authorities are more likely to intervene with some combination of {Cutting / Printing / Easing / Buying} - a regime where Crypto as an asset class historically *thrives* the most.
 
-RT @Ramderresse: Another massive DCA, being consistent for almost 2 years with buying up all the supply of SPX6900.
+❤ 592 · 🔁 147 · 💬 82 · цитат 9 · просмотров 40240  
+https://x.com/MustStopMurad/status/2126232590533132359
 
-There is nothing in cr…
+## 2026-11-27 10:30 UTC · репост
 
-❤ 0 · 🔁 32 · 💬 0 · цитат 0 · просмотров 23459  
-https://x.com/MustStopMurad/status/2125894502414184600
+RT @archm1chael: everything that changes the world starts out looking like a toy that only mavens and geeks are willing to play with 
+ 
+the…
 
-## 2026-11-26 11:07 UTC · пост
+❤ 0 · 🔁 13 · 💬 0 · цитат 0 · просмотров 22840  
+https://x.com/MustStopMurad/status/2126262368308965612
 
-Flushes are not just needed, they are desirable.
-The more unbelievers we leave behind here, the more relentless the Parabolic Ascent later.
+## 2026-11-27 11:20 UTC · пост
 
-❤ 671 · 🔁 118 · 💬 93 · цитат 9 · просмотров 38652  
-https://x.com/MustStopMurad/status/2125909371401961865
+Crypto is a blessing for those who think long-term 
 
-## 2026-11-26 12:14 UTC · репост
+and a curse for those who think short-term
 
-RT @Matthew_C_Beck: People are dramatically underestimating cryptos exposure and sensitivity to debasement and the associated returns that…
+❤ 1341 · 🔁 217 · 💬 216 · цитат 28 · просмотров 58075  
+https://x.com/MustStopMurad/status/2126274868220248472
 
-❤ 0 · 🔁 80 · 💬 0 · цитат 0 · просмотров 23135  
-https://x.com/MustStopMurad/status/2125926281627729972
+## 2026-11-27 12:29 UTC · репост
 
-## 2026-11-26 13:50 UTC · пост
+RT @heehah: The way we engage with finance, technology, information, and each other, is quickly becoming one in the same process.
 
-Those who accept that transforming their life takes years, have transformed their life the moment they accepted this.
+SPX6900…
 
-In the meantime, everyone else will spend much longer trying to transform their life in one day and fail.
+❤ 0 · 🔁 19 · 💬 0 · цитат 0 · просмотров 22147  
+https://x.com/MustStopMurad/status/2126292249164083600
 
-Slow and Steady always wins.
+## 2026-11-27 13:34 UTC · пост
 
-Peaceful Life Over Greed
+People think that peak Bull Market is when you have to “lock in”
 
-❤ 617 · 🔁 116 · 💬 90 · цитат 12 · просмотров 37244  
-https://x.com/MustStopMurad/status/2125950204452950505
+Wrong.
 
-## 2026-11-26 14:58 UTC · репост
+It’s right now.
 
-RT @GrillapeTRW: We have 100 guests confirmed for #SPX6900  art Basel 
+❤ 1146 · 🔁 151 · 💬 165 · цитат 23 · просмотров 49382  
+https://x.com/MustStopMurad/status/2126308705243107583
 
-Looks like we will have a big event ! https://t.co/pZ6rbXmzMU
+## 2026-11-27 16:27 UTC · репост
 
-❤ 0 · 🔁 49 · 💬 0 · цитат 0 · просмотров 22021  
-https://x.com/MustStopMurad/status/2125967439867392205
+RT @GhostOfTanzCho: “Bitcoin for another generation.”
 
-## 2026-11-26 16:05 UTC · пост
+New cultural cohorts begin every 15 to 18 years.
 
-The coming Bull Run will be Glorious.
+Bitcoin was launched in 2009.
 
-But now is when that Glory is earned.
+14-…
 
-❤ 1486 · 🔁 168 · 💬 172 · цитат 23 · просмотров 56365  
-https://x.com/MustStopMurad/status/2125984189044740452
+❤ 0 · 🔁 39 · 💬 0 · цитат 0 · просмотров 21502  
+https://x.com/MustStopMurad/status/2126352125819248810
 
-## 2026-11-26 17:11 UTC · репост
+## 2026-11-27 16:53 UTC · пост
 
-RT @aeonbro: wow what a plognificent day
+What if AGI comes, but instead of life getting better for everyone, it gets +200% better for the top 5% and -60% worse for the bottom 95%?
 
-onboarded my hunting buddy with a @CaptainVess gift card and showed him around coinbase to start…
+❤ 526 · 🔁 76 · 💬 107 · цитат 8 · просмотров 42829  
+https://x.com/MustStopMurad/status/2126358649492910244
 
-❤ 0 · 🔁 22 · 💬 0 · цитат 0 · просмотров 21988  
-https://x.com/MustStopMurad/status/2126000918642536637
+## 2026-11-27 19:26 UTC · репост
 
-## 2026-11-26 19:14 UTC · пост
+RT @FlipStockMarket: The gang is back w/ a pre-Thanksgiving episode.
 
-The difference between spx6900 and everything else, is that what we are doing, is going to set us up for life.
+BTC &amp; SPX6900: not the rivals you think.
 
-❤ 629 · 🔁 121 · 💬 77 · цитат 16 · просмотров 34012  
-https://x.com/MustStopMurad/status/2126031911713964534
+https://t.co/pXZ5xx1PxA
+
+❤ 0 · 🔁 50 · 💬 0 · цитат 0 · просмотров 19250  
+https://x.com/MustStopMurad/status/2126397321072017853
+
+## 2026-11-27 20:18 UTC · пост
+
+Strongest Memes ever invented:
+
+Dollar
+Bitcoin
+SPX6900
+
+❤ 865 · 🔁 157 · 💬 138 · цитат 17 · просмотров 37943  
+https://x.com/MustStopMurad/status/2126410433011868133
